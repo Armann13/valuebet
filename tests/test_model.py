@@ -289,6 +289,11 @@ def test_tavsiye_markets():
     assert p["MS 1 & KG Var"] <= min(p["MS 1"], p["KG Var"])
     c = market_probs(calibrate(m, (0.40, 0.30, 0.30)))  # piyasaya ayarlı: 1X2 toplamları hedefle aynı
     assert abs(c["MS 1"] - 0.40) < 1e-9 and abs(c["MS X"] - 0.30) < 1e-9 and abs(c["MS 2"] - 0.30) < 1e-9
+    c = market_probs(calibrate(m, (0.40, 0.30, 0.30), (0.55, 0.45)))  # 1X2 + alt/üst birlikte
+    assert abs(c["MS 1"] - 0.40) < 1e-6 and abs(c["2.5 Üst"] - 0.55) < 1e-6
+    from src.tavsiye import bet_won
+    assert bet_won("MS 1 & KG Var", 2, 1) and not bet_won("MS 1 & KG Var", 2, 0)
+    assert bet_won("ÇŞ X-2", 1, 1) and bet_won("2.5 Alt", 1, 1) and bet_won("1-1", 1, 1) and not bet_won("2-0", 2, 1)
 
 
 def test_xg_fit():
@@ -427,6 +432,9 @@ def test_end_to_end():
     r = run("main.py", "tavsiye", "--fixtures", fixtures)
     assert r.returncode == 0, r.stderr
     assert all(s in r.stdout for s in ("Tier 1", "Tier 5", "Değeri pozitif")), r.stdout[-1500:]
+    r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma
+    assert r.returncode == 0, r.stderr
+    assert "Sonuç özeti" in r.stdout and ("✅" in r.stdout or "❌" in r.stdout), r.stdout[-1500:]
     shutil.rmtree(tmp, ignore_errors=True)
 
 

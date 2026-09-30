@@ -151,9 +151,11 @@ def cmd_tavsiye(args):
 
     from src import tavsiye
     md = tavsiye.run(Path(args.fixtures) if args.fixtures else config.RAW_DIR / "fixtures.csv", xi=args.xi,
-                     ridge=args.ridge, ridge_total=args.ridge_total, joint=args.joint, motivation=args.motivation)
+                     ridge=args.ridge, ridge_total=args.ridge_total, joint=args.joint, motivation=args.motivation,
+                     as_of=args.prova, days=args.gun)
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
-    out = config.REPORTS_DIR / f"tavsiye_{time.strftime('%Y-%m-%d')}.md"
+    name = f"tavsiye_prova_{args.prova}" if args.prova else f"tavsiye_{time.strftime('%Y-%m-%d')}"
+    out = config.REPORTS_DIR / f"{name}.md"
     out.write_text(md, encoding="utf-8")
     print(md + f"\n\nRapor: {out}")
 
@@ -261,6 +263,10 @@ def main():
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
         if name in ("track", "tavsiye"):
             sp.add_argument("--fixtures", help="fixtures.csv yolu (varsayılan: data/raw/fixtures.csv)")
+        if name == "tavsiye":
+            sp.add_argument("--prova", help="geçmiş bir tarihten (YYYY-AA-GG) itibaren prova: model o tarihe kadarki "
+                                            "veriyle, tavsiyeler gerçekleşen sonuçlarla karşılaştırılır")
+            sp.add_argument("--gun", type=int, default=4, help="provada kaç günlük maç (varsayılan 4)")
         if name == "predict":
             sp.add_argument("--fixtures", help="yerel fixtures.csv yolu (verilmezse indirilir)")
             sp.add_argument("--iddaa", help="İddaa oranları: CSV yolu (bkz. iddaa_ornek.csv) ya da 'auto' "
