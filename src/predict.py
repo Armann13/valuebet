@@ -165,10 +165,31 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
     return out
 
 
+def _latest_iddaa(today: pd.Timestamp) -> pd.DataFrame:
+    """Otomatik toplanan İddaa oranlarından (src/iddaa.py) henüz başlamamış maçların son oranları,
+    iddaa.csv biçiminde. Ü/A 2.5 sadece İddaa'nın ana barajı 2.5 ise."""
+    from src import iddaa
+    odds = iddaa.load_odds()
+    if odds.empty:
+        return odds
+    now = pd.Timestamp.now(tz="UTC").tz_localize(None)
+    last = odds[odds["kickoff_utc"] > now].sort_values("snapshot_utc").groupby("event_id").tail(1)
+    last = last.dropna(subset=["home", "away"])
+    two_five = last["ou_line"] == 2.5
+    print(f"  İddaa: otomatik toplanan oranlar, {len(last)} maç (son kayıt {odds['snapshot_utc'].max():%d.%m %H:%M} UTC)")
+    return pd.DataFrame({"home": last["home"], "away": last["away"], "odd_1": last["odd_1"], "odd_x": last["odd_x"],
+                         "odd_2": last["odd_2"], "odd_over25": last["odd_ust"].where(two_five),
+                         "odd_under25": last["odd_alt"].where(two_five),
+                         "date": last["kickoff_utc"].dt.strftime("%d.%m.%Y")})
+
+
 def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | None,
                model_kw: dict, joint: bool, motivation: bool, today: pd.Timestamp) -> pd.DataFrame:
-    """iddaa.csv sütunları: home,away,odd_1,odd_x,odd_2[,odd_over25,odd_under25][,date]"""
-    raw = pd.read_csv(path)
+    """iddaa.csv sütunları: home,away,odd_1,odd_x,odd_2[,odd_over25,odd_under25][,date].
+    path == "auto": dosya yerine otomatik toplanan son İddaa oranları kullanılır."""
+    raw = _latest_iddaa(today) if path == "auto" else pd.read_csv(path)
+    if raw.empty:
+        return raw
     latest = matches.sort_values("date").groupby("home")["div"].last().to_dict()
     resolve = TeamResolver(list(matches["home"].unique()))
     recs = []

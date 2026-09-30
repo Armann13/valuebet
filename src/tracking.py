@@ -77,8 +77,8 @@ def _append_new(old: pd.DataFrame, new: pd.DataFrame, key: list) -> tuple[pd.Dat
     return pd.concat([old, fresh], ignore_index=True), len(fresh)
 
 
-def _settle(preds: pd.DataFrame, bets: pd.DataFrame, results: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """Sonucu belli maçlar için sonuç, keskin kapanış adil olasılıkları, CLV ve kâr."""
+def _results_close(results: pd.DataFrame) -> pd.DataFrame:
+    """Sonucu belli maçlar: KEY + gol + keskin kapanış adil olasılıkları (close_h, close_d, ...)."""
     res = results.dropna(subset=["fthg", "ftag"]).copy()
     for mk in MARKETS:
         f = devig_frame(res, [f"sharpc_{s}" for s in SUFFIX[mk]], config.DEVIG_METHOD)
@@ -86,7 +86,11 @@ def _settle(preds: pd.DataFrame, bets: pd.DataFrame, results: pd.DataFrame) -> t
             res[f"close_{s}"] = f[:, i]
     res = res[KEY + ["fthg", "ftag"] + [f"close_{s}" for mk in MARKETS for s in SUFFIX[mk]]]
     res["season"] = res["season"].astype(int)
-    res = res.drop_duplicates(subset=KEY, keep="last")  # anahtar tekrar ederse satırlar çoğalmasın
+    return res.drop_duplicates(subset=KEY, keep="last")  # anahtar tekrar ederse satırlar çoğalmasın
+
+
+def _settle(preds: pd.DataFrame, bets: pd.DataFrame, res: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Sonucu belli maçlar için (res = _results_close) sonuç, keskin kapanış adil olasılıkları, CLV ve kâr."""
     fill = lambda df: df.drop(columns=[c for c in res.columns if c not in KEY and c in df]).merge(  # noqa: E731
         res, on=KEY, how="left")
     if not preds.empty:
@@ -107,6 +111,83 @@ def _settle(preds: pd.DataFrame, bets: pd.DataFrame, results: pd.DataFrame) -> t
         bets["clv"] = bets["price"] * bets["p_close"] - 1
         bets["profit"] = np.where(bets["won"].isna(), np.nan, np.where(bets["won"] == 1, bets["price"] - 1, -1.0))
     return preds, bets
+
+
+IDDAA_OUTCOMES = [("1X2", "1", "odd_1", "h", "p_home"), ("1X2", "X", "odd_x", "d", "p_draw"),
+                  ("1X2", "2", "odd_2", "a", "p_away"), ("OU2.5", "Üst", "odd_ust", "o25", "p_over25"),
+                  ("OU2.5", "Alt", "odd_alt", "u25", "p_under25")]
+
+
+def _iddaa_clv(preds: pd.DataFrame, res: pd.DataFrame) -> pd.DataFrame:
+    """İddaa oran geçmişinden her maç-sonuç için ilk ve son (başlama öncesi) oran; maç sonuçlanmışsa (res)
+    keskin kapanışa göre CLV; tahmin kaydı varsa model olasılığı ve keskin açılış adil olasılığı."""
+    from src import iddaa
+    odds = iddaa.load_odds()
+    if odds.empty:
+        return pd.DataFrame()
+    odds = odds.dropna(subset=["home", "away"]).sort_values("snapshot_utc")
+    odds["season"] = odds["season"].astype(int)
+    g = odds.groupby(KEY)
+    first, last = g.head(1).set_index(KEY), g.tail(1).set_index(KEY)
+    n_snap = g.size()
+    p = preds.set_index(KEY) if not preds.empty else pd.DataFrame()
+    sharp = {mk: pd.DataFrame(devig_frame(preds, [f"sharp_{s}" for s in SUFFIX[mk]], config.DEVIG_METHOD),
+                              index=p.index) for mk in MARKETS} if not preds.empty else {}
+    r_ = res.set_index(KEY)
+    rows = []
+    for key in first.index:
+        f, l = first.loc[key], last.loc[key]
+        pr = p.loc[key] if key in p.index else None
+        rr = r_.loc[key] if key in r_.index else None
+        for mk, pick, col, suf, pcol in IDDAA_OUTCOMES:
+            if mk == "OU2.5" and not (f.get("ou_line") == 2.5 and l.get("ou_line") == 2.5):
+                continue
+            j = SUFFIX[mk].index(suf)
+            rows.append({**dict(zip(KEY, key)), "kickoff_utc": l["kickoff_utc"], "market": mk, "pick": pick,
+                         "mbs": l.get("mbs"), "kayıt_sayısı": int(n_snap.loc[key]), "odd_ilk": f[col], "odd_son": l[col],
+                         "p_model": pr[pcol] if pr is not None else np.nan,
+                         "p_keskin_açılış": sharp[mk].loc[key].iloc[j] if pr is not None else np.nan,
+                         "fthg": rr["fthg"] if rr is not None else np.nan,
+                         "ftag": rr["ftag"] if rr is not None else np.nan,
+                         "p_close": rr[f"close_{suf}"] if rr is not None else np.nan})
+    t = pd.DataFrame(rows)
+    if t.empty:
+        return t
+    t["edge_model"] = t["p_model"] * t["odd_ilk"] - 1
+    t["edge_keskin"] = t["p_keskin_açılış"] * t["odd_ilk"] - 1
+    t["clv_ilk"] = t["odd_ilk"] * t["p_close"] - 1
+    t["clv_son"] = t["odd_son"] * t["p_close"] - 1
+    won = []
+    for r in t.itertuples():
+        won.append(np.nan if pd.isna(r.fthg) else
+                   float(outcomes(pd.DataFrame({"fthg": [r.fthg], "ftag": [r.ftag]}), r.market)[0][LABEL_IDX[r.market][r.pick]]))
+    t["won"] = won
+    t["profit_ilk"] = np.where(t["won"].isna(), np.nan, np.where(t["won"] == 1, t["odd_ilk"] - 1, -1.0))
+    return t
+
+
+def _iddaa_summary(t: pd.DataFrame) -> list:
+    md = ["## İddaa fiyatlarının değeri (keskin kapanışa göre CLV)", ""]
+    if t.empty:
+        return md + ["Henüz İddaa oranı kaydı eşleşen maç yok.", ""]
+    s = t.dropna(subset=["clv_ilk"])
+    groups = [("Tüm İddaa fiyatları", s),
+              ("İddaa > keskin açılış adil fiyatı", s[s["edge_keskin"] > 0]),
+              (f"Model edge ≥ %{100 * config.EDGE_MIN:.0f} (onaysız)", s[s["edge_model"] >= config.EDGE_MIN]),
+              ("Model edge + keskin onay (VALUE)", s[(s["edge_model"] >= config.EDGE_MIN) & (s["edge_keskin"] > 0)])]
+    rows = []
+    for name, g in groups:
+        rows.append({"grup": name, "sonuç sayısı": len(g), "maç": g[KEY].drop_duplicates().shape[0],
+                     "ort. oran": g["odd_ilk"].mean() if len(g) else np.nan,
+                     "CLV ilk oran_%": 100 * g["clv_ilk"].mean() if len(g) else np.nan,
+                     "±GA_%": 196 * g["clv_ilk"].std() / np.sqrt(len(g)) if len(g) > 1 else np.nan,
+                     "CLV son oran_%": 100 * g["clv_son"].mean() if len(g) else np.nan,
+                     "CLV>0_%": 100 * (g["clv_ilk"] > 0).mean() if len(g) else np.nan,
+                     "ROI_%": 100 * g["profit_ilk"].mean() if len(g) else np.nan})
+    open_n = t[t["clv_ilk"].isna()][KEY].drop_duplicates().shape[0]
+    return md + [_md_table(pd.DataFrame(rows), "{:.2f}"), "",
+                 f"Sonuçlanmamış (açık) maç: {open_n}. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan "
+                 "önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv", ""]
 
 
 def _summary(preds: pd.DataFrame, bets: pd.DataFrame) -> str:
@@ -167,12 +248,17 @@ def run(upcoming: pd.DataFrame | None) -> str:
             new_p, new_b = _new_predictions(fx, now)
             preds, n_p = _append_new(preds, new_p, KEY)
             bets, n_b = _append_new(bets, new_b, KEY + ["market", "pick"])
-    preds, bets = _settle(preds, bets, db.load_matches())
+    res = _results_close(db.load_matches())
+    preds, bets = _settle(preds, bets, res)
     if not preds.empty:
         preds.to_csv(pred_path, index=False)
     if not bets.empty:
         bets.to_csv(bet_path, index=False)
     md = _summary(preds, bets)
+    ic = _iddaa_clv(preds, res)
+    if not ic.empty:
+        ic.to_csv(config.TRACKING_DIR / "iddaa_clv.csv", index=False)
+    md += "\n\n" + "\n".join(_iddaa_summary(ic))
     sum_path.write_text(md, encoding="utf-8")
     settled = int(preds["fthg"].notna().sum()) if not preds.empty else 0
     print(f"  yeni tahmin: {n_p}, yeni bahis: {n_b}, sonuçlanan tahmin: {settled}")

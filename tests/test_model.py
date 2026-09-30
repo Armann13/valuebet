@@ -361,6 +361,16 @@ def test_end_to_end():
                          "edge_keskin": -0.1}])
     bets_path = trk / "bets.csv"
     (pd.concat([pd.read_csv(bets_path), bet]) if bets_path.exists() else bet).to_csv(bets_path, index=False)
+    # İddaa oran geçmişi: aynı maç için iki kayıt (ilk ve son) + başladıktan sonraki kayıt (sayılmamalı)
+    kick = pd.to_datetime(played["Date"], dayfirst=True).strftime("%Y-%m-%d") + " 19:00"
+    iddaa_dir = tmp / "data" / "raw" / "iddaa"
+    iddaa_dir.mkdir(parents=True)
+    pd.DataFrame([{"snapshot_utc": s, "event_id": 7, "div": "SP1", "kickoff_utc": kick, "home_iddaa": "x",
+                   "away_iddaa": "y", "mbs": 1, "odd_1": o1, "odd_x": 3.3, "odd_2": 3.1, "ou_line": 2.5,
+                   "odd_alt": 1.8, "odd_ust": 1.9, "home": played["HomeTeam"], "away": played["AwayTeam"],
+                   "season": 2024} for s, o1 in [("2024-08-10 09:00", 2.2), ("2024-08-16 09:00", 2.0),
+                                                 ("2099-01-01 00:00", 9.9)]]).to_csv(iddaa_dir / "odds_2024.csv",
+                                                                                    index=False)
     r = run("main.py", "track", "--fixtures", fixtures)
     assert r.returncode == 0, r.stderr
     tp2 = pd.read_csv(trk / "predictions.csv")
@@ -372,6 +382,24 @@ def test_end_to_end():
     assert b["won"] == float(played["FTHG"] > played["FTAG"]) and np.isfinite(b["clv"])
     assert b["profit"] == (1.0 if b["won"] else -1.0)
     assert "Kağıt bahisler" in (trk / "summary.md").read_text(encoding="utf-8")
+    ic = pd.read_csv(trk / "iddaa_clv.csv")
+    one = ic[(ic["market"] == "1X2") & (ic["pick"] == "1")].iloc[0]
+    assert (one["odd_ilk"], one["odd_son"], one["kayıt_sayısı"]) == (2.2, 2.0, 2)  # başladıktan sonraki sayılmaz
+    assert abs(one["clv_ilk"] - (2.2 * done["close_h"] - 1)) < 1e-9
+    assert set(ic["pick"]) == {"1", "X", "2", "Üst", "Alt"}
+    assert "İddaa fiyatlarının değeri" in (trk / "summary.md").read_text(encoding="utf-8")
+
+    # predict --iddaa auto: yaklaşan bir maç için otomatik toplanmış İddaa oranı kullanılır
+    up = pd.read_csv(fixtures).iloc[0]
+    kick_up = pd.to_datetime(up["Date"], dayfirst=True)
+    season_up = kick_up.year if kick_up.month >= 7 else kick_up.year - 1
+    pd.DataFrame([{"snapshot_utc": "2000-01-01 00:00", "event_id": 8, "div": up["Div"],
+                   "kickoff_utc": f"{kick_up:%Y-%m-%d} 20:00", "mbs": 1, "odd_1": 2.5, "odd_x": 3.2, "odd_2": 2.9,
+                   "ou_line": 1.5, "odd_alt": 2.4, "odd_ust": 1.5, "home": up["HomeTeam"], "away": up["AwayTeam"],
+                   "season": season_up}]).to_csv(iddaa_dir / f"odds_{season_up}.csv", index=False)
+    r = run("main.py", "predict", "--fixtures", fixtures, "--iddaa", "auto")
+    assert r.returncode == 0, r.stderr
+    assert "otomatik toplanan oranlar, 1 maç" in r.stdout and "İddaa oranlarına göre" in r.stdout, r.stdout[-1500:]
     shutil.rmtree(tmp, ignore_errors=True)
 
 

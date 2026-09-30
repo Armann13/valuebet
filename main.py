@@ -6,7 +6,7 @@
     python main.py tune              # XI / ridge ayarı (reports/tune_summary.md)
     python main.py diagnose          # açık nerede yoğunlaşıyor (reports/diagnose_summary.md)
     python main.py predict           # yaklaşan maçlar için olasılıklar ve value adayları
-    python main.py predict --iddaa iddaa.csv
+    python main.py predict --iddaa iddaa.csv   # ya da --iddaa auto (otomatik toplanan oranlar)
     python main.py track             # kağıt üzerinde canlı takip (tracking/)
     python main.py iddaa             # İddaa oranlarını topla (data/raw/iddaa/)
     python main.py ratings           # güncel takım güç sıralaması
@@ -210,7 +210,8 @@ def main():
             sp.add_argument("--fixtures", help="fixtures.csv yolu (varsayılan: data/raw/fixtures.csv)")
         if name == "predict":
             sp.add_argument("--fixtures", help="yerel fixtures.csv yolu (verilmezse indirilir)")
-            sp.add_argument("--iddaa", help="İddaa oranlarını içeren CSV (bkz. iddaa_ornek.csv)")
+            sp.add_argument("--iddaa", help="İddaa oranları: CSV yolu (bkz. iddaa_ornek.csv) ya da 'auto' "
+                                            "(otomatik toplanan son oranlar)")
     args = p.parse_args()
     if args.fn(args) is False:  # ör. siteye ulaşılamadı; GitHub Actions işi başarısız görünsün
         sys.exit(1)

@@ -97,6 +97,19 @@ GitHub Actions her veri güncellemesinden sonra `python main.py track` çalışt
 Görmek için `git pull` yeterli. Model değişince `config.MODEL_VERSION`'ı artır; kayıtlar hangi modelden geldiğini
 tutar. Birkaç yüz maç birikmeden sonuçlar çok gürültülüdür.
 
+### İddaa oranlarının otomatik toplanması
+
+`.github/workflows/iddaa.yml` 3 saatte bir `python main.py iddaa` çalıştırır: La Liga ve La Liga 2 maçlarının İddaa
+oranları (maç sonucu, ana baraj alt/üst, MBS) iddaa.com'un sitesinin kullandığı JSON uç noktasından çekilir ve
+değişen oranlar `data/raw/iddaa/odds_{sezon}.csv`'ye eklenir. Resmi bir API değildir; uç nokta değişirse toplama
+durur (GitHub e-postası gelir).
+
+- `tracking/summary.md` → "İddaa fiyatlarının değeri": İddaa'nın ilk ve son oranlarının keskin kapanışa göre CLV'si;
+  tüm fiyatlar, keskin açılışı geçen fiyatlar ve model VALUE seçimleri için ayrı ayrı. Ayrıntı: `tracking/iddaa_clv.csv`.
+- `python main.py predict --iddaa auto`: elle CSV yerine son toplanan İddaa oranlarıyla value arar.
+- İki oran alanı var: `odd` (ekranda gösterilen, hesaplarda kullanılan) ve `wodd` (sitenin kodunda "king odds",
+  ~%4 düşük); ikisi de kaydedilir.
+
 ### İddaa oranlarıyla value arama
 
 `iddaa_ornek.csv` dosyasını kopyala, oranları İddaa'dan elle gir (örnekteki oranlar temsilidir):
@@ -157,6 +170,7 @@ src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li, 
 src/features.py      maç öncesi puan durumu ve motivasyon
 src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar)
 src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-data)
+src/iddaa.py         İddaa oranlarının otomatik toplanması (data/raw/iddaa/)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)
