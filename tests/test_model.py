@@ -279,6 +279,18 @@ def test_parse_iddaa():
     assert resolve_competitions(comps) == {129: "SP1", 1951: "SP2", 19843: "SC0", 584: "T1"}
 
 
+def test_tavsiye_markets():
+    from src.tavsiye import calibrate, market_probs
+    from tests.make_synthetic import dc_matrix
+    m = dc_matrix(1.6, 0.9)
+    p = market_probs(m)
+    assert abs(p["MS 1"] + p["MS X"] + p["MS 2"] - 1) < 1e-9
+    assert abs(p["ÇŞ 1-X"] - (p["MS 1"] + p["MS X"])) < 1e-9 and abs(p["2.5 Alt"] + p["2.5 Üst"] - 1) < 1e-9
+    assert p["MS 1 & KG Var"] <= min(p["MS 1"], p["KG Var"])
+    c = market_probs(calibrate(m, (0.40, 0.30, 0.30)))  # piyasaya ayarlı: 1X2 toplamları hedefle aynı
+    assert abs(c["MS 1"] - 0.40) < 1e-9 and abs(c["MS X"] - 0.30) < 1e-9 and abs(c["MS 2"] - 0.30) < 1e-9
+
+
 def test_xg_fit():
     """xG hedefiyle (tam sayı olmayan Poisson hedefi) eğitim yakınsar ve anlamlı güçler verir."""
     df, att, dfn = _simulate(seasons=1, seed=4)
@@ -412,6 +424,9 @@ def test_end_to_end():
     r = run("main.py", "predict", "--fixtures", fixtures, "--iddaa", "auto")
     assert r.returncode == 0, r.stderr
     assert "otomatik toplanan oranlar, 1 maç" in r.stdout and "İddaa oranlarına göre" in r.stdout, r.stdout[-1500:]
+    r = run("main.py", "tavsiye", "--fixtures", fixtures)
+    assert r.returncode == 0, r.stderr
+    assert all(s in r.stdout for s in ("Tier 1", "Tier 5", "Değeri pozitif")), r.stdout[-1500:]
     shutil.rmtree(tmp, ignore_errors=True)
 
 

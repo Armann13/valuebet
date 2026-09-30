@@ -1,7 +1,8 @@
 """İddaa oranlarının otomatik toplanması (config.LEAGUES'teki tüm ligler).
 
 iddaa.com'un sitesinin kullandığı JSON uç noktasından (resmi API değil) maç öncesi futbol programı çekilir:
-  maç sonucu (market t=1, st=1; sonuçlar "1" / "0" / "2") ve alt/üst (t=2, st=101; baraj "sov").
+  maç sonucu (market t=1, st=1; sonuçlar "1" / "0" / "2"), alt/üst (t=2, st=101; baraj "sov"),
+  çifte şans (t=2, st=92; "1 ve 0" / "1 ve 2" / "0 ve 2") ve karşılıklı gol (t=2, st=89; "Var" / "Yok").
 Her sonuç için iki oran vardır: odd (ekranda gösterilen, normal kupon) ve wodd (sitenin kodunda "king odds";
 ~%4 düşük). Hesaplarda odd kullanılır; ikisi de kaydedilir. mbs: maçın minimum kombinasyon sayısı.
 
@@ -18,7 +19,8 @@ import config
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (valuebet research script)", "Origin": "https://www.iddaa.com",
            "Referer": "https://www.iddaa.com/"}
-ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust"]
+ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
+            "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
 EVENT_KEY = "event_id"
 
@@ -66,6 +68,14 @@ def parse_events(events: list, competitions: dict) -> pd.DataFrame:
                 for lab, col in (("Alt", "alt"), ("Üst", "ust")):
                     if lab in o:
                         row[f"odd_{col}"], row[f"wodd_{col}"] = o[lab].get("odd"), o[lab].get("wodd")
+            elif m.get("t") == 2 and m.get("st") == 92:  # çifte şans
+                for lab, col in (("1 ve 0", "1x"), ("1 ve 2", "12"), ("0 ve 2", "x2")):
+                    if lab in o:
+                        row[f"odd_{col}"] = o[lab].get("odd")
+            elif m.get("t") == 2 and m.get("st") == 89:  # karşılıklı gol
+                for lab, col in (("Var", "kg_var"), ("Yok", "kg_yok")):
+                    if lab in o:
+                        row[f"odd_{col}"] = o[lab].get("odd")
         rows.append(row)
     df = pd.DataFrame(rows)
     for c in ODD_COLS + WODD_COLS:
@@ -145,7 +155,7 @@ def collect() -> int:
         keep = []
         for r in g.itertuples(index=False):
             if last is not None and r.event_id in last.index:
-                prev = last.loc[r.event_id, ODD_COLS].astype(float).to_numpy()
+                prev = last.loc[r.event_id].reindex(ODD_COLS).astype(float).to_numpy()  # eski dosyada sütun eksik olabilir
                 cur = np.array([getattr(r, c) for c in ODD_COLS], dtype=float)
                 if np.allclose(prev, cur, equal_nan=True):
                     continue

@@ -7,8 +7,12 @@ dürüstçe test eder (walk-forward backtest) ve yaklaşan maçlar için olasıl
 listeler. Model ayarları (ridge, motivasyon, xG ağırlığı) İspanya'da seçildi; diğer liglerde backtest ile
 doğrulanır.
 
-Öneriler: `python main.py predict --iddaa auto` → `reports/oneriler_{tarih}.md` (VALUE bahisleri ve en olası
-sonuçlar ayrı ayrı; en olası sonuç value değildir).
+Öneriler:
+- `python main.py tavsiye` → `reports/tavsiye_{tarih}.md`: yaklaşan maçlar için risk seviyesine göre tavsiye
+  (Tier 1 düşük risk ≥%70 … Tier 5 kesin skor). Her tahminin olasılığı, adil oranı, İddaa oranı ve **değeri**
+  yazılır; risk seviyesi "tutma olasılığı", değer "fiyatın iyi olup olmadığı"dır — ayrı şeyler.
+- `python main.py predict --iddaa auto` → `reports/oneriler_{tarih}.md`: keskin fiyat sinyali, VALUE ve en olası
+  sonuçlar; her sinyalin yanında o ligdeki backtest CLV'si.
 
 **Keskin piyasa** = Pinnacle, o yoksa Betfair Exchange (borsa). football-data.co.uk'taki Pinnacle oranları
 12.01.2026'da kesildi; borsa oranları 2024/25'ten beri var. İkisinin çakıştığı ~1.200 maçta borsa kapanışı
@@ -177,6 +181,7 @@ src/features.py      maç öncesi puan durumu ve motivasyon
 src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar)
 src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-data)
 src/iddaa.py         İddaa oranlarının otomatik toplanması (data/raw/iddaa/)
+src/tavsiye.py       risk seviyesine göre tavsiye raporu (piyasaya ayarlı skor tablosundan tüm marketler)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)
