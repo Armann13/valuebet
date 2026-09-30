@@ -8,3 +8,7 @@ tests/_synthetic_data/
 tests/_synthetic_reports/
 tests/_e2e/
 iddaa.csv
+# kişisel notlar / gizli bilgiler (git'e gitmesin)
+Hergün Yapılacak
+*.env
+.env

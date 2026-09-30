@@ -120,16 +120,26 @@ def notify() -> int:
 def setup() -> None:
     """Kurulum yardımı: TELEGRAM_BOT_TOKEN ortam değişkeniyle botuna son yazan sohbetin numarasını bulur ve
     test mesajı gönderir. Önce Telegram'da botuna bir mesaj yaz."""
-    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip().strip('"').strip("'")
     if not token:
         raise SystemExit('Önce: $env:TELEGRAM_BOT_TOKEN = "BotFather\'ın verdiği anahtar"')
+    me = requests.get(API.format(token=token, method="getMe"), timeout=30).json()
+    if not me.get("ok"):
+        raise SystemExit("Anahtar geçersiz (Telegram kabul etmedi). BotFather'daki anahtarı eksiksiz kopyaladığından "
+                         "emin ol: 123456789:ABC... biçiminde, iki nokta dahil.")
+    bot = me["result"]["username"]
+    print(f"  bu anahtar @{bot} botuna ait -> Telegram'da https://t.me/{bot} adresini aç, Başlat'a bas, bir mesaj yaz")
     r = requests.get(API.format(token=token, method="getUpdates"), timeout=30).json()
     if not r.get("ok"):
         raise SystemExit(f"Telegram yanıtı: {r}")
-    chats = {u["message"]["chat"]["id"]: u["message"]["chat"].get("first_name", "")
-             for u in r.get("result", []) if "message" in u}
+    chats = {}
+    for u in r.get("result", []):
+        msg = u.get("message") or u.get("edited_message") or u.get("my_chat_member") or u.get("channel_post")
+        if msg and "chat" in msg:
+            chats[msg["chat"]["id"]] = msg["chat"].get("first_name") or msg["chat"].get("title", "")
     if not chats:
-        raise SystemExit("Botuna henüz mesaj gelmemiş: Telegram'da botunu aç, 'merhaba' yaz, sonra tekrar çalıştır.")
+        raise SystemExit(f"@{bot} botuna henüz mesaj gelmemiş. Telegram'da https://t.me/{bot} adresini aç "
+                         "(BotFather'ı değil, kendi botunu), Başlat'a bas, 'merhaba' yaz, sonra bu komutu tekrar çalıştır.")
     for cid, name in chats.items():
         print(f"  sohbet numarası: {cid} ({name})")
     cid = list(chats)[-1]

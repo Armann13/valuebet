@@ -1,5 +1,0 @@
-Terminalde çalıştırılacak her gün 21.00'dan önce
-
-git pull
-python main.py build
-python main.py tavsiye
