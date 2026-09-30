@@ -3,6 +3,7 @@
     python main.py download          # football-data.co.uk'tan sezon dosyalarını indir
     python main.py build             # CSV'leri SQLite veritabanına yükle
     python main.py backtest          # walk-forward backtest + rapor (reports/backtest_summary.md)
+    python main.py tune              # XI / ridge ayarı (reports/tune_summary.md)
     python main.py predict           # yaklaşan maçlar için olasılıklar ve value adayları
     python main.py predict --iddaa iddaa.csv
     python main.py ratings           # güncel takım güç sıralaması
@@ -10,6 +11,7 @@
     python main.py all               # download + build + backtest
 """
 import argparse
+import os
 import sys
 import time
 
@@ -60,6 +62,20 @@ def cmd_backtest(args):
     print(f"\nRapor: {out}  ({time.time() - t0:.0f} sn)")
 
 
+def cmd_tune(args):
+    from src import tune
+    divs = [args.div] if args.div else list(config.LEAGUES)
+    grid = lambda s: [float(v) for v in s.split(",")] if s else None  # noqa: E731
+    md, table = tune.run(divs, args.xi, args.ridge, args.eval_from, args.tune_to, args.workers,
+                         grid(args.xi_grid), grid(args.ridge_grid))
+    config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    out = config.REPORTS_DIR / "tune_summary.md"
+    out.write_text(md, encoding="utf-8")
+    table.to_csv(config.REPORTS_DIR / "tune_grid.csv", index=False)
+    print("\n" + md)
+    print(f"\nRapor: {out}")
+
+
 def cmd_predict(args):
     from src import predict
     res = predict.run(args.fixtures, args.iddaa, xi=args.xi, ridge=args.ridge)
@@ -105,7 +121,8 @@ def main():
         sp.add_argument("--div", choices=list(config.LEAGUES), help="tek lig (varsayılan: hepsi)")
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
-                     ("predict", cmd_predict), ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
+                     ("tune", cmd_tune), ("predict", cmd_predict), ("ratings", cmd_ratings), ("teams", cmd_teams),
+                     ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
         common(sp)
@@ -116,6 +133,13 @@ def main():
             sp.add_argument("--book", default=config.BET_BOOK, choices=["b365", "ps", "avg", "max"],
                             help="backtest'te bahis oynanan oranlar")
             sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
+        if name == "tune":  # --xi / --ridge burada kıyas alınan varsayılan ayardır
+            sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
+            sp.add_argument("--tune-to", type=int, default=2021, dest="tune_to",
+                            help="seçim bu sezona kadarki maçlarla yapılır; sonrası test dönemi")
+            sp.add_argument("--workers", type=int, default=max(1, (os.cpu_count() or 2) - 2))
+            sp.add_argument("--xi-grid", dest="xi_grid", help="virgülle ayrılmış xi değerleri (ör. 0.001,0.002)")
+            sp.add_argument("--ridge-grid", dest="ridge_grid", help="virgülle ayrılmış ridge değerleri")
         if name == "predict":
             sp.add_argument("--fixtures", help="yerel fixtures.csv yolu (verilmezse indirilir)")
             sp.add_argument("--iddaa", help="İddaa oranlarını içeren CSV (bkz. iddaa_ornek.csv)")

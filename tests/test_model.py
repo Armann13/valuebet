@@ -137,6 +137,11 @@ def test_end_to_end():
     report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")
     assert "Log loss farkı (model − Keskin kapanış PSC/BFEC)" in report and "Strateji karşılaştırması" in report
     assert "BFEC" in report.split("Kapanış kaynağı:")[1].splitlines()[0], "son sezon borsa kapanışına geçmeli"
+    r = run("main.py", "tune", "--div", "SP1", "--eval-from", "2024", "--tune-to", "2024", "--workers", "2",
+            "--xi-grid", "0.003", "--ridge-grid", "1")
+    assert r.returncode == 0, r.stderr
+    assert "Test döneminde" in (tmp / "reports" / "tune_summary.md").read_text(encoding="utf-8")
+    assert len(pd.read_csv(tmp / "reports" / "tune_grid.csv")) == 4  # {0.003, varsayılan} x {1, varsayılan}
     iddaa = tmp / "iddaa.csv"
     iddaa.write_text("home,away,odd_1,odd_x,odd_2\nLiga Takim 01,liga takım 02,2.1,3.3,3.4\n", encoding="utf-8")
     r = run("main.py", "predict", "--fixtures", str(tmp / "data" / "raw" / "fixtures.csv"), "--iddaa", str(iddaa))

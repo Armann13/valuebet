@@ -62,8 +62,12 @@ def odds_column_map() -> dict:
 
 
 # ---------------------------------------------------------------- Model (Dixon-Coles)
+# XI/RIDGE `python main.py tune` ile seçildi (2016-2021 ayar, 2022+ test; 2026-09-30). 1X2 için en iyi
+# bölge iki ligde de xi 0.0019-0.0025, ridge 2-8 ve oldukça düz; ortak ayar xi=0.0019, ridge=4. Test
+# döneminde eski ridge=0.5'e göre 1X2 log loss: SP2 -0.0064 ± 0.0042 (anlamlı), SP1 -0.0004 ± 0.0029.
+# Ridge = atak/defans parametrelerine sd = 1/sqrt(2*ridge) olan normal önsel; 4 -> sd ≈ 0.35.
 XI = 0.0019           # günlük zaman sönümü; yarı ömür = ln(2)/XI ≈ 365 gün
-RIDGE = 0.5           # atak/defans parametrelerine L2 çekimi (az maçlı takımları ortalamaya çeker)
+RIDGE = 4.0           # atak/defans parametrelerine L2 çekimi (az maçlı takımları ortalamaya çeker)
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 
