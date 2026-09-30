@@ -309,8 +309,8 @@ def recommendations(res: pd.DataFrame, min_prob: float = 0.60) -> str:
     from src.backtest import _md_table
     md += ["## 1) Keskin fiyat sinyali (model yok)", "",
            f"Oran, keskin piyasanın (Pinnacle / Betfair) adil fiyatını ≥ %{100 * config.EDGE_MIN:.0f} geçiyor. "
-           "Backtest'te 22 ligin 20'sinde pozitif CLV veren kural bu (yumuşak büro keskin piyasanın gerisinde "
-           "kalınca). Keskin fiyat fikstürdeki son kayıttan; İddaa oranı daha yeni olabilir. MBS > 1 ise tek oynanamaz.", ""]
+           "Backtest'te (2016+, B365 ile) 22 ligin 21'inde pozitif, 13'ünde anlamlı CLV veren kural bu (yumuşak "
+           "büro keskin piyasanın gerisinde kalınca). Keskin fiyat fikstürdeki son kayıttan; İddaa oranı daha yeni olabilir. MBS > 1 ise tek oynanamaz.", ""]
     md += [_md_table(pd.DataFrame(sharp).sort_values("edge keskin_%", ascending=False), "{:.2f}") if sharp
            else "Bu çalıştırmada keskin fiyat sinyali yok.", ""]
     md += ["## 2) VALUE (model + keskin onay)", "",
