@@ -22,6 +22,7 @@ import config
 from src import db
 from src.dixon_coles import DixonColes
 from src.download import download_fixtures
+from src.features import add_motivation
 from src.odds import MARKET_SUFFIXES, add_sharp, devig_frame
 
 MODEL_NAME = "dixon_coles_v1"
@@ -144,7 +145,7 @@ def _predict_rows(fx: pd.DataFrame, models: dict) -> pd.DataFrame:
         m = models.get(rec["div"])
         if m is None:
             continue
-        p = m.predict(rec["home"], rec["away"], rec["div"])
+        p = m.predict(rec["home"], rec["away"], rec["div"], rec.get("mot", 0))
         rows.append({**rec, **p})
     res = pd.DataFrame(rows)
     if res.empty:
@@ -156,11 +157,13 @@ def _predict_rows(fx: pd.DataFrame, models: dict) -> pd.DataFrame:
 
 def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: float,
         ridge_total: float | None = config.RIDGE_TOTAL, joint: bool = config.JOINT,
-        save: bool = True) -> pd.DataFrame:
+        motivation: bool = config.MOTIVATION, save: bool = True) -> pd.DataFrame:
     model_kw = {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}
     matches = db.load_matches()
     if matches.empty:
         raise SystemExit("Veritabanı boş. Önce: python main.py download && python main.py build")
+    if motivation:  # eğitim maçları ve tahmin edilecek maçlar için, maç öncesi puan durumundan
+        matches = add_motivation(matches)
     today = pd.Timestamp(date.today())
 
     frames = []
@@ -170,6 +173,8 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
         fx = add_sharp(db.normalize(db.read_raw_csv(path), require_result=False))
         fx = fx[fx["div"].isin(config.LEAGUES) & (fx["date"] >= today - pd.Timedelta(days=1))]
         if not fx.empty:
+            if motivation:
+                fx = add_motivation(matches, fx)
             ref = fx.groupby("div")["date"].min().to_dict()
             models = _fit_models(matches, ref, model_kw, joint)
             res = _predict_rows(fx, models)
@@ -184,7 +189,8 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
 
     # ---- 2) İddaa oranları
     if iddaa_path:
-        frames.append(_run_iddaa(iddaa_path, matches, frames[0] if frames else None, model_kw, joint, today))
+        frames.append(_run_iddaa(iddaa_path, matches, frames[0] if frames else None, model_kw, joint, motivation,
+                                 today))
 
     if not frames:
         raise SystemExit("Tahmin edilecek maç bulunamadı.")
@@ -203,7 +209,7 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
 
 
 def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | None,
-               model_kw: dict, joint: bool, today: pd.Timestamp) -> pd.DataFrame:
+               model_kw: dict, joint: bool, motivation: bool, today: pd.Timestamp) -> pd.DataFrame:
     """iddaa.csv sütunları: home,away,odd_1,odd_x,odd_2[,odd_over25,odd_under25][,date]"""
     raw = pd.read_csv(path)
     latest = matches.sort_values("date").groupby("home")["div"].last().to_dict()
@@ -216,7 +222,9 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
                   f"(python main.py teams ile doğru isimleri gör)")
             continue
         d = pd.to_datetime(r.get("date"), dayfirst=True, errors="coerce") if r.get("date") else pd.NaT
-        recs.append({"div": latest.get(h), "date": d if pd.notna(d) else today, "home": h, "away": a,
+        d = d if pd.notna(d) else today
+        recs.append({"div": latest.get(h), "date": d, "season": d.year if d.month >= 7 else d.year - 1,
+                     "home": h, "away": a,
                      "iddaa_1": r.get("odd_1"), "iddaa_X": r.get("odd_x"), "iddaa_2": r.get("odd_2"),
                      "iddaa_Üst2.5": r.get("odd_over25", np.nan), "iddaa_Alt2.5": r.get("odd_under25", np.nan)})
     fx = pd.DataFrame(recs)
@@ -224,6 +232,8 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
         return fx
     for c in [c for c in fx if c.startswith("iddaa_")]:
         fx[c] = pd.to_numeric(fx[c], errors="coerce")
+    if motivation:
+        fx = add_motivation(matches, fx)
     ref = {div: today for div in fx["div"].dropna().unique()}
     models = _fit_models(matches, ref, model_kw, joint)
     res = _predict_rows(fx, models)

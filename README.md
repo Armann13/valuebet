@@ -72,6 +72,11 @@ geçmişi kaybolmaz. Her takım kendi liginin ortalamasına çekilir; bu sezon l
 ayrıca öğrenilen bir sapma vardır (yoksa çıkan takımlar sistematik olarak fazla güçlü görünür). Ayrıntı:
 `src/dixon_coles.py` başındaki açıklama.
 
+**Motivasyon:** maç öncesi puan durumundan her takımın hâlâ bir "hedefi" (şampiyonluk, Avrupa, çıkış, play-off,
+küme hattı) olup olmadığı hesaplanır (`src/features.py`). Sezon sonunda sadece bir takımın hedefi varsa, o takımın
+gücü sabit bir miktar (`MOTIVATION_M`) artırılır. Piyasa bunu fiyatlıyordu, model bilmiyordu; kapatmak modelin
+kapanışa uzaklığını belirgin azalttı. `--no-motivation` ile kapatılabilir.
+
 Bir model değişikliğini denerken: önce `reports/backtest_preds_*.csv` dosyalarını bir klasöre kopyala (baz),
 değişikliği yapıp `backtest` çalıştır, sonra `diagnose --base <klasör>` ile değişikliğin hangi maçlarda işe
 yaradığını gör.
@@ -132,7 +137,8 @@ main.py              komut satırı
 config.py            ayarlar
 src/download.py      veri indirme
 src/db.py            SQLite şeması, CSV temizleme/yükleme
-src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li)
+src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li, birleşik ligler, motivasyon)
+src/features.py      maç öncesi puan durumu ve motivasyon
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)

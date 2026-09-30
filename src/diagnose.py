@@ -1,7 +1,8 @@
 """Açık analizi: modelin keskin kapanışa göre log loss açığı hangi maçlarda yoğunlaşıyor?
 
-Son backtest'in tahminleri (reports/backtest_preds_{lig}.csv) dilimlere ayrılır: sezon içindeki tur, lige
-yeni gelen takım, dinlenme, favorinin gücü, sezon. base_dir verilirse aynı maçlarda baz tahminlerle eşleşmiş
+Son backtest'in tahminleri (reports/backtest_preds_{lig}.csv) dilimlere ayrılır: motivasyon (sezon sonu
+hedefi kalan takımlar, bkz. features.py), sezon içindeki tur, lige yeni gelen takım, dinlenme, favorinin gücü,
+sezon. base_dir verilirse aynı maçlarda baz tahminlerle eşleşmiş
 kıyas da yapılır; böylece bir model değişikliğinin hangi dilimde işe yaradığı görülür.
 """
 from pathlib import Path
@@ -12,6 +13,7 @@ import pandas as pd
 import config
 from src import db
 from src.backtest import MARKETS, _ll_each, _md_table, outcomes
+from src.features import add_motivation
 from src.odds import devig_frame
 
 KEYS = {"1X2": "1x2", "OU2.5": "ou"}
@@ -48,8 +50,10 @@ def _origin(teams: dict, div: str, season: int, team: str) -> str:
     return "veride yok"
 
 
-def _segments(d: pd.DataFrame, teams: dict, rest: dict) -> pd.DataFrame:
-    d = d.sort_values("date").copy()
+def _segments(d: pd.DataFrame, teams: dict, rest: dict, all_matches: pd.DataFrame) -> pd.DataFrame:
+    d = add_motivation(all_matches, d.sort_values("date"))
+    d["motivasyon"] = np.select([d["live_home"] & d["live_away"], d["live_home"], d["live_away"]],
+                                ["ikisi de hedefli", "sadece ev hedefli", "sadece dep hedefli"], "ikisi de hedefsiz")
     long = pd.concat([d[["season", "date", "home"]].set_axis(["season", "date", "team"], axis=1),
                       d[["season", "date", "away"]].set_axis(["season", "date", "team"], axis=1)]).sort_values("date")
     long["n"] = long.groupby(["season", "team"]).cumcount() + 1
@@ -87,7 +91,8 @@ def _table(d: pd.DataFrame, by: str, has_base: bool) -> pd.DataFrame:
 
 
 def run(divs: list, base_dir: str | None = None) -> str:
-    teams, rest = _context(db.load_matches())
+    all_matches = db.load_matches()
+    teams, rest = _context(all_matches)
     frames = []
     for div in divs:
         f = config.REPORTS_DIR / f"backtest_preds_{div}.csv"
@@ -100,7 +105,7 @@ def run(divs: list, base_dir: str | None = None) -> str:
             cur = cur.merge(base[["date", "home", "away", "ll_1x2", "ll_ou"]], on=["date", "home", "away"],
                             suffixes=("", "_base"))
         frames.append(cur[np.isfinite(cur["gap_1x2"])])  # Ü/A kapanışı 2019'dan önce yok; Ü/A sütunları NaN atlar
-    d = _segments(pd.concat(frames, ignore_index=True), teams, rest)
+    d = _segments(pd.concat(frames, ignore_index=True), teams, rest, all_matches)
 
     md = ["# Açık analizi (model − keskin kapanış log loss)", "",
           "Açık/maç: modelin kapanıştan ne kadar kötü olduğu (0 = kapanış kadar iyi). Açığın_%: toplam 1X2 "
@@ -109,6 +114,7 @@ def run(divs: list, base_dir: str | None = None) -> str:
         md.append(f"Fark (şimdi−baz): aynı maçlarda şimdiki tahminler ile `{base_dir}` tahminleri arasındaki log "
                   "loss farkı; negatif = şimdiki daha iyi.")
     md.append("")
-    for by in ["genel", "yeni takım", "yeni takım x dönem", "tur", "dinlenme", "favori (kapanış)", "sezon"]:
+    for by in ["genel", "motivasyon", "yeni takım", "yeni takım x dönem", "tur", "dinlenme", "favori (kapanış)",
+               "sezon"]:
         md += [f"## {by}", _md_table(_table(d, by, bool(base_dir)), "{:.4f}"), ""]
     return "\n".join(md)

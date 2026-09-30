@@ -44,8 +44,16 @@ def cmd_build(args):
         print(db.coverage(db.load_matches()).to_string(index=False))
 
 
+def _matches(args, div: str | None = None):
+    """Maçlar; --motivation açıksa maç öncesi puan durumundan motivasyon sütunu (mot) eklenir."""
+    from src import db
+    from src.features import add_motivation
+    df = db.load_matches(div)
+    return add_motivation(df) if args.motivation and not df.empty else df
+
+
 def cmd_backtest(args):
-    from src import backtest, db
+    from src import backtest
     divs = [args.div] if args.div else list(config.LEAGUES)
     parts = ["# Backtest raporu", ""]
     t0 = time.time()
@@ -53,13 +61,13 @@ def cmd_backtest(args):
               ridge_total=args.ridge_total)
     if args.joint:  # tek walk-forward, tüm ligler birlikte; rapor lig lig
         print("  [birleşik] walk-forward başlıyor ...")
-        preds = backtest.walk_forward(db.load_matches(), args.eval_from, args.xi, args.ridge,
+        preds = backtest.walk_forward(_matches(args), args.eval_from, args.xi, args.ridge,
                                       ridge_total=args.ridge_total)
         for div in divs:
             parts.append(backtest.run(div, None, preds=preds[preds["div"] == div].reset_index(drop=True), **kw))
     else:
         for div in divs:
-            df = db.load_matches(div)
+            df = _matches(args, div)
             if df.empty:
                 print(f"  [{div}] veri yok, atlanıyor")
                 continue
@@ -77,7 +85,7 @@ def cmd_tune(args):
     grid = lambda s: [float(v) for v in s.split(",")] if s else None  # noqa: E731
     md, table = tune.run(divs, args.xi, args.ridge, args.ridge_total, args.eval_from, args.tune_to, args.workers,
                          grid(args.xi_grid), grid(args.ridge_grid), grid(args.ridge_total_grid), args.criterion,
-                         joint=args.joint)
+                         joint=args.joint, motivation=args.motivation)
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     out = config.REPORTS_DIR / "tune_summary.md"
     out.write_text(md, encoding="utf-8")
@@ -98,17 +106,16 @@ def cmd_diagnose(args):
 def cmd_predict(args):
     from src import predict
     res = predict.run(args.fixtures, args.iddaa, xi=args.xi, ridge=args.ridge, ridge_total=args.ridge_total,
-                      joint=args.joint)
+                      joint=args.joint, motivation=args.motivation)
     predict.print_table(res)
 
 
 def cmd_ratings(args):
-    from src import db
     from src.dixon_coles import DixonColes
     kw = dict(xi=args.xi, ridge=args.ridge, ridge_total=args.ridge_total)
-    joint = DixonColes(**kw).fit(db.load_matches()) if args.joint else None
+    joint = DixonColes(**kw).fit(_matches(args)) if args.joint else None
     for div in ([args.div] if args.div else list(config.LEAGUES)):
-        df = db.load_matches(div)
+        df = _matches(args, div)
         if df.empty:
             continue
         cur = df[df["season"] == df["season"].max()]
@@ -117,6 +124,7 @@ def cmd_ratings(args):
         r = r[r["team"].isin(set(cur["home"]) | set(cur["away"]))]
         extra = (f", lig gücü {m.league_strength[div]:+.3f}, yeni gelen sapması: çıkan "
                  f"{m.newcomer_offset['çıkan']:+.3f} / düşen {m.newcomer_offset['düşen']:+.3f}") if joint else ""
+        extra += f", motivasyon {m.motivation:+.3f}" if args.motivation else ""
         print(f"\n=== {config.LEAGUES[div]} — ev avantajı {m.home[div]:.3f}, rho {m.rho:.3f}{extra} ===")
         print(r.round(3).to_string(index=False))
 
@@ -147,6 +155,8 @@ def main():
         sp.add_argument("--div", choices=list(config.LEAGUES), help="tek lig (varsayılan: hepsi)")
         sp.add_argument("--joint", action=argparse.BooleanOptionalAction, default=config.JOINT,
                         help="ligleri tek modelde birlikte eğit (--no-joint: her lig ayrı)")
+        sp.add_argument("--motivation", action=argparse.BooleanOptionalAction, default=config.MOTIVATION,
+                        help="sezon sonu motivasyonunu (puan durumundan) modele kat")
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict),

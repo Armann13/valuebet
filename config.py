@@ -77,6 +77,15 @@ RIDGE_TOTAL = 16.0    # eğilim (atak + defans, Ü/A) yönünde L2 çekimi; None
 # kazanç, lig değiştiren takımlardaki yanlılığın gitmesi: çıkan takımın kazanma olasılığı kapanışa göre
 # +0.03'ten ~0'a, düşeninki -0.02/-0.03'ten ~-0.01'e indi. --no-joint ile her lig ayrı eğitilir.
 JOINT = True
+# Motivasyon (bkz. src/features.py): sezon sonunda sadece bir takımın hedefi (sıralama sınırı) kalmışsa,
+# kapanış o takıma motivasyonsuz modelden 5-7 puan daha fazla kazanma olasılığı veriyordu; sonuçlar da hedefli
+# takımın 5-11 puan daha sık kazandığını gösteriyor. REACH: kalan maç başına kaç puanlık fark "hâlâ
+# yetişilebilir" sayılır. M: hedefli takım lehine güç farkı. Pencereden öğrenilen m küçük çıktığı için sabit.
+# Seçim 2016-2021 (1X2 + Ü/A log loss): REACH 1/2/3 ve M 0.1-0.8 içinde en iyi REACH=2, M=0.5 (0.4-0.6 düz).
+# Test 2022+, motivasyonsuz birleşik modele göre 1X2: SP1 -0.0027 ± 0.0041, SP2 -0.0032 ± 0.0032.
+MOTIVATION = True
+MOTIVATION_REACH = 2.0
+MOTIVATION_M = 0.5    # sabit m (None = her pencerede öğren)
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 

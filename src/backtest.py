@@ -29,8 +29,10 @@ def outcomes(df: pd.DataFrame, market: str) -> np.ndarray:
 
 # ---------------------------------------------------------------------------- walk-forward
 def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
-                 lookback: int = config.LOOKBACK_DAYS, ridge_total: float | None = None) -> pd.DataFrame:
-    """df'te birden çok lig varsa her hafta tek bir birleşik model eğitilir (bkz. DixonColes)."""
+                 lookback: int = config.LOOKBACK_DAYS, ridge_total: float | None = None,
+                 **model_kw) -> pd.DataFrame:
+    """df'te birden çok lig varsa her hafta tek bir birleşik model eğitilir (bkz. DixonColes).
+    model_kw: DixonColes'a geçen diğer ayarlar (ör. motivation_fixed)."""
     df = df.sort_values("date").reset_index(drop=True)
     ev = df[df["season"] >= eval_from].copy()
     iso = ev["date"].dt.isocalendar()
@@ -42,13 +44,13 @@ def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
             cur_season = season
             print(f"    sezon {season}/{(season + 1) % 100:02d} ...", flush=True)
         try:
-            model = DixonColes(xi=xi, ridge=ridge, ridge_total=ridge_total, lookback_days=lookback).fit(
+            model = DixonColes(xi=xi, ridge=ridge, ridge_total=ridge_total, lookback_days=lookback, **model_kw).fit(
                 df, ref_date=g["date"].min(), warm_start=prev)
         except ValueError:
             continue
         prev = model
         for rec in g.to_dict("records"):
-            rows.append({**rec, **model.predict(rec["home"], rec["away"], rec.get("div"))})
+            rows.append({**rec, **model.predict(rec["home"], rec["away"], rec.get("div"), rec.get("mot", 0))})
     return pd.DataFrame(rows)
 
 

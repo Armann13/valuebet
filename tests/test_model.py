@@ -57,10 +57,59 @@ def test_gradient():
     err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts)[0],
                      lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts)[1], th2)
     assert err < 1e-5, err
+    # motivasyonlu: parametre yeni gelen sapmalarından sonra, takımlardan önce
+    mot = rng.integers(-1, 2, m).astype(float)
+    th3 = np.r_[th2[:8], 0.3, th2[8:]]
+    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot)[0],
+                     lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot)[1], th3)
+    assert err < 1e-5, err
+    th4 = np.r_[th[:3], 0.3, th[3:]]  # tek lig + motivasyon
+    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, None, None, 1, None, mot)[0],
+                     lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, None, None, 1, None, mot)[1], th4)
+    assert err < 1e-5, err
     # ridge = ridge_total iken ceza eski haliyle aynı: ridge * (Σa² + Σd²)
     a, d = th[3:3 + n], th[3 + n:]
     pen = (_objective(th, hi, ai, x, y, w, n, 2.0, 2.0)[0] - _objective(th, hi, ai, x, y, w, n, 0.0, 0.0)[0]) * w.sum()
     assert abs(pen - 2.0 * (a @ a + d @ d)) < 1e-9, pen
+
+
+def test_motivation_live():
+    from src.features import _live
+    table = [80, 75, 70, 65, 60, 58, 55, 50, 48, 46, 45, 44, 43, 42, 41, 40, 39, 38, 30, 20]  # 20 takım
+    assert not _live("SP1", 46, 10, 2, table, 1.0)   # orta sıra, 2 maç kala hiçbir sınıra yetişemez
+    assert _live("SP1", 39, 17, 2, table, 1.0)       # 18.'nin 1 puan önünde: küme hattında
+    assert not _live("SP1", 80, 1, 2, table, 1.0)    # şampiyonluk kesinleşmiş
+    assert _live("SP1", 46, 10, 10, table, 1.0)      # 10 maç kala Avrupa'ya 9 puan: hâlâ hedefli
+
+
+def test_motivation_recovery():
+    """Hedefli takım m kadar güçlü oynuyorsa (puan durumuna göre tur tur üretilmiş lig), model m'yi bulur."""
+    from src.features import add_motivation
+    from tests.make_synthetic import dc_matrix, round_robin
+    rng = np.random.default_rng(2)
+    teams = [f"T{i:02d}" for i in range(20)]
+    s = dict(zip(teams, rng.normal(0, 0.35, 20)))
+    true_m, rows = 0.6, []
+    for season in range(2019, 2024):
+        start = pd.Timestamp(f"{season}-08-17")
+        for r, pairs in enumerate(round_robin(teams)):
+            fx = pd.DataFrame([{"div": "SP1", "season": season, "date": start + pd.Timedelta(weeks=r),
+                                "home": h, "away": a} for h, a in pairs])
+            past = pd.DataFrame(rows) if rows else fx.assign(fthg=np.nan, ftag=np.nan).iloc[:0]
+            for rec in add_motivation(past, fx, reach=1.0).itertuples():
+                ms = 0.5 * true_m * rec.mot
+                mm = dc_matrix(np.exp(0.45 + (s[rec.home] - s[rec.away]) / 2 + ms),
+                               np.exp(0.2 + (s[rec.away] - s[rec.home]) / 2 - ms))
+                k = rng.choice(mm.size, p=mm.ravel())
+                rows.append({"div": "SP1", "season": season, "date": rec.date, "home": rec.home, "away": rec.away,
+                             "fthg": k // 11, "ftag": k % 11, "mot": rec.mot})
+    df = pd.DataFrame(rows)
+    assert (df["mot"] != 0).sum() > 150, (df["mot"] != 0).sum()
+    m = DixonColes(xi=0.0, ridge=1.0, ridge_total=16.0, lookback_days=5000, motivation_fixed=None).fit(df)
+    assert abs(m.motivation - true_m) < 0.3, m.motivation
+    fixed = DixonColes(xi=0.0, ridge=1.0, ridge_total=16.0, lookback_days=5000, motivation_fixed=0.25).fit(df)
+    assert fixed.motivation == 0.25
+    assert m.predict("T00", "T01", mot=1)["p_home"] > m.predict("T00", "T01", mot=0)["p_home"]
 
 
 def test_ridge_total_shrinks_totals():
@@ -223,6 +272,9 @@ def test_end_to_end():
     r = run("main.py", "diagnose", "--div", "SP1", "--base", str(base))
     assert r.returncode == 0, r.stderr
     assert "fark (şimdi−baz)" in (tmp / "reports" / "diagnose_summary.md").read_text(encoding="utf-8")
+    r = run("main.py", "backtest", "--joint", "--motivation", "--eval-from", "2026")
+    assert r.returncode == 0, r.stderr
+    assert "mot" in pd.read_csv(tmp / "reports" / "backtest_preds_SP1.csv", nrows=1).columns
     r = run("main.py", "tune", "--div", "SP1", "--eval-from", "2024", "--tune-to", "2024", "--workers", "2",
             "--xi-grid", str(config.XI), "--ridge-grid", str(config.RIDGE + 1),
             "--ridge-total-grid", str((config.RIDGE_TOTAL or config.RIDGE) + 1))
@@ -231,7 +283,8 @@ def test_end_to_end():
     assert len(pd.read_csv(tmp / "reports" / "tune_grid.csv")) == 4  # {ridge, ridge+1} x {total, total+1}
     iddaa = tmp / "iddaa.csv"
     iddaa.write_text("home,away,odd_1,odd_x,odd_2\nLiga Takim 01,liga takım 02,2.1,3.3,3.4\n", encoding="utf-8")
-    r = run("main.py", "predict", "--fixtures", str(tmp / "data" / "raw" / "fixtures.csv"), "--iddaa", str(iddaa))
+    r = run("main.py", "predict", "--motivation", "--fixtures", str(tmp / "data" / "raw" / "fixtures.csv"),
+            "--iddaa", str(iddaa))
     assert r.returncode == 0, r.stderr
     assert "İddaa oranlarına göre" in r.stdout, r.stdout[-2000:]
     pred = pd.read_csv(next((tmp / "reports").glob("predictions_*.csv")))

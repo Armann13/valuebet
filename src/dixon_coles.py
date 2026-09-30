@@ -23,6 +23,11 @@ lige düşmüş ("düşen") takımların lig ortalamasından ortalama sapması. 
 (ligin alt sıralarında olması beklenirken) üst lig ortalamasına doğru yukarı çekilir ve olduğundan güçlü
 görünür; düşen takım da aşağı çekilir. Hepsi cezasız parametrelerdir; lig sırası adlara göredir (SP1 üst).
 Durum için sezon sütunu gerekir; yoksa herkes "yeni değil" sayılır.
+
+Motivasyon (df'te "mot" sütunu varsa, bkz. features.py): mot = ev hedefli - deplasman hedefli ∈ {-1, 0, 1}.
+Hedefli takımın gücü m/2 artar, hedefsizinki m/2 azalır: log lambda += m*mot/2, log nu -= m*mot/2. m sabit
+verilebilir (motivation_fixed) ya da pencereden öğrenilir; kısa, zaman ağırlıklı pencerede öğrenilen m küçük
+çıkıyor (sezon sonu sonuçları takım güçlerine yazılıyor), bu yüzden varsayılan olarak sabit m kullanılır.
 """
 from dataclasses import dataclass, field
 
@@ -41,6 +46,7 @@ class DixonColes:
     xi: float = config.XI
     ridge: float = config.RIDGE
     ridge_total: float | None = config.RIDGE_TOTAL  # None = ridge ile aynı
+    motivation_fixed: float | None = config.MOTIVATION_M  # None = m pencereden öğrenilir, sayı = sabit m
     lookback_days: int = config.LOOKBACK_DAYS
     max_goals: int = config.MAX_GOALS
 
@@ -50,6 +56,7 @@ class DixonColes:
     home: dict = field(default_factory=dict)          # lig -> ev avantajı
     league_strength: dict = field(default_factory=dict)  # lig -> ortalama güç (atak - defans)
     newcomer_offset: dict = field(default_factory=dict)  # "çıkan" / "düşen" -> lig ortalamasından sapma
+    motivation: float = 0.0                           # m (bkz. modül açıklaması); mot sütunu yoksa 0
     rho: float = 0.0
     attack: np.ndarray = field(default_factory=lambda: np.zeros(0))
     defence: np.ndarray = field(default_factory=lambda: np.zeros(0))
@@ -85,9 +92,12 @@ class DixonColes:
         team_league, team_status = _team_context(df[df["date"] < ref_date], d, div, leagues)
         tl = np.array([lidx[team_league[t]] for t in teams])
         ts = np.array([team_status.get(t, 0) for t in teams])
+        mot = d["mot"].to_numpy(dtype=float) if "mot" in d else None
 
-        # [mu(k), home(k), rho, lig_gücü(k-1), yeni_gelen çıkan & düşen (k>1 ise), atak(n), defans(n)]
-        off = 3 * k + 2 * (k > 1)
+        # [mu(k), home(k), rho, lig_gücü(k-1), yeni_gelen çıkan & düşen (k>1 ise), motivasyon (mot varsa),
+        #  atak(n), defans(n)]
+        base = 3 * k + 2 * (k > 1)
+        off = base + (mot is not None)
         theta0 = np.zeros(off + 2 * n)
         for j in range(k):
             theta0[j] = np.log(max((x[li == j].mean() + y[li == j].mean()) / 2, 0.1))
@@ -102,6 +112,8 @@ class DixonColes:
             if k > 1:
                 theta0[3 * k] = warm_start.newcomer_offset.get("çıkan", 0.0)
                 theta0[3 * k + 1] = warm_start.newcomer_offset.get("düşen", 0.0)
+            if mot is not None:
+                theta0[base] = warm_start.motivation
             prev = {t: i for i, t in enumerate(warm_start.teams)}
             for t, i in idx.items():
                 if t in prev:
@@ -109,7 +121,11 @@ class DixonColes:
                     theta0[off + n + i] = warm_start.defence[prev[t]]
 
         bounds = [(None, None)] * (2 * k) + [(-0.25, 0.25)] + [(None, None)] * (off - 2 * k - 1 + 2 * n)
-        res = minimize(_objective, theta0, args=(hi, ai, x, y, w, n, self.ridge, self.ridge_total, li, tl, k, ts),
+        if mot is not None and self.motivation_fixed is not None:  # sabit m: sınırlarla dondurulur
+            theta0[base] = self.motivation_fixed
+            bounds[base] = (self.motivation_fixed, self.motivation_fixed)
+        res = minimize(_objective, theta0,
+                       args=(hi, ai, x, y, w, n, self.ridge, self.ridge_total, li, tl, k, ts, mot),
                        jac=True, method="L-BFGS-B", bounds=bounds,
                        options={"maxiter": 2000, "gtol": 1e-7})
         th = res.x
@@ -120,6 +136,7 @@ class DixonColes:
         self.rho = float(th[2 * k])
         self.league_strength = {lg: (0.0 if j == 0 else float(th[2 * k + j])) for lg, j in lidx.items()}
         self.newcomer_offset = {"çıkan": float(th[3 * k]), "düşen": float(th[3 * k + 1])} if k > 1 else {}
+        self.motivation = float(th[base]) if mot is not None else 0.0
         self.attack, self.defence = th[off:off + n].copy(), th[off + n:].copy()
         self.n_matches = pd.concat([d["home"], d["away"]]).value_counts().to_dict()
         self.ref_date, self.converged = ref_date, bool(res.success)
@@ -142,15 +159,17 @@ class DixonColes:
         a, d = (self.attack[same], self.defence[same]) if same.sum() >= 4 else (self.attack, self.defence)
         return float(np.quantile(a, 0.25)), float(np.quantile(d, 0.75)), False
 
-    def expected_goals(self, home: str, away: str, div: str | None = None) -> tuple[float, float]:
+    def expected_goals(self, home: str, away: str, div: str | None = None, mot: int = 0) -> tuple[float, float]:
+        """mot: ev hedefli - deplasman hedefli (bkz. features.add_motivation)."""
         lg = self._league(div)
         ah, dh, _ = self._team_params(home, lg)
         aa, da, _ = self._team_params(away, lg)
-        return (float(np.exp(self.mu[lg] + self.home[lg] + ah + da)),
-                float(np.exp(self.mu[lg] + aa + dh)))
+        ms = 0.5 * self.motivation * (0 if mot is None or not np.isfinite(mot) else mot)
+        return (float(np.exp(self.mu[lg] + self.home[lg] + ah + da + ms)),
+                float(np.exp(self.mu[lg] + aa + dh - ms)))
 
-    def score_matrix(self, home: str, away: str, div: str | None = None) -> np.ndarray:
-        lam, nu = self.expected_goals(home, away, div)
+    def score_matrix(self, home: str, away: str, div: str | None = None, mot: int = 0) -> np.ndarray:
+        lam, nu = self.expected_goals(home, away, div, mot)
         g = np.arange(self.max_goals + 1)
         m = np.outer(poisson.pmf(g, lam), poisson.pmf(g, nu))
         m[0, 0] *= 1 - lam * nu * self.rho
@@ -160,9 +179,9 @@ class DixonColes:
         m = np.clip(m, 0, None)
         return m / m.sum()
 
-    def predict(self, home: str, away: str, div: str | None = None) -> dict:
-        lam, nu = self.expected_goals(home, away, div)
-        m = self.score_matrix(home, away, div)
+    def predict(self, home: str, away: str, div: str | None = None, mot: int = 0) -> dict:
+        lam, nu = self.expected_goals(home, away, div, mot)
+        m = self.score_matrix(home, away, div, mot)
         g = np.arange(self.max_goals + 1)
         total = g[:, None] + g[None, :]
         flat = np.argsort(m, axis=None)[::-1][:3]
@@ -210,9 +229,10 @@ def _team_context(hist: pd.DataFrame, d: pd.DataFrame, div: pd.Series, leagues: 
     return team_league, status
 
 
-def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=None, k=1, ts=None):
+def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=None, k=1, ts=None, mot=None):
     """Ağırlıklı negatif log-olabilirlik + ridge ve analitik gradyanı.
-    li: maçın lig indeksi, tl: takımın lig indeksi, k: lig sayısı, ts: takımın durumu (+1 çıktı, -1 düştü, 0)."""
+    li: maçın lig indeksi, tl: takımın lig indeksi, k: lig sayısı, ts: takımın durumu (+1 çıktı, -1 düştü, 0),
+    mot: maçın motivasyon farkı (ev hedefli - deplasman hedefli); verilirse m parametresi kullanılır."""
     rt = ridge if ridge_total is None else ridge_total
     li = np.zeros(len(x), dtype=int) if li is None else li
     tl = np.zeros(n, dtype=int) if tl is None else tl
@@ -220,11 +240,13 @@ def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=N
     mu, h, rho = theta[:k], theta[k:2 * k], theta[2 * k]
     lstr = np.r_[0.0, theta[2 * k + 1:3 * k]]
     up, down = (ts == 1), (ts == -1)
-    off = 3 * k + 2 * (k > 1)
+    base = 3 * k + 2 * (k > 1)
+    off = base + (mot is not None)
     target = lstr[tl] + (theta[3 * k] * up + theta[3 * k + 1] * down if k > 1 else 0.0)
+    ms = 0.0 if mot is None else 0.5 * theta[base] * mot   # hedefli takım lehine
     a, d = theta[off:off + n], theta[off + n:]
-    eta1 = mu[li] + h[li] + a[hi] + d[ai]
-    eta2 = mu[li] + a[ai] + d[hi]
+    eta1 = mu[li] + h[li] + a[hi] + d[ai] + ms
+    eta2 = mu[li] + a[ai] + d[hi] - ms
     lam, nu = np.exp(eta1), np.exp(eta2)
 
     tau = np.ones_like(lam)
@@ -265,6 +287,8 @@ def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=N
     if k > 1:
         grad[3 * k] = -ridge * e[up].sum()
         grad[3 * k + 1] = -ridge * e[down].sum()
+    if mot is not None:
+        grad[base] = -0.5 * ((g1 - g2) * mot).sum()
     grad[off:off + n] = -(np.bincount(hi, g1, n) + np.bincount(ai, g2, n)) + ridge * e + rt * t
     grad[off + n:] = -(np.bincount(ai, g1, n) + np.bincount(hi, g2, n)) - ridge * e + rt * t
     return obj, grad / W
