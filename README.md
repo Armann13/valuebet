@@ -1,8 +1,14 @@
-# La Liga Value Bet Sistemi — Faz 0 + Faz 1
+# Futbol Value Bet Sistemi
 
-Tarihsel La Liga ve La Liga 2 verisini indirir, zaman ağırlıklı **Dixon-Coles** gol modelini kurar,
-modeli **keskin kapanış oranlarına** karşı dürüstçe test eder (walk-forward backtest) ve yaklaşan maçlar
-için olasılık, adil oran ve value adaylarını listeler.
+football-data.co.uk'taki 22 Avrupa liginin (İngiltere 5 kademe, İskoçya 4, Almanya, İtalya, İspanya, Fransa
+2'şer, Hollanda, Belçika, Portekiz, Türkiye, Yunanistan) 2014/15'ten bugüne verisini indirir, zaman ağırlıklı
+**Dixon-Coles** gol modelini (her ülkenin ligleri birlikte) kurar, modeli **keskin kapanış oranlarına** karşı
+dürüstçe test eder (walk-forward backtest) ve yaklaşan maçlar için olasılık, adil oran ve value adaylarını
+listeler. Model ayarları (ridge, motivasyon, xG ağırlığı) İspanya'da seçildi; diğer liglerde backtest ile
+doğrulanır.
+
+Öneriler: `python main.py predict --iddaa auto` → `reports/oneriler_{tarih}.md` (VALUE bahisleri ve en olası
+sonuçlar ayrı ayrı; en olası sonuç value değildir).
 
 **Keskin piyasa** = Pinnacle, o yoksa Betfair Exchange (borsa). football-data.co.uk'taki Pinnacle oranları
 12.01.2026'da kesildi; borsa oranları 2024/25'ten beri var. İkisinin çakıştığı ~1.200 maçta borsa kapanışı

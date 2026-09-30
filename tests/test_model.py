@@ -249,6 +249,10 @@ def test_parse_understat():
     assert len(df) == 1 and df.loc[0, "hxg"] == 0.989 and df.loc[0, "ag"] == 1
     from src.teams import TeamResolver
     assert TeamResolver(["Ath Bilbao", "Getafe", "Betis"])("Athletic Club") == "Ath Bilbao"
+    r = TeamResolver(["Sutton", "Man City", "Man United", "Paris SG", "Paris FC"])
+    assert r("Sutton United") == "Sutton" and r.fuzzy == {"Sutton United": "Sutton"}  # tek aday: önek kuralı
+    assert r("Manchester United") == "Man United" and r("Paris Saint Germain") == "Paris SG"  # eşleştirme tablosu
+    assert r("Paris") is None  # iki aday ("Paris SG", "Paris FC"): tahmin etme
 
 
 def test_parse_iddaa():
@@ -346,7 +350,7 @@ def test_end_to_end():
     assert r.returncode == 0, r.stderr
     assert "İddaa oranlarına göre" in r.stdout, r.stdout[-2000:]
     rec = next((tmp / "reports").glob("oneriler_*.md")).read_text(encoding="utf-8")
-    assert "## 1) VALUE bahisleri" in rec and "## 2) En olası sonuçlar" in rec, rec[:500]
+    assert all(s in rec for s in ("## 1) Keskin fiyat sinyali", "## 2) VALUE", "## 3) En olası sonuçlar")), rec[:500]
     pred = pd.read_csv(next((tmp / "reports").glob("predictions_*.csv")))
     fx = pred[pred["kaynak"] == "fixtures"]
     assert fx["max_edge_keskin"].notna().any(), "fikstürde Pinnacle yok; borsa fiyatı kullanılmalı"

@@ -238,6 +238,24 @@ def summarize(b: pd.DataFrame, start: float | None = None) -> dict:
     return s
 
 
+def strategy_summary(divs: list, bet_book: str = config.BET_BOOK) -> pd.DataFrame:
+    """Kaydedilmiş backtest tahminlerinden (reports/backtest_preds_{lig}.csv) lig x kural özeti: bahis sayısı,
+    ortalama CLV ve t. Öneri raporu her sinyalin yanında bunu gösterir (hangi ligde hangi kural tutmuş)."""
+    rows = []
+    for div in divs:
+        f = config.REPORTS_DIR / f"backtest_preds_{div}.csv"
+        if not f.exists():
+            continue
+        p = pd.read_csv(f, parse_dates=["date"], low_memory=False)
+        for rule in RULES:
+            s = summarize(find_bets(p, bet_book, config.CLOSING_BOOK, config.DEVIG_METHOD, config.EDGE_MIN,
+                                    config.MAX_ODDS, config.MIN_TEAM_MATCHES, rule))
+            rows.append({"lig": div, "kural": rule, "bahis": s.get("bahis", 0),
+                         "CLV_ort_%": s.get("CLV_ort_%", np.nan), "CLV_t": s.get("CLV_t", np.nan),
+                         "ROI_%": s.get("ROI_%", np.nan)})
+    return pd.DataFrame(rows)
+
+
 # ---------------------------------------------------------------------------- rapor
 def _md_table(df: pd.DataFrame, floatfmt="{:.4f}") -> str:
     def fmt(v):

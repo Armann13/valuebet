@@ -91,6 +91,27 @@ def _map_teams(df: pd.DataFrame, report: bool = False) -> tuple[pd.DataFrame, se
     return df, unknown
 
 
+def _report_names(df: pd.DataFrame, unknown: set, fuzzy: dict, now: str) -> None:
+    """Eşleşmeyen ve bulanık eşleşen adları data/raw/iddaa/eslesme_raporu.csv'de biriktirir (gözden geçirmek için;
+    düzeltme team_aliases.csv'ye 'alias,team' satırıyla)."""
+    rows = []
+    for side in ("home", "away"):
+        for div, name in df[["div", f"{side}_iddaa"]].drop_duplicates().itertuples(index=False):
+            if name in unknown:
+                rows.append({"iddaa_adı": name, "lig": div, "durum": "eşleşmedi", "eşlenen": ""})
+            elif name in fuzzy:
+                rows.append({"iddaa_adı": name, "lig": div, "durum": "bulanık", "eşlenen": fuzzy[name]})
+    if not rows:
+        return
+    path = config.RAW_DIR / "iddaa" / "eslesme_raporu.csv"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    old = pd.read_csv(path) if path.exists() else pd.DataFrame(columns=["iddaa_adı", "lig", "durum", "eşlenen", "ilk_görülme"])
+    new = pd.DataFrame(rows).drop_duplicates().assign(ilk_görülme=now)
+    new = new[~new.set_index(["iddaa_adı", "lig"]).index.isin(old.set_index(["iddaa_adı", "lig"]).index)]
+    if len(new):
+        pd.concat([old, new], ignore_index=True).to_csv(path, index=False)
+
+
 def _season(kickoff: pd.Series) -> pd.Series:
     t = pd.to_datetime(kickoff)
     return np.where(t.dt.month >= 7, t.dt.year, t.dt.year - 1)
@@ -111,6 +132,7 @@ def collect() -> int:
     fuzzy = {k: v for r in df.attrs.pop("resolvers", []) for k, v in r.fuzzy.items()}
     if fuzzy:  # yanlış eşleşme riski: gözden geçir, yanlışsa team_aliases.csv ile düzelt
         print("  ? iddaa bulanık eşleşmeler: " + ", ".join(f"{k} -> {v}" for k, v in sorted(fuzzy.items())))
+    _report_names(df, unknown, fuzzy, now)
     df.insert(0, "snapshot_utc", now)
     df["season"] = _season(df["kickoff_utc"])
     folder = config.RAW_DIR / "iddaa"

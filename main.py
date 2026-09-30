@@ -66,6 +66,7 @@ def _groups(divs: list) -> dict:
 
 
 def cmd_backtest(args):
+    import pandas as pd
     from src import backtest, db
     divs = [args.div] if args.div else db.available_divs()
     parts = ["# Backtest raporu", ""]
@@ -92,6 +93,17 @@ def cmd_backtest(args):
                 continue
             parts.append(backtest.run(div, df, **kw))
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    strat = backtest.strategy_summary(divs, args.book)
+    if not strat.empty:  # lig x kural özeti: öneri raporu sinyallerin güvenilirliğini buradan gösterir
+        strat.to_csv(config.REPORTS_DIR / "strateji_ozet.csv", index=False)
+        wide = strat.pivot(index="lig", columns="kural", values="CLV_ort_%").reindex(
+            [d for d in divs if d in set(strat["lig"])])
+        tstat = strat.pivot(index="lig", columns="kural", values="CLV_t").reindex(wide.index)
+        nbet = strat.pivot(index="lig", columns="kural", values="bahis").reindex(wide.index)
+        table = pd.DataFrame({f"{backtest.RULES[r]}": [f"{c:+.2f}% (n={n:.0f}, t={t:+.1f})" if n > 1 else "—"
+                                                       for c, t, n in zip(wide[r], tstat[r], nbet[r])]
+                              for r in backtest.RULES}, index=wide.index).reset_index()
+        parts[2:2] = ["## Lig özeti — kural bazında CLV (B365 oranıyla)", backtest._md_table(table), ""]
     out = config.REPORTS_DIR / "backtest_summary.md"
     out.write_text("\n".join(parts), encoding="utf-8")
     print("\n" + "\n".join(parts))

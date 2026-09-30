@@ -53,6 +53,13 @@ class TeamResolver:
             return self.aliases[n]
         if n in self.by_norm:
             return self.by_norm[n]
+        # "Sutton United" -> "Sutton": ad, bilinen TEK bir takımın adıyla (kelime sınırında) başlıyorsa
+        pre = [k for k in self.by_norm if n.startswith(k + " ") or k.startswith(n + " ")]
+        if len(pre) == 1:
+            self.fuzzy[name] = self.by_norm[pre[0]]
+            return self.by_norm[pre[0]]
+        if len(pre) > 1:  # belirsiz (ör. "Paris" -> "Paris SG" / "Paris FC"): tahmin etme
+            return None
         hit = difflib.get_close_matches(n, list(self.by_norm), n=1, cutoff=0.75)
         if hit:
             self.fuzzy[name] = self.by_norm[hit[0]]
