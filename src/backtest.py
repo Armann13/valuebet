@@ -6,6 +6,11 @@ edilir (geleceği görme / sızıntı yok). Sonra:
      RPS, kalibrasyon)
   2) Value simülasyonu: edge >= eşik olan bahisler, düz bahis ROI, çeyrek Kelly kasa, CLV
 """
+import contextlib
+import io
+import time
+from concurrent.futures import ProcessPoolExecutor
+
 import numpy as np
 import pandas as pd
 
@@ -52,6 +57,27 @@ def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
         for rec in g.to_dict("records"):
             rows.append({**rec, **model.predict(rec["home"], rec["away"], rec.get("div"), rec.get("mot", 0))})
     return pd.DataFrame(rows)
+
+
+def _wf_job(job):
+    group, df, eval_from, xi, ridge, ridge_total = job
+    t0 = time.time()
+    with contextlib.redirect_stdout(io.StringIO()):
+        preds = walk_forward(df, eval_from, xi, ridge, ridge_total=ridge_total)
+    return group, preds, time.time() - t0
+
+
+def walk_forward_groups(df: pd.DataFrame, groups: dict, eval_from: int, xi: float, ridge: float,
+                        ridge_total: float | None, workers: int) -> pd.DataFrame:
+    """Her grup (config.LEAGUE_GROUPS: bir ülkenin kademeleri) ayrı bir birleşik modelle; gruplar paralel."""
+    jobs = [(g, df[df["div"].isin(divs)], eval_from, xi, ridge, ridge_total)
+            for g, divs in groups.items() if df["div"].isin(divs).any()]
+    out = []
+    with ProcessPoolExecutor(max_workers=max(1, min(workers, len(jobs)))) as ex:
+        for g, preds, secs in ex.map(_wf_job, jobs):
+            print(f"  [{g}] {len(preds)} maç tahmin edildi ({secs:.0f} sn)", flush=True)
+            out.append(preds)
+    return pd.concat(out, ignore_index=True) if out else pd.DataFrame()
 
 
 # ---------------------------------------------------------------------------- metrikler

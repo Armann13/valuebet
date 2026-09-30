@@ -1,4 +1,4 @@
-"""İddaa oranlarının otomatik toplanması (La Liga + La Liga 2).
+"""İddaa oranlarının otomatik toplanması (config.LEAGUES'teki tüm ligler).
 
 iddaa.com'un sitesinin kullandığı JSON uç noktasından (resmi API değil) maç öncesi futbol programı çekilir:
   maç sonucu (market t=1, st=1; sonuçlar "1" / "0" / "2") ve alt/üst (t=2, st=101; baraj "sov").
@@ -32,6 +32,20 @@ def _get(path: str):
     return j["data"]
 
 
+def resolve_competitions(comps: list) -> dict:
+    """iddaa lig no -> bizim lig kodumuz. config.IDDAA_LEAGUE_NAMES ile: ad tam aynı ya da "ad," ile başlıyor
+    (sezon aşaması eki, ör. "İskoçya Premiership, Şampiyona Turu"). "... Beşiktaş Özel" gibi özel marketler dışarıda."""
+    out = {}
+    for c in comps:
+        if str(c.get("si")) != "1":  # futbol
+            continue
+        name = str(c.get("n", "")).strip()
+        for div, base in config.IDDAA_LEAGUE_NAMES.items():
+            if name == base or name.startswith(base + ","):
+                out[c["i"]] = div
+    return out
+
+
 def parse_events(events: list, competitions: dict) -> pd.DataFrame:
     """events: /sportsbook/events yanıtındaki liste. competitions: iddaa lig no -> bizim lig kodumuz."""
     rows = []
@@ -60,16 +74,18 @@ def parse_events(events: list, competitions: dict) -> pd.DataFrame:
     return df
 
 
-def _map_teams(df: pd.DataFrame) -> tuple[pd.DataFrame, set]:
+def _map_teams(df: pd.DataFrame, report: bool = False) -> tuple[pd.DataFrame, set]:
     from src import db
     from src.teams import TeamResolver
     known = db.load_matches()
     unknown = set()
     for div in df["div"].unique():
         resolve = TeamResolver(known.loc[known["div"] == div, "home"].unique())
+        if report:
+            df.attrs.setdefault("resolvers", []).append(resolve)
         for side in ("home", "away"):
             sel = df["div"] == div
-            names = {n: resolve(n) for n in df.loc[sel, f"{side}_iddaa"].unique()}
+            names = {n: resolve(n) for n in df.loc[sel, f"{side}_iddaa"].dropna().unique()}  # boş ad: eşleme yok
             unknown |= {n for n, v in names.items() if v is None}
             df.loc[sel, side] = df.loc[sel, f"{side}_iddaa"].map(names)
     return df, unknown
@@ -82,15 +98,19 @@ def _season(kickoff: pd.Series) -> pd.Series:
 
 def collect() -> int:
     """Anlık oranları çeker ve değişenleri data/raw/iddaa/odds_{sezon}.csv'ye ekler. Döner: yeni satır sayısı."""
+    comps = resolve_competitions(_get("competitions"))
     events = _get("events?st=1&type=0&version=0")["events"]
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
-    df = parse_events(events, config.IDDAA_COMPETITIONS)
+    df = parse_events(events, comps)
     if df.empty:
-        print("  iddaa: La Liga / La Liga 2 maçı yok")
+        print(f"  iddaa: takip edilen liglerde maç yok ({len(comps)} lig eşleşti)")
         return 0
-    df, unknown = _map_teams(df)
+    df, unknown = _map_teams(df, report=True)
     if unknown:
         print(f"  ! iddaa'da eşleşmeyen takım adları (team_aliases.csv'ye ekle): {', '.join(sorted(unknown))}")
+    fuzzy = {k: v for r in df.attrs.pop("resolvers", []) for k, v in r.fuzzy.items()}
+    if fuzzy:  # yanlış eşleşme riski: gözden geçir, yanlışsa team_aliases.csv ile düzelt
+        print("  ? iddaa bulanık eşleşmeler: " + ", ".join(f"{k} -> {v}" for k, v in sorted(fuzzy.items())))
     df.insert(0, "snapshot_utc", now)
     df["season"] = _season(df["kickoff_utc"])
     folder = config.RAW_DIR / "iddaa"
@@ -111,7 +131,8 @@ def collect() -> int:
         if keep:
             pd.concat([old, pd.DataFrame(keep)], ignore_index=True).to_csv(path, index=False)
             added += len(keep)
-    print(f"  iddaa: {len(df)} maç görüldü, {added} yeni / değişen oran kaydı")
+    per = ", ".join(f"{d} {n}" for d, n in df["div"].value_counts().sort_index().items())
+    print(f"  iddaa: {len(df)} maç görüldü ({per}), {added} yeni / değişen oran kaydı")
     return added
 
 
@@ -121,6 +142,10 @@ def load_odds() -> pd.DataFrame:
     if not files:
         return pd.DataFrame()
     df = pd.concat([pd.read_csv(f) for f in files], ignore_index=True)
+    if "home_iddaa" in df:  # ham adlardan yeniden eşle: sonradan eklenen eşleştirmeler eski kayıtlara da uygulanır
+        mapped, _ = _map_teams(df.copy())
+        for side in ("home", "away"):  # yeniden eşleme başarısızsa kayıtlı eşleşme kalır
+            df[side] = mapped[side].where(mapped[side].notna(), df[side] if side in df else None)
     df["kickoff_utc"] = pd.to_datetime(df["kickoff_utc"])
     df["snapshot_utc"] = pd.to_datetime(df["snapshot_utc"])
     return df[df["snapshot_utc"] < df["kickoff_utc"]]  # sadece maç başlamadan önceki oranlar

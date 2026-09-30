@@ -15,10 +15,33 @@ REPORTS_DIR = Path(os.environ.get("VALUEBET_REPORTS_DIR", ROOT / "reports"))
 TRACKING_DIR = Path(os.environ.get("VALUEBET_TRACKING_DIR", ROOT / "tracking"))
 
 # ---------------------------------------------------------------- Veri
+# football-data.co.uk ana ligleri (kod -> ad)
 LEAGUES = {
-    "SP1": "La Liga",
-    "SP2": "La Liga 2 (Segunda)",
+    "E0": "İngiltere Premier Lig", "E1": "İngiltere Championship", "E2": "İngiltere League One",
+    "E3": "İngiltere League Two", "EC": "İngiltere National League",
+    "SC0": "İskoçya Premiership", "SC1": "İskoçya Championship", "SC2": "İskoçya League One",
+    "SC3": "İskoçya League Two",
+    "D1": "Almanya Bundesliga", "D2": "Almanya 2. Bundesliga",
+    "I1": "İtalya Serie A", "I2": "İtalya Serie B",
+    "SP1": "La Liga", "SP2": "La Liga 2 (Segunda)",
+    "F1": "Fransa Ligue 1", "F2": "Fransa Ligue 2",
+    "N1": "Hollanda Eredivisie", "B1": "Belçika Pro Lig", "P1": "Portekiz Liga", "T1": "Türkiye Süper Lig",
+    "G1": "Yunanistan Süper Lig",
 }
+# Birleşik modelde birlikte eğitilen ligler (aynı ülkenin kademeleri; aralarında düşme/çıkma var). Ülkeler
+# arasında bağlantı (düşme/çıkma) olmadığı için her grup ayrı modeldir. Grup içinde sıralı kodlar kademe
+# sırasını verir (E0 < E1 < ... < EC, SC0 < SC1 ...): üst lig önce.
+LEAGUE_GROUPS = {
+    "İngiltere": ["E0", "E1", "E2", "E3", "EC"], "İskoçya": ["SC0", "SC1", "SC2", "SC3"],
+    "Almanya": ["D1", "D2"], "İtalya": ["I1", "I2"], "İspanya": ["SP1", "SP2"], "Fransa": ["F1", "F2"],
+    "Hollanda": ["N1"], "Belçika": ["B1"], "Portekiz": ["P1"], "Türkiye": ["T1"], "Yunanistan": ["G1"],
+}
+
+
+def group_of(div: str) -> str:
+    return next(g for g, divs in LEAGUE_GROUPS.items() if div in divs)
+
+
 FIRST_SEASON = 2014  # 2014/15 sezonu. Model zaman ağırlıklı olduğu için daha eskisine gerek yok.
 
 
@@ -30,13 +53,22 @@ def current_season() -> int:
 
 SEASON_URL = "https://www.football-data.co.uk/mmz4281/{code}/{div}.csv"
 FIXTURES_URL = "https://www.football-data.co.uk/fixtures.csv"
-# Maç bazında xG (Understat; resmi API yok, sayfanın kullandığı JSON uç noktası). La Liga 2 kapsanmıyor.
+# Maç bazında xG (Understat; resmi API yok, sayfanın kullandığı JSON uç noktası). Sadece büyük 5 lig.
 XG_URL = "https://understat.com/getLeagueData/{league}/{season}"
-UNDERSTAT_LEAGUES = {"SP1": "La_liga"}
-# İddaa oranları (resmi API yok; iddaa.com'un kullandığı JSON uç noktası). Lig numaraları iddaa'nın
-# /sportsbook/competitions listesinden: 129 = İspanya La Liga, 1951 = İspanya La Liga 2.
+UNDERSTAT_LEAGUES = {"E0": "EPL", "D1": "Bundesliga", "I1": "Serie_A", "SP1": "La_liga", "F1": "Ligue_1"}
+# İddaa oranları (resmi API yok; iddaa.com'un kullandığı JSON uç noktası). Ligler iddaa'nın
+# /sportsbook/competitions listesindeki adla eşlenir: ad tam aynıysa ya da "ad," ile başlıyorsa (ör. "İskoçya
+# Premiership, Şampiyona Turu"). Numaralar sezon aşamasına göre değişebildiği için adla eşleniyor.
 IDDAA_API = "https://sportsbookv2.iddaa.com/sportsbook/"
-IDDAA_COMPETITIONS = {129: "SP1", 1951: "SP2"}
+IDDAA_LEAGUE_NAMES = {
+    "E0": "İngiltere Premier Lig", "E1": "İngiltere Championship", "E2": "İngiltere 1. Lig",
+    "E3": "İngiltere 2. Lig", "EC": "İngiltere Ulusal Lig",
+    "SC0": "İskoçya Premiership", "SC1": "İskoçya Championship", "SC2": "İskoçya 1. Lig", "SC3": "İskoçya 2. Lig",
+    "D1": "Almanya Bundesliga", "D2": "Almanya 2. Bundesliga", "I1": "İtalya Serie A", "I2": "İtalya Serie B",
+    "SP1": "İspanya La Liga", "SP2": "İspanya La Liga 2", "F1": "Fransa Ligue 1", "F2": "Fransa Ligue 2",
+    "N1": "Hollanda Eredivisie", "B1": "Belçika Pro Lig", "P1": "Portekiz Premier Lig", "T1": "Türkiye Süper Lig",
+    "G1": "Yunanistan Süper Lig",
+}
 
 # football-data.co.uk oran sütunları -> bizim kısa adlarımız.
 #   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)

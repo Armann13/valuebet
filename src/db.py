@@ -210,10 +210,33 @@ def coverage(df: pd.DataFrame) -> pd.DataFrame:
     return out.rename(columns={"div": "lig", "season": "sezon"})
 
 
-def load_matches(div: str | None = None) -> pd.DataFrame:
+def available_divs() -> list:
+    """Veritabanında maçı olan ligler (config.LEAGUES sırasıyla)."""
     con = connect()
-    q = "SELECT * FROM matches" + (" WHERE div = ?" if div else "") + " ORDER BY date, home"
-    df = pd.read_sql_query(q, con, params=(div,) if div else None)
+    have = {r[0] for r in con.execute("SELECT DISTINCT div FROM matches")}
+    con.close()
+    return [d for d in config.LEAGUES if d in have]
+
+
+def coverage_summary(df: pd.DataFrame) -> pd.DataFrame:
+    """Lig başına kısa özet: sezon aralığı, maç sayısı, oran / xG doluluğu (%)."""
+    cols = {"B365": "b365_h", "keskin kap.": "sharpc_h", "keskin kap. Ü/A": "sharpc_o25", "xG": "hxg"}
+    rows = []
+    for div in [d for d in config.LEAGUES if d in set(df["div"])]:
+        g = df[df["div"] == div]
+        rows.append({"lig": div, "ad": config.LEAGUES[div],
+                     "sezonlar": f"{g['season'].min()}/{(g['season'].min() + 1) % 100:02d}–"
+                                 f"{g['season'].max()}/{(g['season'].max() + 1) % 100:02d}", "maç": len(g),
+                     **{k: int(round(100 * g[c].notna().mean())) for k, c in cols.items()}})
+    return pd.DataFrame(rows)
+
+
+def load_matches(div: str | list | None = None) -> pd.DataFrame:
+    """div: tek lig kodu, lig kodu listesi ya da None (hepsi)."""
+    divs = [div] if isinstance(div, str) else list(div or [])
+    con = connect()
+    where = f" WHERE div IN ({', '.join('?' * len(divs))})" if divs else ""
+    df = pd.read_sql_query(f"SELECT * FROM matches{where} ORDER BY date, home", con, params=divs or None)
     con.close()
     df["date"] = pd.to_datetime(df["date"])
     return add_sharp(df)

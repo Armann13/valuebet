@@ -267,6 +267,12 @@ def test_parse_iddaa():
     assert (r["div"], r["odd_1"], r["odd_x"], r["odd_2"], r["ou_line"], r["odd_ust"], r["mbs"]) == \
         ("SP1", 1.45, 4.4, 5.9, 2.5, 1.62, 1)
     assert r["kickoff_utc"] == "2026-10-01 16:00"
+    from src.iddaa import resolve_competitions
+    comps = [{"i": 129, "si": "1", "n": "İspanya La Liga"}, {"i": 1951, "si": "1", "n": "İspanya La Liga 2"},
+             {"i": 19843, "si": "1", "n": "İskoçya Premiership, Şampiyona Turu"},
+             {"i": 80676, "si": "1", "n": "Türkiye Süper Lig Beşiktaş Özel"}, {"i": 584, "si": "1", "n": "Türkiye Süper Lig"},
+             {"i": 5, "si": "5", "n": "İspanya La Liga"}]  # si=5: başka spor
+    assert resolve_competitions(comps) == {129: "SP1", 1951: "SP2", 19843: "SC0", 584: "T1"}
 
 
 def test_xg_fit():

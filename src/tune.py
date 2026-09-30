@@ -31,13 +31,11 @@ CRITERIA = {"1x2": ("ll_1x2", "1X2 log loss"), "ou": ("ll_ou", "Ü/A 2.5 log los
 _DATA = {}  # her işçi süreçte bir kez yüklenir
 
 
-def _init(divs, joint, motivation):
+def _init(keys, joint, motivation):
+    """keys: birleşik modelde grup adları (eğitim grubun tüm ligleriyle), değilse lig kodları."""
     load = (lambda div=None: add_motivation(db.load_matches(div))) if motivation else db.load_matches
-    if joint:  # birleşik modelde eğitim her zaman tüm liglerle; değerlendirme divs ile sınırlanır
-        _DATA["ALL"] = load()
-    else:
-        for div in divs:
-            _DATA[div] = load(div)
+    for key in keys:
+        _DATA[key] = load(config.LEAGUE_GROUPS[key] if joint else key)
 
 
 def _per_match(p: pd.DataFrame) -> pd.DataFrame:
@@ -125,15 +123,15 @@ def run(divs: list, xi0: float, ridge0: float, rt0: float | None, eval_from: int
     rows_ax, cols_ax = (varying + [a for a in AXES if a not in varying])[:2]
     crit_col, crit_name = CRITERIA[criterion]
 
-    keys = ["ALL"] if joint else divs
+    keys = [g for g, gd in config.LEAGUE_GROUPS.items() if set(gd) & set(divs)] if joint else divs
     jobs = [(key, xi, r, rt, eval_from) for key in keys for xi, r, rt in itertools.product(xis, ridges, rts)]
     print(f"  {len(jobs)} walk-forward, {workers} paralel işçi ...", flush=True)
     t0, res = time.time(), {}
-    with ProcessPoolExecutor(max_workers=workers, initializer=_init, initargs=(divs, joint, motivation)) as ex:
+    with ProcessPoolExecutor(max_workers=workers, initializer=_init, initargs=(keys, joint, motivation)) as ex:
         futures = [ex.submit(_one, j) for j in jobs]
         for k, f in enumerate(as_completed(futures), 1):
             job, pm = f.result()
-            for div in (divs if job[0] == "ALL" else [job[0]]):
+            for div in ([d for d in config.LEAGUE_GROUPS[job[0]] if d in divs] if joint else [job[0]]):
                 res[(div, *job[1:4])] = pm[pm["div"] == div].reset_index(drop=True)
             if k % 10 == 0 or k == len(jobs):
                 print(f"  {k}/{len(jobs)} ({time.time() - t0:.0f} sn)", flush=True)

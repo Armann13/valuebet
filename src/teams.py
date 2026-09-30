@@ -31,6 +31,7 @@ class TeamResolver:
     def __init__(self, known: list[str]):
         self.known = sorted(set(known))
         self.by_norm = {_norm(t): t for t in self.known}
+        self.fuzzy = {}  # bulanık eşleşmeyle verilen kararlar (ad -> takım): gözden geçirmek için
         self.aliases = {k: v for k, v in BUILTIN_ALIASES.items() if v in self.known}
         f = config.ROOT / "team_aliases.csv"
         if f.exists():
@@ -46,4 +47,6 @@ class TeamResolver:
         if n in self.by_norm:
             return self.by_norm[n]
         hit = difflib.get_close_matches(n, list(self.by_norm), n=1, cutoff=0.75)
+        if hit:
+            self.fuzzy[name] = self.by_norm[hit[0]]
         return self.by_norm[hit[0]] if hit else None

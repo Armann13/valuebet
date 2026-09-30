@@ -83,16 +83,29 @@ def _sharp_fair(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def _fit_models(matches: pd.DataFrame, ref_dates: dict, model_kw: dict, joint: bool) -> dict:
-    """Lig -> model. Birleşik modelde tüm ligler için tek model, en erken maç tarihine göre eğitilir."""
-    if joint and ref_dates:
-        m = DixonColes(**model_kw).fit(matches, ref_date=min(ref_dates.values()))
-        return {div: m for div in ref_dates}
+    """Lig -> model. Birleşik modelde her ülke grubu (config.LEAGUE_GROUPS) için tek model, grubun en erken
+    maç tarihine göre eğitilir. Yeterli verisi olmayan lig / grup atlanır."""
     models = {}
+    if joint:
+        for gdivs in config.LEAGUE_GROUPS.values():
+            refs = [ref_dates[d] for d in gdivs if d in ref_dates]
+            if not refs:
+                continue
+            try:
+                m = DixonColes(**model_kw).fit(matches[matches["div"].isin(gdivs)], ref_date=min(refs))
+            except ValueError as e:
+                print(f"  ! {', '.join(gdivs)}: {e}")
+                continue
+            models.update({d: m for d in gdivs if d in ref_dates})
+        return models
     for div, ref in ref_dates.items():
         d = matches[matches["div"] == div]
         if d.empty:
             continue
-        models[div] = DixonColes(**model_kw).fit(d, ref_date=ref)
+        try:
+            models[div] = DixonColes(**model_kw).fit(d, ref_date=ref)
+        except ValueError as e:
+            print(f"  ! {div}: {e}")
     return models
 
 

@@ -44,31 +44,46 @@ def cmd_build(args):
     n = db.build()
     print(f"Toplam {n} maç -> {config.DB_PATH}")
     if n:
-        print("\nOran doluluğu (%):")
-        print(db.coverage(db.load_matches()).to_string(index=False))
+        df = db.load_matches()
+        config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+        db.coverage(df).to_csv(config.REPORTS_DIR / "coverage.csv", index=False)
+        print("\nOran doluluğu (%, tüm sezonlar; sezon sezon: reports/coverage.csv):")
+        print(db.coverage_summary(df).to_string(index=False))
 
 
-def _matches(args, div: str | None = None):
-    """Maçlar; --motivation açıksa maç öncesi puan durumundan motivasyon sütunu (mot) eklenir."""
+def _matches(args, div: str | list | None = None):
+    """Maçlar (div: tek lig, lig listesi ya da hepsi); --motivation açıksa maç öncesi puan durumundan
+    motivasyon sütunu (mot) eklenir."""
     from src import db
     from src.features import add_motivation
     df = db.load_matches(div)
     return add_motivation(df) if args.motivation and not df.empty else df
 
 
+def _groups(divs: list) -> dict:
+    """İstenen liglerin grupları; eğitim her zaman grubun tüm ligleriyle yapılır."""
+    return {g: gd for g, gd in config.LEAGUE_GROUPS.items() if set(gd) & set(divs)}
+
+
 def cmd_backtest(args):
-    from src import backtest
-    divs = [args.div] if args.div else list(config.LEAGUES)
+    from src import backtest, db
+    divs = [args.div] if args.div else db.available_divs()
     parts = ["# Backtest raporu", ""]
     t0 = time.time()
     kw = dict(xi=args.xi, ridge=args.ridge, edge_min=args.edge, bet_book=args.book, eval_from=args.eval_from,
               ridge_total=args.ridge_total)
-    if args.joint:  # tek walk-forward, tüm ligler birlikte; rapor lig lig
-        print("  [birleşik] walk-forward başlıyor ...")
-        preds = backtest.walk_forward(_matches(args), args.eval_from, args.xi, args.ridge,
-                                      ridge_total=args.ridge_total)
+    if args.joint:  # her ülke grubu tek birleşik model; gruplar paralel; rapor lig lig
+        groups = _groups(divs)
+        print(f"  [birleşik] walk-forward: {len(groups)} grup, {args.workers} paralel işçi ...")
+        df = _matches(args, [d for gd in groups.values() for d in gd])
+        preds = backtest.walk_forward_groups(df, groups, args.eval_from, args.xi, args.ridge, args.ridge_total,
+                                             args.workers)
         for div in divs:
-            parts.append(backtest.run(div, None, preds=preds[preds["div"] == div].reset_index(drop=True), **kw))
+            p = preds[preds["div"] == div].reset_index(drop=True) if not preds.empty else preds
+            if p.empty:
+                print(f"  [{div}] veri yok, atlanıyor")
+                continue
+            parts.append(backtest.run(div, None, preds=p, **kw))
     else:
         for div in divs:
             df = _matches(args, div)
@@ -84,8 +99,8 @@ def cmd_backtest(args):
 
 
 def cmd_tune(args):
-    from src import tune
-    divs = [args.div] if args.div else list(config.LEAGUES)
+    from src import db, tune
+    divs = [args.div] if args.div else db.available_divs()
     grid = lambda s: [float(v) for v in s.split(",")] if s else None  # noqa: E731
     md, table = tune.run(divs, args.xi, args.ridge, args.ridge_total, args.eval_from, args.tune_to, args.workers,
                          grid(args.xi_grid), grid(args.ridge_grid), grid(args.ridge_total_grid), args.criterion,
@@ -135,17 +150,24 @@ def cmd_track(args):
 def cmd_ratings(args):
     from src.dixon_coles import DixonColes
     kw = dict(xi=args.xi, ridge=args.ridge, ridge_total=args.ridge_total)
-    joint = DixonColes(**kw).fit(_matches(args)) if args.joint else None
+    models = {}  # birleşik: grup başına bir model
     for div in ([args.div] if args.div else list(config.LEAGUES)):
         df = _matches(args, div)
         if df.empty:
             continue
         cur = df[df["season"] == df["season"].max()]
+        joint = None
+        if args.joint:
+            g = config.group_of(div)
+            if g not in models:
+                models[g] = DixonColes(**kw).fit(_matches(args, config.LEAGUE_GROUPS[g]))
+            joint = models[g]
         m = joint if joint is not None else DixonColes(**kw).fit(df)
         r = m.ratings()
         r = r[r["team"].isin(set(cur["home"]) | set(cur["away"]))]
         extra = (f", lig gücü {m.league_strength[div]:+.3f}, yeni gelen sapması: çıkan "
-                 f"{m.newcomer_offset['çıkan']:+.3f} / düşen {m.newcomer_offset['düşen']:+.3f}") if joint else ""
+                 f"{m.newcomer_offset['çıkan']:+.3f} / düşen {m.newcomer_offset['düşen']:+.3f}"
+                 ) if joint is not None and m.newcomer_offset else ""
         extra += f", motivasyon {m.motivation:+.3f}" if args.motivation else ""
         print(f"\n=== {config.LEAGUES[div]} — ev avantajı {m.home[div]:.3f}, rho {m.rho:.3f}{extra} ===")
         print(r.round(3).to_string(index=False))
@@ -193,6 +215,8 @@ def main():
             sp.add_argument("--book", default=config.BET_BOOK, choices=["b365", "ps", "avg", "max"],
                             help="backtest'te bahis oynanan oranlar")
             sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
+            sp.add_argument("--workers", type=int, default=max(1, (os.cpu_count() or 2) - 2),
+                            help="paralel işçi (birleşik modelde ülke grupları paralel)")
         if name == "tune":  # --xi / --ridge burada kıyas alınan varsayılan ayardır
             sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
             sp.add_argument("--tune-to", type=int, default=2021, dest="tune_to",
