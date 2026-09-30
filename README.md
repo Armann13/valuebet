@@ -81,6 +81,18 @@ Bir model değişikliğini denerken: önce `reports/backtest_preds_*.csv` dosyal
 değişikliği yapıp `backtest` çalıştır, sonra `diagnose --base <klasör>` ile değişikliğin hangi maçlarda işe
 yaradığını gör.
 
+### Canlı takip (kağıt üzerinde)
+
+GitHub Actions her veri güncellemesinden sonra `python main.py track` çalıştırır ve sonuçları depoya yazar:
+
+- `tracking/predictions.csv`: yaklaşan her maç, **ilk görüldüğü anda**: model olasılıkları, o anki B365 oranları,
+  keskin açılış (Pinnacle / Betfair) oranları. Maç oynanıp veri gelince sonuç ve keskin kapanış eklenir.
+- `tracking/bets.csv`: backtest'teki üç kuralın kağıt bahisleri (B365 oranıyla, 1 birim); sonuçlanınca CLV ve kâr.
+- `tracking/summary.md`: canlı log loss (model − kapanış) ve kural bazında CLV / ROI.
+
+Görmek için `git pull` yeterli. Model değişince `config.MODEL_VERSION`'ı artır; kayıtlar hangi modelden geldiğini
+tutar. Birkaç yüz maç birikmeden sonuçlar çok gürültülüdür.
+
 ### İddaa oranlarıyla value arama
 
 `iddaa_ornek.csv` dosyasını kopyala, oranları İddaa'dan elle gir (örnekteki oranlar temsilidir):
@@ -139,6 +151,7 @@ src/download.py      veri indirme
 src/db.py            SQLite şeması, CSV temizleme/yükleme
 src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li, birleşik ligler, motivasyon)
 src/features.py      maç öncesi puan durumu ve motivasyon
+src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)

@@ -11,6 +11,8 @@ DATA_DIR = Path(os.environ.get("VALUEBET_DATA_DIR", ROOT / "data"))
 RAW_DIR = DATA_DIR / "raw"
 DB_PATH = DATA_DIR / "football.db"
 REPORTS_DIR = Path(os.environ.get("VALUEBET_REPORTS_DIR", ROOT / "reports"))
+# Canlı (kağıt üzerinde) takip kayıtları; git'te tutulur (bkz. src/tracking.py)
+TRACKING_DIR = Path(os.environ.get("VALUEBET_TRACKING_DIR", ROOT / "tracking"))
 
 # ---------------------------------------------------------------- Veri
 LEAGUES = {
@@ -62,6 +64,8 @@ def odds_column_map() -> dict:
 
 
 # ---------------------------------------------------------------- Model (Dixon-Coles)
+# Canlı takipte ve predictions tablosunda kayıtlara yazılır; modeli değiştirince artır.
+MODEL_VERSION = "dc-v2 (birleşik + yeni gelen + motivasyon, ridge 4/16)"
 # XI/RIDGE `python main.py tune` ile seçildi (2016-2021 ayar, 2022+ test; 2026-09-30). 1X2 için en iyi
 # bölge iki ligde de xi 0.0019-0.0025, ridge 2-8 ve oldukça düz; ortak ayar xi=0.0019, ridge=4. Test
 # döneminde eski ridge=0.5'e göre 1X2 log loss: SP2 -0.0064 ± 0.0042 (anlamlı), SP1 -0.0004 ± 0.0029.

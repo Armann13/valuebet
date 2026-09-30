@@ -245,7 +245,7 @@ def test_end_to_end():
     tmp = ROOT / "tests" / "_e2e"
     shutil.rmtree(tmp, ignore_errors=True)
     env = {**os.environ, "VALUEBET_DATA_DIR": str(tmp / "data"), "VALUEBET_REPORTS_DIR": str(tmp / "reports"),
-           "PYTHONIOENCODING": "utf-8"}
+           "VALUEBET_TRACKING_DIR": str(tmp / "tracking"), "PYTHONIOENCODING": "utf-8"}
     run = lambda *a: subprocess.run([sys.executable, *a], cwd=ROOT, env=env, capture_output=True,  # noqa: E731
                                     text=True, encoding="utf-8", errors="replace", timeout=900)
     r = run("tests/make_synthetic.py", str(tmp / "data" / "raw"))
@@ -290,6 +290,36 @@ def test_end_to_end():
     pred = pd.read_csv(next((tmp / "reports").glob("predictions_*.csv")))
     fx = pred[pred["kaynak"] == "fixtures"]
     assert fx["max_edge_keskin"].notna().any(), "fikstürde Pinnacle yok; borsa fiyatı kullanılmalı"
+
+    # canlı takip: yaklaşan maçlar kaydedilir; ikinci çalıştırma aynı maçları tekrar eklemez
+    fixtures = str(tmp / "data" / "raw" / "fixtures.csv")
+    r = run("main.py", "track", "--fixtures", fixtures)
+    assert r.returncode == 0, r.stderr
+    trk = tmp / "tracking"
+    tp = pd.read_csv(trk / "predictions.csv")
+    assert len(tp) > 0 and tp["fthg"].isna().all(), tp.head()
+    # geçmişte oynanmış bir maç için elle kayıt ekle: sonraki çalıştırmada kapanmalı
+    played = pd.read_csv(tmp / "data" / "raw" / "SP1_2425.csv").iloc[0]
+    old = tp.iloc[[0]].assign(div="SP1", season=2024, home=played["HomeTeam"], away=played["AwayTeam"])
+    pd.concat([tp, old]).to_csv(trk / "predictions.csv", index=False)
+    bet = pd.DataFrame([{"recorded_at": "2024-08-01 00:00", "model": "test", "div": "SP1", "season": 2024,
+                         "home": played["HomeTeam"], "away": played["AwayTeam"], "date": "2024-08-17",
+                         "market": "1X2", "pick": "1", "price": 2.0, "p_model": 0.5, "kural_model": True,
+                         "kural_sharp": False, "kural_both": False, "p_sharp": 0.45, "edge_model": 0.0,
+                         "edge_keskin": -0.1}])
+    bets_path = trk / "bets.csv"
+    (pd.concat([pd.read_csv(bets_path), bet]) if bets_path.exists() else bet).to_csv(bets_path, index=False)
+    r = run("main.py", "track", "--fixtures", fixtures)
+    assert r.returncode == 0, r.stderr
+    tp2 = pd.read_csv(trk / "predictions.csv")
+    assert len(tp2) == len(tp) + 1, (len(tp2), len(tp))  # tekrar eklenmedi
+    done = tp2[(tp2["season"] == 2024) & (tp2["home"] == played["HomeTeam"])].iloc[0]
+    assert done["fthg"] == played["FTHG"] and np.isfinite(done["close_h"])
+    tb = pd.read_csv(bets_path)
+    b = tb[tb["model"] == "test"].iloc[0]
+    assert b["won"] == float(played["FTHG"] > played["FTAG"]) and np.isfinite(b["clv"])
+    assert b["profit"] == (1.0 if b["won"] else -1.0)
+    assert "Kağıt bahisler" in (trk / "summary.md").read_text(encoding="utf-8")
     shutil.rmtree(tmp, ignore_errors=True)
 
 

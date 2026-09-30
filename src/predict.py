@@ -25,7 +25,7 @@ from src.download import download_fixtures
 from src.features import add_motivation
 from src.odds import MARKET_SUFFIXES, add_sharp, devig_frame
 
-MODEL_NAME = "dixon_coles_v1"
+MODEL_NAME = config.MODEL_VERSION
 
 # İddaa / yaygın isim -> football-data.co.uk ismi. Eksik olanları team_aliases.csv'ye ekleyebilirsin.
 BUILTIN_ALIASES = {

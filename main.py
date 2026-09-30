@@ -7,6 +7,7 @@
     python main.py diagnose          # açık nerede yoğunlaşıyor (reports/diagnose_summary.md)
     python main.py predict           # yaklaşan maçlar için olasılıklar ve value adayları
     python main.py predict --iddaa iddaa.csv
+    python main.py track             # kağıt üzerinde canlı takip (tracking/)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -110,6 +111,18 @@ def cmd_predict(args):
     predict.print_table(res)
 
 
+def cmd_track(args):
+    from src import predict, tracking
+    upcoming = None
+    try:
+        res = predict.run(args.fixtures or str(config.RAW_DIR / "fixtures.csv"), None, xi=args.xi, ridge=args.ridge,
+                          ridge_total=args.ridge_total, joint=args.joint, motivation=args.motivation, save=False)
+        upcoming = res[res["kaynak"] == "fixtures"]
+    except SystemExit as e:  # yaklaşan maç yok: sadece kapanış ve özet
+        print(f"  {e}")
+    print(tracking.run(upcoming))
+
+
 def cmd_ratings(args):
     from src.dixon_coles import DixonColes
     kw = dict(xi=args.xi, ridge=args.ridge, ridge_total=args.ridge_total)
@@ -159,7 +172,7 @@ def main():
                         help="sezon sonu motivasyonunu (puan durumundan) modele kat")
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
-                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict),
+                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -184,6 +197,8 @@ def main():
                             help="seçim ölçütü: 1X2, Ü/A ya da ikisinin toplamı log loss")
         if name == "diagnose":
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
+        if name == "track":
+            sp.add_argument("--fixtures", help="fixtures.csv yolu (varsayılan: data/raw/fixtures.csv)")
         if name == "predict":
             sp.add_argument("--fixtures", help="yerel fixtures.csv yolu (verilmezse indirilir)")
             sp.add_argument("--iddaa", help="İddaa oranlarını içeren CSV (bkz. iddaa_ornek.csv)")

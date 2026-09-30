@@ -1,15 +1,16 @@
 # football-data.co.uk Türkiye'den erişilemediği için dosyaları GitHub'ın sunucuları indirir ve
-# data/raw'a commit eder. Yerelde: git pull && python main.py build
+# data/raw'a commit eder; ardından kağıt üzerinde canlı takibi (tracking/) günceller.
+# Yerelde: git pull && python main.py build
 # Bitmiş sezonlar bir kez indirilir; her çalışmada sadece içinde bulunulan sezon + fixtures.csv
 # yenilenir (3 istek).
 name: Veri güncelle
 
 on:
   schedule:
-    - cron: "0 6 * * 1"   # Pazartesi 09:00 (TR): hafta sonu sonuçları
-    - cron: "0 18 * * 2"  # Salı 21:00 (TR): hafta içi maçların fikstürü ve oranları
-    - cron: "0 6 * * 4"   # Perşembe 09:00 (TR): hafta içi sonuçları
-    - cron: "0 18 * * 5"  # Cuma 21:00 (TR): hafta sonu maçlarının fikstürü ve oranları
+    - cron: "0 6 * * 1"   # Pazartesi 09:00 (TR): hafta sonu sonuçları -> kayıtlar kapanır
+    - cron: "0 18 * * 2"  # Salı 21:00 (TR): hafta içi maçların fikstürü ve oranları -> yeni kayıtlar
+    - cron: "0 6 * * 4"   # Perşembe 09:00 (TR): hafta içi sonuçları -> kayıtlar kapanır
+    - cron: "0 18 * * 5"  # Cuma 21:00 (TR): hafta sonu maçlarının fikstürü ve oranları -> yeni kayıtlar
   workflow_dispatch:      # elle çalıştırma: gh workflow run veri-guncelle.yml
 
 permissions:
@@ -21,28 +22,35 @@ concurrency:
 jobs:
   download:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
 
       - uses: actions/setup-python@v7
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Bağımlılık
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: İndir
         run: python main.py download
+
+      - name: Veritabanı
+        run: python main.py build
+
+      - name: Canlı takip
+        run: python main.py track --fixtures data/raw/fixtures.csv
 
       - name: Değişiklik varsa commit et
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw
+          git add data/raw tracking
           if git diff --cached --quiet; then
             echo "Yeni veri yok."
             exit 0
           fi
-          git commit -m "Veri güncellemesi $(date -u +%Y-%m-%d)"
+          git commit -m "Veri ve takip güncellemesi $(date -u +%Y-%m-%d)"
           git push
