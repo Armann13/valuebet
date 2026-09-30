@@ -67,6 +67,11 @@ def test_gradient():
     err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, None, None, 1, None, mot)[0],
                      lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, None, None, 1, None, mot)[1], th4)
     assert err < 1e-5, err
+    # xG karışımı: Poisson hedefi tam sayı değil, tau gerçek skorla
+    xp, yp = x * 0.5 + rng.uniform(0, 2, m) * 0.5, y * 0.5 + rng.uniform(0, 2, m) * 0.5
+    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp)[0],
+                     lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp)[1], th3)
+    assert err < 1e-5, err
     # ridge = ridge_total iken ceza eski haliyle aynı: ridge * (Σa² + Σd²)
     a, d = th[3:3 + n], th[3 + n:]
     pen = (_objective(th, hi, ai, x, y, w, n, 2.0, 2.0)[0] - _objective(th, hi, ai, x, y, w, n, 0.0, 0.0)[0]) * w.sum()
@@ -233,6 +238,33 @@ def test_add_sharp():
     assert list(s["sharp_src_ou"][:2]) == ["ps", "ps"] and np.isnan(s["sharpc_h"]).all()
 
 
+def test_parse_understat():
+    from src.download import parse_understat
+    data = {"dates": [
+        {"id": "1", "isResult": True, "h": {"id": "1", "title": "Athletic Club"}, "a": {"id": "2", "title": "Getafe"},
+         "goals": {"h": "1", "a": "1"}, "xG": {"h": "0.989", "a": "0.475"}, "datetime": "2024-08-15 17:00:00"},
+        {"id": "2", "isResult": False, "h": {"id": "3", "title": "Betis"}, "a": {"id": "4", "title": "Girona"},
+         "goals": {"h": None, "a": None}, "xG": {"h": None, "a": None}, "datetime": "2024-08-15 19:30:00"}]}
+    df = parse_understat(data)
+    assert len(df) == 1 and df.loc[0, "hxg"] == 0.989 and df.loc[0, "ag"] == 1
+    from src.teams import TeamResolver
+    assert TeamResolver(["Ath Bilbao", "Getafe", "Betis"])("Athletic Club") == "Ath Bilbao"
+
+
+def test_xg_fit():
+    """xG hedefiyle (tam sayı olmayan Poisson hedefi) eğitim yakınsar ve anlamlı güçler verir."""
+    df, att, dfn = _simulate(seasons=1, seed=4)
+    rng = np.random.default_rng(4)
+    df["hxg"] = df["fthg"] * 0.3 + rng.gamma(2, 0.6, len(df))  # gürültülü ama bilgili
+    df["axg"] = df["ftag"] * 0.3 + rng.gamma(2, 0.5, len(df))
+    order = None
+    for w_ in (0.0, 0.7):
+        m = DixonColes(xi=0.0, ridge=0.1, ridge_total=0.1, lookback_days=5000, xg_weight=w_).fit(df)
+        order = [int(t[1:]) for t in m.teams]
+        assert m.converged and np.isfinite(m.attack).all()
+    assert np.corrcoef(m.attack, att[order])[0, 1] > 0.5
+
+
 def test_real_header_parsing():
     raw = db.read_raw_csv(ROOT / "tests" / "fixtures" / "real_header_sample.csv")
     df = db.normalize(raw, div="SP1", season=2025)
@@ -258,6 +290,7 @@ def test_end_to_end():
     assert r.returncode == 0, r.stderr
     assert "SP1 (3).csv: 380 maç (SP1 2025/26)" in r.stdout, r.stdout
     assert "Oran doluluğu" in r.stdout, r.stdout
+    assert "xG:" in r.stdout and "maça eklendi" in r.stdout and "gol tutmadı" not in r.stdout, r.stdout
     r = run("main.py", "backtest", "--no-joint", "--div", "SP1", "--eval-from", "2024")
     assert r.returncode == 0, r.stderr
     report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")

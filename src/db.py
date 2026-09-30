@@ -21,6 +21,7 @@ CREATE TABLE IF NOT EXISTS matches (
     away    TEXT NOT NULL,
     fthg    INTEGER, ftag INTEGER, ftr TEXT,
     hthg    INTEGER, htag INTEGER,
+    hxg     REAL, axg REAL,
     {", ".join(f"{c} REAL" for c in ODDS_COLS)},
     PRIMARY KEY (div, date, home, away)
 );
@@ -141,8 +142,10 @@ def build() -> int:
         return 0
     all_df = pd.concat(frames, ignore_index=True)
     all_df = all_df.drop_duplicates(subset=["div", "date", "home", "away"], keep="last")
+    all_df = attach_xg(all_df)
     all_df["date"] = all_df["date"].dt.strftime("%Y-%m-%d")
-    cols = ["div", "season", "date", "time", "home", "away", "fthg", "ftag", "ftr", "hthg", "htag"] + ODDS_COLS
+    cols = ["div", "season", "date", "time", "home", "away", "fthg", "ftag", "ftr", "hthg", "htag",
+            "hxg", "axg"] + ODDS_COLS
     con = connect()
     with con:
         # matches her build'de sıfırdan yazılır; tabloyu yeniden kurmak yeni oran sütunlarını da ekler
@@ -156,8 +159,43 @@ def build() -> int:
     return len(all_df)
 
 
+def attach_xg(df: pd.DataFrame) -> pd.DataFrame:
+    """data/raw/xg/{lig}_{sezon}.csv (Understat) dosyalarındaki maç xG'sini (hxg, axg) maçlara ekler.
+    Eşleştirme (lig, sezon, ev, deplasman) ile; Understat takım adları football-data adlarına çevrilir.
+    Gollerin tutmadığı eşleşmeler atılır (yanlış eşleşme koruması)."""
+    from src.teams import TeamResolver
+    df = df.assign(hxg=np.nan, axg=np.nan)
+    pat = re.compile(r"^(?P<div>[A-Z0-9]+)_(?P<code>\d{4})\.csv$")
+    parts, unknown = [], set()
+    for f in sorted((config.RAW_DIR / "xg").glob("*.csv")):
+        m = pat.match(f.name)
+        if not m or m["div"] not in config.LEAGUES:
+            continue
+        div, season = m["div"], 2000 + int(m["code"][:2])
+        x = pd.read_csv(f)
+        resolve = TeamResolver(df.loc[df["div"] == div, "home"].unique())
+        for col in ("home", "away"):
+            names = {n: resolve(n) for n in x[col].unique()}
+            unknown |= {n for n, v in names.items() if v is None}
+            x[col] = x[col].map(names)
+        parts.append(x.dropna(subset=["home", "away"]).assign(div=div, season=season))
+    if not parts:
+        return df
+    key = ["div", "season", "home", "away"]
+    xg = pd.concat(parts, ignore_index=True).drop_duplicates(subset=key, keep=False)  # belirsiz eşleşme: hiçbiri
+    merged = df.drop(columns=["hxg", "axg"]).merge(xg[key + ["hg", "ag", "hxg", "axg"]], on=key, how="left")
+    bad = merged["hg"].notna() & ((merged["hg"] != merged["fthg"]) | (merged["ag"] != merged["ftag"]))
+    merged.loc[bad, ["hxg", "axg"]] = np.nan
+    n_ok = int(merged["hxg"].notna().sum())
+    print(f"  xG: {n_ok} maça eklendi" + (f", {int(bad.sum())} maçta gol tutmadı (atıldı)" if bad.any() else ""))
+    if unknown:
+        print(f"  ! xG'de eşleşmeyen takım adları (team_aliases.csv'ye ekle): {', '.join(sorted(unknown))}")
+    return merged.drop(columns=["hg", "ag"])
+
+
 COVERAGE_COLS = {"B365 1X2": "b365_h", "keskin aç. 1X2": "sharp_h", "keskin kap. 1X2": "sharpc_h",
-                 "B365 Ü/A": "b365_o25", "keskin aç. Ü/A": "sharp_o25", "keskin kap. Ü/A": "sharpc_o25"}
+                 "B365 Ü/A": "b365_o25", "keskin aç. Ü/A": "sharp_o25", "keskin kap. Ü/A": "sharpc_o25",
+                 "xG": "hxg"}
 
 
 def coverage(df: pd.DataFrame) -> pd.DataFrame:

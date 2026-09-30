@@ -30,6 +30,9 @@ def current_season() -> int:
 
 SEASON_URL = "https://www.football-data.co.uk/mmz4281/{code}/{div}.csv"
 FIXTURES_URL = "https://www.football-data.co.uk/fixtures.csv"
+# Maç bazında xG (Understat; resmi API yok, sayfanın kullandığı JSON uç noktası). La Liga 2 kapsanmıyor.
+XG_URL = "https://understat.com/getLeagueData/{league}/{season}"
+UNDERSTAT_LEAGUES = {"SP1": "La_liga"}
 
 # football-data.co.uk oran sütunları -> bizim kısa adlarımız.
 #   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)
@@ -90,6 +93,8 @@ JOINT = True
 MOTIVATION = True
 MOTIVATION_REACH = 2.0
 MOTIVATION_M = 0.5    # sabit m (None = her pencerede öğren)
+# xG: modelin Poisson kısmında gol yerine (1 - w) * gol + w * xG kullanılır (xG olmayan maçlarda gol).
+XG_WEIGHT = 0.0
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 

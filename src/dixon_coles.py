@@ -47,6 +47,7 @@ class DixonColes:
     ridge: float = config.RIDGE
     ridge_total: float | None = config.RIDGE_TOTAL  # None = ridge ile aynı
     motivation_fixed: float | None = config.MOTIVATION_M  # None = m pencereden öğrenilir, sayı = sabit m
+    xg_weight: float = config.XG_WEIGHT  # Poisson hedefi: (1-w)*gol + w*xG (xG olan maçlarda)
     lookback_days: int = config.LOOKBACK_DAYS
     max_goals: int = config.MAX_GOALS
 
@@ -88,6 +89,12 @@ class DixonColes:
         li = div.map(lidx).to_numpy()
         x = d["fthg"].to_numpy(dtype=float)
         y = d["ftag"].to_numpy(dtype=float)
+        xp, yp = x, y   # Poisson kısmının hedefi; düşük skor düzeltmesi (tau) her zaman gerçek skorla
+        if self.xg_weight > 0 and "hxg" in d:
+            hx, ax = d["hxg"].to_numpy(dtype=float), d["axg"].to_numpy(dtype=float)
+            has = np.isfinite(hx) & np.isfinite(ax)
+            xp = np.where(has, (1 - self.xg_weight) * x + self.xg_weight * hx, x)
+            yp = np.where(has, (1 - self.xg_weight) * y + self.xg_weight * ax, y)
         w = np.exp(-self.xi * (ref_date - d["date"]).dt.days.to_numpy(dtype=float))
         team_league, team_status = _team_context(df[df["date"] < ref_date], d, div, leagues)
         tl = np.array([lidx[team_league[t]] for t in teams])
@@ -125,7 +132,7 @@ class DixonColes:
             theta0[base] = self.motivation_fixed
             bounds[base] = (self.motivation_fixed, self.motivation_fixed)
         res = minimize(_objective, theta0,
-                       args=(hi, ai, x, y, w, n, self.ridge, self.ridge_total, li, tl, k, ts, mot),
+                       args=(hi, ai, x, y, w, n, self.ridge, self.ridge_total, li, tl, k, ts, mot, xp, yp),
                        jac=True, method="L-BFGS-B", bounds=bounds,
                        options={"maxiter": 2000, "gtol": 1e-7})
         th = res.x
@@ -229,11 +236,16 @@ def _team_context(hist: pd.DataFrame, d: pd.DataFrame, div: pd.Series, leagues: 
     return team_league, status
 
 
-def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=None, k=1, ts=None, mot=None):
+def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=None, k=1, ts=None, mot=None,
+               xp=None, yp=None):
     """Ağırlıklı negatif log-olabilirlik + ridge ve analitik gradyanı.
     li: maçın lig indeksi, tl: takımın lig indeksi, k: lig sayısı, ts: takımın durumu (+1 çıktı, -1 düştü, 0),
-    mot: maçın motivasyon farkı (ev hedefli - deplasman hedefli); verilirse m parametresi kullanılır."""
+    mot: maçın motivasyon farkı (ev hedefli - deplasman hedefli); verilirse m parametresi kullanılır.
+    xp, yp: Poisson kısmının hedefi (ör. gol ve xG karışımı; tam sayı olmayabilir); verilmezse x, y.
+    Düşük skor düzeltmesi (tau) her zaman gerçek skorla (x, y) hesaplanır."""
     rt = ridge if ridge_total is None else ridge_total
+    xp = x if xp is None else xp
+    yp = y if yp is None else yp
     li = np.zeros(len(x), dtype=int) if li is None else li
     tl = np.zeros(n, dtype=int) if tl is None else tl
     ts = np.zeros(n, dtype=int) if ts is None else ts
@@ -271,9 +283,9 @@ def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None, li=None, tl=N
     dtr[m11] = -1.0
     tau = np.maximum(tau, 1e-10)
 
-    ll = w * (np.log(tau) + x * eta1 - lam + y * eta2 - nu)
-    g1 = w * (dt1 / tau + x - lam)
-    g2 = w * (dt2 / tau + y - nu)
+    ll = w * (np.log(tau) + xp * eta1 - lam + yp * eta2 - nu)
+    g1 = w * (dt1 / tau + xp - lam)
+    g2 = w * (dt2 / tau + yp - nu)
     gr = w * (dtr / tau)
 
     W = w.sum()

@@ -26,12 +26,14 @@ except Exception:
 
 
 def cmd_download(args):
-    from src.download import download_fixtures, download_seasons
+    from src.download import download_fixtures, download_seasons, download_xg
     print("Sezon dosyaları indiriliyor ...")
     ok = download_seasons(force=args.force)
     if ok:
         print("Yaklaşan maçlar indiriliyor ...")
         download_fixtures()
+        print("xG (Understat) indiriliyor ...")
+        download_xg(force=args.force)  # başarısızlığı işi durdurmaz (ikincil veri)
     return ok
 
 

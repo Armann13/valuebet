@@ -66,7 +66,7 @@ def match_row(div, d, h, a, strength, with_result=True, with_closing=True, with_
     tot = np.add.outer(np.arange(11), np.arange(11))
     pou = np.array([m[tot > 2.5].sum(), m[tot < 2.5].sum()])
     row = {"Div": div, "Date": d.strftime("%d/%m/%Y" if d.year >= 2017 else "%d/%m/%y"),
-           "Time": "21:00", "HomeTeam": h, "AwayTeam": a}
+           "Time": "21:00", "HomeTeam": h, "AwayTeam": a, "_xg": (round(lam, 3), round(nu, 3))}
     if with_result:
         k = RNG.choice(m.size, p=m.ravel())
         hg, ag = divmod(k, m.shape[1])
@@ -121,7 +121,13 @@ def main(out_dir: Path):
                         fixtures.append(match_row(div, d, h, a, strength, with_result=False, with_closing=False,
                                                   with_pinnacle=False, with_exchange=True))
             if rows:
-                pd.DataFrame(rows).to_csv(out_dir / f"{div}_{season % 100:02d}{(season + 1) % 100:02d}.csv", index=False)
+                code = f"{season % 100:02d}{(season + 1) % 100:02d}"
+                if div == "SP1":  # Understat biçiminde xG (beklenen gol); sadece La Liga, gerçekteki gibi
+                    (out_dir / "xg").mkdir(exist_ok=True)
+                    pd.DataFrame([{"datetime": r["Date"], "home": r["HomeTeam"], "away": r["AwayTeam"],
+                                   "hg": r["FTHG"], "ag": r["FTAG"], "hxg": r["_xg"][0], "axg": r["_xg"][1]}
+                                  for r in rows]).to_csv(out_dir / "xg" / f"SP1_{code}.csv", index=False)
+                pd.DataFrame(rows).drop(columns="_xg").to_csv(out_dir / f"{div}_{code}.csv", index=False)
         # sezon sonu: güçler kayar, 3 takım düşer / 3 takım çıkar
         for t in strength:
             strength[t][0] += RNG.normal(0, 0.08)
@@ -131,7 +137,7 @@ def main(out_dir: Path):
         up = sorted(names["SP2"], key=net)[-3:]
         names["SP1"] = [t for t in names["SP1"] if t not in down] + up
         names["SP2"] = [t for t in names["SP2"] if t not in up] + down
-    pd.DataFrame(fixtures).to_csv(out_dir / "fixtures.csv", index=False)
+    pd.DataFrame(fixtures).drop(columns="_xg", errors="ignore").to_csv(out_dir / "fixtures.csv", index=False)
     print(f"sentetik veri yazıldı: {out_dir} ({len(fixtures)} fikstür)")
     return names
 

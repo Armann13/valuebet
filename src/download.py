@@ -1,7 +1,8 @@
-"""football-data.co.uk'tan sezon CSV'lerini ve yaklaşan maç (fixtures) dosyasını indirir."""
+"""football-data.co.uk'tan sezon CSV'lerini ve yaklaşan maç (fixtures) dosyasını, Understat'tan maç xG'sini indirir."""
 import time
 from pathlib import Path
 
+import pandas as pd
 import requests
 
 import config
@@ -58,6 +59,46 @@ def download_seasons(force: bool = False) -> bool:
                 print(f"  ! {e}")
                 return False
             time.sleep(1.0)  # siteye nazik davran
+    return True
+
+
+def parse_understat(data: dict) -> pd.DataFrame:
+    """getLeagueData yanıtından oynanmış maçlar: tarih, takımlar (Understat adlarıyla), gol, xG."""
+    rows = []
+    for m in data.get("dates", []):
+        if not m.get("isResult"):
+            continue
+        rows.append({"datetime": m["datetime"], "home": m["h"]["title"], "away": m["a"]["title"],
+                     "hg": int(m["goals"]["h"]), "ag": int(m["goals"]["a"]),
+                     "hxg": float(m["xG"]["h"]), "axg": float(m["xG"]["a"])})
+    return pd.DataFrame(rows)
+
+
+def download_xg(force: bool = False) -> bool:
+    """data/raw/xg/{lig}_{sezon}.csv. Bitmiş sezonlar bir kez; içinde bulunulan sezon her seferinde."""
+    cur = config.current_season()
+    for div, league in config.UNDERSTAT_LEAGUES.items():
+        for y in range(config.FIRST_SEASON, cur + 1):
+            dest = config.RAW_DIR / "xg" / f"{div}_{season_code(y)}.csv"
+            if dest.exists() and y < cur and not force:
+                continue
+            url = config.XG_URL.format(league=league, season=y)
+            headers = {**HEADERS, "X-Requested-With": "XMLHttpRequest",
+                       "Referer": f"https://understat.com/league/{league}/{y}"}
+            try:
+                r = requests.get(url, headers=headers, timeout=30)
+                r.raise_for_status()
+                df = parse_understat(r.json())
+            except Exception as e:  # engel, site değişikliği vb.: xG ikincil veri, iş durmasın
+                print(f"  ! xG indirilemedi ({div} {y}): {str(e)[:200]}")
+                return False
+            if df.empty:
+                print(f"  - xG yok: {div} {y}")
+                continue
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            df.to_csv(dest, index=False)
+            print(f"  + xg/{dest.name} ({len(df)} maç)")
+            time.sleep(1.5)  # siteye nazik davran
     return True
 
 
