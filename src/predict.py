@@ -273,7 +273,7 @@ def recommendations(res: pd.DataFrame, min_prob: float = 0.60) -> str:
     for src, pre in (("iddaa", "iddaa"), ("fixtures", "max")):
         for r in res[res["kaynak"] == src].to_dict("records"):
             key = (r["div"], r["home"], r["away"])
-            if key in seen:
+            if key in seen or pd.to_datetime(r["date"]) < today:  # oynanmış / başlamış maç önerilmez
                 continue
             seen.add(key)
             match = f"{r['home']} - {r['away']}"
