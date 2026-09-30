@@ -1,11 +1,11 @@
 maç,lig,tarih,gün,mbs,kaynak,hg,ag,tahmin,p,odd,değer,gerçek_değer,sıra,seviye
-Eastleigh – Southend,EC,30.09,2026-09-30,3.0,model,,,ÇŞ 1-2,0.7566434692232882,1.12,-0.1525593144699171,False,0.0,🟢 Tier 1 — Düşük risk
-Tamworth – Sutton,EC,30.09,2026-09-30,3.0,piyasa,,,ÇŞ 1-2,0.7424001723523346,1.16,-0.1388158000712919,False,0.0,🟢 Tier 1 — Düşük risk
-Tamworth – Sutton,EC,30.09,2026-09-30,3.0,piyasa,,,ÇŞ 1-X,0.6753382324446896,1.29,-0.12881368014635042,False,0.0,🟡 Tier 2 — Orta risk
-Eastleigh – Southend,EC,30.09,2026-09-30,3.0,model,,,MS 2,0.5045405683052977,1.57,-0.20787130776068263,False,0.0,🟡 Tier 2 — Orta risk
-Tamworth – Sutton,EC,30.09,2026-09-30,3.0,piyasa,,,MS 1,0.4177384047970243,2.15,-0.1018624296863978,False,0.0,🔴 Tier 3 — Yüksek risk
-Eastleigh – Southend,EC,30.09,2026-09-30,3.0,model,,,MS 1,0.2521029009179908,3.76,-0.05209309254835459,False,0.0,🔴 Tier 3 — Yüksek risk
-Eastleigh – Southend,EC,30.09,2026-09-30,3.0,model,,,1-1,0.11475247467177413,,,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
-Tamworth – Sutton,EC,30.09,2026-09-30,3.0,piyasa,,,1-1,0.11446344609987259,,,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
-Eastleigh – Southend,EC,30.09,2026-09-30,3.0,model,,,1-1,0.11475247467177413,,,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
-Tamworth – Sutton,EC,30.09,2026-09-30,3.0,piyasa,,,1-1,0.11446344609987259,,,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
+Eastleigh – Southend,EC,30.09,2026-09-30,,model,,,ÇŞ 1-2,0.7566434692232882,,,False,0.0,🟢 Tier 1 — Düşük risk
+Tamworth – Sutton,EC,30.09,2026-09-30,,piyasa,,,ÇŞ 1-2,0.7424001723523346,,,False,0.0,🟢 Tier 1 — Düşük risk
+Tamworth – Sutton,EC,30.09,2026-09-30,,piyasa,,,ÇŞ 1-X,0.6753382324446896,,,False,0.0,🟡 Tier 2 — Orta risk
+Eastleigh – Southend,EC,30.09,2026-09-30,,model,,,KG Var,0.5639136391113919,,,False,0.0,🟡 Tier 2 — Orta risk
+Eastleigh – Southend,EC,30.09,2026-09-30,,model,,,ÇŞ 1-X,0.4954594316947025,,,False,0.0,🔴 Tier 3 — Yüksek risk
+Tamworth – Sutton,EC,30.09,2026-09-30,,piyasa,,,MS 1,0.4177384047970243,,,False,0.0,🔴 Tier 3 — Yüksek risk
+Eastleigh – Southend,EC,30.09,2026-09-30,,model,,,1-1,0.11475247467177413,,,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
+Tamworth – Sutton,EC,30.09,2026-09-30,,piyasa,,,1-1,0.11446344609987259,,,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
+Eastleigh – Southend,EC,30.09,2026-09-30,,model,,,1-1,0.11475247467177413,,,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
+Tamworth – Sutton,EC,30.09,2026-09-30,,piyasa,,,1-1,0.11446344609987259,,,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
