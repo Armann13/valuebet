@@ -192,7 +192,7 @@ def _latest_iddaa(today: pd.Timestamp) -> pd.DataFrame:
     print(f"  İddaa: otomatik toplanan oranlar, {len(last)} maç (son kayıt {odds['snapshot_utc'].max():%d.%m %H:%M} UTC)")
     return pd.DataFrame({"home": last["home"], "away": last["away"], "odd_1": last["odd_1"], "odd_x": last["odd_x"],
                          "odd_2": last["odd_2"], "odd_over25": last["odd_ust"].where(two_five),
-                         "odd_under25": last["odd_alt"].where(two_five),
+                         "odd_under25": last["odd_alt"].where(two_five), "mbs": last["mbs"],
                          "date": last["kickoff_utc"].dt.strftime("%d.%m.%Y")})
 
 
@@ -217,7 +217,8 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
         recs.append({"div": latest.get(h), "date": d, "season": d.year if d.month >= 7 else d.year - 1,
                      "home": h, "away": a,
                      "iddaa_1": r.get("odd_1"), "iddaa_X": r.get("odd_x"), "iddaa_2": r.get("odd_2"),
-                     "iddaa_Üst2.5": r.get("odd_over25", np.nan), "iddaa_Alt2.5": r.get("odd_under25", np.nan)})
+                     "iddaa_Üst2.5": r.get("odd_over25", np.nan), "iddaa_Alt2.5": r.get("odd_under25", np.nan),
+                     "mbs": r.get("mbs", np.nan)})
     fx = pd.DataFrame(recs)
     if fx.empty:
         return fx
@@ -239,6 +240,58 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
     res = _add_edges(res, "iddaa")
     res["kaynak"] = "iddaa"
     return res
+
+
+LABEL_TR = {"1": "1 (ev)", "X": "X (beraberlik)", "2": "2 (deplasman)", "Üst2.5": "Üst 2.5", "Alt2.5": "Alt 2.5"}
+PCOL = {lab: pcol for lab, pcol, _ in MARKET_COLS}
+
+
+def recommendations(res: pd.DataFrame, min_prob: float = 0.60) -> str:
+    """Öneri raporu (markdown). Maç hem İddaa'da hem fikstürde varsa İddaa oranı esas alınır.
+      VALUE: model edge >= EDGE_MIN ve oran keskin piyasanın adil fiyatının üstünde (bkz. _add_edges).
+      En olası sonuçlar: modelin >= min_prob verdiği 1X2 sonuçları (value DEĞİL; oran adil fiyatın altında olabilir)."""
+    today = pd.Timestamp(date.today())
+    md = [f"# Öneriler — {today:%d.%m.%Y}", "",
+          f"Model: {config.MODEL_VERSION}. Oran: İddaa (varsa), yoksa piyasadaki en iyi oran.", ""]
+    seen, value, likely = set(), [], []
+    for src, pre in (("iddaa", "iddaa"), ("fixtures", "max")):
+        for r in res[res["kaynak"] == src].to_dict("records"):
+            key = (r["div"], r["home"], r["away"])
+            if key in seen:
+                continue
+            seen.add(key)
+            match = f"{r['home']} - {r['away']}"
+            when = pd.to_datetime(r["date"]).strftime("%d.%m")
+            where = "İddaa" if src == "iddaa" else "piyasa (en iyi)"
+            if r.get(f"{pre}_sinyal") == "VALUE":
+                lab = r[f"{pre}_seçim"]
+                p = r[PCOL[lab]]
+                value.append({"lig": r["div"], "tarih": when, "maç": match, "seçim": LABEL_TR[lab],
+                              "oran": r[f"{pre}_oran"], "adil oran (model)": 1 / p, "model olasılığı_%": 100 * p,
+                              "keskin piyasa_%": 100 * r.get(f"sharp_fair_{lab}", np.nan),
+                              "edge model_%": 100 * r[f"{pre}_edge_model"], "edge keskin_%": 100 * r[f"{pre}_edge_keskin"],
+                              "MBS": r.get("mbs", np.nan), "oran kaynağı": where})
+            probs = {"1": r["p_home"], "X": r["p_draw"], "2": r["p_away"]}
+            lab = max(probs, key=probs.get)
+            if probs[lab] >= min_prob:
+                price = r.get(f"{pre}_{lab}", np.nan)
+                likely.append({"lig": r["div"], "tarih": when, "maç": match, "en olası": LABEL_TR[lab],
+                               "olasılık_%": 100 * probs[lab], "adil oran": 1 / probs[lab], "oran": price,
+                               "oran − adil_%": 100 * (price * probs[lab] - 1) if np.isfinite(price) else np.nan,
+                               "oran kaynağı": where})
+    from src.backtest import _md_table
+    md += ["## 1) VALUE bahisleri", "",
+           f"Model edge ≥ %{100 * config.EDGE_MIN:.0f} **ve** oran keskin piyasanın (Pinnacle / Betfair) adil fiyatının "
+           "üstünde. Backtest'te bu kural sadece La Liga 2'de pozitif CLV verdi (+%2,3); diğer liglerde ve İddaa'da "
+           "henüz doğrulanmadı — canlı takip (tracking/summary.md) ölçüyor. MBS > 1 ise tek oynanamaz.", ""]
+    md += [_md_table(pd.DataFrame(value).sort_values("edge model_%", ascending=False), "{:.2f}") if value
+           else "Bu çalıştırmada VALUE yok.", ""]
+    md += [f"## 2) En olası sonuçlar (model ≥ %{100 * min_prob:.0f}) — value DEĞİL", "",
+           "İsabet oranı yüksek olur ama kâr göstergesi değildir: 'oran − adil' negatifse bu oranla uzun vadede "
+           "kaybettirir.", ""]
+    md += [_md_table(pd.DataFrame(likely).sort_values("olasılık_%", ascending=False), "{:.2f}") if likely
+           else "Bu eşiği geçen maç yok.", ""]
+    return "\n".join(md)
 
 
 def print_table(res: pd.DataFrame) -> None:

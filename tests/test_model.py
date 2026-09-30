@@ -345,6 +345,8 @@ def test_end_to_end():
             "--iddaa", str(iddaa))
     assert r.returncode == 0, r.stderr
     assert "İddaa oranlarına göre" in r.stdout, r.stdout[-2000:]
+    rec = next((tmp / "reports").glob("oneriler_*.md")).read_text(encoding="utf-8")
+    assert "## 1) VALUE bahisleri" in rec and "## 2) En olası sonuçlar" in rec, rec[:500]
     pred = pd.read_csv(next((tmp / "reports").glob("predictions_*.csv")))
     fx = pred[pred["kaynak"] == "fixtures"]
     assert fx["max_edge_keskin"].notna().any(), "fikstürde Pinnacle yok; borsa fiyatı kullanılmalı"

@@ -127,6 +127,10 @@ def cmd_predict(args):
     res = predict.run(args.fixtures, args.iddaa, xi=args.xi, ridge=args.ridge, ridge_total=args.ridge_total,
                       joint=args.joint, motivation=args.motivation)
     predict.print_table(res)
+    md = predict.recommendations(res)
+    out = config.REPORTS_DIR / f"oneriler_{time.strftime('%Y-%m-%d')}.md"
+    out.write_text(md, encoding="utf-8")
+    print("\n" + md + f"\nÖneriler: {out}")
 
 
 def cmd_iddaa(args):
