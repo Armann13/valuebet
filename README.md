@@ -60,7 +60,8 @@ Hemen güncel veri gerekirse: `gh workflow run veri-guncelle.yml`, bitince `git 
 Faydalı seçenekler:
 ```bash
 python main.py backtest --div SP1 --edge 0.05 --book ps     # sadece La Liga, %5 eşik, Pinnacle ön-oranları
-python main.py backtest --xi 0.003 --ridge 1.0              # model parametrelerini dene
+python main.py backtest --xi 0.003 --ridge 1.0 --ridge-total 32   # model parametrelerini dene
+python main.py tune --xi-grid 0.0019 --ridge-grid 2,4,8 --ridge-total-grid 8,16,32   # en fazla 2 eksen değişir
 ```
 
 ### İddaa oranlarıyla value arama

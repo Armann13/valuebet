@@ -12,6 +12,7 @@ from scipy.optimize import check_grad
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
+import config  # noqa: E402
 from src import db  # noqa: E402
 from src.dixon_coles import DixonColes, _objective  # noqa: E402
 from src.odds import add_sharp, devig, devig_frame, margin  # noqa: E402
@@ -46,9 +47,21 @@ def test_gradient():
     w = rng.uniform(0.3, 1, m)
     th = rng.normal(0, 0.2, 3 + 2 * n)
     th[2] = -0.07
-    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 0.5)[0],
-                     lambda t: _objective(t, hi, ai, x, y, w, n, 0.5)[1], th)
-    assert err < 1e-5, err
+    for r, rt in [(0.5, None), (0.5, 8.0), (3.0, 0.2)]:
+        err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, r, rt)[0],
+                         lambda t: _objective(t, hi, ai, x, y, w, n, r, rt)[1], th)
+        assert err < 1e-5, (r, rt, err)
+    # ridge = ridge_total iken ceza eski haliyle aynı: ridge * (Σa² + Σd²)
+    a, d = th[3:3 + n], th[3 + n:]
+    pen = (_objective(th, hi, ai, x, y, w, n, 2.0, 2.0)[0] - _objective(th, hi, ai, x, y, w, n, 0.0, 0.0)[0]) * w.sum()
+    assert abs(pen - 2.0 * (a @ a + d @ d)) < 1e-9, pen
+
+
+def test_ridge_total_shrinks_totals():
+    df, _, _ = _simulate(seasons=2)
+    m = DixonColes(xi=0.0, ridge=0.5, ridge_total=1e6, lookback_days=5000).fit(df)
+    assert np.abs(m.attack + m.defence).max() < 1e-3  # eğilim sıfıra çekildi
+    assert np.abs(m.attack - m.defence).std() > 0.1  # güç farkları duruyor
 
 
 def test_parameter_recovery():
@@ -138,10 +151,11 @@ def test_end_to_end():
     assert "Log loss farkı (model − Keskin kapanış PSC/BFEC)" in report and "Strateji karşılaştırması" in report
     assert "BFEC" in report.split("Kapanış kaynağı:")[1].splitlines()[0], "son sezon borsa kapanışına geçmeli"
     r = run("main.py", "tune", "--div", "SP1", "--eval-from", "2024", "--tune-to", "2024", "--workers", "2",
-            "--xi-grid", "0.003", "--ridge-grid", "1")
+            "--xi-grid", str(config.XI), "--ridge-grid", str(config.RIDGE + 1),
+            "--ridge-total-grid", str((config.RIDGE_TOTAL or config.RIDGE) + 1))
     assert r.returncode == 0, r.stderr
     assert "Test döneminde" in (tmp / "reports" / "tune_summary.md").read_text(encoding="utf-8")
-    assert len(pd.read_csv(tmp / "reports" / "tune_grid.csv")) == 4  # {0.003, varsayılan} x {1, varsayılan}
+    assert len(pd.read_csv(tmp / "reports" / "tune_grid.csv")) == 4  # {ridge, ridge+1} x {total, total+1}
     iddaa = tmp / "iddaa.csv"
     iddaa.write_text("home,away,odd_1,odd_x,odd_2\nLiga Takim 01,liga takım 02,2.1,3.3,3.4\n", encoding="utf-8")
     r = run("main.py", "predict", "--fixtures", str(tmp / "data" / "raw" / "fixtures.csv"), "--iddaa", str(iddaa))

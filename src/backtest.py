@@ -29,7 +29,7 @@ def outcomes(df: pd.DataFrame, market: str) -> np.ndarray:
 
 # ---------------------------------------------------------------------------- walk-forward
 def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
-                 lookback: int = config.LOOKBACK_DAYS) -> pd.DataFrame:
+                 lookback: int = config.LOOKBACK_DAYS, ridge_total: float | None = None) -> pd.DataFrame:
     df = df.sort_values("date").reset_index(drop=True)
     ev = df[df["season"] >= eval_from].copy()
     iso = ev["date"].dt.isocalendar()
@@ -41,7 +41,7 @@ def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
             cur_season = season
             print(f"    sezon {season}/{(season + 1) % 100:02d} ...", flush=True)
         try:
-            model = DixonColes(xi=xi, ridge=ridge, lookback_days=lookback).fit(
+            model = DixonColes(xi=xi, ridge=ridge, ridge_total=ridge_total, lookback_days=lookback).fit(
                 df, ref_date=g["date"].min(), warm_start=prev)
         except ValueError:
             continue
@@ -254,9 +254,10 @@ def verdict(ev: dict, summ: dict) -> list[str]:
 
 def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, bet_book: str,
         closing_book: str = config.CLOSING_BOOK, method: str = config.DEVIG_METHOD,
-        eval_from: int = config.EVAL_FROM_SEASON) -> str:
-    print(f"  [{div}] walk-forward başlıyor (xi={xi}, ridge={ridge}) ...")
-    preds = walk_forward(df, eval_from, xi, ridge)
+        eval_from: int = config.EVAL_FROM_SEASON, ridge_total: float | None = config.RIDGE_TOTAL) -> str:
+    rt = "=ridge" if ridge_total is None else f"{ridge_total:g}"
+    print(f"  [{div}] walk-forward başlıyor (xi={xi}, ridge={ridge}, ridge_total={rt}) ...")
+    preds = walk_forward(df, eval_from, xi, ridge, ridge_total=ridge_total)
     if preds.empty:
         return f"## {config.LEAGUES.get(div, div)}\n\nDeğerlendirilecek maç yok.\n"
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
@@ -272,7 +273,7 @@ def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, be
 
     md = [f"## {config.LEAGUES.get(div, div)} ({div})",
           f"Değerlendirilen maç: {len(preds)} | sezonlar: {preds['season'].min()}–{preds['season'].max()} | "
-          f"xi={xi}, ridge={ridge}, bahis oranı={config.book_label(bet_book)}, "
+          f"xi={xi}, ridge={ridge}, ridge_total={rt}, bahis oranı={config.book_label(bet_book)}, "
           f"kıyas={config.book_label(closing_book)}, edge eşiği=%{100 * edge_min:.0f}", ""]
     md += ["### Değerlendirme", *verdict(ev, summ), ""]
     for mk, e in ev.items():

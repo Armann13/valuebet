@@ -66,8 +66,12 @@ def odds_column_map() -> dict:
 # bölge iki ligde de xi 0.0019-0.0025, ridge 2-8 ve oldukça düz; ortak ayar xi=0.0019, ridge=4. Test
 # döneminde eski ridge=0.5'e göre 1X2 log loss: SP2 -0.0064 ± 0.0042 (anlamlı), SP1 -0.0004 ± 0.0029.
 # Ridge = atak/defans parametrelerine sd = 1/sqrt(2*ridge) olan normal önsel; 4 -> sd ≈ 0.35.
+# Güç ve eğilim çekimi ayrı ayarlandı (ölçüt 1X2 + Ü/A toplamı): 1X2 neredeyse sadece RIDGE'e, Ü/A neredeyse
+# sadece RIDGE_TOTAL'a bağlı; Ü/A için en iyi RIDGE_TOTAL iki ligde de 16. Test döneminde RIDGE_TOTAL=RIDGE'e
+# göre Ü/A log loss: SP2 -0.0041 ± 0.0029 (anlamlı), SP1 -0.0004 ± 0.0030.
 XI = 0.0019           # günlük zaman sönümü; yarı ömür = ln(2)/XI ≈ 365 gün
-RIDGE = 4.0           # atak/defans parametrelerine L2 çekimi (az maçlı takımları ortalamaya çeker)
+RIDGE = 4.0           # güç (atak - defans) yönünde L2 çekimi (az maçlı takımları ortalamaya çeker)
+RIDGE_TOTAL = 16.0    # eğilim (atak + defans, Ü/A) yönünde L2 çekimi; None = RIDGE ile aynı
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 

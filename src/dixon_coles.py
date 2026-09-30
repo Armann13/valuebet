@@ -6,6 +6,11 @@ Ev sahibi golleri ~ Poisson(lambda), deplasman golleri ~ Poisson(nu)
 defans burada "zayıflık"tır: büyük değer = çok gol yiyen takım.
 Düşük skorlar (0-0, 1-0, 0-1, 1-1) için Dixon-Coles tau düzeltmesi (rho) uygulanır.
 Geçmiş maçlar exp(-xi * gün) ile ağırlıklandırılır; atak/defansa L2 (ridge) çekimi uygulanır.
+
+Çekim iki yönde ayrı ayarlanır:
+    güç    = atak - defans  (1X2'yi belirler)          -> ridge
+    eğilim = atak + defans  (takımın maçlarındaki toplam gol, Ü/A'yı belirler) -> ridge_total
+ceza = ridge/2 * Σ(a-d)² + ridge_total/2 * Σ(a+d)²; ikisi eşitse ridge * (Σa² + Σd²) ile aynıdır.
 """
 from dataclasses import dataclass, field
 
@@ -21,6 +26,7 @@ import config
 class DixonColes:
     xi: float = config.XI
     ridge: float = config.RIDGE
+    ridge_total: float | None = config.RIDGE_TOTAL  # None = ridge ile aynı
     lookback_days: int = config.LOOKBACK_DAYS
     max_goals: int = config.MAX_GOALS
 
@@ -65,7 +71,7 @@ class DixonColes:
                     theta0[3 + n + i] = warm_start.defence[prev[t]]
 
         bounds = [(None, None), (None, None), (-0.25, 0.25)] + [(None, None)] * (2 * n)
-        res = minimize(_objective, theta0, args=(hi, ai, x, y, w, n, self.ridge),
+        res = minimize(_objective, theta0, args=(hi, ai, x, y, w, n, self.ridge, self.ridge_total),
                        jac=True, method="L-BFGS-B", bounds=bounds,
                        options={"maxiter": 2000, "gtol": 1e-7})
         th = res.x
@@ -127,8 +133,9 @@ class DixonColes:
         return r.sort_values("net", ascending=False).reset_index(drop=True)
 
 
-def _objective(theta, hi, ai, x, y, w, n, ridge):
-    """Ağırlıklı negatif log-olabilirlik + ridge ve analitik gradyanı."""
+def _objective(theta, hi, ai, x, y, w, n, ridge, ridge_total=None):
+    """Ağırlıklı negatif log-olabilirlik + ridge (güç ve eğilim yönünde ayrı) ve analitik gradyanı."""
+    rt = ridge if ridge_total is None else ridge_total
     mu, h, rho = theta[0], theta[1], theta[2]
     a, d = theta[3:3 + n], theta[3 + n:]
     eta1 = mu + h + a[hi] + d[ai]
@@ -163,11 +170,12 @@ def _objective(theta, hi, ai, x, y, w, n, ridge):
     gr = w * (dtr / tau)
 
     W = w.sum()
-    obj = (-ll.sum() + ridge * (a @ a + d @ d)) / W
+    s, t = a - d, a + d
+    obj = (-ll.sum() + 0.5 * (ridge * (s @ s) + rt * (t @ t))) / W
     grad = np.empty_like(theta)
     grad[0] = -(g1.sum() + g2.sum())
     grad[1] = -g1.sum()
     grad[2] = -gr.sum()
-    grad[3:3 + n] = -(np.bincount(hi, g1, n) + np.bincount(ai, g2, n)) + 2 * ridge * a
-    grad[3 + n:] = -(np.bincount(ai, g1, n) + np.bincount(hi, g2, n)) + 2 * ridge * d
+    grad[3:3 + n] = -(np.bincount(hi, g1, n) + np.bincount(ai, g2, n)) + ridge * s + rt * t
+    grad[3 + n:] = -(np.bincount(ai, g1, n) + np.bincount(hi, g2, n)) - ridge * s + rt * t
     return obj, grad / W
