@@ -68,7 +68,7 @@ def odds_column_map() -> dict:
 
 # ---------------------------------------------------------------- Model (Dixon-Coles)
 # Canlı takipte ve predictions tablosunda kayıtlara yazılır; modeli değiştirince artır.
-MODEL_VERSION = "dc-v2 (birleşik + yeni gelen + motivasyon, ridge 4/16)"
+MODEL_VERSION = "dc-v3 (birleşik + yeni gelen + motivasyon + xG 0.25, ridge 4/16)"
 # XI/RIDGE `python main.py tune` ile seçildi (2016-2021 ayar, 2022+ test; 2026-09-30). 1X2 için en iyi
 # bölge iki ligde de xi 0.0019-0.0025, ridge 2-8 ve oldukça düz; ortak ayar xi=0.0019, ridge=4. Test
 # döneminde eski ridge=0.5'e göre 1X2 log loss: SP2 -0.0064 ± 0.0042 (anlamlı), SP1 -0.0004 ± 0.0029.
@@ -93,8 +93,10 @@ JOINT = True
 MOTIVATION = True
 MOTIVATION_REACH = 2.0
 MOTIVATION_M = 0.5    # sabit m (None = her pencerede öğren)
-# xG: modelin Poisson kısmında gol yerine (1 - w) * gol + w * xG kullanılır (xG olmayan maçlarda gol).
-XG_WEIGHT = 0.0
+# xG: modelin Poisson kısmında gol yerine (1 - w) * gol + w * xG kullanılır (xG olmayan maçlarda, ör. SP2, gol).
+# Seçim 2016-2021 (w 0-1, xi 0.0019/0.003): en iyi w=0.25, xi değişmedi. Test 2022+, SP1 1X2 -0.0017 ± 0.0014.
+# Not: test döneminde daha yüksek w (0.5-0.75) biraz daha iyiydi; birkaç sezon sonra yeniden ayarlanabilir.
+XG_WEIGHT = 0.25
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 

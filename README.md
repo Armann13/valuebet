@@ -77,6 +77,10 @@ küme hattı) olup olmadığı hesaplanır (`src/features.py`). Sezon sonunda sa
 gücü sabit bir miktar (`MOTIVATION_M`) artırılır. Piyasa bunu fiyatlıyordu, model bilmiyordu; kapatmak modelin
 kapanışa uzaklığını belirgin azalttı. `--no-motivation` ile kapatılabilir.
 
+**xG (sadece La Liga):** Understat'tan maç bazında xG indirilir (`data/raw/xg/`, GitHub Actions ile). Model gol
+yerine `0.75 × gol + 0.25 × xG` üzerine eğitilir (`config.XG_WEIGHT`). La Liga 2 için ücretsiz xG kaynağı yok;
+orada model gollerle çalışır.
+
 Bir model değişikliğini denerken: önce `reports/backtest_preds_*.csv` dosyalarını bir klasöre kopyala (baz),
 değişikliği yapıp `backtest` çalıştır, sonra `diagnose --base <klasör>` ile değişikliğin hangi maçlarda işe
 yaradığını gör.
@@ -152,6 +156,7 @@ src/db.py            SQLite şeması, CSV temizleme/yükleme
 src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li, birleşik ligler, motivasyon)
 src/features.py      maç öncesi puan durumu ve motivasyon
 src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar)
+src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-data)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)
