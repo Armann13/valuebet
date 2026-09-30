@@ -19,6 +19,13 @@ BUILTIN_ALIASES = {
     "sd huesca": "Huesca", "cd tenerife": "Tenerife", "sd eibar": "Eibar", "malaga cf": "Malaga",
     "cd leganes": "Leganes", "girona fc": "Girona", "getafe cf": "Getafe", "sevilla fc": "Sevilla",
     "valencia cf": "Valencia", "villarreal cf": "Villarreal", "fc barcelona": "Barcelona",
+    # Understat (büyük 5 lig)
+    "manchester city": "Man City", "manchester united": "Man United", "newcastle united": "Newcastle",
+    "queens park rangers": "QPR", "west bromwich albion": "West Brom", "wolverhampton wanderers": "Wolves",
+    "arminia bielefeld": "Bielefeld", "borussia dortmund": "Dortmund", "borussia m.gladbach": "M'gladbach",
+    "fc cologne": "FC Koln", "hamburger sv": "Hamburg", "hertha berlin": "Hertha",
+    "rasenballsport leipzig": "RB Leipzig", "paris saint germain": "Paris SG", "parma calcio 1913": "Parma",
+    "spal 2013": "Spal",
 }
 
 
