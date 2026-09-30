@@ -37,6 +37,7 @@ python tests/test_model.py
 python main.py download     # football-data.co.uk'tan 2014/15'ten bugüne SP1 + SP2 (~1 dk)
 python main.py build        # CSV'ler -> data/football.db (SQLite) + sezon başına oran doluluk tablosu
 python main.py backtest     # walk-forward backtest -> reports/backtest_summary.md (~30 sn)
+python main.py tune         # XI/ridge ızgara taraması (ayar 2016-2021, test 2022+) -> reports/tune_summary.md (~2,5 dk)
 python main.py predict      # yaklaşan maçlar: olasılıklar, adil oranlar, value adayları
 python main.py ratings      # güncel takım güç sıralaması
 python main.py teams        # veritabanındaki takım isimleri
@@ -121,6 +122,7 @@ src/db.py            SQLite şeması, CSV temizleme/yükleme
 src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
+src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)
 src/predict.py       yaklaşan maçlar + İddaa eşleştirme
 tests/               testler + sahte veri üretici (internetsiz test için)
 data/                indirilen veri ve veritabanı (otomatik oluşur)
