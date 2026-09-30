@@ -51,6 +51,12 @@ def test_gradient():
         err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, r, rt)[0],
                          lambda t: _objective(t, hi, ai, x, y, w, n, r, rt)[1], th)
         assert err < 1e-5, (r, rt, err)
+    # iki lig: [mu(2), home(2), rho, lig_gücü(1), yeni_gelen çıkan & düşen, atak(n), defans(n)]
+    li, tl, ts = rng.integers(0, 2, m), rng.integers(0, 2, n), rng.integers(-1, 2, n)
+    th2 = np.r_[0.1, 0.3, 0.25, 0.2, -0.07, -0.4, -0.15, 0.2, th[3:]]
+    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts)[0],
+                     lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts)[1], th2)
+    assert err < 1e-5, err
     # ridge = ridge_total iken ceza eski haliyle aynı: ridge * (Σa² + Σd²)
     a, d = th[3:3 + n], th[3 + n:]
     pen = (_objective(th, hi, ai, x, y, w, n, 2.0, 2.0)[0] - _objective(th, hi, ai, x, y, w, n, 0.0, 0.0)[0]) * w.sum()
@@ -64,10 +70,67 @@ def test_ridge_total_shrinks_totals():
     assert np.abs(m.attack - m.defence).std() > 0.1  # güç farkları duruyor
 
 
+def _two_leagues(seed, seasons=3, n=12, moves=2):
+    """Ortak ölçekte iki lig (L1 üst, L2 alt). Her sezon arası alt ligin en iyi `moves` takımı çıkar, üst ligin
+    en kötüleri düşer. Döner: maçlar, gerçek güçler, son sezondaki ligler, son sezon çıkan / düşen takımlar."""
+    from tests.make_synthetic import dc_matrix
+    rng = np.random.default_rng(seed)
+    s = {f"A{i:02d}": 0.3 + rng.normal(0, 0.2) for i in range(n)}      # güç (atak - defans)
+    s.update({f"B{i:02d}": -0.3 + rng.normal(0, 0.2) for i in range(n)})
+    league = {t: ("L1" if t[0] == "A" else "L2") for t in s}
+    rows, day, moved = [], pd.Timestamp("2020-08-15"), {}
+    for season in range(seasons):
+        for lg in ("L1", "L2"):
+            ts = [t for t in s if league[t] == lg]
+            for h in ts:
+                for a in ts:
+                    if h != a:
+                        m = dc_matrix(np.exp(0.45 + (s[h] - s[a]) / 2), np.exp(0.2 + (s[a] - s[h]) / 2))
+                        k = rng.choice(m.size, p=m.ravel())
+                        rows.append({"div": lg, "season": 2020 + season, "home": h, "away": a,
+                                     "date": day + pd.Timedelta(days=int(rng.integers(0, 280)) + 365 * season),
+                                     "fthg": k // 11, "ftag": k % 11})
+        if season < seasons - 1:
+            moved = {}
+            l1 = sorted([t for t in s if league[t] == "L1"], key=s.get)
+            l2 = sorted([t for t in s if league[t] == "L2"], key=s.get)
+            for t in l1[:moves]:
+                league[t], moved[t] = "L2", -1
+            for t in l2[-moves:]:
+                league[t], moved[t] = "L1", 1
+    return pd.DataFrame(rows).sort_values("date"), s, league, moved
+
+
+def test_joint_leagues():
+    """İki lig ortak ölçekte: lig farkı tahmin edilir, lig değiştiren takımın geçmişi korunur."""
+    df, s, league, _ = _two_leagues(seed=0)
+    m = DixonColes(xi=0.0, ridge=4.0, ridge_total=16.0, lookback_days=5000).fit(df)
+    net = dict(zip(m.ratings()["team"], m.ratings()["net"]))
+    gap = lambda v: np.mean([v[t] for t in s if league[t] == "L2"]) - np.mean([v[t] for t in s if league[t] == "L1"])  # noqa: E731
+    assert abs(gap(net) - gap(s)) < 0.15, (gap(net), gap(s))  # gerçek fark ≈ -0.65
+    old = {t: v for t, v in net.items() if not m.team_status.get(t)}  # lig gücü = yeni gelmemişlerin ortalaması
+    old_gap = np.mean([v for t, v in old.items() if league[t] == "L2"]) - np.mean([v for t, v in old.items() if league[t] == "L1"])
+    assert abs(m.league_strength["L2"] - old_gap) < 0.05, (m.league_strength, old_gap)
+    assert np.corrcoef([net[t] for t in s], list(s.values()))[0, 1] > 0.85  # tek ölçekte sıralama
+    # lig değiştiren takım bilinir; alt ligde bilinmeyen takım alt ligin zayıflarına göre kurulur
+    p = m.predict("Yeni", "A00", "L2")
+    assert not p["known_home"] and p["known_away"] and p["p_home"] < 0.5
+
+
+def test_newcomer_offset():
+    """Üst lige yeni çıkanlar o ligin ortalamasının altında, düşenler alt ligin üstünde olmalı; çekim hedefi
+    bunu öğrenir (yoksa çıkan takım üst lig ortalamasına doğru yukarı çekilirdi)."""
+    df, s, league, moved = _two_leagues(seed=0, moves=3)
+    m = DixonColes(xi=0.0, ridge=4.0, ridge_total=16.0, lookback_days=5000).fit(df)
+    assert {t: m.team_status.get(t, 0) for t in moved} == moved
+    assert sum(1 for v in m.team_status.values() if v) == len(moved)
+    assert m.newcomer_offset["çıkan"] < -0.1 and m.newcomer_offset["düşen"] > 0.1, m.newcomer_offset
+
+
 def test_parameter_recovery():
     df, att, dfn = _simulate()
     model = DixonColes(xi=0.0, ridge=0.1, lookback_days=5000).fit(df)
-    assert abs(model.home - 0.28) < 0.08, model.home
+    assert abs(model.home[model.leagues[0]] - 0.28) < 0.08, model.home
     assert -0.25 < model.rho < 0.05, model.rho
     order = [int(t[1:]) for t in model.teams]
     assert np.corrcoef(model.attack, att[order])[0, 1] > 0.85
@@ -145,11 +208,21 @@ def test_end_to_end():
     assert r.returncode == 0, r.stderr
     assert "SP1 (3).csv: 380 maç (SP1 2025/26)" in r.stdout, r.stdout
     assert "Oran doluluğu" in r.stdout, r.stdout
-    r = run("main.py", "backtest", "--div", "SP1", "--eval-from", "2024")
+    r = run("main.py", "backtest", "--no-joint", "--div", "SP1", "--eval-from", "2024")
     assert r.returncode == 0, r.stderr
     report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")
     assert "Log loss farkı (model − Keskin kapanış PSC/BFEC)" in report and "Strateji karşılaştırması" in report
     assert "BFEC" in report.split("Kapanış kaynağı:")[1].splitlines()[0], "son sezon borsa kapanışına geçmeli"
+    base = tmp / "baz"
+    base.mkdir()
+    shutil.copy(tmp / "reports" / "backtest_preds_SP1.csv", base)  # lige özel modelin tahminleri
+    r = run("main.py", "backtest", "--joint", "--eval-from", "2026")
+    assert r.returncode == 0, r.stderr
+    report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")
+    assert report.count("model=birleşik") == 2, report[:500]
+    r = run("main.py", "diagnose", "--div", "SP1", "--base", str(base))
+    assert r.returncode == 0, r.stderr
+    assert "fark (şimdi−baz)" in (tmp / "reports" / "diagnose_summary.md").read_text(encoding="utf-8")
     r = run("main.py", "tune", "--div", "SP1", "--eval-from", "2024", "--tune-to", "2024", "--workers", "2",
             "--xi-grid", str(config.XI), "--ridge-grid", str(config.RIDGE + 1),
             "--ridge-total-grid", str((config.RIDGE_TOTAL or config.RIDGE) + 1))

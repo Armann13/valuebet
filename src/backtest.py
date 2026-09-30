@@ -30,6 +30,7 @@ def outcomes(df: pd.DataFrame, market: str) -> np.ndarray:
 # ---------------------------------------------------------------------------- walk-forward
 def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
                  lookback: int = config.LOOKBACK_DAYS, ridge_total: float | None = None) -> pd.DataFrame:
+    """df'te birden çok lig varsa her hafta tek bir birleşik model eğitilir (bkz. DixonColes)."""
     df = df.sort_values("date").reset_index(drop=True)
     ev = df[df["season"] >= eval_from].copy()
     iso = ev["date"].dt.isocalendar()
@@ -47,7 +48,7 @@ def walk_forward(df: pd.DataFrame, eval_from: int, xi: float, ridge: float,
             continue
         prev = model
         for rec in g.to_dict("records"):
-            rows.append({**rec, **model.predict(rec["home"], rec["away"])})
+            rows.append({**rec, **model.predict(rec["home"], rec["away"], rec.get("div"))})
     return pd.DataFrame(rows)
 
 
@@ -254,10 +255,15 @@ def verdict(ev: dict, summ: dict) -> list[str]:
 
 def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, bet_book: str,
         closing_book: str = config.CLOSING_BOOK, method: str = config.DEVIG_METHOD,
-        eval_from: int = config.EVAL_FROM_SEASON, ridge_total: float | None = config.RIDGE_TOTAL) -> str:
+        eval_from: int = config.EVAL_FROM_SEASON, ridge_total: float | None = config.RIDGE_TOTAL,
+        preds: pd.DataFrame | None = None) -> str:
+    """preds verilmezse df (bu ligin maçları) ile walk-forward yapılır. Birleşik modelde walk-forward tüm
+    ligler için bir kez yapılır ve bu ligin satırları preds olarak verilir."""
     rt = "=ridge" if ridge_total is None else f"{ridge_total:g}"
-    print(f"  [{div}] walk-forward başlıyor (xi={xi}, ridge={ridge}, ridge_total={rt}) ...")
-    preds = walk_forward(df, eval_from, xi, ridge, ridge_total=ridge_total)
+    joint = preds is not None
+    if preds is None:
+        print(f"  [{div}] walk-forward başlıyor (xi={xi}, ridge={ridge}, ridge_total={rt}) ...")
+        preds = walk_forward(df, eval_from, xi, ridge, ridge_total=ridge_total)
     if preds.empty:
         return f"## {config.LEAGUES.get(div, div)}\n\nDeğerlendirilecek maç yok.\n"
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
@@ -273,6 +279,7 @@ def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, be
 
     md = [f"## {config.LEAGUES.get(div, div)} ({div})",
           f"Değerlendirilen maç: {len(preds)} | sezonlar: {preds['season'].min()}–{preds['season'].max()} | "
+          f"model={'birleşik (tüm ligler)' if joint else 'lige özel'}, "
           f"xi={xi}, ridge={ridge}, ridge_total={rt}, bahis oranı={config.book_label(bet_book)}, "
           f"kıyas={config.book_label(closing_book)}, edge eşiği=%{100 * edge_min:.0f}", ""]
     md += ["### Değerlendirme", *verdict(ev, summ), ""]

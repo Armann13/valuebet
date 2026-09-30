@@ -124,7 +124,11 @@ def _sharp_fair(df: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-def _fit_models(matches: pd.DataFrame, ref_dates: dict, model_kw: dict) -> dict:
+def _fit_models(matches: pd.DataFrame, ref_dates: dict, model_kw: dict, joint: bool) -> dict:
+    """Lig -> model. Birleşik modelde tüm ligler için tek model, en erken maç tarihine göre eğitilir."""
+    if joint and ref_dates:
+        m = DixonColes(**model_kw).fit(matches, ref_date=min(ref_dates.values()))
+        return {div: m for div in ref_dates}
     models = {}
     for div, ref in ref_dates.items():
         d = matches[matches["div"] == div]
@@ -140,7 +144,7 @@ def _predict_rows(fx: pd.DataFrame, models: dict) -> pd.DataFrame:
         m = models.get(rec["div"])
         if m is None:
             continue
-        p = m.predict(rec["home"], rec["away"])
+        p = m.predict(rec["home"], rec["away"], rec["div"])
         rows.append({**rec, **p})
     res = pd.DataFrame(rows)
     if res.empty:
@@ -151,7 +155,8 @@ def _predict_rows(fx: pd.DataFrame, models: dict) -> pd.DataFrame:
 
 
 def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: float,
-        ridge_total: float | None = config.RIDGE_TOTAL, save: bool = True) -> pd.DataFrame:
+        ridge_total: float | None = config.RIDGE_TOTAL, joint: bool = config.JOINT,
+        save: bool = True) -> pd.DataFrame:
     model_kw = {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}
     matches = db.load_matches()
     if matches.empty:
@@ -166,7 +171,7 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
         fx = fx[fx["div"].isin(config.LEAGUES) & (fx["date"] >= today - pd.Timedelta(days=1))]
         if not fx.empty:
             ref = fx.groupby("div")["date"].min().to_dict()
-            models = _fit_models(matches, ref, model_kw)
+            models = _fit_models(matches, ref, model_kw, joint)
             res = _predict_rows(fx, models)
             if not res.empty:
                 res = pd.concat([res, _sharp_fair(res), _market_block(res, "max", "max"),
@@ -179,7 +184,7 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
 
     # ---- 2) İddaa oranları
     if iddaa_path:
-        frames.append(_run_iddaa(iddaa_path, matches, frames[0] if frames else None, model_kw, today))
+        frames.append(_run_iddaa(iddaa_path, matches, frames[0] if frames else None, model_kw, joint, today))
 
     if not frames:
         raise SystemExit("Tahmin edilecek maç bulunamadı.")
@@ -198,7 +203,7 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
 
 
 def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | None,
-               model_kw: dict, today: pd.Timestamp) -> pd.DataFrame:
+               model_kw: dict, joint: bool, today: pd.Timestamp) -> pd.DataFrame:
     """iddaa.csv sütunları: home,away,odd_1,odd_x,odd_2[,odd_over25,odd_under25][,date]"""
     raw = pd.read_csv(path)
     latest = matches.sort_values("date").groupby("home")["div"].last().to_dict()
@@ -220,7 +225,7 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
     for c in [c for c in fx if c.startswith("iddaa_")]:
         fx[c] = pd.to_numeric(fx[c], errors="coerce")
     ref = {div: today for div in fx["div"].dropna().unique()}
-    models = _fit_models(matches, ref, model_kw)
+    models = _fit_models(matches, ref, model_kw, joint)
     res = _predict_rows(fx, models)
     if res.empty:
         return res

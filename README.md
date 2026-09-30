@@ -38,8 +38,9 @@ python main.py download     # football-data.co.uk'tan 2014/15'ten bugüne SP1 + 
 python main.py build        # CSV'ler -> data/football.db (SQLite) + sezon başına oran doluluk tablosu
 python main.py backtest     # walk-forward backtest -> reports/backtest_summary.md (~30 sn)
 python main.py tune         # XI/ridge ızgara taraması (ayar 2016-2021, test 2022+) -> reports/tune_summary.md (~2,5 dk)
+python main.py diagnose     # model-kapanış açığı hangi maçlarda yoğun -> reports/diagnose_summary.md
 python main.py predict      # yaklaşan maçlar: olasılıklar, adil oranlar, value adayları
-python main.py ratings      # güncel takım güç sıralaması
+python main.py ratings      # güncel takım güç sıralaması (iki lig ortak ölçekte)
 python main.py teams        # veritabanındaki takım isimleri
 ```
 
@@ -62,7 +63,18 @@ Faydalı seçenekler:
 python main.py backtest --div SP1 --edge 0.05 --book ps     # sadece La Liga, %5 eşik, Pinnacle ön-oranları
 python main.py backtest --xi 0.003 --ridge 1.0 --ridge-total 32   # model parametrelerini dene
 python main.py tune --xi-grid 0.0019 --ridge-grid 2,4,8 --ridge-total-grid 8,16,32   # en fazla 2 eksen değişir
+python main.py backtest --no-joint                           # her lig ayrı model (varsayılan: SP1+SP2 birlikte)
+python main.py diagnose --base reports/baz                   # iki model sürümünü aynı maçlarda dilim dilim kıyasla
 ```
+
+**Model:** SP1 ve SP2 tek bir Dixon-Coles modelinde, ortak güç ölçeğinde eğitilir; lig değiştiren takımların
+geçmişi kaybolmaz. Her takım kendi liginin ortalamasına çekilir; bu sezon lige yeni çıkan / düşen takımlar için
+ayrıca öğrenilen bir sapma vardır (yoksa çıkan takımlar sistematik olarak fazla güçlü görünür). Ayrıntı:
+`src/dixon_coles.py` başındaki açıklama.
+
+Bir model değişikliğini denerken: önce `reports/backtest_preds_*.csv` dosyalarını bir klasöre kopyala (baz),
+değişikliği yapıp `backtest` çalıştır, sonra `diagnose --base <klasör>` ile değişikliğin hangi maçlarda işe
+yaradığını gör.
 
 ### İddaa oranlarıyla value arama
 
@@ -124,6 +136,7 @@ src/dixon_coles.py   model (analitik gradyanlı, zaman ağırlıklı, ridge'li)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)
+src/diagnose.py      açık analizi (tur, yeni takım, dinlenme, favori, sezon dilimleri; baz kıyası)
 src/predict.py       yaklaşan maçlar + İddaa eşleştirme
 tests/               testler + sahte veri üretici (internetsiz test için)
 data/                indirilen veri ve veritabanı (otomatik oluşur)

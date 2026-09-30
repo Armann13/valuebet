@@ -72,6 +72,11 @@ def odds_column_map() -> dict:
 XI = 0.0019           # günlük zaman sönümü; yarı ömür = ln(2)/XI ≈ 365 gün
 RIDGE = 4.0           # güç (atak - defans) yönünde L2 çekimi (az maçlı takımları ortalamaya çeker)
 RIDGE_TOTAL = 16.0    # eğilim (atak + defans, Ü/A) yönünde L2 çekimi; None = RIDGE ile aynı
+# SP1 + SP2 tek modelde, ortak ölçekte (bkz. dixon_coles.py). Lige özel modele göre (2016-2026, aynı maçlar)
+# 1X2 log loss SP1 -0.0010 ± 0.0022, SP2 -0.0016 ± 0.0017 (anlamsız ama hiçbir dilimde kötüleşme yok); asıl
+# kazanç, lig değiştiren takımlardaki yanlılığın gitmesi: çıkan takımın kazanma olasılığı kapanışa göre
+# +0.03'ten ~0'a, düşeninki -0.02/-0.03'ten ~-0.01'e indi. --no-joint ile her lig ayrı eğitilir.
+JOINT = True
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 

@@ -30,14 +30,17 @@ CRITERIA = {"1x2": ("ll_1x2", "1X2 log loss"), "ou": ("ll_ou", "Ü/A 2.5 log los
 _DATA = {}  # her işçi süreçte bir kez yüklenir
 
 
-def _init(divs):
-    for div in divs:
-        _DATA[div] = db.load_matches(div)
+def _init(divs, joint):
+    if joint:  # birleşik modelde eğitim her zaman tüm liglerle; değerlendirme divs ile sınırlanır
+        _DATA["ALL"] = db.load_matches()
+    else:
+        for div in divs:
+            _DATA[div] = db.load_matches(div)
 
 
 def _per_match(p: pd.DataFrame) -> pd.DataFrame:
     """Maç başına model ve keskin kapanış log loss'u (kapanış yoksa NaN)."""
-    out = p[["date", "season", "home", "away"]].copy()
+    out = p[["div", "date", "season", "home", "away"]].copy()
     for mk, spec in MARKETS.items():
         y = outcomes(p, mk)
         out[f"ll_{KEYS[mk]}"] = _ll_each(p[spec["model"]].to_numpy(dtype=float), y)
@@ -106,7 +109,7 @@ def _compare(a: pd.DataFrame, b: pd.DataFrame, tune_to: int) -> pd.DataFrame:
 
 def run(divs: list, xi0: float, ridge0: float, rt0: float | None, eval_from: int, tune_to: int, workers: int,
         xi_grid: list | None = None, ridge_grid: list | None = None, rt_grid: list | None = None,
-        criterion: str = "toplam") -> tuple[str, pd.DataFrame]:
+        criterion: str = "toplam", joint: bool = False) -> tuple[str, pd.DataFrame]:
     """rt_grid verilmezse ridge_total varsayılanda (rt0; None = ridge ile aynı) sabit kalır."""
     xis = sorted(set(xi_grid or XI_GRID) | {xi0})
     ridges = sorted(set(ridge_grid or RIDGE_GRID) | {ridge0})
@@ -120,21 +123,24 @@ def run(divs: list, xi0: float, ridge0: float, rt0: float | None, eval_from: int
     rows_ax, cols_ax = (varying + [a for a in AXES if a not in varying])[:2]
     crit_col, crit_name = CRITERIA[criterion]
 
-    jobs = [(div, xi, r, rt, eval_from) for div in divs for xi, r, rt in itertools.product(xis, ridges, rts)]
+    keys = ["ALL"] if joint else divs
+    jobs = [(key, xi, r, rt, eval_from) for key in keys for xi, r, rt in itertools.product(xis, ridges, rts)]
     print(f"  {len(jobs)} walk-forward, {workers} paralel işçi ...", flush=True)
     t0, res = time.time(), {}
-    with ProcessPoolExecutor(max_workers=workers, initializer=_init, initargs=(divs,)) as ex:
+    with ProcessPoolExecutor(max_workers=workers, initializer=_init, initargs=(divs, joint)) as ex:
         futures = [ex.submit(_one, j) for j in jobs]
         for k, f in enumerate(as_completed(futures), 1):
             job, pm = f.result()
-            res[job[:4]] = pm
+            for div in (divs if job[0] == "ALL" else [job[0]]):
+                res[(div, *job[1:4])] = pm[pm["div"] == div].reset_index(drop=True)
             if k % 10 == 0 or k == len(jobs):
                 print(f"  {k}/{len(jobs)} ({time.time() - t0:.0f} sn)", flush=True)
 
     md = ["# Model ayarı (xi / ridge / ridge_total)", "",
           f"Walk-forward {eval_from}'dan itibaren. **Ayar dönemi:** {eval_from}–{tune_to} sezonları (seçim sadece "
           f"buna bakar). **Test dönemi:** {tune_to + 1} ve sonrası (seçimde hiç kullanılmadı). "
-          f"Varsayılan: xi={xi0:g}, ridge={ridge0:g}, ridge_total={_fmt_rt(rt0)}. Seçim ölçütü: {crit_name}.", ""]
+          f"Varsayılan: xi={xi0:g}, ridge={ridge0:g}, ridge_total={_fmt_rt(rt0)}. Seçim ölçütü: {crit_name}. "
+          f"Model: {'birleşik (tüm ligler)' if joint else 'lige özel'}.", ""]
     all_rows = []
     for div in divs:
         rows = []
