@@ -1,3 +1,5 @@
-snapshot_utc,event_id,div,kickoff_utc,home_iddaa,away_iddaa,mbs,ou_line,odd_alt,wodd_alt,odd_ust,wodd_ust,odd_1,wodd_1,odd_x,wodd_x,odd_2,wodd_2,home,away,season
-2026-09-30 14:00,3168754,EC,2026-09-30 18:45,Tamworth,Sutton United,3,3.5,1.4,1.35,2.16,2.07,2.06,1.98,3.28,3.15,2.61,2.51,Tamworth,,2026
-2026-09-30 14:00,3168649,EC,2026-09-30 18:45,Eastleigh,Southend,3,3.5,1.4,1.35,2.16,2.07,3.61,3.47,3.51,3.38,1.63,1.57,Eastleigh,Southend,2026
+snapshot_utc,event_id,div,kickoff_utc,home_iddaa,away_iddaa,mbs,ou_line,odd_alt,wodd_alt,odd_ust,wodd_ust,odd_1,wodd_1,odd_x,wodd_x,odd_2,wodd_2,home,away,season,odd_kg_var,odd_kg_yok,odd_1x,odd_12,odd_x2
+2026-09-30 14:00,3168754,EC,2026-09-30 18:45,Tamworth,Sutton United,3,3.5,1.4,1.35,2.16,2.07,2.06,1.98,3.28,3.15,2.61,2.51,Tamworth,,2026,,,,,
+2026-09-30 14:00,3168649,EC,2026-09-30 18:45,Eastleigh,Southend,3,3.5,1.4,1.35,2.16,2.07,3.61,3.47,3.51,3.38,1.63,1.57,Eastleigh,Southend,2026,,,,,
+2026-09-30 14:56,3168754,EC,2026-09-30 18:45,Tamworth,Sutton United,3,3.5,1.4,1.35,2.16,2.07,2.06,1.98,3.28,3.15,2.61,2.51,Tamworth,Sutton,2026,1.37,2.25,1.26,1.16,1.43
+2026-09-30 14:56,3168649,EC,2026-09-30 18:45,Eastleigh,Southend,3,3.5,1.42,1.37,2.12,2.04,3.67,3.53,3.62,3.48,1.59,1.53,Eastleigh,Southend,2026,1.42,2.13,1.76,1.13,1.12
