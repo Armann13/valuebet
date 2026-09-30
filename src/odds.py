@@ -1,6 +1,11 @@
-"""Oran yardımcıları: ima edilen olasılık, marj ve marjı temizleme (de-vig)."""
+"""Oran yardımcıları: ima edilen olasılık, marj, marjı temizleme (de-vig) ve keskin piyasa sütunları."""
 import numpy as np
+import pandas as pd
 from scipy.optimize import brentq
+
+import config
+
+MARKET_SUFFIXES = {"1x2": ["h", "d", "a"], "ou": ["o25", "u25"]}
 
 
 def margin(odds) -> float:
@@ -48,3 +53,31 @@ def devig_frame(df, cols, method: str = "power") -> np.ndarray:
     else:
         raise ValueError(f"bilinmeyen yöntem: {method}")
     return out
+
+
+def add_sharp(df: pd.DataFrame) -> pd.DataFrame:
+    """Keskin piyasa oranlarını ekler: sharp_* (açılış) ve sharpc_* (kapanış), bkz. config.SHARP_SOURCES.
+    Her market için satır bazında ilk tam ve geçerli kaynak alınır (bir marketin oranları hep aynı
+    kaynaktan gelir). Marjı EXCHANGE_MAX_MARGIN'i aşan borsa fiyatı geçersiz sayılır. Kullanılan kaynak
+    {ad}_src_{market} sütununda (ör. sharpc_src_1x2 = "psc" / "bfec" / None)."""
+    new = {}
+    for name, sources in config.SHARP_SOURCES.items():
+        for mk, sufs in MARKET_SUFFIXES.items():
+            out = np.full((len(df), len(sufs)), np.nan)
+            src = np.full(len(df), None, dtype=object)
+            filled = np.zeros(len(df), dtype=bool)
+            for book in sources:
+                cols = [f"{book}_{s}" for s in sufs]
+                if not all(c in df for c in cols):
+                    continue
+                arr = df[cols].to_numpy(dtype=float)
+                ok = np.isfinite(arr).all(axis=1) & (arr > 1.0).all(axis=1)
+                if book in config.EXCHANGE_BOOKS:
+                    with np.errstate(divide="ignore", invalid="ignore"):
+                        ok &= (1 / arr).sum(axis=1) - 1 <= config.EXCHANGE_MAX_MARGIN
+                take = ok & ~filled
+                out[take], src[take], filled = arr[take], book, filled | take
+            for k, s in enumerate(sufs):
+                new[f"{name}_{s}"] = out[:, k]
+            new[f"{name}_src_{mk}"] = src
+    return pd.concat([df.drop(columns=[c for c in new if c in df]), pd.DataFrame(new, index=df.index)], axis=1)

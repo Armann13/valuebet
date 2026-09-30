@@ -2,7 +2,8 @@
 
 Her hafta için model SADECE o haftadan önceki maçlarla yeniden eğitilir ve o haftanın maçları tahmin
 edilir (geleceği görme / sızıntı yok). Sonra:
-  1) Tahmin kalitesi: model vs Pinnacle kapanış oranları (log loss, Brier, RPS, kalibrasyon)
+  1) Tahmin kalitesi: model vs keskin kapanış oranları (Pinnacle, yoksa Betfair borsası; log loss, Brier,
+     RPS, kalibrasyon)
   2) Value simülasyonu: edge >= eşik olan bahisler, düz bahis ROI, çeyrek Kelly kasa, CLV
 """
 import numpy as np
@@ -94,14 +95,16 @@ def evaluate(preds: pd.DataFrame, bet_book: str, closing_book: str, method: str)
             continue
         y = outcomes(preds, mk)[ok]
         table = []
-        for name, p in [("Model (Dixon-Coles)", pm[ok]), (f"{bet_book.upper()} (marjsız)", pb[ok]),
-                        (f"{closing_book.upper()} kapanış (marjsız)", pc[ok])]:
+        for name, p in [("Model (Dixon-Coles)", pm[ok]), (f"{config.book_label(bet_book)} (marjsız)", pb[ok]),
+                        (f"{config.book_label(closing_book)} (marjsız)", pc[ok])]:
             row = {"kaynak": name, "log_loss": _log_loss(p, y), "brier": _brier(p, y)}
             if mk == "1X2":
                 row["rps"] = _rps(p, y)
             table.append(row)
         ll_model = _ll_each(pm[ok], y)
+        src_col = f"{closing_book}_src_{'1x2' if mk == '1X2' else 'ou'}"
         out[mk] = {"n": int(ok.sum()), "table": pd.DataFrame(table),
+                   "close_sources": preds.loc[ok, src_col].value_counts().to_dict() if src_col in preds else {},
                    "mean_abs_diff_vs_close": float(np.mean(np.abs(pm[ok] - pc[ok]))),
                    "vs_bet": _paired_diff(ll_model, _ll_each(pb[ok], y)),
                    "vs_close": _paired_diff(ll_model, _ll_each(pc[ok], y))}
@@ -123,12 +126,13 @@ def calibration(preds: pd.DataFrame, bins=np.linspace(0, 1, 11)) -> pd.DataFrame
 
 
 # ---------------------------------------------------------------------------- value simülasyonu
-# Bahis seçme kuralları. "pinnacle" modeli hiç kullanmaz: sadece bahis anında bilinen Pinnacle açılış
-# adil fiyatını oynanan oranla kıyaslar. Model ancak bu kuraldan daha iyi CLV veriyorsa bilgi katıyordur.
+# Bahis seçme kuralları. "sharp" modeli hiç kullanmaz: sadece bahis anında bilinen keskin açılış adil
+# fiyatını (Pinnacle, yoksa Betfair borsası) oynanan oranla kıyaslar. Model ancak bu kuraldan daha iyi CLV
+# veriyorsa bilgi katıyordur.
 RULES = {
     "model": "Model",
-    "pinnacle": "Pinnacle açılış adil fiyatı (model yok)",
-    "both": "Model + Pinnacle onayı (predict'teki VALUE kuralı)",
+    "sharp": "Keskin açılış adil fiyatı (model yok)",
+    "both": "Model + keskin piyasa onayı (predict'teki VALUE kuralı)",
 }
 
 
@@ -139,17 +143,17 @@ def find_bets(preds: pd.DataFrame, bet_book: str, closing_book: str, method: str
         pm = preds[spec["model"]].to_numpy(dtype=float)
         price = preds[[f"{bet_book}_{s}" for s in spec["suffix"]]].to_numpy(dtype=float)
         pc = devig_frame(preds, [f"{closing_book}_{s}" for s in spec["suffix"]], method)
-        pp = devig_frame(preds, [f"ps_{s}" for s in spec["suffix"]], method)
+        ps = devig_frame(preds, [f"sharp_{s}" for s in spec["suffix"]], method)
         y = outcomes(preds, mk)
-        edge_pin = pp * price - 1
-        edge = edge_pin.copy() if rule == "pinnacle" else pm * price - 1
+        edge_sharp = ps * price - 1
+        edge = edge_sharp.copy() if rule == "sharp" else pm * price - 1
         edge[~np.isfinite(edge) | (price > max_odds)] = -np.inf
         data_ok = (preds["n_home"] >= min_matches) & (preds["n_away"] >= min_matches)
         for i in np.where(data_ok.to_numpy())[0]:
             j = int(np.argmax(edge[i]))
             if edge[i, j] < edge_min:
                 continue
-            if rule == "both" and not edge_pin[i, j] > 0:
+            if rule == "both" and not edge_sharp[i, j] > 0:
                 continue
             r = preds.iloc[i]
             bets.append({
@@ -238,7 +242,7 @@ def verdict(ev: dict, summ: dict) -> list[str]:
         sig = "anlamlı" if np.isfinite(clv_t) and abs(clv_t) >= 2 else "anlamlı değil"
         if clv > 0:
             lines.append(f"- Ortalama CLV pozitif (%{clv:.2f}, t = {clv_t:.2f}, {sig}): bahisler kapanış oranını "
-                         "yenmiş. En umut verici sinyal bu; ama aşağıdaki strateji tablosunda Pinnacle açılış "
+                         "yenmiş. En umut verici sinyal bu; ama aşağıdaki strateji tablosunda keskin açılış "
                          "kuralıyla kıyasla.")
         else:
             lines.append(f"- Ortalama CLV negatif (%{clv:.2f}, t = {clv_t:.2f}, {sig}): bahisler kapanıştan kötü "
@@ -268,15 +272,18 @@ def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, be
 
     md = [f"## {config.LEAGUES.get(div, div)} ({div})",
           f"Değerlendirilen maç: {len(preds)} | sezonlar: {preds['season'].min()}–{preds['season'].max()} | "
-          f"xi={xi}, ridge={ridge}, bahis oranı={bet_book.upper()}, kıyas={closing_book.upper()}, "
-          f"edge eşiği=%{100 * edge_min:.0f}", ""]
+          f"xi={xi}, ridge={ridge}, bahis oranı={config.book_label(bet_book)}, "
+          f"kıyas={config.book_label(closing_book)}, edge eşiği=%{100 * edge_min:.0f}", ""]
     md += ["### Değerlendirme", *verdict(ev, summ), ""]
     for mk, e in ev.items():
         md += [f"### Tahmin kalitesi — {mk} (n={e['n']}, düşük = iyi)", _md_table(e["table"]), ""]
-        for ref, key in [(f"{bet_book.upper()}", "vs_bet"), (f"{closing_book.upper()} kapanış", "vs_close")]:
+        for ref, key in [(config.book_label(bet_book), "vs_bet"), (config.book_label(closing_book), "vs_close")]:
             d, se = e[key]
             md.append(f"- Log loss farkı (model − {ref}): {d:+.4f} ± {1.96 * se:.4f} (%95 GA) → {_sig(d, se)}")
-        md += [f"- Model ile kapanış olasılıkları arasındaki ortalama mutlak fark: {e['mean_abs_diff_vs_close']:.3f}", ""]
+        md.append(f"- Model ile kapanış olasılıkları arasındaki ortalama mutlak fark: {e['mean_abs_diff_vs_close']:.3f}")
+        if e["close_sources"]:
+            md.append("- Kapanış kaynağı: " + ", ".join(f"{k.upper()} {v} maç" for k, v in e["close_sources"].items()))
+        md.append("")
     if not cal.empty:
         md += ["### Kalibrasyon (1X2, tüm sonuçlar)", _md_table(cal, "{:.3f}"), ""]
 
@@ -297,10 +304,10 @@ def run(div: str, df: pd.DataFrame, xi: float, ridge: float, edge_min: float, be
     strat = [{"strateji": label, **short(summarize(find_bets(preds, bet_book, closing_book, method, edge_min,
                                                              config.MAX_ODDS, config.MIN_TEAM_MATCHES, rule)))}
              for rule, label in RULES.items()]
-    md += [f"### Strateji karşılaştırması (edge eşiği %{100 * edge_min:.0f}, oran {bet_book.upper()})",
+    md += [f"### Strateji karşılaştırması (edge eşiği %{100 * edge_min:.0f}, oran {config.book_label(bet_book)})",
            _md_table(pd.DataFrame(strat), "{:.2f}"),
-           "\nModel, ancak CLV'si 'Pinnacle açılış' satırından belirgin şekilde yüksekse bahis anındaki piyasa "
-           "bilgisine bir şey ekliyor demektir.", ""]
+           "\nKeskin açılış = Pinnacle, yoksa Betfair borsası. Model, ancak CLV'si 'Keskin açılış' satırından "
+           "belirgin şekilde yüksekse bahis anındaki piyasa bilgisine bir şey ekliyor demektir.", ""]
     # Farklı edge eşiklerinde ne olurdu?
     thr = []
     for e in [0.0, 0.02, 0.03, 0.05, 0.08, 0.10, 0.15]:

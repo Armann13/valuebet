@@ -7,10 +7,11 @@ import numpy as np
 import pandas as pd
 
 import config
+from src.odds import add_sharp
 
 ODDS_COLS = list(dict.fromkeys(config.odds_column_map().values()))
 
-SCHEMA = f"""
+MATCHES_SCHEMA = f"""
 CREATE TABLE IF NOT EXISTS matches (
     div     TEXT NOT NULL,
     season  INTEGER NOT NULL,
@@ -23,6 +24,8 @@ CREATE TABLE IF NOT EXISTS matches (
     {", ".join(f"{c} REAL" for c in ODDS_COLS)},
     PRIMARY KEY (div, date, home, away)
 );
+"""
+SCHEMA = MATCHES_SCHEMA + """
 CREATE TABLE IF NOT EXISTS predictions (
     created_at TEXT NOT NULL,
     model      TEXT NOT NULL,
@@ -142,7 +145,9 @@ def build() -> int:
     cols = ["div", "season", "date", "time", "home", "away", "fthg", "ftag", "ftr", "hthg", "htag"] + ODDS_COLS
     con = connect()
     with con:
-        con.execute("DELETE FROM matches")
+        # matches her build'de sıfırdan yazılır; tabloyu yeniden kurmak yeni oran sütunlarını da ekler
+        con.execute("DROP TABLE matches")
+        con.execute(MATCHES_SCHEMA)
         con.executemany(
             f"INSERT INTO matches ({', '.join(cols)}) VALUES ({', '.join('?' * len(cols))})",
             all_df[cols].astype(object).where(all_df[cols].notna(), None).itertuples(index=False, name=None),
@@ -151,13 +156,13 @@ def build() -> int:
     return len(all_df)
 
 
-COVERAGE_COLS = {"B365 1X2": "b365_h", "PS 1X2": "ps_h", "PSC 1X2": "psc_h",
-                 "B365 Ü/A": "b365_o25", "PS Ü/A": "ps_o25", "PSC Ü/A": "psc_o25"}
+COVERAGE_COLS = {"B365 1X2": "b365_h", "keskin aç. 1X2": "sharp_h", "keskin kap. 1X2": "sharpc_h",
+                 "B365 Ü/A": "b365_o25", "keskin aç. Ü/A": "sharp_o25", "keskin kap. Ü/A": "sharpc_o25"}
 
 
 def coverage(df: pd.DataFrame) -> pd.DataFrame:
     """Lig ve sezon başına maç sayısı ve oran sütunlarının doluluğu (%). Backtest'in hangi sezonlarda
-    (kapanış oranı olan) anlamlı olduğunu gösterir."""
+    (keskin kapanış oranı olan) anlamlı olduğunu gösterir. df: load_matches() çıktısı."""
     cols = list(COVERAGE_COLS.values())
     g = df[cols].notna().groupby([df["div"], df["season"]])
     out = (100 * g.mean()).round().astype(int).rename(columns={v: k for k, v in COVERAGE_COLS.items()})
@@ -173,7 +178,7 @@ def load_matches(div: str | None = None) -> pd.DataFrame:
     df = pd.read_sql_query(q, con, params=(div,) if div else None)
     con.close()
     df["date"] = pd.to_datetime(df["date"])
-    return df
+    return add_sharp(df)
 
 
 def save_predictions(df: pd.DataFrame, model_name: str) -> None:

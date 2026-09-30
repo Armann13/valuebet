@@ -14,7 +14,7 @@ sys.path.insert(0, str(ROOT))
 
 from src import db  # noqa: E402
 from src.dixon_coles import DixonColes, _objective  # noqa: E402
-from src.odds import devig, devig_frame, margin  # noqa: E402
+from src.odds import add_sharp, devig, devig_frame, margin  # noqa: E402
 
 
 def _simulate(n_teams=20, seasons=3, home=0.28, rho=-0.1, seed=1):
@@ -93,6 +93,20 @@ def test_devig_frame_matches_rowwise():
         assert np.isnan(vec[[5, 7]]).all()
 
 
+def test_add_sharp():
+    nan = np.nan
+    df = pd.DataFrame({  # satırlar: Pinnacle tam | Pinnacle eksik -> borsa | borsa sığ (marj > %10) | hiçbiri
+        "ps_h": [2.0, 2.0, nan, nan], "ps_d": [3.4, nan, nan, nan], "ps_a": [4.0, 4.0, nan, nan],
+        "bfe_h": [2.1, 2.1, 1.5, nan], "bfe_d": [3.6, 3.6, 2.5, nan], "bfe_a": [4.2, 4.2, 3.0, nan],
+        "ps_o25": [1.9, 1.9, nan, nan], "ps_u25": [1.95, 1.95, nan, nan],
+    })
+    s = add_sharp(df)
+    assert list(s["sharp_src_1x2"]) == ["ps", "bfe", None, None]
+    assert s.loc[0, "sharp_d"] == 3.4 and s.loc[1, "sharp_d"] == 3.6  # bir marketin oranları tek kaynaktan
+    assert np.isnan(s.loc[2:, ["sharp_h", "sharp_d", "sharp_a"]].to_numpy()).all()
+    assert list(s["sharp_src_ou"][:2]) == ["ps", "ps"] and np.isnan(s["sharpc_h"]).all()
+
+
 def test_real_header_parsing():
     raw = db.read_raw_csv(ROOT / "tests" / "fixtures" / "real_header_sample.csv")
     df = db.normalize(raw, div="SP1", season=2025)
@@ -121,12 +135,16 @@ def test_end_to_end():
     r = run("main.py", "backtest", "--div", "SP1", "--eval-from", "2024")
     assert r.returncode == 0, r.stderr
     report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")
-    assert "Log loss farkı (model − PSC kapanış)" in report and "Strateji karşılaştırması" in report
+    assert "Log loss farkı (model − Keskin kapanış PSC/BFEC)" in report and "Strateji karşılaştırması" in report
+    assert "BFEC" in report.split("Kapanış kaynağı:")[1].splitlines()[0], "son sezon borsa kapanışına geçmeli"
     iddaa = tmp / "iddaa.csv"
     iddaa.write_text("home,away,odd_1,odd_x,odd_2\nLiga Takim 01,liga takım 02,2.1,3.3,3.4\n", encoding="utf-8")
     r = run("main.py", "predict", "--fixtures", str(tmp / "data" / "raw" / "fixtures.csv"), "--iddaa", str(iddaa))
     assert r.returncode == 0, r.stderr
     assert "İddaa oranlarına göre" in r.stdout, r.stdout[-2000:]
+    pred = pd.read_csv(next((tmp / "reports").glob("predictions_*.csv")))
+    fx = pred[pred["kaynak"] == "fixtures"]
+    assert fx["max_edge_keskin"].notna().any(), "fikstürde Pinnacle yok; borsa fiyatı kullanılmalı"
     shutil.rmtree(tmp, ignore_errors=True)
 
 

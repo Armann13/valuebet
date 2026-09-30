@@ -1,12 +1,13 @@
 """Yaklaşan maçlar için olasılık, adil oran ve value tespiti.
 
 İki kaynak:
-  1) football-data.co.uk fixtures.csv (Bet365, Pinnacle, piyasa ortalaması ve en iyi oranlarla)
+  1) football-data.co.uk fixtures.csv (Bet365, Betfair borsası, piyasa ortalaması ve en iyi oranlarla)
   2) İsteğe bağlı: senin elle doldurduğun İddaa oranları (iddaa.csv)
 
 Her olası bahis için iki ayrı edge hesaplanır:
-  edge_model    = model_olasılığı * oran - 1       (modelin görüşü)
-  edge_pinnacle = pinnacle_adil_olasılık * oran - 1 (oran, en keskin piyasanın adil fiyatını geçiyor mu?)
+  edge_model  = model_olasılığı * oran - 1       (modelin görüşü)
+  edge_keskin = keskin_adil_olasılık * oran - 1  (oran, keskin piyasanın adil fiyatını geçiyor mu?
+                                                  keskin = Pinnacle, yoksa Betfair borsası)
 İkisinin birlikte pozitif olması en güvenilir sinyaldir.
 """
 import difflib
@@ -21,7 +22,7 @@ import config
 from src import db
 from src.dixon_coles import DixonColes
 from src.download import download_fixtures
-from src.odds import devig_frame
+from src.odds import MARKET_SUFFIXES, add_sharp, devig_frame
 
 MODEL_NAME = "dixon_coles_v1"
 
@@ -81,7 +82,7 @@ def _market_block(df: pd.DataFrame, prefix: str, book: str) -> pd.DataFrame:
 
 
 def _add_edges(res: pd.DataFrame, price_prefix: str) -> pd.DataFrame:
-    """Her satır için en iyi value adayını bulur (model ve Pinnacle edge'leri ile)."""
+    """Her satır için en iyi value adayını bulur (model ve keskin piyasa edge'leri ile)."""
     picks = []
     for _, r in res.iterrows():
         best = None
@@ -90,35 +91,36 @@ def _add_edges(res: pd.DataFrame, price_prefix: str) -> pd.DataFrame:
             if not np.isfinite(price) or price > config.MAX_ODDS:
                 continue
             e_model = r[pcol] * price - 1
-            p_pin = r.get(f"pin_fair_{lab}", np.nan)
-            e_pin = p_pin * price - 1 if np.isfinite(p_pin) else np.nan
+            p_sharp = r.get(f"sharp_fair_{lab}", np.nan)
+            e_sharp = p_sharp * price - 1 if np.isfinite(p_sharp) else np.nan
             if best is None or e_model > best[2]:
-                best = (lab, price, e_model, e_pin)
+                best = (lab, price, e_model, e_sharp)
         if best is None:
             picks.append((None, np.nan, np.nan, np.nan, ""))
             continue
-        lab, price, e_model, e_pin = best
+        lab, price, e_model, e_sharp = best
         low_data = min(r["n_home"], r["n_away"]) < config.MIN_TEAM_MATCHES
         if e_model >= config.EDGE_MIN and not low_data:
-            flag = "VALUE" if (np.isfinite(e_pin) and e_pin > 0) else "sadece model"
+            flag = "VALUE" if (np.isfinite(e_sharp) and e_sharp > 0) else "sadece model"
         else:
             flag = ""
-        picks.append((lab, price, e_model, e_pin, flag))
+        picks.append((lab, price, e_model, e_sharp, flag))
     res[[f"{price_prefix}_seçim", f"{price_prefix}_oran", f"{price_prefix}_edge_model",
-         f"{price_prefix}_edge_pinnacle", f"{price_prefix}_sinyal"]] = pd.DataFrame(picks, index=res.index)
+         f"{price_prefix}_edge_keskin", f"{price_prefix}_sinyal"]] = pd.DataFrame(picks, index=res.index)
     return res
 
 
-def _pinnacle_fair(df: pd.DataFrame) -> pd.DataFrame:
+def _sharp_fair(df: pd.DataFrame) -> pd.DataFrame:
+    """Keskin açılış oranlarının (sharp_*, bkz. odds.add_sharp) marjsız olasılıkları."""
     out = pd.DataFrame(index=df.index)
-    for labs, sufs in [(["1", "X", "2"], ["h", "d", "a"]), (["Üst2.5", "Alt2.5"], ["o25", "u25"])]:
-        cols = [f"ps_{s}" for s in sufs]
+    for labs, sufs in [(["1", "X", "2"], MARKET_SUFFIXES["1x2"]), (["Üst2.5", "Alt2.5"], MARKET_SUFFIXES["ou"])]:
+        cols = [f"sharp_{s}" for s in sufs]
         if all(c in df for c in cols):
             fair = devig_frame(df, cols, config.DEVIG_METHOD)
         else:
             fair = np.full((len(df), len(sufs)), np.nan)
         for k, lab in enumerate(labs):
-            out[f"pin_fair_{lab}"] = fair[:, k]
+            out[f"sharp_fair_{lab}"] = fair[:, k]
     return out
 
 
@@ -159,14 +161,14 @@ def run(fixtures_path: str | None, iddaa_path: str | None, xi: float, ridge: flo
     # ---- 1) football-data fixtures.csv
     path = Path(fixtures_path) if fixtures_path else download_fixtures()
     if path and Path(path).exists():
-        fx = db.normalize(db.read_raw_csv(path), require_result=False)
+        fx = add_sharp(db.normalize(db.read_raw_csv(path), require_result=False))
         fx = fx[fx["div"].isin(config.LEAGUES) & (fx["date"] >= today - pd.Timedelta(days=1))]
         if not fx.empty:
             ref = fx.groupby("div")["date"].min().to_dict()
             models = _fit_models(matches, ref, xi, ridge)
             res = _predict_rows(fx, models)
             if not res.empty:
-                res = pd.concat([res, _pinnacle_fair(res), _market_block(res, "max", "max"),
+                res = pd.concat([res, _sharp_fair(res), _market_block(res, "max", "max"),
                                  _market_block(res, "b365", "b365")], axis=1)
                 res = _add_edges(res, "max")
                 res["kaynak"] = "fixtures"
@@ -221,12 +223,12 @@ def _run_iddaa(path: str, matches: pd.DataFrame, fixtures_res: pd.DataFrame | No
     res = _predict_rows(fx, models)
     if res.empty:
         return res
-    # Aynı maç fixtures.csv'de varsa Pinnacle oranlarını oradan al
+    # Aynı maç fixtures.csv'de varsa keskin piyasa oranlarını oradan al
     if fixtures_res is not None and not fixtures_res.empty:
-        pin_cols = [c for c in fixtures_res if c.startswith("ps_")]
-        res = res.merge(fixtures_res[["home", "away", *pin_cols]].drop_duplicates(["home", "away"]),
+        sharp_cols = [f"sharp_{s}" for sufs in MARKET_SUFFIXES.values() for s in sufs]
+        res = res.merge(fixtures_res[["home", "away", *sharp_cols]].drop_duplicates(["home", "away"]),
                         on=["home", "away"], how="left")
-    res = pd.concat([res, _pinnacle_fair(res)], axis=1)
+    res = pd.concat([res, _sharp_fair(res)], axis=1)
     res = _add_edges(res, "iddaa")
     res["kaynak"] = "iddaa"
     return res
@@ -239,14 +241,14 @@ def print_table(res: pd.DataFrame) -> None:
         pre = "max" if src == "fixtures" else "iddaa"
         cols = ["div", "date", "home", "away", "exp_home", "exp_away", "p_home", "p_draw", "p_away",
                 "p_over25", "top_scores", f"{pre}_seçim", f"{pre}_oran", f"{pre}_edge_model",
-                f"{pre}_edge_pinnacle", f"{pre}_sinyal"]
+                f"{pre}_edge_keskin", f"{pre}_sinyal"]
         show = g[[c for c in cols if c in g]].copy()
         show["date"] = pd.to_datetime(show["date"]).dt.strftime("%d.%m")
         for c in ["exp_home", "exp_away"]:
             show[c] = show[c].round(2)
         for c in ["p_home", "p_draw", "p_away", "p_over25"]:
             show[c] = (100 * show[c]).round(0).astype(int).astype(str) + "%"
-        for c in [f"{pre}_edge_model", f"{pre}_edge_pinnacle"]:
+        for c in [f"{pre}_edge_model", f"{pre}_edge_keskin"]:
             if c in show:
                 show[c] = (100 * show[c]).round(1)
         title = "football-data fixtures (en iyi piyasa oranına göre)" if src == "fixtures" else "İddaa oranlarına göre"

@@ -55,7 +55,8 @@ def round_robin(teams):
     return rounds + [[(b, a) for a, b in rd] for rd in rounds]
 
 
-def match_row(div, d, h, a, strength, with_result=True, with_closing=True):
+def match_row(div, d, h, a, strength, with_result=True, with_closing=True, with_pinnacle=True,
+              with_exchange=False):
     ah, dh = strength[h]
     aa, da = strength[a]
     lam = np.exp(BASE[div] + HOME + ah + da)
@@ -71,9 +72,15 @@ def match_row(div, d, h, a, strength, with_result=True, with_closing=True):
         hg, ag = divmod(k, m.shape[1])
         row.update({"FTHG": hg, "FTAG": ag, "FTR": "H" if hg > ag else "D" if hg == ag else "A",
                     "HTHG": min(hg, RNG.integers(0, 2)), "HTAG": min(ag, RNG.integers(0, 2))})
-    books = {"B365": (0.15, 0.055, "B365"), "PS": (0.08, 0.025, "P"), "Avg": (0.12, 0.06, "Avg")}
+    # gerçekteki gibi: Pinnacle son sezonda yok, Betfair borsası (düşük marj) 2024/25'ten itibaren var
+    books = {"B365": (0.15, 0.055, "B365"), "PS": (0.08, 0.025, "P"), "BFE": (0.08, 0.008, "BFE"),
+             "Avg": (0.12, 0.06, "Avg")}
     if with_closing:
-        books.update({"B365C": (0.10, 0.055, "B365C"), "PSC": (0.04, 0.025, "PC"), "AvgC": (0.08, 0.06, "AvgC")})
+        books.update({"B365C": (0.10, 0.055, "B365C"), "PSC": (0.04, 0.025, "PC"), "BFEC": (0.04, 0.006, "BFEC"),
+                      "AvgC": (0.08, 0.06, "AvgC")})
+    for b in [b for b in books if (b.startswith("PS") and not with_pinnacle) or
+              (b.startswith("BFE") and not with_exchange)]:
+        del books[b]
     for b, (sd, mg, oup) in books.items():
         o = to_odds(noisy(p1x2, sd), mg)
         row[f"{b}H"], row[f"{b}D"], row[f"{b}A"] = o
@@ -108,9 +115,11 @@ def main(out_dir: Path):
                 for h, a in pairs:
                     d = start + timedelta(weeks=r, days=int(RNG.integers(-1, 3)))
                     if d < today:
-                        rows.append(match_row(div, d, h, a, strength, with_closing=season >= 2019))
+                        rows.append(match_row(div, d, h, a, strength, with_closing=season >= 2019,
+                                              with_pinnacle=season < cur, with_exchange=season >= 2024))
                     elif season == cur and d < today + timedelta(days=10):
-                        fixtures.append(match_row(div, d, h, a, strength, with_result=False, with_closing=False))
+                        fixtures.append(match_row(div, d, h, a, strength, with_result=False, with_closing=False,
+                                                  with_pinnacle=False, with_exchange=True))
             if rows:
                 pd.DataFrame(rows).to_csv(out_dir / f"{div}_{season % 100:02d}{(season + 1) % 100:02d}.csv", index=False)
         # sezon sonu: güçler kayar, 3 takım düşer / 3 takım çıkar

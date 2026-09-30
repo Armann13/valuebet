@@ -1,8 +1,12 @@
 # La Liga Value Bet Sistemi — Faz 0 + Faz 1
 
 Tarihsel La Liga ve La Liga 2 verisini indirir, zaman ağırlıklı **Dixon-Coles** gol modelini kurar,
-modeli **Pinnacle kapanış oranlarına** karşı dürüstçe test eder (walk-forward backtest) ve yaklaşan maçlar
+modeli **keskin kapanış oranlarına** karşı dürüstçe test eder (walk-forward backtest) ve yaklaşan maçlar
 için olasılık, adil oran ve value adaylarını listeler.
+
+**Keskin piyasa** = Pinnacle, o yoksa Betfair Exchange (borsa). football-data.co.uk'taki Pinnacle oranları
+12.01.2026'da kesildi; borsa oranları 2024/25'ten beri var. İkisinin çakıştığı ~1.200 maçta borsa kapanışı
+Pinnacle kapanışı kadar keskin çıktı. Ayrıntı ve marj filtresi: `config.py` (`SHARP_SOURCES`).
 
 ## 1. Kurulum (bir kez)
 
@@ -81,24 +85,25 @@ Doğru isimleri `python main.py teams` gösterir.
 
 | Metrik | Anlamı |
 |---|---|
-| log loss / Brier / RPS | Olasılık tahmininin kalitesi. **Düşük = iyi.** Modeli, B365'in ve Pinnacle kapanışının marjsız olasılıklarıyla aynı maçlarda karşılaştırır. |
+| log loss / Brier / RPS | Olasılık tahmininin kalitesi. **Düşük = iyi.** Modeli, B365'in ve keskin kapanışın (PSC/BFEC) marjsız olasılıklarıyla aynı maçlarda karşılaştırır. "Kapanış kaynağı" satırı kaç maçta hangisinin kullanıldığını gösterir. |
 | Log loss farkı ± %95 GA | Maç başına eşleşmiş fark (model − kıyas). Aralık 0'ı içeriyorsa fark anlamlı değil. Model sürümlerini kıyaslarken asıl bakılacak sayı. |
 | Kalibrasyon | Model %40 dediğinde gerçekten ~%40 mı oluyor? |
 | ROI / t istatistiği | Düz 1 birim bahisle kâr. \|t\| < 2 ise sonuç büyük ihtimalle şans. |
-| **CLV** / CLV_t | Oynanan oranın Pinnacle kapanış adil fiyatına göre değeri. **Uzun vadeli kârlılığın en güvenilir erken göstergesi.** ROI'den çok daha az gürültülü; \|CLV_t\| ≥ 2 anlamlı. |
-| Strateji karşılaştırması | Aynı eşikte üç kural: sadece model, sadece Pinnacle açılış adil fiyatı (model yok), ikisi birden (`predict`'teki VALUE kuralı). Modelin CLV'si Pinnacle satırını geçmiyorsa, model bahis anındaki piyasa bilgisine bir şey eklemiyor. |
+| **CLV** / CLV_t | Oynanan oranın keskin kapanış adil fiyatına göre değeri. **Uzun vadeli kârlılığın en güvenilir erken göstergesi.** ROI'den çok daha az gürültülü; \|CLV_t\| ≥ 2 anlamlı. |
+| Strateji karşılaştırması | Aynı eşikte üç kural: sadece model, sadece keskin açılış adil fiyatı (model yok), ikisi birden (`predict`'teki VALUE kuralı). Modelin CLV'si keskin açılış satırını geçmiyorsa, model bahis anındaki piyasa bilgisine bir şey eklemiyor. |
 | Edge eşiğine duyarlılık | Eşik yükseldikçe CLV artıyor mu? Artmıyorsa modelin "büyük edge" dediği yerler aslında model hatası. |
 
-Dürüst beklenti: saf Dixon-Coles modeli büyük ihtimalle Pinnacle kapanışından **daha kötü** çıkacak.
+Dürüst beklenti: saf Dixon-Coles modeli büyük ihtimalle keskin kapanıştan **daha kötü** çıkacak.
 Bu normal ve Faz 1'in amacı da bunu ölçmek. Sonraki fazlardaki iyileştirmelerin (xG, kadro, ajan) katkısı
 bu taban çizgisine göre ölçülecek.
 
 **`python main.py predict`** her maç için iki edge verir:
 
 - `edge_model` = model olasılığı × oran − 1 → modelin görüşü
-- `edge_pinnacle` = Pinnacle adil olasılığı × oran − 1 → oran, en keskin piyasanın adil fiyatını geçiyor mu?
+- `edge_keskin` = keskin piyasa (Pinnacle, yoksa borsa) adil olasılığı × oran − 1 → oran, en keskin piyasanın
+  adil fiyatını geçiyor mu?
 
-`VALUE` işareti ikisi birden pozitifse konur. `sadece model` = model value görüyor ama Pinnacle görmüyor;
+`VALUE` işareti ikisi birden pozitifse konur. `sadece model` = model value görüyor ama keskin piyasa görmüyor;
 bu durumda hata büyük ihtimalle modelde.
 
 ## 4. Ayarlar

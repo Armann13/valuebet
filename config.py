@@ -31,13 +31,15 @@ FIXTURES_URL = "https://www.football-data.co.uk/fixtures.csv"
 
 # football-data.co.uk oran sütunları -> bizim kısa adlarımız.
 #   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)
-#   avg / max = piyasa ortalaması / en iyi oran
-#   sonunda "c" olanlar kapanış (closing) oranları. Kapanış oranları 2019/20'den itibaren var.
-BOOKS = ["b365", "ps", "avg", "max", "b365c", "psc", "avgc", "maxc"]
-_1X2_PREFIX = {"b365": "B365", "ps": "PS", "avg": "Avg", "max": "Max",
-               "b365c": "B365C", "psc": "PSC", "avgc": "AvgC", "maxc": "MaxC"}
-_OU_PREFIX = {"b365": "B365", "ps": "P", "avg": "Avg", "max": "Max",
-              "b365c": "B365C", "psc": "PC", "avgc": "AvgC", "maxc": "MaxC"}
+#   bfe = Betfair Exchange (borsa), avg / max = piyasa ortalaması / en iyi oran
+#   sonunda "c" olanlar kapanış (closing) oranları.
+# Kapsam (SP1/SP2): Pinnacle 1X2 kapanışı 2014/15'ten, Ü/A kapanışı 2019/20'den itibaren var, ama
+# football-data'da Pinnacle 12.01.2026'da kesildi. Betfair Exchange (1X2 + Ü/A) 2024/25'ten itibaren var.
+BOOKS = ["b365", "ps", "bfe", "avg", "max", "b365c", "psc", "bfec", "avgc", "maxc"]
+_1X2_PREFIX = {"b365": "B365", "ps": "PS", "bfe": "BFE", "avg": "Avg", "max": "Max",
+               "b365c": "B365C", "psc": "PSC", "bfec": "BFEC", "avgc": "AvgC", "maxc": "MaxC"}
+_OU_PREFIX = {"b365": "B365", "ps": "P", "bfe": "BFE", "avg": "Avg", "max": "Max",
+              "b365c": "B365C", "psc": "PC", "bfec": "BFEC", "avgc": "AvgC", "maxc": "MaxC"}
 
 
 def odds_column_map() -> dict:
@@ -66,9 +68,25 @@ LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 
 # ---------------------------------------------------------------- Backtest / value
-EVAL_FROM_SEASON = 2019   # kapanış oranları bu sezondan itibaren mevcut
+EVAL_FROM_SEASON = 2016   # 1X2 kapanışı 2014'ten, Ü/A kapanışı 2019'dan var; 2 sezon eğitim geçmişi bırakılır
 BET_BOOK = "b365"         # backtest'te "oynadığımız" oranlar (İddaa geçmişi olmadığı için yumuşak bir büro vekil)
-CLOSING_BOOK = "psc"      # kıyas noktası: Pinnacle kapanış (piyasanın en keskin tahmini)
+CLOSING_BOOK = "sharpc"   # kıyas noktası: keskin kapanış (piyasanın en keskin tahmini, aşağıya bak)
+
+# Keskin piyasa = Pinnacle, yoksa Betfair Exchange. Market bazında, satır satır ilk tam ve geçerli kaynak
+# alınır (sharp_* = açılış, sharpc_* = kapanış). Pinnacle ile borsanın çakıştığı ~1.200 maçta (2024/25 -
+# Oca 2026) ikisi aynı derecede keskin çıktı (log loss farkı ±0,002 içinde, anlamsız). Maçtan günler önce
+# toplanan borsa fiyatları La Liga 2'de sığ olabiliyor (marj %90'a kadar); marjı EXCHANGE_MAX_MARGIN'i aşan
+# borsa fiyatı yok sayılır (%10'da SP2 açılışlarının %85'i kalıyor ve Pinnacle kadar iyi).
+SHARP_SOURCES = {"sharp": ["ps", "bfe"], "sharpc": ["psc", "bfec"]}
+EXCHANGE_BOOKS = {"bfe", "bfec"}
+EXCHANGE_MAX_MARGIN = 0.10
+BOOK_LABELS = {"sharp": "Keskin açılış PS/BFE", "sharpc": "Keskin kapanış PSC/BFEC"}
+
+
+def book_label(book: str) -> str:
+    return BOOK_LABELS.get(book, book.upper())
+
+
 DEVIG_METHOD = "power"    # "power" veya "proportional"
 EDGE_MIN = 0.03           # model_olasılığı * oran - 1 >= %3 ise value say
 MAX_ODDS = 6.0            # çok yüksek oranlı sürprizleri dışarıda bırak (model hatası burada en büyük)
