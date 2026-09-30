@@ -1,0 +1,381 @@
+datetime,home,away,hg,ag,hxg,axg
+2025-08-15 19:00:00,Liverpool,Bournemouth,4,2,2.33007,1.57303
+2025-08-16 11:30:00,Aston Villa,Newcastle United,0,0,0.318601,1.40098
+2025-08-16 14:00:00,Brighton,Fulham,1,1,1.44008,0.902883
+2025-08-16 14:00:00,Sunderland,West Ham,3,0,0.724368,0.558948
+2025-08-16 14:00:00,Tottenham,Burnley,3,0,1.97858,0.734138
+2025-08-16 16:30:00,Wolverhampton Wanderers,Manchester City,0,4,0.519436,2.29903
+2025-08-17 13:00:00,Chelsea,Crystal Palace,0,0,1.36793,1.03414
+2025-08-17 13:00:00,Nottingham Forest,Brentford,3,1,1.7555,1.32516
+2025-08-17 15:30:00,Manchester United,Arsenal,0,1,1.37653,1.3304
+2025-08-18 19:00:00,Leeds,Everton,1,0,2.3812,0.674338
+2025-08-22 19:00:00,West Ham,Chelsea,1,5,0.978572,3.94997
+2025-08-23 11:30:00,Manchester City,Tottenham,0,2,1.2475,1.28015
+2025-08-23 14:00:00,Brentford,Aston Villa,1,0,1.12964,0.976852
+2025-08-23 14:00:00,Burnley,Sunderland,2,0,1.00381,1.12127
+2025-08-23 14:00:00,Bournemouth,Wolverhampton Wanderers,1,0,1.78462,0.373367
+2025-08-23 16:30:00,Arsenal,Leeds,5,0,2.73761,0.156761
+2025-08-24 13:00:00,Crystal Palace,Nottingham Forest,1,1,1.10188,1.32987
+2025-08-24 13:00:00,Everton,Brighton,2,0,1.80116,2.08487
+2025-08-24 15:30:00,Fulham,Manchester United,1,1,1.65333,1.54603
+2025-08-25 19:00:00,Newcastle United,Liverpool,2,3,1.96342,0.646559
+2025-08-30 11:30:00,Chelsea,Fulham,2,0,2.4324,0.736228
+2025-08-30 14:00:00,Tottenham,Bournemouth,0,1,0.17067,2.1201
+2025-08-30 14:00:00,Wolverhampton Wanderers,Everton,2,3,0.943257,2.03791
+2025-08-30 14:00:00,Sunderland,Brentford,2,1,1.57127,1.44604
+2025-08-30 14:00:00,Manchester United,Burnley,3,2,4.02237,1.32618
+2025-08-30 16:30:00,Leeds,Newcastle United,0,0,0.6773,0.303635
+2025-08-31 13:00:00,Nottingham Forest,West Ham,0,3,0.716018,2.236
+2025-08-31 13:00:00,Brighton,Manchester City,2,1,2.20864,2.13418
+2025-08-31 15:30:00,Liverpool,Arsenal,1,0,0.481404,0.485679
+2025-08-31 18:00:00,Aston Villa,Crystal Palace,0,3,1.20586,2.59713
+2025-09-13 11:30:00,Arsenal,Nottingham Forest,3,0,2.8817,0.293681
+2025-09-13 14:00:00,Newcastle United,Wolverhampton Wanderers,1,0,1.19186,0.375942
+2025-09-13 14:00:00,Bournemouth,Brighton,2,1,1.44187,0.624923
+2025-09-13 14:00:00,Crystal Palace,Sunderland,0,0,1.75805,0.354129
+2025-09-13 14:00:00,Everton,Aston Villa,0,0,1.8927,0.354327
+2025-09-13 14:00:00,Fulham,Leeds,1,0,1.13979,0.830398
+2025-09-13 16:30:00,West Ham,Tottenham,0,3,0.793248,1.51402
+2025-09-13 19:00:00,Brentford,Chelsea,2,2,1.17533,0.755999
+2025-09-14 13:00:00,Burnley,Liverpool,0,1,0.168041,2.79492
+2025-09-14 15:30:00,Manchester City,Manchester United,3,0,1.99725,1.51915
+2025-09-20 11:30:00,Liverpool,Everton,2,1,1.06166,0.721371
+2025-09-20 14:00:00,West Ham,Crystal Palace,1,2,0.466365,2.33565
+2025-09-20 14:00:00,Wolverhampton Wanderers,Leeds,1,3,1.5661,0.456988
+2025-09-20 14:00:00,Brighton,Tottenham,2,2,1.40466,1.19181
+2025-09-20 14:00:00,Burnley,Nottingham Forest,1,1,1.14159,0.830779
+2025-09-20 16:30:00,Manchester United,Chelsea,2,1,1.34458,0.469843
+2025-09-20 19:00:00,Fulham,Brentford,3,1,1.52431,0.826556
+2025-09-21 13:00:00,Bournemouth,Newcastle United,0,0,0.55066,0.153629
+2025-09-21 13:00:00,Sunderland,Aston Villa,1,1,0.938312,0.939354
+2025-09-21 15:30:00,Arsenal,Manchester City,1,1,0.718575,1.1227
+2025-09-27 11:30:00,Brentford,Manchester United,3,1,2.78726,2.23609
+2025-09-27 14:00:00,Chelsea,Brighton,1,3,2.02653,2.4751
+2025-09-27 14:00:00,Crystal Palace,Liverpool,2,1,3.53323,3.10176
+2025-09-27 14:00:00,Leeds,Bournemouth,2,2,2.04728,1.06033
+2025-09-27 14:00:00,Manchester City,Burnley,5,1,3.22133,0.509491
+2025-09-27 16:30:00,Nottingham Forest,Sunderland,0,1,1.4203,1.94154
+2025-09-27 19:00:00,Tottenham,Wolverhampton Wanderers,1,1,0.818711,1.15951
+2025-09-28 13:00:00,Aston Villa,Fulham,3,1,1.36575,0.952612
+2025-09-28 15:30:00,Newcastle United,Arsenal,1,2,0.739851,2.07048
+2025-09-29 19:00:00,Everton,West Ham,1,1,0.909703,0.775766
+2025-10-03 19:00:00,Bournemouth,Fulham,3,1,1.33458,0.84335
+2025-10-04 11:30:00,Leeds,Tottenham,1,2,1.48051,0.688198
+2025-10-04 14:00:00,Arsenal,West Ham,2,0,3.0585,0.864549
+2025-10-04 14:00:00,Manchester United,Sunderland,2,0,1.9298,0.807119
+2025-10-04 16:30:00,Chelsea,Liverpool,2,1,1.23721,2.05981
+2025-10-05 13:00:00,Aston Villa,Burnley,2,1,1.73572,0.502292
+2025-10-05 13:00:00,Everton,Crystal Palace,2,1,2.13876,2.17789
+2025-10-05 13:00:00,Newcastle United,Nottingham Forest,2,0,3.81662,0.337689
+2025-10-05 13:00:00,Wolverhampton Wanderers,Brighton,1,1,0.369404,1.39158
+2025-10-05 15:30:00,Brentford,Manchester City,0,1,0.693758,1.09647
+2025-10-18 11:30:00,Nottingham Forest,Chelsea,0,3,2.0555,2.5583
+2025-10-18 14:00:00,Brighton,Newcastle United,2,1,0.857104,1.28313
+2025-10-18 14:00:00,Burnley,Leeds,2,0,0.509647,2.33152
+2025-10-18 14:00:00,Crystal Palace,Bournemouth,3,3,4.56284,2.0471
+2025-10-18 14:00:00,Manchester City,Everton,2,0,2.4799,0.794622
+2025-10-18 14:00:00,Sunderland,Wolverhampton Wanderers,2,0,1.02481,0.676323
+2025-10-18 16:30:00,Fulham,Arsenal,0,1,0.502332,2.07823
+2025-10-19 13:00:00,Tottenham,Aston Villa,1,2,1.51461,0.352231
+2025-10-19 15:30:00,Liverpool,Manchester United,1,2,2.60972,2.53117
+2025-10-20 19:00:00,West Ham,Brentford,0,2,0.260251,3.46635
+2025-10-24 19:00:00,Leeds,West Ham,2,1,2.2214,0.498653
+2025-10-25 14:00:00,Chelsea,Sunderland,1,2,1.21332,1.5506
+2025-10-25 14:00:00,Newcastle United,Fulham,2,1,2.76806,1.52001
+2025-10-25 16:30:00,Manchester United,Brighton,4,2,1.96231,0.947154
+2025-10-25 19:00:00,Brentford,Liverpool,3,2,3.27126,2.11838
+2025-10-26 13:00:00,Bournemouth,Nottingham Forest,2,0,0.656601,0.305493
+2025-10-26 13:00:00,Arsenal,Crystal Palace,1,0,0.856175,0.350534
+2025-10-26 13:00:00,Aston Villa,Manchester City,1,0,0.843906,1.36914
+2025-10-26 13:00:00,Wolverhampton Wanderers,Burnley,2,3,2.58132,1.54544
+2025-10-26 15:30:00,Everton,Tottenham,0,3,1.4032,2.09327
+2025-11-01 15:00:00,Brighton,Leeds,3,0,2.64127,0.35919
+2025-11-01 15:00:00,Burnley,Arsenal,0,2,0.679177,2.51649
+2025-11-01 15:00:00,Crystal Palace,Brentford,2,0,0.734558,0.820498
+2025-11-01 15:00:00,Fulham,Wolverhampton Wanderers,3,0,1.91207,0.209934
+2025-11-01 15:00:00,Nottingham Forest,Manchester United,2,2,1.55066,0.91622
+2025-11-01 17:30:00,Tottenham,Chelsea,0,1,0.146954,3.34251
+2025-11-01 20:00:00,Liverpool,Aston Villa,2,0,1.47021,0.43502
+2025-11-02 14:00:00,West Ham,Newcastle United,3,1,1.41383,0.523615
+2025-11-02 16:30:00,Manchester City,Bournemouth,3,1,2.48999,0.899846
+2025-11-03 20:00:00,Sunderland,Everton,1,1,1.18068,1.00741
+2025-11-08 12:30:00,Tottenham,Manchester United,2,2,1.35532,0.820256
+2025-11-08 15:00:00,Everton,Fulham,2,0,2.30607,0.424478
+2025-11-08 15:00:00,West Ham,Burnley,3,2,2.96728,1.87478
+2025-11-08 17:30:00,Sunderland,Arsenal,2,2,1.20495,2.32943
+2025-11-08 20:00:00,Chelsea,Wolverhampton Wanderers,3,0,3.98342,0.111462
+2025-11-09 14:00:00,Aston Villa,Bournemouth,4,0,1.88282,2.00992
+2025-11-09 14:00:00,Brentford,Newcastle United,3,1,2.73729,0.432277
+2025-11-09 14:00:00,Crystal Palace,Brighton,0,0,0.839547,0.637037
+2025-11-09 14:00:00,Nottingham Forest,Leeds,3,1,2.49097,0.419461
+2025-11-09 16:30:00,Manchester City,Liverpool,3,0,1.59542,1.0281
+2025-11-22 12:30:00,Burnley,Chelsea,0,2,0.660943,1.72093
+2025-11-22 15:00:00,Bournemouth,West Ham,2,2,3.48299,0.390782
+2025-11-22 15:00:00,Brighton,Brentford,2,1,0.977488,2.19979
+2025-11-22 15:00:00,Fulham,Sunderland,1,0,2.83729,0.222768
+2025-11-22 15:00:00,Liverpool,Nottingham Forest,0,3,1.79273,1.19459
+2025-11-22 15:00:00,Wolverhampton Wanderers,Crystal Palace,0,2,1.66409,1.44933
+2025-11-22 17:30:00,Newcastle United,Manchester City,2,1,2.40555,2.45648
+2025-11-23 14:00:00,Leeds,Aston Villa,1,2,1.84668,1.35978
+2025-11-23 16:30:00,Arsenal,Tottenham,4,1,2.27827,0.0300672
+2025-11-24 20:00:00,Manchester United,Everton,0,1,2.2737,0.155063
+2025-11-29 15:00:00,Brentford,Burnley,3,1,3.72106,0.874025
+2025-11-29 15:00:00,Manchester City,Leeds,3,2,2.85292,1.75142
+2025-11-29 15:00:00,Sunderland,Bournemouth,3,2,1.16955,1.79274
+2025-11-29 17:30:00,Everton,Newcastle United,1,4,1.01125,2.45882
+2025-11-29 20:00:00,Tottenham,Fulham,1,2,1.04396,0.494736
+2025-11-30 12:00:00,Crystal Palace,Manchester United,1,2,2.13561,1.47768
+2025-11-30 14:05:00,Aston Villa,Wolverhampton Wanderers,1,0,1.15486,0.692588
+2025-11-30 14:05:00,Nottingham Forest,Brighton,0,2,0.960325,2.0572
+2025-11-30 14:05:00,West Ham,Liverpool,0,2,0.364152,1.56793
+2025-11-30 16:30:00,Chelsea,Arsenal,1,1,0.791914,1.22828
+2025-12-02 19:30:00,Bournemouth,Everton,0,1,0.635415,1.19573
+2025-12-02 19:30:00,Fulham,Manchester City,4,5,0.972635,1.96225
+2025-12-02 20:15:00,Newcastle United,Tottenham,2,2,1.88558,1.05205
+2025-12-03 19:30:00,Arsenal,Brentford,2,0,2.63126,0.588716
+2025-12-03 19:30:00,Brighton,Aston Villa,3,4,1.96298,3.15745
+2025-12-03 19:30:00,Burnley,Crystal Palace,0,1,1.16852,0.987797
+2025-12-03 19:30:00,Wolverhampton Wanderers,Nottingham Forest,0,1,1.02461,1.12389
+2025-12-03 20:15:00,Leeds,Chelsea,3,1,2.2047,0.964018
+2025-12-03 20:15:00,Liverpool,Sunderland,1,1,1.37633,0.712662
+2025-12-04 20:00:00,Manchester United,West Ham,1,1,2.27674,1.36584
+2025-12-06 12:30:00,Aston Villa,Arsenal,2,1,2.71986,1.85965
+2025-12-06 15:00:00,Bournemouth,Chelsea,0,0,1.41931,0.672602
+2025-12-06 15:00:00,Everton,Nottingham Forest,3,0,1.25348,0.31234
+2025-12-06 15:00:00,Manchester City,Sunderland,3,0,2.41605,0.626486
+2025-12-06 15:00:00,Newcastle United,Burnley,2,1,1.80708,1.58375
+2025-12-06 15:00:00,Tottenham,Brentford,2,0,2.42388,0.470563
+2025-12-06 17:30:00,Leeds,Liverpool,3,3,1.79333,2.04805
+2025-12-07 14:00:00,Brighton,West Ham,1,1,2.10077,1.7064
+2025-12-07 16:30:00,Fulham,Crystal Palace,1,2,0.766771,1.71109
+2025-12-08 20:00:00,Wolverhampton Wanderers,Manchester United,1,4,0.262147,4.04708
+2025-12-13 15:00:00,Chelsea,Everton,2,0,2.64457,1.34
+2025-12-13 15:00:00,Liverpool,Brighton,2,0,2.4127,1.69004
+2025-12-13 17:30:00,Burnley,Fulham,2,3,2.05486,1.65053
+2025-12-13 20:00:00,Arsenal,Wolverhampton Wanderers,2,1,1.61796,0.61997
+2025-12-14 14:00:00,Crystal Palace,Manchester City,0,3,1.30092,1.35317
+2025-12-14 14:00:00,Nottingham Forest,Tottenham,3,0,2.32658,0.380246
+2025-12-14 14:00:00,Sunderland,Newcastle United,1,0,0.630045,0.169329
+2025-12-14 14:00:00,West Ham,Aston Villa,2,3,1.27701,0.595093
+2025-12-14 16:30:00,Brentford,Leeds,1,1,0.697006,1.63409
+2025-12-15 20:00:00,Manchester United,Bournemouth,4,4,3.21204,2.35196
+2025-12-20 12:30:00,Newcastle United,Chelsea,2,2,2.87863,1.0261
+2025-12-20 15:00:00,Bournemouth,Burnley,1,1,1.81847,0.480528
+2025-12-20 15:00:00,Brighton,Sunderland,0,0,0.919272,1.31044
+2025-12-20 15:00:00,Manchester City,West Ham,3,0,3.58188,1.02143
+2025-12-20 15:00:00,Wolverhampton Wanderers,Brentford,0,2,1.26823,1.56309
+2025-12-20 17:30:00,Tottenham,Liverpool,1,2,1.34905,1.23164
+2025-12-20 20:00:00,Everton,Arsenal,0,1,0.213273,1.84723
+2025-12-20 20:00:00,Leeds,Crystal Palace,4,1,2.90786,1.53058
+2025-12-21 16:30:00,Aston Villa,Manchester United,2,1,1.86917,1.30455
+2025-12-22 20:00:00,Fulham,Nottingham Forest,1,0,1.70568,0.486296
+2025-12-26 20:00:00,Manchester United,Newcastle United,1,0,0.940811,1.12998
+2025-12-27 12:30:00,Nottingham Forest,Manchester City,1,2,0.600141,1.46468
+2025-12-27 15:00:00,Arsenal,Brighton,2,1,2.54318,0.710064
+2025-12-27 15:00:00,Brentford,Bournemouth,4,1,2.8513,2.56183
+2025-12-27 15:00:00,Burnley,Everton,0,0,1.24948,1.25204
+2025-12-27 15:00:00,Liverpool,Wolverhampton Wanderers,2,1,1.56502,0.780664
+2025-12-27 15:00:00,West Ham,Fulham,0,1,1.13719,1.11436
+2025-12-27 17:30:00,Chelsea,Aston Villa,1,2,1.97155,2.05918
+2025-12-28 14:00:00,Sunderland,Leeds,1,1,0.805957,2.60653
+2025-12-28 16:30:00,Crystal Palace,Tottenham,0,1,0.929681,0.870768
+2025-12-30 19:30:00,Burnley,Newcastle United,1,3,1.32551,2.49248
+2025-12-30 19:30:00,Chelsea,Bournemouth,2,2,2.33294,3.49142
+2025-12-30 19:30:00,Nottingham Forest,Everton,0,2,1.75445,1.69525
+2025-12-30 19:30:00,West Ham,Brighton,2,2,2.27644,3.08914
+2025-12-30 20:15:00,Arsenal,Aston Villa,4,1,4.41335,2.94195
+2025-12-30 20:15:00,Manchester United,Wolverhampton Wanderers,1,1,1.13306,1.21784
+2026-01-01 17:30:00,Crystal Palace,Fulham,1,1,2.35346,1.75434
+2026-01-01 17:30:00,Liverpool,Leeds,0,0,1.67833,0.15936
+2026-01-01 20:00:00,Brentford,Tottenham,0,0,0.556304,0.608309
+2026-01-01 20:00:00,Sunderland,Manchester City,0,0,0.962141,2.44247
+2026-01-03 12:30:00,Aston Villa,Nottingham Forest,3,1,1.42988,0.8982
+2026-01-03 15:00:00,Wolverhampton Wanderers,West Ham,3,0,2.23925,0.235678
+2026-01-03 15:00:00,Brighton,Burnley,2,0,1.4717,0.254551
+2026-01-03 17:30:00,Bournemouth,Arsenal,2,3,0.947846,1.28
+2026-01-04 12:30:00,Leeds,Manchester United,1,1,0.970138,1.94781
+2026-01-04 15:00:00,Newcastle United,Crystal Palace,2,0,2.72764,1.27825
+2026-01-04 15:00:00,Tottenham,Sunderland,1,1,1.4175,0.467481
+2026-01-04 15:00:00,Everton,Brentford,2,4,1.00566,3.05179
+2026-01-04 15:00:00,Fulham,Liverpool,2,2,0.609182,1.7188
+2026-01-04 17:30:00,Manchester City,Chelsea,1,1,1.03049,2.03726
+2026-01-06 20:00:00,West Ham,Nottingham Forest,1,2,1.73697,1.26683
+2026-01-07 19:30:00,Everton,Wolverhampton Wanderers,1,1,1.63321,0.71329
+2026-01-07 19:30:00,Bournemouth,Tottenham,3,2,1.19014,1.6261
+2026-01-07 19:30:00,Brentford,Sunderland,3,0,3.86096,1.50644
+2026-01-07 19:30:00,Crystal Palace,Aston Villa,0,0,1.32505,2.07015
+2026-01-07 19:30:00,Fulham,Chelsea,2,1,1.06013,2.45107
+2026-01-07 19:30:00,Manchester City,Brighton,1,1,2.95904,1.33162
+2026-01-07 20:15:00,Burnley,Manchester United,2,2,0.31971,2.52488
+2026-01-07 20:15:00,Newcastle United,Leeds,4,3,2.43495,2.35318
+2026-01-08 20:00:00,Arsenal,Liverpool,0,0,0.701832,0.318642
+2026-01-17 12:30:00,Manchester United,Manchester City,2,0,3.07278,0.387015
+2026-01-17 15:00:00,Chelsea,Brentford,2,0,1.62263,1.47521
+2026-01-17 15:00:00,Leeds,Fulham,1,0,2.16898,0.258796
+2026-01-17 15:00:00,Liverpool,Burnley,1,1,3.49045,0.546971
+2026-01-17 15:00:00,Sunderland,Crystal Palace,2,1,1.84601,1.15169
+2026-01-17 15:00:00,Tottenham,West Ham,1,2,1.65292,2.76761
+2026-01-17 17:30:00,Nottingham Forest,Arsenal,0,0,0.318481,2.86323
+2026-01-18 14:00:00,Wolverhampton Wanderers,Newcastle United,0,0,0.390216,0.813313
+2026-01-18 16:30:00,Aston Villa,Everton,0,1,0.905393,0.745859
+2026-01-19 20:00:00,Brighton,Bournemouth,1,1,0.995777,1.69737
+2026-01-24 12:30:00,West Ham,Sunderland,3,1,2.18675,0.713838
+2026-01-24 15:00:00,Burnley,Tottenham,2,2,1.54884,2.59093
+2026-01-24 15:00:00,Fulham,Brighton,2,1,1.13243,1.94652
+2026-01-24 15:00:00,Manchester City,Wolverhampton Wanderers,2,0,1.0654,0.542683
+2026-01-24 17:30:00,Bournemouth,Liverpool,3,2,3.31474,0.937335
+2026-01-25 14:00:00,Brentford,Nottingham Forest,0,2,2.00413,1.38958
+2026-01-25 14:00:00,Crystal Palace,Chelsea,1,3,2.41793,3.08817
+2026-01-25 14:00:00,Newcastle United,Aston Villa,0,2,1.95484,1.32143
+2026-01-25 16:30:00,Arsenal,Manchester United,2,3,1.42411,0.640902
+2026-01-26 20:00:00,Everton,Leeds,1,1,0.889916,1.6766
+2026-01-31 15:00:00,Brighton,Everton,1,1,1.42825,1.28126
+2026-01-31 15:00:00,Leeds,Arsenal,0,4,0.17871,3.54427
+2026-01-31 15:00:00,Wolverhampton Wanderers,Bournemouth,0,2,2.10353,1.59116
+2026-01-31 17:30:00,Chelsea,West Ham,3,2,2.66133,1.72585
+2026-01-31 20:00:00,Liverpool,Newcastle United,4,1,3.09973,0.284319
+2026-02-01 14:00:00,Aston Villa,Brentford,0,1,2.15316,0.314916
+2026-02-01 14:00:00,Manchester United,Fulham,3,2,1.84362,1.71998
+2026-02-01 14:00:00,Nottingham Forest,Crystal Palace,1,1,0.987254,1.648
+2026-02-01 16:30:00,Tottenham,Manchester City,2,2,1.49738,2.03614
+2026-02-02 20:00:00,Sunderland,Burnley,3,0,1.8865,0.126371
+2026-02-06 20:00:00,Leeds,Nottingham Forest,3,1,3.38179,1.6608
+2026-02-07 12:30:00,Manchester United,Tottenham,2,0,2.16576,0.593404
+2026-02-07 15:00:00,Bournemouth,Aston Villa,1,1,1.82646,0.646496
+2026-02-07 15:00:00,Arsenal,Sunderland,3,0,1.19401,0.427225
+2026-02-07 15:00:00,Burnley,West Ham,0,2,1.84644,1.1223
+2026-02-07 15:00:00,Fulham,Everton,1,2,2.20126,1.88778
+2026-02-07 15:00:00,Wolverhampton Wanderers,Chelsea,1,3,1.11372,3.76278
+2026-02-07 17:30:00,Newcastle United,Brentford,2,3,3.3215,1.65022
+2026-02-08 14:00:00,Brighton,Crystal Palace,0,1,0.737798,0.928404
+2026-02-08 16:30:00,Liverpool,Manchester City,1,2,1.26652,2.41476
+2026-02-10 19:30:00,Chelsea,Leeds,2,2,3.21176,1.28948
+2026-02-10 19:30:00,Everton,Bournemouth,1,2,2.33114,1.4121
+2026-02-10 19:30:00,Tottenham,Newcastle United,1,2,1.68925,2.46991
+2026-02-10 20:15:00,West Ham,Manchester United,1,1,1.30746,0.735767
+2026-02-11 19:30:00,Aston Villa,Brighton,1,0,0.576138,0.481306
+2026-02-11 19:30:00,Crystal Palace,Burnley,2,3,2.1276,0.691273
+2026-02-11 19:30:00,Manchester City,Fulham,3,0,1.67722,1.05283
+2026-02-11 19:30:00,Nottingham Forest,Wolverhampton Wanderers,0,0,3.69094,0.406959
+2026-02-11 20:15:00,Sunderland,Liverpool,0,1,0.693794,3.08172
+2026-02-12 20:00:00,Brentford,Arsenal,1,1,1.81154,0.78418
+2026-02-18 20:00:00,Wolverhampton Wanderers,Arsenal,2,2,0.173119,2.01018
+2026-02-21 15:00:00,Aston Villa,Leeds,1,1,1.25439,1.27855
+2026-02-21 15:00:00,Brentford,Brighton,0,2,1.69023,1.37203
+2026-02-21 15:00:00,Chelsea,Burnley,1,1,2.51534,1.01255
+2026-02-21 17:30:00,West Ham,Bournemouth,0,0,2.34412,0.522731
+2026-02-21 20:00:00,Manchester City,Newcastle United,2,1,2.22648,0.507954
+2026-02-22 14:00:00,Crystal Palace,Wolverhampton Wanderers,1,0,2.03559,1.67749
+2026-02-22 14:00:00,Nottingham Forest,Liverpool,0,1,0.934768,2.39634
+2026-02-22 14:00:00,Sunderland,Fulham,1,3,1.7609,2.16696
+2026-02-22 16:30:00,Tottenham,Arsenal,1,4,0.383264,3.31701
+2026-02-23 20:00:00,Everton,Manchester United,0,1,0.560924,1.4547
+2026-02-27 20:00:00,Wolverhampton Wanderers,Aston Villa,2,0,1.50771,1.31328
+2026-02-28 12:30:00,Bournemouth,Sunderland,1,1,1.82434,1.07887
+2026-02-28 15:00:00,Burnley,Brentford,3,4,0.823824,2.44595
+2026-02-28 15:00:00,Liverpool,West Ham,5,2,2.09939,1.3517
+2026-02-28 15:00:00,Newcastle United,Everton,2,3,1.11889,2.40731
+2026-02-28 17:30:00,Leeds,Manchester City,0,1,1.37824,2.46834
+2026-03-01 14:00:00,Brighton,Nottingham Forest,2,1,1.20107,0.83055
+2026-03-01 14:00:00,Fulham,Tottenham,2,1,2.3207,0.952091
+2026-03-01 14:00:00,Manchester United,Crystal Palace,2,1,2.34609,0.384699
+2026-03-01 16:30:00,Arsenal,Chelsea,2,1,1.71598,1.35268
+2026-03-03 19:30:00,Bournemouth,Brentford,0,0,2.3177,0.673328
+2026-03-03 19:30:00,Everton,Burnley,2,0,1.15845,0.762229
+2026-03-03 19:30:00,Leeds,Sunderland,0,1,0.888232,0.843856
+2026-03-03 20:15:00,Wolverhampton Wanderers,Liverpool,2,1,0.636033,2.17217
+2026-03-04 19:30:00,Aston Villa,Chelsea,1,4,1.06854,3.38883
+2026-03-04 19:30:00,Brighton,Arsenal,0,1,0.919228,0.514803
+2026-03-04 19:30:00,Fulham,West Ham,0,1,0.628123,1.49528
+2026-03-04 19:30:00,Manchester City,Nottingham Forest,2,2,2.72655,1.23642
+2026-03-04 20:15:00,Newcastle United,Manchester United,2,1,1.96637,1.80571
+2026-03-05 20:00:00,Tottenham,Crystal Palace,1,3,1.29615,1.91515
+2026-03-14 15:00:00,Burnley,Bournemouth,0,0,1.67695,2.36979
+2026-03-14 15:00:00,Sunderland,Brighton,0,1,0.659083,1.12832
+2026-03-14 17:30:00,Arsenal,Everton,2,0,1.90855,1.17847
+2026-03-14 17:30:00,Chelsea,Newcastle United,0,1,1.72508,1.03251
+2026-03-14 20:00:00,West Ham,Manchester City,1,1,0.488982,1.9546
+2026-03-15 14:00:00,Crystal Palace,Leeds,0,0,0.525205,1.13558
+2026-03-15 14:00:00,Manchester United,Aston Villa,3,1,1.67823,1.21071
+2026-03-15 14:00:00,Nottingham Forest,Fulham,0,0,0.821011,0.933988
+2026-03-15 16:30:00,Liverpool,Tottenham,1,1,1.30076,1.15636
+2026-03-16 20:00:00,Brentford,Wolverhampton Wanderers,2,2,2.7966,1.80044
+2026-03-20 20:00:00,Bournemouth,Manchester United,2,2,1.76664,1.74574
+2026-03-21 12:30:00,Brighton,Liverpool,2,1,3.42956,0.956801
+2026-03-21 15:00:00,Fulham,Burnley,3,1,3.48438,1.92556
+2026-03-21 17:30:00,Everton,Chelsea,3,0,1.44532,1.35143
+2026-03-21 20:00:00,Leeds,Brentford,0,0,0.417296,0.302221
+2026-03-22 12:00:00,Newcastle United,Sunderland,1,2,1.26705,2.66657
+2026-03-22 14:15:00,Aston Villa,West Ham,2,0,2.48528,0.760054
+2026-03-22 14:15:00,Tottenham,Nottingham Forest,0,3,1.6189,1.54408
+2026-04-10 19:00:00,West Ham,Wolverhampton Wanderers,4,0,2.54379,0.571967
+2026-04-11 11:30:00,Arsenal,Bournemouth,1,2,3.16346,1.39461
+2026-04-11 14:00:00,Brentford,Everton,2,2,2.26302,1.57033
+2026-04-11 14:00:00,Burnley,Brighton,0,2,0.812029,1.07182
+2026-04-11 16:30:00,Liverpool,Fulham,2,0,2.01499,1.42024
+2026-04-12 13:00:00,Nottingham Forest,Aston Villa,1,1,0.85045,1.36297
+2026-04-12 13:00:00,Sunderland,Tottenham,1,0,1.77584,1.01598
+2026-04-12 13:00:00,Crystal Palace,Newcastle United,2,1,3.13933,1.27299
+2026-04-12 15:30:00,Chelsea,Manchester City,0,3,1.22108,2.40839
+2026-04-13 19:00:00,Manchester United,Leeds,1,2,1.36555,2.95118
+2026-04-18 11:30:00,Brentford,Fulham,0,0,2.33552,0.790707
+2026-04-18 14:00:00,Leeds,Wolverhampton Wanderers,3,0,3.55804,0.568627
+2026-04-18 14:00:00,Newcastle United,Bournemouth,1,2,1.61167,3.36662
+2026-04-18 16:30:00,Tottenham,Brighton,2,2,1.56052,1.1373
+2026-04-18 19:00:00,Chelsea,Manchester United,0,1,1.28109,0.436043
+2026-04-19 13:00:00,Aston Villa,Sunderland,4,3,3.90223,1.56008
+2026-04-19 13:00:00,Everton,Liverpool,1,2,1.4784,1.38333
+2026-04-19 13:00:00,Nottingham Forest,Burnley,4,1,1.4425,0.601418
+2026-04-19 15:30:00,Manchester City,Arsenal,2,1,2.61528,2.28964
+2026-04-20 19:00:00,Crystal Palace,West Ham,0,0,0.733442,0.622445
+2026-04-21 19:00:00,Brighton,Chelsea,3,0,2.51784,0.297865
+2026-04-22 19:00:00,Bournemouth,Leeds,2,2,1.91355,1.21601
+2026-04-22 19:00:00,Burnley,Manchester City,0,1,0.973776,3.40888
+2026-04-24 19:00:00,Sunderland,Nottingham Forest,0,5,0.614323,1.54208
+2026-04-25 11:30:00,Fulham,Aston Villa,1,0,1.24069,0.906156
+2026-04-25 14:00:00,Liverpool,Crystal Palace,3,1,1.45071,2.19912
+2026-04-25 14:00:00,West Ham,Everton,2,1,1.8356,1.1144
+2026-04-25 14:00:00,Wolverhampton Wanderers,Tottenham,0,1,0.762656,1.06403
+2026-04-25 16:30:00,Arsenal,Newcastle United,1,0,0.639189,0.868897
+2026-04-27 19:00:00,Manchester United,Brentford,2,1,1.84852,1.30383
+2026-05-01 20:00:00,Leeds,Burnley,3,1,2.09546,0.434597
+2026-05-02 15:00:00,Brentford,West Ham,3,0,2.27374,0.753895
+2026-05-02 15:00:00,Newcastle United,Brighton,3,1,3.12933,1.87112
+2026-05-02 15:00:00,Wolverhampton Wanderers,Sunderland,1,1,1.96131,0.923954
+2026-05-02 17:30:00,Arsenal,Fulham,3,0,4.09079,0.696714
+2026-05-03 14:00:00,Bournemouth,Crystal Palace,3,0,2.29626,0.678329
+2026-05-03 15:30:00,Manchester United,Liverpool,3,2,2.55612,1.02814
+2026-05-03 19:00:00,Aston Villa,Tottenham,1,2,0.609494,1.12225
+2026-05-04 15:00:00,Chelsea,Nottingham Forest,1,3,2.17132,2.31019
+2026-05-04 20:00:00,Everton,Manchester City,3,3,1.68558,1.41706
+2026-05-09 12:30:00,Liverpool,Chelsea,1,1,0.623191,0.597184
+2026-05-09 15:00:00,Brighton,Wolverhampton Wanderers,3,0,2.22427,0.515647
+2026-05-09 15:00:00,Fulham,Bournemouth,0,1,1.24334,0.998003
+2026-05-09 15:00:00,Sunderland,Manchester United,0,0,1.2376,0.535981
+2026-05-09 17:30:00,Manchester City,Brentford,3,0,4.37429,0.670038
+2026-05-10 14:00:00,Burnley,Aston Villa,2,2,1.71234,1.75493
+2026-05-10 14:00:00,Crystal Palace,Everton,2,2,3.28826,2.10265
+2026-05-10 14:00:00,Nottingham Forest,Newcastle United,1,1,1.46434,1.65067
+2026-05-10 16:30:00,West Ham,Arsenal,0,1,1.32011,1.42953
+2026-05-11 20:00:00,Tottenham,Leeds,1,1,1.49036,1.86976
+2026-05-13 20:00:00,Manchester City,Crystal Palace,3,0,1.95679,0.428862
+2026-05-15 20:00:00,Aston Villa,Liverpool,4,2,2.5252,1.55027
+2026-05-17 12:30:00,Manchester United,Nottingham Forest,3,2,4.28532,1.84418
+2026-05-17 15:00:00,Brentford,Crystal Palace,2,2,1.54564,1.82274
+2026-05-17 15:00:00,Everton,Sunderland,1,3,1.32181,1.28383
+2026-05-17 15:00:00,Leeds,Brighton,1,0,0.747756,2.23238
+2026-05-17 15:00:00,Wolverhampton Wanderers,Fulham,1,1,1.49725,1.48412
+2026-05-17 17:30:00,Newcastle United,West Ham,3,1,2.1336,0.957771
+2026-05-18 20:00:00,Arsenal,Burnley,1,0,1.22695,0.194884
+2026-05-19 19:30:00,Bournemouth,Manchester City,1,1,1.71486,1.26917
+2026-05-19 20:15:00,Chelsea,Tottenham,2,1,1.09262,2.15227
+2026-05-24 15:00:00,Brighton,Manchester United,0,3,0.702398,2.32868
+2026-05-24 15:00:00,Burnley,Wolverhampton Wanderers,1,1,1.28476,2.8433
+2026-05-24 15:00:00,Crystal Palace,Arsenal,1,2,1.00492,3.90645
+2026-05-24 15:00:00,Fulham,Newcastle United,2,0,1.72878,0.24232
+2026-05-24 15:00:00,Liverpool,Brentford,1,1,2.99412,1.46082
+2026-05-24 15:00:00,Manchester City,Aston Villa,1,2,1.38085,2.4397
+2026-05-24 15:00:00,Nottingham Forest,Bournemouth,1,1,2.05852,1.33684
+2026-05-24 15:00:00,Sunderland,Chelsea,2,1,2.33109,0.920885
+2026-05-24 15:00:00,Tottenham,Everton,1,0,1.40597,0.268476
+2026-05-24 15:00:00,West Ham,Leeds,3,0,2.73135,1.94969

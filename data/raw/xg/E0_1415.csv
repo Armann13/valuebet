@@ -1,0 +1,381 @@
+datetime,home,away,hg,ag,hxg,axg
+2014-08-16 12:45:00,Manchester United,Swansea,1,2,1.16635,0.278076
+2014-08-16 15:00:00,Leicester,Everton,2,2,1.2783,0.613273
+2014-08-16 15:00:00,Queens Park Rangers,Hull,0,1,1.90067,1.11757
+2014-08-16 15:00:00,Stoke,Aston Villa,0,1,0.423368,0.909774
+2014-08-16 15:00:00,West Bromwich Albion,Sunderland,2,2,1.68343,0.991901
+2014-08-16 15:00:00,West Ham,Tottenham,0,1,1.8531,1.01706
+2014-08-16 17:30:00,Arsenal,Crystal Palace,2,1,1.55411,0.158151
+2014-08-17 13:30:00,Liverpool,Southampton,2,1,1.33192,1.55248
+2014-08-17 16:00:00,Newcastle United,Manchester City,0,2,0.965583,1.48053
+2014-08-18 20:00:00,Burnley,Chelsea,1,3,0.371141,2.12996
+2014-08-23 12:45:00,Aston Villa,Newcastle United,0,0,0.507525,0.699295
+2014-08-23 15:00:00,Chelsea,Leicester,2,0,2.02939,0.550894
+2014-08-23 15:00:00,Crystal Palace,West Ham,1,3,0.617283,1.33957
+2014-08-23 15:00:00,Southampton,West Bromwich Albion,0,0,0.665853,0.665791
+2014-08-23 15:00:00,Swansea,Burnley,1,0,0.914215,0.843331
+2014-08-23 17:30:00,Everton,Arsenal,2,2,1.33429,1.43355
+2014-08-24 13:30:00,Hull,Stoke,1,1,0.870175,1.60916
+2014-08-24 13:30:00,Tottenham,Queens Park Rangers,4,0,2.38894,1.07617
+2014-08-24 16:00:00,Sunderland,Manchester United,1,1,0.666489,0.941557
+2014-08-25 20:00:00,Manchester City,Liverpool,3,1,1.31375,0.901889
+2014-08-30 12:45:00,Burnley,Manchester United,0,0,0.513746,0.467281
+2014-08-30 15:00:00,Manchester City,Stoke,0,1,0.891768,0.299792
+2014-08-30 15:00:00,Newcastle United,Crystal Palace,3,3,1.69776,1.66056
+2014-08-30 15:00:00,Queens Park Rangers,Sunderland,1,0,1.27277,0.964343
+2014-08-30 15:00:00,Swansea,West Bromwich Albion,3,0,2.02641,0.696665
+2014-08-30 15:00:00,West Ham,Southampton,1,3,0.635223,1.57513
+2014-08-30 17:30:00,Everton,Chelsea,3,6,1.4491,2.02665
+2014-08-31 13:30:00,Aston Villa,Hull,2,1,0.639316,0.28888
+2014-08-31 13:30:00,Tottenham,Liverpool,0,3,0.48592,2.74317
+2014-08-31 16:00:00,Leicester,Arsenal,1,1,0.809743,2.29649
+2014-09-13 12:45:00,Arsenal,Manchester City,2,2,2.07804,2.30834
+2014-09-13 15:00:00,Chelsea,Swansea,4,2,3.56581,1.02153
+2014-09-13 15:00:00,Crystal Palace,Burnley,0,0,0.780534,1.2493
+2014-09-13 15:00:00,Southampton,Newcastle United,4,0,2.11739,1.15026
+2014-09-13 15:00:00,Stoke,Leicester,0,1,1.64782,0.598313
+2014-09-13 15:00:00,Sunderland,Tottenham,2,2,0.338966,2.03694
+2014-09-13 15:00:00,West Bromwich Albion,Everton,0,2,0.602059,0.807492
+2014-09-13 17:30:00,Liverpool,Aston Villa,0,1,0.728097,0.701676
+2014-09-14 16:00:00,Manchester United,Queens Park Rangers,4,0,2.20911,0.563524
+2014-09-15 20:00:00,Hull,West Ham,2,2,0.439084,0.661678
+2014-09-20 12:45:00,Queens Park Rangers,Stoke,2,2,1.05642,1.45847
+2014-09-20 15:00:00,Swansea,Southampton,0,1,0.520262,0.750244
+2014-09-20 15:00:00,Aston Villa,Arsenal,0,3,0.649013,1.36224
+2014-09-20 15:00:00,Burnley,Sunderland,0,0,0.710673,0.643512
+2014-09-20 15:00:00,Newcastle United,Hull,2,2,1.91632,0.854291
+2014-09-20 17:30:00,West Ham,Liverpool,3,1,1.26032,0.37835
+2014-09-21 13:30:00,Tottenham,West Bromwich Albion,0,1,0.438596,1.08401
+2014-09-21 13:30:00,Leicester,Manchester United,5,3,2.5422,1.71191
+2014-09-21 16:00:00,Manchester City,Chelsea,1,1,1.05592,1.02093
+2014-09-21 16:00:00,Everton,Crystal Palace,2,3,2.56122,1.62886
+2014-09-27 12:45:00,Liverpool,Everton,1,1,1.5286,0.475885
+2014-09-27 15:00:00,Manchester United,West Ham,2,1,0.520246,1.27452
+2014-09-27 15:00:00,Southampton,Queens Park Rangers,2,1,2.34463,0.456323
+2014-09-27 15:00:00,Chelsea,Aston Villa,3,0,3.14218,0.228896
+2014-09-27 15:00:00,Crystal Palace,Leicester,2,0,2.1144,0.453547
+2014-09-27 15:00:00,Hull,Manchester City,2,4,1.12374,1.78953
+2014-09-27 15:00:00,Sunderland,Swansea,0,0,1.39649,0.156398
+2014-09-27 17:30:00,Arsenal,Tottenham,1,1,1.2647,0.673535
+2014-09-28 16:00:00,West Bromwich Albion,Burnley,4,0,1.81127,0.473814
+2014-09-29 20:00:00,Stoke,Newcastle United,1,0,1.56203,1.13994
+2014-10-04 15:00:00,Hull,Crystal Palace,2,0,1.07209,0.616109
+2014-10-04 15:00:00,Leicester,Burnley,2,2,1.57773,0.957718
+2014-10-04 15:00:00,Liverpool,West Bromwich Albion,2,1,1.56163,1.4384
+2014-10-04 15:00:00,Sunderland,Stoke,3,1,1.40551,0.478187
+2014-10-04 15:00:00,Swansea,Newcastle United,2,2,1.55242,1.18603
+2014-10-04 17:30:00,Aston Villa,Manchester City,0,2,0.690283,2.30634
+2014-10-05 12:00:00,Manchester United,Everton,2,1,1.6239,2.13558
+2014-10-05 14:05:00,Tottenham,Southampton,1,0,0.898735,1.14587
+2014-10-05 14:05:00,Chelsea,Arsenal,2,0,1.40263,0.330699
+2014-10-05 16:15:00,West Ham,Queens Park Rangers,2,0,1.64038,0.697342
+2014-10-18 12:45:00,Manchester City,Tottenham,4,1,3.75041,2.32314
+2014-10-18 15:00:00,Everton,Aston Villa,3,0,1.67016,0.37205
+2014-10-18 15:00:00,Burnley,West Ham,1,3,1.74404,2.84138
+2014-10-18 15:00:00,Crystal Palace,Chelsea,1,2,1.16779,1.01515
+2014-10-18 15:00:00,Southampton,Sunderland,8,0,3.71097,0.92175
+2014-10-18 15:00:00,Newcastle United,Leicester,1,0,2.1929,0.650379
+2014-10-18 15:00:00,Arsenal,Hull,2,2,2.14845,0.552062
+2014-10-19 13:30:00,Queens Park Rangers,Liverpool,2,3,2.60852,1.51813
+2014-10-19 16:00:00,Stoke,Swansea,2,1,1.75841,2.26827
+2014-10-20 20:00:00,West Bromwich Albion,Manchester United,2,2,0.61662,0.934042
+2014-10-25 12:45:00,West Ham,Manchester City,2,1,2.62631,1.8643
+2014-10-25 15:00:00,Southampton,Stoke,1,0,1.3758,0.867568
+2014-10-25 15:00:00,Sunderland,Arsenal,0,2,0.441491,1.47081
+2014-10-25 15:00:00,West Bromwich Albion,Crystal Palace,2,2,1.45724,1.77354
+2014-10-25 15:00:00,Liverpool,Hull,0,0,0.678924,0.222999
+2014-10-25 17:30:00,Swansea,Leicester,2,0,1.05601,0.773436
+2014-10-26 13:30:00,Tottenham,Newcastle United,1,2,2.03729,0.73967
+2014-10-26 13:30:00,Burnley,Everton,1,3,1.55564,1.32187
+2014-10-26 16:00:00,Manchester United,Chelsea,1,1,1.84074,0.989916
+2014-10-27 20:00:00,Queens Park Rangers,Aston Villa,2,0,0.81667,1.18709
+2014-11-01 12:45:00,Newcastle United,Liverpool,1,0,1.56863,0.258953
+2014-11-01 15:00:00,Stoke,West Ham,2,2,3.06954,0.528668
+2014-11-01 15:00:00,Leicester,West Bromwich Albion,0,1,1.41001,0.562442
+2014-11-01 15:00:00,Arsenal,Burnley,3,0,4.3298,0.684259
+2014-11-01 15:00:00,Chelsea,Queens Park Rangers,2,1,2.23703,0.510067
+2014-11-01 15:00:00,Everton,Swansea,0,0,1.14779,0.694419
+2014-11-01 15:00:00,Hull,Southampton,0,1,0.256678,1.90484
+2014-11-02 13:30:00,Manchester City,Manchester United,1,0,2.56723,0.727924
+2014-11-02 16:00:00,Aston Villa,Tottenham,1,2,0.872267,2.54173
+2014-11-03 20:00:00,Crystal Palace,Sunderland,1,3,0.766023,0.727981
+2014-11-08 12:45:00,Liverpool,Chelsea,1,2,0.531905,1.97201
+2014-11-08 15:00:00,Burnley,Hull,1,0,1.10315,0.526656
+2014-11-08 15:00:00,Manchester United,Crystal Palace,1,0,0.956776,0.400837
+2014-11-08 15:00:00,West Ham,Aston Villa,0,0,1.47873,0.560875
+2014-11-08 15:00:00,Southampton,Leicester,2,0,1.00528,0.540434
+2014-11-08 17:30:00,Queens Park Rangers,Manchester City,2,2,1.86489,1.70189
+2014-11-09 13:30:00,Sunderland,Everton,1,1,0.508326,1.31898
+2014-11-09 13:30:00,Tottenham,Stoke,1,2,1.28384,1.24867
+2014-11-09 13:30:00,West Bromwich Albion,Newcastle United,0,2,0.765208,0.694441
+2014-11-09 16:00:00,Swansea,Arsenal,2,1,0.520487,1.77699
+2014-11-22 15:00:00,Stoke,Burnley,1,2,1.94307,1.27532
+2014-11-22 15:00:00,Newcastle United,Queens Park Rangers,1,0,1.47871,0.402285
+2014-11-22 15:00:00,Manchester City,Swansea,2,1,2.26312,0.957011
+2014-11-22 15:00:00,Leicester,Sunderland,0,0,0.685893,0.889971
+2014-11-22 15:00:00,Everton,West Ham,2,1,1.82651,1.11958
+2014-11-22 15:00:00,Chelsea,West Bromwich Albion,2,0,4.36607,0.0930471
+2014-11-22 17:30:00,Arsenal,Manchester United,1,2,2.00193,1.2791
+2014-11-23 13:30:00,Crystal Palace,Liverpool,3,1,1.47309,0.952958
+2014-11-23 16:00:00,Hull,Tottenham,1,2,0.94244,2.16438
+2014-11-24 20:00:00,Aston Villa,Southampton,1,1,1.13228,0.863156
+2014-11-29 12:45:00,West Bromwich Albion,Arsenal,0,1,0.31526,1.05603
+2014-11-29 15:00:00,West Ham,Newcastle United,1,0,1.09981,0.246562
+2014-11-29 15:00:00,Swansea,Crystal Palace,1,1,1.4626,1.50956
+2014-11-29 15:00:00,Liverpool,Stoke,1,0,1.71025,0.875424
+2014-11-29 15:00:00,Manchester United,Hull,3,0,1.76885,0.230407
+2014-11-29 15:00:00,Queens Park Rangers,Leicester,3,2,2.98194,2.10013
+2014-11-29 15:00:00,Burnley,Aston Villa,1,1,2.3058,1.0873
+2014-11-29 17:30:00,Sunderland,Chelsea,0,0,1.03133,0.761171
+2014-11-30 13:30:00,Southampton,Manchester City,0,3,0.804381,2.13214
+2014-11-30 16:00:00,Tottenham,Everton,2,1,1.13109,0.934335
+2014-12-02 19:45:00,Burnley,Newcastle United,1,1,0.678486,1.0006
+2014-12-02 19:45:00,Leicester,Liverpool,1,3,1.23928,1.3012
+2014-12-02 19:45:00,Manchester United,Stoke,2,1,1.91104,1.29092
+2014-12-02 19:45:00,Swansea,Queens Park Rangers,2,0,1.54207,0.789519
+2014-12-02 20:00:00,Crystal Palace,Aston Villa,0,1,0.801741,0.192439
+2014-12-02 20:00:00,West Bromwich Albion,West Ham,1,2,1.41302,1.24431
+2014-12-03 19:45:00,Chelsea,Tottenham,3,0,1.71947,0.289204
+2014-12-03 19:45:00,Everton,Hull,1,1,1.27965,0.29547
+2014-12-03 19:45:00,Sunderland,Manchester City,1,4,0.412004,1.0386
+2014-12-03 19:45:00,Arsenal,Southampton,1,0,2.37332,0.570955
+2014-12-06 12:45:00,Newcastle United,Chelsea,2,1,1.48574,2.16232
+2014-12-06 15:00:00,Queens Park Rangers,Burnley,2,0,1.63744,1.2646
+2014-12-06 15:00:00,Stoke,Arsenal,3,2,2.50357,2.02073
+2014-12-06 15:00:00,Tottenham,Crystal Palace,0,0,0.958788,1.17369
+2014-12-06 15:00:00,Hull,West Bromwich Albion,0,0,0.586305,1.06151
+2014-12-06 15:00:00,Liverpool,Sunderland,0,0,0.663875,0.268395
+2014-12-06 17:30:00,Manchester City,Everton,1,0,2.2487,0.385845
+2014-12-07 13:30:00,West Ham,Swansea,3,1,2.11509,0.998148
+2014-12-07 16:00:00,Aston Villa,Leicester,2,1,1.97697,1.0083
+2014-12-08 20:00:00,Southampton,Manchester United,1,2,1.8287,0.799261
+2014-12-13 15:00:00,Burnley,Southampton,1,0,0.396158,1.713
+2014-12-13 15:00:00,Chelsea,Hull,2,0,1.21862,0.435091
+2014-12-13 15:00:00,Crystal Palace,Stoke,1,1,0.498092,0.898532
+2014-12-13 15:00:00,West Bromwich Albion,Aston Villa,1,0,1.4373,0.266303
+2014-12-13 15:00:00,Sunderland,West Ham,1,1,1.33557,0.870324
+2014-12-13 15:00:00,Leicester,Manchester City,0,1,0.360608,1.13411
+2014-12-13 17:30:00,Arsenal,Newcastle United,4,1,2.38819,0.938764
+2014-12-14 13:30:00,Manchester United,Liverpool,3,0,1.79543,1.87114
+2014-12-14 16:00:00,Swansea,Tottenham,1,2,1.67826,0.731022
+2014-12-15 20:00:00,Everton,Queens Park Rangers,3,1,0.747708,0.972265
+2014-12-20 12:45:00,Manchester City,Crystal Palace,3,0,1.41484,0.760531
+2014-12-20 15:00:00,West Ham,Leicester,2,0,1.45134,0.659983
+2014-12-20 15:00:00,Tottenham,Burnley,2,1,1.77346,0.655135
+2014-12-20 15:00:00,Queens Park Rangers,West Bromwich Albion,3,2,2.92864,1.30117
+2014-12-20 15:00:00,Southampton,Everton,3,0,2.21266,0.597999
+2014-12-20 15:00:00,Aston Villa,Manchester United,1,1,0.575806,1.06851
+2014-12-20 15:00:00,Hull,Swansea,0,1,0.825885,1.45331
+2014-12-21 13:30:00,Newcastle United,Sunderland,0,1,0.900259,2.18418
+2014-12-21 16:00:00,Liverpool,Arsenal,2,2,1.31858,0.754219
+2014-12-22 20:00:00,Stoke,Chelsea,0,2,0.411669,1.45482
+2014-12-26 12:45:00,Chelsea,West Ham,2,0,3.56764,0.45944
+2014-12-26 15:00:00,Burnley,Liverpool,0,1,0.61207,1.06708
+2014-12-26 15:00:00,Swansea,Aston Villa,1,0,0.601468,1.41578
+2014-12-26 15:00:00,Sunderland,Hull,1,3,1.35551,0.85573
+2014-12-26 15:00:00,West Bromwich Albion,Manchester City,1,3,2.64442,2.10224
+2014-12-26 15:00:00,Everton,Stoke,0,1,1.00929,1.39552
+2014-12-26 15:00:00,Crystal Palace,Southampton,1,3,0.379447,1.30288
+2014-12-26 15:00:00,Manchester United,Newcastle United,3,1,1.86147,1.03151
+2014-12-26 15:00:00,Leicester,Tottenham,1,2,1.47301,1.35719
+2014-12-26 17:30:00,Arsenal,Queens Park Rangers,2,1,2.13888,1.21752
+2014-12-28 12:00:00,Tottenham,Manchester United,0,0,0.888,2.2613
+2014-12-28 14:05:00,Southampton,Chelsea,1,1,0.528455,0.521788
+2014-12-28 15:00:00,Queens Park Rangers,Crystal Palace,0,0,0.405679,0.328577
+2014-12-28 15:00:00,Hull,Leicester,0,1,1.72314,0.180127
+2014-12-28 15:00:00,Manchester City,Burnley,2,2,1.38586,0.962215
+2014-12-28 15:00:00,Aston Villa,Sunderland,0,0,0.650993,0.845626
+2014-12-28 15:00:00,West Ham,Arsenal,1,2,1.1084,3.35886
+2014-12-28 15:00:00,Stoke,West Bromwich Albion,2,0,1.25399,1.35813
+2014-12-28 16:15:00,Newcastle United,Everton,3,2,1.71345,1.07321
+2014-12-29 20:00:00,Liverpool,Swansea,4,1,3.27658,1.00374
+2015-01-01 12:45:00,Stoke,Manchester United,1,1,1.4082,0.932262
+2015-01-01 15:00:00,Manchester City,Sunderland,3,2,3.63333,0.979558
+2015-01-01 15:00:00,Newcastle United,Burnley,3,3,1.24639,1.65582
+2015-01-01 15:00:00,Queens Park Rangers,Swansea,1,1,3.16214,1.69725
+2015-01-01 15:00:00,Southampton,Arsenal,2,0,2.41442,0.849285
+2015-01-01 15:00:00,West Ham,West Bromwich Albion,1,1,1.13586,1.1226
+2015-01-01 15:00:00,Aston Villa,Crystal Palace,0,0,1.38709,0.575995
+2015-01-01 15:00:00,Hull,Everton,2,0,1.95682,0.957698
+2015-01-01 15:00:00,Liverpool,Leicester,2,2,2.38944,1.09438
+2015-01-01 17:30:00,Tottenham,Chelsea,5,3,1.82436,3.03274
+2015-01-10 12:45:00,Sunderland,Liverpool,0,1,0.250077,2.16251
+2015-01-10 15:00:00,Swansea,West Ham,1,1,1.54943,0.731228
+2015-01-10 15:00:00,West Bromwich Albion,Hull,1,0,0.784159,0.395844
+2015-01-10 15:00:00,Burnley,Queens Park Rangers,2,1,2.19126,1.69555
+2015-01-10 15:00:00,Chelsea,Newcastle United,2,0,1.08131,0.394837
+2015-01-10 15:00:00,Everton,Manchester City,1,1,0.95041,1.50724
+2015-01-10 15:00:00,Leicester,Aston Villa,1,0,2.36522,0.606149
+2015-01-10 17:30:00,Crystal Palace,Tottenham,2,1,2.85997,0.919178
+2015-01-11 13:30:00,Arsenal,Stoke,3,0,2.26889,0.39839
+2015-01-11 16:00:00,Manchester United,Southampton,0,1,1.19228,1.15706
+2015-01-17 15:00:00,Aston Villa,Liverpool,0,2,0.845309,1.54424
+2015-01-17 15:00:00,Burnley,Crystal Palace,2,3,1.08428,0.528431
+2015-01-17 15:00:00,Leicester,Stoke,0,1,0.382481,0.715634
+2015-01-17 15:00:00,Queens Park Rangers,Manchester United,0,2,0.929623,1.55645
+2015-01-17 15:00:00,Swansea,Chelsea,0,5,0.214209,3.19733
+2015-01-17 15:00:00,Tottenham,Sunderland,2,1,0.931537,1.19577
+2015-01-17 17:30:00,Newcastle United,Southampton,1,2,0.856732,0.432026
+2015-01-18 13:30:00,West Ham,Hull,3,0,2.68629,0.423719
+2015-01-18 16:00:00,Manchester City,Arsenal,0,2,0.561966,1.49476
+2015-01-19 20:00:00,Everton,West Bromwich Albion,0,0,1.4927,0.196316
+2015-01-31 12:45:00,Hull,Newcastle United,0,3,0.989377,0.50926
+2015-01-31 15:00:00,Liverpool,West Ham,2,0,2.28203,0.383092
+2015-01-31 15:00:00,Manchester United,Leicester,3,1,1.7369,0.380882
+2015-01-31 15:00:00,Stoke,Queens Park Rangers,3,1,0.782569,1.11577
+2015-01-31 15:00:00,Sunderland,Burnley,2,0,1.89994,1.34786
+2015-01-31 15:00:00,West Bromwich Albion,Tottenham,0,3,0.808495,1.34429
+2015-01-31 15:00:00,Crystal Palace,Everton,0,1,1.21034,1.35977
+2015-01-31 17:30:00,Chelsea,Manchester City,1,1,0.708923,0.907151
+2015-02-01 13:30:00,Arsenal,Aston Villa,5,0,2.35805,0.714521
+2015-02-01 16:00:00,Southampton,Swansea,0,1,1.62682,0.262557
+2015-02-07 12:45:00,Tottenham,Arsenal,2,1,1.2754,0.834136
+2015-02-07 15:00:00,Aston Villa,Chelsea,1,2,0.707847,1.11662
+2015-02-07 15:00:00,Swansea,Sunderland,1,1,1.86428,0.143279
+2015-02-07 15:00:00,Leicester,Crystal Palace,0,1,0.7797,1.00613
+2015-02-07 15:00:00,Manchester City,Hull,1,1,0.992526,1.13348
+2015-02-07 15:00:00,Queens Park Rangers,Southampton,0,1,1.03037,0.963892
+2015-02-07 17:30:00,Everton,Liverpool,0,0,0.227711,1.03601
+2015-02-08 12:00:00,Burnley,West Bromwich Albion,2,2,1.09795,2.55442
+2015-02-08 14:05:00,Newcastle United,Stoke,1,1,0.789943,0.220357
+2015-02-08 16:15:00,West Ham,Manchester United,1,1,0.86518,1.21344
+2015-02-10 19:45:00,Arsenal,Leicester,2,1,1.77095,0.799802
+2015-02-10 19:45:00,Sunderland,Queens Park Rangers,0,2,1.80831,1.26883
+2015-02-10 19:45:00,Hull,Aston Villa,2,0,0.985975,0.423817
+2015-02-10 20:00:00,Liverpool,Tottenham,3,2,2.76444,1.71247
+2015-02-11 19:45:00,Chelsea,Everton,1,0,0.89846,0.706994
+2015-02-11 19:45:00,Stoke,Manchester City,1,4,0.745602,2.13611
+2015-02-11 19:45:00,Manchester United,Burnley,3,1,1.62116,1.85067
+2015-02-11 19:45:00,Southampton,West Ham,0,0,1.68446,0.125464
+2015-02-11 20:00:00,Crystal Palace,Newcastle United,1,1,0.932684,0.444535
+2015-02-11 20:00:00,West Bromwich Albion,Swansea,2,0,0.685986,0.438959
+2015-02-21 15:00:00,Aston Villa,Stoke,1,2,0.234004,1.11955
+2015-02-21 15:00:00,Chelsea,Burnley,1,1,1.53973,0.513251
+2015-02-21 15:00:00,Crystal Palace,Arsenal,1,2,2.26395,2.08054
+2015-02-21 15:00:00,Sunderland,West Bromwich Albion,0,0,0.699828,0.107318
+2015-02-21 15:00:00,Swansea,Manchester United,2,1,1.04218,1.47171
+2015-02-21 15:00:00,Hull,Queens Park Rangers,2,1,1.09259,0.190631
+2015-02-21 17:30:00,Manchester City,Newcastle United,5,0,3.12533,0.166685
+2015-02-22 12:00:00,Tottenham,West Ham,2,2,2.17554,2.20831
+2015-02-22 14:05:00,Everton,Leicester,2,2,2.05032,1.99519
+2015-02-22 16:15:00,Southampton,Liverpool,0,2,0.869183,0.695778
+2015-02-28 12:45:00,West Ham,Crystal Palace,1,3,1.28506,0.851359
+2015-02-28 15:00:00,West Bromwich Albion,Southampton,1,0,1.08916,0.579867
+2015-02-28 15:00:00,Stoke,Hull,1,0,0.895577,0.344489
+2015-02-28 15:00:00,Newcastle United,Aston Villa,1,0,0.93198,0.773437
+2015-02-28 15:00:00,Burnley,Swansea,0,1,0.898885,1.41451
+2015-02-28 15:00:00,Manchester United,Sunderland,2,0,3.03534,0.272806
+2015-03-01 12:00:00,Liverpool,Manchester City,2,1,0.769022,1.12846
+2015-03-01 14:05:00,Arsenal,Everton,2,0,1.39298,0.367813
+2015-03-03 19:45:00,Aston Villa,West Bromwich Albion,2,1,1.9201,0.905628
+2015-03-03 19:45:00,Hull,Sunderland,1,1,1.3938,1.23136
+2015-03-03 19:45:00,Southampton,Crystal Palace,1,0,2.22869,0.392674
+2015-03-04 19:45:00,West Ham,Chelsea,0,1,1.46324,2.38358
+2015-03-04 19:45:00,Manchester City,Leicester,2,0,2.91599,0.217043
+2015-03-04 19:45:00,Newcastle United,Manchester United,0,1,1.19246,1.68865
+2015-03-04 19:45:00,Stoke,Everton,2,0,1.03921,0.418315
+2015-03-04 19:45:00,Tottenham,Swansea,3,2,2.13485,0.708217
+2015-03-04 19:45:00,Queens Park Rangers,Arsenal,1,2,0.318849,2.1651
+2015-03-04 20:00:00,Liverpool,Burnley,2,0,1.30453,0.319239
+2015-03-07 15:00:00,Queens Park Rangers,Tottenham,1,2,1.49775,2.62405
+2015-03-14 12:45:00,Crystal Palace,Queens Park Rangers,3,1,2.20095,0.266048
+2015-03-14 15:00:00,Arsenal,West Ham,3,0,3.19619,0.478172
+2015-03-14 15:00:00,Leicester,Hull,0,0,0.53913,1.0475
+2015-03-14 15:00:00,West Bromwich Albion,Stoke,1,0,0.958807,0.198751
+2015-03-14 15:00:00,Sunderland,Aston Villa,0,4,0.472898,1.50195
+2015-03-14 17:30:00,Burnley,Manchester City,1,0,0.242058,1.2576
+2015-03-15 13:30:00,Chelsea,Southampton,1,1,3.19317,1.82802
+2015-03-15 16:00:00,Everton,Newcastle United,3,0,2.25807,0.809194
+2015-03-15 16:00:00,Manchester United,Tottenham,3,0,1.02781,0.206431
+2015-03-16 20:00:00,Swansea,Liverpool,0,1,0.438751,1.69506
+2015-03-21 12:45:00,Manchester City,West Bromwich Albion,3,0,4.90913,0.775158
+2015-03-21 15:00:00,Aston Villa,Swansea,0,1,0.762371,1.90437
+2015-03-21 15:00:00,Tottenham,Leicester,4,3,2.82935,2.722
+2015-03-21 15:00:00,Southampton,Burnley,2,0,1.92097,1.05022
+2015-03-21 15:00:00,Stoke,Crystal Palace,1,2,2.07851,2.14974
+2015-03-21 15:00:00,Newcastle United,Arsenal,1,2,1.0068,0.754782
+2015-03-21 17:30:00,West Ham,Sunderland,1,0,0.99619,0.536562
+2015-03-22 13:30:00,Liverpool,Manchester United,1,2,0.557648,1.22632
+2015-03-22 16:00:00,Hull,Chelsea,2,3,1.32415,0.758601
+2015-03-22 16:00:00,Queens Park Rangers,Everton,1,2,1.39318,0.839996
+2015-04-04 12:45:00,Arsenal,Liverpool,4,1,1.45672,1.21414
+2015-04-04 15:00:00,Everton,Southampton,1,0,1.02048,0.533646
+2015-04-04 15:00:00,Leicester,West Ham,2,1,3.43561,1.93553
+2015-04-04 15:00:00,Manchester United,Aston Villa,3,1,1.9836,0.311787
+2015-04-04 15:00:00,Swansea,Hull,3,1,1.49943,0.919329
+2015-04-04 15:00:00,West Bromwich Albion,Queens Park Rangers,1,4,2.13361,1.20939
+2015-04-04 17:30:00,Chelsea,Stoke,2,1,3.28546,0.277288
+2015-04-05 13:30:00,Burnley,Tottenham,0,0,1.51355,0.377376
+2015-04-05 16:00:00,Sunderland,Newcastle United,1,0,0.829443,0.798234
+2015-04-06 20:00:00,Crystal Palace,Manchester City,2,1,1.32783,1.1129
+2015-04-07 19:45:00,Aston Villa,Queens Park Rangers,3,3,1.86698,1.43061
+2015-04-11 12:45:00,Swansea,Everton,1,1,1.09678,0.842056
+2015-04-11 15:00:00,Sunderland,Crystal Palace,1,4,0.617079,2.34787
+2015-04-11 15:00:00,Southampton,Hull,2,0,2.37369,0.737337
+2015-04-11 15:00:00,West Ham,Stoke,1,1,0.604708,0.587985
+2015-04-11 15:00:00,Tottenham,Aston Villa,0,1,0.621738,0.860976
+2015-04-11 15:00:00,West Bromwich Albion,Leicester,2,3,0.968439,1.6874
+2015-04-11 17:30:00,Burnley,Arsenal,0,1,0.65718,1.21096
+2015-04-12 13:30:00,Queens Park Rangers,Chelsea,0,1,0.780982,0.920984
+2015-04-12 16:00:00,Manchester United,Manchester City,4,2,2.66017,1.75844
+2015-04-13 20:00:00,Liverpool,Newcastle United,2,0,1.26534,0.363343
+2015-04-18 15:00:00,Everton,Burnley,1,0,2.36114,1.06159
+2015-04-18 15:00:00,Crystal Palace,West Bromwich Albion,0,2,2.0561,0.698022
+2015-04-18 15:00:00,Leicester,Swansea,2,0,2.57043,0.87346
+2015-04-18 15:00:00,Stoke,Southampton,2,1,2.26451,1.36108
+2015-04-18 17:30:00,Chelsea,Manchester United,1,0,1.1493,0.744613
+2015-04-19 13:30:00,Manchester City,West Ham,2,0,2.05138,0.738105
+2015-04-19 16:00:00,Newcastle United,Tottenham,1,3,0.938886,1.99862
+2015-04-25 12:45:00,Southampton,Tottenham,2,2,1.39327,0.531276
+2015-04-25 15:00:00,Queens Park Rangers,West Ham,0,0,2.28143,0.824309
+2015-04-25 15:00:00,Newcastle United,Swansea,2,3,1.54939,1.58825
+2015-04-25 15:00:00,West Bromwich Albion,Liverpool,0,0,0.507754,1.41235
+2015-04-25 15:00:00,Stoke,Sunderland,1,1,2.15079,2.17523
+2015-04-25 15:00:00,Burnley,Leicester,0,1,1.98975,1.21926
+2015-04-25 15:00:00,Crystal Palace,Hull,0,2,0.913865,2.37709
+2015-04-25 17:30:00,Manchester City,Aston Villa,3,2,1.1892,0.901376
+2015-04-26 13:30:00,Everton,Manchester United,3,0,1.07922,0.750462
+2015-04-26 16:00:00,Arsenal,Chelsea,0,0,1.07482,0.853305
+2015-04-28 19:45:00,Hull,Liverpool,1,0,0.730978,0.523697
+2015-04-29 19:45:00,Leicester,Chelsea,1,3,0.600074,1.51717
+2015-05-02 12:45:00,Leicester,Newcastle United,3,0,4.02694,0.485003
+2015-05-02 15:00:00,Liverpool,Queens Park Rangers,2,1,2.28745,0.386314
+2015-05-02 15:00:00,Aston Villa,Everton,3,2,1.56179,1.4049
+2015-05-02 15:00:00,Sunderland,Southampton,2,1,1.97694,0.906357
+2015-05-02 15:00:00,Swansea,Stoke,2,0,2.07645,0.324134
+2015-05-02 15:00:00,West Ham,Burnley,1,0,3.23925,0.758485
+2015-05-02 17:30:00,Manchester United,West Bromwich Albion,0,1,2.10841,0.317533
+2015-05-03 13:30:00,Chelsea,Crystal Palace,1,0,1.5619,0.41646
+2015-05-03 16:00:00,Tottenham,Manchester City,0,1,2.07027,1.80612
+2015-05-04 20:00:00,Hull,Arsenal,1,3,0.474706,2.94938
+2015-05-09 12:45:00,Everton,Sunderland,0,2,1.14341,1.19799
+2015-05-09 15:00:00,Hull,Burnley,0,1,1.12811,1.21303
+2015-05-09 15:00:00,Aston Villa,West Ham,1,0,1.26585,0.149381
+2015-05-09 15:00:00,Leicester,Southampton,2,0,1.64129,0.348109
+2015-05-09 15:00:00,Newcastle United,West Bromwich Albion,1,1,1.23706,1.21081
+2015-05-09 15:00:00,Stoke,Tottenham,3,0,2.138,0.298008
+2015-05-09 17:30:00,Crystal Palace,Manchester United,1,2,1.04344,2.29775
+2015-05-10 13:30:00,Manchester City,Queens Park Rangers,6,0,5.35103,0.872314
+2015-05-10 16:00:00,Chelsea,Liverpool,1,1,0.535272,1.33324
+2015-05-11 20:00:00,Arsenal,Swansea,0,1,1.88364,0.347185
+2015-05-16 12:45:00,Southampton,Aston Villa,6,1,3.59558,1.18593
+2015-05-16 15:00:00,Queens Park Rangers,Newcastle United,2,1,0.470106,2.11207
+2015-05-16 15:00:00,Sunderland,Leicester,0,0,0.935248,0.682972
+2015-05-16 15:00:00,Tottenham,Hull,2,0,1.70119,1.13285
+2015-05-16 15:00:00,West Ham,Everton,1,2,0.813296,2.07078
+2015-05-16 15:00:00,Burnley,Stoke,0,0,0.909845,1.76276
+2015-05-16 17:30:00,Liverpool,Crystal Palace,1,3,1.11415,1.99504
+2015-05-17 13:30:00,Swansea,Manchester City,2,4,1.06125,2.28119
+2015-05-17 16:00:00,Manchester United,Arsenal,1,1,0.715214,1.06814
+2015-05-18 20:00:00,West Bromwich Albion,Chelsea,3,0,1.22743,1.07679
+2015-05-20 19:45:00,Arsenal,Sunderland,0,0,1.68909,1.50177
+2015-05-24 15:00:00,Aston Villa,Burnley,0,1,0.654751,0.66113
+2015-05-24 15:00:00,Chelsea,Sunderland,3,1,2.52912,1.39272
+2015-05-24 15:00:00,Crystal Palace,Swansea,1,0,1.07504,0.118613
+2015-05-24 15:00:00,Arsenal,West Bromwich Albion,4,1,3.16614,0.569092
+2015-05-24 15:00:00,Everton,Tottenham,0,1,0.646215,1.39049
+2015-05-24 15:00:00,Hull,Manchester United,0,0,0.984196,0.399522
+2015-05-24 15:00:00,Leicester,Queens Park Rangers,5,1,2.17428,1.26755
+2015-05-24 15:00:00,Manchester City,Southampton,2,0,2.44073,0.775853
+2015-05-24 15:00:00,Newcastle United,West Ham,2,0,1.64216,0.416396
+2015-05-24 15:00:00,Stoke,Liverpool,6,1,2.15707,1.02292

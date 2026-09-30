@@ -1,0 +1,3 @@
+recorded_at,model,div,season,home,away,date,market,pick,price,p_model,kural_model,kural_sharp,kural_both,p_sharp,edge_model,edge_keskin,fthg,ftag,close_h,close_d,close_a,close_o25,close_u25,won,p_close,clv,profit
+2026-09-30 13:13,"dc-v3 (birleşik + yeni gelen + motivasyon + xG 0.25, ridge 4/16)",EC,2026,Eastleigh,Southend,2026-09-30,1X2,1,4.1,0.2524961331699312,True,False,False,,0.035234145996717814,,,,,,,,,,,,
+2026-09-30 13:13,"dc-v3 (birleşik + yeni gelen + motivasyon + xG 0.25, ridge 4/16)",EC,2026,Tamworth,Sutton,2026-09-30,OU2.5,Üst,1.7,0.5923988839961186,False,True,False,0.6059111076589743,0.007078102793401708,0.030048883020256323,,,,,,,,,,,

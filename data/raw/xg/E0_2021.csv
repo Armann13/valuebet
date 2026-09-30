@@ -1,0 +1,381 @@
+datetime,home,away,hg,ag,hxg,axg
+2020-09-12 11:30:00,Fulham,Arsenal,0,3,0.126327,2.16287
+2020-09-12 14:00:00,Crystal Palace,Southampton,1,0,1.39569,1.26267
+2020-09-12 16:30:00,Liverpool,Leeds,4,3,3.15412,0.269813
+2020-09-12 19:00:00,West Ham,Newcastle United,0,2,0.861445,1.65911
+2020-09-13 13:00:00,West Bromwich Albion,Leicester,0,3,0.352997,2.95581
+2020-09-13 15:30:00,Tottenham,Everton,0,1,0.822944,1.26793
+2020-09-14 17:00:00,Sheffield United,Wolverhampton Wanderers,0,2,0.949316,1.61307
+2020-09-14 19:15:00,Brighton,Chelsea,1,3,1.44281,1.27062
+2020-09-19 11:30:00,Everton,West Bromwich Albion,5,2,4.16254,0.315347
+2020-09-19 14:00:00,Leeds,Fulham,4,3,1.45254,1.55503
+2020-09-19 16:30:00,Manchester United,Crystal Palace,1,3,1.09737,1.91456
+2020-09-19 19:00:00,Arsenal,West Ham,2,1,1.32902,2.06377
+2020-09-20 11:00:00,Southampton,Tottenham,2,5,2.27708,2.28004
+2020-09-20 13:00:00,Newcastle United,Brighton,0,3,0.520678,1.8766
+2020-09-20 15:30:00,Chelsea,Liverpool,0,2,0.904183,2.25211
+2020-09-20 18:00:00,Leicester,Burnley,4,2,0.987365,1.52404
+2020-09-21 17:00:00,Aston Villa,Sheffield United,1,0,0.80527,0.849709
+2020-09-21 19:15:00,Wolverhampton Wanderers,Manchester City,1,3,0.727677,2.07651
+2020-09-26 11:30:00,Brighton,Manchester United,2,3,2.97659,1.57583
+2020-09-26 14:00:00,Crystal Palace,Everton,1,2,0.443115,2.27189
+2020-09-26 16:30:00,West Bromwich Albion,Chelsea,3,3,0.911185,2.36046
+2020-09-26 19:00:00,Burnley,Southampton,0,1,0.347136,0.706632
+2020-09-27 11:00:00,Sheffield United,Leeds,0,1,1.53278,1.46641
+2020-09-27 13:00:00,Tottenham,Newcastle United,1,1,3.18765,0.942726
+2020-09-27 15:30:00,Manchester City,Leicester,2,5,1.44633,2.86721
+2020-09-27 18:00:00,West Ham,Wolverhampton Wanderers,4,0,3.05703,0.385152
+2020-09-28 17:00:00,Fulham,Aston Villa,0,3,0.534675,2.03222
+2020-09-28 19:15:00,Liverpool,Arsenal,3,1,2.73834,1.17817
+2020-10-03 11:30:00,Chelsea,Crystal Palace,4,0,2.51433,0.103249
+2020-10-03 14:00:00,Everton,Brighton,4,2,2.34034,1.16568
+2020-10-03 16:30:00,Leeds,Manchester City,1,1,2.56662,1.41533
+2020-10-03 19:00:00,Newcastle United,Burnley,3,1,1.95629,0.438849
+2020-10-04 11:00:00,Leicester,West Ham,0,3,0.456022,2.03227
+2020-10-04 11:00:00,Southampton,West Bromwich Albion,2,0,0.949079,0.161283
+2020-10-04 13:00:00,Arsenal,Sheffield United,2,1,0.667131,0.144994
+2020-10-04 13:00:00,Wolverhampton Wanderers,Fulham,1,0,0.89359,0.969393
+2020-10-04 15:30:00,Manchester United,Tottenham,1,6,0.873435,3.3017
+2020-10-04 18:15:00,Aston Villa,Liverpool,7,2,3.07626,1.65705
+2020-10-17 11:30:00,Everton,Liverpool,2,2,1.35998,2.49492
+2020-10-17 14:00:00,Chelsea,Southampton,3,3,1.98708,1.42348
+2020-10-17 16:30:00,Manchester City,Arsenal,1,0,1.43023,0.838322
+2020-10-17 19:00:00,Newcastle United,Manchester United,1,4,0.867496,2.21729
+2020-10-18 11:00:00,Sheffield United,Fulham,1,1,1.66363,1.35611
+2020-10-18 13:00:00,Crystal Palace,Brighton,1,1,0.761169,1.0935
+2020-10-18 15:30:00,Tottenham,West Ham,3,3,1.77602,1.49992
+2020-10-18 18:15:00,Leicester,Aston Villa,0,1,0.671595,0.873776
+2020-10-19 16:30:00,West Bromwich Albion,Burnley,0,0,0.731692,1.08532
+2020-10-19 19:00:00,Leeds,Wolverhampton Wanderers,0,1,1.08332,0.618191
+2020-10-23 19:00:00,Aston Villa,Leeds,0,3,1.50125,2.37695
+2020-10-24 11:30:00,West Ham,Manchester City,1,1,0.263739,0.892456
+2020-10-24 14:00:00,Fulham,Crystal Palace,1,2,1.05258,2.81049
+2020-10-24 16:30:00,Manchester United,Chelsea,0,0,0.648427,0.219906
+2020-10-24 19:00:00,Liverpool,Sheffield United,2,1,2.40286,1.39788
+2020-10-25 14:00:00,Southampton,Everton,2,0,0.74151,0.287054
+2020-10-25 16:30:00,Wolverhampton Wanderers,Newcastle United,1,1,0.758626,0.253685
+2020-10-25 19:15:00,Arsenal,Leicester,0,1,0.73944,0.736172
+2020-10-26 17:30:00,Brighton,West Bromwich Albion,1,1,0.546807,0.295654
+2020-10-26 20:00:00,Burnley,Tottenham,0,1,0.95045,0.797344
+2020-10-30 20:00:00,Wolverhampton Wanderers,Crystal Palace,2,0,1.34895,0.802767
+2020-10-31 12:30:00,Sheffield United,Manchester City,0,1,0.687544,1.89643
+2020-10-31 15:00:00,Burnley,Chelsea,0,3,0.407341,1.23077
+2020-10-31 17:30:00,Liverpool,West Ham,2,1,1.56302,0.269048
+2020-11-01 12:00:00,Aston Villa,Southampton,3,4,2.44855,1.00333
+2020-11-01 14:00:00,Newcastle United,Everton,2,1,2.6311,1.21805
+2020-11-01 16:30:00,Manchester United,Arsenal,0,1,0.394113,0.998072
+2020-11-01 19:15:00,Tottenham,Brighton,2,1,1.97236,0.324457
+2020-11-02 17:30:00,Fulham,West Bromwich Albion,2,0,1.62247,0.482685
+2020-11-02 20:00:00,Leeds,Leicester,1,4,1.74822,3.07657
+2020-11-06 17:30:00,Brighton,Burnley,0,0,1.59022,0.326933
+2020-11-06 20:00:00,Southampton,Newcastle United,2,0,0.985828,0.175633
+2020-11-07 12:30:00,Everton,Manchester United,1,3,0.376464,1.59642
+2020-11-07 15:00:00,Crystal Palace,Leeds,4,1,1.30169,0.847913
+2020-11-07 17:30:00,Chelsea,Sheffield United,4,1,2.87622,0.743967
+2020-11-07 20:00:00,West Ham,Fulham,1,0,1.42614,1.84922
+2020-11-08 12:00:00,West Bromwich Albion,Tottenham,0,1,0.799352,1.87063
+2020-11-08 14:00:00,Leicester,Wolverhampton Wanderers,1,0,2.0545,0.57936
+2020-11-08 16:30:00,Manchester City,Liverpool,1,1,1.58487,1.18789
+2020-11-08 19:15:00,Arsenal,Aston Villa,0,3,1.39037,1.98553
+2020-11-21 12:30:00,Newcastle United,Chelsea,0,2,0.368286,1.81923
+2020-11-21 15:00:00,Aston Villa,Brighton,1,2,1.76514,1.50038
+2020-11-21 17:30:00,Tottenham,Manchester City,2,0,0.761142,1.66325
+2020-11-21 20:00:00,Manchester United,West Bromwich Albion,1,0,2.42994,0.438646
+2020-11-22 12:00:00,Fulham,Everton,2,3,1.87028,2.2508
+2020-11-22 14:00:00,Sheffield United,West Ham,0,1,0.692374,2.1142
+2020-11-22 16:30:00,Leeds,Arsenal,0,0,1.9617,0.710778
+2020-11-22 19:15:00,Liverpool,Leicester,3,0,3.77245,1.98397
+2020-11-23 17:30:00,Burnley,Crystal Palace,1,0,1.75343,1.28331
+2020-11-23 20:00:00,Wolverhampton Wanderers,Southampton,1,1,1.57479,1.0785
+2020-11-27 20:00:00,Crystal Palace,Newcastle United,0,2,0.534893,1.27929
+2020-11-28 12:30:00,Brighton,Liverpool,1,1,2.30722,0.28109
+2020-11-28 15:00:00,Manchester City,Burnley,5,0,2.26129,0.419877
+2020-11-28 17:30:00,Everton,Leeds,0,1,1.29229,3.11324
+2020-11-28 20:00:00,West Bromwich Albion,Sheffield United,1,0,1.71644,3.36544
+2020-11-29 14:00:00,Southampton,Manchester United,2,3,0.498783,2.47547
+2020-11-29 16:30:00,Chelsea,Tottenham,0,0,0.974755,0.22689
+2020-11-29 19:15:00,Arsenal,Wolverhampton Wanderers,1,2,1.1185,2.0069
+2020-11-30 17:30:00,Leicester,Fulham,1,2,1.27814,2.03719
+2020-11-30 20:00:00,West Ham,Aston Villa,2,1,0.571633,2.39051
+2020-12-05 12:30:00,Burnley,Everton,1,1,0.730434,2.28139
+2020-12-05 15:00:00,Manchester City,Fulham,2,0,3.26328,0.287444
+2020-12-05 17:30:00,West Ham,Manchester United,1,3,2.53006,1.78708
+2020-12-05 20:00:00,Chelsea,Leeds,3,1,4.89472,1.0277
+2020-12-06 12:00:00,West Bromwich Albion,Crystal Palace,1,5,0.567234,1.68656
+2020-12-06 14:15:00,Sheffield United,Leicester,1,2,0.290743,1.3904
+2020-12-06 16:30:00,Tottenham,Arsenal,2,0,0.390629,0.595216
+2020-12-06 19:15:00,Liverpool,Wolverhampton Wanderers,4,0,1.59454,0.357753
+2020-12-07 20:00:00,Brighton,Southampton,1,2,2.03376,1.34801
+2020-12-11 20:00:00,Leeds,West Ham,1,2,1.56644,1.7851
+2020-12-12 12:30:00,Wolverhampton Wanderers,Aston Villa,0,1,1.1356,1.26872
+2020-12-12 15:00:00,Newcastle United,West Bromwich Albion,2,1,0.904163,0.57319
+2020-12-12 17:30:00,Manchester United,Manchester City,0,0,0.591617,1.28434
+2020-12-12 20:00:00,Everton,Chelsea,1,0,1.2216,1.00627
+2020-12-13 12:00:00,Southampton,Sheffield United,3,0,2.27973,0.219115
+2020-12-13 14:15:00,Crystal Palace,Tottenham,1,1,1.84443,1.40792
+2020-12-13 16:30:00,Fulham,Liverpool,1,1,1.72509,1.82445
+2020-12-13 19:15:00,Leicester,Brighton,3,0,1.64351,0.791673
+2020-12-13 19:15:00,Arsenal,Burnley,0,1,1.85362,0.815375
+2020-12-15 18:00:00,Wolverhampton Wanderers,Chelsea,2,1,0.683783,1.56772
+2020-12-15 20:00:00,Manchester City,West Bromwich Albion,1,1,2.58593,0.210243
+2020-12-16 18:00:00,Arsenal,Southampton,1,1,0.661135,1.11296
+2020-12-16 18:00:00,Leeds,Newcastle United,5,2,2.95137,1.44437
+2020-12-16 18:00:00,Leicester,Everton,0,2,0.83883,1.51486
+2020-12-16 20:00:00,Fulham,Brighton,0,0,1.00448,0.462456
+2020-12-16 20:00:00,West Ham,Crystal Palace,1,1,0.449469,1.09108
+2020-12-16 20:00:00,Liverpool,Tottenham,2,1,1.21783,1.5161
+2020-12-17 18:00:00,Aston Villa,Burnley,0,0,1.81142,0.316737
+2020-12-17 20:00:00,Sheffield United,Manchester United,2,3,1.23525,1.78667
+2020-12-19 12:30:00,Crystal Palace,Liverpool,0,7,0.489318,2.86902
+2020-12-19 15:00:00,Southampton,Manchester City,0,1,0.586972,1.15599
+2020-12-19 17:30:00,Everton,Arsenal,2,1,0.661744,1.25206
+2020-12-19 20:00:00,Newcastle United,Fulham,1,1,1.26725,1.10645
+2020-12-20 12:00:00,Brighton,Sheffield United,1,1,2.90097,1.03713
+2020-12-20 14:15:00,Tottenham,Leicester,0,2,0.945932,1.74772
+2020-12-20 16:30:00,Manchester United,Leeds,6,2,4.77743,1.63467
+2020-12-20 19:15:00,West Bromwich Albion,Aston Villa,0,3,0.0388442,2.61964
+2020-12-21 17:30:00,Burnley,Wolverhampton Wanderers,2,1,1.20465,1.45722
+2020-12-21 20:00:00,Chelsea,West Ham,3,0,2.41157,0.277737
+2020-12-26 12:30:00,Leicester,Manchester United,2,2,1.0396,2.08423
+2020-12-26 15:00:00,Aston Villa,Crystal Palace,3,0,4.58214,0.849086
+2020-12-26 15:00:00,Fulham,Southampton,0,0,0.781855,0.119709
+2020-12-26 17:30:00,Arsenal,Chelsea,3,1,1.94485,2.25414
+2020-12-26 20:00:00,Manchester City,Newcastle United,2,0,3.19575,0.200953
+2020-12-26 20:00:00,Sheffield United,Everton,0,1,1.25106,0.568803
+2020-12-27 12:00:00,Leeds,Burnley,1,0,2.13271,1.54591
+2020-12-27 14:15:00,West Ham,Brighton,2,2,1.38877,1.50551
+2020-12-27 16:30:00,Liverpool,West Bromwich Albion,1,1,1.45485,0.739845
+2020-12-27 19:15:00,Wolverhampton Wanderers,Tottenham,1,1,0.742598,0.408109
+2020-12-28 15:00:00,Crystal Palace,Leicester,1,1,0.321348,1.72132
+2020-12-28 17:30:00,Chelsea,Aston Villa,1,1,1.53701,0.730859
+2020-12-29 18:00:00,Brighton,Arsenal,0,1,0.799368,1.31394
+2020-12-29 18:00:00,Burnley,Sheffield United,1,0,0.973831,0.492578
+2020-12-29 18:00:00,Southampton,West Ham,0,0,0.670996,1.07246
+2020-12-29 18:00:00,West Bromwich Albion,Leeds,0,5,0.43551,1.54225
+2020-12-29 20:00:00,Manchester United,Wolverhampton Wanderers,1,0,1.48207,0.411046
+2020-12-30 20:00:00,Newcastle United,Liverpool,0,0,0.817935,1.32047
+2021-01-01 17:30:00,Everton,West Ham,0,1,0.371045,1.19713
+2021-01-01 20:00:00,Manchester United,Aston Villa,2,1,2.46473,1.56434
+2021-01-02 12:30:00,Tottenham,Leeds,3,0,2.5286,1.15626
+2021-01-02 15:00:00,Crystal Palace,Sheffield United,2,0,0.598888,0.323158
+2021-01-02 17:30:00,Brighton,Wolverhampton Wanderers,3,3,2.4228,1.81856
+2021-01-02 20:00:00,West Bromwich Albion,Arsenal,0,4,0.869874,4.03429
+2021-01-03 14:15:00,Newcastle United,Leicester,1,2,0.264584,0.702081
+2021-01-03 16:30:00,Chelsea,Manchester City,1,3,0.691013,3.18063
+2021-01-04 20:00:00,Southampton,Liverpool,1,0,0.500436,1.37204
+2021-01-12 18:00:00,Sheffield United,Newcastle United,1,0,2.01315,1.04745
+2021-01-12 20:15:00,Wolverhampton Wanderers,Everton,1,2,0.852495,0.323445
+2021-01-12 22:15:00,Burnley,Manchester United,0,1,0.648582,1.23996
+2021-01-13 18:00:00,Manchester City,Brighton,1,0,2.90855,0.177084
+2021-01-13 20:00:00,Tottenham,Fulham,1,1,3.14372,1.05329
+2021-01-14 20:00:00,Arsenal,Crystal Palace,0,0,0.368554,0.709634
+2021-01-16 12:30:00,Wolverhampton Wanderers,West Bromwich Albion,2,3,1.94358,2.46332
+2021-01-16 15:00:00,Leeds,Brighton,0,1,0.245193,1.14424
+2021-01-16 15:00:00,West Ham,Burnley,1,0,1.73397,0.395668
+2021-01-16 17:30:00,Fulham,Chelsea,0,1,0.46126,1.37939
+2021-01-16 20:00:00,Leicester,Southampton,2,0,2.12019,0.378147
+2021-01-17 14:00:00,Sheffield United,Tottenham,1,3,0.978133,1.28385
+2021-01-17 16:30:00,Liverpool,Manchester United,0,0,1.20205,1.18929
+2021-01-17 19:15:00,Manchester City,Crystal Palace,4,0,0.961088,0.0515836
+2021-01-18 20:00:00,Arsenal,Newcastle United,3,0,2.30744,0.168796
+2021-01-19 18:00:00,West Ham,West Bromwich Albion,2,1,2.17512,0.464091
+2021-01-19 20:15:00,Leicester,Chelsea,2,0,1.1449,0.615727
+2021-01-20 20:00:00,Manchester City,Aston Villa,2,0,3.34385,0.601768
+2021-01-20 20:15:00,Fulham,Manchester United,1,2,0.753669,1.68401
+2021-01-21 20:00:00,Liverpool,Burnley,0,1,1.64907,1.08059
+2021-01-23 20:00:00,Aston Villa,Newcastle United,2,0,2.6026,0.400364
+2021-01-26 18:00:00,Newcastle United,Leeds,1,2,1.1364,0.785914
+2021-01-26 18:00:00,Crystal Palace,West Ham,2,3,0.629033,3.30321
+2021-01-26 20:15:00,West Bromwich Albion,Manchester City,0,5,0.568258,2.24838
+2021-01-26 20:15:00,Southampton,Arsenal,1,3,0.99504,2.4339
+2021-01-27 18:00:00,Burnley,Aston Villa,3,2,0.717681,2.70718
+2021-01-27 18:00:00,Chelsea,Wolverhampton Wanderers,0,0,0.663324,0.63192
+2021-01-27 19:30:00,Brighton,Fulham,0,0,2.29129,0.513226
+2021-01-27 20:15:00,Everton,Leicester,1,1,0.474981,0.792045
+2021-01-27 20:15:00,Manchester United,Sheffield United,1,2,0.9931,0.689548
+2021-01-28 20:00:00,Tottenham,Liverpool,1,3,0.104586,2.58798
+2021-01-30 12:30:00,Everton,Newcastle United,0,2,0.966012,2.08832
+2021-01-30 15:00:00,Crystal Palace,Wolverhampton Wanderers,1,0,1.36877,0.450907
+2021-01-30 15:00:00,West Bromwich Albion,Fulham,2,2,0.994664,1.52044
+2021-01-30 15:00:00,Manchester City,Sheffield United,1,0,1.53116,0.154537
+2021-01-30 17:30:00,Arsenal,Manchester United,0,0,0.747166,1.51332
+2021-01-30 20:00:00,Southampton,Aston Villa,0,1,2.22557,0.795508
+2021-01-31 12:00:00,Chelsea,Burnley,2,0,1.4405,0.390714
+2021-01-31 14:00:00,Leicester,Leeds,1,3,1.73432,1.8141
+2021-01-31 16:30:00,West Ham,Liverpool,1,3,0.883061,2.05809
+2021-01-31 19:15:00,Brighton,Tottenham,1,0,1.77386,0.372524
+2021-02-02 18:00:00,Sheffield United,West Bromwich Albion,2,1,1.35804,1.61871
+2021-02-02 18:00:00,Wolverhampton Wanderers,Arsenal,2,1,1.56162,0.716265
+2021-02-02 20:15:00,Manchester United,Southampton,9,0,5.0325,0.507893
+2021-02-02 20:15:00,Newcastle United,Crystal Palace,1,2,1.90755,0.809312
+2021-02-03 18:00:00,Burnley,Manchester City,0,2,0.0489155,2.12153
+2021-02-03 18:00:00,Fulham,Leicester,0,2,0.731288,1.71299
+2021-02-03 19:30:00,Leeds,Everton,1,2,1.14303,1.91539
+2021-02-03 20:15:00,Aston Villa,West Ham,1,3,0.741154,1.79064
+2021-02-03 20:15:00,Liverpool,Brighton,0,1,1.09518,1.18977
+2021-02-04 20:00:00,Tottenham,Chelsea,0,1,0.569446,2.393
+2021-02-06 12:30:00,Aston Villa,Arsenal,1,0,1.19792,0.679649
+2021-02-06 15:00:00,Burnley,Brighton,1,1,1.88934,0.612682
+2021-02-06 15:00:00,Newcastle United,Southampton,3,2,0.910553,1.43445
+2021-02-06 17:30:00,Fulham,West Ham,0,0,1.60884,0.943539
+2021-02-06 20:00:00,Manchester United,Everton,3,3,1.71769,1.5571
+2021-02-07 12:00:00,Tottenham,West Bromwich Albion,2,0,1.92997,0.698686
+2021-02-07 14:00:00,Wolverhampton Wanderers,Leicester,0,0,1.35506,0.632232
+2021-02-07 16:30:00,Liverpool,Manchester City,1,4,1.17728,3.55196
+2021-02-07 19:15:00,Sheffield United,Chelsea,1,2,0.623045,1.64144
+2021-02-08 20:00:00,Leeds,Crystal Palace,2,0,2.64769,0.370278
+2021-02-13 12:30:00,Leicester,Liverpool,3,1,2.07383,1.68325
+2021-02-13 15:00:00,Crystal Palace,Burnley,0,3,0.645616,1.95502
+2021-02-13 17:30:00,Manchester City,Tottenham,3,0,2.46219,0.4235
+2021-02-13 20:00:00,Brighton,Aston Villa,0,0,2.33232,0.144036
+2021-02-14 12:00:00,Southampton,Wolverhampton Wanderers,1,2,0.8536,1.09361
+2021-02-14 14:00:00,West Bromwich Albion,Manchester United,1,1,0.945964,0.423885
+2021-02-14 16:30:00,Arsenal,Leeds,4,2,2.50614,0.77074
+2021-02-14 19:00:00,Everton,Fulham,0,2,0.314075,2.55085
+2021-02-15 18:00:00,West Ham,Sheffield United,3,0,2.32735,0.926652
+2021-02-15 20:00:00,Chelsea,Newcastle United,2,0,2.5428,0.432603
+2021-02-17 18:00:00,Burnley,Fulham,1,1,1.20642,0.594471
+2021-02-17 20:15:00,Everton,Manchester City,1,3,1.04664,1.23218
+2021-02-19 20:00:00,Wolverhampton Wanderers,Leeds,1,0,0.592049,2.4793
+2021-02-20 12:30:00,Southampton,Chelsea,1,1,0.496603,1.44849
+2021-02-20 15:00:00,Burnley,West Bromwich Albion,0,0,0.535153,1.71922
+2021-02-20 17:30:00,Liverpool,Everton,0,2,1.54046,2.01468
+2021-02-20 20:00:00,Fulham,Sheffield United,1,0,1.21006,0.977747
+2021-02-21 12:00:00,West Ham,Tottenham,2,1,1.09246,0.770706
+2021-02-21 14:00:00,Aston Villa,Leicester,1,2,1.7084,1.23852
+2021-02-21 16:30:00,Arsenal,Manchester City,0,1,0.331188,2.08868
+2021-02-21 19:00:00,Manchester United,Newcastle United,3,1,1.7256,0.341778
+2021-02-22 20:00:00,Brighton,Crystal Palace,1,2,2.59204,0.179886
+2021-02-23 20:00:00,Leeds,Southampton,3,0,1.84753,1.47981
+2021-02-27 12:30:00,Manchester City,West Ham,2,1,0.760574,1.92892
+2021-02-27 15:00:00,West Bromwich Albion,Brighton,1,0,0.687091,3.12111
+2021-02-27 17:30:00,Leeds,Aston Villa,0,1,1.00106,0.876255
+2021-02-27 20:00:00,Newcastle United,Wolverhampton Wanderers,1,1,1.9519,1.27827
+2021-02-28 12:00:00,Crystal Palace,Fulham,0,0,0.0880148,0.813134
+2021-02-28 12:00:00,Leicester,Arsenal,1,3,0.533575,2.1065
+2021-02-28 14:00:00,Tottenham,Burnley,4,0,2.35788,0.603212
+2021-02-28 16:30:00,Chelsea,Manchester United,0,0,1.17294,0.35954
+2021-02-28 19:15:00,Sheffield United,Liverpool,0,2,0.777149,2.80551
+2021-03-01 20:00:00,Everton,Southampton,1,0,1.42054,0.665743
+2021-03-02 20:00:00,Manchester City,Wolverhampton Wanderers,4,1,3.26196,0.318824
+2021-03-03 18:00:00,Burnley,Leicester,1,1,1.26793,1.24109
+2021-03-03 18:00:00,Sheffield United,Aston Villa,1,0,0.716254,1.44176
+2021-03-03 20:15:00,Crystal Palace,Manchester United,0,0,0.742397,0.584016
+2021-03-04 18:00:00,West Bromwich Albion,Everton,0,1,1.02038,1.40789
+2021-03-04 18:00:00,Fulham,Tottenham,0,1,1.1715,1.5519
+2021-03-04 20:15:00,Liverpool,Chelsea,0,1,0.247034,1.22635
+2021-03-06 12:30:00,Burnley,Arsenal,1,1,1.10374,2.53692
+2021-03-06 15:00:00,Sheffield United,Southampton,0,2,0.908155,2.37386
+2021-03-06 17:30:00,Aston Villa,Wolverhampton Wanderers,0,0,0.956392,2.15087
+2021-03-06 20:00:00,Brighton,Leicester,1,2,0.75471,1.03801
+2021-03-07 12:00:00,West Bromwich Albion,Newcastle United,0,0,1.46503,0.454577
+2021-03-07 14:00:00,Liverpool,Fulham,0,1,0.701764,1.37047
+2021-03-07 16:30:00,Manchester City,Manchester United,0,2,1.27561,2.11411
+2021-03-07 19:15:00,Tottenham,Crystal Palace,4,1,2.24159,0.559383
+2021-03-08 18:00:00,Chelsea,Everton,2,0,2.57224,0.270757
+2021-03-08 20:00:00,West Ham,Leeds,2,0,2.37556,1.34971
+2021-03-10 18:00:00,Manchester City,Southampton,5,2,3.10503,1.60561
+2021-03-12 20:00:00,Newcastle United,Aston Villa,1,1,0.873171,0.748665
+2021-03-13 12:30:00,Leeds,Chelsea,0,0,0.382957,0.971054
+2021-03-13 15:00:00,Crystal Palace,West Bromwich Albion,1,0,1.30694,0.513439
+2021-03-13 17:30:00,Everton,Burnley,1,2,1.69849,0.74852
+2021-03-13 20:00:00,Fulham,Manchester City,0,3,0.449499,2.72578
+2021-03-14 12:00:00,Southampton,Brighton,1,2,1.03495,0.895967
+2021-03-14 14:00:00,Leicester,Sheffield United,5,0,4.54571,0.0934777
+2021-03-14 16:30:00,Arsenal,Tottenham,2,1,1.56529,0.705566
+2021-03-14 19:15:00,Manchester United,West Ham,1,0,1.70128,0.463737
+2021-03-15 20:00:00,Wolverhampton Wanderers,Liverpool,0,1,1.29175,1.0552
+2021-03-19 20:00:00,Fulham,Leeds,1,2,1.47498,1.40706
+2021-03-20 20:00:00,Brighton,Newcastle United,3,0,0.951921,0.100945
+2021-03-21 15:00:00,West Ham,Arsenal,3,3,2.50629,1.35217
+2021-03-21 19:30:00,Aston Villa,Tottenham,0,2,0.439681,1.72011
+2021-04-03 11:30:00,Chelsea,West Bromwich Albion,2,5,2.55917,1.38315
+2021-04-03 14:00:00,Leeds,Sheffield United,2,1,2.50597,0.867652
+2021-04-03 16:30:00,Leicester,Manchester City,0,2,0.284781,1.98438
+2021-04-03 19:00:00,Arsenal,Liverpool,0,3,0.161161,2.43732
+2021-04-04 11:00:00,Southampton,Burnley,3,2,2.40272,1.50285
+2021-04-04 13:05:00,Newcastle United,Tottenham,2,2,3.30098,2.43683
+2021-04-04 15:30:00,Aston Villa,Fulham,3,1,1.52229,1.52172
+2021-04-04 18:30:00,Manchester United,Brighton,2,1,1.73474,1.41071
+2021-04-05 17:00:00,Everton,Crystal Palace,1,1,2.53386,0.603749
+2021-04-05 19:15:00,Wolverhampton Wanderers,West Ham,2,3,1.95649,1.59694
+2021-04-09 19:00:00,Fulham,Wolverhampton Wanderers,0,1,0.733154,0.428134
+2021-04-10 11:30:00,Manchester City,Leeds,1,2,1.98825,0.17525
+2021-04-10 14:00:00,Liverpool,Aston Villa,2,1,2.14592,0.760621
+2021-04-10 16:30:00,Crystal Palace,Chelsea,1,4,0.602167,3.85472
+2021-04-11 11:00:00,Burnley,Newcastle United,1,2,1.84262,1.34279
+2021-04-11 13:05:00,West Ham,Leicester,3,2,1.02408,1.17188
+2021-04-11 15:30:00,Tottenham,Manchester United,1,3,0.921801,2.09737
+2021-04-11 18:00:00,Sheffield United,Arsenal,0,3,0.315121,1.93838
+2021-04-12 17:00:00,West Bromwich Albion,Southampton,3,0,2.77089,1.5002
+2021-04-12 19:15:00,Brighton,Everton,0,0,1.16465,0.306287
+2021-04-16 19:00:00,Everton,Tottenham,2,2,2.26022,1.4815
+2021-04-17 11:30:00,Newcastle United,West Ham,3,2,2.4314,2.06741
+2021-04-17 19:15:00,Wolverhampton Wanderers,Sheffield United,1,0,1.22604,0.295925
+2021-04-18 12:30:00,Arsenal,Fulham,1,1,2.85573,0.839128
+2021-04-18 15:00:00,Manchester United,Burnley,3,1,2.87455,0.959804
+2021-04-19 19:00:00,Leeds,Liverpool,1,1,2.59719,1.60043
+2021-04-20 19:00:00,Chelsea,Brighton,0,0,0.807348,0.459568
+2021-04-21 19:00:00,Tottenham,Southampton,2,1,1.28824,1.06134
+2021-04-21 19:15:00,Aston Villa,Manchester City,1,2,0.801733,1.5634
+2021-04-22 19:00:00,Leicester,West Bromwich Albion,3,0,2.6712,0.277126
+2021-04-23 19:00:00,Arsenal,Everton,0,1,0.735767,0.529676
+2021-04-24 11:30:00,Liverpool,Newcastle United,1,1,2.84708,0.860694
+2021-04-24 16:30:00,West Ham,Chelsea,0,1,0.267123,2.52059
+2021-04-24 19:00:00,Sheffield United,Brighton,1,0,0.786324,2.06038
+2021-04-25 11:00:00,Wolverhampton Wanderers,Burnley,0,4,0.351673,2.24049
+2021-04-25 13:00:00,Leeds,Manchester United,0,0,0.216834,1.11635
+2021-04-25 18:00:00,Aston Villa,West Bromwich Albion,2,2,2.65394,1.56764
+2021-04-26 19:00:00,Leicester,Crystal Palace,2,1,1.23419,0.723112
+2021-04-30 19:00:00,Southampton,Leicester,1,1,0.954057,2.51518
+2021-05-01 11:30:00,Crystal Palace,Manchester City,0,2,0.361866,2.04443
+2021-05-01 14:00:00,Brighton,Leeds,2,0,2.52542,0.510874
+2021-05-01 16:30:00,Chelsea,Fulham,2,0,1.8433,0.290042
+2021-05-01 19:00:00,Everton,Aston Villa,1,2,1.223,1.58811
+2021-05-02 13:00:00,Newcastle United,Arsenal,0,2,0.172988,1.78751
+2021-05-02 18:15:00,Tottenham,Sheffield United,4,0,2.26016,0.469026
+2021-05-03 17:00:00,West Bromwich Albion,Wolverhampton Wanderers,1,1,1.07133,0.844138
+2021-05-03 19:15:00,Burnley,West Ham,1,2,1.68312,2.42477
+2021-05-07 19:00:00,Leicester,Newcastle United,2,4,2.315,2.87261
+2021-05-08 11:30:00,Leeds,Tottenham,3,1,2.55216,1.03384
+2021-05-08 14:00:00,Sheffield United,Crystal Palace,0,2,0.639325,2.25382
+2021-05-08 16:30:00,Manchester City,Chelsea,1,2,1.79168,0.619724
+2021-05-08 19:15:00,Liverpool,Southampton,2,0,2.26367,1.2289
+2021-05-09 11:00:00,Wolverhampton Wanderers,Brighton,2,1,1.1199,0.27571
+2021-05-09 13:05:00,Aston Villa,Manchester United,1,3,0.565472,1.88793
+2021-05-09 15:30:00,West Ham,Everton,0,1,1.09704,1.56222
+2021-05-09 18:00:00,Arsenal,West Bromwich Albion,3,1,1.07042,1.83076
+2021-05-10 19:00:00,Fulham,Burnley,0,2,0.778074,1.65831
+2021-05-11 17:00:00,Manchester United,Leicester,1,2,0.212874,0.991522
+2021-05-11 21:00:00,Southampton,Crystal Palace,3,1,1.58872,1.32586
+2021-05-12 19:15:00,Chelsea,Arsenal,0,1,1.56786,0.692043
+2021-05-13 19:15:00,Manchester United,Liverpool,2,4,1.71328,2.938
+2021-05-13 21:00:00,Aston Villa,Everton,0,0,0.558976,0.975408
+2021-05-14 19:00:00,Newcastle United,Manchester City,3,4,2.18312,1.477
+2021-05-15 11:30:00,Burnley,Leeds,0,4,1.41338,1.85654
+2021-05-15 14:00:00,Southampton,Fulham,3,1,2.29146,0.875957
+2021-05-15 19:00:00,Brighton,West Ham,1,1,0.922587,1.92378
+2021-05-16 11:00:00,Crystal Palace,Aston Villa,3,2,1.95285,1.2303
+2021-05-16 13:05:00,Tottenham,Wolverhampton Wanderers,2,0,3.13947,1.09206
+2021-05-16 15:30:00,West Bromwich Albion,Liverpool,1,2,1.14202,2.07854
+2021-05-16 18:00:00,Everton,Sheffield United,0,1,1.24609,1.391
+2021-05-18 17:00:00,Manchester United,Fulham,1,1,0.92243,0.872643
+2021-05-18 17:00:00,Southampton,Leeds,0,2,1.3084,1.58132
+2021-05-18 18:00:00,Brighton,Manchester City,3,2,1.22824,1.07139
+2021-05-18 19:15:00,Chelsea,Leicester,2,1,2.86149,0.832596
+2021-05-19 17:00:00,Everton,Wolverhampton Wanderers,1,0,0.670997,0.265526
+2021-05-19 17:00:00,Newcastle United,Sheffield United,1,0,1.82508,0.882242
+2021-05-19 17:00:00,Tottenham,Aston Villa,1,2,0.89279,1.63669
+2021-05-19 18:00:00,Crystal Palace,Arsenal,1,3,0.998377,1.7945
+2021-05-19 19:15:00,Burnley,Liverpool,0,3,0.837048,2.73316
+2021-05-19 19:15:00,West Bromwich Albion,West Ham,1,3,1.10741,3.56991
+2021-05-23 15:00:00,Arsenal,Brighton,2,0,0.772904,0.193968
+2021-05-23 15:00:00,Aston Villa,Chelsea,2,1,0.980413,3.43414
+2021-05-23 15:00:00,Fulham,Newcastle United,0,2,0.98902,1.60157
+2021-05-23 15:00:00,Leeds,West Bromwich Albion,3,1,2.49009,1.02209
+2021-05-23 15:00:00,Leicester,Tottenham,2,4,1.82554,1.85229
+2021-05-23 15:00:00,Liverpool,Crystal Palace,2,0,2.20348,0.772317
+2021-05-23 15:00:00,Manchester City,Everton,5,0,2.88355,1.07258
+2021-05-23 15:00:00,Sheffield United,Burnley,1,0,0.420006,0.558508
+2021-05-23 15:00:00,West Ham,Southampton,3,0,1.98344,1.35179
+2021-05-23 15:00:00,Wolverhampton Wanderers,Manchester United,1,2,0.701256,2.05229

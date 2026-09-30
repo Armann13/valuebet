@@ -1,0 +1,307 @@
+datetime,home,away,hg,ag,hxg,axg
+2020-09-18 18:30:00,Bayern Munich,Schalke 04,8,0,4.62088,0.14975
+2020-09-19 13:30:00,Eintracht Frankfurt,Arminia Bielefeld,1,1,2.46928,0.618787
+2020-09-19 13:30:00,Union Berlin,Augsburg,1,3,1.04515,1.42046
+2020-09-19 13:30:00,FC Cologne,Hoffenheim,2,3,2.40801,2.9032
+2020-09-19 13:30:00,Werder Bremen,Hertha Berlin,1,4,0.495892,2.05406
+2020-09-19 13:30:00,VfB Stuttgart,Freiburg,2,3,2.15741,2.07011
+2020-09-19 16:30:00,Borussia Dortmund,Borussia M.Gladbach,3,0,1.70398,0.510293
+2020-09-20 13:30:00,RasenBallsport Leipzig,Mainz 05,3,1,3.22891,1.07201
+2020-09-20 16:00:00,Wolfsburg,Bayer Leverkusen,0,0,1.27652,0.441229
+2020-09-25 18:30:00,Hertha Berlin,Eintracht Frankfurt,1,3,1.55994,1.62111
+2020-09-26 13:30:00,Mainz 05,VfB Stuttgart,1,4,1.04484,2.9689
+2020-09-26 13:30:00,Augsburg,Borussia Dortmund,2,0,1.44779,1.5267
+2020-09-26 13:30:00,Arminia Bielefeld,FC Cologne,1,0,0.163242,1.3741
+2020-09-26 13:30:00,Borussia M.Gladbach,Union Berlin,1,1,1.47627,0.771461
+2020-09-26 13:30:00,Bayer Leverkusen,RasenBallsport Leipzig,1,1,0.91247,1.20453
+2020-09-26 16:30:00,Schalke 04,Werder Bremen,1,3,1.67597,3.10437
+2020-09-27 13:30:00,Hoffenheim,Bayern Munich,4,1,2.52339,1.17311
+2020-09-27 16:00:00,Freiburg,Wolfsburg,1,1,0.92465,0.413442
+2020-10-02 18:30:00,Union Berlin,Mainz 05,4,0,2.07145,0.189144
+2020-10-03 13:30:00,FC Cologne,Borussia M.Gladbach,1,3,0.244959,2.0629
+2020-10-03 13:30:00,Werder Bremen,Arminia Bielefeld,1,0,0.346071,1.02247
+2020-10-03 13:30:00,VfB Stuttgart,Bayer Leverkusen,1,1,0.799979,1.69772
+2020-10-03 13:30:00,Borussia Dortmund,Freiburg,4,0,2.82762,0.445096
+2020-10-03 13:30:00,Eintracht Frankfurt,Hoffenheim,2,1,3.57344,0.769689
+2020-10-03 16:30:00,RasenBallsport Leipzig,Schalke 04,4,0,3.25836,0.215209
+2020-10-04 13:30:00,Wolfsburg,Augsburg,0,0,1.31989,1.80757
+2020-10-04 16:00:00,Bayern Munich,Hertha Berlin,4,3,3.99311,1.24509
+2020-10-17 13:30:00,Hoffenheim,Borussia Dortmund,0,1,0.877373,1.84829
+2020-10-17 13:30:00,Freiburg,Werder Bremen,1,1,1.05894,1.6646
+2020-10-17 13:30:00,Hertha Berlin,VfB Stuttgart,0,2,1.42805,1.40822
+2020-10-17 13:30:00,Augsburg,RasenBallsport Leipzig,0,2,0.550472,2.39694
+2020-10-17 13:30:00,Mainz 05,Bayer Leverkusen,0,1,0.214962,0.454109
+2020-10-17 16:30:00,Arminia Bielefeld,Bayern Munich,1,4,1.21235,3.29447
+2020-10-17 18:30:00,Borussia M.Gladbach,Wolfsburg,1,1,2.11077,1.34469
+2020-10-18 13:30:00,FC Cologne,Eintracht Frankfurt,1,1,1.41695,1.54892
+2020-10-18 16:00:00,Schalke 04,Union Berlin,1,1,0.250814,0.831403
+2020-10-23 18:30:00,VfB Stuttgart,FC Cologne,1,1,0.722179,2.37516
+2020-10-24 13:30:00,Union Berlin,Freiburg,1,1,1.28488,0.271576
+2020-10-24 13:30:00,Mainz 05,Borussia M.Gladbach,2,3,1.90042,3.07629
+2020-10-24 13:30:00,RasenBallsport Leipzig,Hertha Berlin,2,1,2.68523,0.802136
+2020-10-24 13:30:00,Bayern Munich,Eintracht Frankfurt,5,0,3.80823,0.429229
+2020-10-24 16:30:00,Borussia Dortmund,Schalke 04,3,0,1.48384,0.236172
+2020-10-25 14:30:00,Wolfsburg,Arminia Bielefeld,2,1,2.77748,0.664903
+2020-10-25 17:00:00,Werder Bremen,Hoffenheim,1,1,0.229596,0.870978
+2020-10-26 19:30:00,Bayer Leverkusen,Augsburg,3,1,2.6291,0.342366
+2020-10-30 19:30:00,Schalke 04,VfB Stuttgart,1,1,0.726659,1.56968
+2020-10-31 14:30:00,FC Cologne,Bayern Munich,1,2,0.681548,0.992927
+2020-10-31 14:30:00,Augsburg,Mainz 05,3,1,1.78716,1.01141
+2020-10-31 14:30:00,Arminia Bielefeld,Borussia Dortmund,0,2,0.255813,2.75909
+2020-10-31 14:30:00,Eintracht Frankfurt,Werder Bremen,1,1,2.49235,0.733652
+2020-10-31 17:30:00,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,0.615287,0.695278
+2020-11-01 14:30:00,Freiburg,Bayer Leverkusen,2,4,1.18284,1.34088
+2020-11-01 17:00:00,Hertha Berlin,Wolfsburg,1,1,1.25246,0.397923
+2020-11-02 19:30:00,Hoffenheim,Union Berlin,1,3,1.49329,3.66229
+2020-11-06 19:30:00,Werder Bremen,FC Cologne,1,1,1.35118,0.399372
+2020-11-07 14:30:00,VfB Stuttgart,Eintracht Frankfurt,2,2,2.0858,3.48931
+2020-11-07 14:30:00,RasenBallsport Leipzig,Freiburg,3,0,2.43212,0.577152
+2020-11-07 14:30:00,Union Berlin,Arminia Bielefeld,5,0,2.25166,0.259002
+2020-11-07 14:30:00,Mainz 05,Schalke 04,2,2,3.36371,1.70687
+2020-11-07 14:30:00,Augsburg,Hertha Berlin,0,3,0.350601,2.51682
+2020-11-07 17:30:00,Borussia Dortmund,Bayern Munich,2,3,2.30881,1.33621
+2020-11-08 14:30:00,Wolfsburg,Hoffenheim,2,1,2.65255,2.63695
+2020-11-08 17:00:00,Bayer Leverkusen,Borussia M.Gladbach,4,3,1.53904,3.02085
+2020-11-21 14:30:00,Bayern Munich,Werder Bremen,1,1,1.6736,1.63104
+2020-11-21 14:30:00,Borussia M.Gladbach,Augsburg,1,1,1.70506,0.813971
+2020-11-21 14:30:00,Hoffenheim,VfB Stuttgart,3,3,1.75486,1.45618
+2020-11-21 14:30:00,Schalke 04,Wolfsburg,0,2,1.00376,2.66289
+2020-11-21 14:30:00,Arminia Bielefeld,Bayer Leverkusen,1,2,0.0,1.32693
+2020-11-21 17:30:00,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,0.888746,0.911677
+2020-11-21 19:30:00,Hertha Berlin,Borussia Dortmund,2,5,1.20761,2.83449
+2020-11-22 14:30:00,Freiburg,Mainz 05,1,3,1.47979,3.20461
+2020-11-22 17:00:00,FC Cologne,Union Berlin,1,2,1.08472,1.89238
+2020-11-27 19:30:00,Wolfsburg,Werder Bremen,5,3,1.53686,0.860897
+2020-11-28 14:30:00,Borussia Dortmund,FC Cologne,1,2,2.76041,1.59253
+2020-11-28 14:30:00,RasenBallsport Leipzig,Arminia Bielefeld,2,1,2.84171,1.76313
+2020-11-28 14:30:00,Union Berlin,Eintracht Frankfurt,3,3,1.95856,1.33746
+2020-11-28 14:30:00,Augsburg,Freiburg,1,1,0.385539,0.470106
+2020-11-28 14:30:00,VfB Stuttgart,Bayern Munich,1,3,1.38666,0.889035
+2020-11-28 17:30:00,Borussia M.Gladbach,Schalke 04,4,1,3.15544,0.734533
+2020-11-29 14:30:00,Bayer Leverkusen,Hertha Berlin,0,0,1.04196,0.517533
+2020-11-29 17:00:00,Mainz 05,Hoffenheim,1,1,1.78391,1.1082
+2020-12-04 19:30:00,Hertha Berlin,Union Berlin,3,1,0.768378,0.268079
+2020-12-05 14:30:00,Freiburg,Borussia M.Gladbach,2,2,4.02129,1.66853
+2020-12-05 14:30:00,Eintracht Frankfurt,Borussia Dortmund,1,1,0.847822,1.1385
+2020-12-05 14:30:00,FC Cologne,Wolfsburg,2,2,1.08565,1.90682
+2020-12-05 14:30:00,Arminia Bielefeld,Mainz 05,2,1,1.18485,2.54193
+2020-12-05 17:30:00,Bayern Munich,RasenBallsport Leipzig,3,3,1.00047,1.56492
+2020-12-06 14:30:00,Werder Bremen,VfB Stuttgart,1,2,0.647875,2.13261
+2020-12-06 17:00:00,Schalke 04,Bayer Leverkusen,0,3,1.22701,2.45305
+2020-12-07 19:30:00,Hoffenheim,Augsburg,3,1,1.45954,0.793064
+2020-12-11 19:30:00,Wolfsburg,Eintracht Frankfurt,2,1,2.81209,1.51392
+2020-12-12 14:30:00,Borussia Dortmund,VfB Stuttgart,1,5,0.776004,3.07677
+2020-12-12 14:30:00,RasenBallsport Leipzig,Werder Bremen,2,0,2.40107,0.599394
+2020-12-12 14:30:00,Borussia M.Gladbach,Hertha Berlin,1,1,1.35982,0.36509
+2020-12-12 14:30:00,Freiburg,Arminia Bielefeld,2,0,2.43027,0.238384
+2020-12-12 14:30:00,Mainz 05,FC Cologne,0,1,1.26169,0.838955
+2020-12-12 17:30:00,Union Berlin,Bayern Munich,1,1,1.08682,1.06474
+2020-12-13 14:30:00,Augsburg,Schalke 04,2,2,1.25437,1.90769
+2020-12-13 17:00:00,Bayer Leverkusen,Hoffenheim,4,1,2.12151,1.67451
+2020-12-15 17:30:00,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2.12722,1.14256
+2020-12-15 19:30:00,Hertha Berlin,Mainz 05,0,0,0.490128,0.742962
+2020-12-15 19:30:00,Werder Bremen,Borussia Dortmund,1,2,0.14594,3.37771
+2020-12-15 19:30:00,VfB Stuttgart,Union Berlin,2,2,2.18597,1.01547
+2020-12-16 17:30:00,Schalke 04,Freiburg,0,2,0.376573,1.15776
+2020-12-16 19:30:00,FC Cologne,Bayer Leverkusen,0,4,0.251532,1.93376
+2020-12-16 19:30:00,Arminia Bielefeld,Augsburg,0,1,0.702085,0.370523
+2020-12-16 19:30:00,Bayern Munich,Wolfsburg,2,1,1.26746,1.10816
+2020-12-16 19:30:00,Hoffenheim,RasenBallsport Leipzig,0,1,0.752599,0.476324
+2020-12-18 19:30:00,Union Berlin,Borussia Dortmund,2,1,1.38214,1.1837
+2020-12-19 14:30:00,RasenBallsport Leipzig,FC Cologne,0,0,1.57839,0.205395
+2020-12-19 14:30:00,Borussia M.Gladbach,Hoffenheim,1,2,2.12823,2.28754
+2020-12-19 14:30:00,Schalke 04,Arminia Bielefeld,0,1,0.338524,0.89989
+2020-12-19 14:30:00,Mainz 05,Werder Bremen,0,1,0.388426,1.30319
+2020-12-19 14:30:00,Augsburg,Eintracht Frankfurt,0,2,1.44889,2.37301
+2020-12-19 17:30:00,Bayer Leverkusen,Bayern Munich,1,2,0.307742,1.41401
+2020-12-20 14:30:00,Freiburg,Hertha Berlin,4,1,2.96729,1.03828
+2020-12-20 17:00:00,Wolfsburg,VfB Stuttgart,1,0,1.67526,1.10934
+2021-01-02 14:30:00,Hoffenheim,Freiburg,1,3,1.14476,2.08
+2021-01-02 14:30:00,Eintracht Frankfurt,Bayer Leverkusen,2,1,1.34155,0.752325
+2021-01-02 14:30:00,FC Cologne,Augsburg,0,1,0.454651,1.23997
+2021-01-02 14:30:00,Werder Bremen,Union Berlin,0,2,1.0178,1.30377
+2021-01-02 14:30:00,Arminia Bielefeld,Borussia M.Gladbach,0,1,0.707828,1.88594
+2021-01-02 17:30:00,Hertha Berlin,Schalke 04,3,0,2.06576,0.717925
+2021-01-02 19:30:00,VfB Stuttgart,RasenBallsport Leipzig,0,1,0.891246,2.64018
+2021-01-03 14:30:00,Borussia Dortmund,Wolfsburg,2,0,2.00235,1.21991
+2021-01-03 17:00:00,Bayern Munich,Mainz 05,5,2,4.11014,1.1937
+2021-01-08 19:30:00,Borussia M.Gladbach,Bayern Munich,3,2,0.96923,1.32717
+2021-01-09 14:30:00,Bayer Leverkusen,Werder Bremen,1,1,0.588228,0.481943
+2021-01-09 14:30:00,Freiburg,FC Cologne,5,0,2.91627,0.139728
+2021-01-09 14:30:00,Union Berlin,Wolfsburg,2,2,1.00289,1.89061
+2021-01-09 14:30:00,Schalke 04,Hoffenheim,4,0,2.13307,1.84328
+2021-01-09 14:30:00,Mainz 05,Eintracht Frankfurt,0,2,1.10303,2.44043
+2021-01-09 17:30:00,RasenBallsport Leipzig,Borussia Dortmund,1,3,1.59439,2.57475
+2021-01-10 14:30:00,Augsburg,VfB Stuttgart,1,4,0.97454,4.01214
+2021-01-10 17:00:00,Arminia Bielefeld,Hertha Berlin,1,0,0.623296,0.603143
+2021-01-15 19:30:00,Union Berlin,Bayer Leverkusen,1,0,1.21832,0.794473
+2021-01-16 14:30:00,Borussia Dortmund,Mainz 05,1,1,1.89801,0.536442
+2021-01-16 14:30:00,Hoffenheim,Arminia Bielefeld,0,0,0.655307,0.596397
+2021-01-16 14:30:00,Wolfsburg,RasenBallsport Leipzig,2,2,0.806904,2.41624
+2021-01-16 14:30:00,FC Cologne,Hertha Berlin,0,0,0.336553,0.419961
+2021-01-16 14:30:00,Werder Bremen,Augsburg,2,0,1.20083,0.943511
+2021-01-16 17:30:00,VfB Stuttgart,Borussia M.Gladbach,2,2,1.63795,1.43375
+2021-01-17 14:30:00,Bayern Munich,Freiburg,2,1,3.01697,0.76215
+2021-01-17 17:00:00,Eintracht Frankfurt,Schalke 04,3,1,1.97864,0.135505
+2021-01-19 17:30:00,Borussia M.Gladbach,Werder Bremen,1,0,0.645527,0.813286
+2021-01-19 19:30:00,Bayer Leverkusen,Borussia Dortmund,2,1,1.82076,1.25761
+2021-01-19 19:30:00,Hertha Berlin,Hoffenheim,0,3,1.33502,1.07527
+2021-01-19 19:30:00,Mainz 05,Wolfsburg,0,2,0.372223,0.989418
+2021-01-20 17:30:00,Schalke 04,FC Cologne,1,2,1.14009,1.7479
+2021-01-20 19:30:00,RasenBallsport Leipzig,Union Berlin,1,0,1.34987,0.121799
+2021-01-20 19:30:00,Freiburg,Eintracht Frankfurt,2,2,0.850102,1.45197
+2021-01-20 19:30:00,Augsburg,Bayern Munich,0,1,1.21994,1.98194
+2021-01-20 19:30:00,Arminia Bielefeld,VfB Stuttgart,3,0,1.8577,1.32249
+2021-01-22 19:30:00,Borussia M.Gladbach,Borussia Dortmund,4,2,2.33235,1.93273
+2021-01-23 14:30:00,Bayer Leverkusen,Wolfsburg,0,1,0.572384,1.0586
+2021-01-23 14:30:00,Freiburg,VfB Stuttgart,2,1,1.53443,3.02675
+2021-01-23 14:30:00,Mainz 05,RasenBallsport Leipzig,3,2,1.97152,1.86151
+2021-01-23 14:30:00,Augsburg,Union Berlin,2,1,0.94986,1.62585
+2021-01-23 14:30:00,Arminia Bielefeld,Eintracht Frankfurt,1,5,0.328715,2.56406
+2021-01-23 17:30:00,Hertha Berlin,Werder Bremen,1,4,1.99787,1.39323
+2021-01-24 14:30:00,Schalke 04,Bayern Munich,0,4,0.937959,3.12798
+2021-01-24 17:00:00,Hoffenheim,FC Cologne,3,0,2.66263,2.28505
+2021-01-29 18:30:00,VfB Stuttgart,Mainz 05,2,0,1.02742,0.298779
+2021-01-30 14:30:00,Bayern Munich,Hoffenheim,4,1,1.94572,1.87397
+2021-01-30 14:30:00,Borussia Dortmund,Augsburg,3,1,1.92275,0.305739
+2021-01-30 14:30:00,Eintracht Frankfurt,Hertha Berlin,3,1,1.78331,0.381451
+2021-01-30 14:30:00,Union Berlin,Borussia M.Gladbach,1,1,0.691595,0.580509
+2021-01-30 14:30:00,Werder Bremen,Schalke 04,1,1,0.64374,0.467918
+2021-01-30 17:30:00,RasenBallsport Leipzig,Bayer Leverkusen,1,0,1.68828,0.905761
+2021-01-31 14:30:00,FC Cologne,Arminia Bielefeld,3,1,1.50709,0.949382
+2021-01-31 17:00:00,Wolfsburg,Freiburg,3,0,2.00557,0.684054
+2021-02-05 19:30:00,Hertha Berlin,Bayern Munich,0,1,1.24698,1.8015
+2021-02-06 14:30:00,Bayer Leverkusen,VfB Stuttgart,5,2,4.60657,1.30625
+2021-02-06 14:30:00,Freiburg,Borussia Dortmund,2,1,0.167725,1.28601
+2021-02-06 14:30:00,Schalke 04,RasenBallsport Leipzig,0,3,0.125218,3.10182
+2021-02-06 14:30:00,Mainz 05,Union Berlin,1,0,2.20728,0.937962
+2021-02-06 14:30:00,Augsburg,Wolfsburg,0,2,0.384821,2.19806
+2021-02-06 17:30:00,Borussia M.Gladbach,FC Cologne,1,2,0.42778,0.816611
+2021-02-07 14:30:00,Hoffenheim,Eintracht Frankfurt,1,3,0.637718,1.26357
+2021-02-12 19:30:00,RasenBallsport Leipzig,Augsburg,2,1,2.26243,0.938388
+2021-02-13 14:30:00,Borussia Dortmund,Hoffenheim,2,2,1.19058,2.19249
+2021-02-13 14:30:00,Bayer Leverkusen,Mainz 05,2,2,1.75183,2.27515
+2021-02-13 14:30:00,Werder Bremen,Freiburg,0,0,0.907057,0.375641
+2021-02-13 14:30:00,VfB Stuttgart,Hertha Berlin,1,1,1.3857,0.832358
+2021-02-13 17:30:00,Union Berlin,Schalke 04,0,0,1.9379,0.335784
+2021-02-14 14:30:00,Eintracht Frankfurt,FC Cologne,2,0,2.94491,0.554721
+2021-02-14 17:00:00,Wolfsburg,Borussia M.Gladbach,0,0,0.641105,0.663321
+2021-02-15 19:30:00,Bayern Munich,Arminia Bielefeld,3,3,2.29294,1.71797
+2021-02-19 19:30:00,Arminia Bielefeld,Wolfsburg,0,3,0.319638,1.67634
+2021-02-20 14:30:00,Borussia M.Gladbach,Mainz 05,1,2,0.659888,0.665514
+2021-02-20 14:30:00,Freiburg,Union Berlin,0,1,0.836092,1.49682
+2021-02-20 14:30:00,Eintracht Frankfurt,Bayern Munich,2,1,1.9074,1.5483
+2021-02-20 14:30:00,FC Cologne,VfB Stuttgart,0,1,0.650885,0.606729
+2021-02-20 17:30:00,Schalke 04,Borussia Dortmund,0,4,0.830269,1.85349
+2021-02-21 12:30:00,Augsburg,Bayer Leverkusen,1,1,0.931657,0.397505
+2021-02-21 14:30:00,Hertha Berlin,RasenBallsport Leipzig,0,3,0.859063,1.16338
+2021-02-21 17:00:00,Hoffenheim,Werder Bremen,4,0,2.66057,0.109963
+2021-02-26 19:30:00,Werder Bremen,Eintracht Frankfurt,2,1,1.10682,1.17887
+2021-02-27 14:30:00,Bayern Munich,FC Cologne,5,1,2.40221,0.985369
+2021-02-27 14:30:00,Borussia Dortmund,Arminia Bielefeld,3,0,2.50855,0.636679
+2021-02-27 14:30:00,Wolfsburg,Hertha Berlin,2,0,0.620957,1.18868
+2021-02-27 14:30:00,VfB Stuttgart,Schalke 04,5,1,2.68633,1.64536
+2021-02-27 17:30:00,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,1.89119,1.94164
+2021-02-28 12:30:00,Union Berlin,Hoffenheim,1,1,0.958613,1.53526
+2021-02-28 14:30:00,Mainz 05,Augsburg,0,1,0.454814,1.27616
+2021-02-28 17:00:00,Bayer Leverkusen,Freiburg,1,2,1.15987,1.47636
+2021-03-05 19:30:00,Schalke 04,Mainz 05,0,0,0.414149,0.848925
+2021-03-06 14:30:00,Hertha Berlin,Augsburg,2,1,2.68531,0.836158
+2021-03-06 14:30:00,Borussia M.Gladbach,Bayer Leverkusen,0,1,0.544034,1.36843
+2021-03-06 14:30:00,Hoffenheim,Wolfsburg,2,1,0.989132,1.82597
+2021-03-06 14:30:00,Freiburg,RasenBallsport Leipzig,0,3,0.197373,1.97309
+2021-03-06 14:30:00,Eintracht Frankfurt,VfB Stuttgart,1,1,1.56516,1.15519
+2021-03-06 17:30:00,Bayern Munich,Borussia Dortmund,4,2,2.69537,0.723629
+2021-03-07 14:30:00,FC Cologne,Werder Bremen,1,1,1.50386,1.20768
+2021-03-07 17:00:00,Arminia Bielefeld,Union Berlin,0,0,0.213406,1.49282
+2021-03-10 19:30:00,Arminia Bielefeld,Werder Bremen,0,2,2.49186,1.64589
+2021-03-12 19:30:00,Augsburg,Borussia M.Gladbach,3,1,1.14857,2.30606
+2021-03-13 14:30:00,Wolfsburg,Schalke 04,5,0,2.50491,0.241952
+2021-03-13 14:30:00,Union Berlin,FC Cologne,2,1,2.37875,1.05403
+2021-03-13 14:30:00,Mainz 05,Freiburg,1,0,1.83812,1.48247
+2021-03-13 14:30:00,Werder Bremen,Bayern Munich,1,3,0.76636,3.96745
+2021-03-13 17:30:00,Borussia Dortmund,Hertha Berlin,2,0,1.93335,0.0761441
+2021-03-14 12:30:00,Bayer Leverkusen,Arminia Bielefeld,1,2,2.37314,2.28117
+2021-03-14 14:30:00,RasenBallsport Leipzig,Eintracht Frankfurt,1,1,1.81298,0.694577
+2021-03-14 17:00:00,VfB Stuttgart,Hoffenheim,2,0,1.03802,0.97511
+2021-03-19 19:30:00,Arminia Bielefeld,RasenBallsport Leipzig,0,1,0.290363,2.509
+2021-03-20 14:30:00,Bayern Munich,VfB Stuttgart,4,0,2.6153,1.12324
+2021-03-20 14:30:00,Eintracht Frankfurt,Union Berlin,5,2,2.53513,2.9206
+2021-03-20 14:30:00,FC Cologne,Borussia Dortmund,2,2,1.32405,1.81107
+2021-03-20 14:30:00,Werder Bremen,Wolfsburg,1,2,1.06983,1.20287
+2021-03-20 17:30:00,Schalke 04,Borussia M.Gladbach,0,3,0.185724,2.06675
+2021-03-21 12:30:00,Hoffenheim,Mainz 05,1,2,1.05065,3.20297
+2021-03-21 14:30:00,Hertha Berlin,Bayer Leverkusen,3,0,2.00238,2.00246
+2021-03-21 17:00:00,Freiburg,Augsburg,2,0,2.06607,0.821272
+2021-04-03 13:30:00,Borussia Dortmund,Eintracht Frankfurt,1,2,2.14799,1.7596
+2021-04-03 13:30:00,Bayer Leverkusen,Schalke 04,2,1,0.861271,1.05068
+2021-04-03 13:30:00,Wolfsburg,FC Cologne,1,0,0.729338,1.20907
+2021-04-03 13:30:00,Mainz 05,Arminia Bielefeld,1,1,2.45668,0.376815
+2021-04-03 13:30:00,Augsburg,Hoffenheim,2,1,0.560474,0.754596
+2021-04-03 16:30:00,RasenBallsport Leipzig,Bayern Munich,0,1,0.486813,0.597457
+2021-04-03 18:30:00,Borussia M.Gladbach,Freiburg,2,1,1.48872,1.96748
+2021-04-04 13:30:00,VfB Stuttgart,Werder Bremen,1,0,0.695308,0.362475
+2021-04-04 16:00:00,Union Berlin,Hertha Berlin,1,1,0.801212,0.850228
+2021-04-09 18:30:00,Arminia Bielefeld,Freiburg,1,0,1.35635,0.4306
+2021-04-10 13:30:00,Bayern Munich,Union Berlin,1,1,0.809251,0.908459
+2021-04-10 13:30:00,Eintracht Frankfurt,Wolfsburg,4,3,0.748811,1.69595
+2021-04-10 13:30:00,Hertha Berlin,Borussia M.Gladbach,2,2,1.41784,1.24723
+2021-04-10 13:30:00,Werder Bremen,RasenBallsport Leipzig,1,4,1.32791,1.68371
+2021-04-10 16:30:00,VfB Stuttgart,Borussia Dortmund,2,3,1.51604,1.12634
+2021-04-11 13:30:00,Schalke 04,Augsburg,1,0,0.858301,1.14952
+2021-04-11 16:00:00,FC Cologne,Mainz 05,2,3,2.49731,1.51737
+2021-04-12 18:30:00,Hoffenheim,Bayer Leverkusen,0,0,0.0916581,0.32178
+2021-04-16 18:30:00,RasenBallsport Leipzig,Hoffenheim,0,0,1.43967,0.179248
+2021-04-17 13:30:00,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2.95451,0.609687
+2021-04-17 13:30:00,Wolfsburg,Bayern Munich,2,3,1.25011,1.72716
+2021-04-17 13:30:00,Freiburg,Schalke 04,4,0,2.07564,0.716727
+2021-04-17 13:30:00,Union Berlin,VfB Stuttgart,2,1,1.53511,0.790129
+2021-04-17 13:30:00,Augsburg,Arminia Bielefeld,0,0,0.752755,0.824002
+2021-04-17 16:30:00,Bayer Leverkusen,FC Cologne,3,0,1.98802,0.828829
+2021-04-18 13:30:00,Borussia Dortmund,Werder Bremen,4,1,3.07111,0.973347
+2021-04-20 16:30:00,FC Cologne,RasenBallsport Leipzig,2,1,0.594852,2.01175
+2021-04-20 18:30:00,Bayern Munich,Bayer Leverkusen,2,0,1.89266,0.540312
+2021-04-20 18:30:00,Eintracht Frankfurt,Augsburg,2,0,1.16892,1.41189
+2021-04-20 18:30:00,Arminia Bielefeld,Schalke 04,1,0,2.29829,0.252122
+2021-04-21 18:30:00,Borussia Dortmund,Union Berlin,2,0,6.37227,0.274853
+2021-04-21 18:30:00,Hoffenheim,Borussia M.Gladbach,3,2,2.31017,0.8843
+2021-04-21 18:30:00,Werder Bremen,Mainz 05,0,1,0.8847,1.38294
+2021-04-21 18:30:00,VfB Stuttgart,Wolfsburg,1,3,1.77065,1.70299
+2021-04-23 18:30:00,Augsburg,FC Cologne,2,3,1.84086,1.82475
+2021-04-24 13:30:00,Wolfsburg,Borussia Dortmund,0,2,1.36199,1.04957
+2021-04-24 13:30:00,Freiburg,Hoffenheim,1,1,1.31762,1.55721
+2021-04-24 13:30:00,Union Berlin,Werder Bremen,3,1,1.69915,0.44826
+2021-04-24 13:30:00,Mainz 05,Bayern Munich,2,1,1.1149,1.16918
+2021-04-24 16:30:00,Bayer Leverkusen,Eintracht Frankfurt,3,1,2.08585,1.83222
+2021-04-25 13:30:00,RasenBallsport Leipzig,VfB Stuttgart,2,0,3.71376,0.128485
+2021-04-25 16:00:00,Borussia M.Gladbach,Arminia Bielefeld,5,0,3.75166,0.594905
+2021-05-03 18:00:00,Mainz 05,Hertha Berlin,1,1,2.8172,1.54384
+2021-05-06 16:30:00,Hertha Berlin,Freiburg,3,0,2.03873,0.850618
+2021-05-07 18:30:00,VfB Stuttgart,Augsburg,2,1,1.62191,2.11055
+2021-05-08 13:30:00,Borussia Dortmund,RasenBallsport Leipzig,3,2,2.00128,1.50553
+2021-05-08 13:30:00,Hoffenheim,Schalke 04,4,2,1.53696,0.816991
+2021-05-08 13:30:00,Wolfsburg,Union Berlin,3,0,1.94262,0.577025
+2021-05-08 13:30:00,Werder Bremen,Bayer Leverkusen,0,0,0.552662,1.05171
+2021-05-08 16:30:00,Bayern Munich,Borussia M.Gladbach,6,0,3.02349,0.806609
+2021-05-09 11:30:00,FC Cologne,Freiburg,1,4,1.72084,2.49672
+2021-05-09 13:30:00,Eintracht Frankfurt,Mainz 05,1,1,0.691369,0.52553
+2021-05-09 16:00:00,Hertha Berlin,Arminia Bielefeld,0,0,0.757903,0.501126
+2021-05-12 16:00:00,Schalke 04,Hertha Berlin,1,2,1.07359,1.48104
+2021-05-15 13:30:00,Borussia M.Gladbach,VfB Stuttgart,1,2,0.491123,0.532199
+2021-05-15 13:30:00,Bayer Leverkusen,Union Berlin,1,1,1.56402,1.53974
+2021-05-15 13:30:00,Freiburg,Bayern Munich,2,2,0.964354,2.49234
+2021-05-15 13:30:00,Hertha Berlin,FC Cologne,0,0,0.0752744,1.65371
+2021-05-15 13:30:00,Schalke 04,Eintracht Frankfurt,4,3,2.69368,3.0473
+2021-05-15 13:30:00,Augsburg,Werder Bremen,2,0,1.70665,0.602641
+2021-05-15 13:30:00,Arminia Bielefeld,Hoffenheim,1,1,1.65894,1.57706
+2021-05-16 16:00:00,Mainz 05,Borussia Dortmund,1,3,1.38457,2.12969
+2021-05-16 18:30:00,RasenBallsport Leipzig,Wolfsburg,2,2,1.9175,1.07835
+2021-05-22 13:30:00,Bayern Munich,Augsburg,5,2,4.85963,1.73838
+2021-05-22 13:30:00,Borussia Dortmund,Bayer Leverkusen,3,1,1.62981,1.56956
+2021-05-22 13:30:00,Hoffenheim,Hertha Berlin,2,1,1.90885,1.60949
+2021-05-22 13:30:00,Wolfsburg,Mainz 05,2,3,1.30713,1.57286
+2021-05-22 13:30:00,Eintracht Frankfurt,Freiburg,3,1,2.30602,0.525229
+2021-05-22 13:30:00,Union Berlin,RasenBallsport Leipzig,2,1,1.05622,2.4444
+2021-05-22 13:30:00,FC Cologne,Schalke 04,1,0,1.98992,0.337227
+2021-05-22 13:30:00,Werder Bremen,Borussia M.Gladbach,2,4,1.88004,1.99606
+2021-05-22 13:30:00,VfB Stuttgart,Arminia Bielefeld,0,2,0.844397,1.52995

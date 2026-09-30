@@ -1,0 +1,307 @@
+datetime,home,away,hg,ag,hxg,axg
+2015-08-14 22:30:00,Bayern Munich,Hamburger SV,5,0,3.22904,0.154234
+2015-08-15 17:30:00,Bayer Leverkusen,Hoffenheim,2,1,3.52773,0.483949
+2015-08-15 17:30:00,Augsburg,Hertha Berlin,0,1,1.14869,1.23291
+2015-08-15 17:30:00,Werder Bremen,Schalke 04,0,3,0.914717,1.4498
+2015-08-15 17:30:00,Mainz 05,Ingolstadt,0,1,0.547769,0.577316
+2015-08-15 17:30:00,Darmstadt,Hannover 96,2,2,1.80912,1.85731
+2015-08-15 20:30:00,Borussia Dortmund,Borussia M.Gladbach,4,0,2.42013,0.18521
+2015-08-16 17:30:00,Wolfsburg,Eintracht Frankfurt,2,1,0.740041,0.950098
+2015-08-16 19:30:00,VfB Stuttgart,FC Cologne,1,3,2.98558,1.85087
+2015-08-21 22:30:00,Hertha Berlin,Werder Bremen,1,1,0.494279,0.957641
+2015-08-22 17:30:00,Hoffenheim,Bayern Munich,1,2,1.29953,2.53588
+2015-08-22 17:30:00,Schalke 04,Darmstadt,1,1,1.05775,0.790379
+2015-08-22 17:30:00,Eintracht Frankfurt,Augsburg,1,1,0.945278,1.26112
+2015-08-22 17:30:00,FC Cologne,Wolfsburg,1,1,1.37825,2.14017
+2015-08-22 17:30:00,Hannover 96,Bayer Leverkusen,0,1,0.0975496,1.37365
+2015-08-22 20:30:00,Hamburger SV,VfB Stuttgart,3,2,1.32114,1.89549
+2015-08-23 17:30:00,Ingolstadt,Borussia Dortmund,0,4,0.0514071,3.63386
+2015-08-23 19:30:00,Borussia M.Gladbach,Mainz 05,1,2,1.22742,2.01071
+2015-08-28 22:30:00,Wolfsburg,Schalke 04,3,0,1.52939,0.748153
+2015-08-29 17:30:00,VfB Stuttgart,Eintracht Frankfurt,1,4,2.52237,1.9601
+2015-08-29 17:30:00,Augsburg,Ingolstadt,0,1,0.832315,1.24787
+2015-08-29 17:30:00,FC Cologne,Hamburger SV,2,1,1.67081,1.44461
+2015-08-29 17:30:00,Mainz 05,Hannover 96,3,0,3.41346,0.373166
+2015-08-29 17:30:00,Darmstadt,Hoffenheim,0,0,0.287238,1.3935
+2015-08-29 20:30:00,Bayern Munich,Bayer Leverkusen,3,0,3.52476,0.420202
+2015-08-30 17:30:00,Borussia Dortmund,Hertha Berlin,3,1,3.73248,0.633538
+2015-08-30 19:30:00,Werder Bremen,Borussia M.Gladbach,2,1,3.23257,0.755739
+2015-09-11 22:30:00,Borussia M.Gladbach,Hamburger SV,0,3,0.436066,1.02932
+2015-09-12 17:30:00,Bayern Munich,Augsburg,2,1,3.85642,0.15319
+2015-09-12 17:30:00,Hannover 96,Borussia Dortmund,2,4,0.582795,2.16909
+2015-09-12 17:30:00,Hertha Berlin,VfB Stuttgart,2,1,1.47686,1.02726
+2015-09-12 17:30:00,Ingolstadt,Wolfsburg,0,0,0.178191,0.732037
+2015-09-12 17:30:00,Bayer Leverkusen,Darmstadt,0,1,1.3554,0.284787
+2015-09-12 20:30:00,Eintracht Frankfurt,FC Cologne,6,2,2.93005,0.902695
+2015-09-13 17:30:00,Hoffenheim,Werder Bremen,1,3,0.694948,2.2128
+2015-09-13 19:30:00,Schalke 04,Mainz 05,2,1,3.13941,2.94627
+2015-09-18 22:30:00,Mainz 05,Hoffenheim,3,1,1.27625,1.01304
+2015-09-19 17:30:00,Darmstadt,Bayern Munich,0,3,0.204756,1.71752
+2015-09-19 17:30:00,Wolfsburg,Hertha Berlin,2,0,2.42975,0.271584
+2015-09-19 17:30:00,Hamburger SV,Eintracht Frankfurt,0,0,0.909692,0.221397
+2015-09-19 17:30:00,Werder Bremen,Ingolstadt,0,1,1.22829,1.47429
+2015-09-19 17:30:00,FC Cologne,Borussia M.Gladbach,1,0,0.541995,0.4042
+2015-09-20 17:30:00,VfB Stuttgart,Schalke 04,0,1,3.31265,1.09359
+2015-09-20 19:30:00,Augsburg,Hannover 96,2,0,2.24649,0.56218
+2015-09-20 19:30:00,Borussia Dortmund,Bayer Leverkusen,3,0,4.08165,0.927753
+2015-09-22 22:00:00,Bayern Munich,Wolfsburg,5,1,3.68676,0.160394
+2015-09-22 22:00:00,Hertha Berlin,FC Cologne,2,0,1.34684,0.853586
+2015-09-22 22:00:00,Ingolstadt,Hamburger SV,0,1,0.718034,1.16174
+2015-09-22 22:00:00,Darmstadt,Werder Bremen,2,1,1.91868,1.19628
+2015-09-23 22:00:00,Hoffenheim,Borussia Dortmund,1,1,1.18726,1.63998
+2015-09-23 22:00:00,Schalke 04,Eintracht Frankfurt,2,0,2.25209,0.952574
+2015-09-23 22:00:00,Bayer Leverkusen,Mainz 05,1,0,1.74157,0.476793
+2015-09-23 22:00:00,Borussia M.Gladbach,Augsburg,4,2,2.84575,1.92244
+2015-09-23 22:00:00,Hannover 96,VfB Stuttgart,1,3,0.807709,1.81814
+2015-09-25 22:30:00,FC Cologne,Ingolstadt,1,1,1.3352,0.638071
+2015-09-26 17:30:00,Mainz 05,Bayern Munich,0,3,0.75194,2.77408
+2015-09-26 17:30:00,VfB Stuttgart,Borussia M.Gladbach,1,3,2.45923,1.18534
+2015-09-26 17:30:00,Augsburg,Hoffenheim,1,3,1.94324,1.5923
+2015-09-26 17:30:00,Werder Bremen,Bayer Leverkusen,0,3,0.326706,1.3026
+2015-09-26 17:30:00,Wolfsburg,Hannover 96,1,1,1.41905,1.08934
+2015-09-26 20:30:00,Hamburger SV,Schalke 04,0,1,0.583026,1.27784
+2015-09-27 17:30:00,Eintracht Frankfurt,Hertha Berlin,1,1,1.41369,2.23038
+2015-09-27 19:30:00,Borussia Dortmund,Darmstadt,2,2,1.97055,0.508638
+2015-10-02 22:30:00,Darmstadt,Mainz 05,2,3,1.86109,1.45155
+2015-10-03 17:30:00,Borussia M.Gladbach,Wolfsburg,2,0,1.45907,0.813505
+2015-10-03 17:30:00,Hannover 96,Werder Bremen,1,0,0.695247,1.50158
+2015-10-03 17:30:00,Hertha Berlin,Hamburger SV,3,0,2.0435,0.315135
+2015-10-03 17:30:00,Hoffenheim,VfB Stuttgart,2,2,1.90929,2.36648
+2015-10-03 17:30:00,Ingolstadt,Eintracht Frankfurt,2,0,1.185,0.740308
+2015-10-04 17:30:00,Schalke 04,FC Cologne,0,3,1.11607,1.32
+2015-10-04 19:30:00,Bayer Leverkusen,Augsburg,1,1,1.98173,0.119117
+2015-10-04 19:30:00,Bayern Munich,Borussia Dortmund,5,1,3.72164,1.10489
+2015-10-16 22:30:00,Mainz 05,Borussia Dortmund,0,2,1.55155,3.64229
+2015-10-17 17:30:00,Augsburg,Darmstadt,0,2,1.42706,2.54284
+2015-10-17 17:30:00,Werder Bremen,Bayern Munich,0,1,0.691198,2.13219
+2015-10-17 17:30:00,Schalke 04,Hertha Berlin,2,1,2.51235,0.933849
+2015-10-17 17:30:00,Wolfsburg,Hoffenheim,4,2,2.80506,1.07639
+2015-10-17 17:30:00,Hamburger SV,Bayer Leverkusen,0,0,0.469945,0.875048
+2015-10-17 20:30:00,Eintracht Frankfurt,Borussia M.Gladbach,1,5,0.990091,3.50891
+2015-10-18 17:30:00,FC Cologne,Hannover 96,0,1,1.52116,1.26113
+2015-10-18 19:30:00,VfB Stuttgart,Ingolstadt,1,0,1.33256,1.63336
+2015-10-23 22:30:00,Hoffenheim,Hamburger SV,0,1,0.586765,3.11642
+2015-10-24 17:30:00,Mainz 05,Werder Bremen,1,3,1.53001,2.29004
+2015-10-24 17:30:00,Darmstadt,Wolfsburg,0,1,0.594469,0.976111
+2015-10-24 17:30:00,Hannover 96,Eintracht Frankfurt,1,2,0.454178,0.74964
+2015-10-24 17:30:00,Bayer Leverkusen,VfB Stuttgart,4,3,2.87154,2.40291
+2015-10-24 17:30:00,Bayern Munich,FC Cologne,4,0,3.69101,0.230279
+2015-10-24 20:30:00,Ingolstadt,Hertha Berlin,0,1,0.66126,0.702791
+2015-10-25 18:30:00,Borussia Dortmund,Augsburg,5,1,4.21104,0.293643
+2015-10-25 20:30:00,Borussia M.Gladbach,Schalke 04,3,1,2.25814,0.767714
+2015-10-30 23:30:00,Eintracht Frankfurt,Bayern Munich,0,0,0.251519,1.38915
+2015-10-31 18:30:00,FC Cologne,Hoffenheim,0,0,1.33774,0.90728
+2015-10-31 18:30:00,Hertha Berlin,Borussia M.Gladbach,1,4,2.31638,1.29051
+2015-10-31 18:30:00,Augsburg,Mainz 05,3,3,2.98084,1.72651
+2015-10-31 18:30:00,Werder Bremen,Borussia Dortmund,1,3,0.983033,3.35901
+2015-10-31 18:30:00,Schalke 04,Ingolstadt,1,1,1.07951,0.26092
+2015-10-31 21:30:00,Wolfsburg,Bayer Leverkusen,2,1,2.11288,1.31846
+2015-11-01 18:30:00,VfB Stuttgart,Darmstadt,2,0,2.13203,1.08627
+2015-11-01 20:30:00,Hamburger SV,Hannover 96,1,2,2.44912,0.843812
+2015-11-06 23:30:00,Hannover 96,Hertha Berlin,1,3,1.1491,1.8958
+2015-11-07 18:30:00,Hoffenheim,Eintracht Frankfurt,0,0,0.680401,1.60253
+2015-11-07 18:30:00,Mainz 05,Wolfsburg,2,0,1.36046,0.153219
+2015-11-07 18:30:00,Bayer Leverkusen,FC Cologne,1,2,0.457253,2.03601
+2015-11-07 18:30:00,Borussia M.Gladbach,Ingolstadt,0,0,1.28313,0.939938
+2015-11-07 18:30:00,Bayern Munich,VfB Stuttgart,4,0,4.71083,0.284883
+2015-11-07 21:30:00,Darmstadt,Hamburger SV,1,1,1.6995,1.15876
+2015-11-08 18:30:00,Borussia Dortmund,Schalke 04,3,2,2.14772,1.37138
+2015-11-08 20:30:00,Augsburg,Werder Bremen,1,2,1.70717,1.31037
+2015-11-20 23:45:00,Hamburger SV,Borussia Dortmund,3,1,1.47142,2.31377
+2015-11-21 18:30:00,VfB Stuttgart,Augsburg,0,4,0.921864,2.23123
+2015-11-21 18:30:00,Eintracht Frankfurt,Bayer Leverkusen,1,3,0.620149,1.67235
+2015-11-21 18:30:00,FC Cologne,Mainz 05,0,0,0.868247,0.315868
+2015-11-21 18:30:00,Borussia M.Gladbach,Hannover 96,2,1,2.61888,2.19568
+2015-11-21 18:30:00,Wolfsburg,Werder Bremen,6,0,4.16408,0.724132
+2015-11-21 21:30:00,Schalke 04,Bayern Munich,1,3,0.217596,2.27848
+2015-11-22 18:30:00,Hertha Berlin,Hoffenheim,1,0,0.100337,0.328805
+2015-11-22 20:40:00,Ingolstadt,Darmstadt,3,1,2.73623,0.58372
+2015-11-27 23:30:00,Darmstadt,FC Cologne,0,0,0.508721,0.933778
+2015-11-28 18:30:00,Werder Bremen,Hamburger SV,1,3,0.977105,1.13161
+2015-11-28 18:30:00,Hannover 96,Ingolstadt,4,0,1.50396,0.366248
+2015-11-28 18:30:00,Hoffenheim,Borussia M.Gladbach,3,3,2.07714,1.66132
+2015-11-28 18:30:00,Bayern Munich,Hertha Berlin,2,0,3.93799,0.218952
+2015-11-28 18:45:00,Mainz 05,Eintracht Frankfurt,2,1,2.44079,0.62621
+2015-11-29 18:30:00,Borussia Dortmund,VfB Stuttgart,4,1,2.12434,0.700582
+2015-11-29 20:30:00,Bayer Leverkusen,Schalke 04,1,1,2.13995,0.949254
+2015-11-29 20:30:00,Augsburg,Wolfsburg,0,0,1.26639,0.559526
+2015-12-04 23:30:00,Schalke 04,Hannover 96,3,1,3.56394,0.228822
+2015-12-05 18:30:00,Borussia M.Gladbach,Bayern Munich,3,1,2.15779,2.28915
+2015-12-05 18:30:00,Hamburger SV,Mainz 05,1,3,1.30558,1.19413
+2015-12-05 18:30:00,FC Cologne,Augsburg,0,1,2.36543,2.1005
+2015-12-05 18:30:00,Hertha Berlin,Bayer Leverkusen,2,1,1.02556,1.2452
+2015-12-05 18:30:00,Ingolstadt,Hoffenheim,1,1,0.489495,1.12887
+2015-12-05 21:30:00,Wolfsburg,Borussia Dortmund,1,2,1.78593,2.58853
+2015-12-06 18:30:00,VfB Stuttgart,Werder Bremen,1,1,1.49974,0.886678
+2015-12-06 20:30:00,Eintracht Frankfurt,Darmstadt,0,1,1.0568,1.55006
+2015-12-11 23:30:00,Mainz 05,VfB Stuttgart,0,0,0.747148,0.601794
+2015-12-12 18:30:00,Darmstadt,Hertha Berlin,0,4,0.26179,1.99133
+2015-12-12 18:30:00,Wolfsburg,Hamburger SV,1,1,2.00091,0.210485
+2015-12-12 18:30:00,Werder Bremen,FC Cologne,1,1,1.34869,1.22073
+2015-12-12 18:30:00,Hoffenheim,Hannover 96,1,0,1.55239,1.3987
+2015-12-12 18:30:00,Bayern Munich,Ingolstadt,2,0,2.49703,1.00727
+2015-12-12 21:30:00,Bayer Leverkusen,Borussia M.Gladbach,5,0,2.75163,0.376285
+2015-12-13 18:30:00,Augsburg,Schalke 04,2,1,1.2358,1.45492
+2015-12-13 20:30:00,Borussia Dortmund,Eintracht Frankfurt,4,1,6.02931,0.133013
+2015-12-18 23:30:00,Schalke 04,Hoffenheim,1,0,0.722775,0.870611
+2015-12-19 18:30:00,Ingolstadt,Bayer Leverkusen,0,1,0.461211,0.717973
+2015-12-19 18:30:00,Hamburger SV,Augsburg,0,1,1.24397,2.50129
+2015-12-19 18:30:00,Eintracht Frankfurt,Werder Bremen,2,1,1.84525,0.87057
+2015-12-19 18:30:00,FC Cologne,Borussia Dortmund,2,1,0.769926,0.750674
+2015-12-19 18:30:00,Hannover 96,Bayern Munich,0,1,0.221793,2.52645
+2015-12-19 21:30:00,VfB Stuttgart,Wolfsburg,3,1,1.7755,1.32762
+2015-12-20 18:30:00,Hertha Berlin,Mainz 05,2,0,1.52652,0.26315
+2015-12-20 20:30:00,Borussia M.Gladbach,Darmstadt,3,2,1.0366,2.23006
+2016-01-22 23:30:00,Hamburger SV,Bayern Munich,1,2,0.378362,1.95463
+2016-01-23 18:30:00,FC Cologne,VfB Stuttgart,1,3,2.33406,2.63662
+2016-01-23 18:30:00,Hannover 96,Darmstadt,1,2,1.28887,2.76698
+2016-01-23 18:30:00,Hertha Berlin,Augsburg,0,0,0.638542,0.704125
+2016-01-23 18:30:00,Hoffenheim,Bayer Leverkusen,1,1,0.756054,1.82105
+2016-01-23 18:30:00,Ingolstadt,Mainz 05,1,0,1.79614,0.651914
+2016-01-23 21:30:00,Borussia M.Gladbach,Borussia Dortmund,1,3,0.969724,2.60367
+2016-01-24 18:30:00,Eintracht Frankfurt,Wolfsburg,3,2,1.18879,2.75506
+2016-01-24 20:30:00,Schalke 04,Werder Bremen,1,3,2.01652,1.82961
+2016-01-29 23:30:00,Mainz 05,Borussia M.Gladbach,1,0,0.852232,1.91691
+2016-01-30 18:30:00,Darmstadt,Schalke 04,0,2,0.0939969,1.56117
+2016-01-30 18:30:00,Borussia Dortmund,Ingolstadt,2,0,2.19495,0.145484
+2016-01-30 18:30:00,Bayer Leverkusen,Hannover 96,3,0,1.96768,0.177765
+2016-01-30 18:30:00,Augsburg,Eintracht Frankfurt,0,0,0.609193,1.25574
+2016-01-30 18:30:00,Werder Bremen,Hertha Berlin,3,3,2.40454,1.33238
+2016-01-30 21:30:00,VfB Stuttgart,Hamburger SV,2,1,2.69957,1.77488
+2016-01-31 18:30:00,Wolfsburg,FC Cologne,1,1,2.04894,0.698473
+2016-01-31 20:30:00,Bayern Munich,Hoffenheim,2,0,3.08952,0.463233
+2016-02-05 23:30:00,Borussia M.Gladbach,Werder Bremen,5,1,3.16316,1.67818
+2016-02-06 18:30:00,Schalke 04,Wolfsburg,3,0,0.785917,0.559619
+2016-02-06 18:30:00,Eintracht Frankfurt,VfB Stuttgart,2,4,2.36752,3.36402
+2016-02-06 18:30:00,Hannover 96,Mainz 05,0,1,0.638351,0.857195
+2016-02-06 18:30:00,Hertha Berlin,Borussia Dortmund,0,0,0.881103,0.391491
+2016-02-06 18:30:00,Ingolstadt,Augsburg,2,1,2.8596,0.232784
+2016-02-06 21:30:00,Bayer Leverkusen,Bayern Munich,0,0,0.288974,1.17556
+2016-02-07 18:30:00,Hamburger SV,FC Cologne,1,1,0.197661,1.37214
+2016-02-07 20:30:00,Hoffenheim,Darmstadt,0,2,0.584715,2.06675
+2016-02-12 23:30:00,Mainz 05,Schalke 04,2,1,1.00349,0.980702
+2016-02-13 18:30:00,Darmstadt,Bayer Leverkusen,1,2,1.07695,1.5656
+2016-02-13 18:30:00,Borussia Dortmund,Hannover 96,1,0,1.23883,0.212153
+2016-02-13 18:30:00,Wolfsburg,Ingolstadt,2,0,1.37415,0.549133
+2016-02-13 18:30:00,VfB Stuttgart,Hertha Berlin,2,0,1.27221,1.12753
+2016-02-13 18:30:00,Werder Bremen,Hoffenheim,1,1,1.83283,0.57006
+2016-02-13 21:30:00,FC Cologne,Eintracht Frankfurt,3,1,2.27377,0.606015
+2016-02-14 18:30:00,Hamburger SV,Borussia M.Gladbach,3,2,1.48178,2.07387
+2016-02-14 20:30:00,Augsburg,Bayern Munich,1,3,0.310362,2.21151
+2016-02-19 23:30:00,Eintracht Frankfurt,Hamburger SV,0,0,0.45464,0.807708
+2016-02-20 18:30:00,Bayern Munich,Darmstadt,3,1,3.08206,0.61234
+2016-02-20 18:30:00,Hertha Berlin,Wolfsburg,1,1,0.693683,0.743911
+2016-02-20 18:30:00,Hoffenheim,Mainz 05,3,2,1.83746,1.16619
+2016-02-20 18:30:00,Ingolstadt,Werder Bremen,2,0,1.85348,0.572222
+2016-02-20 18:30:00,Borussia M.Gladbach,FC Cologne,1,0,0.907861,0.568002
+2016-02-21 18:30:00,Bayer Leverkusen,Borussia Dortmund,0,1,0.788355,1.25829
+2016-02-21 20:30:00,Hannover 96,Augsburg,0,1,0.433505,1.17413
+2016-02-21 20:30:00,Schalke 04,VfB Stuttgart,1,1,0.989802,1.68313
+2016-02-26 23:30:00,FC Cologne,Hertha Berlin,0,1,0.787942,0.842565
+2016-02-27 18:30:00,Werder Bremen,Darmstadt,2,2,2.2106,1.16123
+2016-02-27 18:30:00,Wolfsburg,Bayern Munich,0,2,0.686422,1.21707
+2016-02-27 18:30:00,Hamburger SV,Ingolstadt,1,1,0.897328,1.01142
+2016-02-27 18:30:00,VfB Stuttgart,Hannover 96,1,2,3.13363,1.59513
+2016-02-28 18:30:00,Augsburg,Borussia M.Gladbach,2,2,1.80948,1.80962
+2016-02-28 20:30:00,Borussia Dortmund,Hoffenheim,3,1,2.47417,0.88117
+2016-02-28 20:30:00,Mainz 05,Bayer Leverkusen,3,1,2.61685,0.81358
+2016-02-28 22:30:00,Eintracht Frankfurt,Schalke 04,0,0,0.775413,0.223305
+2016-03-01 23:00:00,Hannover 96,Wolfsburg,0,4,0.395343,3.15639
+2016-03-01 23:00:00,Ingolstadt,FC Cologne,1,1,1.40092,1.14458
+2016-03-02 23:00:00,Darmstadt,Borussia Dortmund,0,2,0.422078,3.36158
+2016-03-02 23:00:00,Hertha Berlin,Eintracht Frankfurt,2,0,1.21008,0.339767
+2016-03-02 23:00:00,Hoffenheim,Augsburg,2,1,1.60086,1.8142
+2016-03-02 23:00:00,Bayern Munich,Mainz 05,1,2,0.652757,0.723063
+2016-03-02 23:00:00,Schalke 04,Hamburger SV,3,2,2.61412,0.825944
+2016-03-02 23:00:00,Bayer Leverkusen,Werder Bremen,1,4,1.00958,1.88024
+2016-03-02 23:00:00,Borussia M.Gladbach,VfB Stuttgart,4,0,3.23676,0.281312
+2016-03-05 18:30:00,VfB Stuttgart,Hoffenheim,5,1,3.82557,0.918227
+2016-03-05 18:30:00,Augsburg,Bayer Leverkusen,3,3,1.63701,1.46029
+2016-03-05 18:30:00,Werder Bremen,Hannover 96,4,1,2.14361,1.14266
+2016-03-05 18:30:00,Eintracht Frankfurt,Ingolstadt,1,1,2.63935,1.55385
+2016-03-05 18:30:00,FC Cologne,Schalke 04,1,3,2.44466,2.23816
+2016-03-05 18:30:00,Wolfsburg,Borussia M.Gladbach,2,1,0.863815,1.0738
+2016-03-05 21:30:00,Borussia Dortmund,Bayern Munich,0,0,0.750153,1.15007
+2016-03-06 18:30:00,Mainz 05,Darmstadt,0,0,1.18471,1.02252
+2016-03-06 20:30:00,Hamburger SV,Hertha Berlin,2,0,1.10346,0.22915
+2016-03-11 23:30:00,Hertha Berlin,Schalke 04,2,0,1.41068,1.08126
+2016-03-12 18:30:00,Hoffenheim,Wolfsburg,1,0,1.40359,0.680487
+2016-03-12 18:30:00,Ingolstadt,VfB Stuttgart,3,3,1.86907,3.11394
+2016-03-12 18:30:00,Darmstadt,Augsburg,2,2,1.35865,1.28135
+2016-03-12 18:30:00,Borussia M.Gladbach,Eintracht Frankfurt,3,0,1.87363,0.0789648
+2016-03-12 18:30:00,Hannover 96,FC Cologne,0,2,0.988474,1.12909
+2016-03-12 21:30:00,Bayern Munich,Werder Bremen,5,0,3.14093,0.0947484
+2016-03-13 18:30:00,Bayer Leverkusen,Hamburger SV,1,0,1.46364,1.03957
+2016-03-13 20:30:00,Borussia Dortmund,Mainz 05,2,0,3.95436,0.136645
+2016-03-18 23:30:00,Schalke 04,Borussia M.Gladbach,2,1,0.10538,2.14568
+2016-03-19 18:30:00,Wolfsburg,Darmstadt,1,1,1.31288,1.3773
+2016-03-19 18:30:00,Hamburger SV,Hoffenheim,1,3,2.27762,2.21883
+2016-03-19 18:30:00,Werder Bremen,Mainz 05,1,1,1.15003,0.685087
+2016-03-19 18:30:00,FC Cologne,Bayern Munich,0,1,1.00667,0.343724
+2016-03-19 18:30:00,Hertha Berlin,Ingolstadt,2,1,1.12049,0.67263
+2016-03-19 21:30:00,Eintracht Frankfurt,Hannover 96,1,0,1.3943,0.381106
+2016-03-20 18:30:00,VfB Stuttgart,Bayer Leverkusen,0,2,0.64082,2.29012
+2016-03-20 20:30:00,Augsburg,Borussia Dortmund,1,3,1.01768,1.52542
+2016-04-01 22:30:00,Bayer Leverkusen,Wolfsburg,3,0,0.705961,0.572215
+2016-04-02 17:30:00,Bayern Munich,Eintracht Frankfurt,1,0,1.08122,0.118042
+2016-04-02 17:30:00,Mainz 05,Augsburg,4,2,3.6054,0.784999
+2016-04-02 17:30:00,Ingolstadt,Schalke 04,3,0,1.86933,0.864055
+2016-04-02 17:30:00,Darmstadt,VfB Stuttgart,2,2,2.21695,0.480572
+2016-04-02 17:30:00,Hannover 96,Hamburger SV,0,3,1.16167,2.17031
+2016-04-02 20:30:00,Borussia Dortmund,Werder Bremen,3,2,2.84328,0.436067
+2016-04-03 17:30:00,Borussia M.Gladbach,Hertha Berlin,5,0,2.41386,0.280578
+2016-04-03 19:30:00,Hoffenheim,FC Cologne,1,1,1.04133,1.09032
+2016-04-08 22:30:00,Hertha Berlin,Hannover 96,2,2,1.66964,1.25141
+2016-04-09 17:30:00,Ingolstadt,Borussia M.Gladbach,1,0,2.04687,0.311628
+2016-04-09 17:30:00,Hamburger SV,Darmstadt,1,2,0.70616,1.04297
+2016-04-09 17:30:00,VfB Stuttgart,Bayern Munich,1,3,0.959571,0.728737
+2016-04-09 17:30:00,Werder Bremen,Augsburg,1,2,0.716015,0.923628
+2016-04-09 17:30:00,Eintracht Frankfurt,Hoffenheim,0,2,0.581161,1.3548
+2016-04-09 20:30:00,Wolfsburg,Mainz 05,1,1,1.0116,1.76775
+2016-04-10 17:30:00,Schalke 04,Borussia Dortmund,2,2,1.23275,1.6976
+2016-04-10 19:30:00,FC Cologne,Bayer Leverkusen,0,2,0.731816,1.36907
+2016-04-15 22:30:00,Hannover 96,Borussia M.Gladbach,2,0,1.64388,0.732627
+2016-04-16 17:30:00,Hoffenheim,Hertha Berlin,2,1,1.31625,1.09114
+2016-04-16 17:30:00,Darmstadt,Ingolstadt,2,0,1.24602,0.351721
+2016-04-16 17:30:00,Bayer Leverkusen,Eintracht Frankfurt,3,0,1.12161,0.878427
+2016-04-16 17:30:00,Augsburg,VfB Stuttgart,1,0,1.28148,0.428691
+2016-04-16 17:30:00,Werder Bremen,Wolfsburg,3,2,3.58106,1.09409
+2016-04-16 20:30:00,Bayern Munich,Schalke 04,3,0,1.27153,0.430468
+2016-04-17 17:30:00,Borussia Dortmund,Hamburger SV,3,0,1.90773,0.617113
+2016-04-17 19:30:00,Mainz 05,FC Cologne,2,3,1.80923,1.14393
+2016-04-22 22:30:00,Hamburger SV,Werder Bremen,2,1,1.90362,2.52835
+2016-04-23 17:30:00,VfB Stuttgart,Borussia Dortmund,0,3,0.479435,3.53521
+2016-04-23 17:30:00,Wolfsburg,Augsburg,0,2,1.38162,0.967552
+2016-04-23 17:30:00,FC Cologne,Darmstadt,4,1,2.56591,1.03362
+2016-04-23 17:30:00,Hertha Berlin,Bayern Munich,0,2,0.351189,0.192443
+2016-04-23 17:30:00,Ingolstadt,Hannover 96,2,2,1.16542,1.22986
+2016-04-23 20:30:00,Schalke 04,Bayer Leverkusen,2,3,2.42823,1.52773
+2016-04-24 17:30:00,Borussia M.Gladbach,Hoffenheim,3,1,2.90034,1.18468
+2016-04-24 19:30:00,Eintracht Frankfurt,Mainz 05,2,1,0.547038,0.490667
+2016-04-29 22:30:00,Augsburg,FC Cologne,0,0,0.88211,0.257362
+2016-04-30 17:30:00,Hannover 96,Schalke 04,1,3,2.06666,1.79057
+2016-04-30 17:30:00,Hoffenheim,Ingolstadt,2,1,1.82345,2.37831
+2016-04-30 17:30:00,Mainz 05,Hamburger SV,0,0,0.973992,0.570155
+2016-04-30 17:30:00,Darmstadt,Eintracht Frankfurt,1,2,1.19136,0.846611
+2016-04-30 17:30:00,Bayern Munich,Borussia M.Gladbach,1,1,0.283796,0.337244
+2016-04-30 17:30:00,Borussia Dortmund,Wolfsburg,5,1,3.1369,0.643223
+2016-04-30 20:30:00,Bayer Leverkusen,Hertha Berlin,2,1,2.98724,0.344918
+2016-05-02 22:15:00,Werder Bremen,VfB Stuttgart,6,2,2.87488,0.814877
+2016-05-07 17:30:00,Schalke 04,Augsburg,1,1,1.4111,0.557159
+2016-05-07 17:30:00,Borussia M.Gladbach,Bayer Leverkusen,2,1,1.24034,1.96166
+2016-05-07 17:30:00,Hamburger SV,Wolfsburg,0,1,0.427188,1.96183
+2016-05-07 17:30:00,VfB Stuttgart,Mainz 05,1,3,0.873428,3.89767
+2016-05-07 17:30:00,Eintracht Frankfurt,Borussia Dortmund,1,0,0.697175,1.4668
+2016-05-07 17:30:00,FC Cologne,Werder Bremen,0,0,0.578238,0.585339
+2016-05-07 17:30:00,Hannover 96,Hoffenheim,1,0,0.689753,1.39948
+2016-05-07 17:30:00,Hertha Berlin,Darmstadt,1,2,1.35682,1.26224
+2016-05-07 17:30:00,Ingolstadt,Bayern Munich,1,2,1.94299,2.27556
+2016-05-14 17:30:00,Augsburg,Hamburger SV,1,3,1.03269,2.0985
+2016-05-14 17:30:00,Bayern Munich,Hannover 96,3,1,2.692,1.81013
+2016-05-14 17:30:00,Werder Bremen,Eintracht Frankfurt,1,0,1.9531,0.191835
+2016-05-14 17:30:00,Borussia Dortmund,FC Cologne,2,2,1.15049,1.60855
+2016-05-14 17:30:00,Hoffenheim,Schalke 04,1,4,1.41779,1.60217
+2016-05-14 17:30:00,Bayer Leverkusen,Ingolstadt,3,2,3.08569,2.93125
+2016-05-14 17:30:00,Mainz 05,Hertha Berlin,0,0,1.48776,0.873124
+2016-05-14 17:30:00,Wolfsburg,VfB Stuttgart,3,1,2.79348,0.973203
+2016-05-14 17:30:00,Darmstadt,Borussia M.Gladbach,0,2,0.357258,1.87154

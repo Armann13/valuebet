@@ -1,0 +1,381 @@
+datetime,home,away,hg,ag,hxg,axg
+2021-08-13 19:00:00,Brentford,Arsenal,2,0,1.88818,1.02385
+2021-08-14 11:30:00,Manchester United,Leeds,5,1,1.64248,0.568342
+2021-08-14 14:00:00,Burnley,Brighton,1,2,1.79548,1.6853
+2021-08-14 14:00:00,Chelsea,Crystal Palace,3,0,1.18709,0.321701
+2021-08-14 14:00:00,Everton,Southampton,3,1,2.38863,0.580601
+2021-08-14 14:00:00,Leicester,Wolverhampton Wanderers,1,0,0.668082,1.32714
+2021-08-14 14:00:00,Watford,Aston Villa,3,2,1.35036,1.13718
+2021-08-14 16:30:00,Norwich,Liverpool,0,3,1.3333,1.78728
+2021-08-15 13:00:00,Newcastle United,West Ham,2,4,1.67926,3.00939
+2021-08-15 15:30:00,Tottenham,Manchester City,1,0,1.06014,2.10585
+2021-08-21 11:30:00,Liverpool,Burnley,2,0,2.63945,0.690464
+2021-08-21 14:00:00,Manchester City,Norwich,5,0,2.43928,0.0250088
+2021-08-21 14:00:00,Aston Villa,Newcastle United,2,0,1.18426,0.63163
+2021-08-21 14:00:00,Crystal Palace,Brentford,0,0,0.606313,0.712439
+2021-08-21 14:00:00,Leeds,Everton,2,2,0.966093,1.85713
+2021-08-21 16:30:00,Brighton,Watford,2,0,1.77896,0.407224
+2021-08-22 13:00:00,Southampton,Manchester United,1,1,0.587526,2.26173
+2021-08-22 13:00:00,Wolverhampton Wanderers,Tottenham,0,1,1.51127,1.72636
+2021-08-22 15:30:00,Arsenal,Chelsea,0,2,0.630099,3.64132
+2021-08-23 19:00:00,West Ham,Leicester,4,1,2.28613,0.62676
+2021-08-28 11:30:00,Manchester City,Arsenal,5,0,4.47273,0.116805
+2021-08-28 14:00:00,Newcastle United,Southampton,2,2,1.19077,3.46036
+2021-08-28 14:00:00,Norwich,Leicester,1,2,1.44084,1.27371
+2021-08-28 14:00:00,Aston Villa,Brentford,1,1,0.431464,1.13312
+2021-08-28 14:00:00,Brighton,Everton,0,2,0.701622,1.54868
+2021-08-28 14:00:00,West Ham,Crystal Palace,2,2,1.44748,1.67658
+2021-08-28 16:30:00,Liverpool,Chelsea,1,1,2.08462,0.573638
+2021-08-29 13:00:00,Burnley,Leeds,1,1,1.71102,1.52078
+2021-08-29 13:00:00,Tottenham,Watford,1,0,0.920963,0.596016
+2021-08-29 15:30:00,Wolverhampton Wanderers,Manchester United,0,1,1.79575,0.944083
+2021-09-11 11:30:00,Crystal Palace,Tottenham,3,0,2.89372,0.0775646
+2021-09-11 14:00:00,Arsenal,Norwich,1,0,2.68515,0.577292
+2021-09-11 14:00:00,Brentford,Brighton,0,1,0.729786,0.287902
+2021-09-11 14:00:00,Leicester,Manchester City,0,1,0.8001,2.75058
+2021-09-11 14:00:00,Manchester United,Newcastle United,4,1,2.77326,0.622042
+2021-09-11 14:00:00,Southampton,West Ham,0,0,0.692135,0.725407
+2021-09-11 14:00:00,Watford,Wolverhampton Wanderers,0,2,0.185407,2.55922
+2021-09-11 16:30:00,Chelsea,Aston Villa,3,0,1.22153,1.17349
+2021-09-12 15:30:00,Leeds,Liverpool,0,3,0.652514,4.4016
+2021-09-13 19:00:00,Everton,Burnley,3,1,1.80386,1.82061
+2021-09-17 19:00:00,Newcastle United,Leeds,1,1,1.17668,1.42995
+2021-09-18 11:30:00,Wolverhampton Wanderers,Brentford,0,2,1.02316,2.32741
+2021-09-18 14:00:00,Norwich,Watford,1,3,0.782665,2.42487
+2021-09-18 14:00:00,Burnley,Arsenal,0,1,0.775574,1.09928
+2021-09-18 14:00:00,Liverpool,Crystal Palace,3,0,2.76793,0.644168
+2021-09-18 14:00:00,Manchester City,Southampton,0,0,1.22451,0.490923
+2021-09-18 16:30:00,Aston Villa,Everton,3,0,0.777716,0.755035
+2021-09-19 13:00:00,Brighton,Leicester,2,1,1.47438,1.25373
+2021-09-19 13:00:00,West Ham,Manchester United,1,2,1.6671,1.8954
+2021-09-19 15:30:00,Tottenham,Chelsea,0,3,0.70567,2.5869
+2021-09-25 11:30:00,Chelsea,Manchester City,0,1,0.194202,1.69244
+2021-09-25 11:30:00,Manchester United,Aston Villa,0,1,1.9251,1.57249
+2021-09-25 14:00:00,Watford,Newcastle United,1,1,0.904061,2.52338
+2021-09-25 14:00:00,Everton,Norwich,2,0,2.26681,0.800903
+2021-09-25 14:00:00,Leeds,West Ham,1,2,1.1967,1.98962
+2021-09-25 14:00:00,Leicester,Burnley,2,2,2.16233,0.428866
+2021-09-25 16:30:00,Brentford,Liverpool,3,3,2.94058,2.25736
+2021-09-26 13:00:00,Southampton,Wolverhampton Wanderers,0,1,0.909342,0.909833
+2021-09-26 15:30:00,Arsenal,Tottenham,3,1,1.44499,0.980166
+2021-09-27 19:00:00,Crystal Palace,Brighton,1,1,1.36836,0.649566
+2021-10-02 11:30:00,Manchester United,Everton,1,1,1.0496,1.32211
+2021-10-02 14:00:00,Burnley,Norwich,0,0,0.584725,0.673617
+2021-10-02 14:00:00,Chelsea,Southampton,3,1,3.79243,1.52634
+2021-10-02 14:00:00,Leeds,Watford,1,0,1.57388,0.192794
+2021-10-02 14:00:00,Wolverhampton Wanderers,Newcastle United,2,1,1.15849,0.865217
+2021-10-02 16:30:00,Brighton,Arsenal,0,0,1.11551,0.36431
+2021-10-03 13:00:00,Crystal Palace,Leicester,2,2,1.1703,1.04322
+2021-10-03 13:00:00,Tottenham,Aston Villa,2,1,1.78187,1.07395
+2021-10-03 13:00:00,West Ham,Brentford,1,2,1.37258,1.30098
+2021-10-03 15:30:00,Liverpool,Manchester City,2,2,0.949368,1.04319
+2021-10-16 11:30:00,Watford,Liverpool,0,5,0.302302,3.65553
+2021-10-16 14:00:00,Aston Villa,Wolverhampton Wanderers,2,3,1.21276,2.19633
+2021-10-16 14:00:00,Leicester,Manchester United,4,2,2.96611,1.02494
+2021-10-16 14:00:00,Manchester City,Burnley,2,0,2.15712,1.07719
+2021-10-16 14:00:00,Norwich,Brighton,0,0,1.16088,1.17572
+2021-10-16 14:00:00,Southampton,Leeds,1,0,1.83082,0.446173
+2021-10-16 16:30:00,Brentford,Chelsea,0,1,1.62169,0.248256
+2021-10-17 13:00:00,Everton,West Ham,0,1,0.854165,2.03034
+2021-10-17 15:30:00,Newcastle United,Tottenham,2,3,0.645658,1.55008
+2021-10-18 19:00:00,Arsenal,Crystal Palace,2,2,1.7436,0.492239
+2021-10-22 19:00:00,Arsenal,Aston Villa,3,1,3.4984,1.41088
+2021-10-23 11:30:00,Chelsea,Norwich,7,0,3.10509,0.267429
+2021-10-23 14:00:00,Crystal Palace,Newcastle United,1,1,2.25588,0.721813
+2021-10-23 14:00:00,Everton,Watford,2,5,1.84089,3.10344
+2021-10-23 14:00:00,Leeds,Wolverhampton Wanderers,1,1,1.71313,0.858644
+2021-10-23 14:00:00,Southampton,Burnley,2,2,1.42567,0.673195
+2021-10-23 16:30:00,Brighton,Manchester City,1,4,1.1695,3.57376
+2021-10-24 13:00:00,Brentford,Leicester,1,2,1.16789,1.00254
+2021-10-24 13:00:00,West Ham,Tottenham,1,0,1.73468,0.672198
+2021-10-24 15:30:00,Manchester United,Liverpool,0,5,1.35584,4.04765
+2021-10-30 11:30:00,Leicester,Arsenal,0,2,1.98801,1.10288
+2021-10-30 14:00:00,Burnley,Brentford,3,1,2.72901,0.834312
+2021-10-30 14:00:00,Liverpool,Brighton,2,2,1.39778,1.51032
+2021-10-30 14:00:00,Manchester City,Crystal Palace,0,2,0.65739,1.05029
+2021-10-30 14:00:00,Newcastle United,Chelsea,0,3,0.157616,2.16608
+2021-10-30 14:00:00,Watford,Southampton,0,1,0.852556,1.90757
+2021-10-30 16:30:00,Tottenham,Manchester United,0,3,1.15787,1.38612
+2021-10-31 14:00:00,Norwich,Leeds,1,2,0.661887,1.16855
+2021-10-31 16:30:00,Aston Villa,West Ham,1,4,0.687551,2.66391
+2021-11-01 20:00:00,Wolverhampton Wanderers,Everton,2,1,1.69344,1.69767
+2021-11-05 20:00:00,Southampton,Aston Villa,1,0,0.89818,0.536077
+2021-11-06 12:30:00,Manchester United,Manchester City,0,2,0.759561,2.04202
+2021-11-06 15:00:00,Brentford,Norwich,1,2,2.79229,1.15797
+2021-11-06 15:00:00,Chelsea,Burnley,1,1,3.00585,0.674072
+2021-11-06 15:00:00,Crystal Palace,Wolverhampton Wanderers,2,0,2.65161,0.25416
+2021-11-06 17:30:00,Brighton,Newcastle United,1,1,1.43123,0.227321
+2021-11-07 14:00:00,Arsenal,Watford,1,0,1.49208,0.491659
+2021-11-07 14:00:00,Everton,Tottenham,0,0,0.597906,0.801798
+2021-11-07 14:00:00,Leeds,Leicester,1,1,1.96551,0.795292
+2021-11-07 16:30:00,West Ham,Liverpool,3,2,1.25298,1.45641
+2021-11-20 12:30:00,Leicester,Chelsea,0,3,0.499504,2.57178
+2021-11-20 15:00:00,Aston Villa,Brighton,2,0,1.06946,0.582787
+2021-11-20 15:00:00,Burnley,Crystal Palace,3,3,1.04224,1.74839
+2021-11-20 15:00:00,Newcastle United,Brentford,3,3,2.18388,1.23275
+2021-11-20 15:00:00,Norwich,Southampton,2,1,0.43778,1.13118
+2021-11-20 15:00:00,Watford,Manchester United,4,1,2.73393,1.66794
+2021-11-20 15:00:00,Wolverhampton Wanderers,West Ham,1,0,1.31903,0.436331
+2021-11-20 17:30:00,Liverpool,Arsenal,4,0,3.97374,0.268025
+2021-11-21 14:00:00,Manchester City,Everton,3,0,2.61302,0.266894
+2021-11-21 16:30:00,Tottenham,Leeds,2,1,2.31744,1.46689
+2021-11-27 12:30:00,Arsenal,Newcastle United,2,0,2.84493,0.185383
+2021-11-27 15:00:00,Crystal Palace,Aston Villa,1,2,0.962129,0.454305
+2021-11-27 15:00:00,Liverpool,Southampton,4,0,3.07278,0.966132
+2021-11-27 15:00:00,Norwich,Wolverhampton Wanderers,0,0,1.4047,0.297157
+2021-11-27 17:30:00,Brighton,Leeds,0,0,1.90498,0.864829
+2021-11-28 14:00:00,Brentford,Everton,1,0,1.19813,0.968075
+2021-11-28 14:00:00,Leicester,Watford,4,2,2.16027,2.38383
+2021-11-28 14:00:00,Manchester City,West Ham,2,1,2.72187,0.171763
+2021-11-28 16:30:00,Chelsea,Manchester United,1,1,2.34525,0.563367
+2021-11-30 19:30:00,Newcastle United,Norwich,1,1,1.15636,1.51084
+2021-11-30 20:15:00,Leeds,Crystal Palace,1,0,1.9818,0.707328
+2021-12-01 19:30:00,Watford,Chelsea,1,2,0.990877,0.908574
+2021-12-01 19:30:00,West Ham,Brighton,1,1,1.14679,1.2607
+2021-12-01 19:30:00,Wolverhampton Wanderers,Burnley,0,0,0.711691,0.195537
+2021-12-01 19:30:00,Southampton,Leicester,2,2,1.91169,1.4401
+2021-12-01 20:15:00,Aston Villa,Manchester City,1,2,0.772083,1.01897
+2021-12-01 20:15:00,Everton,Liverpool,1,4,0.512263,2.86067
+2021-12-02 19:30:00,Tottenham,Brentford,2,0,2.07248,0.225492
+2021-12-02 20:15:00,Manchester United,Arsenal,3,2,1.85597,1.16638
+2021-12-04 12:30:00,West Ham,Chelsea,3,2,2.0174,1.37049
+2021-12-04 15:00:00,Newcastle United,Burnley,1,0,1.70609,0.604599
+2021-12-04 15:00:00,Southampton,Brighton,1,1,1.34236,1.4872
+2021-12-04 15:00:00,Wolverhampton Wanderers,Liverpool,0,1,0.095167,2.42332
+2021-12-04 17:30:00,Watford,Manchester City,1,3,0.675105,4.03223
+2021-12-05 14:00:00,Leeds,Brentford,2,2,1.41896,1.19959
+2021-12-05 14:00:00,Manchester United,Crystal Palace,1,0,0.870376,0.520593
+2021-12-05 14:00:00,Tottenham,Norwich,3,0,2.00668,1.06562
+2021-12-05 16:30:00,Aston Villa,Leicester,2,1,1.84818,0.982614
+2021-12-06 20:00:00,Everton,Arsenal,2,1,1.06108,1.05723
+2021-12-10 20:00:00,Brentford,Watford,2,1,1.82799,0.561554
+2021-12-11 12:30:00,Manchester City,Wolverhampton Wanderers,1,0,2.99915,0.0762839
+2021-12-11 15:00:00,Arsenal,Southampton,3,0,2.08429,0.502215
+2021-12-11 15:00:00,Chelsea,Leeds,3,2,2.74844,1.72934
+2021-12-11 15:00:00,Liverpool,Aston Villa,1,0,2.71181,0.140573
+2021-12-11 17:30:00,Norwich,Manchester United,0,1,0.986107,2.09817
+2021-12-12 14:00:00,Burnley,West Ham,0,0,0.54801,0.998813
+2021-12-12 14:00:00,Leicester,Newcastle United,4,0,2.05771,0.511934
+2021-12-12 16:30:00,Crystal Palace,Everton,3,1,2.09864,1.27556
+2021-12-14 19:45:00,Norwich,Aston Villa,0,2,0.502647,1.96261
+2021-12-14 20:00:00,Manchester City,Leeds,7,0,3.31349,0.227498
+2021-12-15 19:30:00,Brighton,Wolverhampton Wanderers,0,1,1.20118,1.11736
+2021-12-15 19:30:00,Crystal Palace,Southampton,2,2,1.49244,0.625183
+2021-12-15 20:00:00,Arsenal,West Ham,2,0,2.81482,0.338855
+2021-12-16 19:45:00,Chelsea,Everton,1,1,3.20239,0.627528
+2021-12-16 20:00:00,Liverpool,Newcastle United,3,1,2.93912,0.2064
+2021-12-18 17:30:00,Leeds,Arsenal,1,4,1.31408,3.69008
+2021-12-19 14:00:00,Wolverhampton Wanderers,Chelsea,0,0,0.321371,0.793952
+2021-12-19 14:15:00,Newcastle United,Manchester City,0,4,0.174208,3.64686
+2021-12-19 16:30:00,Tottenham,Liverpool,2,2,2.79777,1.54944
+2021-12-26 15:00:00,Manchester City,Leicester,6,3,3.82869,2.43425
+2021-12-26 15:00:00,Norwich,Arsenal,0,5,0.154212,2.87539
+2021-12-26 15:00:00,Tottenham,Crystal Palace,3,0,2.82148,0.178324
+2021-12-26 15:00:00,West Ham,Southampton,2,3,1.53745,1.35643
+2021-12-26 17:30:00,Aston Villa,Chelsea,1,3,0.474029,2.8285
+2021-12-26 20:00:00,Brighton,Brentford,2,0,0.943363,1.10342
+2021-12-27 20:00:00,Newcastle United,Manchester United,1,1,1.26586,1.75587
+2021-12-28 15:00:00,Watford,West Ham,1,4,1.0143,2.84084
+2021-12-28 15:00:00,Crystal Palace,Norwich,3,0,2.38978,0.594134
+2021-12-28 15:00:00,Southampton,Tottenham,1,1,0.353043,2.80917
+2021-12-28 20:00:00,Leicester,Liverpool,1,0,0.615892,2.72682
+2021-12-29 19:30:00,Chelsea,Brighton,1,1,0.763458,0.78663
+2021-12-29 20:15:00,Brentford,Manchester City,0,1,0.238829,1.01763
+2021-12-30 20:15:00,Manchester United,Burnley,3,1,1.80776,0.871738
+2022-01-01 12:30:00,Arsenal,Manchester City,1,2,0.836949,1.94623
+2022-01-01 15:00:00,Watford,Tottenham,0,1,0.303514,1.93752
+2022-01-01 17:30:00,Crystal Palace,West Ham,2,3,2.69204,2.23146
+2022-01-02 14:00:00,Brentford,Aston Villa,2,1,0.501329,1.13821
+2022-01-02 14:00:00,Everton,Brighton,2,3,1.82698,1.48397
+2022-01-02 14:00:00,Leeds,Burnley,3,1,2.04186,0.960493
+2022-01-02 16:30:00,Chelsea,Liverpool,2,2,1.389,1.78897
+2022-01-03 17:30:00,Manchester United,Wolverhampton Wanderers,0,1,0.768752,0.840925
+2022-01-11 21:45:00,Southampton,Brentford,4,1,1.59306,0.621466
+2022-01-12 21:45:00,West Ham,Norwich,2,0,2.89217,0.343347
+2022-01-14 20:00:00,Brighton,Crystal Palace,1,1,2.18053,0.509681
+2022-01-15 12:30:00,Manchester City,Chelsea,1,0,0.901703,0.613757
+2022-01-15 15:00:00,Newcastle United,Watford,1,1,1.03855,1.49623
+2022-01-15 15:00:00,Norwich,Everton,2,1,1.00153,0.541027
+2022-01-15 15:00:00,Wolverhampton Wanderers,Southampton,3,1,2.29917,0.91728
+2022-01-15 17:30:00,Aston Villa,Manchester United,2,2,1.82784,1.35378
+2022-01-16 14:00:00,Liverpool,Brentford,3,0,3.49099,0.376656
+2022-01-16 14:00:00,West Ham,Leeds,2,3,2.3549,2.26884
+2022-01-18 09:45:00,Brighton,Chelsea,1,1,0.747557,0.572994
+2022-01-19 19:30:00,Leicester,Tottenham,2,3,1.95031,4.24711
+2022-01-19 20:00:00,Brentford,Manchester United,1,3,2.081,2.05969
+2022-01-21 20:00:00,Watford,Norwich,0,3,1.30606,0.925212
+2022-01-22 12:30:00,Everton,Aston Villa,0,1,1.2384,0.860245
+2022-01-22 15:00:00,Brentford,Wolverhampton Wanderers,1,2,0.742573,0.218211
+2022-01-22 15:00:00,Leeds,Newcastle United,0,1,1.12992,1.15904
+2022-01-22 15:00:00,Manchester United,West Ham,1,0,1.75857,0.238027
+2022-01-22 17:30:00,Southampton,Manchester City,1,1,1.00222,1.62907
+2022-01-23 14:00:00,Arsenal,Burnley,0,0,1.35507,0.388963
+2022-01-23 14:00:00,Crystal Palace,Liverpool,1,3,1.62615,1.49697
+2022-01-23 14:00:00,Leicester,Brighton,1,1,1.70979,1.19738
+2022-01-23 16:30:00,Chelsea,Tottenham,2,0,1.04212,0.328818
+2022-02-05 18:00:00,Burnley,Watford,0,0,0.765905,0.933965
+2022-02-08 19:45:00,West Ham,Watford,1,0,0.905143,0.335474
+2022-02-08 19:45:00,Newcastle United,Everton,3,1,2.68732,0.823607
+2022-02-08 20:00:00,Burnley,Manchester United,1,1,0.772721,1.83387
+2022-02-09 19:45:00,Norwich,Crystal Palace,1,1,0.296411,1.22883
+2022-02-09 19:45:00,Tottenham,Southampton,2,3,1.74286,1.73293
+2022-02-09 19:45:00,Manchester City,Brentford,2,0,1.98246,0.461305
+2022-02-09 20:00:00,Aston Villa,Leeds,3,3,1.5013,2.52914
+2022-02-10 19:45:00,Wolverhampton Wanderers,Arsenal,0,1,0.641359,1.45247
+2022-02-10 19:45:00,Liverpool,Leicester,2,0,2.72997,0.544954
+2022-02-12 12:30:00,Manchester United,Southampton,1,1,2.99207,0.677386
+2022-02-12 15:00:00,Brentford,Crystal Palace,0,0,1.97576,0.49802
+2022-02-12 15:00:00,Everton,Leeds,3,0,2.58561,0.242668
+2022-02-12 15:00:00,Watford,Brighton,0,2,0.532979,1.80456
+2022-02-12 17:30:00,Norwich,Manchester City,0,4,0.356755,4.44653
+2022-02-13 14:00:00,Burnley,Liverpool,0,1,1.16081,1.95722
+2022-02-13 14:00:00,Newcastle United,Aston Villa,1,0,0.527571,0.455206
+2022-02-13 14:00:00,Tottenham,Wolverhampton Wanderers,0,2,0.838197,1.87026
+2022-02-13 16:30:00,Leicester,West Ham,2,2,1.40693,0.745068
+2022-02-15 20:15:00,Manchester United,Brighton,2,0,2.74936,1.26179
+2022-02-19 12:30:00,West Ham,Newcastle United,1,1,0.847948,0.932574
+2022-02-19 15:00:00,Arsenal,Brentford,2,1,1.52247,0.640726
+2022-02-19 15:00:00,Aston Villa,Watford,0,1,1.0267,1.82051
+2022-02-19 15:00:00,Brighton,Burnley,0,3,0.44587,0.821228
+2022-02-19 15:00:00,Crystal Palace,Chelsea,0,1,0.624023,1.12339
+2022-02-19 15:00:00,Liverpool,Norwich,3,1,3.15449,0.66975
+2022-02-19 15:00:00,Southampton,Everton,2,0,2.72851,0.19991
+2022-02-19 17:30:00,Manchester City,Tottenham,2,3,2.31773,2.00235
+2022-02-20 14:00:00,Leeds,Manchester United,2,4,1.74476,2.60999
+2022-02-20 16:30:00,Wolverhampton Wanderers,Leicester,2,1,0.472777,1.55048
+2022-02-23 19:30:00,Burnley,Tottenham,1,0,1.55576,0.691655
+2022-02-23 19:30:00,Watford,Crystal Palace,1,4,1.71917,0.818403
+2022-02-23 19:45:00,Liverpool,Leeds,6,0,5.3303,0.141547
+2022-02-24 19:45:00,Arsenal,Wolverhampton Wanderers,2,1,2.50961,1.10934
+2022-02-25 20:00:00,Southampton,Norwich,2,0,3.08863,0.424877
+2022-02-26 12:30:00,Leeds,Tottenham,0,4,1.89569,2.47025
+2022-02-26 15:00:00,Brentford,Newcastle United,0,2,0.494232,2.25373
+2022-02-26 15:00:00,Crystal Palace,Burnley,1,1,1.03765,0.255988
+2022-02-26 15:00:00,Manchester United,Watford,0,0,2.41457,0.437185
+2022-02-26 15:30:00,Brighton,Aston Villa,0,2,0.627107,1.3027
+2022-02-26 17:30:00,Everton,Manchester City,0,1,0.770819,1.93422
+2022-02-27 14:00:00,West Ham,Wolverhampton Wanderers,1,0,1.62241,0.892018
+2022-03-01 19:45:00,Burnley,Leicester,0,2,1.04214,1.79558
+2022-03-05 12:30:00,Leicester,Leeds,1,0,0.359129,2.14389
+2022-03-05 15:00:00,Aston Villa,Southampton,4,0,2.85379,1.32947
+2022-03-05 15:00:00,Burnley,Chelsea,0,4,0.849232,2.2868
+2022-03-05 15:00:00,Newcastle United,Brighton,2,1,1.58028,1.64995
+2022-03-05 15:00:00,Norwich,Brentford,1,3,0.77334,2.22064
+2022-03-05 15:00:00,Wolverhampton Wanderers,Crystal Palace,0,2,0.710865,2.53759
+2022-03-05 17:30:00,Liverpool,West Ham,1,0,2.18865,1.33829
+2022-03-06 14:00:00,Watford,Arsenal,2,3,1.29603,1.00457
+2022-03-06 16:30:00,Manchester City,Manchester United,4,1,2.74434,0.361782
+2022-03-07 20:00:00,Tottenham,Everton,5,0,3.24279,0.208263
+2022-03-10 19:30:00,Wolverhampton Wanderers,Watford,4,0,1.55037,0.498696
+2022-03-10 19:30:00,Southampton,Newcastle United,1,2,1.79835,0.812233
+2022-03-10 19:30:00,Norwich,Chelsea,1,3,0.965723,2.1308
+2022-03-10 19:45:00,Leeds,Aston Villa,0,3,0.194028,1.2729
+2022-03-12 12:30:00,Brighton,Liverpool,0,2,0.629316,2.48312
+2022-03-12 15:00:00,Brentford,Burnley,2,0,1.82002,0.825311
+2022-03-12 17:30:00,Manchester United,Tottenham,3,2,1.0181,1.62374
+2022-03-13 14:00:00,Chelsea,Newcastle United,1,0,1.07072,0.246037
+2022-03-13 14:00:00,Everton,Wolverhampton Wanderers,0,1,0.397268,0.712135
+2022-03-13 14:00:00,Leeds,Norwich,2,1,3.11755,1.40148
+2022-03-13 14:00:00,Southampton,Watford,1,2,1.25696,1.29385
+2022-03-13 14:00:00,West Ham,Aston Villa,2,1,1.58468,1.05391
+2022-03-13 16:30:00,Arsenal,Leicester,2,0,2.93665,0.54911
+2022-03-14 20:00:00,Crystal Palace,Manchester City,0,0,0.474002,2.04021
+2022-03-16 19:30:00,Brighton,Tottenham,0,2,1.04171,2.05196
+2022-03-16 20:15:00,Arsenal,Liverpool,0,2,0.534265,1.27681
+2022-03-17 19:45:00,Everton,Newcastle United,1,0,0.708809,0.75803
+2022-03-18 20:00:00,Wolverhampton Wanderers,Leeds,2,3,1.24075,2.82103
+2022-03-19 12:30:00,Aston Villa,Arsenal,0,1,0.309375,1.14522
+2022-03-20 14:00:00,Leicester,Brentford,2,1,1.27865,1.72466
+2022-03-20 16:30:00,Tottenham,West Ham,3,1,2.54795,0.644964
+2022-04-02 11:30:00,Liverpool,Watford,2,0,2.23651,0.753307
+2022-04-02 14:00:00,Wolverhampton Wanderers,Aston Villa,2,1,1.62151,1.91256
+2022-04-02 14:00:00,Leeds,Southampton,1,1,1.50715,2.06387
+2022-04-02 14:00:00,Chelsea,Brentford,1,4,1.29014,2.43422
+2022-04-02 14:00:00,Burnley,Manchester City,0,2,0.0591223,1.62008
+2022-04-02 14:00:00,Brighton,Norwich,0,0,2.38297,0.494112
+2022-04-02 16:30:00,Manchester United,Leicester,1,1,0.902127,1.07638
+2022-04-03 13:00:00,West Ham,Everton,2,1,1.49657,0.657846
+2022-04-03 15:30:00,Tottenham,Newcastle United,5,1,3.6081,0.538152
+2022-04-04 19:00:00,Crystal Palace,Arsenal,3,0,1.39707,1.05199
+2022-04-06 18:30:00,Burnley,Everton,3,2,2.24439,2.31574
+2022-04-08 19:00:00,Newcastle United,Wolverhampton Wanderers,1,0,1.43878,0.306867
+2022-04-09 11:30:00,Everton,Manchester United,1,0,0.357295,0.762357
+2022-04-09 14:00:00,Watford,Leeds,0,3,1.07422,0.895612
+2022-04-09 14:00:00,Southampton,Chelsea,0,6,0.564726,4.39683
+2022-04-09 14:00:00,Arsenal,Brighton,1,2,2.35153,0.596106
+2022-04-09 16:30:00,Aston Villa,Tottenham,0,4,1.48712,0.983601
+2022-04-10 13:00:00,Norwich,Burnley,2,0,1.6723,1.44652
+2022-04-10 13:00:00,Leicester,Crystal Palace,2,1,0.879235,1.52767
+2022-04-10 13:00:00,Brentford,West Ham,2,0,1.85534,0.244824
+2022-04-10 15:30:00,Manchester City,Liverpool,2,2,1.34647,1.29983
+2022-04-16 11:30:00,Tottenham,Brighton,0,1,0.58624,0.711155
+2022-04-16 14:00:00,Watford,Brentford,1,2,1.50381,2.12457
+2022-04-16 14:00:00,Southampton,Arsenal,1,0,1.04007,1.35002
+2022-04-16 14:00:00,Manchester United,Norwich,3,2,1.66737,1.79754
+2022-04-17 13:15:00,West Ham,Burnley,1,1,2.79175,1.88137
+2022-04-17 13:15:00,Newcastle United,Leicester,2,1,2.54294,0.541084
+2022-04-19 19:00:00,Liverpool,Manchester United,4,0,2.25967,0.110227
+2022-04-20 18:45:00,Everton,Leicester,1,1,1.68819,0.786333
+2022-04-20 18:45:00,Chelsea,Arsenal,2,4,0.593801,1.87331
+2022-04-20 18:45:00,Newcastle United,Crystal Palace,1,0,0.767855,0.432788
+2022-04-20 19:00:00,Manchester City,Brighton,3,0,1.52844,0.117354
+2022-04-21 18:45:00,Burnley,Southampton,2,0,2.14743,1.31837
+2022-04-23 11:30:00,Arsenal,Manchester United,3,1,2.54173,2.04244
+2022-04-23 14:00:00,Norwich,Newcastle United,0,3,0.657661,1.87558
+2022-04-23 14:00:00,Manchester City,Watford,5,1,3.68,0.42632
+2022-04-23 14:00:00,Leicester,Aston Villa,0,0,0.235635,0.593202
+2022-04-23 16:30:00,Brentford,Tottenham,0,0,1.3153,0.517755
+2022-04-24 13:00:00,Chelsea,West Ham,1,0,2.34959,0.388975
+2022-04-24 13:00:00,Burnley,Wolverhampton Wanderers,1,0,1.27298,0.592902
+2022-04-24 13:00:00,Brighton,Southampton,2,2,1.87343,0.926764
+2022-04-24 15:30:00,Liverpool,Everton,2,0,1.70397,0.424961
+2022-04-25 19:00:00,Crystal Palace,Leeds,0,0,1.61656,0.374044
+2022-04-28 18:45:00,Manchester United,Chelsea,1,1,0.618456,2.46868
+2022-04-30 11:30:00,Newcastle United,Liverpool,0,1,0.115353,2.73435
+2022-04-30 14:00:00,Wolverhampton Wanderers,Brighton,0,3,0.525912,2.90679
+2022-04-30 14:00:00,Watford,Burnley,1,2,0.785742,1.37022
+2022-04-30 14:00:00,Southampton,Crystal Palace,1,2,0.650256,0.756217
+2022-04-30 14:00:00,Aston Villa,Norwich,2,0,2.31192,0.352212
+2022-04-30 16:30:00,Leeds,Manchester City,0,4,1.03608,3.01431
+2022-05-01 13:00:00,Tottenham,Leicester,3,1,1.65338,0.274133
+2022-05-01 13:00:00,Everton,Chelsea,1,0,1.11712,1.21141
+2022-05-01 15:30:00,West Ham,Arsenal,1,2,0.451976,0.964564
+2022-05-02 19:00:00,Manchester United,Brentford,3,0,1.84111,0.681425
+2022-05-07 14:00:00,Crystal Palace,Watford,1,0,2.49142,0.255373
+2022-05-07 14:00:00,Chelsea,Wolverhampton Wanderers,2,2,1.82098,1.6842
+2022-05-07 14:00:00,Burnley,Aston Villa,1,3,1.31028,1.81256
+2022-05-07 14:00:00,Brentford,Southampton,3,0,3.68223,0.988574
+2022-05-07 16:30:00,Brighton,Manchester United,4,0,2.82636,0.930715
+2022-05-07 18:45:00,Liverpool,Tottenham,1,1,1.0481,0.982635
+2022-05-08 13:00:00,Norwich,West Ham,0,4,0.77895,3.25894
+2022-05-08 13:00:00,Leicester,Everton,1,2,1.47479,1.55635
+2022-05-08 13:00:00,Arsenal,Leeds,2,1,2.7227,0.696785
+2022-05-08 15:30:00,Manchester City,Newcastle United,5,0,4.05613,0.995099
+2022-05-10 19:00:00,Aston Villa,Liverpool,1,2,1.44726,1.75417
+2022-05-11 18:30:00,Leeds,Chelsea,0,3,0.499789,1.46853
+2022-05-11 18:45:00,Leicester,Norwich,3,0,2.57058,1.21966
+2022-05-11 18:45:00,Watford,Everton,0,0,0.232236,0.812193
+2022-05-11 19:15:00,Wolverhampton Wanderers,Manchester City,1,5,0.411857,3.39304
+2022-05-12 18:45:00,Tottenham,Arsenal,3,0,3.42522,0.387446
+2022-05-15 11:00:00,Tottenham,Burnley,1,0,2.39449,0.629888
+2022-05-15 13:00:00,Wolverhampton Wanderers,Norwich,1,1,0.999066,1.53212
+2022-05-15 13:00:00,West Ham,Manchester City,2,2,1.0088,2.14723
+2022-05-15 13:00:00,Watford,Leicester,1,5,2.58968,2.27297
+2022-05-15 13:00:00,Leeds,Brighton,1,1,2.22282,2.25898
+2022-05-15 13:00:00,Aston Villa,Crystal Palace,1,1,0.799443,1.39009
+2022-05-15 15:30:00,Everton,Brentford,2,3,2.69589,1.81626
+2022-05-16 19:00:00,Newcastle United,Arsenal,2,0,1.68299,0.492454
+2022-05-17 18:45:00,Southampton,Liverpool,1,2,0.121506,1.19178
+2022-05-19 18:45:00,Everton,Crystal Palace,3,2,0.813157,1.6023
+2022-05-19 19:00:00,Aston Villa,Burnley,1,1,0.996403,1.63117
+2022-05-19 19:00:00,Chelsea,Leicester,1,1,1.61996,0.0417972
+2022-05-22 15:00:00,Arsenal,Everton,5,1,4.35597,1.08601
+2022-05-22 15:00:00,Brentford,Leeds,1,2,0.844985,1.47786
+2022-05-22 15:00:00,Brighton,West Ham,3,1,1.67774,0.268845
+2022-05-22 15:00:00,Burnley,Newcastle United,1,2,1.49164,1.74291
+2022-05-22 15:00:00,Chelsea,Watford,2,1,2.59231,0.575755
+2022-05-22 15:00:00,Crystal Palace,Manchester United,1,0,0.354618,0.782005
+2022-05-22 15:00:00,Leicester,Southampton,4,1,3.42058,1.05141
+2022-05-22 15:00:00,Liverpool,Wolverhampton Wanderers,3,1,3.19385,1.11708
+2022-05-22 15:00:00,Manchester City,Aston Villa,3,2,3.3209,0.247841
+2022-05-22 15:00:00,Norwich,Tottenham,0,5,0.310789,3.815
