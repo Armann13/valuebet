@@ -226,7 +226,8 @@ def test_add_sharp():
         "ps_o25": [1.9, 1.9, nan, nan], "ps_u25": [1.95, 1.95, nan, nan],
     })
     s = add_sharp(df)
-    assert list(s["sharp_src_1x2"]) == ["ps", "bfe", None, None]
+    src = s["sharp_src_1x2"]  # eksik kaynak: pandas 2'de None, pandas 3'te NaN
+    assert list(src[:2]) == ["ps", "bfe"] and src[2:].isna().all()
     assert s.loc[0, "sharp_d"] == 3.4 and s.loc[1, "sharp_d"] == 3.6  # bir marketin oranları tek kaynaktan
     assert np.isnan(s.loc[2:, ["sharp_h", "sharp_d", "sharp_a"]].to_numpy()).all()
     assert list(s["sharp_src_ou"][:2]) == ["ps", "ps"] and np.isnan(s["sharpc_h"]).all()
