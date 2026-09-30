@@ -10,6 +10,7 @@
     python main.py track             # kağıt üzerinde canlı takip (tracking/)
     python main.py iddaa             # İddaa oranlarını topla (data/raw/iddaa/)
     python main.py tavsiye           # risk seviyesine göre tavsiyeler (reports/tavsiye_{tarih}.md)
+    python main.py telegram          # tavsiyeleri Telegram'a gönder (--kurulum: ilk kurulum)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -150,9 +151,9 @@ def cmd_tavsiye(args):
     from pathlib import Path
 
     from src import tavsiye
-    md = tavsiye.run(Path(args.fixtures) if args.fixtures else config.RAW_DIR / "fixtures.csv", xi=args.xi,
-                     ridge=args.ridge, ridge_total=args.ridge_total, joint=args.joint, motivation=args.motivation,
-                     as_of=args.prova, days=args.gun)
+    md, picks = tavsiye.run(Path(args.fixtures) if args.fixtures else config.RAW_DIR / "fixtures.csv", xi=args.xi,
+                            ridge=args.ridge, ridge_total=args.ridge_total, joint=args.joint,
+                            motivation=args.motivation, as_of=args.prova, days=args.gun)
     config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     name = f"tavsiye_prova_{args.prova}" if args.prova else f"tavsiye_{time.strftime('%Y-%m-%d')}"
     out = config.REPORTS_DIR / f"{name}.md"
@@ -161,7 +162,16 @@ def cmd_tavsiye(args):
         config.TAVSIYE_DIR.mkdir(parents=True, exist_ok=True)
         (config.TAVSIYE_DIR / "son.md").write_text(md, encoding="utf-8")
         (config.TAVSIYE_DIR / f"{time.strftime('%Y-%m-%d')}.md").write_text(md, encoding="utf-8")
+        picks.to_csv(config.TAVSIYE_DIR / "son.csv", index=False)  # Telegram bildirimi buradan okur
     print(md + f"\n\nRapor: {out}")
+
+
+def cmd_telegram(args):
+    from src import telegram
+    if args.kurulum:
+        telegram.setup()
+    else:
+        telegram.notify()
 
 
 def cmd_iddaa(args):
@@ -238,7 +248,7 @@ def main():
                         help="sezon sonu motivasyonunu (puan durumundan) modele kat")
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
-                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye),
+                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -267,6 +277,9 @@ def main():
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
         if name in ("track", "tavsiye"):
             sp.add_argument("--fixtures", help="fixtures.csv yolu (varsayılan: data/raw/fixtures.csv)")
+        if name == "telegram":
+            sp.add_argument("--kurulum", action="store_true",
+                            help="sohbet numarasını bul ve test mesajı gönder (TELEGRAM_BOT_TOKEN gerekli)")
         if name == "tavsiye":
             sp.add_argument("--prova", help="geçmiş bir tarihten (YYYY-AA-GG) itibaren prova: model o tarihe kadarki "
                                             "veriyle, tavsiyeler gerçekleşen sonuçlarla karşılaştırılır")

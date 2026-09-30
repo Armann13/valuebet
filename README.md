@@ -97,6 +97,24 @@ Bir model değişikliğini denerken: önce `reports/backtest_preds_*.csv` dosyal
 değişikliği yapıp `backtest` çalıştır, sonra `diagnose --base <klasör>` ile değişikliğin hangi maçlarda işe
 yaradığını gör.
 
+### Telegram bildirimi
+
+GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
+- **Günlük özet** (TR 09:00'dan sonraki ilk çalıştırmada): bugün ve yarının maçları için 💎 değerli bahisler ve
+  Tier 1-3'ten öne çıkanlar, tam raporun linki.
+- **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
+
+Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur):
+1. Telegram'da **@BotFather** → `/newbot` → bota bir ad ve kullanıcı adı ver → verdiği **anahtarı (token)** kopyala.
+2. Telegram'da yeni botunu aç ve ona "merhaba" yaz.
+3. VS Code terminalinde:
+   ```powershell
+   $env:TELEGRAM_BOT_TOKEN = "BURAYA_ANAHTAR"
+   python main.py telegram --kurulum      # sohbet numaranı bulur, test mesajı gönderir
+   gh secret set TELEGRAM_BOT_TOKEN       # sorunca anahtarı yapıştır
+   gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
+   ```
+
 ### Canlı takip (kağıt üzerinde)
 
 GitHub Actions her veri güncellemesinden sonra `python main.py track` çalıştırır ve sonuçları depoya yazar:
@@ -184,6 +202,7 @@ src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar
 src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-data)
 src/iddaa.py         İddaa oranlarının otomatik toplanması (data/raw/iddaa/)
 src/tavsiye.py       risk seviyesine göre tavsiye raporu (piyasaya ayarlı skor tablosundan tüm marketler)
+src/telegram.py      Telegram bildirimi (günlük özet + yeni 💎 uyarısı)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)

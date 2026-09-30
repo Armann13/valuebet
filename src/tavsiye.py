@@ -132,7 +132,9 @@ def _history(matches: pd.DataFrame, start: pd.Timestamp, days: int) -> pd.DataFr
 
 
 def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config.RIDGE_TOTAL,
-        joint=config.JOINT, motivation=config.MOTIVATION, as_of: str | None = None, days: int = 4) -> str:
+        joint=config.JOINT, motivation=config.MOTIVATION, as_of: str | None = None,
+        days: int = 4) -> tuple[str, pd.DataFrame]:
+    """Döner: markdown rapor ve seçilen tahminler tablosu (seviye, maç, tahmin, olasılık, oran, değer ...)."""
     from src.predict import _fit_models
     matches = db.load_matches()
     if as_of:
@@ -155,7 +157,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                "Geçmiş İddaa oranı olmadığı için fiyat Bet365. Tek hafta sonu çok küçük bir örnek — sonuçlar "
                "şanstan çok etkilenir; amaç sistemin nasıl çalıştığını göstermek.", ""]
     if up.empty:
-        return "\n".join(md + ["Maç bulunamadı."])
+        return "\n".join(md + ["Maç bulunamadı."]), pd.DataFrame()
     if motivation:
         train = add_motivation(train)
         up = add_motivation(train, up)
@@ -173,6 +175,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         if src == "piyasa":
             m = calibrate(m, target, target_ou)
         info = {"maç": f"{r['home']} – {r['away']}", "lig": r["div"], "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
+                "gün": pd.Timestamp(r["date"]).strftime("%Y-%m-%d"),
                 "mbs": r.get("mbs"), "kaynak": src, "hg": r.get("fthg", np.nan), "ag": r.get("ftag", np.nan)}
         for bet, p in market_probs(m).items():
             col = ODD_COL.get(bet)
@@ -236,4 +239,5 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                       f"{'—' if not has.any() else f'{pl:+.2f}'} | %{100 * t['p'].mean():.0f} |")
         md += ["", "'Beklenen isabet' = seçilen tahminlerin ortalama olasılığı. Gerçek isabet buna yakınsa olasılıklar "
                "doğru demektir; kâr ise isabetten değil fiyattan (değer) gelir."]
-    return "\n".join(md)
+    frames = [t.assign(seviye=name) for name, t in picked if not t.empty]
+    return "\n".join(md), (pd.concat(frames, ignore_index=True) if frames else pd.DataFrame())

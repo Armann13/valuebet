@@ -37,6 +37,13 @@ jobs:
       - name: Tavsiye raporu (tavsiyeler/son.md)
         run: python main.py tavsiye --yayinla --fixtures data/raw/fixtures.csv
 
+      - name: Telegram bildirimi
+        continue-on-error: true   # bildirim hatası veri kaydını engellemesin
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py telegram
+
       - name: Değişiklik varsa commit et
         run: |
           git config user.name "github-actions[bot]"

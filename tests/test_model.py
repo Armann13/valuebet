@@ -296,6 +296,26 @@ def test_tavsiye_markets():
     assert bet_won("ÇŞ X-2", 1, 1) and bet_won("2.5 Alt", 1, 1) and bet_won("1-1", 1, 1) and not bet_won("2-0", 2, 1)
 
 
+def test_telegram_messages():
+    from datetime import datetime
+    from src.telegram import build_messages
+    row = {"maç": "A – B", "lig": "E3", "tarih": "03.10", "gün": "2026-10-03", "mbs": 1, "kaynak": "piyasa"}
+    picks = pd.DataFrame([
+        {**row, "seviye": "💎 Değeri pozitif olanlar", "tahmin": "MS 1", "p": 0.55, "odd": 2.0, "değer": 0.10,
+         "gerçek_değer": True},
+        {**row, "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.80, "odd": float("nan"),
+         "değer": float("nan"), "gerçek_değer": False}])
+    msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet
+    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "Tier 1" in msgs[0]
+    msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 13, 0))  # aynı gün tekrar: hiçbir şey
+    assert msgs == []
+    new = pd.concat([picks, picks.iloc[[0]].assign(maç="C – D")], ignore_index=True)
+    msgs, st = build_messages(new, st, datetime(2026, 10, 3, 16, 0))  # yeni 💎: anlık uyarı
+    assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0] and "C – D" in msgs[0] and "A – B" not in msgs[0]
+    msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
+    assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
+
+
 def test_xg_fit():
     """xG hedefiyle (tam sayı olmayan Poisson hedefi) eğitim yakınsar ve anlamlı güçler verir."""
     df, att, dfn = _simulate(seasons=1, seed=4)
