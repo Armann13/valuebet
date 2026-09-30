@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+# data/raw GitHub Actions ile güncellenir ve depoda tutulur; veritabanı yerelde üretilir
+data/*
+!data/raw/
+reports/
+tests/_synthetic_data/
+tests/_synthetic_reports/
+tests/_e2e/
+iddaa.csv

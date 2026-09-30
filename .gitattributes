@@ -1,0 +1,2 @@
+# İndirilen CSV'ler kaynaktaki haliyle, bayt bayt aynı kalsın (satır sonu dönüşümü yok)
+data/raw/*.csv -text

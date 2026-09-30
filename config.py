@@ -1,0 +1,78 @@
+"""Proje ayarları. Parametrelerin çoğu komut satırından da ezilebilir (python main.py --help)."""
+import os
+from datetime import date
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+
+# Veri klasörü. Testler sentetik veriyi ayrı bir klasöre yazmak için VALUEBET_DATA_DIR kullanır;
+# gerçek verin bu sayede asla karışmaz.
+DATA_DIR = Path(os.environ.get("VALUEBET_DATA_DIR", ROOT / "data"))
+RAW_DIR = DATA_DIR / "raw"
+DB_PATH = DATA_DIR / "football.db"
+REPORTS_DIR = Path(os.environ.get("VALUEBET_REPORTS_DIR", ROOT / "reports"))
+
+# ---------------------------------------------------------------- Veri
+LEAGUES = {
+    "SP1": "La Liga",
+    "SP2": "La Liga 2 (Segunda)",
+}
+FIRST_SEASON = 2014  # 2014/15 sezonu. Model zaman ağırlıklı olduğu için daha eskisine gerek yok.
+
+
+def current_season() -> int:
+    """Sezon başlangıç yılı: Temmuz ve sonrası yeni sezon sayılır."""
+    t = date.today()
+    return t.year if t.month >= 7 else t.year - 1
+
+
+SEASON_URL = "https://www.football-data.co.uk/mmz4281/{code}/{div}.csv"
+FIXTURES_URL = "https://www.football-data.co.uk/fixtures.csv"
+
+# football-data.co.uk oran sütunları -> bizim kısa adlarımız.
+#   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)
+#   avg / max = piyasa ortalaması / en iyi oran
+#   sonunda "c" olanlar kapanış (closing) oranları. Kapanış oranları 2019/20'den itibaren var.
+BOOKS = ["b365", "ps", "avg", "max", "b365c", "psc", "avgc", "maxc"]
+_1X2_PREFIX = {"b365": "B365", "ps": "PS", "avg": "Avg", "max": "Max",
+               "b365c": "B365C", "psc": "PSC", "avgc": "AvgC", "maxc": "MaxC"}
+_OU_PREFIX = {"b365": "B365", "ps": "P", "avg": "Avg", "max": "Max",
+              "b365c": "B365C", "psc": "PC", "avgc": "AvgC", "maxc": "MaxC"}
+
+
+def odds_column_map() -> dict:
+    """Kaynak CSV sütun adı -> veritabanı sütun adı. Birden fazla kaynak aynı hedefe gidebilir;
+    ilk dolu olan kullanılır (site bazı sezonlarda farklı adlar kullanmış)."""
+    m = {}
+    for book in BOOKS:
+        p = _1X2_PREFIX[book]
+        m[f"{p}H"], m[f"{p}D"], m[f"{p}A"] = f"{book}_h", f"{book}_d", f"{book}_a"
+        q = _OU_PREFIX[book]
+        m[f"{q}>2.5"], m[f"{q}<2.5"] = f"{book}_o25", f"{book}_u25"
+        if book.endswith("c"):  # notes.txt'deki alternatif yazım: PSHC, AvgHC, MaxHC ...
+            base = _1X2_PREFIX[book[:-1]]
+            m[f"{base}HC"], m[f"{base}DC"], m[f"{base}AC"] = f"{book}_h", f"{book}_d", f"{book}_a"
+    # 2019 öncesi dosyalarda ortalama/en iyi oranlar Betbrain sütunlarında
+    for src, dst in [("BbAv", "avg"), ("BbMx", "max")]:
+        m[f"{src}H"], m[f"{src}D"], m[f"{src}A"] = f"{dst}_h", f"{dst}_d", f"{dst}_a"
+        m[f"{src}>2.5"], m[f"{src}<2.5"] = f"{dst}_o25", f"{dst}_u25"
+    return m
+
+
+# ---------------------------------------------------------------- Model (Dixon-Coles)
+XI = 0.0019           # günlük zaman sönümü; yarı ömür = ln(2)/XI ≈ 365 gün
+RIDGE = 0.5           # atak/defans parametrelerine L2 çekimi (az maçlı takımları ortalamaya çeker)
+LOOKBACK_DAYS = 3 * 365
+MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
+
+# ---------------------------------------------------------------- Backtest / value
+EVAL_FROM_SEASON = 2019   # kapanış oranları bu sezondan itibaren mevcut
+BET_BOOK = "b365"         # backtest'te "oynadığımız" oranlar (İddaa geçmişi olmadığı için yumuşak bir büro vekil)
+CLOSING_BOOK = "psc"      # kıyas noktası: Pinnacle kapanış (piyasanın en keskin tahmini)
+DEVIG_METHOD = "power"    # "power" veya "proportional"
+EDGE_MIN = 0.03           # model_olasılığı * oran - 1 >= %3 ise value say
+MAX_ODDS = 6.0            # çok yüksek oranlı sürprizleri dışarıda bırak (model hatası burada en büyük)
+MIN_TEAM_MATCHES = 5      # eğitim penceresinde bu kadar maçı olmayan takımlara bahis yok
+KELLY_FRACTION = 0.25     # çeyrek Kelly
+KELLY_CAP = 0.02          # tek bahiste kasanın en fazla %2'si
+START_BANKROLL = 1000.0
