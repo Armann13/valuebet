@@ -8,6 +8,8 @@ listeler. Model ayarları (ridge, motivasyon, xG ağırlığı) İspanya'da seç
 doğrulanır.
 
 Öneriler:
+- **Otomatik:** GitHub Actions 3 saatte bir (İddaa oranları toplandıktan sonra) tavsiye raporunu üretir:
+  `tavsiyeler/son.md` (en güncel) ve `tavsiyeler/{tarih}.md`. GitHub'da (telefondan da) açıp okumak yeterli.
 - `python main.py tavsiye` → `reports/tavsiye_{tarih}.md`: yaklaşan maçlar için risk seviyesine göre tavsiye
   (Tier 1 düşük risk ≥%70 … Tier 5 kesin skor). Her tahminin olasılığı, adil oranı, İddaa oranı ve **değeri**
   yazılır; risk seviyesi "tutma olasılığı", değer "fiyatın iyi olup olmadığı"dır — ayrı şeyler.

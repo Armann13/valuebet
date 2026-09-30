@@ -13,6 +13,8 @@ DB_PATH = DATA_DIR / "football.db"
 REPORTS_DIR = Path(os.environ.get("VALUEBET_REPORTS_DIR", ROOT / "reports"))
 # Canlı (kağıt üzerinde) takip kayıtları; git'te tutulur (bkz. src/tracking.py)
 TRACKING_DIR = Path(os.environ.get("VALUEBET_TRACKING_DIR", ROOT / "tracking"))
+# Otomatik üretilen tavsiye raporları (tavsiyeler/son.md); git'te tutulur, GitHub'da okunur
+TAVSIYE_DIR = Path(os.environ.get("VALUEBET_TAVSIYE_DIR", ROOT / "tavsiyeler"))
 
 # ---------------------------------------------------------------- Veri
 # football-data.co.uk ana ligleri (kod -> ad)

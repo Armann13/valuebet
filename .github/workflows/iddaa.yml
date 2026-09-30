@@ -1,5 +1,5 @@
-# İddaa oranlarını (La Liga + La Liga 2) 3 saatte bir toplar; değişen oranlar data/raw/iddaa/'ya yazılır.
-# Oran geçmişi, İddaa fiyatlarının keskin kapanışa göre değerini (CLV) ölçmek için kullanılır.
+# İddaa oranlarını (tüm takip edilen ligler) 3 saatte bir toplar; değişen oranlar data/raw/iddaa/'ya yazılır.
+# Ardından risk seviyeli tavsiye raporunu üretir: tavsiyeler/son.md (GitHub'da okunur) + günün arşivi.
 name: İddaa oranları
 
 on:
@@ -34,11 +34,14 @@ jobs:
       - name: Oranları topla
         run: python main.py iddaa
 
+      - name: Tavsiye raporu (tavsiyeler/son.md)
+        run: python main.py tavsiye --yayinla --fixtures data/raw/fixtures.csv
+
       - name: Değişiklik varsa commit et
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/iddaa 2>/dev/null || true
+          git add data/raw/iddaa tavsiyeler 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Yeni oran yok."
             exit 0

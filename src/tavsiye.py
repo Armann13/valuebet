@@ -89,12 +89,14 @@ def _sharp_1x2(df: pd.DataFrame) -> pd.DataFrame:
                      keskin_alt=ou[:, 1])
 
 
-def _upcoming(fixtures_path) -> pd.DataFrame:
-    """Henüz başlamamış maçlar: İddaa'da listelenenler (son oranlarıyla) + fikstürdekiler (keskin oranlarla)."""
+def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
+    """Henüz başlamamış maçlar: İddaa'da listelenenler (son oranlarıyla) + fikstürdekiler (keskin oranlarla).
+    Döner: maçlar ve İddaa oranlarının son kayıt zamanı (UTC)."""
     from src import iddaa
     now = pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None))
     rows = []
     odds = iddaa.load_odds()
+    last_snap = odds["snapshot_utc"].max() if not odds.empty else None
     if not odds.empty:
         last = odds[odds["kickoff_utc"] > now].sort_values("snapshot_utc").groupby("event_id").tail(1)
         last = last.dropna(subset=["home", "away"])
@@ -107,14 +109,14 @@ def _upcoming(fixtures_path) -> pd.DataFrame:
         if not fx.empty:
             rows.append(_sharp_1x2(fx).assign(kaynak="fikstür"))
     if not rows:
-        return pd.DataFrame()
+        return pd.DataFrame(), last_snap
     up = pd.concat(rows, ignore_index=True, sort=False)
     # aynı maç iki kaynakta: keskin oranları fikstürden, İddaa oranlarını İddaa'dan al ("first" boşları atlar)
     keep = [c for c in up if c.startswith(("odd_", "keskin_")) or c in ("mbs", "ou_line", "kickoff_utc")]
     merged = up.groupby(["div", "home", "away"], as_index=False).agg(
         {**{c: "first" for c in keep}, "date": "min", "kaynak": lambda s: " + ".join(sorted(set(s)))})
     merged["season"] = np.where(merged["date"].dt.month >= 7, merged["date"].dt.year, merged["date"].dt.year - 1)
-    return merged
+    return merged, last_snap
 
 
 def _history(matches: pd.DataFrame, start: pd.Timestamp, days: int) -> pd.DataFrame:
@@ -138,8 +140,10 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         up, train, price = _history(matches, start, days), matches[matches["date"] < start], "B365"
         title = f"# Tavsiye provası — {start:%d.%m.%Y} ve sonraki {days} gün (sonuçlarla)"
     else:
-        up, train, price = _upcoming(fixtures_path), matches, "İddaa"
+        (up, last_snap), train, price = _upcoming(fixtures_path), matches, "İddaa"
         title = f"# Tavsiyeler — {date.today():%d.%m.%Y}"
+        if last_snap is not None:
+            title += f"\n\nİddaa oranlarının son kaydı: {last_snap + pd.Timedelta(hours=3):%d.%m %H:%M} (TR saati)"
     md = [title, "",
           f"Her satır: tahmin — kazanma olasılığı, adil oran, {price} oranı ve **değer** ({price} oranı adil oranın "
           "üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük "

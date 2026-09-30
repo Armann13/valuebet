@@ -157,6 +157,10 @@ def cmd_tavsiye(args):
     name = f"tavsiye_prova_{args.prova}" if args.prova else f"tavsiye_{time.strftime('%Y-%m-%d')}"
     out = config.REPORTS_DIR / f"{name}.md"
     out.write_text(md, encoding="utf-8")
+    if args.yayinla and not args.prova:  # GitHub'da okunacak kopya: son.md + günün arşivi
+        config.TAVSIYE_DIR.mkdir(parents=True, exist_ok=True)
+        (config.TAVSIYE_DIR / "son.md").write_text(md, encoding="utf-8")
+        (config.TAVSIYE_DIR / f"{time.strftime('%Y-%m-%d')}.md").write_text(md, encoding="utf-8")
     print(md + f"\n\nRapor: {out}")
 
 
@@ -267,6 +271,8 @@ def main():
             sp.add_argument("--prova", help="geçmiş bir tarihten (YYYY-AA-GG) itibaren prova: model o tarihe kadarki "
                                             "veriyle, tavsiyeler gerçekleşen sonuçlarla karşılaştırılır")
             sp.add_argument("--gun", type=int, default=4, help="provada kaç günlük maç (varsayılan 4)")
+            sp.add_argument("--yayinla", action="store_true",
+                            help="raporu tavsiyeler/son.md'ye de yaz (GitHub Actions kullanır)")
         if name == "predict":
             sp.add_argument("--fixtures", help="yerel fixtures.csv yolu (verilmezse indirilir)")
             sp.add_argument("--iddaa", help="İddaa oranları: CSV yolu (bkz. iddaa_ornek.csv) ya da 'auto' "

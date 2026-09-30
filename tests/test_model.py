@@ -323,7 +323,8 @@ def test_end_to_end():
     tmp = ROOT / "tests" / "_e2e"
     shutil.rmtree(tmp, ignore_errors=True)
     env = {**os.environ, "VALUEBET_DATA_DIR": str(tmp / "data"), "VALUEBET_REPORTS_DIR": str(tmp / "reports"),
-           "VALUEBET_TRACKING_DIR": str(tmp / "tracking"), "PYTHONIOENCODING": "utf-8"}
+           "VALUEBET_TRACKING_DIR": str(tmp / "tracking"), "VALUEBET_TAVSIYE_DIR": str(tmp / "tavsiyeler"),
+           "PYTHONIOENCODING": "utf-8"}
     run = lambda *a: subprocess.run([sys.executable, *a], cwd=ROOT, env=env, capture_output=True,  # noqa: E731
                                     text=True, encoding="utf-8", errors="replace", timeout=900)
     r = run("tests/make_synthetic.py", str(tmp / "data" / "raw"))
@@ -429,9 +430,11 @@ def test_end_to_end():
     r = run("main.py", "predict", "--fixtures", fixtures, "--iddaa", "auto")
     assert r.returncode == 0, r.stderr
     assert "otomatik toplanan oranlar, 1 maç" in r.stdout and "İddaa oranlarına göre" in r.stdout, r.stdout[-1500:]
-    r = run("main.py", "tavsiye", "--fixtures", fixtures)
+    r = run("main.py", "tavsiye", "--fixtures", fixtures, "--yayinla")
     assert r.returncode == 0, r.stderr
     assert all(s in r.stdout for s in ("Tier 1", "Tier 5", "Değeri pozitif")), r.stdout[-1500:]
+    son = (tmp / "tavsiyeler" / "son.md").read_text(encoding="utf-8")
+    assert "Tier 1" in son and "İddaa oranlarının son kaydı" in son, son[:300]
     r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma
     assert r.returncode == 0, r.stderr
     assert "Sonuç özeti" in r.stdout and ("✅" in r.stdout or "❌" in r.stdout), r.stdout[-1500:]
