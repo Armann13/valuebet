@@ -117,6 +117,13 @@ def notify() -> int:
     return 0
 
 
+def test() -> None:
+    """GitHub'daki gizli ayarlarla (secrets) mesaj gidiyor mu: tek bir test mesajı."""
+    if not send("✅ GitHub'dan test mesajı: tavsiyeler buraya otomatik gelecek (günlük özet + yeni 💎)."):
+        raise SystemExit(1)
+    print("  telegram: test mesajı gönderildi")
+
+
 def setup() -> None:
     """Kurulum yardımı: TELEGRAM_BOT_TOKEN ortam değişkeniyle botuna son yazan sohbetin numarasını bulur ve
     test mesajı gönderir. Önce Telegram'da botuna bir mesaj yaz."""

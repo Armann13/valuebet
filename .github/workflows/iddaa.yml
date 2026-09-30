@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "17 */3 * * *"
   workflow_dispatch:
+    inputs:
+      telegram_test:
+        description: "Telegram'a test mesajı gönder"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -36,6 +41,13 @@ jobs:
 
       - name: Tavsiye raporu (tavsiyeler/son.md)
         run: python main.py tavsiye --yayinla --fixtures data/raw/fixtures.csv
+
+      - name: Telegram test mesajı (elle, isteğe bağlı)
+        if: ${{ inputs.telegram_test }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py telegram --test
 
       - name: Telegram bildirimi
         continue-on-error: true   # bildirim hatası veri kaydını engellemesin

@@ -170,6 +170,8 @@ def cmd_telegram(args):
     from src import telegram
     if args.kurulum:
         telegram.setup()
+    elif args.test:
+        telegram.test()
     else:
         telegram.notify()
 
@@ -280,6 +282,7 @@ def main():
         if name == "telegram":
             sp.add_argument("--kurulum", action="store_true",
                             help="sohbet numarasını bul ve test mesajı gönder (TELEGRAM_BOT_TOKEN gerekli)")
+            sp.add_argument("--test", action="store_true", help="tek bir test mesajı gönder")
         if name == "tavsiye":
             sp.add_argument("--prova", help="geçmiş bir tarihten (YYYY-AA-GG) itibaren prova: model o tarihe kadarki "
                                             "veriyle, tavsiyeler gerçekleşen sonuçlarla karşılaştırılır")
