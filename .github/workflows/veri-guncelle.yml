@@ -53,4 +53,5 @@ jobs:
             exit 0
           fi
           git commit -m "Veri ve takip güncellemesi $(date -u +%Y-%m-%d)"
+          git pull --rebase
           git push

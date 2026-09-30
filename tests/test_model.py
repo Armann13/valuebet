@@ -251,6 +251,24 @@ def test_parse_understat():
     assert TeamResolver(["Ath Bilbao", "Getafe", "Betis"])("Athletic Club") == "Ath Bilbao"
 
 
+def test_parse_iddaa():
+    from src.iddaa import parse_events
+    ev = [{"i": 1, "hn": "Real Madrid", "an": "Villarreal", "ci": 129, "d": 1790870400, "mbc": 1,
+           "m": [{"t": 1, "st": 1, "o": [{"no": 1, "odd": 1.45, "wodd": 1.39, "n": "1"},
+                                         {"no": 2, "odd": 4.4, "wodd": 4.23, "n": "0"},
+                                         {"no": 3, "odd": 5.9, "wodd": 5.67, "n": "2"}]},
+                 {"t": 2, "st": 101, "sov": "2.5", "o": [{"no": 1, "odd": 2.1, "wodd": 2.02, "n": "Alt"},
+                                                         {"no": 2, "odd": 1.62, "wodd": 1.56, "n": "Üst"}]},
+                 {"t": 2, "st": 89, "o": [{"no": 1, "odd": 1.7, "n": "Var"}, {"no": 2, "odd": 2.0, "n": "Yok"}]}]},
+          {"i": 2, "hn": "X", "an": "Y", "ci": 999, "d": 1790870400, "m": []}]  # başka lig: atlanır
+    df = parse_events(ev, {129: "SP1"})
+    assert len(df) == 1
+    r = df.iloc[0]
+    assert (r["div"], r["odd_1"], r["odd_x"], r["odd_2"], r["ou_line"], r["odd_ust"], r["mbs"]) == \
+        ("SP1", 1.45, 4.4, 5.9, 2.5, 1.62, 1)
+    assert r["kickoff_utc"] == "2026-10-01 16:00"
+
+
 def test_xg_fit():
     """xG hedefiyle (tam sayı olmayan Poisson hedefi) eğitim yakınsar ve anlamlı güçler verir."""
     df, att, dfn = _simulate(seasons=1, seed=4)

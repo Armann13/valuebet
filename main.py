@@ -8,6 +8,7 @@
     python main.py predict           # yaklaşan maçlar için olasılıklar ve value adayları
     python main.py predict --iddaa iddaa.csv
     python main.py track             # kağıt üzerinde canlı takip (tracking/)
+    python main.py iddaa             # İddaa oranlarını topla (data/raw/iddaa/)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -113,6 +114,12 @@ def cmd_predict(args):
     predict.print_table(res)
 
 
+def cmd_iddaa(args):
+    from src import iddaa
+    print("İddaa oranları toplanıyor ...")
+    iddaa.collect()
+
+
 def cmd_track(args):
     from src import predict, tracking
     upcoming = None
@@ -174,7 +181,7 @@ def main():
                         help="sezon sonu motivasyonunu (puan durumundan) modele kat")
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
-                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track),
+                     ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)

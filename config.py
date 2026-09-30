@@ -33,6 +33,10 @@ FIXTURES_URL = "https://www.football-data.co.uk/fixtures.csv"
 # Maç bazında xG (Understat; resmi API yok, sayfanın kullandığı JSON uç noktası). La Liga 2 kapsanmıyor.
 XG_URL = "https://understat.com/getLeagueData/{league}/{season}"
 UNDERSTAT_LEAGUES = {"SP1": "La_liga"}
+# İddaa oranları (resmi API yok; iddaa.com'un kullandığı JSON uç noktası). Lig numaraları iddaa'nın
+# /sportsbook/competitions listesinden: 129 = İspanya La Liga, 1951 = İspanya La Liga 2.
+IDDAA_API = "https://sportsbookv2.iddaa.com/sportsbook/"
+IDDAA_COMPETITIONS = {129: "SP1", 1951: "SP2"}
 
 # football-data.co.uk oran sütunları -> bizim kısa adlarımız.
 #   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)

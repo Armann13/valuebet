@@ -4,6 +4,7 @@ name: Testler
 
 on:
   push:
+    paths: ["**.py", "requirements.txt", ".github/workflows/**"]  # veri commit'lerinde çalışmasın
   workflow_dispatch:
 
 jobs:
