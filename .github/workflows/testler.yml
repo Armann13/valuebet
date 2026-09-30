@@ -1,0 +1,25 @@
+# Her push'ta testler (sentetik veriyle, internetsiz). GitHub'daki paket sürümleri yereldekinden yeni olabilir;
+# canlı takip bu ortamda çalıştığı için uyumsuzluk burada yakalanır.
+name: Testler
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Bağımlılık
+        run: pip install -r requirements.txt
+
+      - name: Testler
+        run: python tests/test_model.py
