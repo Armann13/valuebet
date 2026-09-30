@@ -43,6 +43,15 @@ Kısayol: `python main.py all` = download + build + backtest.
 Yeni haftada güncellemek için: `python main.py download && python main.py build && python main.py predict`
 (bitmiş sezonlar tekrar indirilmez, sadece içinde bulunulan sezon güncellenir).
 
+**Türkiye'den (football-data.co.uk BTK engelli):** `download` yerelde çalışmaz. Dosyaları GitHub Actions
+(`.github/workflows/veri-guncelle.yml`) Pazartesi, Salı, Perşembe ve Cuma günleri indirip `data/raw`'a commit eder.
+Yerelde sadece:
+```bash
+git pull
+python main.py build
+```
+Hemen güncel veri gerekirse: `gh workflow run veri-guncelle.yml`, bitince `git pull`.
+
 Faydalı seçenekler:
 ```bash
 python main.py backtest --div SP1 --edge 0.05 --book ps     # sadece La Liga, %5 eşik, Pinnacle ön-oranları
