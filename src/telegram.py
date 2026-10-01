@@ -82,10 +82,18 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
         lines = [f"⚽ <b>{title} — {now_tr:%d.%m %H:%M}</b>" if force else f"⚽ <b>{title} — {now_tr:%d.%m}</b>", ""]
         v = soon[soon["seviye"].str.startswith("💎")]
         lines += ["💎 <b>Değerli (oran adil fiyatın üstünde)</b>"] + ([_fmt(r) for r in v.to_dict("records")] or ["yok"])
+        shown = {}  # seviye simgesi -> mesajda geçen maçlar
         for icon, n in TIER_LIMIT.items():
             t = soon[soon["seviye"].str.startswith(icon)].head(n)
+            shown[icon] = set(t["maç"])
             if not t.empty:
                 lines += ["", f"<b>{html.escape(t['seviye'].iloc[0])}</b>"] + [_fmt(r) for r in t.to_dict("records")]
+        # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
+        above = shown["🟢"] | shown["🟡"] | shown["🔴"]
+        t5 = soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])]
+        if not t5.empty:
+            lines += ["", "<b>🔥 Tier 5 — Aşırı risk (yukarıdaki maçların kesin skoru)</b>"] + \
+                [_fmt(r) for r in t5.to_dict("records")]
         lines += ["", "Olasılık = tutma şansı; 💎 = fiyatı iyi. Sadece 💎 uzun vadede kârlı olmayı bekler. "
                       "↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de tutar).",
                   f'<a href="{RAPOR_LINKI}">Tam rapor</a>']

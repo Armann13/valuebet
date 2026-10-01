@@ -377,6 +377,15 @@ def test_telegram_messages():
          "değer": float("nan"), "gerçek_değer": False},
         {**row, "seviye": "⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", "tahmin": "1-0", "p": 0.18,
          "odd": float("nan"), "değer": float("nan"), "gerçek_değer": False}])
+    t5 = "🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)"
+    extra = pd.DataFrame([  # E – F Tier 2'de; Tier 5'te A – B (Tier 4'te var), E – F ve mesajda olmayan G – H
+        {**row, "maç": "E – F", "seviye": "🟡 Tier 2 — Orta risk", "tahmin": "MS 2", "p": 0.6, "odd": 1.5,
+         "değer": -0.1, "gerçek_değer": False},
+        *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": float("nan"), "değer": float("nan"),
+           "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("G – H", "3-3")]]])
+    msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
+    assert "Tier 5" in msgs[0] and "<b>0-2</b>" in msgs[0] and "G – H" not in msgs[0]
+    assert msgs[0].count("<b>1-0</b>") == 1  # Tier 4'teki skor Tier 5'te tekrar etmez
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet
     assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "Tier 1" in msgs[0]
     assert "Tier 4" in msgs[0] and "<b>1-0</b>" in msgs[0]  # kesin skor da özette
