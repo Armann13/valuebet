@@ -22,7 +22,7 @@ from src.tavsiye import bet_won
 LOG_COLS = ["gönderildi", "gün", "tarih", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p", "odd",
             "değer", "kaynak", "merdiven", "hg", "ag"]
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"), ("💎", "💎 Değerli")]
-BEKLEME_GUN = 5          # bu kadar gün sonra sonucu gelmeyenler "sonuç yok" sayılıp gün raporu yine gönderilir
+BEKLEME_GUN = 3          # bu kadar gün sonra sonucu gelmeyenler "sonuç yok" sayılıp gün raporu yine gönderilir
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
 
 

@@ -126,8 +126,8 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 - Sonuçlar geldikçe (kulüp maçları football-data'dan 1-3 gün içinde; milli maçlar ESPN'den birkaç saat içinde)
   kayıtlar ✅ / ❌ ile kapanır. Bir günün tüm tahminleri sonuçlanınca o günün **📊 Sonuçlar** mesajı Telegram'a
   gider: seviye bazında isabet, beklenen isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek
-  başına 1 birim), tek tek tahminler ve başlangıçtan beri toplam. 5 gün içinde sonucu gelmeyenler "sonuç yok"
-  olarak geçer.
+  başına 1 birim), tek tek tahminler ve başlangıçtan beri toplam. 3 gün içinde sonucu gelmeyenler (ör. ESPN'de
+  olmayan bir turnuva) "sonuç yok" olarak geçer; sonradan gelirse toplamlara yine eklenir.
 - Tüm zamanların özeti (paylaşılabilir): `tavsiyeler/sonuclar.md`. Elle: `python main.py sonuc --gonderme`.
 
 ### Milli takımlar
