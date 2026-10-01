@@ -32,7 +32,7 @@ from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
          ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50)]
-MAX_PER_TIER = {0: 8, 1: 10, 2: 10}
+MAX_PER_TIER = {0: 8, 1: 12, 2: 12}
 MAX_SHORT_SCORES = 6          # Tier 4: en olası kesin skoru en yüksek olan maçlar
 ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1x", "ÇŞ 1-2": "odd_12",
            "ÇŞ X-2": "odd_x2", "2.5 Alt": "odd_alt", "2.5 Üst": "odd_ust", "KG Var": "odd_kg_var",
@@ -42,18 +42,39 @@ PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL]   # İddaa'dan gelen fiyat sütunlar�
 CAND_COLS = ["maç", "lig", "tarih", "gün", "mbs", "kaynak", "hg", "ag", "tahmin", "p", "odd"]
 
 
-def market_probs(m: np.ndarray) -> dict:
-    """Skor tablosundan (m[ev golü, deplasman golü]) market olasılıkları."""
-    g = np.arange(m.shape[0])
+def bet_masks(n: int) -> dict:
+    """Her tahminin tuttuğu skorlar: n x n tabloda (ev golü, deplasman golü) maske."""
+    g = np.arange(n)
     h, a = np.meshgrid(g, g, indexing="ij")
     home, draw, away = h > a, h == a, h < a
     over, btts = (h + a) >= 3, (h >= 1) & (a >= 1)
-    p = lambda mask: float(m[mask].sum())  # noqa: E731
-    return {"MS 1": p(home), "MS X": p(draw), "MS 2": p(away),
-            "ÇŞ 1-X": p(home | draw), "ÇŞ X-2": p(draw | away), "ÇŞ 1-2": p(home | away),
-            "2.5 Üst": p(over), "2.5 Alt": p(~over), "KG Var": p(btts), "KG Yok": p(~btts),
-            "MS 1 & KG Var": p(home & btts), "MS 2 & KG Var": p(away & btts), "MS X & KG Var": p(draw & btts),
-            "MS 1 & 2.5 Üst": p(home & over), "MS 2 & 2.5 Üst": p(away & over)}
+    return {"MS 1": home, "MS X": draw, "MS 2": away,
+            "ÇŞ 1-X": home | draw, "ÇŞ X-2": draw | away, "ÇŞ 1-2": home | away,
+            "2.5 Üst": over, "2.5 Alt": ~over, "KG Var": btts, "KG Yok": ~btts,
+            "MS 1 & KG Var": home & btts, "MS 2 & KG Var": away & btts, "MS X & KG Var": draw & btts,
+            "MS 1 & 2.5 Üst": home & over, "MS 2 & 2.5 Üst": away & over}
+
+
+def market_probs(m: np.ndarray) -> dict:
+    """Skor tablosundan (m[ev golü, deplasman golü]) market olasılıkları."""
+    return {bet: float(m[mask].sum()) for bet, mask in bet_masks(m.shape[0]).items()}
+
+
+def _narrower() -> dict:
+    """Tahmin -> onun daha dar (daha riskli) devamları: tuttuklarında o tahmin de tutan tahminler
+    (ör. MS 1 -> MS 1 & 2.5 Üst -> MS 1 & KG Var). Merdiven bunlarla kurulur."""
+    masks = bet_masks(config.MAX_GOALS + 1)
+    return {b: [a for a in masks if a != b and (~masks[a] | masks[b]).all() and (masks[a] != masks[b]).any()]
+            for b in masks}
+
+
+NARROWER = _narrower()
+
+
+def is_ladder(x) -> bool:
+    """Satır merdiven devamı mı (↳)? CSV'den okununca sütun boş / numpy bool olabilir."""
+    v = x.get("merdiven")
+    return isinstance(v, (bool, np.bool_)) and bool(v)
 
 
 def bet_won(bet: str, hg: int, ag: int) -> bool:
@@ -191,7 +212,10 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
           f"Betfair) varsa ona ayarlanmış model; yoksa {price} oranının marjı arındırılmış haline ayarlı _({price} "
           "oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ "
           "(en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da "
-          "listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.", ""]
+          "listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.", "",
+          "**↳** = aynı maçta bir üst seviyedeki tahminin daha riskli (daha yüksek oranlı) devamı: bu tutarsa "
+          "üstteki de tutar (ör. MS 1 → MS 1 & 2.5 Üst → MS 1 & KG Var). Tier 2 ve 3'ün en fazla yarısı böyle, "
+          "gerisi diğer maçlar.", ""]
     if as_of:
         md += ["**Prova:** model sadece bu tarihten önceki maçları gördü; keskin olasılık o anki açılış oranından. "
                "Geçmiş İddaa oranı olmadığı için fiyat Bet365. Tek hafta sonu çok küçük bir örnek — sonuçlar "
@@ -257,7 +281,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
     judged = as_of is not None
 
     def line(x) -> str:
-        s = f"• {x['maç']} ({x['lig']}, {x['tarih']}): **{x['tahmin']}** — olasılık %{100 * x['p']:.0f}, adil oran {1 / x['p']:.2f}"
+        s = (f"• {'↳ ' if is_ladder(x) else ''}{x['maç']} ({x['lig']}, {x['tarih']}): **{x['tahmin']}** — "
+             f"olasılık %{100 * x['p']:.0f}, adil oran {1 / x['p']:.2f}")
         if np.isfinite(x["odd"]):
             s += f", {price} {x['odd']:.2f} (değer {100 * x['değer']:+.0f}%{' 💎' if x.get('gerçek_değer') else ''})"
         else:
@@ -269,15 +294,30 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             s += f" → {int(x['hg'])}-{int(x['ag'])} {'✅' if bet_won(x['tahmin'], int(x['hg']), int(x['ag'])) else '❌'}"
         return s
 
-    picked = []
+    picked, rung, order = [], {}, []  # merdiven: maç -> son seviyedeki tahmini (görülme sırasıyla)
     for k, (tname, lo, hi) in enumerate(TIERS):
-        t = c[(c["p"] >= lo) & (c["p"] < hi)].copy()
+        band = c[(c["p"] >= lo) & (c["p"] < hi)].copy()
         if k == 0:  # düşük riskte çifte şans ancak MS zaten >= %70 değilse
-            t = t[~t["tahmin"].str.startswith("ÇŞ") | ~t["maç"].isin(t.loc[t["tahmin"].str.startswith("MS "), "maç"])]
-        # maç başına tek tahmin: önce (piyasaya göre) değeri pozitif olanlar, sonra değer, sonra olasılık
-        t["sıra"] = t["gerçek_değer"].astype(int)
-        t = t.sort_values(["sıra", "değer", "p"], ascending=False).groupby("maç").head(1)
-        t = t.sort_values(["sıra", "p"], ascending=False).head(MAX_PER_TIER[k])
+            band = band[~band["tahmin"].str.startswith("ÇŞ") |
+                        ~band["maç"].isin(band.loc[band["tahmin"].str.startswith("MS "), "maç"])]
+        band["sıra"] = band["gerçek_değer"].astype(int)
+        # önce üst seviyedeki maçların aynı maçta bir basamak riskli devamı (en olası olanı)
+        ladder = []
+        for maç in order:
+            nxt = band[(band["maç"] == maç) & band["tahmin"].isin(NARROWER[rung[maç]])]
+            if len(nxt):
+                ladder.append(nxt.sort_values(["p", "değer"], ascending=False).index[0])
+        lad = band.loc[ladder].head(MAX_PER_TIER[k] // 2).assign(merdiven=True)  # en fazla yarısı merdiven
+        # gerisi yeni maçlar (merdivendeki maça ilgisiz ikinci tahmin yok), maç başına tek tahmin: önce (piyasaya
+        # göre) değeri pozitif olanlar, sonra değer, sonra olasılık
+        rest = band[~band["maç"].isin(order)]
+        rest = rest.sort_values(["sıra", "değer", "p"], ascending=False).groupby("maç").head(1)
+        rest = rest.sort_values(["sıra", "p"], ascending=False).head(MAX_PER_TIER[k] - len(lad)).assign(merdiven=False)
+        t = pd.concat([lad, rest]).sort_values(["sıra", "p"], ascending=False)
+        for maç, bet in zip(t["maç"], t["tahmin"]):
+            if maç not in rung:
+                order.append(maç)
+            rung[maç] = bet
         picked.append((tname, t))
         md += [f"## {tname}", ""] + ([line(x) for x in t.to_dict("records")] or ["Bu seviyede tahmin yok."]) + [""]
     s = pd.DataFrame(scores, columns=CAND_COLS).sort_values("p", ascending=False)

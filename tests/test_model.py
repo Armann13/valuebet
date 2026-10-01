@@ -357,8 +357,12 @@ def test_tavsiye_markets():
     assert abs(c["MS 1"] - 0.40) < 1e-9 and abs(c["MS X"] - 0.30) < 1e-9 and abs(c["MS 2"] - 0.30) < 1e-9
     c = market_probs(calibrate(m, (0.40, 0.30, 0.30), (0.55, 0.45)))  # 1X2 + alt/üst birlikte
     assert abs(c["MS 1"] - 0.40) < 1e-6 and abs(c["2.5 Üst"] - 0.55) < 1e-6
-    from src.tavsiye import bet_won
+    from src.tavsiye import NARROWER, bet_won
     assert bet_won("MS 1 & KG Var", 2, 1) and not bet_won("MS 1 & KG Var", 2, 0)
+    # merdiven: daha dar tahmin tutarsa geniş olan da tutar
+    assert {"MS 1 & 2.5 Üst", "MS 1 & KG Var"} <= set(NARROWER["MS 1"])
+    assert "MS 1 & KG Var" in NARROWER["MS 1 & 2.5 Üst"] and "MS 2" in NARROWER["ÇŞ X-2"]
+    assert "MS 1" not in NARROWER["2.5 Üst"] and "MS 1" not in NARROWER["MS 1"] and NARROWER["KG Yok"] == []
     assert bet_won("ÇŞ X-2", 1, 1) and bet_won("2.5 Alt", 1, 1) and bet_won("1-1", 1, 1) and not bet_won("2-0", 2, 1)
 
 
@@ -547,6 +551,15 @@ def test_end_to_end():
     assert picks["tarih"].str.fullmatch(r"\d{2}\.\d{2}").all()  # "01.10" sayı olarak okunmamalı
     nat = picks[picks["maç"] == "İspanya – Çekya"]
     assert len(nat) and (nat["kaynak"] == "oran").all() and not nat["gerçek_değer"].any()  # milli maçta 💎 yok
+    from src.tavsiye import MAX_PER_TIER, NARROWER, TIERS
+    last_bet = {}  # merdiven: ↳ satırı aynı maçın bir önceki seviyedeki tahmininin daha dar devamı
+    for k, (name, _, _) in enumerate(TIERS):
+        tier = picks[picks["seviye"] == name]
+        assert (tier["merdiven"] == True).sum() <= MAX_PER_TIER[k] // 2  # noqa: E712
+        for maç, bet, lad in zip(tier["maç"], tier["tahmin"], tier["merdiven"]):
+            if lad is True:
+                assert bet in NARROWER[last_bet[maç]], (maç, last_bet[maç], bet)
+        last_bet.update(zip(tier["maç"], tier["tahmin"]))
     t5 = picks[picks["seviye"].str.startswith("🔥")]
     nat5 = t5.loc[t5["maç"] == "İspanya – Çekya", "odd"]
     assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan

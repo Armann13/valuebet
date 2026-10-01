@@ -18,12 +18,13 @@ import pandas as pd
 import requests
 
 import config
+from src.tavsiye import is_ladder
 
-API = "https://api.telegram.org/bot{token}/{method}"
+API ="https://api.telegram.org/bot{token}/{method}"
 OZET_SAATLERI = {9: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}  # TR saati -> başlık; o saatten sonraki ilk çalıştırmada
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
-TIER_LIMIT = {"🟢": 5, "🟡": 5, "🔴": 3, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
+TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
 
 
 def _tr_now() -> datetime:
@@ -56,8 +57,8 @@ def _key(r) -> str:
 
 
 def _fmt(r) -> str:
-    s = (f"• <b>{html.escape(r['maç'])}</b> ({r['lig']}, {r['tarih']}): <b>{html.escape(r['tahmin'])}</b> — "
-         f"%{100 * r['p']:.0f}, adil {1 / r['p']:.2f}")
+    s = (f"• {'↳ ' if is_ladder(r) else ''}<b>{html.escape(r['maç'])}</b> ({r['lig']}, {r['tarih']}): "
+         f"<b>{html.escape(r['tahmin'])}</b> — %{100 * r['p']:.0f}, adil {1 / r['p']:.2f}")
     if pd.notna(r.get("odd")):
         s += f", İddaa {r['odd']:.2f} ({100 * r['değer']:+.0f}%{' 💎' if r.get('gerçek_değer') else ''})"
     if pd.notna(r.get("mbs")) and r["mbs"] > 1:
@@ -83,7 +84,8 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
             t = soon[soon["seviye"].str.startswith(icon)].head(n)
             if not t.empty:
                 lines += ["", f"<b>{html.escape(t['seviye'].iloc[0])}</b>"] + [_fmt(r) for r in t.to_dict("records")]
-        lines += ["", "Olasılık = tutma şansı; 💎 = fiyatı iyi. Sadece 💎 uzun vadede kârlı olmayı bekler.",
+        lines += ["", "Olasılık = tutma şansı; 💎 = fiyatı iyi. Sadece 💎 uzun vadede kârlı olmayı bekler. "
+                      "↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de tutar).",
                   f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
         msgs.append("\n".join(lines))
         state["son_ozet"] = slot
