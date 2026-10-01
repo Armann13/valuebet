@@ -104,6 +104,9 @@ GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalışt�
   güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
   Tier 1-3'ten öne çıkanlar, Tier 4'ten en olası kesin skorlar ve tam raporun linki.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
+- **Elle güncel özet:** GitHub → Actions → "İddaa oranları" → Run workflow → "Telegram'a güncel özeti şimdi gönder"
+  kutusunu işaretle (ya da `gh workflow run iddaa.yml -f telegram_ozet=true`). Oranlar toplanır, rapor yenilenir,
+  özet hemen gelir.
 
 Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur):
 1. Telegram'da **@BotFather** → `/newbot` → bota bir ad ve kullanıcı adı ver → verdiği **anahtarı (token)** kopyala.

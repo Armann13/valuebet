@@ -66,8 +66,9 @@ def _fmt(r) -> str:
     return s
 
 
-def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[list, dict]:
-    """Gönderilecek mesajlar ve güncellenmiş durum (saf fonksiyon: test edilebilir)."""
+def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False) -> tuple[list, dict]:
+    """Gönderilecek mesajlar ve güncellenmiş durum (saf fonksiyon: test edilebilir).
+    force: özet bu saat dilimi için zaten gönderildiyse de şimdi gönder (elle istenen güncel özet)."""
     msgs, state = [], {"son_ozet": state.get("son_ozet"), "gonderilen": list(state.get("gonderilen", []))}
     if picks.empty:
         return msgs, state
@@ -76,8 +77,9 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
     sent = set(state["gonderilen"])
     passed = [h for h in OZET_SAATLERI if now_tr.hour >= h]
     slot = f"{now_tr:%Y-%m-%d} {max(passed):02d}" if passed else None  # bugünün son geçilen özet saati
-    if slot and state["son_ozet"] != slot and not soon.empty:
-        lines = [f"⚽ <b>{OZET_SAATLERI[max(passed)]} — {now_tr:%d.%m}</b>", ""]
+    if (force or (slot and state["son_ozet"] != slot)) and not soon.empty:
+        title = "Güncel tavsiyeler" if force else OZET_SAATLERI[max(passed)]
+        lines = [f"⚽ <b>{title} — {now_tr:%d.%m %H:%M}</b>" if force else f"⚽ <b>{title} — {now_tr:%d.%m}</b>", ""]
         v = soon[soon["seviye"].str.startswith("💎")]
         lines += ["💎 <b>Değerli (oran adil fiyatın üstünde)</b>"] + ([_fmt(r) for r in v.to_dict("records")] or ["yok"])
         for icon, n in TIER_LIMIT.items():
@@ -88,7 +90,7 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
                       "↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de tutar).",
                   f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
         msgs.append("\n".join(lines))
-        state["son_ozet"] = slot
+        state["son_ozet"] = slot or state["son_ozet"]
         sent |= {_key(r) for r in v.to_dict("records")}  # özette gönderilen 💎 anlık uyarıda tekrar gelmesin
     new = [r for r in value.to_dict("records") if _key(r) not in sent]
     if new:
@@ -99,8 +101,9 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
     return msgs, state
 
 
-def notify() -> int:
-    """tavsiyeler/son.csv'den mesajları gönderir; durum dosyasını günceller. Döner: gönderilen mesaj sayısı."""
+def notify(force: bool = False) -> int:
+    """tavsiyeler/son.csv'den mesajları gönderir; durum dosyasını günceller. Döner: gönderilen mesaj sayısı.
+    force: özeti şimdi gönder (bugün zaten gittiyse de)."""
     path, state_path = config.TAVSIYE_DIR / "son.csv", config.TAVSIYE_DIR / "telegram_durum.json"
     if not path.exists() or path.stat().st_size == 0:
         print("  telegram: tavsiyeler/son.csv yok")
@@ -110,7 +113,7 @@ def notify() -> int:
     except pd.errors.EmptyDataError:
         picks = pd.DataFrame()
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
-    msgs, new_state = build_messages(picks, state, _tr_now())
+    msgs, new_state = build_messages(picks, state, _tr_now(), force)
     if not msgs:
         print("  telegram: gönderilecek yeni bir şey yok")
         return 0

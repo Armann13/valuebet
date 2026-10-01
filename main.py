@@ -177,7 +177,7 @@ def cmd_telegram(args):
     elif args.test:
         telegram.test()
     else:
-        telegram.notify()
+        telegram.notify(force=args.ozet)
 
 
 def cmd_milli(args):
@@ -320,6 +320,7 @@ def main():
             sp.add_argument("--kurulum", action="store_true",
                             help="sohbet numarasını bul ve test mesajı gönder (TELEGRAM_BOT_TOKEN gerekli)")
             sp.add_argument("--test", action="store_true", help="tek bir test mesajı gönder")
+            sp.add_argument("--ozet", action="store_true", help="özeti şimdi gönder (bugün zaten gittiyse de)")
         if name == "tavsiye":
             sp.add_argument("--prova", help="geçmiş bir tarihten (YYYY-AA-GG) itibaren prova: model o tarihe kadarki "
                                             "veriyle, tavsiyeler gerçekleşen sonuçlarla karşılaştırılır")

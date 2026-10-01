@@ -11,6 +11,10 @@ on:
         description: "Telegram'a test mesajı gönder"
         type: boolean
         default: false
+      telegram_ozet:
+        description: "Telegram'a güncel özeti şimdi gönder (bugün zaten gittiyse de)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -54,7 +58,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python main.py telegram
+        run: python main.py telegram ${{ inputs.telegram_ozet && '--ozet' || '' }}
 
       - name: Değişiklik varsa commit et
         run: |

@@ -389,6 +389,8 @@ def test_telegram_messages():
     assert len(msgs) == 1 and "Akşam güncellemesi" in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 21, 0))  # aynı akşam tekrar: hiçbir şey
     assert msgs == []
+    msgs, st2 = build_messages(picks, st, datetime(2026, 10, 3, 21, 5), force=True)  # elle istenen güncel özet
+    assert len(msgs) == 1 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
