@@ -27,6 +27,7 @@ import pandas as pd
 import config
 from src import db, milli
 from src.features import add_motivation
+from src.iddaa import ODD_COLS
 from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
@@ -35,7 +36,9 @@ MAX_PER_TIER = {0: 8, 1: 10, 2: 10}
 MAX_SHORT_SCORES = 6          # Tier 4: en olası kesin skoru en yüksek olan maçlar
 ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1x", "ÇŞ 1-2": "odd_12",
            "ÇŞ X-2": "odd_x2", "2.5 Alt": "odd_alt", "2.5 Üst": "odd_ust", "KG Var": "odd_kg_var",
-           "KG Yok": "odd_kg_yok"}
+           "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
+           "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
+PRICE_COLS = ODD_COLS + ["mbs"]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
 
 
 def market_probs(m: np.ndarray) -> dict:
@@ -103,7 +106,7 @@ def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
     if not odds.empty:
         last = odds[odds["kickoff_utc"] > now].sort_values("snapshot_utc").groupby("event_id").tail(1)
         last = last.dropna(subset=["home", "away"])
-        for c in ["odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok", "mbs"]:
+        for c in PRICE_COLS:  # eski kayıtlarda yeni sütunlar yok
             last[c] = last[c] if c in last else np.nan
         rows.append(last.assign(date=last["kickoff_utc"].dt.normalize(), kaynak="İddaa"))
     if fixtures_path and fixtures_path.exists():
@@ -131,8 +134,9 @@ def _history(matches: pd.DataFrame, start: pd.Timestamp, days: int) -> pd.DataFr
     up["odd_1"], up["odd_x"], up["odd_2"] = up["b365_h"], up["b365_d"], up["b365_a"]
     up["odd_ust"], up["odd_alt"] = up["b365_o25"], up["b365_u25"]
     up["ou_line"] = np.where(up["b365_o25"].notna(), 2.5, np.nan)
-    for c in ["odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok", "mbs"]:
-        up[c] = np.nan
+    for c in PRICE_COLS:  # B365'te sadece 1X2 ve 2.5 alt/üst var
+        if c not in up:
+            up[c] = np.nan
     nat = milli.load_results()
     if not nat.empty:
         nat = nat[(nat["date"] >= start) & (nat["date"] < end)].rename(columns={"tournament": "competition"})

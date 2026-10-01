@@ -271,6 +271,10 @@ def test_parse_iddaa():
                                                          {"no": 2, "odd": 1.62, "wodd": 1.56, "n": "Üst"}]},
                  {"t": 2, "st": 101, "sov": "3.5", "o": [{"no": 1, "odd": 1.3, "n": "Alt"}, {"no": 2, "odd": 3.1, "n": "Üst"}]},
                  {"t": 2, "st": 92, "o": [{"n": "1 ve 0", "odd": 1.0}, {"n": "1 ve 2", "odd": 1.12}]},  # 1.00 = kapalı
+                 {"t": 2, "st": 7, "sov": "3.5", "o": [{"n": "1 ve Üst", "odd": 3.3}]},  # başka baraj: alınmaz
+                 {"t": 2, "st": 7, "sov": "2.5", "o": [{"n": "1 ve Üst", "odd": 2.05}, {"n": "2 ve Üst", "odd": 9.5}]},
+                 {"t": 2, "st": 698, "o": [{"n": "1 ve Var", "odd": 2.9}, {"n": "0 ve Var", "odd": 7.0},
+                                           {"n": "2 ve Var", "odd": 1.0}]},
                  {"t": 2, "st": 89, "o": [{"no": 1, "odd": 1.7, "n": "Var"}, {"no": 2, "odd": 2.0, "n": "Yok"}]}]},
           {"i": 2, "hn": "X", "an": "Y", "ci": 999, "d": 1790870400, "m": []}]  # başka lig: atlanır
     df = parse_events(ev, {129: "SP1"})
@@ -279,6 +283,8 @@ def test_parse_iddaa():
     assert (r["div"], r["odd_1"], r["odd_x"], r["odd_2"], r["ou_line"], r["odd_ust"], r["mbs"]) == \
         ("SP1", 1.45, 4.4, 5.9, 2.5, 1.62, 1)  # birden çok baraj varsa 2.5
     assert np.isnan(r["odd_1x"]) and r["odd_12"] == 1.12 and r["odd_kg_var"] == 1.7
+    assert (r["odd_ms1_ust"], r["odd_ms2_ust"], r["odd_ms1_kg"], r["odd_msx_kg"]) == (2.05, 9.5, 2.9, 7.0)
+    assert np.isnan(r["odd_ms2_kg"])
     assert r["kickoff_utc"] == "2026-10-01 16:00"
     from src.iddaa import resolve_competitions
     comps = [{"i": 129, "si": "1", "n": "İspanya La Liga"}, {"i": 1951, "si": "1", "n": "İspanya La Liga 2"},

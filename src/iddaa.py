@@ -3,7 +3,9 @@
 iddaa.com'un sitesinin kullandığı JSON uç noktasından (resmi API değil) maç öncesi futbol programı çekilir:
   maç sonucu (market t=1, st=1; sonuçlar "1" / "0" / "2"), alt/üst (t=2, st=101; baraj "sov"; bir maçta birden
   çok baraj olabilir, 2.5 varsa o alınır),
-  çifte şans (t=2, st=92; "1 ve 0" / "1 ve 2" / "0 ve 2") ve karşılıklı gol (t=2, st=89; "Var" / "Yok").
+  çifte şans (t=2, st=92; "1 ve 0" / "1 ve 2" / "0 ve 2"), karşılıklı gol (t=2, st=89; "Var" / "Yok") ve
+  kombinasyonlar: MS ve 2.5 alt/üst (t=2, st=7, sov 2.5; "1 ve Üst" ...), MS ve KG (t=2, st=698; "1 ve Var" ...).
+  Kapalı sonuç 1.00 oranla gelir (boş sayılır); açılmamış market hiç gelmez.
 Her sonuç için iki oran vardır: odd (ekranda gösterilen, normal kupon) ve wodd (sitenin kodunda "king odds";
 ~%4 düşük). Hesaplarda odd kullanılır; ikisi de kaydedilir. mbs: maçın minimum kombinasyon sayısı.
 
@@ -22,7 +24,8 @@ import config
 HEADERS = {"User-Agent": "Mozilla/5.0 (valuebet research script)", "Origin": "https://www.iddaa.com",
            "Referer": "https://www.iddaa.com/"}
 ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
-            "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok"]
+            "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok",
+            "odd_ms1_ust", "odd_ms2_ust", "odd_ms1_kg", "odd_msx_kg", "odd_ms2_kg"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
 EVENT_KEY = "event_id"
 
@@ -43,6 +46,14 @@ def _odd(x) -> float:
     except (TypeError, ValueError):
         return np.nan
     return v if v > 1.0 else np.nan
+
+
+def _line(m: dict) -> float:
+    """Marketin barajı (alt/üst), yoksa NaN."""
+    try:
+        return float(m.get("sov"))
+    except (TypeError, ValueError):
+        return np.nan
 
 
 def resolve_competitions(comps: list) -> dict:
@@ -81,7 +92,7 @@ def parse_events(events: list, competitions: dict, names: dict | None = None) ->
                     if lab in o:
                         row[f"odd_{col}"], row[f"wodd_{col}"] = o[lab]["odd"], o[lab]["wodd"]
             elif m.get("t") == 2 and m.get("st") == 101:  # alt / üst: birden çok baraj olabilir (1.5, 2.5, 3.5)
-                line = float(m["sov"]) if m.get("sov") not in (None, "") else np.nan
+                line = _line(m)
                 if "ou_line" in row and not (line == 2.5 and row["ou_line"] != 2.5):
                     continue  # 2.5 varsa o, yoksa ilk gelen baraj
                 row["ou_line"] = line
@@ -94,6 +105,14 @@ def parse_events(events: list, competitions: dict, names: dict | None = None) ->
                         row[f"odd_{col}"] = o[lab]["odd"]
             elif m.get("t") == 2 and m.get("st") == 89:  # karşılıklı gol
                 for lab, col in (("Var", "kg_var"), ("Yok", "kg_yok")):
+                    if lab in o:
+                        row[f"odd_{col}"] = o[lab]["odd"]
+            elif m.get("t") == 2 and m.get("st") == 7 and _line(m) == 2.5:  # MS ve 2.5 alt/üst
+                for lab, col in (("1 ve Üst", "ms1_ust"), ("2 ve Üst", "ms2_ust")):
+                    if lab in o:
+                        row[f"odd_{col}"] = o[lab]["odd"]
+            elif m.get("t") == 2 and m.get("st") == 698:  # MS ve karşılıklı gol
+                for lab, col in (("1 ve Var", "ms1_kg"), ("0 ve Var", "msx_kg"), ("2 ve Var", "ms2_kg")):
                     if lab in o:
                         row[f"odd_{col}"] = o[lab]["odd"]
         rows.append(row)
