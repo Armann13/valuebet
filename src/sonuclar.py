@@ -19,8 +19,8 @@ import pandas as pd
 import config
 from src.tavsiye import bet_won
 
-LOG_COLS = ["gönderildi", "gün", "tarih", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p", "odd",
-            "değer", "kaynak", "merdiven", "hg", "ag"]
+LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
+            "odd", "değer", "kaynak", "merdiven", "hg", "ag"]
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"), ("💎", "💎 Değerli")]
 BEKLEME_GUN = 3          # bu kadar gün sonra sonucu gelmeyenler "sonuç yok" sayılıp gün raporu yine gönderilir
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
@@ -34,7 +34,7 @@ def load_log() -> pd.DataFrame:
     p = log_path()
     if not p.exists():
         return pd.DataFrame(columns=LOG_COLS)
-    return pd.read_csv(p, dtype={"tarih": str, "gün": str})
+    return pd.read_csv(p, dtype={"tarih": str, "gün": str, "baslama": str})
 
 
 def _key(df: pd.DataFrame) -> pd.Series:

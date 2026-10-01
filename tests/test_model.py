@@ -418,11 +418,18 @@ def test_telegram_messages():
         *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": float("nan"), "değer": float("nan"),
            "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("G – H", "3-3")]]])
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
-    assert "Tier 5" in msgs[0] and "<b>0-2</b>" in msgs[0] and "G – H" not in msgs[0]
+    assert "TIER 5" in msgs[0] and "<b>0-2</b>" in msgs[0] and "G – H" not in msgs[0]
     assert msgs[0].count("<b>1-0</b>") == 1  # Tier 4'teki skor Tier 5'te tekrar etmez
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet
-    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "Tier 1" in msgs[0]
-    assert "Tier 4" in msgs[0] and "<b>1-0</b>" in msgs[0]  # kesin skor da özette
+    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
+    assert "TIER 4" in msgs[0] and "<b>1-0</b>" in msgs[0]  # kesin skor da özette
+    # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
+    from src.telegram import _fmt
+    r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
+    assert _fmt({**r, "baslama": "2026-10-03 21:45"}, datetime(2026, 10, 3, 10, 0)) == \
+        "<b>21:45</b> · A – B\n└ <b>MS 1</b> · %70 · İddaa <b>1.40</b> · MBS 3"
+    assert _fmt({**r, "baslama": "2026-10-04 19:00"}, datetime(2026, 10, 3, 10, 0)).startswith("<b>Yarın 19:00</b>")
+    assert "💎" in _fmt({**r, "gerçek_değer": True, "değer": 0.05}, datetime(2026, 10, 3, 10, 0))
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 13, 0))  # aynı gün tekrar: hiçbir şey
     assert msgs == []
     new = pd.concat([picks, picks.iloc[[0]].assign(maç="C – D")], ignore_index=True)
