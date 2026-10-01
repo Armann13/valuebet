@@ -357,9 +357,12 @@ def test_telegram_messages():
         {**row, "seviye": "💎 Değeri pozitif olanlar", "tahmin": "MS 1", "p": 0.55, "odd": 2.0, "değer": 0.10,
          "gerçek_değer": True},
         {**row, "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.80, "odd": float("nan"),
-         "değer": float("nan"), "gerçek_değer": False}])
+         "değer": float("nan"), "gerçek_değer": False},
+        {**row, "seviye": "⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", "tahmin": "1-0", "p": 0.18,
+         "odd": float("nan"), "değer": float("nan"), "gerçek_değer": False}])
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet
     assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "Tier 1" in msgs[0]
+    assert "Tier 4" in msgs[0] and "<b>1-0</b>" in msgs[0]  # kesin skor da özette
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 13, 0))  # aynı gün tekrar: hiçbir şey
     assert msgs == []
     new = pd.concat([picks, picks.iloc[[0]].assign(maç="C – D")], ignore_index=True)

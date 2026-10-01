@@ -1,7 +1,7 @@
 """Telegram bildirimi: tavsiyeler/son.csv'den (python main.py tavsiye --yayinla) mesaj.
 
   Günlük özet: günde bir kez (TR saatiyle OZET_SAATI'nden sonraki ilk çalıştırmada) bugün ve yarının maçları için
-               💎 değerli bahisler + Tier 1-3'ten öne çıkanlar + tam raporun linki.
+               💎 değerli bahisler + Tier 1-4'ten öne çıkanlar (Tier 4: kesin skor) + tam raporun linki.
   Anlık uyarı: daha önce gönderilmemiş yeni bir 💎 (oran keskin piyasanın adil fiyatının üstünde) çıkınca.
 Gönderilenler tavsiyeler/telegram_durum.json'da tutulur (aynı bahis iki kez gönderilmez).
 
@@ -22,7 +22,7 @@ API = "https://api.telegram.org/bot{token}/{method}"
 OZET_SAATI = 9          # TR saati; günlük özet bu saatten sonraki ilk çalıştırmada gider
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
-TIER_LIMIT = {"🟢": 5, "🟡": 5, "🔴": 3}
+TIER_LIMIT = {"🟢": 5, "🟡": 5, "🔴": 3, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
 
 
 def _tr_now() -> datetime:
