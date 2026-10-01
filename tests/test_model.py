@@ -306,7 +306,8 @@ def test_milli_names():
              "İrlanda": "Republic of Ireland", "Çekya": "Czech Republic", "Türkiye": "Turkey", "Curacao": "Curaçao",
              "Kuzey Makedonya": "North Macedonia", "Fildişi Sahili": "Ivory Coast", "Kongo DC": "DR Congo",
              "Kongo": "Congo", "Gine": "Guinea", "Spain": "Spain", "Kıbrıs Rum Kesimi": "Cyprus",
-             "ABD Virgin Adaları": "United States Virgin Islands", "Türkiye U21": None, "Bask Ülkesi": None}
+             "ABD Virgin Adaları": "United States Virgin Islands", "ST Kitts ve Nevis": "Saint Kitts and Nevis",
+             "Türkiye U21": None, "Bask Ülkesi": None}
     got = {k: r(k) for k in cases}
     assert got == cases, {k: v for k, v in got.items() if v != cases[k]}
     assert r.fuzzy == {}
