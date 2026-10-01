@@ -381,8 +381,14 @@ def test_telegram_messages():
     new = pd.concat([picks, picks.iloc[[0]].assign(maç="C – D")], ignore_index=True)
     msgs, st = build_messages(new, st, datetime(2026, 10, 3, 16, 0))  # yeni 💎: anlık uyarı
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0] and "C – D" in msgs[0] and "A – B" not in msgs[0]
+    msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 18, 30))  # akşam özeti (💎 tekrar uyarı olarak gelmez)
+    assert len(msgs) == 1 and "Akşam güncellemesi" in msgs[0]
+    msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 21, 0))  # aynı akşam tekrar: hiçbir şey
+    assert msgs == []
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
+    msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
+    assert "Günün tavsiyeleri" in msgs[0]
 
 
 def test_xg_fit():
@@ -536,12 +542,13 @@ def test_end_to_end():
     assert all(s in r.stdout for s in ("Tier 1", "Tier 5", "Değeri pozitif")), r.stdout[-1500:]
     son = (tmp / "tavsiyeler" / "son.md").read_text(encoding="utf-8")
     assert "Tier 1" in son and "İddaa oranlarının son kaydı" in son, son[:300]
-    assert "Spain – Czech Republic (UEFA Uluslar Ligi" in son and "İddaa oranına ayarlı" in son, son[-2500:]
-    picks = pd.read_csv(tmp / "tavsiyeler" / "son.csv")
-    nat = picks[picks["maç"] == "Spain – Czech Republic"]
+    assert "İspanya – Çekya (UEFA Uluslar Ligi" in son and "İddaa oranına ayarlı" in son, son[-2500:]  # İddaa'daki adlar
+    picks = pd.read_csv(tmp / "tavsiyeler" / "son.csv", dtype={"tarih": str})
+    assert picks["tarih"].str.fullmatch(r"\d{2}\.\d{2}").all()  # "01.10" sayı olarak okunmamalı
+    nat = picks[picks["maç"] == "İspanya – Çekya"]
     assert len(nat) and (nat["kaynak"] == "oran").all() and not nat["gerçek_değer"].any()  # milli maçta 💎 yok
     t5 = picks[picks["seviye"].str.startswith("🔥")]
-    nat5 = t5.loc[t5["maç"] == "Spain – Czech Republic", "odd"]
+    nat5 = t5.loc[t5["maç"] == "İspanya – Çekya", "odd"]
     assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan
     assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]

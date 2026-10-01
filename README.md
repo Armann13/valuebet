@@ -100,7 +100,8 @@ yaradığını gör.
 ### Telegram bildirimi
 
 GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
-- **Günlük özet** (TR 09:00'dan sonraki ilk çalıştırmada): bugün ve yarının maçları için 💎 değerli bahisler,
+- **Özet, günde iki kez** (TR 09:00'dan ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
+  güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
   Tier 1-3'ten öne çıkanlar, Tier 4'ten en olası kesin skorlar ve tam raporun linki.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
 

@@ -119,7 +119,8 @@ def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
         return pd.DataFrame(), last_snap
     up = pd.concat(rows, ignore_index=True, sort=False)
     # aynı maç iki kaynakta: keskin oranları fikstürden, İddaa oranlarını İddaa'dan al ("first" boşları atlar)
-    keep = [c for c in up if c.startswith(("odd_", "keskin_")) or c in ("mbs", "ou_line", "kickoff_utc", "competition")]
+    keep = [c for c in up if c.startswith(("odd_", "keskin_")) or
+            c in ("mbs", "ou_line", "kickoff_utc", "competition", "home_iddaa", "away_iddaa")]
     merged = up.groupby(["div", "home", "away"], as_index=False).agg(
         {**{c: "first" for c in keep}, "date": "min", "kaynak": lambda s: " + ".join(sorted(set(s)))})
     merged["season"] = np.where(merged["date"].dt.month >= 7, merged["date"].dt.year, merged["date"].dt.year - 1)
@@ -151,6 +152,14 @@ def _price_fair(r: dict) -> tuple[tuple, tuple]:
     ou = (devig([r.get("odd_ust", np.nan), r.get("odd_alt", np.nan)], config.DEVIG_METHOD)
           if r.get("ou_line") == 2.5 else np.full(2, np.nan))
     return tuple(fair), tuple(ou)
+
+
+def _match_label(r: dict) -> str:
+    """Maç adı: İddaa'daki adlarla (kuponda aranacak ad), yoksa veri setindeki adlarla."""
+    h, a = r.get("home_iddaa"), r.get("away_iddaa")
+    if isinstance(h, str) and isinstance(a, str):
+        return f"{h} – {a}"
+    return f"{r['home']} – {r['away']}"
 
 
 def _league_label(r: dict) -> str:
@@ -223,7 +232,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                 m = calibrate(m, target, target_ou)  # 1X2'de kapalı sonuç varsa sadece alt/üst
         # İddaa'da listelenen maçta oranı olmayan market (kapalı / açılmamış) oynanamaz: önerilmez
         listed = not as_of and "İddaa" in str(r.get("kaynak", ""))
-        info = {"maç": f"{r['home']} – {r['away']}", "lig": _league_label(r), "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
+        info = {"maç": _match_label(r), "lig": _league_label(r), "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
                 "gün": pd.Timestamp(r["date"]).strftime("%Y-%m-%d"),
                 "mbs": r.get("mbs"), "kaynak": src, "hg": r.get("fthg", np.nan), "ag": r.get("ftag", np.nan)}
         for bet, p in market_probs(m).items():

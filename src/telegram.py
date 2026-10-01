@@ -1,7 +1,8 @@
 """Telegram bildirimi: tavsiyeler/son.csv'den (python main.py tavsiye --yayinla) mesaj.
 
-  Günlük özet: günde bir kez (TR saatiyle OZET_SAATI'nden sonraki ilk çalıştırmada) bugün ve yarının maçları için
-               💎 değerli bahisler + Tier 1-4'ten öne çıkanlar (Tier 4: kesin skor) + tam raporun linki.
+  Özet: günde iki kez (TR saatiyle OZET_SAATLERI'nin her birinden sonraki ilk çalıştırmada: sabah ve akşam maçlarından
+        önce) bugün ve yarının maçları için 💎 değerli bahisler + Tier 1-4'ten öne çıkanlar (Tier 4: kesin skor) +
+        tam raporun linki.
   Anlık uyarı: daha önce gönderilmemiş yeni bir 💎 (oran keskin piyasanın adil fiyatının üstünde) çıkınca.
 Gönderilenler tavsiyeler/telegram_durum.json'da tutulur (aynı bahis iki kez gönderilmez).
 
@@ -19,7 +20,7 @@ import requests
 import config
 
 API = "https://api.telegram.org/bot{token}/{method}"
-OZET_SAATI = 9          # TR saati; günlük özet bu saatten sonraki ilk çalıştırmada gider
+OZET_SAATLERI = {9: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}  # TR saati -> başlık; o saatten sonraki ilk çalıştırmada
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
 TIER_LIMIT = {"🟢": 5, "🟡": 5, "🔴": 3, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
@@ -69,12 +70,13 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
     msgs, state = [], {"son_ozet": state.get("son_ozet"), "gonderilen": list(state.get("gonderilen", []))}
     if picks.empty:
         return msgs, state
-    today = now_tr.strftime("%Y-%m-%d")
     soon = picks[picks["gün"] <= (now_tr + timedelta(days=1)).strftime("%Y-%m-%d")]
     value = picks[picks["seviye"].str.startswith("💎")].drop_duplicates("maç")
     sent = set(state["gonderilen"])
-    if now_tr.hour >= OZET_SAATI and state["son_ozet"] != today and not soon.empty:
-        lines = [f"⚽ <b>Günün tavsiyeleri — {now_tr:%d.%m}</b>", ""]
+    passed = [h for h in OZET_SAATLERI if now_tr.hour >= h]
+    slot = f"{now_tr:%Y-%m-%d} {max(passed):02d}" if passed else None  # bugünün son geçilen özet saati
+    if slot and state["son_ozet"] != slot and not soon.empty:
+        lines = [f"⚽ <b>{OZET_SAATLERI[max(passed)]} — {now_tr:%d.%m}</b>", ""]
         v = soon[soon["seviye"].str.startswith("💎")]
         lines += ["💎 <b>Değerli (oran adil fiyatın üstünde)</b>"] + ([_fmt(r) for r in v.to_dict("records")] or ["yok"])
         for icon, n in TIER_LIMIT.items():
@@ -84,7 +86,7 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime) -> tuple[
         lines += ["", "Olasılık = tutma şansı; 💎 = fiyatı iyi. Sadece 💎 uzun vadede kârlı olmayı bekler.",
                   f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
         msgs.append("\n".join(lines))
-        state["son_ozet"] = today
+        state["son_ozet"] = slot
         sent |= {_key(r) for r in v.to_dict("records")}  # özette gönderilen 💎 anlık uyarıda tekrar gelmesin
     new = [r for r in value.to_dict("records") if _key(r) not in sent]
     if new:
@@ -102,7 +104,7 @@ def notify() -> int:
         print("  telegram: tavsiyeler/son.csv yok")
         return 0
     try:
-        picks = pd.read_csv(path)
+        picks = pd.read_csv(path, dtype={"tarih": str, "gün": str})  # "01.10" sayı (1.1) olarak okunmasın
     except pd.errors.EmptyDataError:
         picks = pd.DataFrame()
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
