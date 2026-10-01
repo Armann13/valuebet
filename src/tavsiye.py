@@ -4,7 +4,10 @@ Her maç için modelin skor olasılık tablosu (Dixon-Coles) kurulur. Keskin piy
 ve 2.5 alt/üst olasılıkları varsa tablo onlara göre ayarlanır (bölgeler sırayla ölçeklenir; toplamlar piyasayla
 aynı olur, skor dağılımının geri kalanı modelden gelir). Piyasa modelden isabetli olduğu için
 olasılıklar böylece daha doğru, ve tüm marketler (MS, çifte şans, alt/üst, KG, kombinasyon, kesin skor) aynı
-tablodan geldiği için birbiriyle tutarlıdır.
+tablodan geldiği için birbiriyle tutarlıdır. Keskin oran yoksa (ör. milli maçlar) tablo fiyatın (İddaa) marjı
+arındırılmış oranlarına ayarlanır: kulüp backtest'inde yumuşak büronun (B365) marjsız oranları da modelden
+isabetliydi (1X2 log loss farkı 0.013-0.017). Bu durumda değer ölçülemez (fiyat kendisiyle kıyaslanır).
+Milli maçlar ayrı bir modelle (src/milli.py) tahmin edilir.
 
 Risk seviyesi = tahminin TUTMAMA olasılığı:
   Tier 1 düşük (olasılık >= %70), Tier 2 orta (%50-70), Tier 3 yüksek (%25-50: beraberlik, sürpriz, kombinasyon),
@@ -22,9 +25,9 @@ import numpy as np
 import pandas as pd
 
 import config
-from src import db
+from src import db, milli
 from src.features import add_motivation
-from src.odds import add_sharp, devig_frame
+from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
          ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50)]
@@ -112,7 +115,7 @@ def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
         return pd.DataFrame(), last_snap
     up = pd.concat(rows, ignore_index=True, sort=False)
     # aynı maç iki kaynakta: keskin oranları fikstürden, İddaa oranlarını İddaa'dan al ("first" boşları atlar)
-    keep = [c for c in up if c.startswith(("odd_", "keskin_")) or c in ("mbs", "ou_line", "kickoff_utc")]
+    keep = [c for c in up if c.startswith(("odd_", "keskin_")) or c in ("mbs", "ou_line", "kickoff_utc", "competition")]
     merged = up.groupby(["div", "home", "away"], as_index=False).agg(
         {**{c: "first" for c in keep}, "date": "min", "kaynak": lambda s: " + ".join(sorted(set(s)))})
     merged["season"] = np.where(merged["date"].dt.month >= 7, merged["date"].dt.year, merged["date"].dt.year - 1)
@@ -120,15 +123,36 @@ def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
 
 
 def _history(matches: pd.DataFrame, start: pd.Timestamp, days: int) -> pd.DataFrame:
-    """Prova: [start, start+days) arasındaki oynanmış maçlar; fiyat Bet365, keskin olasılık açılış oranından."""
-    up = matches[(matches["date"] >= start) & (matches["date"] < start + pd.Timedelta(days=days))].copy()
+    """Prova: [start, start+days) arasındaki oynanmış maçlar; fiyat Bet365, keskin olasılık açılış oranından.
+    Milli maçlar da (oran yok: sadece model)."""
+    end = start + pd.Timedelta(days=days)
+    up = matches[(matches["date"] >= start) & (matches["date"] < end)].copy()
     up = _sharp_1x2(up)
     up["odd_1"], up["odd_x"], up["odd_2"] = up["b365_h"], up["b365_d"], up["b365_a"]
     up["odd_ust"], up["odd_alt"] = up["b365_o25"], up["b365_u25"]
     up["ou_line"] = np.where(up["b365_o25"].notna(), 2.5, np.nan)
     for c in ["odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok", "mbs"]:
         up[c] = np.nan
+    nat = milli.load_results()
+    if not nat.empty:
+        nat = nat[(nat["date"] >= start) & (nat["date"] < end)].rename(columns={"tournament": "competition"})
+        up = pd.concat([up, nat], ignore_index=True, sort=False) if not nat.empty else up
     return up.assign(kaynak="prova")
+
+
+def _price_fair(r: dict) -> tuple[tuple, tuple]:
+    """Fiyatın (İddaa / provada B365) marjı arındırılmış 1X2 ve 2.5 alt/üst olasılıkları (yoksa NaN)."""
+    fair = devig([r.get("odd_1", np.nan), r.get("odd_x", np.nan), r.get("odd_2", np.nan)], config.DEVIG_METHOD)
+    ou = (devig([r.get("odd_ust", np.nan), r.get("odd_alt", np.nan)], config.DEVIG_METHOD)
+          if r.get("ou_line") == 2.5 else np.full(2, np.nan))
+    return tuple(fair), tuple(ou)
+
+
+def _league_label(r: dict) -> str:
+    if r["div"] != config.MILLI:
+        return r["div"]
+    comp = r.get("competition")
+    return comp.split(",")[0].strip() if isinstance(comp, str) and comp.strip() else "Milli"
 
 
 def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config.RIDGE_TOTAL,
@@ -150,38 +174,62 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
           f"Her satır: tahmin — kazanma olasılığı, adil oran, {price} oranı ve **değer** ({price} oranı adil oranın "
           "üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük "
           "riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / "
-          "Betfair) varsa ona ayarlanmış model, yoksa sadece model (daha az isabetli). Kombinasyon ve kesin skor "
-          "olasılıkları modelin skor tablosundan gelir.", ""]
+          f"Betfair) varsa ona ayarlanmış model; yoksa {price} oranının marjı arındırılmış haline ayarlı _({price} "
+          "oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ "
+          "(en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da "
+          "listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.", ""]
     if as_of:
         md += ["**Prova:** model sadece bu tarihten önceki maçları gördü; keskin olasılık o anki açılış oranından. "
                "Geçmiş İddaa oranı olmadığı için fiyat Bet365. Tek hafta sonu çok küçük bir örnek — sonuçlar "
                "şanstan çok etkilenir; amaç sistemin nasıl çalıştığını göstermek.", ""]
     if up.empty:
         return "\n".join(md + ["Maç bulunamadı."]), pd.DataFrame()
-    if motivation:
+    is_nat = up["div"] == config.MILLI
+    club, nat = up[~is_nat], up[is_nat]
+    if motivation and not club.empty:
         train = add_motivation(train)
-        up = add_motivation(train, up)
-    refs = {d: (start if as_of else t) for d, t in up.groupby("div")["date"].min().items()}
-    models = _fit_models(train, refs, {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}, joint)
+        club = add_motivation(train, club)
+    up = pd.concat([club, nat], ignore_index=True, sort=False)
+    refs = {d: (start if as_of else t) for d, t in club.groupby("div")["date"].min().items()}
+    models = _fit_models(train, refs, {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}, joint) if refs else {}
+    if not nat.empty:
+        mdl = milli.fit_current(start if as_of else nat["date"].min())
+        if mdl is not None:
+            models[config.MILLI] = mdl
+        md += ["**Milli maçlar** ayrı bir modelle (milli takım sonuçları, tarafsız saha ve hazırlık maçı ağırlığıyla) "
+               "tahmin edilir. Milli maçlar için keskin piyasa oranı olmadığından 💎 çıkmaz. İddaa sahayı "
+               "bildirmediği için ev sahibi kendi sahasında sayılır.", ""]
     cands, scores = [], []
     for r in up.to_dict("records"):
         mdl = models.get(r["div"])
         if mdl is None:
             continue
-        m = mdl.score_matrix(r["home"], r["away"], r["div"], r.get("mot", 0))
+        neutral = r.get("neutral") is True or r.get("neutral") is np.True_
+        m = mdl.score_matrix(r["home"], r["away"], r["div"], r.get("mot", 0), neutral)
         target = tuple(r.get(f"keskin_{k}", np.nan) for k in ("1", "x", "2"))
         target_ou = (r.get("keskin_ust", np.nan), r.get("keskin_alt", np.nan))
         src = "piyasa" if all(np.isfinite(target)) else "model"
         if src == "piyasa":
             m = calibrate(m, target, target_ou)
-        info = {"maç": f"{r['home']} – {r['away']}", "lig": r["div"], "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
+        else:  # keskin oran yok: fiyatın marjsız oranı (modelden isabetli)
+            target, target_ou = _price_fair(r)
+            src = "oran" if all(np.isfinite(target)) else "model"
+            if all(np.isfinite(target)) or all(np.isfinite(target_ou)):
+                m = calibrate(m, target, target_ou)  # 1X2'de kapalı sonuç varsa sadece alt/üst
+        # İddaa'da listelenen maçta oranı olmayan market (kapalı / açılmamış) oynanamaz: önerilmez
+        listed = not as_of and "İddaa" in str(r.get("kaynak", ""))
+        info = {"maç": f"{r['home']} – {r['away']}", "lig": _league_label(r), "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
                 "gün": pd.Timestamp(r["date"]).strftime("%Y-%m-%d"),
                 "mbs": r.get("mbs"), "kaynak": src, "hg": r.get("fthg", np.nan), "ag": r.get("ftag", np.nan)}
         for bet, p in market_probs(m).items():
             col = ODD_COL.get(bet)
             odd = r.get(col, np.nan) if col else np.nan
+            if not odd > 1.0:  # eski kayıtlarda 1.00 = oynanamaz
+                odd = np.nan
             if bet.startswith("2.5") and r.get("ou_line") != 2.5:
                 odd = np.nan  # ana baraj 2.5 değilse bu oran başka baraj içindir
+            if listed and col and not np.isfinite(odd):
+                continue
             cands.append({**info, "tahmin": bet, "p": p, "odd": odd})
         i, j = np.unravel_index(np.argmax(m), m.shape)
         scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": np.nan})
@@ -199,7 +247,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             s += f", {price} oranı yok"
         if pd.notna(x.get("mbs")) and x.get("mbs") > 1:
             s += f", MBS {int(x['mbs'])}"
-        s += "" if x["kaynak"] == "piyasa" else " _(sadece model)_"
+        s += {"piyasa": "", "oran": f" _({price} oranına ayarlı)_"}.get(x["kaynak"], " _(sadece model)_")
         if judged:
             s += f" → {int(x['hg'])}-{int(x['ag'])} {'✅' if bet_won(x['tahmin'], int(x['hg']), int(x['ag'])) else '❌'}"
         return s

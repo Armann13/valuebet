@@ -72,6 +72,11 @@ def test_gradient():
     err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp)[0],
                      lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp)[1], th3)
     assert err < 1e-5, err
+    # tarafsız saha (milli maçlar): ev avantajı sadece hm = 1 olan maçlarda
+    hm = (rng.uniform(size=m) > 0.3).astype(float)
+    err = check_grad(lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp, hm)[0],
+                     lambda t: _objective(t, hi, ai, x, y, w, n, 2.0, 8.0, li, tl, 2, ts, mot, xp, yp, hm)[1], th3)
+    assert err < 1e-5, err
     # ridge = ridge_total iken ceza eski haliyle aynı: ridge * (Σa² + Σd²)
     a, d = th[3:3 + n], th[3 + n:]
     pen = (_objective(th, hi, ai, x, y, w, n, 2.0, 2.0)[0] - _objective(th, hi, ai, x, y, w, n, 0.0, 0.0)[0]) * w.sum()
@@ -261,15 +266,19 @@ def test_parse_iddaa():
            "m": [{"t": 1, "st": 1, "o": [{"no": 1, "odd": 1.45, "wodd": 1.39, "n": "1"},
                                          {"no": 2, "odd": 4.4, "wodd": 4.23, "n": "0"},
                                          {"no": 3, "odd": 5.9, "wodd": 5.67, "n": "2"}]},
+                 {"t": 2, "st": 101, "sov": "1.5", "o": [{"no": 1, "odd": 4.0, "n": "Alt"}, {"no": 2, "odd": 1.2, "n": "Üst"}]},
                  {"t": 2, "st": 101, "sov": "2.5", "o": [{"no": 1, "odd": 2.1, "wodd": 2.02, "n": "Alt"},
                                                          {"no": 2, "odd": 1.62, "wodd": 1.56, "n": "Üst"}]},
+                 {"t": 2, "st": 101, "sov": "3.5", "o": [{"no": 1, "odd": 1.3, "n": "Alt"}, {"no": 2, "odd": 3.1, "n": "Üst"}]},
+                 {"t": 2, "st": 92, "o": [{"n": "1 ve 0", "odd": 1.0}, {"n": "1 ve 2", "odd": 1.12}]},  # 1.00 = kapalı
                  {"t": 2, "st": 89, "o": [{"no": 1, "odd": 1.7, "n": "Var"}, {"no": 2, "odd": 2.0, "n": "Yok"}]}]},
           {"i": 2, "hn": "X", "an": "Y", "ci": 999, "d": 1790870400, "m": []}]  # başka lig: atlanır
     df = parse_events(ev, {129: "SP1"})
     assert len(df) == 1
     r = df.iloc[0]
     assert (r["div"], r["odd_1"], r["odd_x"], r["odd_2"], r["ou_line"], r["odd_ust"], r["mbs"]) == \
-        ("SP1", 1.45, 4.4, 5.9, 2.5, 1.62, 1)
+        ("SP1", 1.45, 4.4, 5.9, 2.5, 1.62, 1)  # birden çok baraj varsa 2.5
+    assert np.isnan(r["odd_1x"]) and r["odd_12"] == 1.12 and r["odd_kg_var"] == 1.7
     assert r["kickoff_utc"] == "2026-10-01 16:00"
     from src.iddaa import resolve_competitions
     comps = [{"i": 129, "si": "1", "n": "İspanya La Liga"}, {"i": 1951, "si": "1", "n": "İspanya La Liga 2"},
@@ -277,6 +286,49 @@ def test_parse_iddaa():
              {"i": 80676, "si": "1", "n": "Türkiye Süper Lig Beşiktaş Özel"}, {"i": 584, "si": "1", "n": "Türkiye Süper Lig"},
              {"i": 5, "si": "5", "n": "İspanya La Liga"}]  # si=5: başka spor
     assert resolve_competitions(comps) == {129: "SP1", 1951: "SP2", 19843: "SC0", 584: "T1"}
+    # milli turnuvalar; gençler, kadınlar ve kulüp turnuvaları hariç
+    milli = [{"i": 1407, "si": "1", "n": "UEFA Uluslar Ligi"}, {"i": 1484, "si": "1", "n": "Uluslararası Hazırlık Maçları"},
+             {"i": 2902, "si": "1", "n": "CONCACAF Uluslar A Ligi, Grp A"},
+             {"i": 1432, "si": "1", "n": "Afrika Uluslar Kup.,Eleme,Gr.D"},
+             {"i": 7, "si": "1", "n": "Dünya Kupası Elemeleri, Avrupa"},
+             {"i": 126, "si": "1", "n": "UEFA Şampiyonlar Ligi"}, {"i": 958, "si": "1", "n": "Kulüplerarası Hazırlık Maçları"},
+             {"i": 8, "si": "1", "n": "U21 Avrupa Şampiyonası Elemeleri"}, {"i": 9, "si": "1", "n": "Kadınlar Dünya Kupası"},
+             {"i": 10, "si": "1", "n": "Dünya Kupası U20"}, {"i": 11, "si": "1", "n": "Kulüpler Dünya Kupası"}]
+    assert resolve_competitions(milli) == {i: config.MILLI for i in (1407, 1484, 2902, 1432, 7)}
+
+
+def test_milli_names():
+    """Türkçe ülke adları veri setindeki adlara; bulanık eşleşme yok (Avusturya ≠ Avustralya)."""
+    from src.milli import TEAMS, ULKELER
+    from src.teams import TeamResolver
+    r = TeamResolver(sorted(TEAMS), aliases=ULKELER, allow_fuzzy=False)
+    cases = {"Avusturya": "Austria", "Avustralya": "Australia", "Sırbistan": "Serbia", "Kuzey İrlanda": "Northern Ireland",
+             "İrlanda": "Republic of Ireland", "Çekya": "Czech Republic", "Türkiye": "Turkey", "Curacao": "Curaçao",
+             "Kuzey Makedonya": "North Macedonia", "Fildişi Sahili": "Ivory Coast", "Kongo DC": "DR Congo",
+             "Kongo": "Congo", "Gine": "Guinea", "Spain": "Spain", "Kıbrıs Rum Kesimi": "Cyprus",
+             "ABD Virgin Adaları": "United States Virgin Islands", "Türkiye U21": None, "Bask Ülkesi": None}
+    got = {k: r(k) for k in cases}
+    assert got == cases, {k: v for k, v in got.items() if v != cases[k]}
+    assert r.fuzzy == {}
+
+
+def test_neutral_venue():
+    """Tarafsız sahada ev avantajı yok: model ev avantajını sadece ev sahibinin kendi sahasındaki maçlardan öğrenir;
+    tarafsız sahada A-B tahmini B-A'nın aynası."""
+    df, _, _ = _simulate(seed=7)
+    rng = np.random.default_rng(7)
+    df["neutral"] = rng.uniform(size=len(df)) < 0.4
+    # tarafsız maçların yarısında ev / deplasman rolleri değişir (gerçekteki gibi "ev" adı rastgele)
+    swap = df["neutral"] & (rng.uniform(size=len(df)) < 0.5)
+    df.loc[swap, ["home", "away"]] = df.loc[swap, ["away", "home"]].to_numpy()
+    df.loc[swap, ["fthg", "ftag"]] = df.loc[swap, ["ftag", "fthg"]].to_numpy()
+    m = DixonColes(xi=0.0, ridge=0.1, lookback_days=5000).fit(df)
+    p = m.predict("T00", "T01", neutral=True)
+    q = m.predict("T01", "T00", neutral=True)
+    assert abs(p["p_home"] - q["p_away"]) < 1e-9 and abs(p["p_draw"] - q["p_draw"]) < 1e-9
+    assert m.predict("T00", "T01")["p_home"] > p["p_home"]  # kendi sahasında daha olası
+    w = DixonColes(xi=0.0, ridge=0.1, lookback_days=5000).fit(df.assign(weight=np.where(df["neutral"], 0.5, 1.0)))
+    assert w.converged and np.isfinite(w.attack).all()
 
 
 def test_tavsiye_markets():
@@ -357,6 +409,11 @@ def test_end_to_end():
     assert "SP1 (3).csv: 380 maç (SP1 2025/26)" in r.stdout, r.stdout
     assert "Oran doluluğu" in r.stdout, r.stdout
     assert "xG:" in r.stdout and "maça eklendi" in r.stdout and "gol tutmadı" not in r.stdout, r.stdout
+    r = run("main.py", "milli", "--eval-from", "2024")  # milli takım modeli: doğrulama raporu
+    assert r.returncode == 0, r.stderr
+    rep = (tmp / "reports" / "milli_summary.md").read_text(encoding="utf-8")
+    assert "Kalibrasyon" in rep and "| tümü |" in rep, rep[:800]
+    assert "Basque Country" not in pd.read_csv(tmp / "reports" / "milli_preds.csv")["home"].values  # FIFA dışı
     r = run("main.py", "backtest", "--no-joint", "--div", "SP1", "--eval-from", "2024")
     assert r.returncode == 0, r.stderr
     report = (tmp / "reports" / "backtest_summary.md").read_text(encoding="utf-8")
@@ -446,7 +503,13 @@ def test_end_to_end():
     pd.DataFrame([{"snapshot_utc": "2000-01-01 00:00", "event_id": 8, "div": up["Div"],
                    "kickoff_utc": f"{kick_up:%Y-%m-%d} 20:00", "mbs": 1, "odd_1": 2.5, "odd_x": 3.2, "odd_2": 2.9,
                    "ou_line": 1.5, "odd_alt": 2.4, "odd_ust": 1.5, "home": up["HomeTeam"], "away": up["AwayTeam"],
-                   "season": season_up}]).to_csv(iddaa_dir / f"odds_{season_up}.csv", index=False)
+                   "season": season_up},
+                  # milli maç: Türkçe adlar ülke adlarına eşlenir; keskin oran yok -> İddaa oranına ayarlı
+                  {"snapshot_utc": "2000-01-01 00:00", "event_id": 9, "div": config.MILLI,
+                   "kickoff_utc": f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d} 18:45", "mbs": 1, "odd_1": 1.35, "odd_x": 4.6, "odd_2": 8.0,
+                   "ou_line": 2.5, "odd_alt": 2.0, "odd_ust": 1.7, "home_iddaa": "İspanya", "away_iddaa": "Çekya",
+                   "competition": "UEFA Uluslar Ligi", "season": season_up}]
+                 ).to_csv(iddaa_dir / f"odds_{season_up}.csv", index=False)
     r = run("main.py", "predict", "--fixtures", fixtures, "--iddaa", "auto")
     assert r.returncode == 0, r.stderr
     assert "otomatik toplanan oranlar, 1 maç" in r.stdout and "İddaa oranlarına göre" in r.stdout, r.stdout[-1500:]
@@ -455,9 +518,16 @@ def test_end_to_end():
     assert all(s in r.stdout for s in ("Tier 1", "Tier 5", "Değeri pozitif")), r.stdout[-1500:]
     son = (tmp / "tavsiyeler" / "son.md").read_text(encoding="utf-8")
     assert "Tier 1" in son and "İddaa oranlarının son kaydı" in son, son[:300]
+    assert "Spain – Czech Republic (UEFA Uluslar Ligi" in son and "İddaa oranına ayarlı" in son, son[-2500:]
+    picks = pd.read_csv(tmp / "tavsiyeler" / "son.csv")
+    nat = picks[picks["maç"] == "Spain – Czech Republic"]
+    assert len(nat) and (nat["kaynak"] == "oran").all() and not nat["gerçek_değer"].any()  # milli maçta 💎 yok
+    ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
+    assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma
     assert r.returncode == 0, r.stderr
     assert "Sonuç özeti" in r.stdout and ("✅" in r.stdout or "❌" in r.stdout), r.stdout[-1500:]
+    assert "Milli maçlar" in r.stdout and "(UEFA Nations League" in r.stdout, r.stdout[-1500:]
     shutil.rmtree(tmp, ignore_errors=True)
 
 

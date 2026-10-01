@@ -11,6 +11,7 @@
     python main.py iddaa             # İddaa oranlarını topla (data/raw/iddaa/)
     python main.py tavsiye           # risk seviyesine göre tavsiyeler (reports/tavsiye_{tarih}.md)
     python main.py telegram          # tavsiyeleri Telegram'a gönder (--kurulum: ilk kurulum)
+    python main.py milli             # milli takım modeli doğrulaması (--siralama: güç sıralaması, --ayar: ayar)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -29,7 +30,10 @@ except Exception:
 
 
 def cmd_download(args):
+    from src import milli
     from src.download import download_fixtures, download_seasons, download_xg
+    print("Milli maç sonuçları indiriliyor ...")
+    milli.download()  # ayrı kaynak (GitHub); başarısızlığı işi durdurmaz
     print("Sezon dosyaları indiriliyor ...")
     ok = download_seasons(force=args.force)
     if ok:
@@ -176,6 +180,27 @@ def cmd_telegram(args):
         telegram.notify()
 
 
+def cmd_milli(args):
+    from src import milli
+    if args.siralama:
+        print(milli.ratings().round(3).to_string())
+        return
+    config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    if args.ayar:
+        grid = lambda s: [float(v) for v in s.split(",")]  # noqa: E731
+        md, table = milli.tune(milli.load_results(), args.eval_from, args.tune_to, grid(args.xi_grid),
+                               grid(args.ridge_grid), grid(args.ridge_total_grid), grid(args.hazirlik_grid),
+                               args.workers)
+        table.to_csv(config.REPORTS_DIR / "milli_tune_grid.csv", index=False)
+        out = config.REPORTS_DIR / "milli_tune.md"
+    else:
+        md, preds = milli.run(args.eval_from)
+        preds.to_csv(config.REPORTS_DIR / "milli_preds.csv", index=False)
+        out = config.REPORTS_DIR / "milli_summary.md"
+    out.write_text(md, encoding="utf-8")
+    print(md + f"\n\nRapor: {out}")
+
+
 def cmd_iddaa(args):
     from src import iddaa
     print("İddaa oranları toplanıyor ...")
@@ -251,6 +276,7 @@ def main():
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
+                     ("milli", cmd_milli),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -277,6 +303,17 @@ def main():
                             help="seçim ölçütü: 1X2, Ü/A ya da ikisinin toplamı log loss")
         if name == "diagnose":
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
+        if name == "milli":  # milli takım modeli; ayarları config.MILLI_* (--xi / --ridge burada kullanılmaz)
+            sp.add_argument("--siralama", action="store_true", help="güncel milli takım güç sıralaması")
+            sp.add_argument("--ayar", action="store_true", help="ızgara ile ayar (reports/milli_tune.md)")
+            sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
+            sp.add_argument("--tune-to", type=int, default=2021, dest="tune_to")
+            sp.add_argument("--workers", type=int, default=max(1, (os.cpu_count() or 2) - 2))
+            sp.add_argument("--xi-grid", dest="xi_grid", default="0.0005,0.001,0.0015,0.0025")
+            sp.add_argument("--ridge-grid", dest="ridge_grid", default="0.25,0.5,1,2")
+            sp.add_argument("--ridge-total-grid", dest="ridge_total_grid", default="4,16")
+            sp.add_argument("--hazirlik-grid", dest="hazirlik_grid", default="0.5,0.75,1",
+                            help="hazırlık maçı ağırlıkları")
         if name in ("track", "tavsiye"):
             sp.add_argument("--fixtures", help="fixtures.csv yolu (varsayılan: data/raw/fixtures.csv)")
         if name == "telegram":

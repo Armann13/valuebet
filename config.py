@@ -72,6 +72,25 @@ IDDAA_LEAGUE_NAMES = {
     "G1": "Yunanistan Süper Lig",
 }
 
+# ---------------------------------------------------------------- Milli takımlar (bkz. src/milli.py)
+# Sonuçlar: martj42/international_results (GitHub; 1872'den bugüne tüm resmi A milli maçlar, düzenli güncellenir).
+# Oranlar: İddaa'nın milli takım turnuvaları (aşağıdaki anahtar kelimelerle; gençler / kadınlar / kulüpler hariç).
+# Keskin piyasa (Pinnacle / Betfair) oranı olmadığı için 💎 (değer) ölçülemez.
+MILLI = "MILLI"   # milli maçların lig kodu (config.LEAGUES'e dahil değil: indirme / backtest döngüleri kulüp ligleri için)
+MILLI_URL = "https://raw.githubusercontent.com/martj42/international_results/master/results.csv"
+IDDAA_MILLI_KEYWORDS = ["Uluslar", "Dünya Kupası", "Avrupa Şampiyonası", "Copa America", "Asya Kupası",
+                        "Altın Kupa", "Gold Cup", "Kirin", "ASEAN", "Arap Kupası", "Körfez Kupası", "Finalissima"]
+IDDAA_MILLI_EXCLUDE = r"\bU\s?\d{2}\b|Kadın|Kulüp|Şampiyonlar|Olimpiyat|Genç|Ümit|Plaj|Futsal|Salon"
+# Model ayarları (2026-10-01; seçim 2016-2021 maçlarında 1X2 + Ü/A log loss, test 2022+): çekim azaldıkça model
+# belirgin iyileşti (ridge 2 -> 0.1: test 1X2 0.884 -> 0.856); milli takımların maç sayısı çekime gerek bırakmıyor.
+# xi 0.0005-0.001 düz (yarı ömür ~3 yıl), ridge_total 16 Ü/A'da 4'ten iyi, hazırlık maçlarını düşük ağırlıklandırmak
+# (0.75) fayda sağlamadı (1.0 = eşit). Kalan sorun: model favorilerde hâlâ biraz temkinli (%83 dediğinde %85).
+MILLI_XI = 0.0007
+MILLI_RIDGE = 0.1
+MILLI_RIDGE_TOTAL = 16.0
+MILLI_FRIENDLY_WEIGHT = 1.0
+MILLI_LOOKBACK_DAYS = 6 * 365
+
 # football-data.co.uk oran sütunları -> bizim kısa adlarımız.
 #   b365 = Bet365 (maçtan 1-3 gün önce), ps = Pinnacle (maçtan 1-3 gün önce)
 #   bfe = Betfair Exchange (borsa), avg / max = piyasa ortalaması / en iyi oran

@@ -115,6 +115,24 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
    gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
    ```
 
+### Milli takımlar
+
+- **Sonuçlar:** [martj42/international_results](https://github.com/martj42/international_results) (GitHub, tüm A
+  milli maçlar) → `data/raw/milli/results.csv`. `download` indirir (GitHub Actions da). Sadece FIFA üyeleri arasındaki
+  maçlar kullanılır (Bask Ülkesi, Jersey gibi takımlar dışarıda).
+- **Model:** aynı Dixon-Coles, tek "lig" olarak: tarafsız sahada ev avantajı yok, hazırlık maçları daha düşük
+  ağırlıklı, pencere 6 yıl (milli takımlar yılda ~10 maç oynuyor). Ayarlar `config.py`'de `MILLI_*`.
+- `python main.py milli` → `reports/milli_summary.md`: walk-forward doğrulama (log loss ve kalibrasyon). Milli
+  maçlar için keskin kapanış oranı olmadığından kıyas gerçekleşen sonuçlara göre. `--siralama`: güncel güç
+  sıralaması; `--ayar`: ızgara ile ayar (uzun sürer).
+- **İddaa:** milli turnuvalar otomatik toplanır (Uluslar Ligi, Dünya Kupası / Avrupa Şampiyonası ve elemeleri,
+  hazırlık maçları ...; gençler, kadınlar, kulüpler hariç). Türkçe ülke adları `src/milli.py`'deki `ULKELER` ile
+  eşlenir (bulanık eşleşme yok). Eşleşmeyen ad `data/raw/iddaa/eslesme_raporu.csv`'ye düşer; `team_aliases.csv`'ye
+  `alias,team` satırı ekle (team = veri setindeki İngilizce ad, ör. `Çek Cum.,Czech Republic`).
+- **Tavsiye:** milli maçlar raporda turnuva adıyla çıkar. Keskin oran olmadığı için olasılıklar İddaa'nın marjı
+  arındırılmış oranına ayarlıdır ("İddaa oranına ayarlı") ve 💎 çıkmaz. İddaa sahayı bildirmediği için ev sahibi
+  kendi sahasında sayılır (1X2 ve alt/üst İddaa oranına ayarlandığı için etkisi küçük).
+
 ### Canlı takip (kağıt üzerinde)
 
 GitHub Actions her veri güncellemesinden sonra `python main.py track` çalıştırır ve sonuçları depoya yazar:
@@ -129,8 +147,9 @@ tutar. Birkaç yüz maç birikmeden sonuçlar çok gürültülüdür.
 
 ### İddaa oranlarının otomatik toplanması
 
-`.github/workflows/iddaa.yml` 3 saatte bir `python main.py iddaa` çalıştırır: La Liga ve La Liga 2 maçlarının İddaa
-oranları (maç sonucu, ana baraj alt/üst, MBS) iddaa.com'un sitesinin kullandığı JSON uç noktasından çekilir ve
+`.github/workflows/iddaa.yml` 3 saatte bir `python main.py iddaa` çalıştırır: takip edilen 22 lig ve milli maçların
+İddaa oranları (maç sonucu, ana baraj alt/üst, çifte şans, KG, MBS) iddaa.com'un sitesinin kullandığı JSON uç
+noktasından çekilir ve
 değişen oranlar `data/raw/iddaa/odds_{sezon}.csv`'ye eklenir. Resmi bir API değildir; uç nokta değişirse toplama
 durur (GitHub e-postası gelir).
 
@@ -201,6 +220,7 @@ src/features.py      maç öncesi puan durumu ve motivasyon
 src/tracking.py      kağıt üzerinde canlı takip (tracking/ klasörüne yazar)
 src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-data)
 src/iddaa.py         İddaa oranlarının otomatik toplanması (data/raw/iddaa/)
+src/milli.py         milli takımlar: sonuç verisi, Türkçe ülke adları, model, doğrulama
 src/tavsiye.py       risk seviyesine göre tavsiye raporu (piyasaya ayarlı skor tablosundan tüm marketler)
 src/telegram.py      Telegram bildirimi (günlük özet + yeni 💎 uyarısı)
 src/odds.py          marj temizleme (proportional / power)

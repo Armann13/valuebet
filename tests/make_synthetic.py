@@ -138,8 +138,40 @@ def main(out_dir: Path):
         names["SP1"] = [t for t in names["SP1"] if t not in down] + up
         names["SP2"] = [t for t in names["SP2"] if t not in up] + down
     pd.DataFrame(fixtures).drop(columns="_xg", errors="ignore").to_csv(out_dir / "fixtures.csv", index=False)
+    milli_results(out_dir, today)
     print(f"sentetik veri yazıldı: {out_dir} ({len(fixtures)} fikstür)")
     return names
+
+
+MILLI_TEAMS = ["Spain", "Czech Republic", "Germany", "Greece", "Turkey", "Scotland", "Wales", "Denmark", "Croatia",
+               "England", "Portugal", "Norway", "Poland", "Romania", "Hungary", "Georgia"]
+
+
+def milli_results(out_dir: Path, today: date) -> None:
+    """martj42/international_results biçiminde milli maçlar: yılda 5 ara (Mart, Haziran, Eylül, Ekim, Kasım),
+    her arada 2 hafta; bir kısmı hazırlık maçı, bir kısmı tarafsız sahada. FIFA dışı bir takım da var (elenmeli)."""
+    strength = {t: (RNG.normal(0, 0.35), RNG.normal(0, 0.25)) for t in MILLI_TEAMS}
+    rows = []
+    for year in range(2014, today.year + 1):
+        for month, day in [(3, 20), (6, 5), (9, 1), (10, 9), (11, 13)]:
+            for week in range(2):
+                d = date(year, month, day) + timedelta(days=7 * week)
+                if d >= today:
+                    continue
+                order = list(RNG.permutation(MILLI_TEAMS))
+                for h, a in zip(order[::2], order[1::2]):
+                    neutral = RNG.uniform() < 0.2
+                    lam = np.exp(0.1 + (0 if neutral else HOME) + strength[h][0] + strength[a][1])
+                    nu = np.exp(0.1 + strength[a][0] + strength[h][1])
+                    k = RNG.choice(121, p=dc_matrix(lam, nu).ravel())
+                    rows.append({"date": d.isoformat(), "home_team": h, "away_team": a, "home_score": k // 11,
+                                 "away_score": k % 11, "tournament": "Friendly" if RNG.uniform() < 0.3 else
+                                 "UEFA Nations League", "city": "x", "country": "x", "neutral": "TRUE" if neutral
+                                 else "FALSE"})
+        rows.append({"date": f"{year}-06-01", "home_team": "Basque Country", "away_team": "Spain", "home_score": 1,
+                     "away_score": 0, "tournament": "Friendly", "city": "x", "country": "x", "neutral": "FALSE"})
+    (out_dir / "milli").mkdir(exist_ok=True)
+    pd.DataFrame(rows).to_csv(out_dir / "milli" / "results.csv", index=False)
 
 
 if __name__ == "__main__":

@@ -188,6 +188,7 @@ def _latest_iddaa(today: pd.Timestamp) -> pd.DataFrame:
     now = pd.Timestamp.now(tz="UTC").tz_localize(None)
     last = odds[odds["kickoff_utc"] > now].sort_values("snapshot_utc").groupby("event_id").tail(1)
     last = last.dropna(subset=["home", "away"])
+    last = last[last["div"] != config.MILLI]  # milli maçlar sadece tavsiye raporunda (python main.py tavsiye)
     two_five = last["ou_line"] == 2.5
     print(f"  İddaa: otomatik toplanan oranlar, {len(last)} maç (son kayıt {odds['snapshot_utc'].max():%d.%m %H:%M} UTC)")
     return pd.DataFrame({"home": last["home"], "away": last["away"], "odd_1": last["odd_1"], "odd_x": last["odd_x"],

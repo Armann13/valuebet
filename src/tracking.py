@@ -126,6 +126,7 @@ def _iddaa_clv(preds: pd.DataFrame, res: pd.DataFrame) -> pd.DataFrame:
     if odds.empty:
         return pd.DataFrame()
     odds = odds.dropna(subset=["home", "away"]).sort_values("snapshot_utc")
+    odds = odds[odds["div"] != config.MILLI]  # milli maçlarda keskin kapanış yok: CLV ölçülemez
     odds["season"] = odds["season"].astype(int)
     g = odds.groupby(KEY)
     first, last = g.head(1).set_index(KEY), g.tail(1).set_index(KEY)

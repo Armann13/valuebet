@@ -30,20 +30,27 @@ BUILTIN_ALIASES = {
 
 
 def _norm(s: str) -> str:
-    s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode()
+    s = str(s).replace("ı", "i").replace("İ", "I")  # Türkçe noktasız ı NFKD'de ayrışmaz, yoksa silinirdi
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return " ".join(s.lower().replace("-", " ").split())
 
 
 class TeamResolver:
-    def __init__(self, known: list[str]):
+    """aliases: ek eşleştirmeler (ör. Türkçe ülke adları). allow_fuzzy=False: sadece tam / takma ad / normalize
+    eşleşme (ülke adlarında bulanık eşleşme tehlikeli: "Avusturya" ~ "Australia")."""
+
+    def __init__(self, known: list[str], aliases: dict | None = None, allow_fuzzy: bool = True):
         self.known = sorted(set(known))
         self.by_norm = {_norm(t): t for t in self.known}
+        self.allow_fuzzy = allow_fuzzy
         self.fuzzy = {}  # bulanık eşleşmeyle verilen kararlar (ad -> takım): gözden geçirmek için
-        self.aliases = {k: v for k, v in BUILTIN_ALIASES.items() if v in self.known}
+        extra = {_norm(k): v for k, v in (aliases or {}).items()}
+        self.aliases = {k: v for k, v in {**BUILTIN_ALIASES, **extra}.items() if v in self.known}
         f = config.ROOT / "team_aliases.csv"
         if f.exists():
             for r in pd.read_csv(f).itertuples(index=False):
-                self.aliases[_norm(r.alias)] = str(r.team).strip()
+                if str(r.team).strip() in self.known:  # başka listenin (kulüp / milli) adı karışmasın
+                    self.aliases[_norm(r.alias)] = str(r.team).strip()
 
     def __call__(self, name: str) -> str | None:
         if name in self.known:
@@ -53,6 +60,8 @@ class TeamResolver:
             return self.aliases[n]
         if n in self.by_norm:
             return self.by_norm[n]
+        if not self.allow_fuzzy:
+            return None
         # "Sutton United" -> "Sutton": ad, bilinen TEK bir takımın adıyla (kelime sınırında) başlıyorsa
         pre = [k for k in self.by_norm if n.startswith(k + " ") or k.startswith(n + " ")]
         if len(pre) == 1:
