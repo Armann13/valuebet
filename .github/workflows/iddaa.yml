@@ -43,6 +43,10 @@ jobs:
       - name: Oranları topla
         run: python main.py iddaa
 
+      - name: Son milli maç sonuçları (ESPN)
+        continue-on-error: true   # ulaşılamazsa eldeki veriyle devam
+        run: python main.py milli --espn
+
       - name: Tavsiye raporu (tavsiyeler/son.md)
         run: python main.py tavsiye --yayinla --fixtures data/raw/fixtures.csv
 
@@ -71,7 +75,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/iddaa tavsiyeler 2>/dev/null || true
+          git add data/raw/iddaa data/raw/milli tavsiyeler 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Yeni oran yok."
             exit 0

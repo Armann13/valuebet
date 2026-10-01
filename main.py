@@ -35,6 +35,7 @@ def cmd_download(args):
     from src.download import download_fixtures, download_seasons, download_xg
     print("Milli maç sonuçları indiriliyor ...")
     milli.download()  # ayrı kaynak (GitHub); başarısızlığı işi durdurmaz
+    milli.download_espn()  # veri setinde henüz olmayan son maçlar
     print("Sezon dosyaları indiriliyor ...")
     ok = download_seasons(force=args.force)
     if ok:
@@ -188,6 +189,9 @@ def cmd_sonuc(args):
 
 def cmd_milli(args):
     from src import milli
+    if args.espn:
+        milli.download_espn()
+        return
     if args.siralama:
         print(milli.ratings().round(3).to_string())
         return
@@ -313,6 +317,7 @@ def main():
             sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
         if name == "milli":  # milli takım modeli; ayarları config.MILLI_* (--xi / --ridge burada kullanılmaz)
             sp.add_argument("--siralama", action="store_true", help="güncel milli takım güç sıralaması")
+            sp.add_argument("--espn", action="store_true", help="son milli maç sonuçlarını ESPN'den çek")
             sp.add_argument("--ayar", action="store_true", help="ızgara ile ayar (reports/milli_tune.md)")
             sp.add_argument("--eval-from", type=int, default=config.EVAL_FROM_SEASON, dest="eval_from")
             sp.add_argument("--tune-to", type=int, default=2021, dest="tune_to")

@@ -78,6 +78,9 @@ IDDAA_LEAGUE_NAMES = {
 # Keskin piyasa (Pinnacle / Betfair) oranı olmadığı için 💎 (değer) ölçülemez.
 MILLI = "MILLI"   # milli maçların lig kodu (config.LEAGUES'e dahil değil: indirme / backtest döngüleri kulüp ligleri için)
 MILLI_URL = "https://raw.githubusercontent.com/martj42/international_results/master/results.csv"
+# Yeni milli maç sonuçları (yukarıdaki veri seti haftalarca gecikebiliyor): ESPN'in sitesinin kullandığı skor servisi
+# (resmi API değil; kullanıcı onayıyla, 2026-10-01). Aylık sorgu: dates=YYYYMM.
+ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard"
 IDDAA_MILLI_KEYWORDS = ["Uluslar", "Dünya Kupası", "Avrupa Şampiyonası", "Copa America", "Asya Kupası",
                         "Altın Kupa", "Gold Cup", "Kirin", "ASEAN", "Arap Kupası", "Körfez Kupası", "Finalissima"]
 IDDAA_MILLI_EXCLUDE = r"\bU\s?\d{2}\b|Kadın|Kulüp|Şampiyonlar|Olimpiyat|Genç|Ümit|Plaj|Futsal|Salon"

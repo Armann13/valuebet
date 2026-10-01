@@ -326,6 +326,40 @@ def test_milli_names():
     assert r.fuzzy == {}
 
 
+def test_espn_results():
+    """ESPN skorları: biten maçlar, ad eşleştirme, uzatmalı maçta 90 dakika skoru, ana veri setiyle tekrar yok."""
+    import tempfile
+    from src import milli
+    from src.teams import TeamResolver
+    team = lambda n, ha, s, ls=None: {"homeAway": ha, "team": {"displayName": n}, "score": s,  # noqa: E731
+                                      **({"linescores": [{"value": v} for v in ls]} if ls else {})}
+    ev = lambda st, c, d="2026-09-29T18:45Z": {"date": d, "status": {"type": {"completed": st != "pre", "name": st}},  # noqa: E731
+                                                "competitions": [{"competitors": c}]}
+    data = {"events": [ev("STATUS_FULL_TIME", [team("Czechia", "home", "0"), team("England", "away", "2")]),
+                       ev("pre", [team("Spain", "home", "0"), team("Croatia", "away", "0")]),
+                       ev("STATUS_FINAL_AET", [team("Wales", "home", "2", [1, 0, 1]), team("Norway", "away", "1", [0, 1, 0])]),
+                       ev("STATUS_FULL_TIME", [team("Atlantis", "home", "1"), team("Spain", "away", "1")])]}
+    resolve = TeamResolver(sorted(milli.TEAMS), aliases=milli.ESPN_ADLAR, allow_fuzzy=False)
+    rows, unknown = milli.parse_espn(data, "uefa.nations", resolve)
+    assert [(r["home_team"], r["away_team"], r["home_score"], r["away_score"]) for r in rows] == \
+        [("Czech Republic", "England", 0, 2), ("Wales", "Norway", 1, 1)]  # uzatma golü sayılmaz
+    assert unknown == {"Atlantis"} and rows[0]["tournament"] == "UEFA Nations League"
+    old = config.RAW_DIR
+    with tempfile.TemporaryDirectory() as d:
+        config.RAW_DIR = Path(d)
+        try:
+            (Path(d) / "milli").mkdir()
+            base = pd.DataFrame([{"date": "2026-09-28", "home_team": "Czech Republic", "away_team": "England",
+                                  "home_score": 0, "away_score": 2, "tournament": "UEFA Nations League", "city": "",
+                                  "country": "", "neutral": False}])
+            base.to_csv(milli.results_path(), index=False)
+            pd.DataFrame(rows).to_csv(milli.espn_path(), index=False)
+            got = milli.load_results(since="2026-01-01")
+        finally:
+            config.RAW_DIR = old
+    assert len(got) == 2 and (got["home"] == "Czech Republic").sum() == 1  # aynı maç ±1 gün: ana veri seti öncelikli
+
+
 def test_neutral_venue():
     """Tarafsız sahada ev avantajı yok: model ev avantajını sadece ev sahibinin kendi sahasındaki maçlardan öğrenir;
     tarafsız sahada A-B tahmini B-A'nın aynası."""

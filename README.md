@@ -123,7 +123,7 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 
 - Telegram'da gönderilen her tahmin, gönderildiği andaki olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye
   kaydedilir (aynı maç ve tahmin bir kez).
-- Sonuçlar geldikçe (kulüp maçları football-data'dan 1-3 gün içinde; milli maçlar milli veri seti güncellenince)
+- Sonuçlar geldikçe (kulüp maçları football-data'dan 1-3 gün içinde; milli maçlar ESPN'den birkaç saat içinde)
   kayıtlar ✅ / ❌ ile kapanır. Bir günün tüm tahminleri sonuçlanınca o günün **📊 Sonuçlar** mesajı Telegram'a
   gider: seviye bazında isabet, beklenen isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek
   başına 1 birim), tek tek tahminler ve başlangıçtan beri toplam. 5 gün içinde sonucu gelmeyenler "sonuç yok"
@@ -134,7 +134,9 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 
 - **Sonuçlar:** [martj42/international_results](https://github.com/martj42/international_results) (GitHub, tüm A
   milli maçlar) → `data/raw/milli/results.csv`. `download` indirir (GitHub Actions da). Sadece FIFA üyeleri arasındaki
-  maçlar kullanılır (Bask Ülkesi, Jersey gibi takımlar dışarıda).
+  maçlar kullanılır (Bask Ülkesi, Jersey gibi takımlar dışarıda). Bu veri seti haftalarca gecikebildiği için son
+  maçlar ESPN'in skor servisinden (resmi API değil) `data/raw/milli/espn.csv`'ye alınır: `python main.py milli --espn`
+  (GitHub Actions 3 saatte bir). Aynı maç ana veri setine eklenince onunki kullanılır.
 - **Model:** aynı Dixon-Coles, tek "lig" olarak: tarafsız sahada ev avantajı yok, hazırlık maçları daha düşük
   ağırlıklı, pencere 6 yıl (milli takımlar yılda ~10 maç oynuyor). Ayarlar `config.py`'de `MILLI_*`.
 - `python main.py milli` → `reports/milli_summary.md`: walk-forward doğrulama (log loss ve kalibrasyon). Milli

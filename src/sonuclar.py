@@ -2,8 +2,8 @@
 
 Kayıt: telegram.notify her gönderimde mesajdaki tahminleri tavsiyeler/gecmis.csv'ye ekler (ilk gönderildiği andaki
 olasılık ve İddaa oranıyla; aynı maç ve tahmin bir kez).
-Sonuç: kulüp maçları football-data'dan (veritabanı), milli maçlar milli sonuç verisinden (src/milli.py). Veri
-güncellendikçe kayıtlar kapanır: kulüplerde 1-3 gün, milli maçlarda veri seti güncellenene kadar (günler sürebilir).
+Sonuç: kulüp maçları football-data'dan (veritabanı), milli maçlar milli sonuç verisinden (src/milli.py; son maçlar
+ESPN'den). Veri güncellendikçe kayıtlar kapanır: kulüplerde 1-3 gün, milli maçlarda birkaç saat.
 Rapor: bir günün tüm tahminleri sonuçlanınca (ya da BEKLEME_GUN gün geçince, eksiklerle) o günün sonuç mesajı
 Telegram'a bir kez gider; tavsiyeler/sonuclar.md tüm zamanların özetidir (paylaşılabilir).
 Kâr/zarar: her tahmine tek başına 1 birim, İddaa oranıyla (MBS / kombine hesaba katılmaz; oranı olmayan tahmin

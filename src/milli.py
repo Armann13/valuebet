@@ -3,7 +3,9 @@ walk-forward doğrulama ve ayar.
 
 Veri: config.MILLI_URL -> data/raw/milli/results.csv (python main.py download). Sadece FIFA üyeleri ve CONCACAF'ın
 FIFA dışı üyeleri (Guadeloupe, Martinik ...) arasındaki maçlar kullanılır; CONIFA / bölge takımları (Bask Ülkesi,
-Jersey ...) dışarıda.
+Jersey ...) dışarıda. Bu veri seti haftalarca gecikebildiği için son maçlar ESPN'den (config.ESPN_URL) alınıp
+data/raw/milli/espn.csv'de biriktirilir (python main.py milli --espn); aynı maç ana veri setine eklenince onunki
+kullanılır. ESPN'de saha bilgisi yok: büyük turnuvalarda tarafsız, diğerlerinde ev sahibi kendi sahasında sayılır.
 
 Model: kulüp modeliyle aynı Dixon-Coles, tek lig (config.MILLI). Tarafsız sahada ev avantajı yok; hazırlık maçları
 (ve davet turnuvaları) MILLI_FRIENDLY_WEIGHT ağırlıklı (kadro denemesi, düşük motivasyon). Milli takımlar yılda
@@ -13,7 +15,9 @@ Doğrulama: milli maçlar için keskin kapanış oranı yok; ölçüt gerçekle�
 geçmiş yüzdelerle yapılan sabit bir tahmine karşı. Ayar 2016-2021 maçlarıyla, test 2022 ve sonrası.
 """
 import os
+import time
 from concurrent.futures import ProcessPoolExecutor
+from datetime import date, timedelta
 from itertools import product
 
 import numpy as np
@@ -115,8 +119,131 @@ FRIENDLY_LIKE = {"Friendly", "FIFA Series", "Kirin Cup", "Kirin Challenge Cup", 
                  "Intercontinental Cup", "Hungary Heritage Cup", "Atlantic Heritage Cup", "Soccer Ashes"}
 
 
+# ESPN turnuva kodu -> veri setindeki turnuva adı (hazırlık maçı tespiti ve rapor için)
+ESPN_LEAGUES = {
+    "uefa.nations": "UEFA Nations League", "fifa.friendly": "Friendly",
+    "concacaf.nations.league": "CONCACAF Nations League", "fifa.worldq.uefa": "FIFA World Cup qualification",
+    "fifa.worldq.conmebol": "FIFA World Cup qualification", "fifa.worldq.concacaf": "FIFA World Cup qualification",
+    "fifa.worldq.afc": "FIFA World Cup qualification", "fifa.worldq.caf": "FIFA World Cup qualification",
+    "fifa.worldq.ofc": "FIFA World Cup qualification", "uefa.euroq": "UEFA Euro qualification",
+    "caf.nations_qual": "African Cup of Nations qualification", "afc.cupq": "AFC Asian Cup qualification",
+    "fifa.world": "FIFA World Cup", "uefa.euro": "UEFA Euro", "conmebol.america": "Copa América",
+    "concacaf.gold": "Gold Cup", "caf.nations": "African Cup of Nations", "afc.asian.cup": "AFC Asian Cup",
+    "aff.championship": "AFF Championship",
+}
+ESPN_FINALS = {"fifa.world", "uefa.euro", "conmebol.america", "concacaf.gold", "caf.nations", "afc.asian.cup",
+               "aff.championship"}   # büyük turnuva: maçlar tarafsız sahada sayılır (ESPN saha bilgisi vermiyor)
+# ESPN'deki ad -> veri setindeki ad (aynı olanlar gerekmez)
+ESPN_ADLAR = {"Czechia": "Czech Republic", "US Virgin Islands": "United States Virgin Islands",
+              "Brunei Darussalam": "Brunei", "Chinese Taipei": "Taiwan", "Türkiye": "Turkey", "Turkiye": "Turkey",
+              "Korea Republic": "South Korea", "Korea DPR": "North Korea", "IR Iran": "Iran", "China PR": "China",
+              "Congo DR": "DR Congo", "DR Congo": "DR Congo", "Côte d'Ivoire": "Ivory Coast", "Cote d'Ivoire": "Ivory Coast",
+              "Cape Verde Islands": "Cape Verde", "Cabo Verde": "Cape Verde", "Kyrgyz Republic": "Kyrgyzstan",
+              "Bosnia-Herzegovina": "Bosnia and Herzegovina", "St Kitts and Nevis": "Saint Kitts and Nevis",
+              "St. Kitts and Nevis": "Saint Kitts and Nevis", "St Lucia": "Saint Lucia", "St. Lucia": "Saint Lucia",
+              "St Vincent and the Grenadines": "Saint Vincent and the Grenadines",
+              "St. Vincent and the Grenadines": "Saint Vincent and the Grenadines", "USA": "United States",
+              "Ireland": "Republic of Ireland", "Swaziland": "Eswatini", "East Timor": "Timor-Leste",
+              "Gambia": "Gambia", "The Gambia": "Gambia", "Sao Tome and Principe": "São Tomé and Príncipe",
+              "Turks and Caicos": "Turks and Caicos Islands", "Macao": "Macau", "Palestinian Territory": "Palestine",
+              "St. Martin": "Saint Martin", "St Martin": "Saint Martin"}
+
+
 def results_path():
     return config.RAW_DIR / "milli" / "results.csv"
+
+
+def espn_path():
+    return config.RAW_DIR / "milli" / "espn.csv"
+
+
+def parse_espn(data: dict, league: str, resolve) -> tuple[list, set]:
+    """ESPN scoreboard yanıtından biten maçlar (veri seti biçiminde). resolve: ESPN adı -> veri setindeki ad (ya da
+    None). Uzatma / penaltıyla biten maçta skor 90 dakikanınkidir (devre skorlarından); yoksa maç atlanır.
+    Döner: satırlar, eşleşmeyen adlar."""
+    rows, unknown = [], set()
+    for e in data.get("events", []):
+        st = e.get("status", {}).get("type", {})
+        if not st.get("completed"):
+            continue
+        comp = e["competitions"][0]
+        side = {c.get("homeAway"): c for c in comp.get("competitors", [])}
+        if set(side) != {"home", "away"}:
+            continue
+        names = {k: resolve(c["team"]["displayName"]) for k, c in side.items()}
+        unknown |= {side[k]["team"]["displayName"] for k, v in names.items() if v is None}
+        if None in names.values():
+            continue
+        try:
+            if any(x in st.get("name", "") for x in ("AET", "PEN")):  # 90 dakika: ilk iki devre
+                score = {k: sum(float(p["value"]) for p in c["linescores"][:2]) for k, c in side.items()}
+            else:
+                score = {k: float(c["score"]) for k, c in side.items()}
+        except (KeyError, TypeError, ValueError):
+            continue
+        rows.append({"date": e["date"][:10], "home_team": names["home"], "away_team": names["away"],
+                     "home_score": int(score["home"]), "away_score": int(score["away"]),
+                     "tournament": ESPN_LEAGUES[league], "city": "", "country": "",
+                     "neutral": "TRUE" if league in ESPN_FINALS else "FALSE"})
+    return rows, unknown
+
+
+def download_espn(start: date | None = None) -> bool:
+    """Son milli maç sonuçlarını ESPN'den çekip data/raw/milli/espn.csv'ye ekler. start verilmezse: dosya yoksa ana
+    veri setinin son maçından 7 gün öncesi, varsa son 10 gün (aylık sorgu: ilgili aylar)."""
+    from src.teams import TeamResolver
+    today = date.today()
+    if start is None:
+        start = today - timedelta(days=10)
+        if not espn_path().exists() and results_path().exists():
+            last = pd.Timestamp(pd.read_csv(results_path(), usecols=["date"])["date"].max()).date()
+            start = min(start, last - timedelta(days=7))
+    months = sorted({(start + timedelta(days=i)).strftime("%Y%m") for i in range((today - start).days + 1)})
+    resolve = TeamResolver(sorted(TEAMS), aliases=ESPN_ADLAR, allow_fuzzy=False)
+    rows, unknown, failed = [], set(), 0
+    for league in ESPN_LEAGUES:
+        for m in months:
+            try:
+                r = requests.get(config.ESPN_URL.format(league=league), params={"dates": m}, timeout=30)
+                r.raise_for_status()
+                got, unk = parse_espn(r.json(), league, resolve)
+                rows += got
+                unknown |= unk
+            except Exception:  # tek turnuva / ay alınamazsa diğerleri devam etsin
+                failed += 1
+            time.sleep(0.3)  # siteye nazik davran
+    if failed == len(ESPN_LEAGUES) * len(months):
+        print("  ! ESPN'e ulaşılamadı; milli sonuçlar güncellenmedi")
+        return False
+    new = pd.DataFrame(rows)
+    path = espn_path()
+    if path.exists():
+        new = pd.concat([pd.read_csv(path), new], ignore_index=True)
+    if not new.empty:
+        new = new.drop_duplicates(subset=["date", "home_team", "away_team"], keep="last").sort_values("date")
+        path.parent.mkdir(parents=True, exist_ok=True)
+        new.to_csv(path, index=False)
+    print(f"  + milli/espn.csv: {len(rows)} biten maç ({', '.join(months)}), toplam {len(new)}"
+          + (f"; eşleşmeyen ad: {', '.join(sorted(unknown))}" if unknown else "")
+          + (f"; {failed} sorgu başarısız" if failed else ""))
+    return True
+
+
+def _merge_espn(r: pd.DataFrame) -> pd.DataFrame:
+    """Ana veri setine ESPN'deki ek maçlar (ana veri setinde ±1 gün içinde aynı eşleşme yoksa)."""
+    if not espn_path().exists():
+        return r
+    e = pd.read_csv(espn_path())
+    if e.empty:
+        return r
+    seen = set()
+    recent = r[pd.to_datetime(r["date"]) >= pd.Timestamp(e["date"].min()) - pd.Timedelta(days=2)]
+    for d, h, a in zip(pd.to_datetime(recent["date"]), recent["home_team"], recent["away_team"]):
+        for k in (-1, 0, 1):
+            day = (d + pd.Timedelta(days=k)).strftime("%Y-%m-%d")
+            seen |= {(day, h, a), (day, a, h)}
+    e = e[[(d, h, a) not in seen for d, h, a in zip(e["date"], e["home_team"], e["away_team"])]]
+    return pd.concat([r, e], ignore_index=True) if len(e) else r
 
 
 def download() -> bool:
@@ -144,7 +271,7 @@ def load_results(path=None, since: str = "2008-01-01") -> pd.DataFrame:
     path = path or results_path()
     if not path.exists():
         return pd.DataFrame()
-    r = pd.read_csv(path)
+    r = _merge_espn(pd.read_csv(path))
     r = r.dropna(subset=["home_score", "away_score"])
     r = r[r["home_team"].isin(TEAMS) & r["away_team"].isin(TEAMS) & (r["date"] >= since)]
     df = pd.DataFrame({"date": pd.to_datetime(r["date"]), "div": config.MILLI, "home": r["home_team"],
