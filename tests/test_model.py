@@ -285,6 +285,13 @@ def test_parse_iddaa():
     assert np.isnan(r["odd_1x"]) and r["odd_12"] == 1.12 and r["odd_kg_var"] == 1.7
     assert (r["odd_ms1_ust"], r["odd_ms2_ust"], r["odd_ms1_kg"], r["odd_msx_kg"]) == (2.05, 9.5, 2.9, 7.0)
     assert np.isnan(r["odd_ms2_kg"])
+    from src.iddaa import parse_scores, score_odds
+    detail = {"m": [{"t": 2, "st": 717, "o": [{"n": "1:0", "odd": 3.4}]},  # ilk yarı skoru: alınmaz
+                    {"t": 2, "st": 86, "o": [{"n": "1:0", "odd": 10.15}, {"n": "2:0", "odd": 6.97},
+                                             {"n": "3:3", "odd": 1.0}, {"n": "diğer", "odd": 5.0}]}]}
+    assert parse_scores(detail) == "1:0=10.15;2:0=6.97" and parse_scores({"m": []}) == "yok"
+    assert score_odds("1:0=10.15;2:0=6.97") == {"1-0": 10.15, "2-0": 6.97}
+    assert score_odds("yok") == {} and score_odds(float("nan")) is None
     assert r["kickoff_utc"] == "2026-10-01 16:00"
     from src.iddaa import resolve_competitions
     comps = [{"i": 129, "si": "1", "n": "İspanya La Liga"}, {"i": 1951, "si": "1", "n": "İspanya La Liga 2"},
@@ -513,12 +520,13 @@ def test_end_to_end():
     pd.DataFrame([{"snapshot_utc": "2000-01-01 00:00", "event_id": 8, "div": up["Div"],
                    "kickoff_utc": f"{kick_up:%Y-%m-%d} 20:00", "mbs": 1, "odd_1": 2.5, "odd_x": 3.2, "odd_2": 2.9,
                    "ou_line": 1.5, "odd_alt": 2.4, "odd_ust": 1.5, "home": up["HomeTeam"], "away": up["AwayTeam"],
-                   "season": season_up},
+                   "season": season_up, "odd_skor": "yok"},  # İddaa'da skor bahsi açık değil
                   # milli maç: Türkçe adlar ülke adlarına eşlenir; keskin oran yok -> İddaa oranına ayarlı
                   {"snapshot_utc": "2000-01-01 00:00", "event_id": 9, "div": config.MILLI,
                    "kickoff_utc": f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d} 18:45", "mbs": 1, "odd_1": 1.35, "odd_x": 4.6, "odd_2": 8.0,
                    "ou_line": 2.5, "odd_alt": 2.0, "odd_ust": 1.7, "home_iddaa": "İspanya", "away_iddaa": "Çekya",
-                   "competition": "UEFA Uluslar Ligi", "season": season_up}]
+                   "competition": "UEFA Uluslar Ligi", "season": season_up,
+                   "odd_skor": ";".join(f"{h}:{a}=9" for h in range(6) for a in range(6))}]
                  ).to_csv(iddaa_dir / f"odds_{season_up}.csv", index=False)
     r = run("main.py", "predict", "--fixtures", fixtures, "--iddaa", "auto")
     assert r.returncode == 0, r.stderr
@@ -532,6 +540,10 @@ def test_end_to_end():
     picks = pd.read_csv(tmp / "tavsiyeler" / "son.csv")
     nat = picks[picks["maç"] == "Spain – Czech Republic"]
     assert len(nat) and (nat["kaynak"] == "oran").all() and not nat["gerçek_değer"].any()  # milli maçta 💎 yok
+    t5 = picks[picks["seviye"].str.startswith("🔥")]
+    nat5 = t5.loc[t5["maç"] == "Spain – Czech Republic", "odd"]
+    assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan
+    assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma

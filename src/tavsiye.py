@@ -27,7 +27,7 @@ import pandas as pd
 import config
 from src import db, milli
 from src.features import add_motivation
-from src.iddaa import ODD_COLS
+from src.iddaa import ODD_COLS, SCORE_COL, score_odds
 from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
@@ -38,7 +38,8 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
            "ÇŞ X-2": "odd_x2", "2.5 Alt": "odd_alt", "2.5 Üst": "odd_ust", "KG Var": "odd_kg_var",
            "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
-PRICE_COLS = ODD_COLS + ["mbs"]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
+PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
+CAND_COLS = ["maç", "lig", "tarih", "gün", "mbs", "kaynak", "hg", "ag", "tahmin", "p", "odd"]
 
 
 def market_probs(m: np.ndarray) -> dict:
@@ -236,8 +237,11 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                 continue
             cands.append({**info, "tahmin": bet, "p": p, "odd": odd})
         i, j = np.unravel_index(np.argmax(m), m.shape)
-        scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": np.nan})
-    c = pd.DataFrame(cands)
+        sc = score_odds(r.get(SCORE_COL))  # None = bilinmiyor, {} = İddaa'da skor bahsi açık değil
+        s_odd = sc.get(f"{i}-{j}", np.nan) if sc is not None else np.nan
+        if not (listed and sc is not None and not np.isfinite(s_odd)):
+            scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": s_odd})
+    c = pd.DataFrame(cands, columns=CAND_COLS)
     c["değer"] = c["odd"] * c["p"] - 1
     # 💎 sadece olasılık piyasaya ayarlıysa: sadece modelin gördüğü "değer" backtest'te kapanışı yenmedi
     c["gerçek_değer"] = (c["değer"] > 0) & (c["kaynak"] == "piyasa")
@@ -267,7 +271,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         t = t.sort_values(["sıra", "p"], ascending=False).head(MAX_PER_TIER[k])
         picked.append((tname, t))
         md += [f"## {tname}", ""] + ([line(x) for x in t.to_dict("records")] or ["Bu seviyede tahmin yok."]) + [""]
-    s = pd.DataFrame(scores).sort_values("p", ascending=False)
+    s = pd.DataFrame(scores, columns=CAND_COLS).sort_values("p", ascending=False)
+    s["değer"], s["gerçek_değer"] = s["odd"] * s["p"] - 1, False  # kesin skor olasılığı piyasaya ayarlı değil
     picked += [("⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", s.head(MAX_SHORT_SCORES)),
                ("🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)", s)]
     for tname, t in picked[3:]:

@@ -6,6 +6,9 @@ iddaa.com'un sitesinin kullandığı JSON uç noktasından (resmi API değil) ma
   çifte şans (t=2, st=92; "1 ve 0" / "1 ve 2" / "0 ve 2"), karşılıklı gol (t=2, st=89; "Var" / "Yok") ve
   kombinasyonlar: MS ve 2.5 alt/üst (t=2, st=7, sov 2.5; "1 ve Üst" ...), MS ve KG (t=2, st=698; "1 ve Var" ...).
   Kapalı sonuç 1.00 oranla gelir (boş sayılır); açılmamış market hiç gelmez.
+Kesin skor (maç skoru, t=2, st=86; sonuçlar "1:0" ...) toplu listede yok, maç detayında (/sportsbook/event/{no})
+var: her maç için ayrıca çekilir ve odd_skor sütununa "1:0=10.15;2:0=6.97;..." biçiminde yazılır ("yok" = skor
+bahsi açık değil, boş = detay alınamadı / bilinmiyor).
 Her sonuç için iki oran vardır: odd (ekranda gösterilen, normal kupon) ve wodd (sitenin kodunda "king odds";
 ~%4 düşük). Hesaplarda odd kullanılır; ikisi de kaydedilir. mbs: maçın minimum kombinasyon sayısı.
 
@@ -13,6 +16,7 @@ Kayıtlar data/raw/iddaa/odds_{sezon}.csv'ye eklenir; bir maçın oranları son 
 yeni satır yazılmaz. Böylece her maçın oran geçmişi (ilk görülen, son görülen) tutulur.
 """
 import re
+import time
 from datetime import datetime, timezone
 
 import numpy as np
@@ -27,6 +31,8 @@ ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
             "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok",
             "odd_ms1_ust", "odd_ms2_ust", "odd_ms1_kg", "odd_msx_kg", "odd_ms2_kg"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
+SCORE_COL = "odd_skor"   # kesin skor oranları (metin; bkz. modül açıklaması)
+NO_SCORES = "yok"
 EVENT_KEY = "event_id"
 
 
@@ -123,6 +129,47 @@ def parse_events(events: list, competitions: dict, names: dict | None = None) ->
     return df
 
 
+def parse_scores(detail: dict) -> str:
+    """Maç detayından kesin skor oranları: "1:0=10.15;2:0=6.97;..." (kapalı skorlar atlanır); market yoksa "yok"."""
+    for m in detail.get("m", []):
+        if m.get("t") == 2 and m.get("st") == 86:
+            parts = []
+            for o in m.get("o", []):
+                name, odd = str(o.get("n", "")).replace(" ", ""), _odd(o.get("odd"))
+                if re.fullmatch(r"\d+:\d+", name) and np.isfinite(odd):
+                    parts.append(f"{name}={odd:g}")
+            return ";".join(parts) or NO_SCORES
+    return NO_SCORES
+
+
+def score_odds(s) -> dict | None:
+    """odd_skor metni -> {"1-0": 10.15, ...}; {} = skor bahsi yok, None = bilinmiyor."""
+    if not isinstance(s, str) or not s:
+        return None
+    if s == NO_SCORES:
+        return {}
+    out = {}
+    for part in s.split(";"):
+        k, _, v = part.partition("=")
+        out[k.replace(":", "-")] = float(v)
+    return out
+
+
+def _fetch_scores(event_ids) -> list:
+    """Her maçın detayından kesin skor oranları (nazik: istekler arası kısa bekleme). Alınamayan: NaN."""
+    out, failed = [], 0
+    for i in event_ids:
+        try:
+            out.append(parse_scores(_get(f"event/{int(i)}")))
+        except Exception:  # detay alınamazsa skor bilgisi "bilinmiyor" kalır, toplama durmaz
+            out.append(np.nan)
+            failed += 1
+        time.sleep(0.2)
+    open_ = sum(isinstance(s, str) and s != NO_SCORES for s in out)
+    print(f"  iddaa: kesin skor bahsi {open_}/{len(out)} maçta açık" + (f", {failed} maçta detay alınamadı" if failed else ""))
+    return out
+
+
 def _map_teams(df: pd.DataFrame, report: bool = False) -> tuple[pd.DataFrame, set]:
     from src import db, milli
     from src.teams import TeamResolver
@@ -186,6 +233,8 @@ def collect() -> int:
     if fuzzy:  # yanlış eşleşme riski: gözden geçir, yanlışsa team_aliases.csv ile düzelt
         print("  ? iddaa bulanık eşleşmeler: " + ", ".join(f"{k} -> {v}" for k, v in sorted(fuzzy.items())))
     _report_names(df, unknown, fuzzy, now)
+    mapped = df.loc[df["home"].notna() & df["away"].notna(), "event_id"]  # sadece kullanılacak maçların detayı
+    df[SCORE_COL] = df["event_id"].map(dict(zip(mapped, _fetch_scores(mapped))))
     df.insert(0, "snapshot_utc", now)
     df["season"] = _season(df["kickoff_utc"])
     folder = config.RAW_DIR / "iddaa"
@@ -197,12 +246,18 @@ def collect() -> int:
         last = old.sort_values("snapshot_utc").groupby(EVENT_KEY).tail(1).set_index(EVENT_KEY) if len(old) else None
         keep = []
         for r in g.itertuples(index=False):
+            row = r._asdict()
             if last is not None and r.event_id in last.index:
-                prev = last.loc[r.event_id].reindex(ODD_COLS).astype(float).to_numpy()  # eski dosyada sütun eksik olabilir
-                cur = np.array([getattr(r, c) for c in ODD_COLS], dtype=float)
-                if np.allclose(prev, cur, equal_nan=True):
+                before = last.loc[r.event_id]
+                prev = before.reindex(ODD_COLS).astype(float).to_numpy()  # eski dosyada sütun eksik olabilir
+                cur = np.array([row[c] for c in ODD_COLS], dtype=float)
+                prev_s = before.get(SCORE_COL)
+                if not isinstance(row[SCORE_COL], str) and isinstance(prev_s, str):
+                    row[SCORE_COL] = prev_s  # detay bu sefer alınamadı: son bilineni koru
+                same_scores = row[SCORE_COL] == prev_s or not isinstance(row[SCORE_COL], str)
+                if np.allclose(prev, cur, equal_nan=True) and same_scores:
                     continue
-            keep.append(r._asdict())
+            keep.append(row)
         if keep:
             pd.concat([old, pd.DataFrame(keep)], ignore_index=True).to_csv(path, index=False)
             added += len(keep)
