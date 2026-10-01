@@ -66,10 +66,14 @@ def _fmt(r) -> str:
     return s
 
 
-def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False) -> tuple[list, dict]:
+def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False,
+                   log: list | None = None) -> tuple[list, dict]:
     """Gönderilecek mesajlar ve güncellenmiş durum (saf fonksiyon: test edilebilir).
-    force: özet bu saat dilimi için zaten gönderildiyse de şimdi gönder (elle istenen güncel özet)."""
-    msgs, state = [], {"son_ozet": state.get("son_ozet"), "gonderilen": list(state.get("gonderilen", []))}
+    force: özet bu saat dilimi için zaten gönderildiyse de şimdi gönder (elle istenen güncel özet).
+    log: verilirse mesajlara giren tahmin satırları buna eklenir (sonuç takibi, bkz. sonuclar.py)."""
+    log = [] if log is None else log
+    msgs = []
+    state = {**state, "son_ozet": state.get("son_ozet"), "gonderilen": list(state.get("gonderilen", []))}
     if picks.empty:
         return msgs, state
     soon = picks[picks["gün"] <= (now_tr + timedelta(days=1)).strftime("%Y-%m-%d")]
@@ -82,15 +86,18 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
         lines = [f"⚽ <b>{title} — {now_tr:%d.%m %H:%M}</b>" if force else f"⚽ <b>{title} — {now_tr:%d.%m}</b>", ""]
         v = soon[soon["seviye"].str.startswith("💎")]
         lines += ["💎 <b>Değerli (oran adil fiyatın üstünde)</b>"] + ([_fmt(r) for r in v.to_dict("records")] or ["yok"])
+        log += v.to_dict("records")
         shown = {}  # seviye simgesi -> mesajda geçen maçlar
         for icon, n in TIER_LIMIT.items():
             t = soon[soon["seviye"].str.startswith(icon)].head(n)
             shown[icon] = set(t["maç"])
+            log += t.to_dict("records")
             if not t.empty:
                 lines += ["", f"<b>{html.escape(t['seviye'].iloc[0])}</b>"] + [_fmt(r) for r in t.to_dict("records")]
         # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
         above = shown["🟢"] | shown["🟡"] | shown["🔴"]
         t5 = soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])]
+        log += t5.to_dict("records")
         if not t5.empty:
             lines += ["", "<b>🔥 Tier 5 — Aşırı risk (yukarıdaki maçların kesin skoru)</b>"] + \
                 [_fmt(r) for r in t5.to_dict("records")]
@@ -105,6 +112,7 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
         msgs.append("\n".join(["💎 <b>Yeni değerli bahis</b>", ""] + [_fmt(r) for r in new] +
                               ["", f'<a href="{RAPOR_LINKI}">Tam rapor</a>']))
         sent |= {_key(r) for r in new}
+        log += new
     state["gonderilen"] = sorted(sent)[-500:]  # dosya şişmesin
     return msgs, state
 
@@ -121,12 +129,15 @@ def notify(force: bool = False) -> int:
     except pd.errors.EmptyDataError:
         picks = pd.DataFrame()
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
-    msgs, new_state = build_messages(picks, state, _tr_now(), force)
+    rows, now = [], _tr_now()
+    msgs, new_state = build_messages(picks, state, now, force, log=rows)
     if not msgs:
         print("  telegram: gönderilecek yeni bir şey yok")
         return 0
     if all(send(m) for m in msgs):  # gönderilemezse durum güncellenmez, bir sonraki çalıştırmada tekrar dener
         state_path.write_text(json.dumps(new_state, ensure_ascii=False, indent=1), encoding="utf-8")
+        from src import sonuclar
+        sonuclar.record(rows, now)  # gönderilen tahminler: maçlar bitince tutup tutmadığı raporlanır
         print(f"  telegram: {len(msgs)} mesaj gönderildi")
         return len(msgs)
     return 0

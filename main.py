@@ -12,6 +12,7 @@
     python main.py tavsiye           # risk seviyesine göre tavsiyeler (reports/tavsiye_{tarih}.md)
     python main.py telegram          # tavsiyeleri Telegram'a gönder (--kurulum: ilk kurulum)
     python main.py milli             # milli takım modeli doğrulaması (--siralama: güç sıralaması, --ayar: ayar)
+    python main.py sonuc             # gönderilen tavsiyelerin sonuçları (tavsiyeler/sonuclar.md + Telegram)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -180,6 +181,11 @@ def cmd_telegram(args):
         telegram.notify(force=args.ozet)
 
 
+def cmd_sonuc(args):
+    from src import sonuclar
+    sonuclar.run(send=not args.gonderme)
+
+
 def cmd_milli(args):
     from src import milli
     if args.siralama:
@@ -276,7 +282,7 @@ def main():
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
-                     ("milli", cmd_milli),
+                     ("milli", cmd_milli), ("sonuc", cmd_sonuc),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -303,6 +309,8 @@ def main():
                             help="seçim ölçütü: 1X2, Ü/A ya da ikisinin toplamı log loss")
         if name == "diagnose":
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
+        if name == "sonuc":
+            sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
         if name == "milli":  # milli takım modeli; ayarları config.MILLI_* (--xi / --ridge burada kullanılmaz)
             sp.add_argument("--siralama", action="store_true", help="güncel milli takım güç sıralaması")
             sp.add_argument("--ayar", action="store_true", help="ızgara ile ayar (reports/milli_tune.md)")

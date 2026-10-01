@@ -406,6 +406,46 @@ def test_telegram_messages():
     assert "Günün tavsiyeleri" in msgs[0]
 
 
+def test_sonuclar():
+    """Gönderilen tahminlerin kaydı, sonuçla kapanması, seviye özeti ve gün mesajı."""
+    import tempfile
+    from datetime import datetime
+    from src import sonuclar
+    base = {"tarih": "01.10", "kaynak": "oran", "merdiven": False, "hg": np.nan, "ag": np.nan, "değer": -0.05}
+    rows = [{**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
+             "lig": "SP1", "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.8, "odd": 1.25},
+            {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
+             "lig": "SP1", "seviye": "🟡 Tier 2 — Orta risk", "tahmin": "MS 1", "p": 0.55, "odd": 1.7, "merdiven": True},
+            {**base, "gün": "2026-10-02", "div": "MILLI", "home": "Spain", "away": "Czech Republic",
+             "maç": "İspanya – Çekya", "lig": "UEFA Uluslar Ligi", "seviye": "🔥 Tier 5", "tahmin": "2-0", "p": 0.14,
+             "odd": float("nan")},
+            {**base, "gün": "2026-10-02", "div": "MILLI", "home": "Wales", "away": "Norway", "maç": "Galler – Norveç",
+             "lig": "UEFA Uluslar Ligi", "seviye": "🔴 Tier 3 — Yüksek risk", "tahmin": "MS 2 & KG Var", "p": 0.3,
+             "odd": 3.2}]
+    old_dir = config.TAVSIYE_DIR
+    with tempfile.TemporaryDirectory() as d:
+        config.TAVSIYE_DIR = Path(d)
+        try:
+            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 4
+            assert sonuclar.record(rows[:1], datetime(2026, 10, 1, 18, 20)) == 0  # akşam özetinde tekrar: sayılmaz
+            log = sonuclar.load_log()
+        finally:
+            config.TAVSIYE_DIR = old_dir
+    res = pd.DataFrame({"div": ["SP1", "MILLI", "MILLI"], "date": pd.to_datetime(["2026-10-01", "2026-10-03", "2026-09-20"]),
+                        "home": ["Betis", "Spain", "Norway"], "away": ["Getafe", "Czech Republic", "Wales"],
+                        "fthg": [1, 2, 1], "ftag": [1, 0, 1]})  # İspanya maçı ertesi gün yazılmış (saat dilimi)
+    log = sonuclar.settle(log, res)
+    assert (log["hg"].iloc[:3].tolist(), log["ag"].iloc[:3].tolist()) == ([1, 1, 2], [1, 1, 0])
+    assert np.isnan(log["hg"].iloc[3])  # Galler maçının sonucu henüz yok (eski karşılaşma tarih tutmuyor)
+    s = {x["icon"]: x for x in sonuclar.stats(log)}
+    assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"]) == (1, 0, 1)
+    assert abs(s["🟢"]["kâr_zarar"] - 0.25) < 1e-9 and s["🟡"]["kâr_zarar"] == -1 and s["🔴"]["sonuçlanan"] == 0
+    msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
+    assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
+    md = sonuclar.summary_md(log)
+    assert "## Tüm zamanlar" in md and "⏳" in md
+
+
 def test_xg_fit():
     """xG hedefiyle (tam sayı olmayan Poisson hedefi) eğitim yakınsar ve anlamlı güçler verir."""
     df, att, dfn = _simulate(seasons=1, seed=4)
@@ -577,6 +617,8 @@ def test_end_to_end():
     assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
+    r = run("main.py", "sonuc", "--gonderme")  # henüz Telegram'da gönderilen tahmin yok
+    assert r.returncode == 0 and "henüz kayıtlı tahmin yok" in r.stdout, r.stdout + r.stderr
     r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma
     assert r.returncode == 0, r.stderr
     assert "Sonuç özeti" in r.stdout and ("✅" in r.stdout or "❌" in r.stdout), r.stdout[-1500:]

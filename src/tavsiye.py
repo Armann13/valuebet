@@ -39,7 +39,7 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
            "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
-CAND_COLS = ["maç", "lig", "tarih", "gün", "mbs", "kaynak", "hg", "ag", "tahmin", "p", "odd"]
+CAND_COLS = ["maç", "lig", "tarih", "gün", "mbs", "kaynak", "hg", "ag", "div", "home", "away", "tahmin", "p", "odd"]
 
 
 def bet_masks(n: int) -> dict:
@@ -258,7 +258,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         listed = not as_of and "İddaa" in str(r.get("kaynak", ""))
         info = {"maç": _match_label(r), "lig": _league_label(r), "tarih": pd.Timestamp(r["date"]).strftime("%d.%m"),
                 "gün": pd.Timestamp(r["date"]).strftime("%Y-%m-%d"),
-                "mbs": r.get("mbs"), "kaynak": src, "hg": r.get("fthg", np.nan), "ag": r.get("ftag", np.nan)}
+                "mbs": r.get("mbs"), "kaynak": src, "hg": r.get("fthg", np.nan), "ag": r.get("ftag", np.nan),
+                "div": r["div"], "home": r["home"], "away": r["away"]}  # sonuç eşleştirmesi için (bkz. sonuclar.py)
         for bet, p in market_probs(m).items():
             col = ODD_COL.get(bet)
             odd = r.get(col, np.nan) if col else np.nan
