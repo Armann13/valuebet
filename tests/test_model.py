@@ -494,6 +494,22 @@ def test_analiz():
     assert abs(p["2.5 Üst"] + p["2.5 Alt"] - 1) < 1e-9 and p["MS 1 & 2.5 Üst"] < p["MS 1"] < p["ÇŞ 1-X"]
     c = corner_probs(odds, None)  # milli: İddaa'nın marjsız oranı
     assert abs(c["Korner 7.5 Üst"] + c["Korner 7.5 Alt"] - 1) < 1e-9 and c["Korner 7.5 Üst"] > 0.6
+    # kart / şut / faul / golcü
+    from src import istatistik
+    from src.analiz import stat_probs
+    det = {"m": [{"t": 2, "st": 658, "sov": "4.5", "o": [{"n": "Alt", "odd": 1.97}, {"n": "Üst", "odd": 1.52}]},
+                 {"t": 2, "st": 913, "o": [{"n": "İspanya 8+", "odd": 1.71}, {"n": "Çekya 3+", "odd": 1.76},
+                                           {"n": "Toplam 10+", "odd": 1.48}, {"n": "İY İspanya 4+", "odd": 2.0}]},
+                 {"t": 2, "st": 12, "o": [{"n": "Roberto Fernandez", "odd": 1.54}]}]}
+    so = detail_markets(det, "İspanya", "Çekya")
+    assert so["Kart 4.5 Üst"] == 1.52 and so["İsabetli şut Ev 8+"] == 1.71 and so["İsabetli şut Dep 3+"] == 1.76
+    assert so["İsabetli şut Toplam 10+"] == 1.48 and so["Golcü: Roberto Fernandez"] == 1.54 and len(so) == 6
+    sp, approx = stat_probs(so, {})  # milli: kart marjsız, X+ barajları ham
+    assert abs(sp["Kart 4.5 Üst"] + sp["Kart 4.5 Alt"] - 1) < 1e-9 and "İsabetli şut Ev 8+" in approx
+    pr = istatistik.probs(5.0, 3.5, "isabetli")  # kulüp: model
+    sp, approx = stat_probs(so, {"isabetli": pr, "kart": istatistik.probs(2.2, 2.4, "kart")})
+    assert abs(sp["İsabetli şut Toplam 10+"] - pr["toplam"][10]) < 1e-12 and "İsabetli şut Ev 8+" not in approx
+    assert pr["toplam"][0] == 1.0 or abs(pr["toplam"][0] - 1) < 1e-9 and pr["1"] > pr["2"]
 
 
 def test_korner():
