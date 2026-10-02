@@ -425,9 +425,9 @@ def test_telegram_messages():
     allt = "\n".join(msgs)
     assert "TIER 5" in allt and "➜ 0-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
     assert allt.count("➜ 1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez; yüzde yok
-    msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (2 mesaj)
-    assert len(msgs) == 2 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
-    assert "TIER 4" in msgs[1] and "➜ 1-0 ·" in msgs[1] and "Tam rapor" in msgs[1]  # skorlar ikinci mesajda
+    msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
+    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
+    assert "TIER 4" in msgs[0] and "➜ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
@@ -441,11 +441,11 @@ def test_telegram_messages():
     msgs, st = build_messages(new, st, datetime(2026, 10, 3, 16, 0))  # yeni 💎: anlık uyarı
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0] and "C – D" in msgs[0] and "A – B" not in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 18, 30))  # akşam özeti (💎 tekrar uyarı olarak gelmez)
-    assert len(msgs) == 2 and "Akşam güncellemesi" in msgs[0]
+    assert len(msgs) == 1 and "Akşam güncellemesi" in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 21, 0))  # aynı akşam tekrar: hiçbir şey
     assert msgs == []
     msgs, st2 = build_messages(picks, st, datetime(2026, 10, 3, 21, 5), force=True)  # elle istenen güncel özet
-    assert len(msgs) == 2 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
+    assert len(msgs) == 1 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
@@ -465,14 +465,11 @@ def test_kupon():
         assert abs(sum(v for k, v in iy.items() if k.endswith("/" + s)) - ms[f"MS {s}"]) < 1e-9
     assert iy["İY/MS 1/1"] > iy["İY/MS 2/1"] > 0
     assert kupon.iyms_won("İY/MS 2/1", 0, 1, 2, 1) and not kupon.iyms_won("İY/MS 1/1", 0, 0, 1, 0)
-    c = [{"maç": f"M{i}", "p": p, "odd": o, "mbs": 1} for i, (p, o) in
-         enumerate([(0.8, 1.2), (0.75, 1.25), (0.7, 1.35), (0.65, 1.45), (0.6, 1.55), (0.55, 1.7)])]
-    combo = kupon.best_combo(c)
-    odds = np.prod([x["odd"] for x in combo])
-    assert 3.0 <= odds <= 6.0 and len({x["maç"] for x in combo}) == len(combo) in (3, 4)
-    assert kupon.best_combo([{**x, "mbs": 4 if i == 0 else 1} for i, x in enumerate(c)], sizes=(3,)) and \
-        all(x["maç"] != "M0" for x in kupon.best_combo([{**x, "mbs": 4 if i == 0 else 1} for i, x in enumerate(c)],
-                                                     sizes=(3,)))  # MBS 4'lü maç 3'lü kupona giremez
+    # merdiven: İY/MS a/b, maç sonu b'yi içeren tahminlerin devamı; kesin skor maç sonuyla uyumlu
+    from src.tavsiye import NARROWER, _ft_mask
+    assert "İY/MS 1/1" in NARROWER["MS 1"] and "İY/MS X/1" in NARROWER["ÇŞ 1-X"] and "İY/MS 2/2" not in NARROWER["MS 1"]
+    assert "İY/MS 1/1" not in NARROWER["MS 1 & KG Var"] and NARROWER["İY/MS 1/1"] == []
+    assert (_ft_mask("İY/MS 2/1", 11) == _ft_mask("MS 1", 11)).all()
     ps, os_ = [0.7, 0.6, 0.8, 0.65, 0.75], [1.4, 1.6, 1.25, 1.5, 1.3]
     tab = {r["k"]: r for r in kupon.system_table(ps, os_)}
     assert abs(tab[5]["en_az_k"] - np.prod(ps)) < 1e-12 and abs(tab[5]["beklenen_donus"] - np.prod(np.multiply(ps, os_))) < 1e-12

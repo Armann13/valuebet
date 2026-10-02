@@ -119,23 +119,18 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
    gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
    ```
 
-### Maç analizi (belli saatteki maçlar, tüm marketler)
+### Telegram Tier listesi ve maç analizi
 
-`python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions → "Maç analizi" → Run
-workflow (saat gir): o saatte başlayan maçlar için MS, çifte şans, gol alt/üst (tüm barajlar), KG, MS + toplam gol,
-MS + KG, korner (tüm barajlar, en çok korner), kart, şut, isabetli şut, faul ve golcüler; her biri olasılık ve İddaa
-oranıyla, maç başına güvenli / orta / riskli öneri. Kulüp maçlarında korner / kart / şut / faul modelden
-(`src/korner.py`, `src/istatistik.py`), milli maçlarda veri olmadığından İddaa'nın oranından; golcüler her zaman
-İddaa'nın oranından (oyuncu verisi yok).
-
-### Kupon ve Tier 8 (İY/MS)
-
-- **🎫 Kombine kupon (orta risk):** bugün / yarının Tier 1-2 ve korner tahminlerinden 3-4 maç, toplam oran 3-6,
-  tutma olasılığı en yüksek olan (MBS kuralına uygun).
-- **🎰 Sistem kupon:** en olası 8 maç (oran 1.30+); "8'de k" için kolon sayısı, en az k tutma ve kâra geçme
-  olasılığı. Düşük oranlarla sistem kuponun kâra geçme olasılığı, "en az k tutma" olasılığından çok düşüktür.
-- **🔀 Tier 8 (İY/MS):** maç başına en olası ilk yarı / maç sonu (her golün ilk yarıda atılma olasılığı %44.6).
-- Sonuç takibi kupon ve sistemi bütün olarak da değerlendirir.
+- Tek mesaj: 💎, Tier 1-3, Tier 4-5 (kesin skor), korner (kulüp maçları), sistem kupon. Her satırda saat, maç,
+  tahmin ve İddaa oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez.
+- **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
+  MS 1 & KG Var / MS 1 & 2.5 Üst → İY/MS 1/1); kesin skor da merdivenin son basamağıyla uyumludur (ör. MS 1 & KG Var →
+  2-1). İY/MS (ilk yarı / maç sonu; her golün ilk yarıda atılma olasılığı %44.6) olasılığına göre Tier 1-3'e girer.
+- **🎰 Sistem kupon:** bugün / yarının en olası 8 tahmini (oran 1.30+), kâra geçme şansı en yüksek "8'de k".
+- **Maç analizi:** `python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions →
+  "Maç analizi" → Run workflow (saat gir): o saatte başlayan maçların aynı biçimde Tier listesi, güncel oranlarla.
+- Kart, şut, isabetli şut, faul (kulüplerde `src/istatistik.py` modeli) ve golcü oranları `src/analiz.py`'de
+  ayrıştırılır; şimdilik listelere girmez.
 
 ### Korner
 

@@ -1,12 +1,11 @@
-"""İY/MS (ilk yarı / maç sonu) olasılıkları ve kombine / sistem kupon hesabı.
+"""İY/MS (ilk yarı / maç sonu) olasılıkları ve sistem kupon hesabı.
 
 İY/MS: maç sonu skor tablosu (piyasaya ayarlı) verildiğinde her golün ilk yarıda atılma olasılığı ILK_YARI (veride
 %44.6; ev ve deplasman aynı); ilk yarı golleri binom dağılımıyla bölünür. Bu varsayım geçmiş maçlarda tutuyor (ör. 2-1
 biten maçlarda ilk yarı X / 1 / 2 gerçek %38 / %46 / %16, hesap %39 / %47 / %14).
 
-Kupon: maçlar bağımsız sayılır. Kombine kuponun tutma olasılığı = olasılıkların çarpımı, oranı = oranların çarpımı.
-Sistem kupon "n'de k": n maçın her k'lı kombinasyonu ayrı kolon (1'er birim); en az k maç tutarsa tutan kolonların
-oranları toplamı kadar ödeme. Olasılıklar n maçın tüm sonuç kombinasyonları (2^n) üzerinden tam hesaplanır.
+Sistem kupon "n'de k": maçlar bağımsız sayılır; n maçın her k'lı kombinasyonu ayrı kolon (1'er birim); en az k maç
+tutarsa tutan kolonların oranları toplamı kadar ödeme. Olasılıklar n maçın tüm sonuç kombinasyonları (2^n) üzerinden.
 """
 from itertools import combinations, product
 from math import comb
@@ -49,23 +48,6 @@ def iyms_won(bet: str, ihg: int, iag: int, hg: int, ag: int) -> bool:
 
 def is_iyms(bet: str) -> bool:
     return str(bet).startswith("İY/MS ")
-
-
-def best_combo(cands: list[dict], sizes=(3, 4), min_odds: float = 3.0, max_odds: float = 6.0) -> list[dict]:
-    """Orta riskli kombine: farklı maçlardan sizes kadar tahmin; toplam oran [min_odds, max_odds] içinde, tutma
-    olasılığı en yüksek olan. MBS (minimum maç sayısı) kurala uyar. cands: {"maç", "p", "odd", "mbs", ...}."""
-    best, best_p = [], -1.0
-    for n in sizes:
-        for combo in combinations(cands, n):
-            if len({c["maç"] for c in combo}) < n:
-                continue
-            if max(int(c.get("mbs") or 1) for c in combo) > n:
-                continue
-            odds = float(np.prod([c["odd"] for c in combo]))
-            p = float(np.prod([c["p"] for c in combo]))
-            if min_odds <= odds <= max_odds and p > best_p:
-                best, best_p = list(combo), p
-    return best
 
 
 def system_table(ps: list[float], odds: list[float], ks=None) -> list[dict]:
