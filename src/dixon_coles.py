@@ -51,6 +51,7 @@ class DixonColes:
     ridge_total: float | None = config.RIDGE_TOTAL  # None = ridge ile aynı
     motivation_fixed: float | None = config.MOTIVATION_M  # None = m pencereden öğrenilir, sayı = sabit m
     xg_weight: float = config.XG_WEIGHT  # Poisson hedefi: (1-w)*gol + w*xG (xG olan maçlarda)
+    fit_rho: bool = True    # False: düşük skor düzeltmesi yok (rho = 0; ör. korner sayıları için)
     lookback_days: int = config.LOOKBACK_DAYS
     max_goals: int = config.MAX_GOALS
 
@@ -133,7 +134,10 @@ class DixonColes:
                     theta0[off + i] = warm_start.attack[prev[t]]
                     theta0[off + n + i] = warm_start.defence[prev[t]]
 
-        bounds = [(None, None)] * (2 * k) + [(-0.25, 0.25)] + [(None, None)] * (off - 2 * k - 1 + 2 * n)
+        bounds = [(None, None)] * (2 * k) + [(-0.25, 0.25) if self.fit_rho else (0.0, 0.0)] + \
+            [(None, None)] * (off - 2 * k - 1 + 2 * n)
+        if not self.fit_rho:
+            theta0[2 * k] = 0.0
         if mot is not None and self.motivation_fixed is not None:  # sabit m: sınırlarla dondurulur
             theta0[base] = self.motivation_fixed
             bounds[base] = (self.motivation_fixed, self.motivation_fixed)

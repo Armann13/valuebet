@@ -119,6 +119,20 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
    gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
    ```
 
+### Korner
+
+- Sadece kulüp maçları: football-data'da maç başı korner sayısı (HC / AC) 22 ligin 21'inde var (National League
+  hariç); milli maçlarda korner verisi yok.
+- Model: gol modelinin aynısı korner sayılarıyla (takımın korner kazandırma / yeme eğilimi), takım başına negatif
+  binom. `python main.py korner` → `reports/korner_summary.md`: 2024/25'ten bugüne walk-forward. En çok korner (1/X/2)
+  lig ortalamasından belirgin isabetli; toplam korner alt / üstte takım farkı az bilgi taşıyor (olasılıklar yine de
+  kalibre).
+- İddaa'dan maç detayıyla: toplam korner alt / üst (en dengeli baraj) ve en çok korner. Raporda ve Telegram'da
+  "🚩 Korner" bölümü: maç başına en olası korner bahsi (oran 1.30+). Keskin oran olmadığı için 💎 yok; sonuç
+  takibinde korner sayılarıyla kapanır.
+
+Tier 1 ve 2'de en düşük oran: 1.20 ve 1.40 (`tavsiye.MIN_ODDS`); 1.06'lık çifte şans gibi tahminler listelenmez.
+
 ### Sonuç takibi (tavsiyeler tuttu mu?)
 
 - Telegram'da gönderilen her tahmin, gönderildiği andaki olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye

@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import config  # noqa: E402
 
 RNG = np.random.default_rng(42)
+CRNG = np.random.default_rng(7)   # korner sayıları ayrı üreteçle (diğer sentetik veriler değişmesin)
 HOME, RHO = 0.27, -0.08
 BASE = {"SP1": np.log(1.30), "SP2": np.log(1.12)}
 
@@ -72,6 +73,8 @@ def match_row(div, d, h, a, strength, with_result=True, with_closing=True, with_
         hg, ag = divmod(k, m.shape[1])
         row.update({"FTHG": hg, "FTAG": ag, "FTR": "H" if hg > ag else "D" if hg == ag else "A",
                     "HTHG": min(hg, RNG.integers(0, 2)), "HTAG": min(ag, RNG.integers(0, 2))})
+        # kornerler: güçlü (atak) takım daha çok korner kazanır
+        row["HC"], row["AC"] = int(CRNG.poisson(5.3 * np.exp(0.6 * (ah - da)))), int(CRNG.poisson(4.4 * np.exp(0.6 * (aa - dh))))
     # gerçekteki gibi: Pinnacle son sezonda yok, Betfair borsası (düşük marj) 2024/25'ten itibaren var
     books = {"B365": (0.15, 0.055, "B365"), "PS": (0.08, 0.025, "P"), "BFE": (0.08, 0.008, "BFE"),
              "Avg": (0.12, 0.06, "Avg")}

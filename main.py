@@ -13,6 +13,7 @@
     python main.py telegram          # tavsiyeleri Telegram'a gönder (--kurulum: ilk kurulum)
     python main.py milli             # milli takım modeli doğrulaması (--siralama: güç sıralaması, --ayar: ayar)
     python main.py sonuc             # gönderilen tavsiyelerin sonuçları (tavsiyeler/sonuclar.md + Telegram)
+    python main.py korner            # korner modeli doğrulaması (reports/korner_summary.md)
     python main.py ratings           # güncel takım güç sıralaması
     python main.py teams             # veritabanındaki takım isimleri (İddaa eşleştirmesi için)
     python main.py all               # download + build + backtest
@@ -182,6 +183,15 @@ def cmd_telegram(args):
         telegram.notify(force=args.ozet)
 
 
+def cmd_korner(args):
+    from src import korner
+    md = korner.run()
+    config.REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    out = config.REPORTS_DIR / "korner_summary.md"
+    out.write_text(md, encoding="utf-8")
+    print(md + f"\n\nRapor: {out}")
+
+
 def cmd_sonuc(args):
     from src import sonuclar
     sonuclar.run(send=not args.gonderme)
@@ -286,7 +296,7 @@ def main():
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
-                     ("milli", cmd_milli), ("sonuc", cmd_sonuc),
+                     ("milli", cmd_milli), ("sonuc", cmd_sonuc), ("korner", cmd_korner),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)

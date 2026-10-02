@@ -160,6 +160,16 @@ XG_WEIGHT = 0.25
 LOOKBACK_DAYS = 3 * 365
 MAX_GOALS = 10        # skor matrisi 0..MAX_GOALS
 
+# Korner modeli (bkz. src/korner.py): gol modelinin aynısı korner sayılarıyla; takım başına negatif binom.
+# Walk-forward 2024/25+ (aylık yeniden eğitim, 15.522 maç, 2026-10-02): en çok korner (1/X/2) log loss 0.893, lig
+# ortalamasıyla 0.931 (model belirgin iyi); toplam korner alt/üst 0.649 vs 0.651 (takım farkı az bilgi taşıyor). Gol
+# ayarıyla (ridge_total 16) model toplam kornerde fazla emindi (%69 -> %60); eğilim çekimi 64 ile %68 -> %65.
+KORNER_XI = 0.0019
+KORNER_RIDGE = 8.0
+KORNER_RIDGE_TOTAL = 64.0
+KORNER_DISPERSIYON = 10.0   # negatif binom k: varyans = ort + ort² / k (0 = Poisson); alt/üst 12, 1X2 8'de en iyi
+KORNER_MIN_ODDS = 1.30      # bu oranın altındaki korner bahsi önerilmez
+
 # ---------------------------------------------------------------- Backtest / value
 EVAL_FROM_SEASON = 2016   # 1X2 kapanışı 2014'ten, Ü/A kapanışı 2019'dan var; 2 sezon eğitim geçmişi bırakılır
 BET_BOOK = "b365"         # backtest'te "oynadığımız" oranlar (İddaa geçmişi olmadığı için yumuşak bir büro vekil)

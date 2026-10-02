@@ -447,6 +447,36 @@ def test_telegram_messages():
     assert "Günün tavsiyeleri" in msgs[0]
 
 
+def test_korner():
+    """Korner modeli: rho 0, dağılım tutarlılığı, bahis sonuçları; İddaa korner marketleri."""
+    from src import korner
+    from src.iddaa import parse_corners
+    df, att, _ = _simulate(seasons=1, seed=3)
+    rng = np.random.default_rng(3)
+    order = {f"T{i:02d}": i for i in range(len(att))}
+    df["hc"] = [rng.poisson(5.5 * np.exp(0.5 * att[order[h]])) for h in df["home"]]
+    df["ac"] = [rng.poisson(4.5 * np.exp(0.5 * att[order[a]])) for a in df["away"]]
+    m = korner.model(xi=0.0, ridge=1.0, ridge_total=1.0).fit(korner.corner_frame(df.assign(div="SP1")))
+    assert m.rho == 0.0 and m.converged
+    lam, nu = m.expected_goals("T00", "T01", "SP1")
+    assert 3 < lam < 9 and 2 < nu < 8
+    mat = korner.matrix(lam, nu)
+    assert abs(mat.sum() - 1) < 1e-9
+    p = korner.market_probs(mat, 9.5)
+    assert abs(p["Korner 9.5 Üst"] + p["Korner 9.5 Alt"] - 1) < 1e-9
+    assert abs(p["En çok korner 1"] + p["En çok korner X"] + p["En çok korner 2"] - 1) < 1e-9
+    assert korner.bet_won("Korner 9.5 Üst", 6, 4) and not korner.bet_won("Korner 10.5 Üst", 6, 4)
+    assert korner.bet_won("En çok korner 2", 3, 7) and korner.bet_won("En çok korner X", 5, 5)
+    assert korner.is_corner_bet("Korner 9.5 Alt") and not korner.is_corner_bet("MS 1")
+    detail = {"m": [{"t": 2, "st": 48, "sov": "11.5", "o": [{"n": "Alt", "odd": 1.16}, {"n": "Üst", "odd": 3.33}]},
+                    {"t": 2, "st": 48, "sov": "10.5", "o": [{"n": "Alt", "odd": 1.5}, {"n": "Üst", "odd": 2.4}]},
+                    {"t": 2, "st": 52, "o": [{"n": "1", "odd": 1.65}, {"n": "0", "odd": 7.28}, {"n": "2", "odd": 2.32}]},
+                    {"t": 2, "st": 49, "sov": "5.5", "o": [{"n": "Alt", "odd": 1.2}, {"n": "Üst", "odd": 2.9}]}]}
+    c = parse_corners(detail)
+    assert (c["kor_line"], c["odd_kor_alt"], c["odd_kor_ust"]) == (10.5, 1.5, 2.4)  # en dengeli baraj
+    assert (c["odd_kor_1"], c["odd_kor_x"], c["odd_kor_2"]) == (1.65, 7.28, 2.32)
+
+
 def test_sonuclar():
     """Gönderilen tahminlerin kaydı, sonuçla kapanması, seviye özeti ve gün mesajı."""
     import tempfile
@@ -462,24 +492,29 @@ def test_sonuclar():
              "odd": float("nan")},
             {**base, "gün": "2026-10-02", "div": "MILLI", "home": "Wales", "away": "Norway", "maç": "Galler – Norveç",
              "lig": "UEFA Uluslar Ligi", "seviye": "🔴 Tier 3 — Yüksek risk", "tahmin": "MS 2 & KG Var", "p": 0.3,
-             "odd": 3.2}]
+             "odd": 3.2},
+            {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
+             "lig": "SP1", "seviye": "🚩 Korner — kulüp maçları", "tahmin": "Korner 9.5 Üst", "p": 0.55, "odd": 1.8}]
     old_dir = config.TAVSIYE_DIR
     with tempfile.TemporaryDirectory() as d:
         config.TAVSIYE_DIR = Path(d)
         try:
-            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 4
+            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 5
             assert sonuclar.record(rows[:1], datetime(2026, 10, 1, 18, 20)) == 0  # akşam özetinde tekrar: sayılmaz
             log = sonuclar.load_log()
         finally:
             config.TAVSIYE_DIR = old_dir
     res = pd.DataFrame({"div": ["SP1", "MILLI", "MILLI"], "date": pd.to_datetime(["2026-10-01", "2026-10-03", "2026-09-20"]),
                         "home": ["Betis", "Spain", "Norway"], "away": ["Getafe", "Czech Republic", "Wales"],
-                        "fthg": [1, 2, 1], "ftag": [1, 0, 1]})  # İspanya maçı ertesi gün yazılmış (saat dilimi)
+                        "fthg": [1, 2, 1], "ftag": [1, 0, 1], "hc": [7, np.nan, np.nan],
+                        "ac": [4, np.nan, np.nan]})  # İspanya maçı ertesi gün yazılmış (saat dilimi)
     log = sonuclar.settle(log, res)
     assert (log["hg"].iloc[:3].tolist(), log["ag"].iloc[:3].tolist()) == ([1, 1, 2], [1, 1, 0])
     assert np.isnan(log["hg"].iloc[3])  # Galler maçının sonucu henüz yok (eski karşılaşma tarih tutmuyor)
+    assert (log["hk"].iloc[4], log["ak"].iloc[4]) == (7, 4)  # korner: 11 > 9.5
     s = {x["icon"]: x for x in sonuclar.stats(log)}
-    assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"]) == (1, 0, 1)
+    assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)
+    assert "korner 7-4" in sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert abs(s["🟢"]["kâr_zarar"] - 0.25) < 1e-9 and s["🟡"]["kâr_zarar"] == -1 and s["🔴"]["sonuçlanan"] == 0
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
@@ -628,7 +663,9 @@ def test_end_to_end():
     pd.DataFrame([{"snapshot_utc": "2000-01-01 00:00", "event_id": 8, "div": up["Div"],
                    "kickoff_utc": f"{kick_up:%Y-%m-%d} 20:00", "mbs": 1, "odd_1": 2.5, "odd_x": 3.2, "odd_2": 2.9,
                    "ou_line": 1.5, "odd_alt": 2.4, "odd_ust": 1.5, "home": up["HomeTeam"], "away": up["AwayTeam"],
-                   "season": season_up, "odd_skor": "yok"},  # İddaa'da skor bahsi açık değil
+                   "season": season_up, "odd_skor": "yok",  # İddaa'da skor bahsi açık değil
+                   "kor_line": 9.5, "odd_kor_alt": 1.85, "odd_kor_ust": 1.85, "odd_kor_1": 1.6, "odd_kor_x": 7.0,
+                   "odd_kor_2": 2.6},
                   # milli maç: Türkçe adlar ülke adlarına eşlenir; keskin oran yok -> İddaa oranına ayarlı
                   {"snapshot_utc": "2000-01-01 00:00", "event_id": 9, "div": config.MILLI,
                    "kickoff_utc": f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d} 18:45", "mbs": 1, "odd_1": 1.35, "odd_x": 4.6, "odd_2": 8.0,
@@ -662,6 +699,9 @@ def test_end_to_end():
     nat5 = t5.loc[t5["maç"] == "İspanya – Çekya", "odd"]
     assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan
     assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
+    kor = picks[picks["seviye"].str.startswith("🚩")]  # korner: kulüp maçında İddaa korner oranıyla
+    assert (kor["maç"] == f"{up['HomeTeam']} – {up['AwayTeam']}").any() and (kor["odd"] >= 1.3).all(), kor
+    assert "Korner — kulüp maçları" in son
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     r = run("main.py", "sonuc", "--gonderme")  # henüz Telegram'da gönderilen tahmin yok

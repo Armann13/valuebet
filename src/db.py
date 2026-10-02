@@ -22,6 +22,7 @@ CREATE TABLE IF NOT EXISTS matches (
     fthg    INTEGER, ftag INTEGER, ftr TEXT,
     hthg    INTEGER, htag INTEGER,
     hxg     REAL, axg REAL,
+    hc      INTEGER, ac INTEGER,
     {", ".join(f"{c} REAL" for c in ODDS_COLS)},
     PRIMARY KEY (div, date, home, away)
 );
@@ -81,7 +82,7 @@ def normalize(raw: pd.DataFrame, div: str | None = None, season: int | None = No
     df["time"] = raw["Time"].astype(str).str.strip() if "Time" in raw else None
     df["home"] = raw["HomeTeam"].astype(str).str.strip()
     df["away"] = raw["AwayTeam"].astype(str).str.strip()
-    for src, dst in [("FTHG", "fthg"), ("FTAG", "ftag"), ("HTHG", "hthg"), ("HTAG", "htag")]:
+    for src, dst in [("FTHG", "fthg"), ("FTAG", "ftag"), ("HTHG", "hthg"), ("HTAG", "htag"), ("HC", "hc"), ("AC", "ac")]:
         df[dst] = pd.to_numeric(raw[src], errors="coerce") if src in raw else np.nan
     df["ftr"] = raw["FTR"].astype(str).str.strip() if "FTR" in raw else None
     colmap = config.odds_column_map()
@@ -145,7 +146,7 @@ def build() -> int:
     all_df = attach_xg(all_df)
     all_df["date"] = all_df["date"].dt.strftime("%Y-%m-%d")
     cols = ["div", "season", "date", "time", "home", "away", "fthg", "ftag", "ftr", "hthg", "htag",
-            "hxg", "axg"] + ODDS_COLS
+            "hxg", "axg", "hc", "ac"] + ODDS_COLS
     con = connect()
     with con:
         # matches her build'de sıfırdan yazılır; tabloyu yeniden kurmak yeni oran sütunlarını da ekler

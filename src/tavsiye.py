@@ -12,6 +12,7 @@ Milli maçlar ayrı bir modelle (src/milli.py) tahmin edilir.
 Risk seviyesi = tahminin TUTMAMA olasılığı:
   Tier 1 düşük (olasılık >= %70), Tier 2 orta (%50-70), Tier 3 yüksek (%25-50: beraberlik, sürpriz, kombinasyon),
   Tier 4 çok yüksek (en olası kesin skor, kısa liste), Tier 5 aşırı (her maçın en olası kesin skoru).
+  Tier 1 ve 2'de oranı MIN_ODDS'un altındaki tahminler (ör. 1.06'lık çifte şans) listelenmez.
 Değer: oran x olasılık - 1. Pozitifse fiyat adil fiyatın üstünde (uzun vadede kârlı olması beklenir); negatifse
 tahmin tutsa bile bu oranla uzun vadede kaybettirir. Risk seviyesi ile değer farklı şeylerdir.
 
@@ -25,7 +26,7 @@ import numpy as np
 import pandas as pd
 
 import config
-from src import db, milli
+from src import db, korner, milli
 from src.features import add_motivation
 from src.iddaa import ODD_COLS, SCORE_COL, score_odds
 from src.odds import add_sharp, devig, devig_frame
@@ -33,12 +34,22 @@ from src.odds import add_sharp, devig, devig_frame
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
          ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50)]
 MAX_PER_TIER = {0: 8, 1: 12, 2: 12}
+MIN_ODDS = {0: 1.20, 1: 1.40}   # Tier 1 / 2'de en düşük oran (İddaa; yoksa adil oran): 1.06 gibi oranlar oynanmaya değmez
 MAX_SHORT_SCORES = 6          # Tier 4: en olası kesin skoru en yüksek olan maçlar
 ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1x", "ÇŞ 1-2": "odd_12",
            "ÇŞ X-2": "odd_x2", "2.5 Alt": "odd_alt", "2.5 Üst": "odd_ust", "KG Var": "odd_kg_var",
            "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
+CORNER_TIER = "🚩 Korner — kulüp maçları"
+MAX_CORNERS = 10
+
+
+def _corner_col(bet: str) -> str:
+    """Korner bahsi -> İddaa oran sütunu."""
+    if bet.startswith("En çok korner"):
+        return {"1": "odd_kor_1", "X": "odd_kor_x", "2": "odd_kor_2"}[bet.split()[-1]]
+    return "odd_kor_ust" if bet.endswith("Üst") else "odd_kor_alt"
 CAND_COLS = ["maç", "lig", "tarih", "saat", "baslama", "gün", "mbs", "kaynak", "hg", "ag", "div", "home", "away",
              "tahmin", "p", "odd"]
 
@@ -142,7 +153,7 @@ def _upcoming(fixtures_path) -> tuple[pd.DataFrame, pd.Timestamp | None]:
     up = pd.concat(rows, ignore_index=True, sort=False)
     # aynı maç iki kaynakta: keskin oranları fikstürden, İddaa oranlarını İddaa'dan al ("first" boşları atlar)
     keep = [c for c in up if c.startswith(("odd_", "keskin_")) or
-            c in ("mbs", "ou_line", "kickoff_utc", "competition", "home_iddaa", "away_iddaa")]
+            c in ("mbs", "ou_line", "kor_line", "kickoff_utc", "competition", "home_iddaa", "away_iddaa")]
     merged = up.groupby(["div", "home", "away"], as_index=False).agg(
         {**{c: "first" for c in keep}, "date": "min", "kaynak": lambda s: " + ".join(sorted(set(s)))})
     merged["season"] = np.where(merged["date"].dt.month >= 7, merged["date"].dt.year, merged["date"].dt.year - 1)
@@ -231,6 +242,10 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
     up = pd.concat([club, nat], ignore_index=True, sort=False)
     refs = {d: (start if as_of else t) for d, t in club.groupby("div")["date"].min().items()}
     models = _fit_models(train, refs, {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}, joint) if refs else {}
+    # korner: sadece İddaa'da korner oranı açık kulüp maçlarının ligleri için (geçmiş korner verisi kulüplerde var)
+    has_kor = club[[c for c in ("kor_line", "odd_kor_1") if c in club]].notna().any(axis=1) if not as_of else []
+    kor_divs = set(club.loc[has_kor, "div"]) if len(has_kor) else set()
+    cmodels = korner.fit_models(train, {d: refs[d] for d in kor_divs if d in refs}) if kor_divs else {}
     if not nat.empty:
         mdl = milli.fit_current(start if as_of else nat["date"].min())
         if mdl is not None:
@@ -238,7 +253,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         md += ["**Milli maçlar** ayrı bir modelle (milli takım sonuçları, tarafsız saha ve hazırlık maçı ağırlığıyla) "
                "tahmin edilir. Milli maçlar için keskin piyasa oranı olmadığından 💎 çıkmaz. İddaa sahayı "
                "bildirmediği için ev sahibi kendi sahasında sayılır.", ""]
-    cands, scores = [], []
+    cands, scores, corners = [], [], []
     for r in up.to_dict("records"):
         mdl = models.get(r["div"])
         if mdl is None:
@@ -281,6 +296,13 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         s_odd = sc.get(f"{i}-{j}", np.nan) if sc is not None else np.nan
         if not (listed and sc is not None and not np.isfinite(s_odd)):
             scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": s_odd})
+        cm = cmodels.get(r["div"])
+        if cm is not None and listed:  # korner: sadece İddaa'da oranı olan bahisler
+            cmat = korner.matrix(*cm.expected_goals(r["home"], r["away"], r["div"]))
+            for bet, p in korner.market_probs(cmat, r.get("kor_line", np.nan)).items():
+                odd = r.get(_corner_col(bet), np.nan)
+                if odd > 1.0 and odd >= config.KORNER_MIN_ODDS:
+                    corners.append({**info, "kaynak": "korner", "tahmin": bet, "p": p, "odd": odd})
     c = pd.DataFrame(cands, columns=CAND_COLS)
     c["değer"] = c["odd"] * c["p"] - 1
     # 💎 sadece olasılık piyasaya ayarlıysa: sadece modelin gördüğü "değer" backtest'te kapanışı yenmedi
@@ -297,7 +319,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             s += f", {price} oranı yok"
         if pd.notna(x.get("mbs")) and x.get("mbs") > 1:
             s += f", MBS {int(x['mbs'])}"
-        s += {"piyasa": "", "oran": f" _({price} oranına ayarlı)_"}.get(x["kaynak"], " _(sadece model)_")
+        s += {"piyasa": "", "oran": f" _({price} oranına ayarlı)_", "korner": " _(korner modeli)_"}.get(
+            x["kaynak"], " _(sadece model)_")
         if judged:
             s += f" → {int(x['hg'])}-{int(x['ag'])} {'✅' if bet_won(x['tahmin'], int(x['hg']), int(x['ag'])) else '❌'}"
         return s
@@ -305,6 +328,9 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
     picked, rung, order = [], {}, []  # merdiven: maç -> son seviyedeki tahmini (görülme sırasıyla)
     for k, (tname, lo, hi) in enumerate(TIERS):
         band = c[(c["p"] >= lo) & (c["p"] < hi)].copy()
+        if k in MIN_ODDS:  # çok düşük oran (ör. 1.06'lık çifte şans) önerilmez; oran yoksa adil oranla
+            price_or_fair = band["odd"].astype(float).fillna(1 / band["p"])
+            band = band[price_or_fair >= MIN_ODDS[k]]
         if k == 0:  # düşük riskte çifte şans ancak MS zaten >= %70 değilse
             band = band[~band["tahmin"].str.startswith("ÇŞ") |
                         ~band["maç"].isin(band.loc[band["tahmin"].str.startswith("MS "), "maç"])]
@@ -334,6 +360,17 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                ("🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)", s)]
     for tname, t in picked[3:]:
         md += [f"## {tname}", ""] + [line(x) for x in t.to_dict("records")] + [""]
+    k = pd.DataFrame(corners, columns=CAND_COLS)
+    k["değer"], k["gerçek_değer"] = k["odd"] * k["p"] - 1, False  # keskin korner oranı yok: değer ölçülemez
+    k = k[k["p"] >= 0.5].sort_values("p", ascending=False).groupby("maç").head(1).head(MAX_CORNERS)
+    picked.append((CORNER_TIER, k))
+    md += [f"## {CORNER_TIER}", "",
+           "Kulüp maçlarında toplam korner alt / üst (İddaa'nın barajında) ve en çok korner (1 / X / 2); maç başına en "
+           f"olası bahis (oran {config.KORNER_MIN_ODDS:.2f}+). Olasılıklar korner modelinden (geçmiş maçlarda "
+           "kalibrasyonu iyi; en çok kornerde lig ortalamasından belirgin isabetli, toplam kornerde fark küçük). "
+           "Milli maçlarda korner verisi olmadığından yok.", ""]
+    md += [line(x) for x in k.to_dict("records")] or ["İddaa'da korner oranı açık kulüp maçı yok."]
+    md += [""]
     pos = c[c["gerçek_değer"] & (c["p"] >= 0.25)].sort_values("değer", ascending=False).head(15)
     picked.append(("💎 Değeri pozitif olanlar", pos))
     md += ["## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)", "",

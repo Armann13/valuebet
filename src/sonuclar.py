@@ -18,11 +18,13 @@ import numpy as np
 import pandas as pd
 
 import config
+from src import korner
 from src.tavsiye import bet_won
 
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
-            "odd", "değer", "kaynak", "merdiven", "hg", "ag"]
-SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"), ("💎", "💎 Değerli")]
+            "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak"]   # hk / ak: korner sayıları
+SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"),
+             ("🚩", "Korner"), ("💎", "💎 Değerli")]
 RAPOR_SAATI = 9          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
 
@@ -58,42 +60,63 @@ def record(rows: list, sent_at: datetime) -> int:
 
 
 def load_results() -> pd.DataFrame:
-    """Oynanmış maçlar: kulüp (veritabanı) + milli. Sütunlar: div, date, home, away, fthg, ftag."""
+    """Oynanmış maçlar: kulüp (veritabanı) + milli. Sütunlar: div, date, home, away, fthg, ftag, hc, ac (korner;
+    milli maçlarda yok)."""
     from src import db, milli
-    cols = ["div", "date", "home", "away", "fthg", "ftag"]
+    cols = ["div", "date", "home", "away", "fthg", "ftag", "hc", "ac"]
     parts = []
     try:
-        parts.append(db.load_matches()[cols])
+        parts.append(db.load_matches().reindex(columns=cols))
     except Exception as e:  # veritabanı yoksa (python main.py build) sadece milli
         print(f"  ! sonuçlar: kulüp maçları okunamadı ({str(e)[:100]})")
     nat = milli.load_results(since="2026-01-01")
     if not nat.empty:
-        parts.append(nat[cols])
+        parts.append(nat.reindex(columns=cols))
     return pd.concat(parts, ignore_index=True) if parts else pd.DataFrame(columns=cols)
 
 
 def settle(log: pd.DataFrame, results: pd.DataFrame) -> pd.DataFrame:
-    """Sonucu olmayan kayıtlara skor ekler (aynı lig, aynı takımlar, tarih ±1 gün: saat dilimi farkı). Milli
-    maçlarda tarafsız sahada ev / deplasman sırası farklı yazılmış olabilir: ters sıra da denenir."""
-    log = log.copy()
-    res = results.dropna(subset=["fthg", "ftag"])
+    """Sonucu olmayan kayıtlara skor (hg, ag) ve korner sayısı (hk, ak) ekler (aynı lig, aynı takımlar, tarih ±1
+    gün: saat dilimi farkı). Milli maçlarda tarafsız sahada ev / deplasman sırası farklı yazılmış olabilir: ters
+    sıra da denenir."""
+    log = log.reindex(columns=list(dict.fromkeys([*log.columns, "hk", "ak"])))
+    res = results.reindex(columns=["div", "date", "home", "away", "fthg", "ftag", "hc", "ac"]).dropna(
+        subset=["fthg", "ftag"])
     idx = {}
-    for div, d, h, a, hg, ag in zip(res["div"], pd.to_datetime(res["date"]), res["home"], res["away"],
-                                    res["fthg"], res["ftag"]):
-        idx.setdefault((div, h, a), []).append((d, int(hg), int(ag)))
-    for i in log.index[log["hg"].isna()]:
+    for div, d, h, a, hg, ag, hc, ac in zip(res["div"], pd.to_datetime(res["date"]), res["home"], res["away"],
+                                            res["fthg"], res["ftag"], res["hc"], res["ac"]):
+        idx.setdefault((div, h, a), []).append((d, (int(hg), int(ag)), (hc, ac)))
+    corner = log["tahmin"].map(korner.is_corner_bet)
+    for i in log.index[log["hg"].isna() | (corner & log["hk"].isna())]:
         r, day = log.loc[i], pd.Timestamp(log.at[i, "gün"])
         for h, a, swap in ((r["home"], r["away"], False), (r["away"], r["home"], True)):
-            hit = next(((hg, ag) for d, hg, ag in idx.get((r["div"], h, a), []) if abs((d - day).days) <= 1), None)
+            hit = next(((g, k) for d, g, k in idx.get((r["div"], h, a), []) if abs((d - day).days) <= 1), None)
             if hit:
-                log.at[i, "hg"], log.at[i, "ag"] = (hit[1], hit[0]) if swap else hit
+                (hg, ag), (hc, ac) = hit
+                log.at[i, "hg"], log.at[i, "ag"] = (ag, hg) if swap else (hg, ag)
+                log.at[i, "hk"], log.at[i, "ak"] = (ac, hc) if swap else (hc, ac)
                 break
     return log
 
 
 def _won(df: pd.DataFrame) -> pd.Series:
-    return pd.Series([bet_won(t, int(h), int(a)) if pd.notna(h) and pd.notna(a) else np.nan
-                      for t, h, a in zip(df["tahmin"], df["hg"], df["ag"])], index=df.index, dtype=object)
+    """Tahmin tuttu mu (True / False; sonuç yoksa NaN). Korner bahisleri korner sayılarıyla."""
+    hk = df["hk"] if "hk" in df else pd.Series(np.nan, index=df.index)
+    ak = df["ak"] if "ak" in df else pd.Series(np.nan, index=df.index)
+    out = []
+    for t, h, a, kh, ka in zip(df["tahmin"], df["hg"], df["ag"], hk, ak):
+        if korner.is_corner_bet(t):
+            out.append(korner.bet_won(t, int(kh), int(ka)) if pd.notna(kh) and pd.notna(ka) else np.nan)
+        else:
+            out.append(bet_won(t, int(h), int(a)) if pd.notna(h) and pd.notna(a) else np.nan)
+    return pd.Series(out, index=df.index, dtype=object)
+
+
+def _score_text(r) -> str:
+    """Skor ("2-1"); korner bahsinde korner sayısı ("korner 6-4"); sonuç yoksa boş."""
+    if korner.is_corner_bet(r["tahmin"]):
+        return f"korner {int(r['hk'])}-{int(r['ak'])}" if pd.notna(r.get("hk")) and pd.notna(r.get("ak")) else ""
+    return f"{int(r['hg'])}-{int(r['ag'])}" if pd.notna(r["hg"]) else ""
 
 
 def stats(df: pd.DataFrame) -> list[dict]:
@@ -136,7 +159,8 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     for icon, _ in SEVIYELER:
         for (_, r), w in zip(df[df["seviye"].str.startswith(icon)].iterrows(), won[df["seviye"].str.startswith(icon)]):
             mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
-            score = f" ({int(r['hg'])}-{int(r['ag'])})" if pd.notna(r["hg"]) else " (sonuç yok)"
+            score = _score_text(r)
+            score = f" ({score})" if score else " (sonuç yok)"
             odd = f" @{r['odd']:.2f}" if pd.notna(r["odd"]) else ""
             lines.append(f"{mark} {icon} {html.escape(str(r['maç']))}: {html.escape(str(r['tahmin']))}{score}{odd}")
     done = _won(allt).notna().sum()
@@ -174,7 +198,7 @@ def summary_md(log: pd.DataFrame) -> str:
            "|---|---|---|---|---|---|---|---|"]
     for (_, r), w in list(zip(log.iterrows(), won))[::-1][:200]:
         odd = "—" if pd.isna(r["odd"]) else f"{r['odd']:.2f}"
-        score = "—" if pd.isna(r["hg"]) else f"{int(r['hg'])}-{int(r['ag'])}"
+        score = _score_text(r) or "—"
         mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
         md.append(f"| {r['tarih']} | {r['seviye'][:1]} | {r['maç']} | {r['tahmin']} | %{100 * r['p']:.0f} | {odd} | "
                   f"{score} | {mark} |")

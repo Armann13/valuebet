@@ -25,9 +25,11 @@ OZET_SAATLERI = {9: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}  # TR saa
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
 TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
-BASLIK = {"💎": "DEĞERLİ · oran adil fiyatın üstünde", "🟢": "TIER 1 · Düşük risk (%70+)",
-          "🟡": "TIER 2 · Orta risk (%50-70)", "🔴": "TIER 3 · Yüksek risk (%25-50)",
-          "⚡": "TIER 4 · Kesin skor (en olasılar)", "🔥": "TIER 5 · Kesin skor (yukarıdaki maçlar)"}
+BASLIK = {"💎": "DEĞERLİ · oran adil fiyatın üstünde", "🟢": "TIER 1 · Düşük risk (%70+, oran 1.20+)",
+          "🟡": "TIER 2 · Orta risk (%50-70, oran 1.40+)", "🔴": "TIER 3 · Yüksek risk (%25-50)",
+          "⚡": "TIER 4 · Kesin skor (en olasılar)", "🔥": "TIER 5 · Kesin skor (yukarıdaki maçlar)",
+          "🚩": "KORNER · kulüp maçları"}
+KORNER_LIMIT = 6
 CIZGI = "━━━━━━━━━━━━━━━"
 
 
@@ -135,6 +137,10 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
         log += t5.to_dict("records")
         if not t5.empty:
             lines += _section("🔥", t5, now_tr)
+        kor = soon[soon["seviye"].str.startswith("🚩")].head(KORNER_LIMIT)
+        log += kor.to_dict("records")
+        if not kor.empty:
+            lines += _section("🚩", kor, now_tr)
         lines += [CIZGI, "<i>↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de tutar). "
                          "Uzun vadede kârlı olması beklenen sadece 💎.</i>", f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
         msgs.append("\n".join(lines))

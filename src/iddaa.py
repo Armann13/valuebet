@@ -8,7 +8,9 @@ iddaa.com'un sitesinin kullandığı JSON uç noktasından (resmi API değil) ma
   Kapalı sonuç 1.00 oranla gelir (boş sayılır); açılmamış market hiç gelmez.
 Kesin skor (maç skoru, t=2, st=86; sonuçlar "1:0" ...) toplu listede yok, maç detayında (/sportsbook/event/{no})
 var: her maç için ayrıca çekilir ve odd_skor sütununa "1:0=10.15;2:0=6.97;..." biçiminde yazılır ("yok" = skor
-bahsi açık değil, boş = detay alınamadı / bilinmiyor).
+bahsi açık değil, boş = detay alınamadı / bilinmiyor). Korner marketleri de maç detayından: toplam korner alt / üst
+(t=2, st=48, baraj "sov"; kor_line, odd_kor_alt / odd_kor_ust) ve en çok korner (t=2, st=52; "1" / "0" / "2").
+Detay alınamazsa bu sütunlar son bilinen değerleriyle korunur.
 Her sonuç için iki oran vardır: odd (ekranda gösterilen, normal kupon) ve wodd (sitenin kodunda "king odds";
 ~%4 düşük). Hesaplarda odd kullanılır; ikisi de kaydedilir. mbs: maçın minimum kombinasyon sayısı.
 
@@ -29,9 +31,12 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (valuebet research script)", "Origin": "ht
            "Referer": "https://www.iddaa.com/"}
 ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
             "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok",
-            "odd_ms1_ust", "odd_ms2_ust", "odd_ms1_kg", "odd_msx_kg", "odd_ms2_kg"]
+            "odd_ms1_ust", "odd_ms2_ust", "odd_ms1_kg", "odd_msx_kg", "odd_ms2_kg",
+            "kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2"]
+CORNER_COLS = ["kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
 SCORE_COL = "odd_skor"   # kesin skor oranları (metin; bkz. modül açıklaması)
+DETAIL_COLS = [SCORE_COL] + CORNER_COLS   # maç detayından gelenler
 NO_SCORES = "yok"
 EVENT_KEY = "event_id"
 
@@ -155,18 +160,43 @@ def score_odds(s) -> dict | None:
     return out
 
 
-def _fetch_scores(event_ids) -> list:
-    """Her maçın detayından kesin skor oranları (nazik: istekler arası kısa bekleme). Alınamayan: NaN."""
+def parse_corners(detail: dict) -> dict:
+    """Maç detayından korner oranları: toplam alt / üst (birden çok baraj varsa en dengeli olanı) ve en çok korner."""
+    out = dict.fromkeys(CORNER_COLS, np.nan)
+    best = None
+    for m in detail.get("m", []):
+        o = {x.get("n"): _odd(x.get("odd")) for x in m.get("o", [])}
+        if m.get("t") == 2 and m.get("st") == 48 and np.isfinite(_line(m)):
+            alt, ust = o.get("Alt", np.nan), o.get("Üst", np.nan)
+            gap = abs(alt - ust) if np.isfinite(alt) and np.isfinite(ust) else np.inf
+            if best is None or gap < best:
+                best = gap
+                out.update(kor_line=_line(m), odd_kor_alt=alt, odd_kor_ust=ust)
+        elif m.get("t") == 2 and m.get("st") == 52:
+            out.update(odd_kor_1=o.get("1", np.nan), odd_kor_x=o.get("0", np.nan), odd_kor_2=o.get("2", np.nan))
+    return out
+
+
+def parse_detail(detail: dict) -> dict:
+    return {SCORE_COL: parse_scores(detail), **parse_corners(detail)}
+
+
+def _fetch_details(event_ids) -> list:
+    """Her maçın detayından kesin skor ve korner oranları (nazik: istekler arası kısa bekleme).
+    Alınamayan: None (son bilinen değerler korunur)."""
     out, failed = [], 0
     for i in event_ids:
         try:
-            out.append(parse_scores(_get(f"event/{int(i)}")))
-        except Exception:  # detay alınamazsa skor bilgisi "bilinmiyor" kalır, toplama durmaz
-            out.append(np.nan)
+            out.append(parse_detail(_get(f"event/{int(i)}")))
+        except Exception:  # detay alınamazsa bilgiler "bilinmiyor" kalır, toplama durmaz
+            out.append(None)
             failed += 1
         time.sleep(0.2)
-    open_ = sum(isinstance(s, str) and s != NO_SCORES for s in out)
-    print(f"  iddaa: kesin skor bahsi {open_}/{len(out)} maçta açık" + (f", {failed} maçta detay alınamadı" if failed else ""))
+    ok = [d for d in out if d]
+    n_sc = sum(d[SCORE_COL] != NO_SCORES for d in ok)
+    n_kor = sum(np.isfinite(d["kor_line"]) or np.isfinite(d["odd_kor_1"]) for d in ok)
+    print(f"  iddaa: maç detayı {len(ok)}/{len(out)}: kesin skor bahsi {n_sc} maçta, korner bahsi {n_kor} maçta açık"
+          + (f", {failed} maçta detay alınamadı" if failed else ""))
     return out
 
 
@@ -234,7 +264,10 @@ def collect() -> int:
         print("  ? iddaa bulanık eşleşmeler: " + ", ".join(f"{k} -> {v}" for k, v in sorted(fuzzy.items())))
     _report_names(df, unknown, fuzzy, now)
     mapped = df.loc[df["home"].notna() & df["away"].notna(), "event_id"]  # sadece kullanılacak maçların detayı
-    df[SCORE_COL] = df["event_id"].map(dict(zip(mapped, _fetch_scores(mapped))))
+    details = dict(zip(mapped, _fetch_details(mapped)))
+    df["detay_ok"] = df["event_id"].map(lambda i: details.get(i) is not None)  # False: detay alınamadı (kaydedilmez)
+    for c in DETAIL_COLS:
+        df[c] = df["event_id"].map(lambda i, c=c: (details.get(i) or {}).get(c, np.nan))
     df.insert(0, "snapshot_utc", now)
     df["season"] = _season(df["kickoff_utc"])
     folder = config.RAW_DIR / "iddaa"
@@ -242,21 +275,22 @@ def collect() -> int:
     added = 0
     for season, g in df.groupby("season"):
         path = folder / f"odds_{season}.csv"
-        old = pd.read_csv(path) if path.exists() else pd.DataFrame(columns=g.columns)
+        old = pd.read_csv(path) if path.exists() else pd.DataFrame(columns=g.columns.drop("detay_ok"))
         last = old.sort_values("snapshot_utc").groupby(EVENT_KEY).tail(1).set_index(EVENT_KEY) if len(old) else None
         keep = []
         for r in g.itertuples(index=False):
             row = r._asdict()
             if last is not None and r.event_id in last.index:
                 before = last.loc[r.event_id]
+                if not row["detay_ok"]:  # detay bu sefer alınamadı: skor / korner için son bilineni koru
+                    row.update({c: before.get(c, np.nan) for c in DETAIL_COLS})
                 prev = before.reindex(ODD_COLS).astype(float).to_numpy()  # eski dosyada sütun eksik olabilir
                 cur = np.array([row[c] for c in ODD_COLS], dtype=float)
                 prev_s = before.get(SCORE_COL)
-                if not isinstance(row[SCORE_COL], str) and isinstance(prev_s, str):
-                    row[SCORE_COL] = prev_s  # detay bu sefer alınamadı: son bilineni koru
                 same_scores = row[SCORE_COL] == prev_s or not isinstance(row[SCORE_COL], str)
                 if np.allclose(prev, cur, equal_nan=True) and same_scores:
                     continue
+            row.pop("detay_ok")
             keep.append(row)
         if keep:
             pd.concat([old, pd.DataFrame(keep)], ignore_index=True).to_csv(path, index=False)
