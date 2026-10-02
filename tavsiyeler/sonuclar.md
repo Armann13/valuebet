@@ -1,28 +1,52 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 02.10.2026 06:56. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 02.10.2026 09:33. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 3 | 2 | 2 | %100 | %87 | +0.21 | %11 |
-| 🟡 Tier 2 | 5 | 2 | 2 | %100 | %68 | +0.73 | %37 |
-| 🔴 Tier 3 | 4 | 3 | 2 | %67 | %43 | +1.69 | %56 |
-| ⚡ Tier 4 | 5 | 1 | 0 | %0 | %21 | -1.00 | %-100 |
-| 🔥 Tier 5 | 2 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
+| 🟢 Tier 1 | 7 | 2 | 2 | %100 | %87 | +0.21 | %11 |
+| 🟡 Tier 2 | 11 | 2 | 2 | %100 | %68 | +0.73 | %37 |
+| 🔴 Tier 3 | 7 | 3 | 2 | %67 | %43 | +1.69 | %56 |
+| ⚡ Tier 4 | 7 | 1 | 0 | %0 | %21 | -1.00 | %-100 |
+| 🔥 Tier 5 | 10 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
 
 ## Gün gün
 
 | gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
-| 02.10.2026 | 9 | 1 | 1 | %100 | %68 | +0.37 |
+| 02.10.2026 | 19 | 1 | 1 | %100 | %68 | +0.37 |
+| 03.10.2026 | 13 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 02.10 | 🔥 | Belçika – Türkiye | 2-1 | %10 | 7.45 | — | ⏳ |
+| 03.10 | 🔥 | Aldershot – Carlisle | 1-2 | %11 | 6.97 | — | ⏳ |
+| 03.10 | 🔥 | Livingston – Ayr United | 2-1 | %12 | 6.44 | — | ⏳ |
+| 02.10 | 🔥 | Fransa – İtalya | 2-1 | %13 | 7.32 | — | ⏳ |
+| 03.10 | 🔥 | Gateshead – Worthing | 1-2 | %14 | 6.50 | — | ⏳ |
+| 03.10 | 🔥 | Belarus – San Marino | 2-0 | %14 | 5.04 | — | ⏳ |
+| 02.10 | 🔥 | Ukrayna – Kuzey İrlanda | 1-0 | %14 | 5.03 | — | ⏳ |
+| 02.10 | 🔥 | Polonya – Romanya | 2-1 | %15 | 7.33 | — | ⏳ |
+| 03.10 | ⚡ | G. Morton – Raith Rovers | 0-1 | %16 | 4.77 | — | ⏳ |
+| 03.10 | ⚡ | İsviçre – Slovenya | 1-0 | %18 | 4.81 | — | ⏳ |
+| 02.10 | 🔴 | Ukrayna – Kuzey İrlanda | MS 1 | %49 | 1.87 | — | ⏳ |
+| 03.10 | 🔴 | Stranraer – Edinburgh | MS 1 | %49 | 1.82 | — | ⏳ |
+| 02.10 | 🔴 | Fransa – İtalya | MS 1 & 2.5 Üst | %49 | 1.88 | — | ⏳ |
+| 02.10 | 🟡 | Polonya – Romanya | MS 1 | %65 | 1.45 | — | ⏳ |
+| 03.10 | 🟡 | Aldershot – Carlisle | 2.5 Üst | %65 | 1.38 | — | ⏳ |
+| 02.10 | 🟡 | Belçika – Türkiye | MS 1 | %66 | 1.43 | — | ⏳ |
+| 03.10 | 🟡 | Gateshead – Worthing | MS 2 | %68 | 1.37 | — | ⏳ |
+| 03.10 | 🟡 | Belarus – San Marino | MS 1 & 2.5 Üst | %70 | 1.33 | — | ⏳ |
+| 02.10 | 🟡 | Fransa – İtalya | MS 1 | %70 | 1.36 | — | ⏳ |
+| 03.10 | 🟢 | Kanada – Peru | ÇŞ 1-X | %85 | 1.06 | — | ⏳ |
+| 03.10 | 🟢 | G. Morton – Raith Rovers | ÇŞ X-2 | %85 | 1.06 | — | ⏳ |
+| 03.10 | 🟢 | Livingston – Ayr United | ÇŞ 1-X | %85 | 1.06 | — | ⏳ |
+| 02.10 | 🟢 | Fransa – İtalya | ÇŞ 1-X | %87 | 1.06 | — | ⏳ |
 | 02.10 | ⚡ | Letonya – Karadağ | 0-1 | %16 | 5.09 | — | ⏳ |
 | 02.10 | 🟡 | Tayland – Filipinler | MS 1 | %67 | 1.39 | — | ⏳ |
 | 01.10 | 🟡 | Curaçao – Trinidad ve Tobago | MS 1 | %69 | 1.36 | 1-0 | ✅ |
