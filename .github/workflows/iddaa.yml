@@ -5,6 +5,9 @@ name: İddaa oranları
 on:
   schedule:
     - cron: "17 */3 * * *"
+    # Özet saatleri için yedek (09:47 / 18:47 TR): GitHub zamanlanmış işleri saatlerce geciktirebiliyor ya da
+    # atlayabiliyor; özet her saat dilimi için bir kez gider, yedek çalıştırma çift mesaj göndermez.
+    - cron: "47 6,15 * * *"
   workflow_dispatch:
     inputs:
       telegram_test:
@@ -57,19 +60,19 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py telegram --test
 
+      - name: Sonuç raporu (biten maçlar, Telegram; önce dünün sonuçları, sonra günün özeti)
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py sonuc
+
       - name: Telegram bildirimi
         continue-on-error: true   # bildirim hatası veri kaydını engellemesin
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py telegram ${{ inputs.telegram_ozet && '--ozet' || '' }}
-
-      - name: Sonuç raporu (biten maçlar, Telegram)
-        continue-on-error: true
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python main.py sonuc
 
       - name: Değişiklik varsa commit et
         run: |

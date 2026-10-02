@@ -4,8 +4,9 @@ Kayıt: telegram.notify her gönderimde mesajdaki tahminleri tavsiyeler/gecmis.c
 olasılık ve İddaa oranıyla; aynı maç ve tahmin bir kez).
 Sonuç: kulüp maçları football-data'dan (veritabanı), milli maçlar milli sonuç verisinden (src/milli.py; son maçlar
 ESPN'den). Veri güncellendikçe kayıtlar kapanır: kulüplerde 1-3 gün, milli maçlarda birkaç saat.
-Rapor: bir günün tüm tahminleri sonuçlanınca (ya da BEKLEME_GUN gün geçince, eksiklerle) o günün sonuç mesajı
-Telegram'a bir kez gider; tavsiyeler/sonuclar.md tüm zamanların özetidir (paylaşılabilir).
+Rapor: bir günün tüm tahminleri sonuçlanınca, en geç ertesi sabah (RAPOR_SAATI'nden sonra; sonucu henüz gelmeyenler
+⏳ ile) o günün sonuç mesajı Telegram'a bir kez gider; geç gelen sonuçlar toplamlara sonradan eklenir.
+tavsiyeler/sonuclar.md tüm zamanların özetidir.
 Kâr/zarar: her tahmine tek başına 1 birim, İddaa oranıyla (MBS / kombine hesaba katılmaz; oranı olmayan tahmin
 kâr/zarara girmez). "Beklenen" = tahminlerin ortalama olasılığı: gerçek isabet buna yakınsa olasılıklar doğrudur.
 """
@@ -22,7 +23,7 @@ from src.tavsiye import bet_won
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
             "odd", "değer", "kaynak", "merdiven", "hg", "ag"]
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"), ("💎", "💎 Değerli")]
-BEKLEME_GUN = 3          # bu kadar gün sonra sonucu gelmeyenler "sonuç yok" sayılıp gün raporu yine gönderilir
+RAPOR_SAATI = 9          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
 
 
@@ -180,8 +181,21 @@ def summary_md(log: pd.DataFrame) -> str:
     return "\n".join(md)
 
 
-def run(send: bool = True, today: str | None = None) -> int:
-    """Kayıtları sonuçlarla kapatır, sonuclar.md'yi yazar, tamamlanan günlerin sonuç mesajını gönderir.
+def due_days(log: pd.DataFrame, done_days: set, now_tr: pd.Timestamp) -> list:
+    """Sonuç mesajı gidecek günler: geçmiş, henüz gönderilmemiş ve ya tamamı sonuçlanmış ya da ertesi gün
+    RAPOR_SAATI geçmiş."""
+    won, out = _won(log), []
+    for day, g in log.groupby("gün"):
+        d = pd.Timestamp(day)
+        if day in done_days or d >= now_tr.normalize():
+            continue
+        if won[g.index].notna().all() or now_tr >= d + pd.Timedelta(days=1, hours=RAPOR_SAATI):
+            out.append(day)
+    return out
+
+
+def run(send: bool = True, now_tr: pd.Timestamp | None = None) -> int:
+    """Kayıtları sonuçlarla kapatır, sonuclar.md'yi yazar, zamanı gelen günlerin sonuç mesajını gönderir.
     Döner: gönderilen mesaj sayısı."""
     from src import telegram
     log = load_log()
@@ -194,17 +208,11 @@ def run(send: bool = True, today: str | None = None) -> int:
     state_path = config.TAVSIYE_DIR / "telegram_durum.json"
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
     done_days = set(state.get("sonuc_gonderilen", []))
-    today = pd.Timestamp(today or telegram._tr_now().strftime("%Y-%m-%d"))
+    now_tr = now_tr if now_tr is not None else pd.Timestamp(telegram._tr_now().replace(tzinfo=None))
     won = _won(log)
     sent = 0
-    for day, g in log.groupby("gün"):
-        d = pd.Timestamp(day)
-        if day in done_days or d >= today:
-            continue
-        complete = won[g.index].notna().all()
-        if not complete and (today - d).days < BEKLEME_GUN:
-            continue  # sonuçlar henüz gelmedi; bekle
-        msg = day_message(day, g, log)
+    for day in due_days(log, done_days, now_tr):
+        msg = day_message(day, log[log["gün"] == day], log)
         if not send:
             print(msg)
             continue

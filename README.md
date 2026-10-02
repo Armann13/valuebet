@@ -124,10 +124,11 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 - Telegram'da gönderilen her tahmin, gönderildiği andaki olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye
   kaydedilir (aynı maç ve tahmin bir kez).
 - Sonuçlar geldikçe (kulüp maçları football-data'dan 1-3 gün içinde; milli maçlar ESPN'den birkaç saat içinde)
-  kayıtlar ✅ / ❌ ile kapanır. Bir günün tüm tahminleri sonuçlanınca o günün **📊 Sonuçlar** mesajı Telegram'a
-  gider: seviye bazında isabet, beklenen isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek
-  başına 1 birim), tek tek tahminler ve başlangıçtan beri toplam. 3 gün içinde sonucu gelmeyenler (ör. ESPN'de
-  olmayan bir turnuva) "sonuç yok" olarak geçer; sonradan gelirse toplamlara yine eklenir.
+  kayıtlar ✅ / ❌ ile kapanır. Bir günün **📊 Sonuçlar** mesajı tüm tahminleri sonuçlanınca, en geç ertesi sabah
+  (09:00'dan sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: seviye bazında isabet, beklenen
+  isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek başına 1 birim), tek tek tahminler ve
+  başlangıçtan beri toplam. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;
+  sonradan gelirse toplamlara eklenir.
 - Tüm zamanların özeti (paylaşılabilir): `tavsiyeler/sonuclar.md`. Elle: `python main.py sonuc --gonderme`.
 
 ### Milli takımlar

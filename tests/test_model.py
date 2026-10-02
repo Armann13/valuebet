@@ -485,6 +485,12 @@ def test_sonuclar():
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
     md = sonuclar.summary_md(log)
     assert "## Tüm zamanlar" in md and "⏳" in md
+    # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 09:00'dan sonra (eksikler ⏳)
+    due = lambda t: sonuclar.due_days(log, set(), pd.Timestamp(t))  # noqa: E731
+    assert due("2026-10-02 12:00") == ["2026-10-01"]       # 01.10 tamam; 02.10 henüz bugün
+    assert due("2026-10-03 08:00") == ["2026-10-01"]       # 02.10'da Galler maçı eksik, sabah 09:00 olmadı
+    assert due("2026-10-03 09:30") == ["2026-10-01", "2026-10-02"]
+    assert sonuclar.due_days(log, {"2026-10-01"}, pd.Timestamp("2026-10-03 09:30")) == ["2026-10-02"]
 
 
 def test_xg_fit():
