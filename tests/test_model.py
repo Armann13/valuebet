@@ -447,6 +447,26 @@ def test_telegram_messages():
     assert "Günün tavsiyeleri" in msgs[0]
 
 
+def test_analiz():
+    """Maç analizi: İddaa detayından market adları ve skor tablosundan olasılıklar."""
+    from src.analiz import corner_probs, detail_markets, goal_probs
+    from tests.make_synthetic import dc_matrix
+    detail = {"m": [{"t": 1, "st": 1, "o": [{"n": "1", "odd": 1.5}, {"n": "0", "odd": 4.0}, {"n": "2", "odd": 5.0}]},
+                    {"t": 2, "st": 92, "o": [{"n": "1 ve 0", "odd": 1.1}, {"n": "0 ve 2", "odd": 2.1}]},
+                    {"t": 2, "st": 101, "sov": "2.5", "o": [{"n": "Alt", "odd": 2.2}, {"n": "Üst", "odd": 1.6}]},
+                    {"t": 2, "st": 7, "sov": "2.5", "o": [{"n": "1 ve Üst", "odd": 2.0}, {"n": "0 ve Alt", "odd": 6.0}]},
+                    {"t": 2, "st": 698, "o": [{"n": "1 ve Var", "odd": 2.8}]},
+                    {"t": 2, "st": 48, "sov": "7.5", "o": [{"n": "Alt", "odd": 2.6}, {"n": "Üst", "odd": 1.28}]}]}
+    odds = detail_markets(detail)
+    assert odds["MS X"] == 4.0 and odds["ÇŞ 1-X"] == 1.1 and odds["2.5 Üst"] == 1.6
+    assert odds["MS 1 & 2.5 Üst"] == 2.0 and odds["MS X & 2.5 Alt"] == 6.0 and odds["MS 1 & KG Var"] == 2.8
+    assert odds["Korner 7.5 Üst"] == 1.28
+    p = goal_probs(dc_matrix(1.6, 1.0), list(odds) + ["2.5 Alt"])
+    assert abs(p["2.5 Üst"] + p["2.5 Alt"] - 1) < 1e-9 and p["MS 1 & 2.5 Üst"] < p["MS 1"] < p["ÇŞ 1-X"]
+    c = corner_probs(odds, None)  # milli: İddaa'nın marjsız oranı
+    assert abs(c["Korner 7.5 Üst"] + c["Korner 7.5 Alt"] - 1) < 1e-9 and c["Korner 7.5 Üst"] > 0.6
+
+
 def test_korner():
     """Korner modeli: rho 0, dağılım tutarlılığı, bahis sonuçları; İddaa korner marketleri."""
     from src import korner

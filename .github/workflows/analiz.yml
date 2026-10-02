@@ -1,0 +1,43 @@
+# Elle çalıştırılan maç analizi: seçilen saatteki maçlar için tüm marketler (MS, çifte şans, alt/üst, KG,
+# MS + toplam gol, MS + KG, korner) olasılık ve İddaa oranıyla; Telegram'a gönderilir.
+# GitHub -> Actions -> "Maç analizi" -> Run workflow -> saat (ör. 21:45) gir.
+name: Maç analizi
+
+on:
+  workflow_dispatch:
+    inputs:
+      saat:
+        description: "Maçların başlama saati (TR), ör. 21:45"
+        required: true
+        default: "21:45"
+      gun:
+        description: "Tarih YYYY-AA-GG (boş = bugün)"
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  analiz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Bağımlılık
+        run: pip install -r requirements.txt
+
+      - name: Veritabanı (takım adı eşleştirme ve kulüp modelleri için)
+        run: python main.py build
+
+      - name: Analiz ve Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py analiz --saat "${{ inputs.saat }}" ${{ inputs.gun && format('--gun {0}', inputs.gun) || '' }} --telegram

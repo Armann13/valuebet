@@ -183,6 +183,16 @@ def cmd_telegram(args):
         telegram.notify(force=args.ozet)
 
 
+def cmd_analiz(args):
+    from src import analiz, telegram
+    parts = analiz.run(args.saat, args.gun)
+    print("\n\n".join(parts))
+    if args.telegram:
+        ok = telegram.send("\n\n".join(parts))
+        print("  telegram: analiz gönderildi" if ok else "  telegram: gönderilemedi")
+        return ok
+
+
 def cmd_korner(args):
     from src import korner
     md = korner.run()
@@ -296,7 +306,7 @@ def main():
 
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
-                     ("milli", cmd_milli), ("sonuc", cmd_sonuc), ("korner", cmd_korner),
+                     ("milli", cmd_milli), ("sonuc", cmd_sonuc), ("korner", cmd_korner), ("analiz", cmd_analiz),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -323,6 +333,10 @@ def main():
                             help="seçim ölçütü: 1X2, Ü/A ya da ikisinin toplamı log loss")
         if name == "diagnose":
             sp.add_argument("--base", help="kıyas için baz tahminlerin klasörü (içinde backtest_preds_*.csv)")
+        if name == "analiz":
+            sp.add_argument("--saat", required=True, help="başlama saati (TR), ör. 21:45")
+            sp.add_argument("--gun", help="tarih YYYY-AA-GG (varsayılan bugün)")
+            sp.add_argument("--telegram", action="store_true", help="Telegram'a da gönder")
         if name == "sonuc":
             sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
         if name == "milli":  # milli takım modeli; ayarları config.MILLI_* (--xi / --ridge burada kullanılmaz)
