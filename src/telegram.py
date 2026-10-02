@@ -18,6 +18,7 @@ import pandas as pd
 import requests
 
 import config
+from src import korner
 from src.tavsiye import is_ladder
 
 API = "https://api.telegram.org/bot{token}/{method}"
@@ -30,7 +31,7 @@ BASLIK = {  # simge -> (başlık, açıklama)
     "🔴": ("TIER 3", "yüksek risk"), "⚡": ("TIER 4", "kesin skor"), "🔥": ("TIER 5", "kesin skor · yukarıdaki maçlar"),
     "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", "")}
-KORNER_LIMIT = 6
+KORNER_LIMIT = 3   # Tier 1-3'te gol tahminlerine ek en fazla bu kadar korner tahmini
 CIZGI = "━━━━━━━━━━━━━━━"
 
 
@@ -128,7 +129,7 @@ def _system_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
 
 
 def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
-    """Tek mesaj: 💎, Tier 1-3 (İY/MS dahil, merdivenle), Tier 4-5 kesin skor, korner, sistem kupon. Sadece
+    """Tek mesaj: 💎, Tier 1-3 (İY/MS ve korner dahil, merdivenle), Tier 4-5 kesin skor, sistem kupon. Sadece
     İddaa'da oynanabilen (oranı olan) tahminler."""
     out = [header, "<i>🕘 saat · maç   ➜ tahmin · İddaa oranı</i>"]
     v = _playable(soon[soon["seviye"].str.startswith("💎")])
@@ -136,19 +137,19 @@ def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -
     log += v.to_dict("records")
     shown = {}  # seviye simgesi -> mesajda geçen maçlar
     for icon, n in TIER_LIMIT.items():
-        t = _playable(soon[soon["seviye"].str.startswith(icon)]).head(n)  # en olası n tahmin, saat sırasıyla
+        t = _playable(soon[soon["seviye"].str.startswith(icon)])
+        corner = t["tahmin"].map(korner.is_corner_bet).astype(bool)  # boşken de bool maske olsun
+        t = pd.concat([t[~corner].head(n), t[corner].head(KORNER_LIMIT)])  # gol + korner, saat sırasıyla gösterilir
         shown[icon] = set(t["maç"])
         log += t.to_dict("records")
         if not t.empty:
             out += _section(icon, t, now_tr)
     # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
     above = shown["🟢"] | shown["🟡"] | shown["🔴"]
-    for icon, rows in [("🔥", soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])]),
-                       ("🚩", soon[soon["seviye"].str.startswith("🚩")])]:
-        rows = _playable(rows).head({"🚩": KORNER_LIMIT}.get(icon, 99))
-        log += rows.to_dict("records")
-        if not rows.empty:
-            out += _section(icon, rows, now_tr)
+    t5 = _playable(soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])])
+    log += t5.to_dict("records")
+    if not t5.empty:
+        out += _section("🔥", t5, now_tr)
     out += _system_lines(soon, now_tr, log)
     out += ["", CIZGI, "<i>↳ = bir üst seviyedeki tahminin aynı maçta devamı (bu tutarsa üstteki de tutar)</i>",
             f'<a href="{RAPOR_LINKI}">Tam rapor</a>']

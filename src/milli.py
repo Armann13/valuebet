@@ -131,6 +131,7 @@ ESPN_LEAGUES = {
     "concacaf.gold": "Gold Cup", "caf.nations": "African Cup of Nations", "afc.asian.cup": "AFC Asian Cup",
     "aff.championship": "AFF Championship",
 }
+ESPN_STATS = {"wonCorners": "corners", "foulsCommitted": "fouls", "shotsOnTarget": "sot", "totalShots": "shots"}
 ESPN_FINALS = {"fifa.world", "uefa.euro", "conmebol.america", "concacaf.gold", "caf.nations", "afc.asian.cup",
                "aff.championship"}   # büyük turnuva: maçlar tarafsız sahada sayılır (ESPN saha bilgisi vermiyor)
 # ESPN'deki ad -> veri setindeki ad (aynı olanlar gerekmez)
@@ -185,11 +186,17 @@ def parse_espn(data: dict, league: str, resolve) -> tuple[list, set]:
             ht = {k: int(float(c["linescores"][0]["value"])) for k, c in side.items()}
         except (KeyError, IndexError, TypeError, ValueError):
             ht = {"home": None, "away": None}
+        stats = {}  # korner, faul, isabetli şut, şut (korner bahislerinin sonucu ve ileride model için)
+        for k, c in side.items():
+            st_ = {s.get("name"): s.get("displayValue") for s in c.get("statistics", [])}
+            for name, col in ESPN_STATS.items():
+                v = pd.to_numeric(st_.get(name), errors="coerce")
+                stats[f"{k}_{col}"] = int(v) if pd.notna(v) else None
         rows.append({"date": e["date"][:10], "home_team": names["home"], "away_team": names["away"],
                      "home_score": int(score["home"]), "away_score": int(score["away"]),
                      "tournament": ESPN_LEAGUES[league], "city": "", "country": "",
                      "neutral": "TRUE" if league in ESPN_FINALS else "FALSE",
-                     "home_ht": ht["home"], "away_ht": ht["away"]})
+                     "home_ht": ht["home"], "away_ht": ht["away"], **stats})
     return rows, unknown
 
 
@@ -283,9 +290,11 @@ def load_results(path=None, since: str = "2008-01-01") -> pd.DataFrame:
                        "away": r["away_team"], "fthg": r["home_score"].astype(int),
                        "ftag": r["away_score"].astype(int), "tournament": r["tournament"],
                        "neutral": r["neutral"].astype(str).str.upper().eq("TRUE"),
-                       # ilk yarı skoru (sadece ESPN'den gelen maçlarda)
+                       # ilk yarı skoru ve korner sayısı (sadece ESPN'den gelen maçlarda)
                        "hthg": pd.to_numeric(r["home_ht"], errors="coerce") if "home_ht" in r else np.nan,
-                       "htag": pd.to_numeric(r["away_ht"], errors="coerce") if "away_ht" in r else np.nan})
+                       "htag": pd.to_numeric(r["away_ht"], errors="coerce") if "away_ht" in r else np.nan,
+                       "hc": pd.to_numeric(r["home_corners"], errors="coerce") if "home_corners" in r else np.nan,
+                       "ac": pd.to_numeric(r["away_corners"], errors="coerce") if "away_corners" in r else np.nan})
     df["friendly"] = df["tournament"].isin(FRIENDLY_LIKE)
     return df.sort_values("date", kind="stable").reset_index(drop=True)
 

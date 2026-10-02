@@ -24,8 +24,8 @@ from src.tavsiye import bet_won
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
             "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag"]  # hk/ak korner, ihg/iag ilk yarı
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"),
-             ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner"), ("🎫", "Kupon ayakları"), ("🎰", "Sistem ayakları"),
-             ("💎", "💎 Değerli")]
+             ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
+             ("🎰", "Sistem ayakları"), ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
 AYRI = ("💎", "🎫", "🎰")   # bu bölümlerdeki tahmin, aynı tahmin başka seviyede de gönderildiyse ayrıca sayılır
 RAPOR_SAATI = 9          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
@@ -164,8 +164,9 @@ def stats(df: pd.DataFrame) -> list[dict]:
     """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı)."""
     out = []
     won = _won(df)
+    corner = df["tahmin"].map(korner.is_corner_bet).astype(bool)
     for icon, name in SEVIYELER:
-        sel = df["seviye"].str.startswith(icon)
+        sel = corner if icon == "🚩" else df["seviye"].str.startswith(icon)
         done = sel & won.notna()
         if not sel.any():
             continue

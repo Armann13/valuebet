@@ -37,7 +37,9 @@ ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
 CORNER_COLS = ["kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
 SCORE_COL = "odd_skor"   # kesin skor oranları (metin; bkz. modül açıklaması)
-DETAIL_COLS = [SCORE_COL] + CORNER_COLS   # maç detayından gelenler
+KOR_LINES_COL = "odd_kor_hatlar"   # tüm toplam korner barajları: "7.5=2.6/1.28;8.5=1.95/1.54" (alt / üst, - = kapalı)
+TEXT_COLS = [SCORE_COL, KOR_LINES_COL]
+DETAIL_COLS = TEXT_COLS + CORNER_COLS   # maç detayından gelenler
 NO_SCORES = "yok"
 EVENT_KEY = "event_id"
 
@@ -167,19 +169,38 @@ def score_odds(s) -> dict | None:
 
 
 def parse_corners(detail: dict) -> dict:
-    """Maç detayından korner oranları: toplam alt / üst (birden çok baraj varsa en dengeli olanı) ve en çok korner."""
-    out = dict.fromkeys(CORNER_COLS, np.nan)
-    best = None
+    """Maç detayından korner oranları: tüm toplam alt / üst barajları (KOR_LINES_COL metni), en dengeli baraj ayrıca
+    (kor_line, odd_kor_alt / ust) ve en çok korner."""
+    out = {**dict.fromkeys(CORNER_COLS, np.nan), KOR_LINES_COL: np.nan}
+    best, lines = None, {}
     for m in detail.get("m", []):
         o = {x.get("n"): _odd(x.get("odd")) for x in m.get("o", [])}
         if m.get("t") == 2 and m.get("st") == 48 and np.isfinite(_line(m)):
             alt, ust = o.get("Alt", np.nan), o.get("Üst", np.nan)
+            lines[_line(m)] = (alt, ust)
             gap = abs(alt - ust) if np.isfinite(alt) and np.isfinite(ust) else np.inf
             if best is None or gap < best:
                 best = gap
                 out.update(kor_line=_line(m), odd_kor_alt=alt, odd_kor_ust=ust)
         elif m.get("t") == 2 and m.get("st") == 52:
             out.update(odd_kor_1=o.get("1", np.nan), odd_kor_x=o.get("0", np.nan), odd_kor_2=o.get("2", np.nan))
+    if lines:
+        f = lambda v: f"{v:g}" if np.isfinite(v) else "-"  # noqa: E731
+        out[KOR_LINES_COL] = ";".join(f"{line:g}={f(a)}/{f(u)}" for line, (a, u) in sorted(lines.items()))
+    return out
+
+
+def corner_lines(s, row: dict | None = None) -> dict:
+    """KOR_LINES_COL metni -> {baraj: (alt oranı, üst oranı)} (kapalı = NaN). Metin yoksa (eski kayıt) row'daki tek
+    barajdan."""
+    out = {}
+    if isinstance(s, str) and s:
+        for part in s.split(";"):
+            line, _, pair = part.partition("=")
+            a, _, u = pair.partition("/")
+            out[float(line)] = tuple(float(x) if x not in ("-", "") else np.nan for x in (a, u))
+    elif row is not None and pd.notna(row.get("kor_line")):
+        out[float(row["kor_line"])] = (row.get("odd_kor_alt", np.nan), row.get("odd_kor_ust", np.nan))
     return out
 
 
@@ -292,9 +313,8 @@ def collect() -> int:
                     row.update({c: before.get(c, np.nan) for c in DETAIL_COLS})
                 prev = before.reindex(ODD_COLS).astype(float).to_numpy()  # eski dosyada sütun eksik olabilir
                 cur = np.array([row[c] for c in ODD_COLS], dtype=float)
-                prev_s = before.get(SCORE_COL)
-                same_scores = row[SCORE_COL] == prev_s or not isinstance(row[SCORE_COL], str)
-                if np.allclose(prev, cur, equal_nan=True) and same_scores:
+                same_text = all(row[c] == before.get(c) or not isinstance(row[c], str) for c in TEXT_COLS)
+                if np.allclose(prev, cur, equal_nan=True) and same_text:
                     continue
             row.pop("detay_ok")
             keep.append(row)

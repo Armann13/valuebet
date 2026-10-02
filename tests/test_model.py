@@ -540,6 +540,21 @@ def test_korner():
     c = parse_corners(detail)
     assert (c["kor_line"], c["odd_kor_alt"], c["odd_kor_ust"]) == (10.5, 1.5, 2.4)  # en dengeli baraj
     assert (c["odd_kor_1"], c["odd_kor_x"], c["odd_kor_2"]) == (1.65, 7.28, 2.32)
+    from src.iddaa import KOR_LINES_COL, corner_lines
+    assert c[KOR_LINES_COL] == "10.5=1.5/2.4;11.5=1.16/3.33"  # tüm barajlar
+    assert corner_lines("7.5=-/1.28;8.5=1.95/1.54")[8.5] == (1.95, 1.54) and np.isnan(corner_lines("7.5=-/1.28")[7.5][0])
+    assert corner_lines(float("nan"), {"kor_line": 9.5, "odd_kor_alt": 1.8, "odd_kor_ust": 1.9}) == {9.5: (1.8, 1.9)}
+    # Tier listesinde korner: milli maçta İddaa'nın marjsız oranı, kulüpte model; merdiven 7.5 Üst -> 8.5 Üst
+    from src.tavsiye import _corner_cands, _corner_narrower
+    row = {KOR_LINES_COL: "7.5=2.6/1.28;8.5=1.95/1.54", "odd_kor_1": 1.33, "odd_kor_x": 7.28, "odd_kor_2": 3.39,
+           "home": "T00", "away": "T01", "div": "SP1"}
+    nat = {x["tahmin"]: x for x in _corner_cands(row, {"maç": "A – B"}, None)}
+    assert abs(nat["Korner 7.5 Üst"]["p"] + nat["Korner 7.5 Alt"]["p"] - 1) < 1e-9 and nat["Korner 7.5 Üst"]["p"] > 0.6
+    assert nat["Korner 7.5 Üst"]["kaynak"] == "oran" and nat["En çok korner 1"]["odd"] == 1.33
+    club = {x["tahmin"]: x for x in _corner_cands(row, {"maç": "A – B"}, m)}
+    assert club["Korner 8.5 Üst"]["kaynak"] == "korner" and club["Korner 8.5 Üst"]["p"] < club["Korner 7.5 Üst"]["p"]
+    assert _corner_narrower("Korner 8.5 Üst", "Korner 7.5 Üst") and not _corner_narrower("Korner 7.5 Üst", "Korner 8.5 Üst")
+    assert _corner_narrower("Korner 8.5 Alt", "Korner 9.5 Alt") and not _corner_narrower("Korner 8.5 Alt", "Korner 7.5 Üst")
 
 
 def test_sonuclar():
@@ -582,7 +597,7 @@ def test_sonuclar():
     assert np.isnan(log["hg"].iloc[3])  # Galler maçının sonucu henüz yok (eski karşılaşma tarih tutmuyor)
     assert (log["hk"].iloc[4], log["ak"].iloc[4]) == (7, 4)  # korner: 11 > 9.5
     s = {x["icon"]: x for x in sonuclar.stats(log)}
-    assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)
+    assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)  # 🚩: bahis türü
     assert s["🔀"]["tutan"] == 1 and s["🎫"]["tutan"] == 1  # İY 0-0, MS 1-1: X/X tuttu
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert "korner 7-4" in msg and "İY 0-0, MS 1-1" in msg and "🎫 Kupon (1 maç, oran 1.25): ✅ tuttu" in msg, msg
@@ -770,9 +785,11 @@ def test_end_to_end():
     nat5 = t5.loc[t5["maç"] == "İspanya – Çekya", "odd"]
     assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan
     assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
-    kor = picks[picks["seviye"].str.startswith("🚩")]  # korner: kulüp maçında İddaa korner oranıyla
-    assert (kor["maç"] == f"{up['HomeTeam']} – {up['AwayTeam']}").any() and (kor["odd"] >= 1.3).all(), kor
-    assert "Korner — kulüp maçları" in son
+    from src import korner as kmod
+    kor = picks[picks["tahmin"].map(kmod.is_corner_bet)]  # korner Tier 1-3'te, İddaa korner oranıyla
+    assert (kor["maç"] == f"{up['HomeTeam']} – {up['AwayTeam']}").any() and kor["seviye"].str[0].isin(
+        ["🟢", "🟡", "🔴"]).all(), kor[["seviye", "tahmin", "odd"]]
+    assert "korner modeli" in son
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     day9 = f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d}"  # milli maç 18:45 UTC = 21:45 TR

@@ -168,7 +168,6 @@ KORNER_XI = 0.0019
 KORNER_RIDGE = 8.0
 KORNER_RIDGE_TOTAL = 64.0
 KORNER_DISPERSIYON = 10.0   # negatif binom k: varyans = ort + ort² / k (0 = Poisson); alt/üst 12, 1X2 8'de en iyi
-KORNER_MIN_ODDS = 1.30      # bu oranın altındaki korner bahsi önerilmez
 
 # ---------------------------------------------------------------- Backtest / value
 EVAL_FROM_SEASON = 2016   # 1X2 kapanışı 2014'ten, Ü/A kapanışı 2019'dan var; 2 sezon eğitim geçmişi bırakılır
