@@ -1,30 +1,54 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 02.10.2026 09:55. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 02.10.2026 17:57. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 12 | 2 | 2 | %100 | %87 | +0.21 | %11 |
-| 🟡 Tier 2 | 15 | 2 | 2 | %100 | %68 | +0.73 | %37 |
-| 🔴 Tier 3 | 9 | 3 | 2 | %67 | %43 | +1.69 | %56 |
-| ⚡ Tier 4 | 7 | 1 | 0 | %0 | %21 | -1.00 | %-100 |
-| 🔥 Tier 5 | 14 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
-| 🚩 Korner | 3 | 0 | 0 | — | — | — | — |
+| 🟢 Tier 1 | 17 | 2 | 2 | %100 | %87 | +0.21 | %11 |
+| 🟡 Tier 2 | 18 | 2 | 2 | %100 | %68 | +0.73 | %37 |
+| 🔴 Tier 3 | 15 | 3 | 2 | %67 | %43 | +1.69 | %56 |
+| ⚡ Tier 4 | 7 | 3 | 0 | %0 | %18 | -3.00 | %-100 |
+| 🔥 Tier 5 | 16 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
+| 🚩 Korner (tüm seviyeler) | 15 | 0 | 0 | — | — | — | — |
+| 🎰 Sistem ayakları | 7 | 0 | 0 | — | — | — | — |
 
 ## Gün gün
 
 | gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
-| 02.10.2026 | 22 | 1 | 1 | %100 | %68 | +0.37 |
+| 02.10.2026 | 45 | 3 | 1 | %33 | %34 | -1.63 |
 | 03.10.2026 | 28 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 02.10 | 🎰 | Macaristan – Gürcistan | En çok korner 1 | %59 | 1.54 | — | ⏳ |
+| 02.10 | 🎰 | Ukrayna – Kuzey İrlanda | Korner 9.5 Alt | %nan | 1.44 | — | ⏳ |
+| 02.10 | 🎰 | Polonya – Romanya | MS 1 | %63 | 1.49 | — | ⏳ |
+| 02.10 | 🎰 | Bosna Hersek – İsveç | Korner 9.5 Alt | %64 | 1.41 | — | ⏳ |
+| 02.10 | 🎰 | Belçika – Türkiye | MS 1 | %65 | 1.46 | — | ⏳ |
+| 02.10 | 🎰 | Faroe Adaları – Slovakya | MS 2 | %67 | 1.43 | — | ⏳ |
+| 02.10 | 🎰 | Fransa – İtalya | MS 1 | %71 | 1.35 | — | ⏳ |
+| 02.10 | 🔥 | Bosna Hersek – İsveç | 1-2 | %8 | 8.57 | — | ⏳ |
+| 02.10 | 🔥 | Macaristan – Gürcistan | 1-0 | %12 | 6.07 | — | ⏳ |
+| 02.10 | 🔴 | Belçika – Türkiye | Korner 9.5 Üst | %49 | 1.92 | — | ⏳ |
+| 02.10 | 🔴 | Ukrayna – Kuzey İrlanda | Korner 8.5 Alt | %nan | 1.77 | — | ⏳ |
+| 02.10 | 🔴 | Bosna Hersek – İsveç | Korner 8.5 Alt | %50 | 1.72 | — | ⏳ |
+| 02.10 | 🔴 | Faroe Adaları – Slovakya | İY/MS 2/2 | %40 | 2.09 | — | ⏳ |
+| 02.10 | 🔴 | Macaristan – Gürcistan | MS 1 | %43 | 2.09 | — | ⏳ |
+| 02.10 | 🔴 | Belçika – Türkiye | MS 1 & 2.5 Üst | %50 | 1.90 | — | ⏳ |
+| 02.10 | 🟡 | Polonya – Romanya | Korner 9.5 Alt | %60 | 1.49 | — | ⏳ |
+| 02.10 | 🟡 | Ukrayna – Kuzey İrlanda | Korner 9.5 Alt | %nan | 1.44 | — | ⏳ |
+| 02.10 | 🟡 | Bosna Hersek – İsveç | Korner 9.5 Alt | %64 | 1.41 | — | ⏳ |
+| 02.10 | 🟢 | Ukrayna – Kuzey İrlanda | Korner 10.5 Alt | %75 | 1.24 | — | ⏳ |
+| 02.10 | 🟢 | Bosna Hersek – İsveç | Korner 10.5 Alt | %77 | 1.21 | — | ⏳ |
+| 02.10 | 🟢 | Fransa – İtalya | En çok korner 1 | %76 | 1.21 | — | ⏳ |
+| 02.10 | 🟢 | Ukrayna – Kuzey İrlanda | ÇŞ 1-2 | %71 | 1.26 | — | ⏳ |
+| 02.10 | 🟢 | Macaristan – Gürcistan | ÇŞ 1-2 | %71 | 1.26 | — | ⏳ |
 | 03.10 | 🚩 | Cadiz – Leganes | Korner 9.5 Alt | %59 | 1.60 | — | ⏳ |
 | 03.10 | 🚩 | Albacete – Eibar | En çok korner 1 | %60 | 1.69 | — | ⏳ |
 | 03.10 | 🚩 | Almeria – CF Burgos | En çok korner 1 | %65 | 1.31 | — | ⏳ |
@@ -66,12 +90,12 @@ Son güncelleme: 02.10.2026 09:55. Sadece Telegram'da gönderilen tahminler (ilk
 | 03.10 | 🟢 | G. Morton – Raith Rovers | ÇŞ X-2 | %85 | 1.06 | — | ⏳ |
 | 03.10 | 🟢 | Livingston – Ayr United | ÇŞ 1-X | %85 | 1.06 | — | ⏳ |
 | 02.10 | 🟢 | Fransa – İtalya | ÇŞ 1-X | %87 | 1.06 | — | ⏳ |
-| 02.10 | ⚡ | Letonya – Karadağ | 0-1 | %16 | 5.09 | — | ⏳ |
+| 02.10 | ⚡ | Letonya – Karadağ | 0-1 | %16 | 5.09 | 1-2 | ❌ |
 | 02.10 | 🟡 | Tayland – Filipinler | MS 1 | %67 | 1.39 | — | ⏳ |
 | 01.10 | 🟡 | Curaçao – Trinidad ve Tobago | MS 1 | %69 | 1.36 | 1-0 | ✅ |
 | 01.10 | 🔥 | Danimarka – Portekiz | 1-2 | %13 | 7.80 | 2-4 | ❌ |
 | 01.10 | 🔥 | Almanya – Sırbistan | 2-1 | %14 | 8.82 | 2-0 | ❌ |
-| 02.10 | ⚡ | Güney Kore – Venezuela | 1-0 | %16 | 4.50 | — | ⏳ |
+| 02.10 | ⚡ | Güney Kore – Venezuela | 1-0 | %16 | 4.50 | 0-0 | ❌ |
 | 01.10 | ⚡ | Japonya – Ekvador | 2-1 | %16 | 6.52 | — | ⏳ |
 | 02.10 | ⚡ | Faroe Adaları – Slovakya | 0-1 | %19 | 4.51 | — | ⏳ |
 | 01.10 | ⚡ | Malta – Cebelitarık | 1-0 | %21 | 4.16 | 1-1 | ❌ |
