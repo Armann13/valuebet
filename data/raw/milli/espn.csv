@@ -22,10 +22,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2026-09-21,Dominica,Anguilla,1,0,Friendly,,,FALSE,,,,,,,,,,
 2026-09-23,Azerbaijan,Tajikistan,1,0,Friendly,,,FALSE,,,,,,,,,,
 2026-09-23,Gibraltar,São Tomé and Príncipe,0,0,Friendly,,,FALSE,,,,,,,,,,
-2026-09-23,Turks and Caicos Islands,Montserrat,0,2,CONCACAF Nations League,,,FALSE,,,2.0,12.0,0.0,2.0,3.0,11.0,4.0,13.0
-2026-09-23,Aruba,Antigua and Barbuda,1,0,CONCACAF Nations League,,,FALSE,,,8.0,19.0,5.0,13.0,3.0,14.0,2.0,9.0
 2026-09-23,Bahamas,Saint Martin,0,8,CONCACAF Nations League,,,FALSE,,,1.0,4.0,0.0,2.0,12.0,8.0,14.0,29.0
-2026-09-24,Solomon Islands,Vanuatu,3,3,Friendly,,,FALSE,,,,,,,,,,
+2026-09-23,Aruba,Antigua and Barbuda,1,0,CONCACAF Nations League,,,FALSE,,,8.0,19.0,5.0,13.0,3.0,14.0,2.0,9.0
+2026-09-23,Turks and Caicos Islands,Montserrat,0,2,CONCACAF Nations League,,,FALSE,,,2.0,12.0,0.0,2.0,3.0,11.0,4.0,13.0
+2026-09-24,Serbia,Greece,1,2,UEFA Nations League,,,FALSE,,,2.0,11.0,4.0,9.0,6.0,7.0,9.0,26.0
 2026-09-24,Cameroon,Comoros,3,1,African Cup of Nations qualification,,,FALSE,,,9.0,12.0,4.0,24.0,3.0,5.0,3.0,7.0
 2026-09-24,Mauritania,Central African Republic,3,1,African Cup of Nations qualification,,,FALSE,,,3.0,10.0,8.0,19.0,4.0,21.0,5.0,14.0
 2026-09-24,Libya,Botswana,2,2,African Cup of Nations qualification,,,FALSE,,,9.0,7.0,7.0,24.0,4.0,13.0,3.0,6.0
@@ -39,27 +39,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2026-09-24,Norway,Denmark,3,2,UEFA Nations League,,,FALSE,,,4.0,14.0,7.0,13.0,8.0,10.0,7.0,13.0
 2026-09-24,Portugal,Wales,1,0,UEFA Nations League,,,FALSE,,,10.0,12.0,5.0,23.0,2.0,10.0,1.0,5.0
 2026-09-24,Puerto Rico,Guyana,0,1,CONCACAF Nations League,,,FALSE,,,1.0,18.0,1.0,9.0,3.0,15.0,3.0,11.0
-2026-09-24,Sierra Leone,Zimbabwe,2,3,African Cup of Nations qualification,,,FALSE,,,2.0,13.0,3.0,9.0,4.0,12.0,4.0,16.0
+2026-09-24,Solomon Islands,Vanuatu,3,3,Friendly,,,FALSE,,,,,,,,,,
 2026-09-24,Palestine,New Zealand,2,2,Friendly,,,FALSE,,,,,,,,,,
 2026-09-24,Japan,Uruguay,3,1,Friendly,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-24,South Korea,Ecuador,3,0,Friendly,,,FALSE,,,2.0,16.0,5.0,11.0,5.0,21.0,3.0,10.0
 2026-09-24,China,Maldives,3,0,Friendly,,,FALSE,,,15.0,5.0,10.0,24.0,0.0,3.0,0.0,0.0
 2026-09-24,Uzbekistan,Iran,3,1,Friendly,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-24,Tunisia,Uganda,1,1,African Cup of Nations qualification,,,FALSE,,,6.0,18.0,4.0,13.0,5.0,12.0,3.0,9.0
-2026-09-24,Serbia,Greece,1,2,UEFA Nations League,,,FALSE,,,2.0,11.0,4.0,9.0,6.0,7.0,9.0,26.0
 2026-09-24,Ivory Coast,Ghana,2,0,African Cup of Nations qualification,,,FALSE,,,6.0,17.0,3.0,12.0,1.0,16.0,2.0,11.0
 2026-09-24,Papua New Guinea,New Caledonia,1,2,Friendly,,,FALSE,,,,,,,,,,
+2026-09-24,Sierra Leone,Zimbabwe,2,3,African Cup of Nations qualification,,,FALSE,,,2.0,13.0,3.0,9.0,4.0,12.0,4.0,16.0
 2026-09-25,Mozambique,Senegal,1,1,African Cup of Nations qualification,,,FALSE,,,1.0,11.0,2.0,7.0,10.0,25.0,5.0,14.0
 2026-09-25,Sudan,Ethiopia,1,0,African Cup of Nations qualification,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-25,Tanzania,Guinea-Bissau,0,2,African Cup of Nations qualification,,,FALSE,,,3.0,9.0,4.0,20.0,0.0,21.0,2.0,10.0
-2026-09-25,Cayman Islands,Dominica,0,0,CONCACAF Nations League,,,FALSE,,,4.0,18.0,2.0,8.0,12.0,19.0,5.0,20.0
+2026-09-25,Dominican Republic,Nicaragua,3,2,CONCACAF Nations League,,,FALSE,,,1.0,13.0,9.0,27.0,2.0,15.0,4.0,9.0
 2026-09-25,Gambia,Somalia,2,1,African Cup of Nations qualification,,,FALSE,,,1.0,16.0,4.0,11.0,3.0,13.0,1.0,6.0
 2026-09-25,Grenada,Cuba,0,3,CONCACAF Nations League,,,FALSE,,,3.0,9.0,1.0,10.0,9.0,16.0,9.0,20.0
 2026-09-25,India,Panama,1,1,Friendly,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-25,Malawi,South Sudan,2,1,African Cup of Nations qualification,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-25,Bermuda,Guadeloupe,1,2,CONCACAF Nations League,,,FALSE,,,4.0,12.0,4.0,12.0,7.0,22.0,11.0,21.0
 2026-09-25,Costa Rica,Curaçao,3,4,CONCACAF Nations League,,,FALSE,,,0.0,12.0,4.0,10.0,2.0,11.0,5.0,12.0
-2026-09-25,Dominican Republic,Nicaragua,3,2,CONCACAF Nations League,,,FALSE,,,1.0,13.0,9.0,27.0,2.0,15.0,4.0,9.0
+2026-09-25,Haiti,Trinidad and Tobago,3,2,CONCACAF Nations League,,,FALSE,,,6.0,11.0,8.0,21.0,3.0,14.0,5.0,11.0
 2026-09-25,Australia,Brazil,1,1,Friendly,,,FALSE,,,9.0,7.0,2.0,7.0,8.0,8.0,5.0,16.0
 2026-09-25,Nigeria,Madagascar,2,1,African Cup of Nations qualification,,,FALSE,,,5.0,14.0,4.0,22.0,2.0,9.0,1.0,4.0
 2026-09-25,Niger,Lesotho,2,1,African Cup of Nations qualification,,,FALSE,,,1.0,15.0,5.0,8.0,5.0,20.0,4.0,14.0
@@ -73,7 +73,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2026-09-25,Sweden,Romania,2,1,UEFA Nations League,,,FALSE,,,3.0,6.0,4.0,11.0,0.0,17.0,1.0,10.0
 2026-09-25,Turkey,France,0,1,UEFA Nations League,,,FALSE,,,5.0,14.0,3.0,12.0,3.0,15.0,4.0,12.0
 2026-09-25,Rwanda,Liberia,3,1,African Cup of Nations qualification,,,FALSE,,,1.0,19.0,4.0,12.0,5.0,8.0,5.0,17.0
-2026-09-25,Haiti,Trinidad and Tobago,3,2,CONCACAF Nations League,,,FALSE,,,6.0,11.0,8.0,21.0,3.0,14.0,5.0,11.0
+2026-09-25,Cayman Islands,Dominica,0,0,CONCACAF Nations League,,,FALSE,,,4.0,18.0,2.0,8.0,12.0,19.0,5.0,20.0
 2026-09-25,Algeria,Zambia,3,1,African Cup of Nations qualification,,,FALSE,,,6.0,13.0,6.0,21.0,4.0,18.0,2.0,12.0
 2026-09-25,Burkina Faso,Benin,1,1,African Cup of Nations qualification,,,FALSE,,,8.0,16.0,2.0,10.0,5.0,15.0,5.0,7.0
 2026-09-25,Egypt,Angola,0,0,African Cup of Nations qualification,,,FALSE,,,10.0,17.0,2.0,15.0,3.0,24.0,2.0,10.0
@@ -132,64 +132,64 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2026-09-28,Dominica,Puerto Rico,0,2,CONCACAF Nations League,,,FALSE,,,6.0,16.0,2.0,10.0,5.0,12.0,6.0,19.0
 2026-09-28,Central African Republic,Burkina Faso,0,1,African Cup of Nations qualification,,,FALSE,,,7.0,24.0,1.0,8.0,5.0,22.0,2.0,11.0
 2026-09-28,Tunisia,Botswana,2,2,African Cup of Nations qualification,,,FALSE,,,11.0,12.0,8.0,26.0,2.0,15.0,3.0,6.0
+2026-09-28,Kyrgyzstan,Maldives,5,0,Friendly,,,FALSE,,,,,,,,,,
+2026-09-28,Latvia,Cyprus,0,0,UEFA Nations League,,,FALSE,,,4.0,16.0,0.0,8.0,11.0,12.0,5.0,18.0
+2026-09-28,Armenia,Montenegro,2,3,UEFA Nations League,,,FALSE,,,2.0,10.0,4.0,10.0,4.0,16.0,4.0,12.0
+2026-09-28,Georgia,Ukraine,0,0,UEFA Nations League,,,FALSE,,,4.0,13.0,5.0,14.0,0.0,14.0,2.0,7.0
+2026-09-28,Japan,Venezuela,2,1,Friendly,,,FALSE,,,1.0,14.0,4.0,12.0,7.0,15.0,5.0,9.0
+2026-09-28,Belgium,France,0,1,UEFA Nations League,,,FALSE,,,2.0,12.0,2.0,12.0,6.0,9.0,7.0,18.0
+2026-09-28,Northern Ireland,Hungary,0,0,UEFA Nations League,,,FALSE,,,3.0,15.0,3.0,10.0,2.0,15.0,1.0,13.0
+2026-09-28,Romania,Bosnia and Herzegovina,2,4,UEFA Nations League,,,FALSE,,,4.0,15.0,4.0,13.0,3.0,9.0,7.0,15.0
+2026-09-28,Sweden,Poland,3,1,UEFA Nations League,,,FALSE,,,4.0,8.0,6.0,12.0,4.0,9.0,7.0,18.0
 2026-09-28,Tajikistan,Palestine,2,4,Friendly,,,FALSE,,,,,,,,,,
 2026-09-28,Turkey,Italy,1,4,UEFA Nations League,,,FALSE,,,6.0,12.0,3.0,15.0,2.0,21.0,8.0,14.0
-2026-09-28,Romania,Bosnia and Herzegovina,2,4,UEFA Nations League,,,FALSE,,,4.0,15.0,4.0,13.0,3.0,9.0,7.0,15.0
-2026-09-28,Northern Ireland,Hungary,0,0,UEFA Nations League,,,FALSE,,,3.0,15.0,3.0,10.0,2.0,15.0,1.0,13.0
-2026-09-28,Belgium,France,0,1,UEFA Nations League,,,FALSE,,,2.0,12.0,2.0,12.0,6.0,9.0,7.0,18.0
-2026-09-28,Latvia,Cyprus,0,0,UEFA Nations League,,,FALSE,,,4.0,16.0,0.0,8.0,11.0,12.0,5.0,18.0
-2026-09-28,Georgia,Ukraine,0,0,UEFA Nations League,,,FALSE,,,4.0,13.0,5.0,14.0,0.0,14.0,2.0,7.0
-2026-09-28,Armenia,Montenegro,2,3,UEFA Nations League,,,FALSE,,,2.0,10.0,4.0,10.0,4.0,16.0,4.0,12.0
-2026-09-28,Japan,Venezuela,2,1,Friendly,,,FALSE,,,1.0,14.0,4.0,12.0,7.0,15.0,5.0,9.0
-2026-09-28,Sweden,Poland,3,1,UEFA Nations League,,,FALSE,,,4.0,8.0,6.0,12.0,4.0,9.0,7.0,18.0
 2026-09-28,South Korea,Uruguay,1,4,Friendly,,,FALSE,,,7.0,7.0,7.0,14.0,1.0,9.0,4.0,9.0
-2026-09-28,Kyrgyzstan,Maldives,5,0,Friendly,,,FALSE,,,,,,,,,,
-2026-09-29,Anguilla,Aruba,0,2,CONCACAF Nations League,,,FALSE,,,2.0,6.0,1.0,5.0,8.0,21.0,9.0,27.0
-2026-09-29,Finland,Belarus,0,0,UEFA Nations League,,,FALSE,,,8.0,18.0,2.0,9.0,2.0,14.0,3.0,9.0
-2026-09-29,Uganda,Libya,1,0,African Cup of Nations qualification,,,FALSE,,,2.0,16.0,1.0,6.0,5.0,21.0,5.0,14.0
-2026-09-29,Guinea-Bissau,Nigeria,3,0,African Cup of Nations qualification,,,FALSE,,,4.0,17.0,7.0,12.0,5.0,18.0,5.0,12.0
-2026-09-29,Ghana,Gambia,2,4,African Cup of Nations qualification,,,FALSE,,,12.0,10.0,4.0,13.0,2.0,20.0,5.0,8.0
+2026-09-29,Burundi,Algeria,2,2,African Cup of Nations qualification,,,FALSE,,,6.0,13.0,3.0,13.0,2.0,12.0,3.0,11.0
+2026-09-29,Ethiopia,Senegal,0,1,African Cup of Nations qualification,,,FALSE,,,5.0,16.0,1.0,11.0,2.0,7.0,3.0,7.0
+2026-09-29,Lesotho,Morocco,0,2,African Cup of Nations qualification,,,FALSE,,,5.0,10.0,1.0,6.0,6.0,10.0,5.0,19.0
+2026-09-29,Mozambique,Sudan,4,1,African Cup of Nations qualification,,,FALSE,,,4.0,12.0,5.0,12.0,6.0,9.0,4.0,10.0
 2026-09-29,South Sudan,Egypt,0,5,African Cup of Nations qualification,,,FALSE,,,3.0,12.0,1.0,12.0,4.0,9.0,10.0,19.0
 2026-09-29,Madagascar,Tanzania,1,1,African Cup of Nations qualification,,,FALSE,,,3.0,18.0,5.0,7.0,0.0,15.0,3.0,12.0
-2026-09-29,Mozambique,Sudan,4,1,African Cup of Nations qualification,,,FALSE,,,4.0,12.0,5.0,12.0,6.0,9.0,4.0,10.0
-2026-09-29,Lesotho,Morocco,0,2,African Cup of Nations qualification,,,FALSE,,,5.0,10.0,1.0,6.0,6.0,10.0,5.0,19.0
-2026-09-29,Ethiopia,Senegal,0,1,African Cup of Nations qualification,,,FALSE,,,5.0,16.0,1.0,11.0,2.0,7.0,3.0,7.0
-2026-09-29,Burundi,Algeria,2,2,African Cup of Nations qualification,,,FALSE,,,6.0,13.0,3.0,13.0,2.0,12.0,3.0,11.0
-2026-09-29,Comoros,Namibia,1,0,African Cup of Nations qualification,,,FALSE,,,8.0,14.0,4.0,13.0,3.0,10.0,4.0,16.0
 2026-09-29,Cape Verde,Rwanda,1,2,African Cup of Nations qualification,,,FALSE,,,4.0,16.0,6.0,19.0,3.0,17.0,2.0,6.0
-2026-09-29,French Guiana,Sint Maarten,1,0,CONCACAF Nations League,,,FALSE,,,3.0,15.0,5.0,12.0,3.0,9.0,3.0,10.0
-2026-09-29,Guatemala,El Salvador,6,0,CONCACAF Nations League,,,FALSE,,,4.0,5.0,7.0,18.0,3.0,15.0,1.0,13.0
-2026-09-29,British Virgin Islands,Turks and Caicos Islands,0,3,CONCACAF Nations League,,,FALSE,,,4.0,21.0,1.0,8.0,7.0,15.0,4.0,15.0
-2026-09-29,Somalia,Ivory Coast,0,2,African Cup of Nations qualification,,,FALSE,,,0.0,12.0,0.0,1.0,9.0,15.0,6.0,23.0
-2026-09-29,Liberia,Mali,0,1,African Cup of Nations qualification,,,FALSE,,,3.0,13.0,1.0,8.0,8.0,18.0,3.0,16.0
-2026-09-29,Gabon,Niger,2,0,African Cup of Nations qualification,,,FALSE,,,3.0,20.0,3.0,6.0,8.0,15.0,1.0,10.0
-2026-09-29,Congo,Cameroon,1,1,African Cup of Nations qualification,,,FALSE,,,5.0,14.0,7.0,12.0,6.0,23.0,1.0,13.0
-2026-09-29,Benin,Mauritania,2,1,African Cup of Nations qualification,,,FALSE,,,3.0,20.0,6.0,14.0,3.0,18.0,3.0,12.0
-2026-09-29,Moldova,Faroe Islands,1,1,UEFA Nations League,,,FALSE,,,7.0,12.0,4.0,22.0,2.0,11.0,1.0,6.0
-2026-09-29,Bulgaria,Estonia,0,0,UEFA Nations League,,,FALSE,,,6.0,9.0,2.0,17.0,6.0,26.0,2.0,6.0
-2026-09-29,Czech Republic,England,0,2,UEFA Nations League,,,FALSE,,,1.0,9.0,2.0,6.0,6.0,12.0,7.0,22.0
-2026-09-29,Luxembourg,Iceland,0,3,UEFA Nations League,,,FALSE,,,2.0,11.0,1.0,5.0,2.0,13.0,4.0,13.0
-2026-09-29,San Marino,Albania,0,3,UEFA Nations League,,,FALSE,,,5.0,6.0,1.0,6.0,6.0,14.0,8.0,14.0
-2026-09-29,Scotland,Switzerland,0,3,UEFA Nations League,,,FALSE,,,2.0,14.0,0.0,2.0,6.0,13.0,9.0,23.0
+2026-09-29,Comoros,Namibia,1,0,African Cup of Nations qualification,,,FALSE,,,8.0,14.0,4.0,13.0,3.0,10.0,4.0,16.0
+2026-09-29,Anguilla,Aruba,0,2,CONCACAF Nations League,,,FALSE,,,2.0,6.0,1.0,5.0,8.0,21.0,9.0,27.0
+2026-09-29,Spain,Croatia,4,1,UEFA Nations League,,,FALSE,,,6.0,9.0,7.0,16.0,2.0,10.0,2.0,5.0
+2026-09-29,Slovenia,North Macedonia,2,0,UEFA Nations League,,,FALSE,,,6.0,8.0,5.0,16.0,3.0,8.0,1.0,10.0
 2026-09-29,Slovakia,Kazakhstan,2,1,UEFA Nations League,,,FALSE,,,8.0,8.0,8.0,17.0,1.0,18.0,2.0,3.0
+2026-09-29,Scotland,Switzerland,0,3,UEFA Nations League,,,FALSE,,,2.0,14.0,0.0,2.0,6.0,13.0,9.0,23.0
+2026-09-29,San Marino,Albania,0,3,UEFA Nations League,,,FALSE,,,5.0,6.0,1.0,6.0,6.0,14.0,8.0,14.0
+2026-09-29,Luxembourg,Iceland,0,3,UEFA Nations League,,,FALSE,,,2.0,11.0,1.0,5.0,2.0,13.0,4.0,13.0
+2026-09-29,Czech Republic,England,0,2,UEFA Nations League,,,FALSE,,,1.0,9.0,2.0,6.0,6.0,12.0,7.0,22.0
+2026-09-29,Bulgaria,Estonia,0,0,UEFA Nations League,,,FALSE,,,6.0,9.0,2.0,17.0,6.0,26.0,2.0,6.0
+2026-09-29,Ghana,Gambia,2,4,African Cup of Nations qualification,,,FALSE,,,12.0,10.0,4.0,13.0,2.0,20.0,5.0,8.0
+2026-09-29,Guinea-Bissau,Nigeria,3,0,African Cup of Nations qualification,,,FALSE,,,4.0,17.0,7.0,12.0,5.0,18.0,5.0,12.0
+2026-09-29,Finland,Belarus,0,0,UEFA Nations League,,,FALSE,,,8.0,18.0,2.0,9.0,2.0,14.0,3.0,9.0
+2026-09-29,Moldova,Faroe Islands,1,1,UEFA Nations League,,,FALSE,,,7.0,12.0,4.0,22.0,2.0,11.0,1.0,6.0
+2026-09-29,Benin,Mauritania,2,1,African Cup of Nations qualification,,,FALSE,,,3.0,20.0,6.0,14.0,3.0,18.0,3.0,12.0
+2026-09-29,Congo,Cameroon,1,1,African Cup of Nations qualification,,,FALSE,,,5.0,14.0,7.0,12.0,6.0,23.0,1.0,13.0
+2026-09-29,Gabon,Niger,2,0,African Cup of Nations qualification,,,FALSE,,,3.0,20.0,3.0,6.0,8.0,15.0,1.0,10.0
+2026-09-29,Liberia,Mali,0,1,African Cup of Nations qualification,,,FALSE,,,3.0,13.0,1.0,8.0,8.0,18.0,3.0,16.0
 2026-09-29,Russia,Iran,2,0,Friendly,,,FALSE,,,5.0,11.0,5.0,12.0,5.0,17.0,3.0,8.0
 2026-09-29,Australia,Brazil,2,4,Friendly,,,FALSE,,,4.0,19.0,2.0,7.0,6.0,13.0,8.0,18.0
-2026-09-29,Slovenia,North Macedonia,2,0,UEFA Nations League,,,FALSE,,,6.0,8.0,5.0,16.0,3.0,8.0,1.0,10.0
-2026-09-29,Zambia,Togo,2,0,African Cup of Nations qualification,,,FALSE,,,7.0,17.0,4.0,11.0,5.0,12.0,1.0,12.0
+2026-09-29,Somalia,Ivory Coast,0,2,African Cup of Nations qualification,,,FALSE,,,0.0,12.0,0.0,1.0,9.0,15.0,6.0,23.0
+2026-09-29,Uganda,Libya,1,0,African Cup of Nations qualification,,,FALSE,,,2.0,16.0,1.0,6.0,5.0,21.0,5.0,14.0
 2026-09-29,Jamaica,Honduras,0,1,CONCACAF Nations League,,,FALSE,,,3.0,15.0,3.0,13.0,5.0,15.0,7.0,15.0
 2026-09-29,Saint Kitts and Nevis,Grenada,3,0,CONCACAF Nations League,,,FALSE,,,3.0,13.0,7.0,8.0,4.0,11.0,4.0,8.0
 2026-09-29,Saint Lucia,Bermuda,5,2,CONCACAF Nations League,,,FALSE,,,3.0,16.0,7.0,15.0,8.0,6.0,11.0,19.0
+2026-09-29,Guatemala,El Salvador,6,0,CONCACAF Nations League,,,FALSE,,,4.0,5.0,7.0,18.0,3.0,15.0,1.0,13.0
+2026-09-29,British Virgin Islands,Turks and Caicos Islands,0,3,CONCACAF Nations League,,,FALSE,,,4.0,21.0,1.0,8.0,7.0,15.0,4.0,15.0
 2026-09-29,United States Virgin Islands,Bahamas,3,1,CONCACAF Nations League,,,FALSE,,,0.0,12.0,4.0,10.0,5.0,16.0,6.0,15.0
-2026-09-29,Spain,Croatia,4,1,UEFA Nations League,,,FALSE,,,6.0,9.0,7.0,16.0,2.0,10.0,2.0,5.0
+2026-09-29,French Guiana,Sint Maarten,1,0,CONCACAF Nations League,,,FALSE,,,3.0,15.0,5.0,12.0,3.0,9.0,3.0,10.0
+2026-09-29,Zambia,Togo,2,0,African Cup of Nations qualification,,,FALSE,,,7.0,17.0,4.0,11.0,5.0,12.0,1.0,12.0
+2026-09-30,Lithuania,Andorra,3,0,Friendly,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-30,Mexico,Peru,1,1,Friendly,,,FALSE,,,5.0,15.0,3.0,9.0,4.0,10.0,2.0,5.0
+2026-09-30,Seychelles,Sri Lanka,0,2,Friendly,,,FALSE,,,,,,,,,,
+2026-09-30,Fiji,New Caledonia,2,1,Friendly,,,FALSE,,,,,,,,,,
+2026-09-30,Papua New Guinea,Solomon Islands,1,1,Friendly,,,FALSE,,,,,,,,,,
 2026-09-30,Belize,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League,,,FALSE,,,2.0,11.0,3.0,12.0,4.0,23.0,8.0,13.0
 2026-09-30,United States,Chile,4,2,Friendly,,,FALSE,,,5.0,12.0,9.0,18.0,13.0,10.0,8.0,17.0
-2026-09-30,Mexico,Peru,1,1,Friendly,,,FALSE,,,5.0,15.0,3.0,9.0,4.0,10.0,2.0,5.0
-2026-09-30,Papua New Guinea,Solomon Islands,1,1,Friendly,,,FALSE,,,,,,,,,,
-2026-09-30,Fiji,New Caledonia,2,1,Friendly,,,FALSE,,,,,,,,,,
-2026-09-30,Seychelles,Sri Lanka,0,2,Friendly,,,FALSE,,,,,,,,,,
-2026-09-30,Botswana,Mozambique,0,2,Friendly,,,FALSE,,,,,,,,,,
-2026-09-30,Lithuania,Andorra,3,0,Friendly,,,FALSE,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2026-09-30,Eritrea,South Africa,0,5,African Cup of Nations qualification,,,FALSE,,,6.0,15.0,4.0,11.0,8.0,9.0,9.0,22.0
+2026-09-30,Botswana,Mozambique,0,2,Friendly,,,FALSE,,,,,,,,,,
 2026-10-01,Malta,Gibraltar,1,1,UEFA Nations League,,,FALSE,,,8.0,16.0,5.0,17.0,1.0,8.0,2.0,9.0
 2026-10-01,Guinea,Kenya,1,0,African Cup of Nations qualification,,,FALSE,,,5.0,10.0,3.0,9.0,2.0,17.0,2.0,5.0
 2026-10-01,Denmark,Portugal,2,4,UEFA Nations League,,,FALSE,,,4.0,6.0,3.0,12.0,7.0,12.0,10.0,19.0
@@ -210,10 +210,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2026-10-01,Germany,Serbia,2,0,UEFA Nations League,,,FALSE,,,12.0,10.0,8.0,32.0,1.0,11.0,1.0,1.0
 2026-10-02,Cayman Islands,Puerto Rico,0,3,CONCACAF Nations League,,,FALSE,,,1.0,14.0,2.0,5.0,6.0,17.0,4.0,10.0
 2026-10-02,Nicaragua,Costa Rica,0,3,CONCACAF Nations League,,,FALSE,,,4.0,14.0,1.0,4.0,6.0,13.0,6.0,13.0
-2026-10-02,Cyprus,Armenia,2,0,UEFA Nations League,,,FALSE,,,1.0,6.0,4.0,8.0,11.0,10.0,5.0,16.0
+2026-10-02,Cyprus,Armenia,2,0,UEFA Nations League,,,FALSE,,,1.0,6.0,4.0,8.0,11.0,10.0,5.0,17.0
 2026-10-02,Kazakhstan,Moldova,1,2,UEFA Nations League,,,FALSE,,,11.0,10.0,4.0,19.0,4.0,10.0,8.0,16.0
 2026-10-02,Latvia,Montenegro,1,2,UEFA Nations League,,,FALSE,,,5.0,10.0,2.0,14.0,2.0,7.0,6.0,14.0
-2026-10-02,DR Congo,Uganda,0,2,Friendly,,,FALSE,,,,,,,,,,
+2026-10-02,Mauritius,Sri Lanka,3,0,Friendly,,,FALSE,,,,,,,,,,
 2026-10-02,South Korea,Venezuela,0,0,Friendly,,,FALSE,,,3.0,24.0,3.0,7.0,1.0,14.0,4.0,12.0
-2026-10-02,Dominican Republic,Haiti,1,4,CONCACAF Nations League,,,FALSE,,,5.0,13.0,7.0,15.0,5.0,14.0,11.0,14.0
 2026-10-02,China,Palestine,0,5,Friendly,,,FALSE,,,1.0,12.0,3.0,12.0,4.0,9.0,9.0,16.0
+2026-10-02,Dominican Republic,Haiti,1,4,CONCACAF Nations League,,,FALSE,,,5.0,13.0,7.0,15.0,5.0,14.0,11.0,14.0
+2026-10-02,DR Congo,Uganda,0,2,Friendly,,,FALSE,,,,,,,,,,

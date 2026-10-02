@@ -1,31 +1,56 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 02.10.2026 17:57. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 02.10.2026 20:10. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 17 | 2 | 2 | %100 | %87 | +0.21 | %11 |
-| 🟡 Tier 2 | 18 | 2 | 2 | %100 | %68 | +0.73 | %37 |
-| 🔴 Tier 3 | 15 | 3 | 2 | %67 | %43 | +1.69 | %56 |
+| 🟢 Tier 1 | 20 | 2 | 2 | %100 | %87 | +0.21 | %11 |
+| 🟡 Tier 2 | 22 | 2 | 2 | %100 | %68 | +0.73 | %37 |
+| 🔴 Tier 3 | 20 | 3 | 2 | %67 | %43 | +1.69 | %56 |
 | ⚡ Tier 4 | 7 | 3 | 0 | %0 | %18 | -3.00 | %-100 |
-| 🔥 Tier 5 | 16 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
-| 🚩 Korner (tüm seviyeler) | 15 | 0 | 0 | — | — | — | — |
-| 🎰 Sistem ayakları | 7 | 0 | 0 | — | — | — | — |
+| 🔥 Tier 5 | 22 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
+| 🚩 Korner (tüm seviyeler) | 25 | 0 | 0 | — | — | — | — |
+| 🎰 Sistem ayakları | 14 | 0 | 0 | — | — | — | — |
 
 ## Gün gün
 
 | gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
-| 02.10.2026 | 45 | 3 | 1 | %33 | %34 | -1.63 |
-| 03.10.2026 | 28 | 0 | 0 | — | — | — |
+| 02.10.2026 | 53 | 3 | 1 | %33 | %34 | -1.63 |
+| 03.10.2026 | 45 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 03.10 | 🎰 | Kanada – Peru | MS 1 | %63 | 1.46 | — | ⏳ |
+| 02.10 | 🎰 | Saint Lucia – Guadeloupe | 2.5 Üst | %64 | 1.41 | — | ⏳ |
+| 03.10 | 🎰 | Livingston – Ayr United | MS 1 | %64 | 1.44 | — | ⏳ |
+| 03.10 | 🎰 | G. Morton – Raith Rovers | MS 2 | %64 | 1.44 | — | ⏳ |
+| 03.10 | 🎰 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 02.10 | 🎰 | Fransa – İtalya | Korner 10.5 Alt | %64 | 1.40 | — | ⏳ |
+| 03.10 | 🎰 | Fiorentina FC (K) – Sassuolo Calcio (K) | MS 1 | %66 | 1.40 | — | ⏳ |
+| 03.10 | 🔥 | İspanya – Çekya | 2-1 | %8 | 12.05 | — | ⏳ |
+| 03.10 | 🔥 | Exeter City – Rotherham | 0-1 | %10 | 7.12 | — | ⏳ |
+| 03.10 | 🔥 | Gillingham – Newport | 1-0 | %11 | 5.91 | — | ⏳ |
+| 03.10 | 🔥 | Finlandiya – Arnavutluk | 1-0 | %13 | 5.90 | — | ⏳ |
+| 03.10 | 🔥 | Estonya – Lüksemburg | 0-1 | %14 | 5.91 | — | ⏳ |
+| 03.10 | 🔥 | Belarus – San Marino | 3-0 | %14 | 4.88 | — | ⏳ |
+| 02.10 | 🔴 | Ukrayna – Kuzey İrlanda | Korner 8.5 Üst | %48 | 1.78 | — | ⏳ |
+| 03.10 | 🔴 | Estonya – Lüksemburg | En çok korner 1 | %49 | 1.81 | — | ⏳ |
+| 03.10 | 🔴 | Belarus – San Marino | Korner 8.5 Alt | %50 | 1.73 | — | ⏳ |
+| 03.10 | 🔴 | Gillingham – Newport | MS 1 | %48 | 1.85 | — | ⏳ |
+| 03.10 | 🔴 | Exeter City – Rotherham | KG Yok | %48 | 1.87 | — | ⏳ |
+| 02.10 | 🟡 | Ukrayna – Kuzey İrlanda | Korner 7.5 Üst | %63 | 1.43 | — | ⏳ |
+| 02.10 | 🟡 | Fransa – İtalya | Korner 10.5 Alt | %64 | 1.40 | — | ⏳ |
+| 03.10 | 🟡 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 03.10 | 🟡 | Fiorentina FC (K) – Sassuolo Calcio (K) | MS 1 | %66 | 1.40 | — | ⏳ |
+| 02.10 | 🟢 | Belçika – Türkiye | Korner 7.5 Üst | %77 | 1.21 | — | ⏳ |
+| 02.10 | 🟢 | Ukrayna – Kuzey İrlanda | Korner 6.5 Üst | %78 | 1.20 | — | ⏳ |
+| 02.10 | 🟢 | Faroe Adaları – Slovakya | ÇŞ 1-2 | %75 | 1.21 | — | ⏳ |
 | 02.10 | 🎰 | Macaristan – Gürcistan | En çok korner 1 | %59 | 1.54 | — | ⏳ |
 | 02.10 | 🎰 | Ukrayna – Kuzey İrlanda | Korner 9.5 Alt | %nan | 1.44 | — | ⏳ |
 | 02.10 | 🎰 | Polonya – Romanya | MS 1 | %63 | 1.49 | — | ⏳ |
