@@ -409,28 +409,30 @@ def test_telegram_messages():
     picks = pd.DataFrame([
         {**row, "seviye": "💎 Değeri pozitif olanlar", "tahmin": "MS 1", "p": 0.55, "odd": 2.0, "değer": 0.10,
          "gerçek_değer": True},
-        {**row, "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.80, "odd": float("nan"),
+        {**row, "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.80, "odd": 1.25,
          "değer": float("nan"), "gerçek_değer": False},
         {**row, "seviye": "⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", "tahmin": "1-0", "p": 0.18,
-         "odd": float("nan"), "değer": float("nan"), "gerçek_değer": False}])
+         "odd": 5.5, "değer": float("nan"), "gerçek_değer": False}])
     t5 = "🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)"
     extra = pd.DataFrame([  # E – F Tier 2'de; Tier 5'te A – B (Tier 4'te var), E – F ve mesajda olmayan G – H
         {**row, "maç": "E – F", "seviye": "🟡 Tier 2 — Orta risk", "tahmin": "MS 2", "p": 0.6, "odd": 1.5,
          "değer": -0.1, "gerçek_değer": False},
-        *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": float("nan"), "değer": float("nan"),
+        {**row, "maç": "K – L", "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "MS 1", "p": 0.9, "odd": float("nan"),
+         "değer": float("nan"), "gerçek_değer": False},  # İddaa'da kapalı: listeye girmez
+        *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": 7.0, "değer": float("nan"),
            "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("G – H", "3-3")]]])
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     allt = "\n".join(msgs)
-    assert "TIER 5" in allt and "➜ 0-2 " in allt and "G – H" not in allt
-    assert allt.count("➜ 1-0 ") == 1  # Tier 4'teki skor Tier 5'te tekrar etmez
+    assert "TIER 5" in allt and "➜ 0-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
+    assert allt.count("➜ 1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez; yüzde yok
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (2 mesaj)
     assert len(msgs) == 2 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
-    assert "TIER 4" in msgs[1] and "➜ 1-0 " in msgs[1] and "Tam rapor" in msgs[1]  # skorlar ikinci mesajda
+    assert "TIER 4" in msgs[1] and "➜ 1-0 ·" in msgs[1] and "Tam rapor" in msgs[1]  # skorlar ikinci mesajda
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
     assert _fmt({**r, "baslama": "2026-10-03 21:45"}, datetime(2026, 10, 3, 10, 0)) == \
-        "🕘 21:45 · <b>A – B</b>\n➜ MS 1 · %70 · <b>1.40</b> · MBS 3"
+        "🕘 21:45 · <b>A – B</b>\n➜ MS 1 · <b>1.40</b> · MBS 3"
     assert _fmt({**r, "baslama": "2026-10-04 19:00"}, datetime(2026, 10, 3, 10, 0)).startswith("🕘 Yarın 19:00")
     assert "💎" in _fmt({**r, "gerçek_değer": True, "değer": 0.05}, datetime(2026, 10, 3, 10, 0))
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 13, 0))  # aynı gün tekrar: hiçbir şey
@@ -776,6 +778,10 @@ def test_end_to_end():
     assert "Korner — kulüp maçları" in son
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
+    day9 = f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d}"  # milli maç 18:45 UTC = 21:45 TR
+    r = run("main.py", "analiz", "--saat", "21:45", "--gun", day9)  # sadece o saatteki maçların Tier listesi
+    assert r.returncode == 0 and "21:45 maçları" in r.stdout and "İspanya – Çekya" in r.stdout, r.stdout[-1500:]
+    assert "%" not in r.stdout and up["HomeTeam"] not in r.stdout
     r = run("main.py", "sonuc", "--gonderme")  # henüz Telegram'da gönderilen tahmin yok
     assert r.returncode == 0 and "henüz kayıtlı tahmin yok" in r.stdout, r.stdout + r.stderr
     r = run("main.py", "tavsiye", "--prova", "2025-09-01", "--gun", "7")  # geçmiş hafta: sonuçlarla karşılaştırma

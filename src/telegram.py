@@ -26,10 +26,9 @@ MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
 TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
 BASLIK = {  # simge -> (başlık, açıklama)
-    "💎": ("DEĞERLİ", "oran adil fiyatın üstünde"), "🟢": ("TIER 1 · Düşük risk", "tutma %70+ · oran 1.20+"),
-    "🟡": ("TIER 2 · Orta risk", "tutma %50-70 · oran 1.40+"), "🔴": ("TIER 3 · Yüksek risk", "tutma %25-50"),
-    "⚡": ("TIER 4 · Kesin skor", "en olası skorlar"), "🔥": ("TIER 5 · Kesin skor", "yukarıdaki maçların skoru"),
-    "🚩": ("KORNER", "kulüp maçları"), "🔀": ("TIER 8 · İY / MS", "ilk yarı / maç sonu"),
+    "💎": ("DEĞERLİ", "oran adil fiyatın üstünde"), "🟢": ("TIER 1", "düşük risk"), "🟡": ("TIER 2", "orta risk"),
+    "🔴": ("TIER 3", "yüksek risk"), "⚡": ("TIER 4", "kesin skor"), "🔥": ("TIER 5", "kesin skor · yukarıdaki maçlar"),
+    "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", "")}
 KORNER_LIMIT = 6
 IYMS_LIMIT = 5
@@ -88,50 +87,85 @@ def _sorted(t: pd.DataFrame) -> pd.DataFrame:
 
 
 def _fmt(r, now_tr: datetime | None = None) -> str:
-    """İki satır: "🕘 saat · maç" ve "➜ tahmin · olasılık · İddaa oranı" (↳ = üst seviyedeki tahminin devamı)."""
+    """İki satır: "🕘 saat · maç" ve "➜ tahmin · İddaa oranı" (↳ = üst seviyedeki tahminin aynı maçta devamı)."""
     now_tr = now_tr or _tr_now()
     head = f"🕘 {_when(r, now_tr)} · <b>{html.escape(str(r['maç']))}</b>"
-    bet = f"{'↳' if is_ladder(r) else '➜'} {html.escape(str(r['tahmin']))} · %{100 * r['p']:.0f}"
-    bet += f" · <b>{r['odd']:.2f}</b>" if pd.notna(r.get("odd")) else " · oran yok"
+    bet = f"{'↳' if is_ladder(r) else '➜'} {html.escape(str(r['tahmin']))}"
+    if pd.notna(r.get("odd")):
+        bet += f" · <b>{r['odd']:.2f}</b>"
     if r.get("gerçek_değer") is True or str(r.get("gerçek_değer")) == "True":
-        bet += f" · değer {100 * r['değer']:+.0f}% 💎"
+        bet += " 💎"
     if pd.notna(r.get("mbs")) and r["mbs"] > 1:
         bet += f" · MBS {int(r['mbs'])}"
     return f"{head}\n{bet}"
 
 
+def _playable(rows: pd.DataFrame) -> pd.DataFrame:
+    """Sadece İddaa'da oynanabilen tahminler: oranı olan (kapalı ya da henüz açılmamış bahis listeye girmez)."""
+    return rows[pd.to_numeric(rows["odd"], errors="coerce") > 1.0]
+
+
 def _section(icon: str, rows: pd.DataFrame, now_tr: datetime) -> list:
     """Bölüm: çizgi, başlık, açıklama; tahminler arasında boş satır."""
     title, sub = BASLIK[icon]
-    out = ["", CIZGI, f"{icon} <b>{title}</b>" + (f"  <i>{sub}</i>" if sub else "")]
+    out = ["", CIZGI, f"{icon} <b>{title}</b>" + (f" · <i>{sub}</i>" if sub else "")]
     for r in _sorted(rows).to_dict("records"):
         out += ["", _fmt(r, now_tr)]
     return out
 
 
 def _coupon_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
-    """Kombine kupon (toplam oran, tutma olasılığı) ve sistem kupon (n'de k seçenekleri) bölümleri."""
+    """Kombine kupon (toplam oran) ve sistem kupon (önerilen "n'de k": kâra geçme şansı en yüksek olan)."""
     import numpy as np
 
     from src import kupon
     out = []
-    combo = soon[soon["seviye"].str.startswith("🎫")]
-    if not combo.empty:
+    combo = _playable(soon[soon["seviye"].str.startswith("🎫")])
+    if len(combo) >= 2:
         log += combo.to_dict("records")
         out += _section("🎫", combo, now_tr)
-        out += ["", f"🧾 <b>{len(combo)} maç · toplam oran {np.prod(combo['odd']):.2f} · tutma olasılığı "
-                    f"%{100 * np.prod(combo['p']):.0f}</b>"]
-    sistem = soon[soon["seviye"].str.startswith("🎰")]
-    if len(sistem) >= 2:
+        out += ["", f"🧾 <b>{len(combo)} maç · toplam oran {np.prod(combo['odd']):.2f}</b>"]
+    sistem = _playable(soon[soon["seviye"].str.startswith("🎰")])
+    if len(sistem) >= 4:
         log += sistem.to_dict("records")
         out += _section("🎰", sistem, now_tr)
         n = len(sistem)
-        rows = ["sistem  kolon  en az k   kâr"]
-        rows += [f"{n}'de {s['k']:<3}{s['kolon']:>5}{100 * s['en_az_k']:>8.0f}%{100 * s['kar_olasiligi']:>6.0f}%"
-                 for s in kupon.system_table(list(sistem["p"]), list(sistem["odd"]))]
-        out += ["", f"🧾 <b>{n} maçlık sistem</b> (kolon başına 1 birim)", "<pre>" + html.escape("\n".join(rows)) + "</pre>",
-                "<i>en az k = en az k maçın tutma olasılığı · kâr = kâra geçme olasılığı</i>"]
+        best = max(kupon.system_table(list(sistem["p"]), list(sistem["odd"])),
+                   key=lambda s: (round(s["kar_olasiligi"], 3), s["k"]))
+        out += ["", f"🧾 <b>Önerilen sistem: {n}'de {best['k']} · {best['kolon']} kolon</b> (kolon başına 1 birim)"]
     return out
+
+
+def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
+    """Tier listeleri: 1. mesaj 💎 + Tier 1-3, 2. mesaj kesin skor / İY-MS / korner, 3. mesaj kuponlar. Sadece
+    İddaa'da oynanabilen (oranı olan) tahminler."""
+    main = [header, "<i>🕘 saat · maç   ➜ tahmin · İddaa oranı</i>"]
+    v = _playable(soon[soon["seviye"].str.startswith("💎")])
+    main += _section("💎", v, now_tr) if not v.empty else ["", CIZGI, "💎 <b>DEĞERLİ</b> · <i>bugün yok</i>"]
+    log += v.to_dict("records")
+    shown = {}  # seviye simgesi -> mesajda geçen maçlar
+    extra = ["🎲 <b>Kesin skor · İY/MS · Korner</b>"]
+    for icon, n in TIER_LIMIT.items():
+        t = _playable(soon[soon["seviye"].str.startswith(icon)]).head(n)  # en olası n tahmin, saat sırasıyla
+        shown[icon] = set(t["maç"])
+        log += t.to_dict("records")
+        if not t.empty:
+            (main if icon in ("🟢", "🟡", "🔴") else extra).extend(_section(icon, t, now_tr))
+    # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
+    above = shown["🟢"] | shown["🟡"] | shown["🔴"]
+    for icon, rows in [("🔥", soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])]),
+                       ("🔀", soon[soon["seviye"].str.startswith("🔀")]),
+                       ("🚩", soon[soon["seviye"].str.startswith("🚩")])]:
+        rows = _playable(rows).head({"🔀": IYMS_LIMIT, "🚩": KORNER_LIMIT}.get(icon, 99))
+        log += rows.to_dict("records")
+        if not rows.empty:
+            extra += _section(icon, rows, now_tr)
+    coupons = _coupon_lines(soon, now_tr, log)
+    footer = ["", CIZGI, "<i>↳ = bir üst seviyedeki tahminin aynı maçta devamı (bu tutarsa üstteki de tutar)</i>",
+              f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
+    parts = [main] + ([extra] if len(extra) > 1 else []) + ([["🎫 <b>Kuponlar</b>"] + coupons] if coupons else [])
+    parts[-1] += footer
+    return ["\n".join(p) for p in parts]
 
 
 def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False,
@@ -152,38 +186,11 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
     if (force or (slot and state["son_ozet"] != slot)) and not soon.empty:
         title = "Güncel tavsiyeler" if force else OZET_SAATLERI[max(passed)]
         stamp = f"{now_tr:%d.%m %H:%M}" if force else f"{now_tr:%d.%m}"
-        # 1. mesaj: değerli + Tier 1-3
-        main = [f"⚽ <b>{title} — {stamp}</b>", "<i>🕘 saat · maç  ➜ tahmin · tutma olasılığı · İddaa oranı</i>"]
-        v = soon[soon["seviye"].str.startswith("💎")]
-        main += _section("💎", v, now_tr) if not v.empty else ["", CIZGI, "💎 <b>DEĞERLİ</b>  <i>bugün yok</i>"]
-        log += v.to_dict("records")
-        shown = {}  # seviye simgesi -> mesajda geçen maçlar
-        extra = [f"🎲 <b>Skor · İY/MS · Korner — {stamp}</b>"]   # 2. mesaj
-        for icon, n in TIER_LIMIT.items():
-            t = soon[soon["seviye"].str.startswith(icon)].head(n)  # en olası n tahmin, saat sırasıyla gösterilir
-            shown[icon] = set(t["maç"])
-            log += t.to_dict("records")
-            if not t.empty:
-                (main if icon in ("🟢", "🟡", "🔴") else extra).extend(_section(icon, t, now_tr))
-        # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
-        above = shown["🟢"] | shown["🟡"] | shown["🔴"]
-        for icon, rows in [("🔥", soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])]),
-                           ("🔀", soon[soon["seviye"].str.startswith("🔀")].head(IYMS_LIMIT)),
-                           ("🚩", soon[soon["seviye"].str.startswith("🚩")].head(KORNER_LIMIT))]:
-            log += rows.to_dict("records")
-            if not rows.empty:
-                extra += _section(icon, rows, now_tr)
-        coupons = _coupon_lines(soon, now_tr, log)  # 3. mesaj
-        footer = ["", CIZGI, "<i>↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de "
-                             "tutar). Uzun vadede kârlı olması beklenen sadece 💎.</i>",
-                  f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
-        parts = [main] + ([extra] if len(extra) > 1 else []) + ([[f"🎫 <b>Kuponlar — {stamp}</b>"] + coupons]
-                                                               if coupons else [])
-        parts[-1] += footer
-        msgs += ["\n".join(p) for p in parts]
+        msgs += digest_parts(soon, now_tr, f"⚽ <b>{title} — {stamp}</b>", log)
         state["son_ozet"] = slot or state["son_ozet"]
+        v = soon[soon["seviye"].str.startswith("💎")]
         sent |= {_key(r) for r in v.to_dict("records")}  # özette gönderilen 💎 anlık uyarıda tekrar gelmesin
-    new = [r for r in value.to_dict("records") if _key(r) not in sent]
+    new = [r for r in _playable(value).to_dict("records") if _key(r) not in sent]
     if new:
         msgs.append("\n".join(["💎 <b>Yeni değerli bahis</b>", ""] + [_fmt(r, now_tr) for r in new] +
                               ["", f'<a href="{RAPOR_LINKI}">Tam rapor</a>']))

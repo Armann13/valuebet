@@ -1,6 +1,5 @@
-# Elle çalıştırılan maç analizi: seçilen saatteki maçlar için tüm marketler (MS, çifte şans, alt/üst, KG,
-# MS + toplam gol, MS + KG, korner) olasılık ve İddaa oranıyla; Telegram'a gönderilir.
-# GitHub -> Actions -> "Maç analizi" -> Run workflow -> saat (ör. 21:45) gir.
+# Elle çalıştırılan maç analizi: seçilen saatteki maçlar için Tier listeleri (günlük özetle aynı biçim, güncel
+# İddaa oranlarıyla); Telegram'a gönderilir. GitHub -> Actions -> "Maç analizi" -> Run workflow -> saat (ör. 21:45).
 name: Maç analizi
 
 on:
@@ -35,6 +34,9 @@ jobs:
 
       - name: Veritabanı (takım adı eşleştirme ve kulüp modelleri için)
         run: python main.py build
+
+      - name: Güncel İddaa oranları (kaydedilmez, sadece bu analiz için)
+        run: python main.py iddaa
 
       - name: Analiz ve Telegram
         env:

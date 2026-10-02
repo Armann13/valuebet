@@ -1,24 +1,20 @@
-"""Seçilen maçların ayrıntılı analizi (ör. sadece 21:45 maçları): MS, çifte şans, alt / üst (tüm barajlar), KG,
-MS + toplam gol, MS + KG, korner (tüm barajlar, en çok korner); her biri olasılık ve İddaa oranıyla, maç başına
-risk seviyesine göre öneri.
-
-Gol marketleri: modelin skor tablosu, İddaa'nın marjsız MS ve 2.5 alt / üst olasılıklarına ayarlı (tavsiye raporuyla
-aynı yöntem). Korner: kulüp maçlarında korner modeli; milli maçlarda korner verisi olmadığından İddaa'nın marjı
-arındırılmış oranı (her baraj için alt / üst). Oranlar o anki İddaa programından (canlı) çekilir.
+"""İddaa maç detayındaki marketlerin ayrıştırılması ve olasılıkları (kart, şut, faul, korner, gol kombinasyonları)
+ile seçilen saatteki maçların Tier listesi.
 
     python main.py analiz --saat 21:45 [--gun 2026-10-02] [--telegram]
+
+Analiz, günlük özetle aynı Tier listesi biçimindedir (tavsiye.run, sadece o saatte başlayan maçlarla): Tier 1-3
+(merdiven: Tier 1'deki tahminin Tier 2'de aynı maçta devamı, ör. MS 1 -> MS 1 & KG Var), kesin skor, İY/MS, korner
+(kulüp maçları) ve kuponlar. Sadece İddaa'da oynanabilen (oranı olan, kapalı olmayan) tahminler.
 """
-import html
 import re
-from datetime import datetime, timedelta, timezone
 
 import numpy as np
 import pandas as pd
 
 import config
-from src import iddaa, istatistik, korner, milli
+from src import iddaa, korner
 from src.odds import devig
-from src.tavsiye import calibrate
 
 SIDE = {"1": "1", "0": "X", "2": "2"}
 
@@ -160,152 +156,13 @@ def corner_probs(odds: dict, cmat: np.ndarray | None) -> dict:
     return out
 
 
-NAME_W = 14   # tablolarda bahis adı sütunu (telefonda tek satıra sığsın)
-
-
-CLOSED: set = set()   # match_block sırasında: o maçta İddaa'da kapalı (1.00) sonuçlar
-
-
-def _row(label: str, probs: dict, odds: dict, bet: str, approx: set = frozenset()) -> str | None:
-    """Tablo satırı: "2.5 Üst          %68   1.37" (eşit aralıklı yazıyla hizalı); kapalıysa "kapalı"."""
-    if bet in CLOSED:
-        return f"{label[:NAME_W]:<{NAME_W}}{'':>5}  kapalı"
-    if bet not in probs:
-        return None
-    pct = ("~" if bet in approx else "") + f"%{100 * probs[bet]:.0f}"
-    odd = f"{odds[bet]:.2f}" if bet in odds else "—"
-    return f"{label[:NAME_W]:<{NAME_W}}{pct:>5}  {odd:>5}"
-
-
-def _short_name(name: str) -> str:
-    """Uzun oyuncu adı: "Roman Yaremchuk" -> "R. Yaremchuk" (tablo sütununa sığsın)."""
-    parts = name.split()
-    return name if len(name) <= NAME_W or len(parts) < 2 else f"{parts[0][0]}. {' '.join(parts[1:])}"
-
-
-def _table(title: str, rows) -> list:
-    rows = [r for r in rows if r]
-    return ["", title, "<pre>" + html.escape("\n".join(rows)) + "</pre>"] if rows else []
-
-
-def _picks(probs: dict, odds: dict) -> list:
-    """Maç başına öneri: güvenli (%70+, oran 1.20+), orta (%50-70, oran 1.40+), riskli (%25-50)."""
-    out = []
-    for icon, lo, hi, min_odd in [("🟢", 0.70, 1.01, 1.20), ("🟡", 0.50, 0.70, 1.40), ("🔴", 0.25, 0.50, 1.0)]:
-        cand = [(p, b) for b, p in probs.items() if lo <= p < hi and odds.get(b, 0) >= min_odd]
-        if cand:
-            p, b = max(cand)
-            out.append(f"{icon} <b>{html.escape(b)}</b> — %{100 * p:.0f} · oran <b>{odds[b]:.2f}</b>")
-    return out
-
-
-def match_block(r: dict, odds: dict, m: np.ndarray, cmat: np.ndarray | None, now_tr: datetime,
-                smod: dict | None = None) -> str:
-    """Tek maçın mesajı: başlık, öneriler, sonra konu konu hizalı tablolar (bahis · olasılık · İddaa oranı)."""
-    smod = smod or {}
-    sp, approx = stat_probs(odds, smod)
-    probs = {**goal_probs(m, odds), **corner_probs(odds, cmat), **sp}
-    probs.update({b: p for b, p in goal_probs(m, [f"{x} Üst" for x in ("1.5", "2.5", "3.5")] + ["KG Var"]).items()
-                  if b not in probs})  # İddaa'da kapalı olsa da olasılığı göster
-    fav = max(("1", "X", "2"), key=lambda s: probs.get(f"MS {s}", 0))
-    src = lambda model: "model" if model else "İddaa'ya göre"  # noqa: E731
-    out = [f"⚽ <b>{html.escape(r['maç'])}</b>", f"🕘 {r['saat']} · {html.escape(r['lig'])}", "", "⭐ <b>ÖNERİLER</b>"]
-    # öneri sadece modelin bilgi kattığı bahislerden: olasılığı İddaa'nın kendi oranından gelenler (milli maçlarda
-    # korner / kart / şut / faul, golcüler) öneriye girmez, tabloda bilgi olarak durur
-    from_iddaa = set(approx)
-    from_iddaa |= {b for b in probs if korner.is_corner_bet(b)} if cmat is None else set()
-    from_iddaa |= {b for b in probs if b.startswith(("Kart ", "En çok kart"))} if "kart" not in smod else set()
-    out += _picks({b: p for b, p in probs.items() if b in odds and b not in from_iddaa}, odds) or ["uygun öneri yok"]
-    out += _table("🎯 <b>Maç sonucu</b>", [_row(f"MS {s}", probs, odds, f"MS {s}") for s in ("1", "X", "2")] +
-                  [_row(b, probs, odds, b) for b in ("ÇŞ 1-X", "ÇŞ X-2", "ÇŞ 1-2")])
-    out += _table("⚽ <b>Goller</b>", [_row(f"{x} Üst", probs, odds, f"{x} Üst") for x in ("1.5", "2.5", "3.5", "4.5")] +
-                  [_row("2.5 Alt", probs, odds, "2.5 Alt"), _row("KG Var", probs, odds, "KG Var"),
-                   _row("KG Yok", probs, odds, "KG Yok")])
-    combos = sorted((b for b in probs if b.startswith(f"MS {fav} & ") and b in odds and probs[b] >= 0.15),
-                    key=lambda b: -probs[b])[:5]
-    out += _table(f"🔗 <b>MS {fav} + gol</b>", [_row(b[3:], probs, odds, b) for b in combos])
-    kor = sorted((b for b in probs if re.fullmatch(r"Korner [\d.]+ Üst", b) and 0.1 <= probs[b] <= 0.95),
-                 key=lambda b: float(b.split()[1]))
-    kfav = max(("1", "X", "2"), key=lambda s: probs.get(f"En çok korner {s}", -1))
-    out += _table(f"🚩 <b>Korner</b> <i>({src(cmat is not None)})</i>",
-                  [_row(b[7:], probs, odds, b) for b in kor] +
-                  [_row(f"En çok: {kfav}", probs, odds, f"En çok korner {kfav}")])
-    kart = sorted((b for b in probs if re.fullmatch(r"Kart [\d.]+ Üst", b)), key=lambda b: float(b.split()[1]))
-    cfav = max(("1", "X", "2"), key=lambda s: probs.get(f"En çok kart {s}", -1))
-    out += _table(f"🟨 <b>Kart</b> <i>({src('kart' in smod)})</i>",
-                  [_row(b[5:], probs, odds, b) for b in kart] + [_row(f"En çok: {cfav}", probs, odds, f"En çok kart {cfav}")])
-    stat_rows = []
-    for label, short in (("İsabetli şut", "İsabetli"), ("Şut", "Şut"), ("Faul", "Faul")):
-        tot = [b for b in probs if b.startswith(f"{label} Toplam ")][:3]  # toplam barajları
-        stat_rows += [_row(f"{short} {b.split()[-1]}", probs, odds, b, approx) for b in tot]
-    out += _table(f"👟 <b>Şut / faul (toplam)</b> <i>({src(bool({'şut', 'isabetli', 'faul'} & set(smod)))})</i>",
-                  stat_rows)
-    scorers = sorted((b for b in probs if b.startswith("Golcü:")), key=lambda b: -probs[b])[:4]
-    out += _table("🥅 <b>Gol atabilir</b> <i>(İddaa'ya göre)</i>",
-                  [_row(_short_name(b[7:]), probs, odds, b, approx) for b in scorers])
-    return "\n".join(out)
-
-
 def run(saat: str, gun: str | None = None) -> list[str]:
-    """Döner: maç başına Telegram (HTML) metinleri; ilk eleman başlık."""
-    from src import db
-    from src.predict import _fit_models
-    now_tr = datetime.now(timezone.utc) + timedelta(hours=3)
+    """Seçilen saatteki maçların Tier listesi: Telegram mesajları (günlük özetle aynı biçim)."""
+    from src import tavsiye, telegram
+    _, picks = tavsiye.run(config.RAW_DIR / "fixtures.csv", saat=saat, gun=gun)
+    now_tr = telegram._tr_now()
     day = pd.Timestamp(gun).date() if gun else now_tr.date()
-    raw = iddaa._get("competitions")
-    comps = iddaa.resolve_competitions(raw)
-    names = {c["i"]: str(c.get("n", "")).strip() for c in raw}
-    events = iddaa._get("events?st=1&type=0&version=0")["events"]
-    df = iddaa.parse_events(events, comps, names)
-    if df.empty:
-        return [f"{saat}: takip edilen maç yok"]
-    tr = pd.to_datetime(df["kickoff_utc"]) + pd.Timedelta(hours=3)
-    df = df[(tr.dt.date == day) & (tr.dt.strftime("%H:%M") == saat)].copy()
-    df, _ = iddaa._map_teams(df)
-    df = df.dropna(subset=["home", "away"])
-    if df.empty:
-        return [f"{day:%d.%m} {saat}: sistemin takip ettiği maç yok"]
-    ref = pd.Timestamp(day)
-    models = {}
-    if (df["div"] == config.MILLI).any():
-        models[config.MILLI] = milli.fit_current(ref)
-    club_divs = sorted(set(df["div"]) - {config.MILLI})
-    cmodels, smodels = {}, {}
-    if club_divs:
-        matches = db.load_matches()
-        refs = {d: ref for d in club_divs}
-        models.update(_fit_models(matches, refs,
-                                  {"xi": config.XI, "ridge": config.RIDGE, "ridge_total": config.RIDGE_TOTAL}, True))
-        cmodels = korner.fit_models(matches, refs)
-        smodels = {s: istatistik.fit_models(matches, refs, s) for s in istatistik.STATS}
-    blocks = []
-    for r in df.to_dict("records"):
-        mdl = models.get(r["div"])
-        if mdl is None:
-            continue
-        allodds = detail_markets(iddaa._get(f"event/{int(r['event_id'])}"), r["home_iddaa"], r["away_iddaa"],
-                                 keep_closed=True)
-        odds = {k: v for k, v in allodds.items() if np.isfinite(v)}
-        CLOSED.clear()
-        CLOSED.update(k for k, v in allodds.items() if not np.isfinite(v))  # tabloda "kapalı" yazılır
-        smod = {s: istatistik.probs(*ms[r["div"]].expected_goals(r["home"], r["away"], r["div"]), s)
-                for s, ms in smodels.items() if r["div"] in ms}
-        m = mdl.score_matrix(r["home"], r["away"], r["div"])
-        fair = devig([odds.get(f"MS {s}", np.nan) for s in ("1", "X", "2")], config.DEVIG_METHOD)
-        ou = devig([odds.get("2.5 Üst", np.nan), odds.get("2.5 Alt", np.nan)], config.DEVIG_METHOD)
-        if np.isfinite(fair).all() or np.isfinite(ou).all():
-            m = calibrate(m, tuple(fair), tuple(ou))  # tavsiye raporuyla aynı: İddaa'nın marjsız MS ve 2.5'ine ayarlı
-        cm = cmodels.get(r["div"])
-        cmat = korner.matrix(*cm.expected_goals(r["home"], r["away"], r["div"])) if cm is not None else None
-        comp = r.get("competition")
-        label = {"maç": f"{r['home_iddaa']} – {r['away_iddaa']}", "saat": saat,
-                 "lig": comp.split(",")[0] if isinstance(comp, str) and comp else r["div"]}
-        blocks.append(match_block(label, odds, m, cmat, now_tr, smod))
-    head = "\n".join([
-        f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({len(blocks)} maç)", "",
-        "Her maç ayrı mesajda:",
-        "⭐ en üstte öneriler: 🟢 güvenli (%70+) · 🟡 orta (%50-70) · 🔴 riskli (%25-50)",
-        "📋 tablolarda: <b>bahis · tutma olasılığı · İddaa oranı</b>", "",
-        "<i>Gol olasılıkları model (İddaa'nın marjsız oranına ayarlı). Korner / kart / şut: kulüplerde model, milli "
-        "maçlarda İddaa'nın oranından. ~ = İddaa'nın oranından, marj dahil (gerçekte biraz daha düşük).</i>"])
-    return [head] + blocks
+    if picks.empty:
+        return [f"🔎 <b>{day:%d.%m} · {saat}</b>: sistemin takip ettiği maç yok"]
+    header = f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({picks['maç'].nunique()} maç)"
+    return telegram.digest_parts(picks, now_tr, header, [])

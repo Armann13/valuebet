@@ -228,8 +228,9 @@ def _league_label(r: dict) -> str:
 
 def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config.RIDGE_TOTAL,
         joint=config.JOINT, motivation=config.MOTIVATION, as_of: str | None = None,
-        days: int = 4) -> tuple[str, pd.DataFrame]:
-    """Döner: markdown rapor ve seçilen tahminler tablosu (seviye, maç, tahmin, olasılık, oran, değer ...)."""
+        days: int = 4, saat: str | None = None, gun: str | None = None) -> tuple[str, pd.DataFrame]:
+    """Döner: markdown rapor ve seçilen tahminler tablosu (seviye, maç, tahmin, olasılık, oran, değer ...).
+    saat (ör. "21:45") verilirse sadece o saatte (TR) başlayan maçlar (gun: YYYY-AA-GG, varsayılan bugün)."""
     from src.predict import _fit_models
     matches = db.load_matches()
     if as_of:
@@ -239,6 +240,14 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
     else:
         (up, last_snap), train, price = _upcoming(fixtures_path), matches, "İddaa"
         title = f"# Tavsiyeler — {date.today():%d.%m.%Y}"
+        if saat:  # sadece seçilen saatteki maçlar (İddaa'da başlama saati olanlar)
+            day = pd.Timestamp(gun).date() if gun else (datetime.now(timezone.utc) + pd.Timedelta(hours=3)).date()
+            if up.empty or "kickoff_utc" not in up:
+                up = pd.DataFrame()
+            else:
+                ko = pd.to_datetime(up["kickoff_utc"]) + pd.Timedelta(hours=3)
+                up = up[(ko.dt.strftime("%H:%M") == saat) & (ko.dt.date == day)]
+            title = f"# Tavsiyeler — {day:%d.%m.%Y} {saat} maçları"
         if last_snap is not None:
             title += f"\n\nİddaa oranlarının son kaydı: {last_snap + pd.Timedelta(hours=3):%d.%m %H:%M} (TR saati)"
     md = [title, "",
