@@ -184,12 +184,15 @@ def cmd_telegram(args):
 
 
 def cmd_analiz(args):
-    from src import analiz, telegram
-    parts = analiz.run(args.saat, args.gun)
+    from src import analiz, sonuclar, telegram
+    rows = []
+    parts = analiz.run(args.saat, args.gun, log=rows)
     print("\n\n".join(parts))
-    if args.telegram:  # başlık ve her maç ayrı mesaj
+    if args.telegram:
         ok = all([telegram.send(p) for p in parts])
         print(f"  telegram: analiz gönderildi ({len(parts)} mesaj)" if ok else "  telegram: gönderilemedi")
+        if ok:  # gönderilen tahminler sonuç takibine (tavsiyeler/gecmis.csv): sonuçları ertesi sabah gelir
+            print(f"  sonuç takibine {sonuclar.record(rows, telegram._tr_now())} yeni tahmin eklendi")
         return ok
 
 

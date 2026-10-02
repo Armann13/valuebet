@@ -156,8 +156,9 @@ def corner_probs(odds: dict, cmat: np.ndarray | None) -> dict:
     return out
 
 
-def run(saat: str, gun: str | None = None) -> list[str]:
-    """Seçilen saatteki maçların Tier listesi: Telegram mesajları (günlük özetle aynı biçim)."""
+def run(saat: str, gun: str | None = None, log: list | None = None) -> list[str]:
+    """Seçilen saatteki maçların Tier listesi: Telegram mesajları (günlük özetle aynı biçim). log verilirse mesaja
+    giren tahmin satırları eklenir (sonuç takibi için kaydedilir, bkz. sonuclar.record)."""
     from src import tavsiye, telegram
     _, picks = tavsiye.run(config.RAW_DIR / "fixtures.csv", saat=saat, gun=gun)
     now_tr = telegram._tr_now()
@@ -165,4 +166,4 @@ def run(saat: str, gun: str | None = None) -> list[str]:
     if picks.empty:
         return [f"🔎 <b>{day:%d.%m} · {saat}</b>: sistemin takip ettiği maç yok"]
     header = f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({picks['maç'].nunique()} maç)"
-    return telegram.digest_parts(picks, now_tr, header, [])
+    return telegram.digest_parts(picks, now_tr, header, [] if log is None else log)
