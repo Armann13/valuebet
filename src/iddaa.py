@@ -32,7 +32,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (valuebet research script)", "Origin": "ht
 ODD_COLS = ["odd_1", "odd_x", "odd_2", "ou_line", "odd_alt", "odd_ust",
             "odd_1x", "odd_12", "odd_x2", "odd_kg_var", "odd_kg_yok",
             "odd_ms1_ust", "odd_ms2_ust", "odd_ms1_kg", "odd_msx_kg", "odd_ms2_kg",
-            "kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2"]
+            "kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2",
+            *[f"odd_iyms_{a}{b}" for a in "1x2" for b in "1x2"]]   # İY/MS (t=2, st=90; "1/1", "1/0" ...)
 CORNER_COLS = ["kor_line", "odd_kor_alt", "odd_kor_ust", "odd_kor_1", "odd_kor_x", "odd_kor_2"]
 WODD_COLS = ["wodd_1", "wodd_x", "wodd_2", "wodd_alt", "wodd_ust"]
 SCORE_COL = "odd_skor"   # kesin skor oranları (metin; bkz. modül açıklaması)
@@ -126,6 +127,11 @@ def parse_events(events: list, competitions: dict, names: dict | None = None) ->
                 for lab, col in (("1 ve Var", "ms1_kg"), ("0 ve Var", "msx_kg"), ("2 ve Var", "ms2_kg")):
                     if lab in o:
                         row[f"odd_{col}"] = o[lab]["odd"]
+            elif m.get("t") == 2 and m.get("st") == 90:  # ilk yarı / maç sonu
+                for lab, x in o.items():
+                    if re.fullmatch(r"[012]/[012]", str(lab)):
+                        a, b = (s.replace("0", "x") for s in lab.split("/"))
+                        row[f"odd_iyms_{a}{b}"] = x["odd"]
         rows.append(row)
     df = pd.DataFrame(rows)
     for c in ODD_COLS + WODD_COLS:

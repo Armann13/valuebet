@@ -28,8 +28,10 @@ TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en ol
 BASLIK = {"💎": "DEĞERLİ · oran adil fiyatın üstünde", "🟢": "TIER 1 · Düşük risk (%70+, oran 1.20+)",
           "🟡": "TIER 2 · Orta risk (%50-70, oran 1.40+)", "🔴": "TIER 3 · Yüksek risk (%25-50)",
           "⚡": "TIER 4 · Kesin skor (en olasılar)", "🔥": "TIER 5 · Kesin skor (yukarıdaki maçlar)",
-          "🚩": "KORNER · kulüp maçları"}
+          "🚩": "KORNER · kulüp maçları", "🔀": "TIER 8 · İlk yarı / maç sonu",
+          "🎫": "KUPON · orta risk (kombine)", "🎰": "SİSTEM KUPON"}
 KORNER_LIMIT = 6
+IYMS_LIMIT = 5
 CIZGI = "━━━━━━━━━━━━━━━"
 
 
@@ -102,6 +104,28 @@ def _section(icon: str, rows: pd.DataFrame, now_tr: datetime) -> list:
     return [CIZGI, f"{icon} <b>{BASLIK[icon]}</b>"] + [_fmt(r, now_tr) for r in _sorted(rows).to_dict("records")]
 
 
+def _coupon_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
+    """Kombine kupon (toplam oran, tutma olasılığı) ve sistem kupon (n'de k seçenekleri) bölümleri."""
+    import numpy as np
+
+    from src import kupon
+    out = []
+    combo = soon[soon["seviye"].str.startswith("🎫")]
+    if not combo.empty:
+        log += combo.to_dict("records")
+        out += _section("🎫", combo, now_tr)
+        out.append(f"<b>Toplam oran {np.prod(combo['odd']):.2f} · tutma olasılığı %{100 * np.prod(combo['p']):.0f}</b>")
+    sistem = soon[soon["seviye"].str.startswith("🎰")]
+    if len(sistem) >= 2:
+        log += sistem.to_dict("records")
+        out += _section("🎰", sistem, now_tr)
+        n = len(sistem)
+        for s in kupon.system_table(list(sistem["p"]), list(sistem["odd"])):
+            out.append(f"<b>{n}'de {s['k']}</b>: {s['kolon']} kolon · en az {s['k']} tutma %{100 * s['en_az_k']:.0f} · "
+                       f"kâr olasılığı %{100 * s['kar_olasiligi']:.0f}")
+    return out
+
+
 def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False,
                    log: list | None = None) -> tuple[list, dict]:
     """Gönderilecek mesajlar ve güncellenmiş durum (saf fonksiyon: test edilebilir).
@@ -141,6 +165,11 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
         log += kor.to_dict("records")
         if not kor.empty:
             lines += _section("🚩", kor, now_tr)
+        t8 = soon[soon["seviye"].str.startswith("🔀")].head(IYMS_LIMIT)
+        log += t8.to_dict("records")
+        if not t8.empty:
+            lines += _section("🔀", t8, now_tr)
+        lines += _coupon_lines(soon, now_tr, log)
         lines += [CIZGI, "<i>↳ = aynı maçta üst seviyedeki tahminin daha riskli devamı (bu tutarsa üstteki de tutar). "
                          "Uzun vadede kârlı olması beklenen sadece 💎.</i>", f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
         msgs.append("\n".join(lines))

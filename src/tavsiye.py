@@ -43,6 +43,30 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
 CORNER_TIER = "🚩 Korner — kulüp maçları"
 MAX_CORNERS = 10
+IYMS_TIER = "🔀 Tier 8 — İY/MS (ilk yarı / maç sonu)"
+MAX_IYMS = 8
+KUPON_TIER = "🎫 Kupon — orta risk (kombine)"
+SISTEM_TIER = "🎰 Sistem kupon"
+SISTEM_N = 8                  # sistem kuponda maç sayısı
+SISTEM_MIN_ODDS = 1.30
+
+
+def _iyms_col(bet: str) -> str:
+    a, b = bet.split()[1].lower().split("/")
+    return f"odd_iyms_{a}{b}"
+
+
+def _coupons(picks: pd.DataFrame, now: pd.Timestamp) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Bugün ve yarının Tier 1-2 (ve korner) tahminlerinden: orta riskli kombine (3-4 maç, toplam oran 3-6, en
+    yüksek tutma olasılığı) ve SISTEM_N maçlık sistem kupon (en olası, oranı SISTEM_MIN_ODDS+ tahminler)."""
+    from src import kupon
+    p = picks[np.isfinite(picks["odd"].astype(float)) & (picks["odd"] >= MIN_ODDS[0])].copy()
+    when = pd.to_datetime(p["baslama"].where(p["baslama"].astype(str).str.len() >= 16), errors="coerce")
+    p = p[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1))]
+    p = p.sort_values("p", ascending=False).drop_duplicates("maç")  # maç başına en olası tahmin
+    combo = kupon.best_combo(p.head(12).to_dict("records"))
+    sistem = p[p["odd"] >= SISTEM_MIN_ODDS].head(SISTEM_N)
+    return pd.DataFrame(combo, columns=p.columns), (sistem if len(sistem) >= 5 else sistem.iloc[:0])
 
 
 def _corner_col(bet: str) -> str:
@@ -253,7 +277,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         md += ["**Milli maçlar** ayrı bir modelle (milli takım sonuçları, tarafsız saha ve hazırlık maçı ağırlığıyla) "
                "tahmin edilir. Milli maçlar için keskin piyasa oranı olmadığından 💎 çıkmaz. İddaa sahayı "
                "bildirmediği için ev sahibi kendi sahasında sayılır.", ""]
-    cands, scores, corners = [], [], []
+    from src import kupon
+    cands, scores, corners, iyms = [], [], [], []
     for r in up.to_dict("records"):
         mdl = models.get(r["div"])
         if mdl is None:
@@ -296,6 +321,10 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         s_odd = sc.get(f"{i}-{j}", np.nan) if sc is not None else np.nan
         if not (listed and sc is not None and not np.isfinite(s_odd)):
             scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": s_odd})
+        for bet, p in kupon.iyms_probs(m).items():  # Tier 8: ilk yarı / maç sonu
+            odd = r.get(_iyms_col(bet), np.nan)
+            if odd > 1.0 or not listed:
+                iyms.append({**info, "tahmin": bet, "p": p, "odd": odd if odd > 1.0 else np.nan})
         cm = cmodels.get(r["div"])
         if cm is not None and listed:  # korner: sadece İddaa'da oranı olan bahisler
             cmat = korner.matrix(*cm.expected_goals(r["home"], r["away"], r["div"]))
@@ -321,7 +350,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             s += f", MBS {int(x['mbs'])}"
         s += {"piyasa": "", "oran": f" _({price} oranına ayarlı)_", "korner": " _(korner modeli)_"}.get(
             x["kaynak"], " _(sadece model)_")
-        if judged:
+        if judged and not str(x["tahmin"]).startswith("İY/MS"):  # provada İY/MS skoru (ilk yarı) yok
             s += f" → {int(x['hg'])}-{int(x['ag'])} {'✅' if bet_won(x['tahmin'], int(x['hg']), int(x['ag'])) else '❌'}"
         return s
 
@@ -371,6 +400,39 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
            "Milli maçlarda korner verisi olmadığından yok.", ""]
     md += [line(x) for x in k.to_dict("records")] or ["İddaa'da korner oranı açık kulüp maçı yok."]
     md += [""]
+    t8 = pd.DataFrame(iyms, columns=CAND_COLS)
+    t8["değer"], t8["gerçek_değer"] = t8["odd"] * t8["p"] - 1, False
+    t8 = t8.sort_values("p", ascending=False).groupby("maç").head(1).head(MAX_IYMS)  # maç başına en olası İY/MS
+    picked.append((IYMS_TIER, t8))
+    md += [f"## {IYMS_TIER}", "",
+           "Maç başına en olası ilk yarı / maç sonu sonucu (ör. 1/1 = ilk yarıyı da maçı da ev sahibi önde bitirir; 2/1 "
+           "= ilk yarı deplasman önde, maçı ev sahibi kazanır). Olasılıklar maç sonu skor tablosundan, her golün ilk "
+           "yarıda atılma olasılığı %44.6 (geçmiş maçlarda ölçüldü).", ""]
+    md += [line(x) for x in t8.to_dict("records")] or ["İY/MS oranı açık maç yok."]
+    md += [""]
+    if not as_of:
+        from src import kupon
+        legs = pd.concat([t for name, t in picked if name.startswith(("🟢", "🟡", "🚩"))], ignore_index=True)
+        legs = legs.reindex(columns=list(dict.fromkeys([*CAND_COLS, *legs.columns])))
+        combo, sistem = _coupons(legs, pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None))
+                                 + pd.Timedelta(hours=3))
+        picked += [(KUPON_TIER, combo), (SISTEM_TIER, sistem)]
+        md += [f"## {KUPON_TIER}", ""]
+        if combo.empty:
+            md += ["Bugün ve yarın için uygun kombine bulunamadı.", ""]
+        else:
+            md += [f"Toplam oran **{np.prod(combo['odd']):.2f}**, tutma olasılığı **%{100 * np.prod(combo['p']):.0f}** "
+                   "(maçlar bağımsız sayılır).", ""] + [line(x) for x in combo.to_dict("records")] + [""]
+        md += [f"## {SISTEM_TIER} ({len(sistem)} maç)", ""]
+        if sistem.empty:
+            md += ["Bugün ve yarın için en az 5 uygun maç yok.", ""]
+        else:
+            md += [line(x) for x in sistem.to_dict("records")] + ["", "| sistem | kolon | en az k tutma | kâr olasılığı | "
+                                                                    "beklenen dönüş (birim başına) |", "|---|---|---|---|---|"]
+            for s in kupon.system_table(list(sistem["p"]), list(sistem["odd"])):
+                md.append(f"| {len(sistem)}'de {s['k']} | {s['kolon']} | %{100 * s['en_az_k']:.0f} | "
+                          f"%{100 * s['kar_olasiligi']:.0f} | {s['beklenen_donus']:.2f} |")
+            md += [""]
     pos = c[c["gerçek_değer"] & (c["p"] >= 0.25)].sort_values("değer", ascending=False).head(15)
     picked.append(("💎 Değeri pozitif olanlar", pos))
     md += ["## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)", "",
@@ -381,7 +443,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         md += ["", "## Sonuç özeti", "", "| seviye | tahmin | tuttu | isabet | oranı olan | kâr/zarar (1 birim) | beklenen isabet |",
                "|---|---|---|---|---|---|---|"]
         for tname, t in picked:
-            if t.empty:
+            if t.empty or tname == IYMS_TIER:  # provada ilk yarı skoru yok
                 continue
             won = np.array([bet_won(b, int(h), int(a)) for b, h, a in zip(t["tahmin"], t["hg"], t["ag"])])
             has = np.isfinite(t["odd"].to_numpy(float))

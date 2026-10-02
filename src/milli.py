@@ -181,10 +181,15 @@ def parse_espn(data: dict, league: str, resolve) -> tuple[list, set]:
                 score = {k: float(c["score"]) for k, c in side.items()}
         except (KeyError, TypeError, ValueError):
             continue
+        try:  # ilk yarı skoru (İY/MS sonuçları için)
+            ht = {k: int(float(c["linescores"][0]["value"])) for k, c in side.items()}
+        except (KeyError, IndexError, TypeError, ValueError):
+            ht = {"home": None, "away": None}
         rows.append({"date": e["date"][:10], "home_team": names["home"], "away_team": names["away"],
                      "home_score": int(score["home"]), "away_score": int(score["away"]),
                      "tournament": ESPN_LEAGUES[league], "city": "", "country": "",
-                     "neutral": "TRUE" if league in ESPN_FINALS else "FALSE"})
+                     "neutral": "TRUE" if league in ESPN_FINALS else "FALSE",
+                     "home_ht": ht["home"], "away_ht": ht["away"]})
     return rows, unknown
 
 
@@ -277,7 +282,10 @@ def load_results(path=None, since: str = "2008-01-01") -> pd.DataFrame:
     df = pd.DataFrame({"date": pd.to_datetime(r["date"]), "div": config.MILLI, "home": r["home_team"],
                        "away": r["away_team"], "fthg": r["home_score"].astype(int),
                        "ftag": r["away_score"].astype(int), "tournament": r["tournament"],
-                       "neutral": r["neutral"].astype(str).str.upper().eq("TRUE")})
+                       "neutral": r["neutral"].astype(str).str.upper().eq("TRUE"),
+                       # ilk yarı skoru (sadece ESPN'den gelen maçlarda)
+                       "hthg": pd.to_numeric(r["home_ht"], errors="coerce") if "home_ht" in r else np.nan,
+                       "htag": pd.to_numeric(r["away_ht"], errors="coerce") if "away_ht" in r else np.nan})
     df["friendly"] = df["tournament"].isin(FRIENDLY_LIKE)
     return df.sort_values("date", kind="stable").reset_index(drop=True)
 

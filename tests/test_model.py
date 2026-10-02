@@ -275,6 +275,7 @@ def test_parse_iddaa():
                  {"t": 2, "st": 7, "sov": "2.5", "o": [{"n": "1 ve Üst", "odd": 2.05}, {"n": "2 ve Üst", "odd": 9.5}]},
                  {"t": 2, "st": 698, "o": [{"n": "1 ve Var", "odd": 2.9}, {"n": "0 ve Var", "odd": 7.0},
                                            {"n": "2 ve Var", "odd": 1.0}]},
+                 {"t": 2, "st": 90, "o": [{"n": "1/1", "odd": 2.05}, {"n": "2/1", "odd": 21.1}, {"n": "0/0", "odd": 6.8}]},
                  {"t": 2, "st": 89, "o": [{"no": 1, "odd": 1.7, "n": "Var"}, {"no": 2, "odd": 2.0, "n": "Yok"}]}]},
           {"i": 2, "hn": "X", "an": "Y", "ci": 999, "d": 1790870400, "m": []}]  # başka lig: atlanır
     df = parse_events(ev, {129: "SP1"})
@@ -285,6 +286,7 @@ def test_parse_iddaa():
     assert np.isnan(r["odd_1x"]) and r["odd_12"] == 1.12 and r["odd_kg_var"] == 1.7
     assert (r["odd_ms1_ust"], r["odd_ms2_ust"], r["odd_ms1_kg"], r["odd_msx_kg"]) == (2.05, 9.5, 2.9, 7.0)
     assert np.isnan(r["odd_ms2_kg"])
+    assert (r["odd_iyms_11"], r["odd_iyms_21"], r["odd_iyms_xx"]) == (2.05, 21.1, 6.8) and np.isnan(r["odd_iyms_12"])
     from src.iddaa import parse_scores, score_odds
     detail = {"m": [{"t": 2, "st": 717, "o": [{"n": "1:0", "odd": 3.4}]},  # ilk yarı skoru: alınmaz
                     {"t": 2, "st": 86, "o": [{"n": "1:0", "odd": 10.15}, {"n": "2:0", "odd": 6.97},
@@ -447,6 +449,33 @@ def test_telegram_messages():
     assert "Günün tavsiyeleri" in msgs[0]
 
 
+def test_kupon():
+    """İY/MS olasılıkları maç sonuyla tutarlı; kombine ve sistem kupon hesabı."""
+    from src import kupon
+    from src.tavsiye import market_probs
+    from tests.make_synthetic import dc_matrix
+    m = dc_matrix(1.6, 1.0)
+    iy = kupon.iyms_probs(m)
+    ms = market_probs(m)
+    assert abs(sum(iy.values()) - 1) < 1e-9 and len(iy) == 9
+    for s in ("1", "X", "2"):  # maç sonu marjinali aynı
+        assert abs(sum(v for k, v in iy.items() if k.endswith("/" + s)) - ms[f"MS {s}"]) < 1e-9
+    assert iy["İY/MS 1/1"] > iy["İY/MS 2/1"] > 0
+    assert kupon.iyms_won("İY/MS 2/1", 0, 1, 2, 1) and not kupon.iyms_won("İY/MS 1/1", 0, 0, 1, 0)
+    c = [{"maç": f"M{i}", "p": p, "odd": o, "mbs": 1} for i, (p, o) in
+         enumerate([(0.8, 1.2), (0.75, 1.25), (0.7, 1.35), (0.65, 1.45), (0.6, 1.55), (0.55, 1.7)])]
+    combo = kupon.best_combo(c)
+    odds = np.prod([x["odd"] for x in combo])
+    assert 3.0 <= odds <= 6.0 and len({x["maç"] for x in combo}) == len(combo) in (3, 4)
+    assert kupon.best_combo([{**x, "mbs": 4 if i == 0 else 1} for i, x in enumerate(c)], sizes=(3,)) and \
+        all(x["maç"] != "M0" for x in kupon.best_combo([{**x, "mbs": 4 if i == 0 else 1} for i, x in enumerate(c)],
+                                                     sizes=(3,)))  # MBS 4'lü maç 3'lü kupona giremez
+    ps, os_ = [0.7, 0.6, 0.8, 0.65, 0.75], [1.4, 1.6, 1.25, 1.5, 1.3]
+    tab = {r["k"]: r for r in kupon.system_table(ps, os_)}
+    assert abs(tab[5]["en_az_k"] - np.prod(ps)) < 1e-12 and abs(tab[5]["beklenen_donus"] - np.prod(np.multiply(ps, os_))) < 1e-12
+    assert tab[2]["kolon"] == 10 and tab[2]["en_az_k"] > tab[4]["en_az_k"]
+
+
 def test_analiz():
     """Maç analizi: İddaa detayından market adları ve skor tablosundan olasılıklar."""
     from src.analiz import corner_probs, detail_markets, goal_probs
@@ -514,12 +543,16 @@ def test_sonuclar():
              "lig": "UEFA Uluslar Ligi", "seviye": "🔴 Tier 3 — Yüksek risk", "tahmin": "MS 2 & KG Var", "p": 0.3,
              "odd": 3.2},
             {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
-             "lig": "SP1", "seviye": "🚩 Korner — kulüp maçları", "tahmin": "Korner 9.5 Üst", "p": 0.55, "odd": 1.8}]
+             "lig": "SP1", "seviye": "🚩 Korner — kulüp maçları", "tahmin": "Korner 9.5 Üst", "p": 0.55, "odd": 1.8},
+            {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
+             "lig": "SP1", "seviye": "🔀 Tier 8 — İY/MS", "tahmin": "İY/MS X/X", "p": 0.2, "odd": 4.5},
+            {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
+             "lig": "SP1", "seviye": "🎫 Kupon — orta risk", "tahmin": "ÇŞ 1-X", "p": 0.8, "odd": 1.25}]
     old_dir = config.TAVSIYE_DIR
     with tempfile.TemporaryDirectory() as d:
         config.TAVSIYE_DIR = Path(d)
         try:
-            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 5
+            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 7  # kupon ayağı Tier 1'den ayrı sayılır
             assert sonuclar.record(rows[:1], datetime(2026, 10, 1, 18, 20)) == 0  # akşam özetinde tekrar: sayılmaz
             log = sonuclar.load_log()
         finally:
@@ -527,14 +560,16 @@ def test_sonuclar():
     res = pd.DataFrame({"div": ["SP1", "MILLI", "MILLI"], "date": pd.to_datetime(["2026-10-01", "2026-10-03", "2026-09-20"]),
                         "home": ["Betis", "Spain", "Norway"], "away": ["Getafe", "Czech Republic", "Wales"],
                         "fthg": [1, 2, 1], "ftag": [1, 0, 1], "hc": [7, np.nan, np.nan],
-                        "ac": [4, np.nan, np.nan]})  # İspanya maçı ertesi gün yazılmış (saat dilimi)
+                        "ac": [4, np.nan, np.nan], "hthg": [0, 1, np.nan], "htag": [0, 0, np.nan]})  # İspanya maçı ertesi gün (saat dilimi)
     log = sonuclar.settle(log, res)
     assert (log["hg"].iloc[:3].tolist(), log["ag"].iloc[:3].tolist()) == ([1, 1, 2], [1, 1, 0])
     assert np.isnan(log["hg"].iloc[3])  # Galler maçının sonucu henüz yok (eski karşılaşma tarih tutmuyor)
     assert (log["hk"].iloc[4], log["ak"].iloc[4]) == (7, 4)  # korner: 11 > 9.5
     s = {x["icon"]: x for x in sonuclar.stats(log)}
     assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)
-    assert "korner 7-4" in sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
+    assert s["🔀"]["tutan"] == 1 and s["🎫"]["tutan"] == 1  # İY 0-0, MS 1-1: X/X tuttu
+    msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
+    assert "korner 7-4" in msg and "İY 0-0, MS 1-1" in msg and "🎫 Kupon (1 maç, oran 1.25): ✅ tuttu" in msg, msg
     assert abs(s["🟢"]["kâr_zarar"] - 0.25) < 1e-9 and s["🟡"]["kâr_zarar"] == -1 and s["🔴"]["sonuçlanan"] == 0
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
