@@ -1,29 +1,48 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 02.10.2026 09:33. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 02.10.2026 09:55. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 7 | 2 | 2 | %100 | %87 | +0.21 | %11 |
-| 🟡 Tier 2 | 11 | 2 | 2 | %100 | %68 | +0.73 | %37 |
-| 🔴 Tier 3 | 7 | 3 | 2 | %67 | %43 | +1.69 | %56 |
+| 🟢 Tier 1 | 12 | 2 | 2 | %100 | %87 | +0.21 | %11 |
+| 🟡 Tier 2 | 15 | 2 | 2 | %100 | %68 | +0.73 | %37 |
+| 🔴 Tier 3 | 9 | 3 | 2 | %67 | %43 | +1.69 | %56 |
 | ⚡ Tier 4 | 7 | 1 | 0 | %0 | %21 | -1.00 | %-100 |
-| 🔥 Tier 5 | 10 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
+| 🔥 Tier 5 | 14 | 2 | 0 | %0 | %13 | -2.00 | %-100 |
+| 🚩 Korner | 3 | 0 | 0 | — | — | — | — |
 
 ## Gün gün
 
 | gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
-| 02.10.2026 | 19 | 1 | 1 | %100 | %68 | +0.37 |
-| 03.10.2026 | 13 | 0 | 0 | — | — | — |
+| 02.10.2026 | 22 | 1 | 1 | %100 | %68 | +0.37 |
+| 03.10.2026 | 28 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 03.10 | 🚩 | Cadiz – Leganes | Korner 9.5 Alt | %59 | 1.60 | — | ⏳ |
+| 03.10 | 🚩 | Albacete – Eibar | En çok korner 1 | %60 | 1.69 | — | ⏳ |
+| 03.10 | 🚩 | Almeria – CF Burgos | En çok korner 1 | %65 | 1.31 | — | ⏳ |
+| 02.10 | 🔥 | Bosna Hersek – İsveç | 1-1 | %11 | 6.02 | — | ⏳ |
+| 03.10 | 🔥 | Yeovil Town – Boston United | 2-1 | %12 | 6.80 | — | ⏳ |
+| 03.10 | 🔥 | İspanya – Çekya | 3-0 | %14 | 5.11 | — | ⏳ |
+| 03.10 | 🔥 | Kuzey Makedonya – İskoçya | 0-1 | %15 | 5.28 | — | ⏳ |
+| 03.10 | 🔴 | Hamilton – Peterhead | MS 1 & 2.5 Üst | %49 | 1.82 | — | ⏳ |
+| 03.10 | 🔴 | Yeovil Town – Boston United | MS 1 | %50 | 1.81 | — | ⏳ |
+| 03.10 | 🟡 | Kanada – Peru | MS 1 | %63 | 1.46 | — | ⏳ |
+| 03.10 | 🟡 | G. Morton – Raith Rovers | MS 2 | %63 | 1.46 | — | ⏳ |
+| 02.10 | 🟡 | Saint Lucia – Guadeloupe | 2.5 Üst | %64 | 1.41 | — | ⏳ |
+| 03.10 | 🟡 | Livingston – Ayr United | MS 1 | %64 | 1.44 | — | ⏳ |
+| 02.10 | 🟢 | Bosna Hersek – İsveç | ÇŞ 1-2 | %75 | 1.21 | — | ⏳ |
+| 03.10 | 🟢 | Kuzey Makedonya – İskoçya | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
+| 03.10 | 🟢 | İspanya – Çekya | 2.5 Üst | %77 | 1.23 | — | ⏳ |
+| 03.10 | 🟢 | Hamilton – Peterhead | MS 1 | %77 | 1.23 | — | ⏳ |
+| 03.10 | 🟢 | İsviçre – Slovenya | MS 1 | %80 | 1.20 | — | ⏳ |
 | 02.10 | 🔥 | Belçika – Türkiye | 2-1 | %10 | 7.45 | — | ⏳ |
 | 03.10 | 🔥 | Aldershot – Carlisle | 1-2 | %11 | 6.97 | — | ⏳ |
 | 03.10 | 🔥 | Livingston – Ayr United | 2-1 | %12 | 6.44 | — | ⏳ |
