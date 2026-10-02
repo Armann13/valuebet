@@ -27,9 +27,9 @@ STAT_MARKETS = {912: "Şut", 913: "İsabetli şut", 914: "Faul"}   # "Takım Şu
 STAT_OF = {"Şut": "şut", "İsabetli şut": "isabetli", "Faul": "faul", "Kart": "kart"}
 
 
-def detail_markets(detail: dict, home: str | None = None, away: str | None = None) -> dict:
-    """Maç detayından tahmin adı -> İddaa oranı (kapalı sonuçlar hariç). home / away: İddaa'daki takım adları
-    (takım bazlı şut / faul barajlarını ev / deplasmana eşlemek için)."""
+def detail_markets(detail: dict, home: str | None = None, away: str | None = None, keep_closed: bool = False) -> dict:
+    """Maç detayından tahmin adı -> İddaa oranı. home / away: İddaa'daki takım adları (takım bazlı şut / faul
+    barajlarını ev / deplasmana eşlemek için). Kapalı sonuçlar (1.00) atlanır; keep_closed=True ise NaN olarak kalır."""
     out = {}
     for m in detail.get("m", []):
         t, st, line = m.get("t"), m.get("st"), iddaa._line(m)
@@ -70,7 +70,7 @@ def detail_markets(detail: dict, home: str | None = None, away: str | None = Non
             out.update({f"Korner {line:g} Alt": o.get("Alt"), f"Korner {line:g} Üst": o.get("Üst")})
         elif t == 2 and st == 52:
             out.update({f"En çok korner {SIDE[k]}": v for k, v in o.items() if k in SIDE})
-    return {k: v for k, v in out.items() if v is not None and np.isfinite(v)}
+    return {k: v for k, v in out.items() if v is not None and (keep_closed or np.isfinite(v))}
 
 
 def _mask(bet: str, h: np.ndarray, a: np.ndarray) -> np.ndarray:
@@ -163,8 +163,13 @@ def corner_probs(odds: dict, cmat: np.ndarray | None) -> dict:
 NAME_W = 14   # tablolarda bahis adı sütunu (telefonda tek satıra sığsın)
 
 
+CLOSED: set = set()   # match_block sırasında: o maçta İddaa'da kapalı (1.00) sonuçlar
+
+
 def _row(label: str, probs: dict, odds: dict, bet: str, approx: set = frozenset()) -> str | None:
-    """Tablo satırı: "2.5 Üst          %68   1.37" (eşit aralıklı yazıyla hizalı)."""
+    """Tablo satırı: "2.5 Üst          %68   1.37" (eşit aralıklı yazıyla hizalı); kapalıysa "kapalı"."""
+    if bet in CLOSED:
+        return f"{label[:NAME_W]:<{NAME_W}}{'':>5}  kapalı"
     if bet not in probs:
         return None
     pct = ("~" if bet in approx else "") + f"%{100 * probs[bet]:.0f}"
@@ -205,7 +210,12 @@ def match_block(r: dict, odds: dict, m: np.ndarray, cmat: np.ndarray | None, now
     fav = max(("1", "X", "2"), key=lambda s: probs.get(f"MS {s}", 0))
     src = lambda model: "model" if model else "İddaa'ya göre"  # noqa: E731
     out = [f"⚽ <b>{html.escape(r['maç'])}</b>", f"🕘 {r['saat']} · {html.escape(r['lig'])}", "", "⭐ <b>ÖNERİLER</b>"]
-    out += _picks({b: p for b, p in probs.items() if b in odds and b not in approx}, odds) or ["uygun öneri yok"]
+    # öneri sadece modelin bilgi kattığı bahislerden: olasılığı İddaa'nın kendi oranından gelenler (milli maçlarda
+    # korner / kart / şut / faul, golcüler) öneriye girmez, tabloda bilgi olarak durur
+    from_iddaa = set(approx)
+    from_iddaa |= {b for b in probs if korner.is_corner_bet(b)} if cmat is None else set()
+    from_iddaa |= {b for b in probs if b.startswith(("Kart ", "En çok kart"))} if "kart" not in smod else set()
+    out += _picks({b: p for b, p in probs.items() if b in odds and b not in from_iddaa}, odds) or ["uygun öneri yok"]
     out += _table("🎯 <b>Maç sonucu</b>", [_row(f"MS {s}", probs, odds, f"MS {s}") for s in ("1", "X", "2")] +
                   [_row(b, probs, odds, b) for b in ("ÇŞ 1-X", "ÇŞ X-2", "ÇŞ 1-2")])
     out += _table("⚽ <b>Goller</b>", [_row(f"{x} Üst", probs, odds, f"{x} Üst") for x in ("1.5", "2.5", "3.5", "4.5")] +
@@ -273,7 +283,11 @@ def run(saat: str, gun: str | None = None) -> list[str]:
         mdl = models.get(r["div"])
         if mdl is None:
             continue
-        odds = detail_markets(iddaa._get(f"event/{int(r['event_id'])}"), r["home_iddaa"], r["away_iddaa"])
+        allodds = detail_markets(iddaa._get(f"event/{int(r['event_id'])}"), r["home_iddaa"], r["away_iddaa"],
+                                 keep_closed=True)
+        odds = {k: v for k, v in allodds.items() if np.isfinite(v)}
+        CLOSED.clear()
+        CLOSED.update(k for k, v in allodds.items() if not np.isfinite(v))  # tabloda "kapalı" yazılır
         smod = {s: istatistik.probs(*ms[r["div"]].expected_goals(r["home"], r["away"], r["div"]), s)
                 for s, ms in smodels.items() if r["div"] in ms}
         m = mdl.score_matrix(r["home"], r["away"], r["div"])
