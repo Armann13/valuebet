@@ -119,6 +119,24 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
    gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
    ```
 
+### Maç analizi (belli saatteki maçlar, tüm marketler)
+
+`python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions → "Maç analizi" → Run
+workflow (saat gir): o saatte başlayan maçlar için MS, çifte şans, gol alt/üst (tüm barajlar), KG, MS + toplam gol,
+MS + KG, korner (tüm barajlar, en çok korner), kart, şut, isabetli şut, faul ve golcüler; her biri olasılık ve İddaa
+oranıyla, maç başına güvenli / orta / riskli öneri. Kulüp maçlarında korner / kart / şut / faul modelden
+(`src/korner.py`, `src/istatistik.py`), milli maçlarda veri olmadığından İddaa'nın oranından; golcüler her zaman
+İddaa'nın oranından (oyuncu verisi yok).
+
+### Kupon ve Tier 8 (İY/MS)
+
+- **🎫 Kombine kupon (orta risk):** bugün / yarının Tier 1-2 ve korner tahminlerinden 3-4 maç, toplam oran 3-6,
+  tutma olasılığı en yüksek olan (MBS kuralına uygun).
+- **🎰 Sistem kupon:** en olası 8 maç (oran 1.30+); "8'de k" için kolon sayısı, en az k tutma ve kâra geçme
+  olasılığı. Düşük oranlarla sistem kuponun kâra geçme olasılığı, "en az k tutma" olasılığından çok düşüktür.
+- **🔀 Tier 8 (İY/MS):** maç başına en olası ilk yarı / maç sonu (her golün ilk yarıda atılma olasılığı %44.6).
+- Sonuç takibi kupon ve sistemi bütün olarak da değerlendirir.
+
 ### Korner
 
 - Sadece kulüp maçları: football-data'da maç başı korner sayısı (HC / AC) 22 ligin 21'inde var (National League
