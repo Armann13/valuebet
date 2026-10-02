@@ -187,9 +187,9 @@ def cmd_analiz(args):
     from src import analiz, telegram
     parts = analiz.run(args.saat, args.gun)
     print("\n\n".join(parts))
-    if args.telegram:
-        ok = telegram.send("\n\n".join(parts))
-        print("  telegram: analiz gönderildi" if ok else "  telegram: gönderilemedi")
+    if args.telegram:  # başlık ve her maç ayrı mesaj
+        ok = all([telegram.send(p) for p in parts])
+        print(f"  telegram: analiz gönderildi ({len(parts)} mesaj)" if ok else "  telegram: gönderilemedi")
         return ok
 
 

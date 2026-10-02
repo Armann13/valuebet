@@ -420,17 +420,18 @@ def test_telegram_messages():
         *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": float("nan"), "değer": float("nan"),
            "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("G – H", "3-3")]]])
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
-    assert "TIER 5" in msgs[0] and "<b>0-2</b>" in msgs[0] and "G – H" not in msgs[0]
-    assert msgs[0].count("<b>1-0</b>") == 1  # Tier 4'teki skor Tier 5'te tekrar etmez
-    msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet
-    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
-    assert "TIER 4" in msgs[0] and "<b>1-0</b>" in msgs[0]  # kesin skor da özette
+    allt = "\n".join(msgs)
+    assert "TIER 5" in allt and "➜ 0-2 " in allt and "G – H" not in allt
+    assert allt.count("➜ 1-0 ") == 1  # Tier 4'teki skor Tier 5'te tekrar etmez
+    msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (2 mesaj)
+    assert len(msgs) == 2 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
+    assert "TIER 4" in msgs[1] and "➜ 1-0 " in msgs[1] and "Tam rapor" in msgs[1]  # skorlar ikinci mesajda
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
     assert _fmt({**r, "baslama": "2026-10-03 21:45"}, datetime(2026, 10, 3, 10, 0)) == \
-        "<b>21:45</b> · A – B\n└ <b>MS 1</b> · %70 · İddaa <b>1.40</b> · MBS 3"
-    assert _fmt({**r, "baslama": "2026-10-04 19:00"}, datetime(2026, 10, 3, 10, 0)).startswith("<b>Yarın 19:00</b>")
+        "🕘 21:45 · <b>A – B</b>\n➜ MS 1 · %70 · <b>1.40</b> · MBS 3"
+    assert _fmt({**r, "baslama": "2026-10-04 19:00"}, datetime(2026, 10, 3, 10, 0)).startswith("🕘 Yarın 19:00")
     assert "💎" in _fmt({**r, "gerçek_değer": True, "değer": 0.05}, datetime(2026, 10, 3, 10, 0))
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 13, 0))  # aynı gün tekrar: hiçbir şey
     assert msgs == []
@@ -438,11 +439,11 @@ def test_telegram_messages():
     msgs, st = build_messages(new, st, datetime(2026, 10, 3, 16, 0))  # yeni 💎: anlık uyarı
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0] and "C – D" in msgs[0] and "A – B" not in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 18, 30))  # akşam özeti (💎 tekrar uyarı olarak gelmez)
-    assert len(msgs) == 1 and "Akşam güncellemesi" in msgs[0]
+    assert len(msgs) == 2 and "Akşam güncellemesi" in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 21, 0))  # aynı akşam tekrar: hiçbir şey
     assert msgs == []
     msgs, st2 = build_messages(picks, st, datetime(2026, 10, 3, 21, 5), force=True)  # elle istenen güncel özet
-    assert len(msgs) == 1 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
+    assert len(msgs) == 2 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi

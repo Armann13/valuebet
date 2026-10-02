@@ -160,78 +160,80 @@ def corner_probs(odds: dict, cmat: np.ndarray | None) -> dict:
     return out
 
 
-def _fmt(bet: str, probs: dict, odds: dict, short: str | None = None) -> str | None:
+NAME_W = 14   # tablolarda bahis adı sütunu (telefonda tek satıra sığsın)
+
+
+def _row(label: str, probs: dict, odds: dict, bet: str, approx: set = frozenset()) -> str | None:
+    """Tablo satırı: "2.5 Üst          %68   1.37" (eşit aralıklı yazıyla hizalı)."""
     if bet not in probs:
         return None
-    s = f"{short or bet} %{100 * probs[bet]:.0f}"
-    return s + (f" ({odds[bet]:.2f})" if bet in odds else "")
+    pct = ("~" if bet in approx else "") + f"%{100 * probs[bet]:.0f}"
+    odd = f"{odds[bet]:.2f}" if bet in odds else "—"
+    return f"{label[:NAME_W]:<{NAME_W}}{pct:>5}  {odd:>5}"
+
+
+def _short_name(name: str) -> str:
+    """Uzun oyuncu adı: "Roman Yaremchuk" -> "R. Yaremchuk" (tablo sütununa sığsın)."""
+    parts = name.split()
+    return name if len(name) <= NAME_W or len(parts) < 2 else f"{parts[0][0]}. {' '.join(parts[1:])}"
+
+
+def _table(title: str, rows) -> list:
+    rows = [r for r in rows if r]
+    return ["", title, "<pre>" + html.escape("\n".join(rows)) + "</pre>"] if rows else []
 
 
 def _picks(probs: dict, odds: dict) -> list:
     """Maç başına öneri: güvenli (%70+, oran 1.20+), orta (%50-70, oran 1.40+), riskli (%25-50)."""
     out = []
-    for name, lo, hi, min_odd in [("🟢 Güvenli", 0.70, 1.01, 1.20), ("🟡 Orta", 0.50, 0.70, 1.40),
-                                  ("🔴 Riskli", 0.25, 0.50, 1.0)]:
+    for icon, lo, hi, min_odd in [("🟢", 0.70, 1.01, 1.20), ("🟡", 0.50, 0.70, 1.40), ("🔴", 0.25, 0.50, 1.0)]:
         cand = [(p, b) for b, p in probs.items() if lo <= p < hi and odds.get(b, 0) >= min_odd]
         if cand:
             p, b = max(cand)
-            out.append(f"{name}: <b>{html.escape(b)}</b> %{100 * p:.0f} ({odds[b]:.2f})")
-    return out
-
-
-def _stat_lines(probs: dict, odds: dict, approx: set, has_model: dict) -> list:
-    """Kart, şut, isabetli şut, faul ve golcü satırları."""
-    j = lambda items: " · ".join(x for x in items if x)  # noqa: E731
-    pct = lambda b: ("~" if b in approx else "") + f"%{100 * probs[b]:.0f}"  # noqa: E731
-    out = []
-    kart = sorted({float(b.split()[1]) for b in probs if re.fullmatch(r"Kart [\d.]+ Üst", b)})
-    if kart or any(b.startswith("En çok kart") for b in probs):
-        src = "model" if has_model.get("kart") else "İddaa'ya göre"
-        out.append(f"<b>Kart üst</b> <i>({src})</i>: " + j(_fmt(f"Kart {x:g} Üst", probs, odds, f"{x:g}") for x in kart))
-        out.append("<b>En çok kart:</b> " + j(_fmt(f"En çok kart {s}", probs, odds, s) for s in ("1", "X", "2")))
-    for label, stat in (("İsabetli şut", "isabetli"), ("Şut", "şut"), ("Faul", "faul")):
-        bets = [b for b in probs if b.rsplit(" ", 2)[0] == label]  # "İsabetli şut Ev 6+" -> "İsabetli şut"
-        if bets:
-            src = "model" if has_model.get(stat) else "İddaa'ya göre, marj dahil"
-            out.append(f"<b>{label}</b> <i>({src})</i>: " + j(f"{b.split(' ', len(label.split()))[-1]} {pct(b)} "
-                                                             f"({odds[b]:.2f})" for b in bets))
-    scorers = sorted((b for b in probs if b.startswith("Golcü:")), key=lambda b: -probs[b])[:5]
-    if scorers:
-        out.append("<b>Gol atar</b> <i>(İddaa'ya göre, marj dahil)</i>: " +
-                   j(f"{html.escape(b[7:])} {pct(b)} ({odds[b]:.2f})" for b in scorers))
+            out.append(f"{icon} <b>{html.escape(b)}</b> — %{100 * p:.0f} · oran <b>{odds[b]:.2f}</b>")
     return out
 
 
 def match_block(r: dict, odds: dict, m: np.ndarray, cmat: np.ndarray | None, now_tr: datetime,
                 smod: dict | None = None) -> str:
+    """Tek maçın mesajı: başlık, öneriler, sonra konu konu hizalı tablolar (bahis · olasılık · İddaa oranı)."""
     smod = smod or {}
     sp, approx = stat_probs(odds, smod)
     probs = {**goal_probs(m, odds), **corner_probs(odds, cmat), **sp}
     probs.update({b: p for b, p in goal_probs(m, [f"{x} Üst" for x in ("1.5", "2.5", "3.5")] + ["KG Var"]).items()
                   if b not in probs})  # İddaa'da kapalı olsa da olasılığı göster
     fav = max(("1", "X", "2"), key=lambda s: probs.get(f"MS {s}", 0))
-    j = lambda items: " · ".join(x for x in items if x)  # noqa: E731
-    gol_lines = sorted({float(b.split()[0]) for b in probs if re.fullmatch(r"[\d.]+ Üst", b)})
-    kor_lines = sorted({float(b.split()[1]) for b in probs if re.fullmatch(r"Korner [\d.]+ Üst", b)})
-    lines = [f"⚽ <b>{r['saat']} · {html.escape(r['maç'])}</b> <i>({html.escape(r['lig'])})</i>",
-             "<b>MS:</b> " + j(_fmt(f"MS {s}", probs, odds, s) for s in ("1", "X", "2")),
-             "<b>Çifte şans:</b> " + j(_fmt(b, probs, odds, b[3:]) for b in ("ÇŞ 1-X", "ÇŞ X-2", "ÇŞ 1-2")),
-             "<b>Gol üst:</b> " + j(_fmt(f"{x:g} Üst", probs, odds, f"{x:g}") for x in gol_lines),
-             "<b>KG:</b> " + j(_fmt(b, probs, odds, b[3:]) for b in ("KG Var", "KG Yok")),
-             f"<b>MS {fav} + gol:</b> " + j(_fmt(f"MS {fav} & {x:g} {s}", probs, odds, f"{x:g} {s}")
-                                          for s in ("Üst", "Alt") for x in gol_lines),
-             f"<b>MS {fav} + KG:</b> " + j(_fmt(f"MS {fav} & KG {s}", probs, odds, s) for s in ("Var", "Yok"))]
-    if kor_lines or any(b.startswith("En çok korner") for b in probs):
-        src = "model" if cmat is not None else "İddaa'ya göre"
-        lines.append(f"<b>Korner üst</b> <i>({src})</i>: " + j(_fmt(f"Korner {x:g} Üst", probs, odds, f"{x:g}")
-                                                              for x in kor_lines))
-        lines.append("<b>En çok korner:</b> " + j(_fmt(f"En çok korner {s}", probs, odds, s) for s in ("1", "X", "2")))
-    else:
-        lines.append("<b>Korner:</b> İddaa'da henüz açık değil")
-    lines += _stat_lines(probs, odds, approx, {s: True for s in smod})
-    # öneri: ham (marj dahil) olasılıklar hariç
-    lines += _picks({b: p for b, p in probs.items() if b in odds and b not in approx}, odds)
-    return "\n".join(x for x in lines if not x.endswith(": "))
+    src = lambda model: "model" if model else "İddaa'ya göre"  # noqa: E731
+    out = [f"⚽ <b>{html.escape(r['maç'])}</b>", f"🕘 {r['saat']} · {html.escape(r['lig'])}", "", "⭐ <b>ÖNERİLER</b>"]
+    out += _picks({b: p for b, p in probs.items() if b in odds and b not in approx}, odds) or ["uygun öneri yok"]
+    out += _table("🎯 <b>Maç sonucu</b>", [_row(f"MS {s}", probs, odds, f"MS {s}") for s in ("1", "X", "2")] +
+                  [_row(b, probs, odds, b) for b in ("ÇŞ 1-X", "ÇŞ X-2", "ÇŞ 1-2")])
+    out += _table("⚽ <b>Goller</b>", [_row(f"{x} Üst", probs, odds, f"{x} Üst") for x in ("1.5", "2.5", "3.5", "4.5")] +
+                  [_row("2.5 Alt", probs, odds, "2.5 Alt"), _row("KG Var", probs, odds, "KG Var"),
+                   _row("KG Yok", probs, odds, "KG Yok")])
+    combos = sorted((b for b in probs if b.startswith(f"MS {fav} & ") and b in odds and probs[b] >= 0.15),
+                    key=lambda b: -probs[b])[:5]
+    out += _table(f"🔗 <b>MS {fav} + gol</b>", [_row(b[3:], probs, odds, b) for b in combos])
+    kor = sorted((b for b in probs if re.fullmatch(r"Korner [\d.]+ Üst", b) and 0.1 <= probs[b] <= 0.95),
+                 key=lambda b: float(b.split()[1]))
+    kfav = max(("1", "X", "2"), key=lambda s: probs.get(f"En çok korner {s}", -1))
+    out += _table(f"🚩 <b>Korner</b> <i>({src(cmat is not None)})</i>",
+                  [_row(b[7:], probs, odds, b) for b in kor] +
+                  [_row(f"En çok: {kfav}", probs, odds, f"En çok korner {kfav}")])
+    kart = sorted((b for b in probs if re.fullmatch(r"Kart [\d.]+ Üst", b)), key=lambda b: float(b.split()[1]))
+    cfav = max(("1", "X", "2"), key=lambda s: probs.get(f"En çok kart {s}", -1))
+    out += _table(f"🟨 <b>Kart</b> <i>({src('kart' in smod)})</i>",
+                  [_row(b[5:], probs, odds, b) for b in kart] + [_row(f"En çok: {cfav}", probs, odds, f"En çok kart {cfav}")])
+    stat_rows = []
+    for label, short in (("İsabetli şut", "İsabetli"), ("Şut", "Şut"), ("Faul", "Faul")):
+        tot = [b for b in probs if b.startswith(f"{label} Toplam ")][:3]  # toplam barajları
+        stat_rows += [_row(f"{short} {b.split()[-1]}", probs, odds, b, approx) for b in tot]
+    out += _table(f"👟 <b>Şut / faul (toplam)</b> <i>({src(bool({'şut', 'isabetli', 'faul'} & set(smod)))})</i>",
+                  stat_rows)
+    scorers = sorted((b for b in probs if b.startswith("Golcü:")), key=lambda b: -probs[b])[:4]
+    out += _table("🥅 <b>Gol atabilir</b> <i>(İddaa'ya göre)</i>",
+                  [_row(_short_name(b[7:]), probs, odds, b, approx) for b in scorers])
+    return "\n".join(out)
 
 
 def run(saat: str, gun: str | None = None) -> list[str]:
@@ -285,9 +287,11 @@ def run(saat: str, gun: str | None = None) -> list[str]:
         label = {"maç": f"{r['home_iddaa']} – {r['away_iddaa']}", "saat": saat,
                  "lig": comp.split(",")[0] if isinstance(comp, str) and comp else r["div"]}
         blocks.append(match_block(label, odds, m, cmat, now_tr, smod))
-    head = (f"🔎 <b>{day:%d.%m} {saat} maçları — ayrıntılı analiz</b>\n<i>% = tutma olasılığı, parantezde İddaa oranı. "
-            "Gol olasılıkları modelin skor tablosundan, İddaa'nın marjsız MS ve 2.5 alt/üst oranına ayarlı. "
-            "Korner, kart, şut ve faul: kulüp maçlarında model; milli maçlarda veri olmadığından İddaa'nın oranından "
-            "(~ = marj dahil, gerçekte biraz daha düşük). Golcü olasılıkları İddaa'nın oranından (oyuncu verimiz yok). "
-            "Öneri: maç başına güvenli (%70+, oran 1.20+), orta (%50-70, oran 1.40+), riskli (%25-50).</i>")
+    head = "\n".join([
+        f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({len(blocks)} maç)", "",
+        "Her maç ayrı mesajda:",
+        "⭐ en üstte öneriler: 🟢 güvenli (%70+) · 🟡 orta (%50-70) · 🔴 riskli (%25-50)",
+        "📋 tablolarda: <b>bahis · tutma olasılığı · İddaa oranı</b>", "",
+        "<i>Gol olasılıkları model (İddaa'nın marjsız oranına ayarlı). Korner / kart / şut: kulüplerde model, milli "
+        "maçlarda İddaa'nın oranından. ~ = İddaa'nın oranından, marj dahil (gerçekte biraz daha düşük).</i>"])
     return [head] + blocks
