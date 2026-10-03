@@ -1,18 +1,18 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 03.10.2026 18:53. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 03.10.2026 21:26. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 25 | 13 | 10 | %77 | %79 | -1.29 | %-10 |
-| 🟡 Tier 2 | 31 | 16 | 12 | %75 | %65 | +0.78 | %5 |
+| 🟢 Tier 1 | 25 | 17 | 14 | %82 | %79 | -0.60 | %-4 |
+| 🟡 Tier 2 | 31 | 18 | 14 | %78 | %65 | +1.79 | %10 |
 | 🔴 Tier 3 | 29 | 15 | 7 | %47 | %48 | -1.02 | %-7 |
-| ⚡ Tier 4 | 9 | 4 | 0 | %0 | %18 | -4.00 | %-100 |
-| 🔥 Tier 5 | 32 | 15 | 2 | %13 | %13 | -2.91 | %-19 |
+| ⚡ Tier 4 | 9 | 5 | 0 | %0 | %18 | -5.00 | %-100 |
+| 🔥 Tier 5 | 32 | 18 | 2 | %11 | %13 | -5.91 | %-33 |
 | 🚩 Korner (tüm seviyeler) | 40 | 25 | 16 | %64 | %62 | -1.88 | %-8 |
-| 🎰 Sistem ayakları | 21 | 11 | 7 | %64 | %65 | -0.85 | %-8 |
+| 🎰 Sistem ayakları | 21 | 13 | 9 | %69 | %64 | +0.16 | %1 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
 ## Sistem kuponları
@@ -22,8 +22,8 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | gönderildi | kupon | tutan maç | yatırılan | dönen | kâr/zarar |
 |---|---|---|---|---|---|
 | 02.10 15:06 | 7'de 6 | 5/7 | 7 | 0.00 | -7.00 |
-| 02.10 20:57 | 7'de 6 | 2/7 | 7 | ⏳ | ⏳ |
-| 03.10 11:01 | 7'de 6 | 0/7 | 7 | ⏳ | ⏳ |
+| 02.10 20:57 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
+| 03.10 11:01 | 7'de 6 | 1/7 | 7 | ⏳ | ⏳ |
 | **toplam** (1 kupon) | | | 7 | 0.00 | -7.00 |
 
 ## Gün gün
@@ -32,7 +32,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
-| 03.10.2026 | 61 | 14 | 2 | %14 | %40 | -10.86 |
+| 03.10.2026 | 61 | 26 | 10 | %38 | %45 | -12.15 |
 | 04.10.2026 | 27 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
@@ -46,7 +46,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 04.10 | 🟡 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | — | ⏳ |
 | 05.10 | 🟡 | Aruba – Anguilla | KG Yok | %69 | 1.51 | — | ⏳ |
 | 03.10 | 🎰 | Ross County – Alloa | MS 1 & 2.5 Üst | %56 | 1.63 | — | ⏳ |
-| 03.10 | 🎰 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | — | ⏳ |
+| 03.10 | 🎰 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | 0-2 | ✅ |
 | 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | — | ⏳ |
 | 03.10 | 🎰 | Estonya – Lüksemburg | Korner 9.5 Alt | %64 | 1.40 | korner 7-3 | ❌ |
 | 04.10 | 🎰 | Malta – Andorra | KG Yok | %65 | 1.44 | — | ⏳ |
@@ -73,7 +73,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 04.10 | 🟡 | Portekiz – Norveç | En çok korner 1 | %65 | 1.41 | — | ⏳ |
 | 04.10 | 🟡 | Real Sociedad B – Granada | Korner 10.5 Alt | %68 | 1.42 | — | ⏳ |
 | 03.10 | 🟡 | Ross County – Alloa | MS 1 & 2.5 Üst | %56 | 1.63 | — | ⏳ |
-| 03.10 | 🟡 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | — | ⏳ |
+| 03.10 | 🟡 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | 0-2 | ✅ |
 | 04.10 | 🟡 | Malta – Andorra | KG Yok | %65 | 1.44 | — | ⏳ |
 | 05.10 | 🟡 | Porto Riko – Cayman Adaları | KG Yok | %66 | 1.44 | — | ⏳ |
 | 04.10 | 🟢 | Las Palmas – Real Valladolid | Korner 10.5 Alt | %75 | 1.21 | — | ⏳ |
@@ -82,14 +82,14 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 05.10 | 🟢 | Trinidad ve Tobago – Curaçao | MS 2 | %78 | 1.22 | — | ⏳ |
 | 03.10 | 🟢 | Ross County – Alloa | MS 1 | %78 | 1.21 | — | ⏳ |
 | 04.10 | 💎 | Castellon – AD Ceuta | 2.5 Alt | %37 | 2.84 | — | ⏳ |
-| 03.10 | 🎰 | Kanada – Peru | MS 1 | %63 | 1.46 | — | ⏳ |
+| 03.10 | 🎰 | Kanada – Peru | MS 1 | %63 | 1.46 | 2-0 | ✅ |
 | 02.10 | 🎰 | Saint Lucia – Guadeloupe | 2.5 Üst | %64 | 1.41 | 3-0 | ✅ |
 | 03.10 | 🎰 | Livingston – Ayr United | MS 1 | %64 | 1.44 | — | ⏳ |
 | 03.10 | 🎰 | G. Morton – Raith Rovers | MS 2 | %64 | 1.44 | — | ⏳ |
 | 03.10 | 🎰 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | korner 7-6 | ❌ |
 | 02.10 | 🎰 | Fransa – İtalya | Korner 10.5 Alt | %64 | 1.40 | korner 6-4 | ✅ |
 | 03.10 | 🎰 | Fiorentina FC (K) – Sassuolo Calcio (K) | MS 1 | %66 | 1.40 | — | ⏳ |
-| 03.10 | 🔥 | İspanya – Çekya | 2-1 | %8 | 12.05 | — | ⏳ |
+| 03.10 | 🔥 | İspanya – Çekya | 2-1 | %8 | 12.05 | 3-1 | ❌ |
 | 03.10 | 🔥 | Exeter City – Rotherham | 0-1 | %10 | 7.12 | — | ⏳ |
 | 03.10 | 🔥 | Gillingham – Newport | 1-0 | %11 | 5.91 | — | ⏳ |
 | 03.10 | 🔥 | Finlandiya – Arnavutluk | 1-0 | %13 | 5.90 | 2-1 | ❌ |
@@ -135,19 +135,19 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 03.10 | 🚩 | Almeria – CF Burgos | En çok korner 1 | %65 | 1.31 | — | ⏳ |
 | 02.10 | 🔥 | Bosna Hersek – İsveç | 1-1 | %11 | 6.02 | 1-1 | ✅ |
 | 03.10 | 🔥 | Yeovil Town – Boston United | 2-1 | %12 | 6.80 | — | ⏳ |
-| 03.10 | 🔥 | İspanya – Çekya | 3-0 | %14 | 5.11 | — | ⏳ |
-| 03.10 | 🔥 | Kuzey Makedonya – İskoçya | 0-1 | %15 | 5.28 | — | ⏳ |
+| 03.10 | 🔥 | İspanya – Çekya | 3-0 | %14 | 5.11 | 3-1 | ❌ |
+| 03.10 | 🔥 | Kuzey Makedonya – İskoçya | 0-1 | %15 | 5.28 | 0-2 | ❌ |
 | 03.10 | 🔴 | Hamilton – Peterhead | MS 1 & 2.5 Üst | %49 | 1.82 | — | ⏳ |
 | 03.10 | 🔴 | Yeovil Town – Boston United | MS 1 | %50 | 1.81 | — | ⏳ |
-| 03.10 | 🟡 | Kanada – Peru | MS 1 | %63 | 1.46 | — | ⏳ |
+| 03.10 | 🟡 | Kanada – Peru | MS 1 | %63 | 1.46 | 2-0 | ✅ |
 | 03.10 | 🟡 | G. Morton – Raith Rovers | MS 2 | %63 | 1.46 | — | ⏳ |
 | 02.10 | 🟡 | Saint Lucia – Guadeloupe | 2.5 Üst | %64 | 1.41 | 3-0 | ✅ |
 | 03.10 | 🟡 | Livingston – Ayr United | MS 1 | %64 | 1.44 | — | ⏳ |
 | 02.10 | 🟢 | Bosna Hersek – İsveç | ÇŞ 1-2 | %75 | 1.21 | 1-1 | ❌ |
-| 03.10 | 🟢 | Kuzey Makedonya – İskoçya | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
-| 03.10 | 🟢 | İspanya – Çekya | 2.5 Üst | %77 | 1.23 | — | ⏳ |
+| 03.10 | 🟢 | Kuzey Makedonya – İskoçya | ÇŞ 1-2 | %75 | 1.20 | 0-2 | ✅ |
+| 03.10 | 🟢 | İspanya – Çekya | 2.5 Üst | %77 | 1.23 | 3-1 | ✅ |
 | 03.10 | 🟢 | Hamilton – Peterhead | MS 1 | %77 | 1.23 | — | ⏳ |
-| 03.10 | 🟢 | İsviçre – Slovenya | MS 1 | %80 | 1.20 | — | ⏳ |
+| 03.10 | 🟢 | İsviçre – Slovenya | MS 1 | %80 | 1.20 | 2-1 | ✅ |
 | 02.10 | 🔥 | Belçika – Türkiye | 2-1 | %10 | 7.45 | 3-0 | ❌ |
 | 03.10 | 🔥 | Aldershot – Carlisle | 1-2 | %11 | 6.97 | — | ⏳ |
 | 03.10 | 🔥 | Livingston – Ayr United | 2-1 | %12 | 6.44 | — | ⏳ |
@@ -157,7 +157,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 02.10 | 🔥 | Ukrayna – Kuzey İrlanda | 1-0 | %14 | 5.03 | 0-3 | ❌ |
 | 02.10 | 🔥 | Polonya – Romanya | 2-1 | %15 | 7.33 | 6-0 | ❌ |
 | 03.10 | ⚡ | G. Morton – Raith Rovers | 0-1 | %16 | 4.77 | — | ⏳ |
-| 03.10 | ⚡ | İsviçre – Slovenya | 1-0 | %18 | 4.81 | — | ⏳ |
+| 03.10 | ⚡ | İsviçre – Slovenya | 1-0 | %18 | 4.81 | 2-1 | ❌ |
 | 02.10 | 🔴 | Ukrayna – Kuzey İrlanda | MS 1 | %49 | 1.87 | 0-3 | ❌ |
 | 03.10 | 🔴 | Stranraer – Edinburgh | MS 1 | %49 | 1.82 | — | ⏳ |
 | 02.10 | 🔴 | Fransa – İtalya | MS 1 & 2.5 Üst | %49 | 1.88 | 1-1 | ❌ |
@@ -167,7 +167,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 03.10 | 🟡 | Gateshead – Worthing | MS 2 | %68 | 1.37 | — | ⏳ |
 | 03.10 | 🟡 | Belarus – San Marino | MS 1 & 2.5 Üst | %70 | 1.33 | 4-0 | ✅ |
 | 02.10 | 🟡 | Fransa – İtalya | MS 1 | %70 | 1.36 | 1-1 | ❌ |
-| 03.10 | 🟢 | Kanada – Peru | ÇŞ 1-X | %85 | 1.06 | — | ⏳ |
+| 03.10 | 🟢 | Kanada – Peru | ÇŞ 1-X | %85 | 1.06 | 2-0 | ✅ |
 | 03.10 | 🟢 | G. Morton – Raith Rovers | ÇŞ X-2 | %85 | 1.06 | — | ⏳ |
 | 03.10 | 🟢 | Livingston – Ayr United | ÇŞ 1-X | %85 | 1.06 | — | ⏳ |
 | 02.10 | 🟢 | Fransa – İtalya | ÇŞ 1-X | %87 | 1.06 | 1-1 | ✅ |
