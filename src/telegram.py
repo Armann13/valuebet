@@ -120,10 +120,10 @@ def _system_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
     sistem = _playable(soon[soon["seviye"].str.startswith("🎰")])
     if len(sistem) < 5:
         return []
-    log += sistem.to_dict("records")
     n = len(sistem)
-    best = max(kupon.system_table(list(sistem["p"]), list(sistem["odd"])),
-               key=lambda s: (round(s["kar_olasiligi"], 3), s["k"]))
+    best = kupon.best_system(list(sistem["p"]), list(sistem["odd"]))
+    # önerilen k kayda yazılır: sonuç raporunda kupon bir bütün olarak (yatırılan / dönen) hesaplanır
+    log += sistem.assign(seviye=f"{sistem['seviye'].iloc[0]} · {n}'de {best['k']}").to_dict("records")
     return _section("🎰", sistem, now_tr) + ["", f"🧾 <b>{n}'de {best['k']} · {best['kolon']} kolon</b> "
                                                   "(kolon başına 1 birim)"]
 

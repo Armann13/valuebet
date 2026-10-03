@@ -72,3 +72,14 @@ def system_table(ps: list[float], odds: list[float], ks=None) -> list[dict]:
         rows.append({"k": k, "kolon": len(cols), "en_az_k": p_any, "kar_olasiligi": p_profit,
                      "beklenen_donus": exp_ret})
     return rows
+
+
+def best_system(ps: list[float], odds: list[float]) -> dict:
+    """Önerilen "n'de k": kâra geçme olasılığı en yüksek olan (eşitse daha büyük k, daha az kolon)."""
+    return max(system_table(ps, odds), key=lambda s: (round(s["kar_olasiligi"], 3), s["k"]))
+
+
+def system_payout(won: list[bool], odds: list[float], k: int) -> float:
+    """Sistem kuponun dönüşü (kolon başına 1 birim): tüm ayakları tutan k'lı kolonların oran çarpımları toplamı."""
+    w, odds = np.asarray(won, bool), np.asarray(odds, float)
+    return sum(float(np.prod(odds[list(c)])) for c in combinations(range(len(w)), k) if w[list(c)].all())

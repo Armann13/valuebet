@@ -474,6 +474,10 @@ def test_kupon():
     tab = {r["k"]: r for r in kupon.system_table(ps, os_)}
     assert abs(tab[5]["en_az_k"] - np.prod(ps)) < 1e-12 and abs(tab[5]["beklenen_donus"] - np.prod(np.multiply(ps, os_))) < 1e-12
     assert tab[2]["kolon"] == 10 and tab[2]["en_az_k"] > tab[4]["en_az_k"]
+    assert kupon.best_system(ps, os_)["k"] in tab
+    # 5'te 4, 4 maç tuttu: tek kolon tutar (tutmayan 2. maç hariç)
+    assert abs(kupon.system_payout([True, False, True, True, True], os_, 4) - 1.4 * 1.25 * 1.5 * 1.3) < 1e-12
+    assert kupon.system_payout([True, False, True, True, False], os_, 4) == 0
 
 
 def test_analiz():
@@ -579,12 +583,14 @@ def test_sonuclar():
              "lig": "SP1", "seviye": "🔀 Tier 8 — İY/MS", "tahmin": "İY/MS X/X", "p": 0.2, "odd": 4.5},
             {**base, "gün": "2026-10-01", "div": "SP1", "home": "Betis", "away": "Getafe", "maç": "Betis – Getafe",
              "lig": "SP1", "seviye": "🎫 Kupon — orta risk", "tahmin": "ÇŞ 1-X", "p": 0.8, "odd": 1.25}]
+    sis = [{**rows[0], "seviye": "🎰 Sistem kupon · 3'de 2", "tahmin": t, "odd": 1.5} for t in ("ÇŞ 1-X", "KG Var", "MS 1")]
     old_dir = config.TAVSIYE_DIR
     with tempfile.TemporaryDirectory() as d:
         config.TAVSIYE_DIR = Path(d)
         try:
-            assert sonuclar.record(rows, datetime(2026, 10, 1, 9, 20)) == 7  # kupon ayağı Tier 1'den ayrı sayılır
+            assert sonuclar.record(rows + sis, datetime(2026, 10, 1, 9, 20)) == 10  # kupon ayağı Tier 1'den ayrı
             assert sonuclar.record(rows[:1], datetime(2026, 10, 1, 18, 20)) == 0  # akşam özetinde tekrar: sayılmaz
+            assert sonuclar.record(sis, datetime(2026, 10, 1, 18, 20)) == 3  # akşamki sistem kuponu ayrı bir kupon
             log = sonuclar.load_log()
         finally:
             config.TAVSIYE_DIR = old_dir
@@ -600,12 +606,15 @@ def test_sonuclar():
     assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)  # 🚩: bahis türü
     assert s["🔀"]["tutan"] == 1 and s["🎫"]["tutan"] == 1  # İY 0-0, MS 1-1: X/X tuttu
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
-    assert "korner 7-4" in msg and "İY 0-0, MS 1-1" in msg and "🎫 Kupon (1 maç, oran 1.25): ✅ tuttu" in msg, msg
+    assert "korner 7-4" in msg and "İY 0-0, MS 1-1" in msg, msg
+    # sistem kupon bir bütün: 1-1 -> ÇŞ 1-X ve KG Var tuttu, MS 1 tutmadı; 3'de 2 = 3 kolon, dönen 1.5 x 1.5
+    assert msg.count("2/3 maç tuttu · 3 birim yatırıldı, 2.25 döndü (-0.75) ❌") == 2, msg
+    assert "01.10 09:20 gönderilen" in msg and "01.10 18:20 gönderilen" in msg
     assert abs(s["🟢"]["kâr_zarar"] - 0.25) < 1e-9 and s["🟡"]["kâr_zarar"] == -1 and s["🔴"]["sonuçlanan"] == 0
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
     md = sonuclar.summary_md(log)
-    assert "## Tüm zamanlar" in md and "⏳" in md
+    assert "## Tüm zamanlar" in md and "⏳" in md and "| **toplam** (2 kupon) | | | 6 | 4.50 | -1.50 |" in md, md
     # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 09:00'dan sonra (eksikler ⏳)
     due = lambda t: sonuclar.due_days(log, set(), pd.Timestamp(t))  # noqa: E731
     assert due("2026-10-02 12:00") == ["2026-10-01"]       # 01.10 tamam; 02.10 henüz bugün

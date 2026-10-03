@@ -9,10 +9,14 @@ Rapor: bir günün tüm tahminleri sonuçlanınca, en geç ertesi sabah (RAPOR_S
 tavsiyeler/sonuclar.md tüm zamanların özetidir.
 Kâr/zarar: her tahmine tek başına 1 birim, İddaa oranıyla (MBS / kombine hesaba katılmaz; oranı olmayan tahmin
 kâr/zarara girmez). "Beklenen" = tahminlerin ortalama olasılığı: gerçek isabet buna yakınsa olasılıklar doğrudur.
+Sistem kupon: gönderilen her kupon (aynı anda gönderilen 🎰 ayakları) bir bütün olarak, önerilen "n'de k" ile:
+yatırılan kolon sayısı ve dönen; son ayağının günü raporunda.
 """
 import html
 import json
+import re
 from datetime import datetime
+from math import comb
 
 import numpy as np
 import pandas as pd
@@ -44,8 +48,9 @@ def load_log() -> pd.DataFrame:
 
 def _key(df: pd.DataFrame) -> pd.Series:
     """Aynı maçın aynı tahmini bir kez sayılır (sabah ve akşam özetinde tekrar gelse de); 💎, kupon ve sistem
-    ayakları ayrı tutulur."""
+    ayakları ayrı tutulur. Her gönderilen sistem kuponu ayrıdır (aynı ayak iki kuponda olabilir; kupon eksik kalmasın)."""
     group = df["seviye"].map(lambda s: next((i for i in AYRI if str(s).startswith(i)), ""))
+    group = group.where(group != "🎰", "🎰" + df["gönderildi"].astype(str))
     return df["gün"] + "|" + df["maç"] + "|" + df["tahmin"] + "|" + group
 
 
@@ -132,32 +137,36 @@ def _score_text(r) -> str:
     return f"{int(r['hg'])}-{int(r['ag'])}" if pd.notna(r["hg"]) else ""
 
 
-def _coupon_summary(df: pd.DataFrame) -> list[str]:
-    """Günün kombine ve sistem kuponunun bütün olarak sonucu (her biri ilk gönderilen hali)."""
-    won, out = _won(df), []
-    combo = df[df["seviye"].str.startswith("🎫")]
-    if len(combo):
-        w = won[combo.index]
-        odds = float(np.prod(combo["odd"].astype(float)))
-        if w.isna().any():
-            out.append(f"🎫 Kupon ({len(combo)} maç, oran {odds:.2f}): sonuç bekleniyor")
+def systems(log: pd.DataFrame) -> list[dict]:
+    """Gönderilen her sistem kuponu (aynı anda gönderilen 🎰 ayakları) bir bütün olarak: önerilen n'de k (gönderirken
+    seviyeye yazılır: "🎰 Sistem kupon · 7'de 6"; eski kayıtlarda aynı hesapla bulunur), yatırılan kolon sayısı ve
+    dönen (birim). gün: son ayağın günü (kupon o günün raporunda)."""
+    s = log[log["seviye"].astype(str).str.startswith("🎰")]
+    won, out = _won(s), []
+    for sent, g in s.groupby("gönderildi"):
+        n = len(g)
+        m = re.search(r"(\d+)'de (\d+)", " ".join(g["seviye"].astype(str)))
+        if m:
+            k = int(m[2])
+        elif g["p"].notna().all() and g["odd"].notna().all():
+            k = kupon.best_system(list(g["p"]), list(g["odd"]))["k"]
         else:
-            hit = bool(w.astype(bool).all())
-            out.append(f"🎫 Kupon ({len(combo)} maç, oran {odds:.2f}): {'✅ tuttu' if hit else '❌ tutmadı'} "
-                       f"({int(w.astype(bool).sum())}/{len(combo)}), {odds - 1 if hit else -1:+.2f} birim")
-    sistem = df[df["seviye"].str.startswith("🎰")]
-    if len(sistem) >= 2 and not won[sistem.index].isna().any():
-        w = won[sistem.index].astype(bool).to_numpy()
-        odds = sistem["odd"].astype(float).to_numpy()
-        from itertools import combinations
-        n = len(sistem)
-        parts = []
-        for k in range(max(2, n - 3), n + 1):
-            cols = list(combinations(range(n), k))
-            pay = sum(float(np.prod(odds[list(c)])) for c in cols if w[list(c)].all())
-            parts.append(f"{n}'de {k}: {pay - len(cols):+.2f} birim")
-        out.append(f"🎰 Sistem: {int(w.sum())}/{n} tuttu · " + " · ".join(parts))
+            continue
+        w = won[g.index]
+        done = bool(w.notna().all())
+        pay = kupon.system_payout(list(w.astype(bool)), list(g["odd"]), k) if done else np.nan
+        out.append({"gönderildi": sent, "gün": g["gün"].max(), "n": n, "k": k, "kolon": comb(n, k),
+                    "tutan": int(w.eq(True).sum()), "bitti": done, "dönen": pay})
     return out
+
+
+def _system_line(s: dict) -> str:
+    head = f"🎰 Sistem kupon {s['n']}'de {s['k']} ({pd.Timestamp(s['gönderildi']):%d.%m %H:%M} gönderilen)"
+    if not s["bitti"]:
+        return f"{head}: sonuç bekleniyor ({s['tutan']} maç tuttu, diğerleri ⏳)"
+    net = s["dönen"] - s["kolon"]
+    return (f"{head}: {s['tutan']}/{s['n']} maç tuttu · {s['kolon']} birim yatırıldı, {s['dönen']:.2f} döndü "
+            f"({net:+.2f}) {'✅' if net > 0 else '❌'}")
 
 
 def stats(df: pd.DataFrame) -> list[dict]:
@@ -197,7 +206,7 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     lines = [f"📊 <b>Sonuçlar — {pd.Timestamp(day):%d.%m.%Y}</b>",
              f"<i>Telegram'da gönderilen {len(df)} tahmin; her biri tek başına 1 birim, İddaa oranıyla</i>", ""]
     lines += [_stat_line(s) for s in stats(df)]
-    lines += _coupon_summary(df)
+    lines += [_system_line(s) for s in systems(allt) if s["gün"] == day]
     lines += ["", "<b>Ayrıntı</b>"]
     for icon, _ in SEVIYELER:
         for (_, r), w in zip(df[df["seviye"].str.startswith(icon)].iterrows(), won[df["seviye"].str.startswith(icon)]):
@@ -226,6 +235,20 @@ def summary_md(log: pd.DataFrame) -> str:
     for s in stats(log):
         md.append(f"| {s['icon']} {s['seviye']} | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | "
                   f"{fmt(s['isabet'], True)} | {fmt(s['beklenen'], True)} | {fmt(s['kâr_zarar'])} | {fmt(s['roi'], True)} |")
+    sis = systems(log)
+    if sis:
+        md += ["", "## Sistem kuponları", "", "Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına "
+               "1 birim). Yukarıdaki \"Sistem ayakları\" satırı ayakları tek tek sayar.", "",
+               "| gönderildi | kupon | tutan maç | yatırılan | dönen | kâr/zarar |", "|---|---|---|---|---|---|"]
+        for s in sis:
+            pay = "⏳" if not s["bitti"] else f"{s['dönen']:.2f}"
+            net = "⏳" if not s["bitti"] else fmt(s["dönen"] - s["kolon"])
+            md.append(f"| {pd.Timestamp(s['gönderildi']):%d.%m %H:%M} | {s['n']}'de {s['k']} | {s['tutan']}/{s['n']} | "
+                      f"{s['kolon']} | {pay} | {net} |")
+        fin = [s for s in sis if s["bitti"]]
+        if fin:
+            md.append(f"| **toplam** ({len(fin)} kupon) | | | {sum(s['kolon'] for s in fin)} | "
+                      f"{sum(s['dönen'] for s in fin):.2f} | {fmt(sum(s['dönen'] - s['kolon'] for s in fin))} |")
     md += ["", "## Gün gün", "", "| gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |",
            "|---|---|---|---|---|---|---|"]
     won = _won(log)
