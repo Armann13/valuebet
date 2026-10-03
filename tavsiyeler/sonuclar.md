@@ -1,18 +1,18 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 03.10.2026 12:05. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 03.10.2026 16:30. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
 | 🟢 Tier 1 | 25 | 13 | 10 | %77 | %79 | -1.29 | %-10 |
-| 🟡 Tier 2 | 29 | 13 | 11 | %85 | %65 | +2.45 | %19 |
+| 🟡 Tier 2 | 29 | 14 | 11 | %79 | %65 | +1.45 | %10 |
 | 🔴 Tier 3 | 27 | 12 | 6 | %50 | %47 | +0.17 | %1 |
 | ⚡ Tier 4 | 8 | 4 | 0 | %0 | %18 | -4.00 | %-100 |
-| 🔥 Tier 5 | 31 | 9 | 2 | %22 | %12 | +3.09 | %34 |
-| 🚩 Korner (tüm seviyeler) | 38 | 18 | 15 | %83 | %65 | +3.31 | %18 |
-| 🎰 Sistem ayakları | 21 | 9 | 7 | %78 | %65 | +1.15 | %13 |
+| 🔥 Tier 5 | 31 | 10 | 2 | %20 | %12 | +2.09 | %21 |
+| 🚩 Korner (tüm seviyeler) | 38 | 20 | 15 | %75 | %65 | +1.31 | %7 |
+| 🎰 Sistem ayakları | 21 | 10 | 7 | %70 | %65 | +0.15 | %1 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
 ## Sistem kuponları
@@ -32,7 +32,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 |---|---|---|---|---|---|---|
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
-| 03.10.2026 | 60 | 0 | 0 | — | — | — |
+| 03.10.2026 | 60 | 3 | 0 | %0 | %47 | -3.00 |
 | 04.10.2026 | 22 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
@@ -80,13 +80,13 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 02.10 | 🎰 | Saint Lucia – Guadeloupe | 2.5 Üst | %64 | 1.41 | 3-0 | ✅ |
 | 03.10 | 🎰 | Livingston – Ayr United | MS 1 | %64 | 1.44 | — | ⏳ |
 | 03.10 | 🎰 | G. Morton – Raith Rovers | MS 2 | %64 | 1.44 | — | ⏳ |
-| 03.10 | 🎰 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 03.10 | 🎰 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | korner 7-6 | ❌ |
 | 02.10 | 🎰 | Fransa – İtalya | Korner 10.5 Alt | %64 | 1.40 | korner 6-4 | ✅ |
 | 03.10 | 🎰 | Fiorentina FC (K) – Sassuolo Calcio (K) | MS 1 | %66 | 1.40 | — | ⏳ |
 | 03.10 | 🔥 | İspanya – Çekya | 2-1 | %8 | 12.05 | — | ⏳ |
 | 03.10 | 🔥 | Exeter City – Rotherham | 0-1 | %10 | 7.12 | — | ⏳ |
 | 03.10 | 🔥 | Gillingham – Newport | 1-0 | %11 | 5.91 | — | ⏳ |
-| 03.10 | 🔥 | Finlandiya – Arnavutluk | 1-0 | %13 | 5.90 | — | ⏳ |
+| 03.10 | 🔥 | Finlandiya – Arnavutluk | 1-0 | %13 | 5.90 | 2-1 | ❌ |
 | 03.10 | 🔥 | Estonya – Lüksemburg | 0-1 | %14 | 5.91 | — | ⏳ |
 | 03.10 | 🔥 | Belarus – San Marino | 3-0 | %14 | 4.88 | — | ⏳ |
 | 02.10 | 🔴 | Ukrayna – Kuzey İrlanda | Korner 8.5 Üst | %48 | 1.78 | korner 7-1 | ❌ |
@@ -96,7 +96,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 03.10 | 🔴 | Exeter City – Rotherham | KG Yok | %48 | 1.87 | — | ⏳ |
 | 02.10 | 🟡 | Ukrayna – Kuzey İrlanda | Korner 7.5 Üst | %63 | 1.43 | korner 7-1 | ✅ |
 | 02.10 | 🟡 | Fransa – İtalya | Korner 10.5 Alt | %64 | 1.40 | korner 6-4 | ✅ |
-| 03.10 | 🟡 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 03.10 | 🟡 | Finlandiya – Arnavutluk | Korner 9.5 Alt | %64 | 1.40 | korner 7-6 | ❌ |
 | 03.10 | 🟡 | Fiorentina FC (K) – Sassuolo Calcio (K) | MS 1 | %66 | 1.40 | — | ⏳ |
 | 02.10 | 🟢 | Belçika – Türkiye | Korner 7.5 Üst | %77 | 1.21 | korner 2-5 | ❌ |
 | 02.10 | 🟢 | Ukrayna – Kuzey İrlanda | Korner 6.5 Üst | %78 | 1.20 | korner 7-1 | ✅ |
