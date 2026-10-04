@@ -150,8 +150,10 @@ Tier 1 ve 2'de en düşük oran: 1.20 ve 1.40 (`tavsiye.MIN_ODDS`); 1.06'lık ç
 
 - Telegram'da gönderilen her tahmin, gönderildiği andaki olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye
   kaydedilir (aynı maç ve tahmin bir kez).
-- Sonuçlar geldikçe (kulüp maçları football-data'dan 1-3 gün içinde; milli maçlar ESPN'den birkaç saat içinde)
-  kayıtlar ✅ / ❌ ile kapanır. Bir günün **📊 Sonuçlar** mesajı tüm tahminleri sonuçlanınca, en geç ertesi sabah
+- Sonuçlar geldikçe kayıtlar ✅ / ❌ ile kapanır: milli maçlar ve kulüp maçları ESPN'den birkaç saat içinde
+  (`src/kulup_sonuc.py`, `data/raw/kulup/espn.csv`; ESPN'de olmayan İskoçya League One / Two football-data'dan 1-3
+  gün içinde). İptal edilen kayıt (`iptal` sütunu, ör. yanlış eşleşmiş maç) 🚫: isabete / kâra girmez, sistem
+  kuponda 1.00 oranla tutmuş sayılır. Bir günün **📊 Sonuçlar** mesajı tüm tahminleri sonuçlanınca, en geç ertesi sabah
   (09:00'dan sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: seviye bazında isabet, beklenen
   isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek başına 1 birim), tek tek tahminler ve
   başlangıçtan beri toplam. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;

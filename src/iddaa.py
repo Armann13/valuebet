@@ -72,7 +72,8 @@ def _line(m: dict) -> float:
 
 def resolve_competitions(comps: list) -> dict:
     """iddaa lig no -> bizim lig kodumuz. config.IDDAA_LEAGUE_NAMES ile: ad tam aynı ya da "ad," ile başlıyor
-    (sezon aşaması eki, ör. "İskoçya Premiership, Şampiyona Turu"). "... Beşiktaş Özel" gibi özel marketler dışarıda.
+    (sezon aşaması eki, ör. "İskoçya Premiership, Şampiyona Turu"). "... Beşiktaş Özel" gibi özel marketler ve kadın /
+    genç ligleri ("İtalya Serie A, Women") dışarıda.
     Milli takım turnuvaları (config.IDDAA_MILLI_KEYWORDS; gençler / kadınlar / kulüpler hariç) -> config.MILLI."""
     out = {}
     for c in comps:
@@ -80,7 +81,7 @@ def resolve_competitions(comps: list) -> dict:
             continue
         name = str(c.get("n", "")).strip()
         for div, base in config.IDDAA_LEAGUE_NAMES.items():
-            if name == base or name.startswith(base + ","):
+            if (name == base or name.startswith(base + ",")) and not re.search(config.IDDAA_LEAGUE_EXCLUDE, name):
                 out[c["i"]] = div
         if (c["i"] not in out and any(k in name for k in config.IDDAA_MILLI_KEYWORDS)
                 and not re.search(config.IDDAA_MILLI_EXCLUDE, name)):

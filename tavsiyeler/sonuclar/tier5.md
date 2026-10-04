@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/21 tuttu** (isabet %14, beklenen %13) · -3.27 birim · 24 tahmin sonuç bekliyor
+**4/32 tuttu** (isabet %12, beklenen %12) · -7.77 birim · 13 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10.2026 Pazartesi
 
@@ -44,7 +44,7 @@
 
 **15:00 · Real Sociedad B – Granada**
 
-- ⏳ 1-1 · @5.33
+- ❌ 1-1 · @5.33 · 2-3
 
 **19:00 · Kosova – Avusturya**
 
@@ -53,11 +53,11 @@
 
 **19:30 · Las Palmas – Real Valladolid**
 
-- ⏳ 1-1 · @5.30
+- ❌ 1-1 · @5.30 · 2-2
 
 **19:30 · Castellon – AD Ceuta**
 
-- ⏳ 2-0 · @6.85
+- ❌ 2-0 · @6.85 · 1-1
 
 **21:45 · Portekiz – Norveç**
 
@@ -85,32 +85,32 @@
 
 **17:00 · Gateshead – Worthing**
 
-- ⏳ 1-2 · @6.50
+- ✅ 1-2 · @6.50 · 1-2
 
 **17:00 · Livingston – Ayr United**
 
-- ⏳ 2-1 · @6.44
-- ⏳ 1-0 · @6.18
+- ❌ 2-1 · @6.44 · 1-2
+- ❌ 1-0 · @6.18 · 1-2
 
 **17:00 · Aldershot – Carlisle**
 
-- ⏳ 1-2 · @6.97
+- ❌ 1-2 · @6.97 · 1-3
 
 **17:00 · Yeovil Town – Boston United**
 
-- ⏳ 2-1 · @6.80
+- ❌ 2-1 · @6.80 · 6-0
 
 **17:00 · Gillingham – Newport**
 
-- ⏳ 1-0 · @5.91
+- ❌ 1-0 · @5.91 · 0-0
 
 **17:00 · Exeter City – Rotherham**
 
-- ⏳ 0-1 · @7.12
+- ❌ 0-1 · @7.12 · 1-0
 
 **17:15 · Almeria – CF Burgos**
 
-- ⏳ 1-1 · @6.64
+- ❌ 1-1 · @6.64 · 2-1
 
 **19:00 · Belarus – San Marino**
 

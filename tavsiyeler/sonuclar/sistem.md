@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/17 tuttu** (isabet %76, beklenen %64) · +1.84 birim · 20 tahmin sonuç bekliyor
+**15/20 tuttu** (isabet %75, beklenen %64) · +1.70 birim · 16 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 04.10 21:42 gönderilen kupon · 8'de 7
 
@@ -34,26 +34,26 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 03.10 11:01 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ⏳ 03.10 17:00 Ross County – Alloa · ↳ MS 1 & 2.5 Üst · @1.63
 - ❌ 03.10 19:00 Estonya – Lüksemburg · Korner 9.5 Alt · @1.40 · korner 7-3
 - ✅ 03.10 21:45 Kuzey Makedonya – İskoçya · ↳ MS 2 · @1.55 · 0-2
-- ⏳ 04.10 15:00 Real Sociedad B – Granada · ↳ Korner 10.5 Alt · @1.42
+- ✅ 04.10 15:00 Real Sociedad B – Granada · ↳ Korner 10.5 Alt · @1.42 · korner 1-7
 - ✅ 04.10 19:00 Malta – Andorra · KG Yok · @1.44 · 1-0
 - ✅ 04.10 19:00 Kosova – Avusturya · ↳ Korner 7.5 Üst · @1.42 · korner 3-5
 - ⏳ 04.10 21:45 Portekiz – Norveç · En çok korner 1 · @1.41
 
 ## 02.10 20:57 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**4/7 maç tuttu · 7 birim yatırıldı, 0.00 döndü (-7.00)** ❌
 
 - ✅ 02.10 21:45 Fransa – İtalya · Korner 10.5 Alt · @1.40 · korner 6-4
 - ✅ 02.10 22:00 Saint Lucia – Guadeloupe · 2.5 Üst · @1.41 · 3-0
-- ⏳ 03.10 16:00 Fiorentina FC (K) – Sassuolo Calcio (K) · MS 1 · @1.40
+- 🚫 03.10 16:00 Fiorentina FC (K) – Sassuolo Calcio (K) · MS 1 · @1.40 · iptal
 - ❌ 03.10 16:00 Finlandiya – Arnavutluk · Korner 9.5 Alt · @1.40 · korner 7-6
-- ⏳ 03.10 17:00 G. Morton – Raith Rovers · MS 2 · @1.44
-- ⏳ 03.10 17:00 Livingston – Ayr United · MS 1 · @1.44
+- ✅ 03.10 17:00 G. Morton – Raith Rovers · MS 2 · @1.44 · 1-2
+- ❌ 03.10 17:00 Livingston – Ayr United · MS 1 · @1.44 · 1-2
 - ✅ 03.10 21:00 Kanada – Peru · MS 1 · @1.46 · 2-0
 
 ## 02.10 15:06 gönderilen kupon · 7'de 6

@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/6 tuttu** (isabet %17, beklenen %18) · -1.66 birim · 5 tahmin sonuç bekliyor
+**1/7 tuttu** (isabet %14, beklenen %18) · -2.66 birim · 4 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10.2026 Pazartesi
 
@@ -30,7 +30,7 @@
 
 **17:00 · G. Morton – Raith Rovers**
 
-- ⏳ 0-1 · @4.77
+- ❌ 0-1 · @4.77 · 1-2
 
 **21:45 · İsviçre – Slovenya**
 

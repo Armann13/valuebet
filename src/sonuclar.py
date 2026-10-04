@@ -26,7 +26,8 @@ from src import korner, kupon
 from src.tavsiye import bet_won
 
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
-            "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag"]  # hk/ak korner, ihg/iag ilk yarı
+            "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag",
+            "iptal"]  # hk/ak korner, ihg/iag ilk yarı; iptal: geçersiz kayıt (bkz. _void)
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"),
              ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
              ("🎰", "Sistem ayakları"), ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
@@ -72,15 +73,18 @@ def record(rows: list, sent_at: datetime) -> int:
 
 
 def load_results() -> pd.DataFrame:
-    """Oynanmış maçlar: kulüp (veritabanı) + milli. Sütunlar: div, date, home, away, fthg, ftag, hc, ac (korner;
-    milli maçlarda yok)."""
-    from src import db, milli
+    """Oynanmış maçlar: kulüp (veritabanı; henüz gelmeyenler ESPN'den) + milli. Sütunlar: div, date, home, away,
+    fthg, ftag, hc, ac (korner), hthg, htag (ilk yarı). Aynı maç iki kaynakta varsa önce gelen (football-data) kullanılır."""
+    from src import db, kulup_sonuc, milli
     cols = ["div", "date", "home", "away", "fthg", "ftag", "hc", "ac", "hthg", "htag"]
     parts = []
     try:
         parts.append(db.load_matches().reindex(columns=cols))
     except Exception as e:  # veritabanı yoksa (python main.py build) sadece milli
         print(f"  ! sonuçlar: kulüp maçları okunamadı ({str(e)[:100]})")
+    club = kulup_sonuc.load()
+    if not club.empty:
+        parts.append(club.reindex(columns=cols))
     nat = milli.load_results(since="2026-01-01")
     if not nat.empty:
         parts.append(nat.reindex(columns=cols))
@@ -114,8 +118,22 @@ def settle(log: pd.DataFrame, results: pd.DataFrame) -> pd.DataFrame:
     return log
 
 
+def _void(df: pd.DataFrame) -> pd.Series:
+    """İptal edilen tahminler (iptal sütunu; ör. kadın maçının erkek takımına eşlendiği kayıt): isabete ve kâra
+    girmez; sistem kuponda İddaa'daki gibi 1.00 oranla tutmuş sayılır."""
+    if "iptal" not in df:
+        return pd.Series(False, index=df.index)
+    return df["iptal"].astype(str).str.lower().isin(["true", "1"])
+
+
+def _mark(r, w) -> str:
+    if str(r.get("iptal")).lower() in ("true", "1"):
+        return "🚫"
+    return "⏳" if pd.isna(w) else ("✅" if w else "❌")
+
+
 def _won(df: pd.DataFrame) -> pd.Series:
-    """Tahmin tuttu mu (True / False; sonuç yoksa NaN). Korner bahisleri korner sayılarıyla."""
+    """Tahmin tuttu mu (True / False; sonuç yoksa ya da iptalse NaN). Korner bahisleri korner sayılarıyla."""
     col = lambda c: df[c] if c in df else pd.Series(np.nan, index=df.index)  # noqa: E731
     ok = lambda *v: all(pd.notna(x) for x in v)  # noqa: E731
     out = []
@@ -123,10 +141,15 @@ def _won(df: pd.DataFrame) -> pd.Series:
         if korner.is_corner_bet(t):
             out.append(korner.bet_won(t, int(kh), int(ka)) if ok(kh, ka) else np.nan)
         elif kupon.is_iyms(t):
-            out.append(kupon.iyms_won(t, int(ih), int(ia), int(h), int(a)) if ok(ih, ia, h, a) else np.nan)
+            if ok(ih, ia, h, a):
+                out.append(kupon.iyms_won(t, int(ih), int(ia), int(h), int(a)))
+            elif ok(h, a) and not bet_won(f"MS {t.split('/')[-1]}", int(h), int(a)):
+                out.append(False)  # maç sonu tutmadı: ilk yarı skoru olmadan da kaybetti
+            else:
+                out.append(np.nan)
         else:
             out.append(bet_won(t, int(h), int(a)) if ok(h, a) else np.nan)
-    return pd.Series(out, index=df.index, dtype=object)
+    return pd.Series(out, index=df.index, dtype=object).mask(_void(df), np.nan)
 
 
 def _score_text(r) -> str:
@@ -155,9 +178,10 @@ def systems(log: pd.DataFrame) -> list[dict]:
             k = kupon.best_system(list(g["p"]), list(g["odd"]))["k"]
         else:
             continue
-        w = won[g.index]
-        done = bool(w.notna().all())
-        pay = kupon.system_payout(list(w.astype(bool)), list(g["odd"]), k) if done else np.nan
+        w, void = won[g.index], _void(g)
+        done = bool((w.notna() | void).all())
+        legs, odds = w.eq(True) | void, g["odd"].astype(float).mask(void, 1.0)  # iptal ayak: 1.00 oranla tutmuş
+        pay = kupon.system_payout(list(legs), list(odds), k) if done else np.nan
         out.append({"gönderildi": sent, "gün": g["gün"].max(), "n": n, "k": k, "kolon": comb(n, k),
                     "tutan": int(w.eq(True).sum()), "bitti": done, "dönen": pay})
     return out
@@ -180,8 +204,9 @@ def _select(df: pd.DataFrame, icon: str) -> pd.Series:
 
 
 def stats(df: pd.DataFrame) -> list[dict]:
-    """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı)."""
+    """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı). İptaller hariç."""
     out = []
+    df = df[~_void(df)]
     won = _won(df)
     for icon, name in SEVIYELER:
         sel = _select(df, icon)
@@ -219,9 +244,9 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     lines += ["", "<b>Ayrıntı</b>"]
     for icon, _ in SEVIYELER:
         for (_, r), w in zip(df[df["seviye"].str.startswith(icon)].iterrows(), won[df["seviye"].str.startswith(icon)]):
-            mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
+            mark = _mark(r, w)
             score = _score_text(r)
-            score = f" ({score})" if score else " (sonuç yok)"
+            score = f" ({score})" if score else (" (iptal)" if mark == "🚫" else " (sonuç yok)")
             odd = f" @{r['odd']:.2f}" if pd.notna(r["odd"]) else ""
             lines.append(f"{mark} {icon} {html.escape(str(r['maç']))}: {html.escape(str(r['tahmin']))}{score}{odd}")
     done = _won(allt).notna().sum()
@@ -232,12 +257,14 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
 
 def _pick_line(r, w, prefix: str = "") -> str:
     """Sayfada bir tahmin: sonuç, (önek), tahmin (↳ merdiven), İddaa oranı, skor."""
-    mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
+    mark = _mark(r, w)
     parts = [f"{mark} {prefix}" + ("↳ " if str(r.get("merdiven")) == "True" else "") + str(r["tahmin"])]
     if pd.notna(r["odd"]):
         parts.append(f"@{r['odd']:.2f}")
     if _score_text(r):
         parts.append(_score_text(r))
+    if mark == "🚫":
+        parts.append("iptal")
     return "- " + " · ".join(parts)
 
 
@@ -295,8 +322,8 @@ def tier_pages(log: pd.DataFrame) -> dict:
         if pending:
             head += f" · {pending} tahmin sonuç bekliyor"
         md = [f"# {icon} {s['seviye']}", "", "[← Tüm sonuçlar](../sonuclar.md)", "", head, "",
-              "<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · "
-              "@ İddaa oranı</i>"]
+              "<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki "
+              "tahminin aynı maçta devamı · @ İddaa oranı</i>"]
         md += _by_coupon(sel, won, log) if icon == "🎰" else _by_day(sel, won, show_tier=icon == "🚩")
         pages[SAYFA[icon]] = "\n".join(md) + "\n"
     return pages
@@ -362,7 +389,7 @@ def due_days(log: pd.DataFrame, done_days: set, now_tr: pd.Timestamp) -> list:
         d = pd.Timestamp(day)
         if day in done_days or d >= now_tr.normalize():
             continue
-        if won[g.index].notna().all() or now_tr >= d + pd.Timedelta(days=1, hours=RAPOR_SAATI):
+        if (won[g.index].notna() | _void(g)).all() or now_tr >= d + pd.Timedelta(days=1, hours=RAPOR_SAATI):
             out.append(day)
     return out
 
@@ -375,6 +402,11 @@ def run(send: bool = True, now_tr: pd.Timestamp | None = None) -> int:
     if log.empty:
         print("  sonuçlar: henüz kayıtlı tahmin yok (Telegram'da gönderilenler kaydedilir)")
         return 0
+    try:  # football-data'ya henüz gelmemiş kulüp sonuçları
+        from src import kulup_sonuc
+        kulup_sonuc.download(log)
+    except Exception as e:
+        print(f"  ! kulüp sonuçları (ESPN) alınamadı: {str(e)[:150]}")
     log = settle(log, load_results())
     log.to_csv(log_path(), index=False)
     (config.TAVSIYE_DIR / "sonuclar.md").write_text(summary_md(log), encoding="utf-8")

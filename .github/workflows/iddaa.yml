@@ -60,7 +60,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py telegram --test
 
-      - name: Sonuç raporu (biten maçlar, Telegram; önce dünün sonuçları, sonra günün özeti)
+      - name: Sonuç raporu (biten maçlar; kulüp sonuçları henüz football-data'da yoksa ESPN'den; Telegram)
         continue-on-error: true
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -78,7 +78,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/iddaa data/raw/milli tavsiyeler 2>/dev/null || true
+          git add data/raw/iddaa data/raw/milli data/raw/kulup tavsiyeler 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Yeni oran yok."
             exit 0

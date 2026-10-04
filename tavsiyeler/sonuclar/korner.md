@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/32 tuttu** (isabet %69, beklenen %62) · -0.17 birim · 26 tahmin sonuç bekliyor
+**30/40 tuttu** (isabet %75, beklenen %63) · +3.90 birim · 18 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10.2026 Pazartesi
 
@@ -41,10 +41,10 @@
 
 **15:00 · Real Sociedad B – Granada**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.19
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.42
+- ✅ 🟢 Korner 11.5 Alt · @1.23 · korner 1-7
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.42 · korner 1-7
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.19 · korner 1-7
+- ✅ 🎰 ↳ Korner 10.5 Alt · @1.42 · korner 1-7
 
 **19:00 · Kosova – Avusturya**
 
@@ -60,7 +60,7 @@
 
 **19:30 · Las Palmas – Real Valladolid**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.21
+- ✅ 🟢 Korner 10.5 Alt · @1.21 · korner 3-6
 
 **21:45 · Portekiz – Norveç**
 
@@ -83,7 +83,7 @@
 
 **15:00 · Albacete – Eibar**
 
-- ⏳ 🚩 En çok korner 1 · @1.69
+- ✅ 🚩 En çok korner 1 · @1.69 · korner 6-0
 
 **16:00 · Finlandiya – Arnavutluk**
 
@@ -92,7 +92,7 @@
 
 **17:15 · Almeria – CF Burgos**
 
-- ⏳ 🚩 En çok korner 1 · @1.31
+- ✅ 🚩 En çok korner 1 · @1.31 · korner 8-3
 
 **19:00 · Belarus – San Marino**
 
@@ -110,7 +110,7 @@
 
 **19:30 · Cadiz – Leganes**
 
-- ⏳ 🚩 Korner 9.5 Alt · @1.60
+- ✅ 🚩 Korner 9.5 Alt · @1.60 · korner 5-4
 
 ## 02.10.2026 Cuma
 

@@ -71,6 +71,14 @@ IDDAA_LEAGUE_NAMES = {
     "N1": "Hollanda Eredivisie", "B1": "Belçika Pro Lig", "P1": "Portekiz Premier Lig", "T1": "Türkiye Süper Lig",
     "G1": "Yunanistan Süper Lig",
 }
+# Aynı adla başlayan kadın / genç / yedek ligleri hariç (ör. "İtalya Serie A, Women" erkek Serie A'ya eşlenmesin)
+IDDAA_LEAGUE_EXCLUDE = r"Women|Kadın|\bU\s?\d{2}\b|Genç|Ümit|Rezerv|Reserve|Youth|Futsal|Plaj"
+# Kulüp maçı sonuçları ESPN'den (sadece tavsiye takibi: football-data sonuçları haftada birkaç kez gelir, ESPN maçtan
+# birkaç saat sonra). ESPN'de olmayan ligler (İskoçya League One / Two) football-data'yı bekler.
+ESPN_KULUP = {"E0": "eng.1", "E1": "eng.2", "E2": "eng.3", "E3": "eng.4", "EC": "eng.5", "SC0": "sco.1",
+              "SC1": "sco.2", "D1": "ger.1", "D2": "ger.2", "I1": "ita.1", "I2": "ita.2", "SP1": "esp.1",
+              "SP2": "esp.2", "F1": "fra.1", "F2": "fra.2", "N1": "ned.1", "B1": "bel.1", "P1": "por.1",
+              "T1": "tur.1", "G1": "gre.1"}
 
 # ---------------------------------------------------------------- Milli takımlar (bkz. src/milli.py)
 # Sonuçlar: martj42/international_results (GitHub; 1872'den bugüne tüm resmi A milli maçlar, düzenli güncellenir).
@@ -83,7 +91,7 @@ MILLI_URL = "https://raw.githubusercontent.com/martj42/international_results/mas
 ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard"
 IDDAA_MILLI_KEYWORDS = ["Uluslar", "Dünya Kupası", "Avrupa Şampiyonası", "Copa America", "Asya Kupası",
                         "Altın Kupa", "Gold Cup", "Kirin", "ASEAN", "Arap Kupası", "Körfez Kupası", "Finalissima"]
-IDDAA_MILLI_EXCLUDE = r"\bU\s?\d{2}\b|Kadın|Kulüp|Şampiyonlar|Olimpiyat|Genç|Ümit|Plaj|Futsal|Salon"
+IDDAA_MILLI_EXCLUDE = r"\bU\s?\d{2}\b|Kadın|Women|Kulüp|Şampiyonlar|Olimpiyat|Genç|Ümit|Plaj|Futsal|Salon"
 # Model ayarları (2026-10-01; seçim 2016-2021 maçlarında 1X2 + Ü/A log loss, test 2022+): çekim azaldıkça model
 # belirgin iyileşti (ridge 2 -> 0.1: test 1X2 0.884 -> 0.856); milli takımların maç sayısı çekime gerek bırakmıyor.
 # xi 0.0005-0.001 düz (yarı ömür ~3 yıl), ridge_total 16 Ü/A'da 4'ten iyi, hazırlık maçlarını düşük ağırlıklandırmak

@@ -299,7 +299,9 @@ def test_parse_iddaa():
     comps = [{"i": 129, "si": "1", "n": "İspanya La Liga"}, {"i": 1951, "si": "1", "n": "İspanya La Liga 2"},
              {"i": 19843, "si": "1", "n": "İskoçya Premiership, Şampiyona Turu"},
              {"i": 80676, "si": "1", "n": "Türkiye Süper Lig Beşiktaş Özel"}, {"i": 584, "si": "1", "n": "Türkiye Süper Lig"},
-             {"i": 5, "si": "5", "n": "İspanya La Liga"}]  # si=5: başka spor
+             {"i": 5, "si": "5", "n": "İspanya La Liga"},  # si=5: başka spor
+             {"i": 6, "si": "1", "n": "İtalya Serie A, Women"}, {"i": 12, "si": "1", "n": "Hollanda Eredivisie, Women"},
+             {"i": 13, "si": "1", "n": "Uluslararası Hazırlık Maçları, Women"}]  # kadın ligleri erkek ligine eşlenmesin
     assert resolve_competitions(comps) == {129: "SP1", 1951: "SP2", 19843: "SC0", 584: "T1"}
     # milli turnuvalar; gençler, kadınlar ve kulüp turnuvaları hariç
     milli = [{"i": 1407, "si": "1", "n": "UEFA Uluslar Ligi"}, {"i": 1484, "si": "1", "n": "Uluslararası Hazırlık Maçları"},
@@ -630,6 +632,33 @@ def test_sonuclar():
     assert due("2026-10-03 08:00") == ["2026-10-01"]       # 02.10'da Galler maçı eksik, sabah 09:00 olmadı
     assert due("2026-10-03 09:30") == ["2026-10-01", "2026-10-02"]
     assert sonuclar.due_days(log, {"2026-10-01"}, pd.Timestamp("2026-10-03 09:30")) == ["2026-10-02"]
+    # İY/MS: maç sonu tutmadıysa ilk yarı skoru olmadan da kaybetti; tuttuysa ilk yarıyı bekler
+    iy = pd.DataFrame({"tahmin": ["İY/MS 2/2", "İY/MS 1/1"], "hg": [1, 2], "ag": [1, 0], "ihg": np.nan, "iag": np.nan})
+    assert sonuclar._won(iy).tolist()[0] is False and pd.isna(sonuclar._won(iy).iloc[1])
+    # iptal: isabete / kâra girmez; sistem kuponda 1.00 oranla tutmuş sayılır (3'de 2: 2.25 + 1.5 + 1.5)
+    v = log[log["gönderildi"] == "2026-10-01 09:20"].assign(iptal=lambda d: d["tahmin"].eq("MS 1") & d["seviye"].str.startswith("🎰"))
+    c = sonuclar.systems(v)[0]
+    assert c["bitti"] and abs(c["dönen"] - 5.25) < 1e-9 and c["tutan"] == 2
+    assert {x["icon"]: x["tahmin"] for x in sonuclar.stats(v)}["🎰"] == 2
+    assert "- 🚫 Betis – Getafe · MS 1 · @1.50 · 1-1 · iptal" in sonuclar.tier_pages(v)["sistem"]
+
+
+def test_kulup_sonuc():
+    """ESPN'den kulüp sonucu: adlar football-data / İddaa adıyla eşlenir; istatistiği olmayan maçta korner boş."""
+    from src import kulup_sonuc as ks
+    team = lambda n, s, k=None, sh=None: {"homeAway": None, "team": {"displayName": n}, "score": s,  # noqa: E731
+                                          "statistics": [] if k is None else [{"name": "wonCorners", "displayValue": k},
+                                                                              {"name": "totalShots", "displayValue": sh}]}
+    ev = lambda h, a, done=True: {"status": {"type": {"completed": done}},  # noqa: E731
+                                  "competitions": [{"competitors": [{**h, "homeAway": "home"}, {**a, "homeAway": "away"}]}]}
+    data = {"events": [ev(team("Greenock Morton", "1", "0", "0"), team("Raith Rovers", "2", "0", "0")),
+                       ev(team("Livingston", "1", "5", "12"), team("Ayr United", "2", "3", "9")),
+                       ev(team("Partick Thistle", "0"), team("Arbroath", "0"), done=False)]}
+    events = ks._events(data)
+    assert len(events) == 2 and events[0]["hc"] is None and (events[1]["hc"], events[1]["ac"]) == (5, 3)
+    assert ks.match(events, ["Morton", "G. Morton"], ["Raith Rvs", "Raith Rovers"])["fthg"] == 1
+    assert ks.match(events, ["Ayr", "Ayr United"], ["Livingston"]) is None  # ev / deplasman ters: eşleşmez
+    assert ks.match(events, ["Partick", "Partick Thistle"], ["Arbroath"]) is None  # bitmemiş maç yok
 
 
 def test_xg_fit():

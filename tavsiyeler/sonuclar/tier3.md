@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/17 tuttu** (isabet %47, beklenen %47) · -1.15 birim · 21 tahmin sonuç bekliyor
+**13/25 tuttu** (isabet %52, beklenen %47) · +1.43 birim · 13 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 06.10.2026 Salı
 
@@ -42,7 +42,7 @@
 
 **15:00 · Real Sociedad B – Granada**
 
-- ⏳ ↳ Korner 8.5 Alt · @2.19
+- ✅ ↳ Korner 8.5 Alt · @2.19 · korner 1-7
 
 **19:00 · Kosova – Avusturya**
 
@@ -50,7 +50,7 @@
 
 **19:30 · Castellon – AD Ceuta**
 
-- ⏳ 2.5 Alt · @2.84
+- ✅ 2.5 Alt · @2.84 · 1-1
 
 **21:45 · Portekiz – Norveç**
 
@@ -72,15 +72,15 @@
 
 **17:00 · Yeovil Town – Boston United**
 
-- ⏳ MS 1 · @1.81
+- ✅ MS 1 · @1.81 · 6-0
 
 **17:00 · Exeter City – Rotherham**
 
-- ⏳ KG Yok · @1.87
+- ✅ KG Yok · @1.87 · 1-0
 
 **17:00 · Gillingham – Newport**
 
-- ⏳ MS 1 · @1.85
+- ❌ MS 1 · @1.85 · 0-0
 
 **17:00 · Dumbarton – Forfar**
 
@@ -88,11 +88,11 @@
 
 **17:00 · Livingston – Ayr United**
 
-- ⏳ KG Yok · @1.82
+- ❌ KG Yok · @1.82 · 1-2
 
 **17:15 · Almeria – CF Burgos**
 
-- ⏳ KG Var · @1.87
+- ✅ KG Var · @1.87 · 2-1
 
 **19:00 · Belarus – San Marino**
 
@@ -134,7 +134,7 @@
 
 **21:45 · Faroe Adaları – Slovakya**
 
-- ⏳ ↳ İY/MS 2/2 · @2.09
+- ❌ ↳ İY/MS 2/2 · @2.09
 
 **21:45 · Bosna Hersek – İsveç**
 

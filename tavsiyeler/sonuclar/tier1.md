@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/19 tuttu** (isabet %84, beklenen %78) · -0.19 birim · 17 tahmin sonuç bekliyor
+**19/23 tuttu** (isabet %83, beklenen %79) · -0.69 birim · 13 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10.2026 Pazartesi
 
@@ -28,7 +28,7 @@
 
 **15:00 · Real Sociedad B – Granada**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ Korner 11.5 Alt · @1.23 · korner 1-7
 
 **19:00 · Kosova – Avusturya**
 
@@ -40,7 +40,7 @@
 
 **19:30 · Las Palmas – Real Valladolid**
 
-- ⏳ Korner 10.5 Alt · @1.21
+- ✅ Korner 10.5 Alt · @1.21 · korner 3-6
 
 **21:00 · Fas – Mali**
 
@@ -71,11 +71,11 @@
 
 **17:00 · Livingston – Ayr United**
 
-- ⏳ ÇŞ 1-X · @1.06
+- ❌ ÇŞ 1-X · @1.06 · 1-2
 
 **17:00 · G. Morton – Raith Rovers**
 
-- ⏳ ÇŞ X-2 · @1.06
+- ✅ ÇŞ X-2 · @1.06 · 1-2
 
 **17:00 · Ross County – Alloa**
 

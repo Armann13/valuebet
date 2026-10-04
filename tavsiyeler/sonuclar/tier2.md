@@ -2,9 +2,9 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/20 tuttu** (isabet %80, beklenen %65) · +2.63 birim · 22 tahmin sonuç bekliyor
+**20/25 tuttu** (isabet %80, beklenen %65) · +3.26 birim · 16 tahmin sonuç bekliyor
 
-<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10.2026 Pazartesi
 
@@ -49,7 +49,7 @@
 
 **15:00 · Real Sociedad B – Granada**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.42
+- ✅ ↳ Korner 10.5 Alt · @1.42 · korner 1-7
 
 **19:00 · Malta – Andorra**
 
@@ -73,7 +73,7 @@
 
 **16:00 · Fiorentina FC (K) – Sassuolo Calcio (K)**
 
-- ⏳ MS 1 · @1.40
+- 🚫 MS 1 · @1.40 · iptal
 
 **16:00 · Finlandiya – Arnavutluk**
 
@@ -81,19 +81,19 @@
 
 **17:00 · Gateshead – Worthing**
 
-- ⏳ MS 2 · @1.37
+- ✅ MS 2 · @1.37 · 1-2
 
 **17:00 · Aldershot – Carlisle**
 
-- ⏳ 2.5 Üst · @1.38
+- ✅ 2.5 Üst · @1.38 · 1-3
 
 **17:00 · Livingston – Ayr United**
 
-- ⏳ MS 1 · @1.44
+- ❌ MS 1 · @1.44 · 1-2
 
 **17:00 · G. Morton – Raith Rovers**
 
-- ⏳ MS 2 · @1.46
+- ✅ MS 2 · @1.46 · 1-2
 
 **17:00 · Ross County – Alloa**
 
