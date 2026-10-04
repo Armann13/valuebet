@@ -615,6 +615,10 @@ def test_sonuclar():
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
     md = sonuclar.summary_md(log)
     assert "## Tüm zamanlar" in md and "⏳" in md and "| **toplam** (2 kupon) | | | 6 | 4.50 | -1.50 |" in md, md
+    # seviye seviye maçlar: açılır bölüm, merdiven ↳ ile, sistem ayakları kupon kupon
+    assert "<details><summary><b>🟢 Tier 1</b> · 1/1 tuttu · +0.25 birim</summary>" in md, md
+    assert "| 01.10 | Betis – Getafe | ÇŞ 1-X | %80 | 1.25 | 1-1 | ✅ |" in md and "| ↳ MS 1 | %55 | 1.70 | 1-1 | ❌ |" in md
+    assert "· 1 sonuç bekliyor</summary>" in md and md.count("gönderilen kupon · 3'de 2** — 2/3 maç tuttu") == 2
     # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 09:00'dan sonra (eksikler ⏳)
     due = lambda t: sonuclar.due_days(log, set(), pd.Timestamp(t))  # noqa: E731
     assert due("2026-10-02 12:00") == ["2026-10-01"]       # 01.10 tamam; 02.10 henüz bugün

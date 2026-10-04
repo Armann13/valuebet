@@ -169,13 +169,19 @@ def _system_line(s: dict) -> str:
             f"({net:+.2f}) {'✅' if net > 0 else '❌'}")
 
 
+def _select(df: pd.DataFrame, icon: str) -> pd.Series:
+    """Bir seviye satırına giren tahminler: seviye simgesine göre; 🚩 bahis türüne göre (tüm korner tahminleri)."""
+    if icon == "🚩":
+        return df["tahmin"].map(korner.is_corner_bet).astype(bool)
+    return df["seviye"].astype(str).str.startswith(icon)
+
+
 def stats(df: pd.DataFrame) -> list[dict]:
     """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı)."""
     out = []
     won = _won(df)
-    corner = df["tahmin"].map(korner.is_corner_bet).astype(bool)
     for icon, name in SEVIYELER:
-        sel = corner if icon == "🚩" else df["seviye"].str.startswith(icon)
+        sel = _select(df, icon)
         done = sel & won.notna()
         if not sel.any():
             continue
@@ -221,8 +227,60 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     return "\n".join(lines)
 
 
+def _md_row(r, w) -> str:
+    """Bir tahminin tablo satırı: maç saati, maç, tahmin (↳ merdiven), olasılık, İddaa oranı, skor, sonuç."""
+    when = pd.to_datetime(r.get("baslama"), errors="coerce")
+    when = f"{when:%d.%m %H:%M}" if pd.notna(when) else str(r["tarih"])
+    bet = ("↳ " if str(r.get("merdiven")) == "True" else "") + str(r["tahmin"])
+    p = "—" if pd.isna(r["p"]) else f"%{100 * r['p']:.0f}"
+    odd = "—" if pd.isna(r["odd"]) else f"{r['odd']:.2f}"
+    mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
+    return f"| {when} | {r['maç']} | {bet} | {p} | {odd} | {_score_text(r) or '—'} | {mark} |"
+
+
+def _newest(t: pd.Series) -> pd.Index:
+    """En yeni maç üstte; aynı saatteki tahminler kayıt sırasıyla (saati olmayan eski kayıtlar sonda)."""
+    return t.sort_values(ascending=False, kind="stable").index
+
+
+def _tier_sections(log: pd.DataFrame) -> list[str]:
+    """Her seviyenin tüm tahminleri, açılır bölüm olarak (en yeni maç üstte); sistem kupon ayakları kupon kupon."""
+    head = ["| maç saati | maç | tahmin | olasılık | İddaa | skor | sonuç |", "|---|---|---|---|---|---|---|"]
+    won = _won(log)
+    order = pd.to_datetime(log["baslama"], errors="coerce")
+    out = ["", "## Tier tier maçlar", "",
+           "Seviyeye tıkla, o seviyedeki tüm tahminler açılır (en yeni maç üstte). ↳ = bir üst seviyedeki tahminin aynı "
+           "maçta devamı. 🚩 Korner: tüm seviyelerdeki korner tahminleri bir arada (kendi seviyelerinde de görünür).", ""]
+    for s in stats(log):
+        sel = log[_select(log, s["icon"])]
+        pending = s["tahmin"] - s["sonuçlanan"]
+        summary = f"{s['tutan']}/{s['sonuçlanan']} tuttu"
+        if s["oranlı"]:
+            summary += f" · {s['kâr_zarar']:+.2f} birim"
+        if pending:
+            summary += f" · {pending} sonuç bekliyor"
+        out += [f"<details><summary><b>{s['icon']} {s['seviye']}</b> · {summary}</summary>", ""]
+        if s["icon"] == "🎰":  # her kupon ayrı: önce kupon sonucu, sonra ayakları
+            coupons = {c["gönderildi"]: c for c in systems(log)}
+            for sent, g in sorted(sel.groupby("gönderildi"), key=lambda x: x[0], reverse=True):
+                c = coupons.get(sent)
+                line = f"**{pd.Timestamp(sent):%d.%m %H:%M} gönderilen kupon**"
+                if c:
+                    line = f"**{pd.Timestamp(sent):%d.%m %H:%M} gönderilen kupon · {c['n']}'de {c['k']}** — " + (
+                        f"{c['tutan']}/{c['n']} maç tuttu, {c['kolon']} birim yatırıldı, {c['dönen']:.2f} döndü "
+                        f"({c['dönen'] - c['kolon']:+.2f})" if c["bitti"] else "sonuç bekleniyor")
+                out += [line, "", *head]
+                out += [_md_row(r, won[i]) for i, r in g.loc[_newest(order[g.index])].iterrows()]
+                out.append("")
+        else:
+            out += head
+            out += [_md_row(r, won[i]) for i, r in sel.loc[_newest(order[sel.index])].iterrows()]
+        out += ["", "</details>", ""]
+    return out
+
+
 def summary_md(log: pd.DataFrame) -> str:
-    """tavsiyeler/sonuclar.md: tüm zamanlar, gün gün özet ve son tahminler."""
+    """tavsiyeler/sonuclar.md: tüm zamanlar, seviye seviye tüm maçlar, sistem kuponları, gün gün özet."""
     md = ["# Tavsiye sonuçları", "",
           f"Son güncelleme: {datetime.now():%d.%m.%Y %H:%M}. Sadece Telegram'da gönderilen tahminler (ilk "
           "gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS "
@@ -235,6 +293,7 @@ def summary_md(log: pd.DataFrame) -> str:
     for s in stats(log):
         md.append(f"| {s['icon']} {s['seviye']} | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | "
                   f"{fmt(s['isabet'], True)} | {fmt(s['beklenen'], True)} | {fmt(s['kâr_zarar'])} | {fmt(s['roi'], True)} |")
+    md += _tier_sections(log)
     sis = systems(log)
     if sis:
         md += ["", "## Sistem kuponları", "", "Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına "
@@ -260,14 +319,6 @@ def summary_md(log: pd.DataFrame) -> str:
         md.append(f"| {pd.Timestamp(day):%d.%m.%Y} | {len(g)} | {len(w)} | {int(w.sum())} | "
                   f"{fmt(w.mean() if len(w) else np.nan, True)} | {fmt(g.loc[w.index, 'p'].mean() if len(w) else np.nan, True)} | "
                   f"{fmt(pl)} |")
-    md += ["", "## Son 200 tahmin", "", "| gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |",
-           "|---|---|---|---|---|---|---|---|"]
-    for (_, r), w in list(zip(log.iterrows(), won))[::-1][:200]:
-        odd = "—" if pd.isna(r["odd"]) else f"{r['odd']:.2f}"
-        score = _score_text(r) or "—"
-        mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
-        md.append(f"| {r['tarih']} | {r['seviye'][:1]} | {r['maç']} | {r['tahmin']} | %{100 * r['p']:.0f} | {odd} | "
-                  f"{score} | {mark} |")
     return "\n".join(md)
 
 
