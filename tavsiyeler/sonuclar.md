@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 03.10.2026 21:26. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 04.10.2026 06:03. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,10 +8,10 @@ Son güncelleme: 03.10.2026 21:26. Sadece Telegram'da gönderilen tahminler (ilk
 |---|---|---|---|---|---|---|---|
 | 🟢 Tier 1 | 25 | 17 | 14 | %82 | %79 | -0.60 | %-4 |
 | 🟡 Tier 2 | 31 | 18 | 14 | %78 | %65 | +1.79 | %10 |
-| 🔴 Tier 3 | 29 | 15 | 7 | %47 | %48 | -1.02 | %-7 |
+| 🔴 Tier 3 | 29 | 16 | 8 | %50 | %47 | -0.15 | %-1 |
 | ⚡ Tier 4 | 9 | 5 | 0 | %0 | %18 | -5.00 | %-100 |
-| 🔥 Tier 5 | 32 | 18 | 2 | %11 | %13 | -5.91 | %-33 |
-| 🚩 Korner (tüm seviyeler) | 40 | 25 | 16 | %64 | %62 | -1.88 | %-8 |
+| 🔥 Tier 5 | 32 | 19 | 2 | %11 | %13 | -6.91 | %-36 |
+| 🚩 Korner (tüm seviyeler) | 40 | 26 | 17 | %65 | %62 | -1.01 | %-4 |
 | 🎰 Sistem ayakları | 21 | 13 | 9 | %69 | %64 | +0.16 | %1 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
@@ -33,15 +33,15 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
 | 03.10.2026 | 61 | 26 | 10 | %38 | %45 | -12.15 |
-| 04.10.2026 | 27 | 0 | 0 | — | — | — |
+| 04.10.2026 | 27 | 2 | 1 | %50 | %29 | -0.13 |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
-| 04.10 | 🔥 | ABD – Meksika | 1-1 | %13 | 4.88 | — | ⏳ |
+| 04.10 | 🔥 | ABD – Meksika | 1-1 | %13 | 4.88 | 3-0 | ❌ |
 | 04.10 | ⚡ | Mısır – Güney Afrika | 1-0 | %16 | 4.53 | — | ⏳ |
-| 04.10 | 🔴 | ABD – Meksika | En çok korner 2 | %46 | 1.87 | — | ⏳ |
+| 04.10 | 🔴 | ABD – Meksika | En çok korner 2 | %46 | 1.87 | korner 2-3 | ✅ |
 | 03.10 | 🔴 | Hamilton – Peterhead | KG Var | %50 | 1.85 | — | ⏳ |
 | 04.10 | 🟡 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | — | ⏳ |
 | 05.10 | 🟡 | Aruba – Anguilla | KG Yok | %69 | 1.51 | — | ⏳ |
