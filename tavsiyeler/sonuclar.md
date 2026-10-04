@@ -1,18 +1,18 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 04.10.2026 18:42. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 04.10.2026 18:50. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 32 | 19 | 16 | %84 | %78 | -0.19 | %-1 |
-| 🟡 Tier 2 | 37 | 20 | 16 | %80 | %65 | +2.63 | %13 |
-| 🔴 Tier 3 | 34 | 17 | 8 | %47 | %47 | -1.15 | %-7 |
+| 🟢 Tier 1 | 36 | 19 | 16 | %84 | %78 | -0.19 | %-1 |
+| 🟡 Tier 2 | 42 | 20 | 16 | %80 | %65 | +2.63 | %13 |
+| 🔴 Tier 3 | 38 | 17 | 8 | %47 | %47 | -1.15 | %-7 |
 | ⚡ Tier 4 | 11 | 6 | 1 | %17 | %18 | -1.66 | %-28 |
-| 🔥 Tier 5 | 41 | 21 | 3 | %14 | %13 | -3.27 | %-16 |
-| 🚩 Korner (tüm seviyeler) | 51 | 32 | 22 | %69 | %62 | -0.17 | %-1 |
-| 🎰 Sistem ayakları | 29 | 17 | 13 | %76 | %64 | +1.84 | %11 |
+| 🔥 Tier 5 | 45 | 21 | 3 | %14 | %13 | -3.27 | %-16 |
+| 🚩 Korner (tüm seviyeler) | 58 | 32 | 22 | %69 | %62 | -0.17 | %-1 |
+| 🎰 Sistem ayakları | 37 | 17 | 13 | %76 | %64 | +1.84 | %11 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
 ## Sistem kuponları
@@ -25,6 +25,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 02.10 20:57 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
 | 03.10 11:01 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
 | 04.10 09:03 | 8'de 7 | 2/8 | 8 | ⏳ | ⏳ |
+| 04.10 21:42 | 8'de 7 | 0/8 | 8 | ⏳ | ⏳ |
 | **toplam** (1 kupon) | | | 7 | 0.00 | -7.00 |
 
 ## Gün gün
@@ -34,13 +35,38 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
 | 03.10.2026 | 61 | 26 | 10 | %38 | %45 | -12.15 |
-| 04.10.2026 | 41 | 14 | 11 | %79 | %49 | +8.78 |
-| 05.10.2026 | 23 | 0 | 0 | — | — | — |
+| 04.10.2026 | 53 | 14 | 11 | %79 | %49 | +8.78 |
+| 05.10.2026 | 36 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 05.10 | 🎰 | Nikaragua – Dominik Cumhuriyeti | MS 2 | %62 | 1.48 | — | ⏳ |
+| 04.10 | 🎰 | Hollanda – Sırbistan | Korner 8.5 Üst | %64 | 1.42 | — | ⏳ |
+| 05.10 | 🎰 | Kuzey İrlanda – Gürcistan | 2.5 Alt | %65 | 1.42 | — | ⏳ |
+| 05.10 | 🎰 | Karadağ – Ermenistan | MS 1 | %66 | 1.43 | — | ⏳ |
+| 05.10 | 🎰 | Romanya – İsveç | En çok korner 2 | %66 | 1.40 | — | ⏳ |
+| 05.10 | 🎰 | Fransa – Belçika | MS 1 | %67 | 1.42 | — | ⏳ |
+| 04.10 | 🎰 | Girona – Mallorca | En çok korner 1 | %69 | 1.41 | — | ⏳ |
+| 05.10 | 🎰 | Cordoba – Tenerife | En çok korner 1 | %78 | 1.41 | — | ⏳ |
+| 04.10 | 🔥 | Galler – Danimarka | 0-1 | %10 | 7.03 | — | ⏳ |
+| 04.10 | 🔥 | Girona – Mallorca | 2-1 | %10 | 8.52 | — | ⏳ |
+| 05.10 | 🔥 | Romanya – İsveç | 1-2 | %11 | 7.48 | — | ⏳ |
+| 04.10 | 🔥 | Hollanda – Sırbistan | 2-1 | %13 | 8.85 | — | ⏳ |
+| 04.10 | 🔴 | Hollanda – Sırbistan | Korner 9.5 Üst | %49 | 1.73 | — | ⏳ |
+| 05.10 | 🔴 | Endonezya – Tayland | MS 1 | %48 | 1.87 | — | ⏳ |
+| 06.10 | 🔴 | Martinik – El Salvador | KG Yok | %48 | 1.88 | — | ⏳ |
+| 04.10 | 🔴 | Portekiz – Norveç | MS 1 & 2.5 Üst | %50 | 1.91 | — | ⏳ |
+| 05.10 | 🟡 | Romanya – İsveç | En çok korner 2 | %66 | 1.40 | — | ⏳ |
+| 05.10 | 🟡 | Kıbrıs Rum Kesimi – Letonya | MS 1 | %61 | 1.54 | — | ⏳ |
+| 04.10 | 🟡 | Bahamalar – ABD Virgin Adaları | MS 2 | %61 | 1.50 | — | ⏳ |
+| 05.10 | 🟡 | Nikaragua – Dominik Cumhuriyeti | MS 2 | %62 | 1.48 | — | ⏳ |
+| 05.10 | 🟡 | Kuzey İrlanda – Gürcistan | 2.5 Alt | %65 | 1.42 | — | ⏳ |
+| 04.10 | 🟢 | Hollanda – Sırbistan | Korner 7.5 Üst | %78 | 1.20 | — | ⏳ |
+| 04.10 | 🟢 | Girona – Mallorca | ÇŞ 1-2 | %73 | 1.25 | — | ⏳ |
+| 04.10 | 🟢 | Hollanda – Sırbistan | 2.5 Üst | %75 | 1.26 | — | ⏳ |
+| 04.10 | 🟢 | Portekiz – Norveç | 2.5 Üst | %75 | 1.26 | — | ⏳ |
 | 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | korner 3-5 | ✅ |
 | 05.10 | 🎰 | Kuzey İrlanda – Gürcistan | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
 | 05.10 | 🎰 | Karadağ – Ermenistan | MS 1 | %66 | 1.43 | — | ⏳ |
@@ -216,16 +242,3 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 01.10 | 🔥 | Danimarka – Portekiz | 1-2 | %13 | 7.80 | 2-4 | ❌ |
 | 01.10 | 🔥 | Almanya – Sırbistan | 2-1 | %14 | 8.82 | 2-0 | ❌ |
 | 02.10 | ⚡ | Güney Kore – Venezuela | 1-0 | %16 | 4.50 | 0-0 | ❌ |
-| 01.10 | ⚡ | Japonya – Ekvador | 2-1 | %16 | 6.52 | — | ⏳ |
-| 02.10 | ⚡ | Faroe Adaları – Slovakya | 0-1 | %19 | 4.51 | 1-1 | ❌ |
-| 01.10 | ⚡ | Malta – Cebelitarık | 1-0 | %21 | 4.16 | 1-1 | ❌ |
-| 01.10 | 🔴 | Dominika – Guyana | MS 2 & KG Var | %35 | 2.84 | 1-5 | ✅ |
-| 01.10 | 🔴 | Almanya – Sırbistan | MS 1 & KG Var | %46 | 2.28 | 2-0 | ❌ |
-| 02.10 | 🔴 | ST Kitts ve Nevis – Küba | KG Yok | %49 | 1.73 | 3-3 | ❌ |
-| 01.10 | 🔴 | Danimarka – Portekiz | MS 2 | %50 | 1.85 | 2-4 | ✅ |
-| 02.10 | 🟡 | Faroe Adaları – Slovakya | MS 2 | %62 | 1.51 | 1-1 | ❌ |
-| 02.10 | 🟡 | Surinam – Guatemala | ÇŞ 1-X | %68 | 1.26 | 0-0 | ✅ |
-| 02.10 | 🟡 | Nikaragua – Kosta Rika | MS 2 | %68 | 1.37 | 0-3 | ✅ |
-| 02.10 | 🟢 | Faroe Adaları – Slovakya | ÇŞ X-2 | %86 | 1.06 | 1-1 | ✅ |
-| 01.10 | 🟢 | Dominika – Guyana | MS 2 | %87 | 1.11 | 1-5 | ✅ |
-| 01.10 | 🟢 | Almanya – Sırbistan | MS 1 | %88 | 1.10 | 2-0 | ✅ |
