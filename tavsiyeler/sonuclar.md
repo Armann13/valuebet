@@ -1,18 +1,18 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 04.10.2026 06:03. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 04.10.2026 12:32. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 25 | 17 | 14 | %82 | %79 | -0.60 | %-4 |
-| 🟡 Tier 2 | 31 | 18 | 14 | %78 | %65 | +1.79 | %10 |
-| 🔴 Tier 3 | 29 | 16 | 8 | %50 | %47 | -0.15 | %-1 |
-| ⚡ Tier 4 | 9 | 5 | 0 | %0 | %18 | -5.00 | %-100 |
-| 🔥 Tier 5 | 32 | 19 | 2 | %11 | %13 | -6.91 | %-36 |
-| 🚩 Korner (tüm seviyeler) | 40 | 26 | 17 | %65 | %62 | -1.01 | %-4 |
-| 🎰 Sistem ayakları | 21 | 13 | 9 | %69 | %64 | +0.16 | %1 |
+| 🟢 Tier 1 | 32 | 17 | 14 | %82 | %79 | -0.60 | %-4 |
+| 🟡 Tier 2 | 37 | 18 | 14 | %78 | %65 | +1.79 | %10 |
+| 🔴 Tier 3 | 34 | 16 | 8 | %50 | %47 | -0.15 | %-1 |
+| ⚡ Tier 4 | 11 | 5 | 0 | %0 | %18 | -5.00 | %-100 |
+| 🔥 Tier 5 | 41 | 19 | 2 | %11 | %13 | -6.91 | %-36 |
+| 🚩 Korner (tüm seviyeler) | 51 | 26 | 17 | %65 | %62 | -1.01 | %-4 |
+| 🎰 Sistem ayakları | 29 | 13 | 9 | %69 | %64 | +0.16 | %1 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
 ## Sistem kuponları
@@ -24,6 +24,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 02.10 15:06 | 7'de 6 | 5/7 | 7 | 0.00 | -7.00 |
 | 02.10 20:57 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
 | 03.10 11:01 | 7'de 6 | 1/7 | 7 | ⏳ | ⏳ |
+| 04.10 09:03 | 8'de 7 | 0/8 | 8 | ⏳ | ⏳ |
 | **toplam** (1 kupon) | | | 7 | 0.00 | -7.00 |
 
 ## Gün gün
@@ -33,12 +34,50 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
 | 03.10.2026 | 61 | 26 | 10 | %38 | %45 | -12.15 |
-| 04.10.2026 | 27 | 2 | 1 | %50 | %29 | -0.13 |
+| 04.10.2026 | 41 | 2 | 1 | %50 | %29 | -0.13 |
+| 05.10.2026 | 23 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
+| 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | — | ⏳ |
+| 05.10 | 🎰 | Kuzey İrlanda – Gürcistan | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 05.10 | 🎰 | Karadağ – Ermenistan | MS 1 | %66 | 1.43 | — | ⏳ |
+| 04.10 | 🎰 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | — | ⏳ |
+| 05.10 | 🎰 | Fransa – Belçika | MS 1 | %67 | 1.42 | — | ⏳ |
+| 04.10 | 🎰 | Girona – Mallorca | En çok korner 1 | %69 | 1.41 | — | ⏳ |
+| 05.10 | 🎰 | Aruba – Anguilla | KG Yok | %69 | 1.55 | — | ⏳ |
+| 05.10 | 🎰 | Cordoba – Tenerife | En çok korner 1 | %78 | 1.41 | — | ⏳ |
+| 05.10 | 🔥 | Bosna Hersek – Polonya | 0-1 | %9 | 7.55 | — | ⏳ |
+| 04.10 | 🔥 | Kosova – Avusturya | 1-2 | %10 | 7.87 | — | ⏳ |
+| 04.10 | 🔥 | Galler – Danimarka | 1-2 | %10 | 7.64 | — | ⏳ |
+| 04.10 | 🔥 | Girona – Mallorca | 1-1 | %11 | 5.52 | — | ⏳ |
+| 05.10 | 🔥 | Karadağ – Ermenistan | 1-0 | %12 | 6.69 | — | ⏳ |
+| 05.10 | 🔥 | Cordoba – Tenerife | 1-0 | %12 | 6.93 | — | ⏳ |
+| 05.10 | 🔥 | İtalya – Türkiye | 2-1 | %13 | 7.40 | — | ⏳ |
+| 05.10 | 🔥 | Ukrayna – Macaristan | 1-1 | %13 | 5.34 | — | ⏳ |
+| 05.10 | 🔥 | Kuzey İrlanda – Gürcistan | 1-1 | %14 | 5.11 | — | ⏳ |
+| 05.10 | ⚡ | Fransa – Belçika | 2-1 | %15 | 7.44 | — | ⏳ |
+| 05.10 | ⚡ | Kıbrıs Rum Kesimi – Letonya | 1-0 | %16 | 5.44 | — | ⏳ |
+| 05.10 | 🔴 | İtalya – Türkiye | Korner 9.5 Alt | %47 | 1.80 | — | ⏳ |
+| 05.10 | 🔴 | Ukrayna – Macaristan | En çok korner 1 | %49 | 1.81 | — | ⏳ |
+| 04.10 | 🔴 | Bahamalar – ABD Virgin Adaları | KG Yok | %46 | 2.35 | — | ⏳ |
+| 05.10 | 🔴 | Bosna Hersek – Polonya | KG Yok | %46 | 1.96 | — | ⏳ |
+| 05.10 | 🔴 | Cordoba – Tenerife | KG Yok | %48 | 1.91 | — | ⏳ |
+| 05.10 | 🟡 | Kuzey İrlanda – Gürcistan | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
+| 04.10 | 🟡 | Girona – Mallorca | En çok korner 1 | %69 | 1.41 | — | ⏳ |
+| 04.10 | 🟡 | Portekiz – Norveç | MS 1 | %62 | 1.52 | — | ⏳ |
+| 05.10 | 🟡 | Guadeloupe – Saint Lucia | KG Var | %63 | 1.56 | — | ⏳ |
+| 05.10 | 🟡 | Karadağ – Ermenistan | MS 1 | %66 | 1.43 | — | ⏳ |
+| 05.10 | 🟡 | Fransa – Belçika | MS 1 | %67 | 1.42 | — | ⏳ |
+| 05.10 | 🟢 | Kuzey İrlanda – Gürcistan | Korner 10.5 Alt | %77 | 1.21 | — | ⏳ |
+| 05.10 | 🟢 | Cordoba – Tenerife | En çok korner 1 | %78 | 1.41 | — | ⏳ |
+| 04.10 | 🟢 | Malta – Andorra | ÇŞ 1-2 | %75 | 1.21 | — | ⏳ |
+| 04.10 | 🟢 | Fas – Mali | MS 1 | %75 | 1.26 | — | ⏳ |
+| 05.10 | 🟢 | Kıbrıs Rum Kesimi – Letonya | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
+| 04.10 | 🟢 | Galler – Danimarka | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
+| 04.10 | 🟢 | Guyana – Dominika | 2.5 Üst | %78 | 1.20 | — | ⏳ |
 | 04.10 | 🔥 | ABD – Meksika | 1-1 | %13 | 4.88 | 3-0 | ❌ |
 | 04.10 | ⚡ | Mısır – Güney Afrika | 1-0 | %16 | 4.53 | — | ⏳ |
 | 04.10 | 🔴 | ABD – Meksika | En çok korner 2 | %46 | 1.87 | korner 2-3 | ✅ |
