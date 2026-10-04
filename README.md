@@ -156,7 +156,9 @@ Tier 1 ve 2'de en düşük oran: 1.20 ve 1.40 (`tavsiye.MIN_ODDS`); 1.06'lık ç
   isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek başına 1 birim), tek tek tahminler ve
   başlangıçtan beri toplam. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;
   sonradan gelirse toplamlara eklenir.
-- Tüm zamanların özeti (paylaşılabilir): `tavsiyeler/sonuclar.md`. Elle: `python main.py sonuc --gonderme`.
+- Tüm zamanların özeti (paylaşılabilir): `tavsiyeler/sonuclar.md`; tablodaki seviyeye tıklayınca o seviyenin tüm
+  maçları tek tek, gün gün (`tavsiyeler/sonuclar/tier1.md` ... `korner.md`, `sistem.md`). Elle:
+  `python main.py sonuc --gonderme`.
 
 ### Milli takımlar
 

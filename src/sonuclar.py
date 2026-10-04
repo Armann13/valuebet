@@ -6,7 +6,7 @@ Sonuç: kulüp maçları football-data'dan (veritabanı), milli maçlar milli so
 ESPN'den). Veri güncellendikçe kayıtlar kapanır: kulüplerde 1-3 gün, milli maçlarda birkaç saat.
 Rapor: bir günün tüm tahminleri sonuçlanınca, en geç ertesi sabah (RAPOR_SAATI'nden sonra; sonucu henüz gelmeyenler
 ⏳ ile) o günün sonuç mesajı Telegram'a bir kez gider; geç gelen sonuçlar toplamlara sonradan eklenir.
-tavsiyeler/sonuclar.md tüm zamanların özetidir.
+tavsiyeler/sonuclar.md tüm zamanların özetidir; her seviyenin tüm maçları tavsiyeler/sonuclar/<seviye>.md'de.
 Kâr/zarar: her tahmine tek başına 1 birim, İddaa oranıyla (MBS / kombine hesaba katılmaz; oranı olmayan tahmin
 kâr/zarara girmez). "Beklenen" = tahminlerin ortalama olasılığı: gerçek isabet buna yakınsa olasılıklar doğrudur.
 Sistem kupon: gönderilen her kupon (aynı anda gönderilen 🎰 ayakları) bir bütün olarak, önerilen "n'de k" ile:
@@ -31,6 +31,9 @@ SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡",
              ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
              ("🎰", "Sistem ayakları"), ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
 AYRI = ("💎", "🎫", "🎰")   # bu bölümlerdeki tahmin, aynı tahmin başka seviyede de gönderildiyse ayrıca sayılır
+SAYFA = {"🟢": "tier1", "🟡": "tier2", "🔴": "tier3", "⚡": "tier4", "🔥": "tier5", "🔀": "iyms", "🚩": "korner",
+         "🎫": "kupon", "🎰": "sistem", "💎": "degerli"}   # tavsiyeler/sonuclar/<ad>.md: seviyenin tüm maçları
+GUNLER = ("Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar")
 RAPOR_SAATI = 9          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
 
@@ -227,73 +230,102 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     return "\n".join(lines)
 
 
-def _md_row(r, w) -> str:
-    """Bir tahminin tablo satırı: maç saati, maç, tahmin (↳ merdiven), olasılık, İddaa oranı, skor, sonuç."""
-    when = pd.to_datetime(r.get("baslama"), errors="coerce")
-    when = f"{when:%d.%m %H:%M}" if pd.notna(when) else str(r["tarih"])
-    bet = ("↳ " if str(r.get("merdiven")) == "True" else "") + str(r["tahmin"])
-    p = "—" if pd.isna(r["p"]) else f"%{100 * r['p']:.0f}"
-    odd = "—" if pd.isna(r["odd"]) else f"{r['odd']:.2f}"
+def _pick_line(r, w, prefix: str = "") -> str:
+    """Sayfada bir tahmin: sonuç, (önek), tahmin (↳ merdiven), İddaa oranı, skor."""
     mark = "⏳" if pd.isna(w) else ("✅" if w else "❌")
-    return f"| {when} | {r['maç']} | {bet} | {p} | {odd} | {_score_text(r) or '—'} | {mark} |"
+    parts = [f"{mark} {prefix}" + ("↳ " if str(r.get("merdiven")) == "True" else "") + str(r["tahmin"])]
+    if pd.notna(r["odd"]):
+        parts.append(f"@{r['odd']:.2f}")
+    if _score_text(r):
+        parts.append(_score_text(r))
+    return "- " + " · ".join(parts)
 
 
-def _newest(t: pd.Series) -> pd.Index:
-    """En yeni maç üstte; aynı saatteki tahminler kayıt sırasıyla (saati olmayan eski kayıtlar sonda)."""
-    return t.sort_values(ascending=False, kind="stable").index
-
-
-def _tier_sections(log: pd.DataFrame) -> list[str]:
-    """Her seviyenin tüm tahminleri, açılır bölüm olarak (en yeni maç üstte); sistem kupon ayakları kupon kupon."""
-    head = ["| maç saati | maç | tahmin | olasılık | İddaa | skor | sonuç |", "|---|---|---|---|---|---|---|"]
-    won = _won(log)
-    order = pd.to_datetime(log["baslama"], errors="coerce")
-    out = ["", "## Tier tier maçlar", "",
-           "Seviyeye tıkla, o seviyedeki tüm tahminler açılır (en yeni maç üstte). ↳ = bir üst seviyedeki tahminin aynı "
-           "maçta devamı. 🚩 Korner: tüm seviyelerdeki korner tahminleri bir arada (kendi seviyelerinde de görünür).", ""]
-    for s in stats(log):
-        sel = log[_select(log, s["icon"])]
-        pending = s["tahmin"] - s["sonuçlanan"]
-        summary = f"{s['tutan']}/{s['sonuçlanan']} tuttu"
-        if s["oranlı"]:
-            summary += f" · {s['kâr_zarar']:+.2f} birim"
-        if pending:
-            summary += f" · {pending} sonuç bekliyor"
-        out += [f"<details><summary><b>{s['icon']} {s['seviye']}</b> · {summary}</summary>", ""]
-        if s["icon"] == "🎰":  # her kupon ayrı: önce kupon sonucu, sonra ayakları
-            coupons = {c["gönderildi"]: c for c in systems(log)}
-            for sent, g in sorted(sel.groupby("gönderildi"), key=lambda x: x[0], reverse=True):
-                c = coupons.get(sent)
-                line = f"**{pd.Timestamp(sent):%d.%m %H:%M} gönderilen kupon**"
-                if c:
-                    line = f"**{pd.Timestamp(sent):%d.%m %H:%M} gönderilen kupon · {c['n']}'de {c['k']}** — " + (
-                        f"{c['tutan']}/{c['n']} maç tuttu, {c['kolon']} birim yatırıldı, {c['dönen']:.2f} döndü "
-                        f"({c['dönen'] - c['kolon']:+.2f})" if c["bitti"] else "sonuç bekleniyor")
-                out += [line, "", *head]
-                out += [_md_row(r, won[i]) for i, r in g.loc[_newest(order[g.index])].iterrows()]
-                out.append("")
-        else:
-            out += head
-            out += [_md_row(r, won[i]) for i, r in sel.loc[_newest(order[sel.index])].iterrows()]
-        out += ["", "</details>", ""]
+def _by_day(sel: pd.DataFrame, won: pd.Series, show_tier: bool) -> list[str]:
+    """Gün gün (en yeni gün üstte), gün içinde maç saatine göre; her maçın altında tahminleri."""
+    t = pd.to_datetime(sel["baslama"], errors="coerce")
+    day = t.dt.strftime("%Y-%m-%d").fillna(sel["gün"])
+    out = []
+    for d in sorted(day.unique(), reverse=True):
+        g = sel[day == d].assign(_t=t).sort_values("_t", kind="stable")
+        out += ["", f"## {pd.Timestamp(d):%d.%m.%Y} {GUNLER[pd.Timestamp(d).dayofweek]}"]
+        for m in dict.fromkeys(g["maç"]):
+            mg = g[g["maç"] == m]
+            when = f"{mg['_t'].iloc[0]:%H:%M} · " if pd.notna(mg["_t"].iloc[0]) else ""
+            out += ["", f"**{when}{m}**", ""]
+            out += [_pick_line(r, won[i], f"{str(r['seviye'])[:1]} " if show_tier else "") for i, r in mg.iterrows()]
     return out
 
 
+def _by_coupon(sel: pd.DataFrame, won: pd.Series, log: pd.DataFrame) -> list[str]:
+    """Sistem kupon sayfası: her gönderilen kupon (en yeni üstte), sonucu ve maçları."""
+    coupons = {c["gönderildi"]: c for c in systems(log)}
+    out = []
+    for sent, g in sorted(sel.groupby("gönderildi"), key=lambda x: x[0], reverse=True):
+        c = coupons.get(sent)
+        out += ["", f"## {pd.Timestamp(sent):%d.%m %H:%M} gönderilen kupon" + (f" · {c['n']}'de {c['k']}" if c else ""), ""]
+        if c and c["bitti"]:
+            net = c["dönen"] - c["kolon"]
+            out += [f"**{c['tutan']}/{c['n']} maç tuttu · {c['kolon']} birim yatırıldı, {c['dönen']:.2f} döndü "
+                    f"({net:+.2f})** {'✅' if net > 0 else '❌'}", ""]
+        elif c:
+            out += [f"Sonuç bekleniyor ({c['tutan']} maç tuttu, diğerleri ⏳)", ""]
+        t = pd.to_datetime(g["baslama"], errors="coerce")
+        for i, r in g.loc[t.sort_values(kind="stable").index].iterrows():
+            when = f"{t[i]:%d.%m %H:%M} " if pd.notna(t[i]) else ""
+            out.append(_pick_line(r, won[i], f"{when}{r['maç']} · "))
+    return out
+
+
+def tier_pages(log: pd.DataFrame) -> dict:
+    """Seviye sayfaları (tavsiyeler/sonuclar/<ad>.md): o seviyenin tüm tahminleri maç maç, gün gün; sistem kuponda
+    kupon kupon. Döner: sayfa adı -> markdown."""
+    won, pages = _won(log), {}
+    for s in stats(log):
+        icon = s["icon"]
+        sel = log[_select(log, icon)]
+        pending = s["tahmin"] - s["sonuçlanan"]
+        if s["sonuçlanan"]:
+            head = (f"**{s['tutan']}/{s['sonuçlanan']} tuttu** (isabet %{100 * s['isabet']:.0f}, beklenen "
+                    f"%{100 * s['beklenen']:.0f})")
+            if s["oranlı"]:
+                head += f" · {s['kâr_zarar']:+.2f} birim"
+        else:
+            head = "Henüz sonuçlanan yok"
+        if pending:
+            head += f" · {pending} tahmin sonuç bekliyor"
+        md = [f"# {icon} {s['seviye']}", "", "[← Tüm sonuçlar](../sonuclar.md)", "", head, "",
+              "<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · ↳ bir üst seviyedeki tahminin aynı maçta devamı · "
+              "@ İddaa oranı</i>"]
+        md += _by_coupon(sel, won, log) if icon == "🎰" else _by_day(sel, won, show_tier=icon == "🚩")
+        pages[SAYFA[icon]] = "\n".join(md) + "\n"
+    return pages
+
+
+def write_pages(log: pd.DataFrame) -> None:
+    """Seviye sayfalarını tavsiyeler/sonuclar/ altına yazar (sonuclar.md'deki tablodan bağlantılı)."""
+    folder = config.TAVSIYE_DIR / "sonuclar"
+    folder.mkdir(parents=True, exist_ok=True)
+    for name, text in tier_pages(log).items():
+        (folder / f"{name}.md").write_text(text, encoding="utf-8")
+
+
 def summary_md(log: pd.DataFrame) -> str:
-    """tavsiyeler/sonuclar.md: tüm zamanlar, seviye seviye tüm maçlar, sistem kuponları, gün gün özet."""
+    """tavsiyeler/sonuclar.md: tüm zamanlar (seviyeler kendi sayfasına bağlantılı), sistem kuponları, gün gün özet."""
     md = ["# Tavsiye sonuçları", "",
           f"Son güncelleme: {datetime.now():%d.%m.%Y %H:%M}. Sadece Telegram'da gönderilen tahminler (ilk "
           "gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS "
           "hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar "
           "doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın "
           "altındadır, uzun vadede zarar beklenir.", "", "## Tüm zamanlar", "",
+          "**Seviyeye tıkla:** o seviyedeki tüm maçlar tek tek, gün gün açılır.", "",
           "| seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |",
           "|---|---|---|---|---|---|---|---|"]
     fmt = lambda v, p=False: "—" if pd.isna(v) else (f"%{100 * v:.0f}" if p else f"{v:+.2f}")  # noqa: E731
     for s in stats(log):
-        md.append(f"| {s['icon']} {s['seviye']} | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | "
-                  f"{fmt(s['isabet'], True)} | {fmt(s['beklenen'], True)} | {fmt(s['kâr_zarar'])} | {fmt(s['roi'], True)} |")
-    md += _tier_sections(log)
+        md.append(f"| [{s['icon']} {s['seviye']}](sonuclar/{SAYFA[s['icon']]}.md) | {s['tahmin']} | {s['sonuçlanan']} | "
+                  f"{s['tutan']} | {fmt(s['isabet'], True)} | {fmt(s['beklenen'], True)} | {fmt(s['kâr_zarar'])} | "
+                  f"{fmt(s['roi'], True)} |")
     sis = systems(log)
     if sis:
         md += ["", "## Sistem kuponları", "", "Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına "
@@ -346,6 +378,7 @@ def run(send: bool = True, now_tr: pd.Timestamp | None = None) -> int:
     log = settle(log, load_results())
     log.to_csv(log_path(), index=False)
     (config.TAVSIYE_DIR / "sonuclar.md").write_text(summary_md(log), encoding="utf-8")
+    write_pages(log)
     state_path = config.TAVSIYE_DIR / "telegram_durum.json"
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
     done_days = set(state.get("sonuc_gonderilen", []))

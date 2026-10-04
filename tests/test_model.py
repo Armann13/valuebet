@@ -614,11 +614,16 @@ def test_sonuclar():
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
     assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
     md = sonuclar.summary_md(log)
-    assert "## Tüm zamanlar" in md and "⏳" in md and "| **toplam** (2 kupon) | | | 6 | 4.50 | -1.50 |" in md, md
-    # seviye seviye maçlar: açılır bölüm, merdiven ↳ ile, sistem ayakları kupon kupon
-    assert "<details><summary><b>🟢 Tier 1</b> · 1/1 tuttu · +0.25 birim</summary>" in md, md
-    assert "| 01.10 | Betis – Getafe | ÇŞ 1-X | %80 | 1.25 | 1-1 | ✅ |" in md and "| ↳ MS 1 | %55 | 1.70 | 1-1 | ❌ |" in md
-    assert "· 1 sonuç bekliyor</summary>" in md and md.count("gönderilen kupon · 3'de 2** — 2/3 maç tuttu") == 2
+    assert "## Tüm zamanlar" in md and "| **toplam** (2 kupon) | | | 6 | 4.50 | -1.50 |" in md, md
+    # her seviyenin kendi sayfası (tablodan bağlantı): maç maç, gün gün; merdiven ↳; sistem ayakları kupon kupon
+    assert "| [🟢 Tier 1](sonuclar/tier1.md) |" in md
+    pages = sonuclar.tier_pages(log)
+    t1 = pages["tier1"]
+    assert "**1/1 tuttu** (isabet %100, beklenen %80) · +0.25 birim" in t1 and "## 01.10.2026 Perşembe" in t1, t1
+    assert "**Betis – Getafe**\n\n- ✅ ÇŞ 1-X · @1.25 · 1-1" in t1 and "- ❌ ↳ MS 1 · @1.70 · 1-1" in pages["tier2"]
+    assert "- ✅ 🚩 Korner 9.5 Üst · @1.80 · korner 7-4" in pages["korner"]  # korner sayfasında seviyesiyle
+    assert "Henüz sonuçlanan yok · 1 tahmin sonuç bekliyor" in pages["tier3"] and "- ⏳ MS 2 & KG Var · @3.20" in pages["tier3"]
+    assert pages["sistem"].count("**2/3 maç tuttu · 3 birim yatırıldı, 2.25 döndü (-0.75)** ❌") == 2
     # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 09:00'dan sonra (eksikler ⏳)
     due = lambda t: sonuclar.due_days(log, set(), pd.Timestamp(t))  # noqa: E731
     assert due("2026-10-02 12:00") == ["2026-10-01"]       # 01.10 tamam; 02.10 henüz bugün
