@@ -1,18 +1,18 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 04.10.2026 12:55. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 04.10.2026 18:42. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| 🟢 Tier 1 | 32 | 17 | 14 | %82 | %79 | -0.60 | %-4 |
-| 🟡 Tier 2 | 37 | 18 | 14 | %78 | %65 | +1.79 | %10 |
-| 🔴 Tier 3 | 34 | 16 | 8 | %50 | %47 | -0.15 | %-1 |
-| ⚡ Tier 4 | 11 | 5 | 0 | %0 | %18 | -5.00 | %-100 |
-| 🔥 Tier 5 | 41 | 19 | 2 | %11 | %13 | -6.91 | %-36 |
-| 🚩 Korner (tüm seviyeler) | 51 | 26 | 17 | %65 | %62 | -1.01 | %-4 |
-| 🎰 Sistem ayakları | 29 | 13 | 9 | %69 | %64 | +0.16 | %1 |
+| 🟢 Tier 1 | 32 | 19 | 16 | %84 | %78 | -0.19 | %-1 |
+| 🟡 Tier 2 | 37 | 20 | 16 | %80 | %65 | +2.63 | %13 |
+| 🔴 Tier 3 | 34 | 17 | 8 | %47 | %47 | -1.15 | %-7 |
+| ⚡ Tier 4 | 11 | 6 | 1 | %17 | %18 | -1.66 | %-28 |
+| 🔥 Tier 5 | 41 | 21 | 3 | %14 | %13 | -3.27 | %-16 |
+| 🚩 Korner (tüm seviyeler) | 51 | 32 | 22 | %69 | %62 | -0.17 | %-1 |
+| 🎰 Sistem ayakları | 29 | 17 | 13 | %76 | %64 | +1.84 | %11 |
 | 💎 💎 Değerli | 1 | 0 | 0 | — | — | — | — |
 
 ## Sistem kuponları
@@ -23,8 +23,8 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 |---|---|---|---|---|---|
 | 02.10 15:06 | 7'de 6 | 5/7 | 7 | 0.00 | -7.00 |
 | 02.10 20:57 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
-| 03.10 11:01 | 7'de 6 | 1/7 | 7 | ⏳ | ⏳ |
-| 04.10 09:03 | 8'de 7 | 0/8 | 8 | ⏳ | ⏳ |
+| 03.10 11:01 | 7'de 6 | 3/7 | 7 | ⏳ | ⏳ |
+| 04.10 09:03 | 8'de 7 | 2/8 | 8 | ⏳ | ⏳ |
 | **toplam** (1 kupon) | | | 7 | 0.00 | -7.00 |
 
 ## Gün gün
@@ -34,23 +34,23 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 01.10.2026 | 10 | 9 | 5 | %56 | %47 | -0.74 |
 | 02.10.2026 | 53 | 51 | 31 | %61 | %54 | +2.31 |
 | 03.10.2026 | 61 | 26 | 10 | %38 | %45 | -12.15 |
-| 04.10.2026 | 41 | 2 | 1 | %50 | %29 | -0.13 |
+| 04.10.2026 | 41 | 14 | 11 | %79 | %49 | +8.78 |
 | 05.10.2026 | 23 | 0 | 0 | — | — | — |
 
 ## Son 200 tahmin
 
 | gün | seviye | maç | tahmin | olasılık | İddaa | skor | sonuç |
 |---|---|---|---|---|---|---|---|
-| 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | — | ⏳ |
+| 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | korner 3-5 | ✅ |
 | 05.10 | 🎰 | Kuzey İrlanda – Gürcistan | Korner 9.5 Alt | %64 | 1.40 | — | ⏳ |
 | 05.10 | 🎰 | Karadağ – Ermenistan | MS 1 | %66 | 1.43 | — | ⏳ |
-| 04.10 | 🎰 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | — | ⏳ |
+| 04.10 | 🎰 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | korner 6-5 | ✅ |
 | 05.10 | 🎰 | Fransa – Belçika | MS 1 | %67 | 1.42 | — | ⏳ |
 | 04.10 | 🎰 | Girona – Mallorca | En çok korner 1 | %69 | 1.41 | — | ⏳ |
 | 05.10 | 🎰 | Aruba – Anguilla | KG Yok | %69 | 1.55 | — | ⏳ |
 | 05.10 | 🎰 | Cordoba – Tenerife | En çok korner 1 | %78 | 1.41 | — | ⏳ |
 | 05.10 | 🔥 | Bosna Hersek – Polonya | 0-1 | %9 | 7.55 | — | ⏳ |
-| 04.10 | 🔥 | Kosova – Avusturya | 1-2 | %10 | 7.87 | — | ⏳ |
+| 04.10 | 🔥 | Kosova – Avusturya | 1-2 | %10 | 7.87 | 1-1 | ❌ |
 | 04.10 | 🔥 | Galler – Danimarka | 1-2 | %10 | 7.64 | — | ⏳ |
 | 04.10 | 🔥 | Girona – Mallorca | 1-1 | %11 | 5.52 | — | ⏳ |
 | 05.10 | 🔥 | Karadağ – Ermenistan | 1-0 | %12 | 6.69 | — | ⏳ |
@@ -73,7 +73,7 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 05.10 | 🟡 | Fransa – Belçika | MS 1 | %67 | 1.42 | — | ⏳ |
 | 05.10 | 🟢 | Kuzey İrlanda – Gürcistan | Korner 10.5 Alt | %77 | 1.21 | — | ⏳ |
 | 05.10 | 🟢 | Cordoba – Tenerife | En çok korner 1 | %78 | 1.41 | — | ⏳ |
-| 04.10 | 🟢 | Malta – Andorra | ÇŞ 1-2 | %75 | 1.21 | — | ⏳ |
+| 04.10 | 🟢 | Malta – Andorra | ÇŞ 1-2 | %75 | 1.21 | 1-0 | ✅ |
 | 04.10 | 🟢 | Fas – Mali | MS 1 | %75 | 1.26 | — | ⏳ |
 | 05.10 | 🟢 | Kıbrıs Rum Kesimi – Letonya | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
 | 04.10 | 🟢 | Galler – Danimarka | ÇŞ 1-2 | %75 | 1.20 | — | ⏳ |
@@ -82,28 +82,28 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 04.10 | ⚡ | Mısır – Güney Afrika | 1-0 | %16 | 4.53 | — | ⏳ |
 | 04.10 | 🔴 | ABD – Meksika | En çok korner 2 | %46 | 1.87 | korner 2-3 | ✅ |
 | 03.10 | 🔴 | Hamilton – Peterhead | KG Var | %50 | 1.85 | — | ⏳ |
-| 04.10 | 🟡 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | — | ⏳ |
+| 04.10 | 🟡 | Malta – Andorra | En çok korner 1 | %66 | 1.40 | korner 6-5 | ✅ |
 | 05.10 | 🟡 | Aruba – Anguilla | KG Yok | %69 | 1.51 | — | ⏳ |
 | 03.10 | 🎰 | Ross County – Alloa | MS 1 & 2.5 Üst | %56 | 1.63 | — | ⏳ |
 | 03.10 | 🎰 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | 0-2 | ✅ |
-| 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | — | ⏳ |
+| 04.10 | 🎰 | Kosova – Avusturya | Korner 7.5 Üst | %63 | 1.42 | korner 3-5 | ✅ |
 | 03.10 | 🎰 | Estonya – Lüksemburg | Korner 9.5 Alt | %64 | 1.40 | korner 7-3 | ❌ |
-| 04.10 | 🎰 | Malta – Andorra | KG Yok | %65 | 1.44 | — | ⏳ |
+| 04.10 | 🎰 | Malta – Andorra | KG Yok | %65 | 1.44 | 1-0 | ✅ |
 | 04.10 | 🎰 | Portekiz – Norveç | En çok korner 1 | %65 | 1.41 | — | ⏳ |
 | 04.10 | 🎰 | Real Sociedad B – Granada | Korner 10.5 Alt | %68 | 1.42 | — | ⏳ |
 | 04.10 | 🔥 | Portekiz – Norveç | 2-1 | %11 | 7.53 | — | ⏳ |
 | 03.10 | 🔥 | Almeria – CF Burgos | 1-1 | %12 | 6.64 | — | ⏳ |
 | 03.10 | 🔥 | Livingston – Ayr United | 1-0 | %12 | 6.18 | — | ⏳ |
-| 04.10 | 🔥 | Kosova – Avusturya | 1-1 | %12 | 5.64 | — | ⏳ |
+| 04.10 | 🔥 | Kosova – Avusturya | 1-1 | %12 | 5.64 | 1-1 | ✅ |
 | 04.10 | 🔥 | Castellon – AD Ceuta | 2-0 | %13 | 6.85 | — | ⏳ |
 | 04.10 | 🔥 | Las Palmas – Real Valladolid | 1-1 | %13 | 5.30 | — | ⏳ |
 | 04.10 | 🔥 | Real Sociedad B – Granada | 1-1 | %14 | 5.33 | — | ⏳ |
 | 03.10 | 🔥 | İzlanda – Bulgaristan | 2-0 | %14 | 5.82 | 3-0 | ❌ |
 | 03.10 | 🔥 | Estonya – Lüksemburg | 1-1 | %15 | 5.04 | 1-0 | ❌ |
-| 04.10 | ⚡ | Malta – Andorra | 1-0 | %19 | 4.34 | — | ⏳ |
+| 04.10 | ⚡ | Malta – Andorra | 1-0 | %19 | 4.34 | 1-0 | ✅ |
 | 04.10 | 🔴 | Real Sociedad B – Granada | Korner 8.5 Alt | %47 | 2.19 | — | ⏳ |
 | 03.10 | 🔴 | İzlanda – Bulgaristan | Korner 8.5 Alt | %48 | 1.77 | korner 9-1 | ❌ |
-| 04.10 | 🔴 | Kosova – Avusturya | Korner 8.5 Üst | %48 | 1.77 | — | ⏳ |
+| 04.10 | 🔴 | Kosova – Avusturya | Korner 8.5 Üst | %48 | 1.77 | korner 3-5 | ❌ |
 | 03.10 | 🔴 | Almeria – CF Burgos | KG Var | %49 | 1.87 | — | ⏳ |
 | 03.10 | 🔴 | Livingston – Ayr United | KG Yok | %49 | 1.82 | — | ⏳ |
 | 03.10 | 🔴 | Dumbarton – Forfar | MS 1 | %49 | 1.82 | — | ⏳ |
@@ -113,11 +113,11 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 04.10 | 🟡 | Real Sociedad B – Granada | Korner 10.5 Alt | %68 | 1.42 | — | ⏳ |
 | 03.10 | 🟡 | Ross County – Alloa | MS 1 & 2.5 Üst | %56 | 1.63 | — | ⏳ |
 | 03.10 | 🟡 | Kuzey Makedonya – İskoçya | MS 2 | %60 | 1.55 | 0-2 | ✅ |
-| 04.10 | 🟡 | Malta – Andorra | KG Yok | %65 | 1.44 | — | ⏳ |
+| 04.10 | 🟡 | Malta – Andorra | KG Yok | %65 | 1.44 | 1-0 | ✅ |
 | 05.10 | 🟡 | Porto Riko – Cayman Adaları | KG Yok | %66 | 1.44 | — | ⏳ |
 | 04.10 | 🟢 | Las Palmas – Real Valladolid | Korner 10.5 Alt | %75 | 1.21 | — | ⏳ |
 | 04.10 | 🟢 | Real Sociedad B – Granada | Korner 11.5 Alt | %76 | 1.23 | — | ⏳ |
-| 04.10 | 🟢 | Kosova – Avusturya | Korner 6.5 Üst | %78 | 1.20 | — | ⏳ |
+| 04.10 | 🟢 | Kosova – Avusturya | Korner 6.5 Üst | %78 | 1.20 | korner 3-5 | ✅ |
 | 05.10 | 🟢 | Trinidad ve Tobago – Curaçao | MS 2 | %78 | 1.22 | — | ⏳ |
 | 03.10 | 🟢 | Ross County – Alloa | MS 1 | %78 | 1.21 | — | ⏳ |
 | 04.10 | 💎 | Castellon – AD Ceuta | 2.5 Alt | %37 | 2.84 | — | ⏳ |
