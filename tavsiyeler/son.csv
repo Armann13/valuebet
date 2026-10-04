@@ -1,7 +1,7 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
 Fas – Mali,Uluslararası Hazırlık Maçları,04.10,21:00,2026-10-04 21:00,2026-10-04,1.0,oran,,,MILLI,Morocco,Mali,MS 1,0.7901990104697374,1.2,-0.05176118743631519,False,0.0,False,🟢 Tier 1 — Düşük risk
+Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,2.5 Üst,0.7814572047967265,1.21,-0.05443678219596093,False,0.0,False,🟢 Tier 1 — Düşük risk
 Sp Gijon – Celta B,SP2,04.10,,,2026-10-04,,piyasa,,,SP2,Sp Gijon,Celta B,ÇŞ 1-2,0.7787284436707197,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,2.5 Üst,0.7671139111018821,1.23,-0.05644988934468509,False,0.0,False,🟢 Tier 1 — Düşük risk
 Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1.0,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7667208630895817,1.25,-0.04159892113802299,False,0.0,False,🟢 Tier 1 — Düşük risk
 Malta – Andorra,UEFA Uluslar Ligi,04.10,19:00,2026-10-04 19:00,2026-10-04,1.0,oran,,,MILLI,Malta,Andorra,ÇŞ 1-2,0.7506634651756483,1.2,-0.09920384178922204,False,0.0,False,🟢 Tier 1 — Düşük risk
 Galler – Danimarka,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Wales,Denmark,ÇŞ 1-2,0.7506411871170731,1.2,-0.09923057545951242,False,0.0,False,🟢 Tier 1 — Düşük risk
@@ -20,8 +20,8 @@ Malta – Andorra,UEFA Uluslar Ligi,04.10,19:00,2026-10-04 19:00,2026-10-04,1.0,
 Guadeloupe – Saint Lucia,CONCACAF Uluslar B Ligi,05.10,22:00,2026-10-05 22:00,2026-10-05,3.0,oran,,,MILLI,Guadeloupe,Saint Lucia,KG Var,0.6267826593107714,1.48,-0.07236166422005841,False,0.0,False,🟡 Tier 2 — Orta risk
 Sp Gijon – Celta B,SP2,04.10,,,2026-10-04,,piyasa,,,SP2,Sp Gijon,Celta B,MS 1,0.6266338290469006,,,False,0.0,True,🟡 Tier 2 — Orta risk
 Portekiz – Norveç,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Portugal,Norway,MS 1,0.6179234585662104,1.52,-0.060756342979360056,False,0.0,False,🟡 Tier 2 — Orta risk
+Azerbaycan – Litvanya,UEFA Uluslar Ligi,04.10,16:00,2026-10-04 16:00,2026-10-04,1.0,oran,,,MILLI,Azerbaijan,Lithuania,KG Yok,0.6177940735047099,1.48,-0.08566477121302929,False,0.0,False,🟡 Tier 2 — Orta risk
 Bahamalar – ABD Virgin Adaları,CONCACAF Uluslar C Ligi,04.10,23:00,2026-10-04 23:00,2026-10-04,3.0,oran,,,MILLI,Bahamas,United States Virgin Islands,MS 2,0.6134418316528231,1.5,-0.07983725252076534,False,0.0,False,🟡 Tier 2 — Orta risk
-Kıbrıs Rum Kesimi – Letonya,UEFA Uluslar Ligi,05.10,19:00,2026-10-05 19:00,2026-10-05,1.0,oran,,,MILLI,Cyprus,Latvia,MS 1,0.6091883432696723,1.54,-0.061849951364704614,False,0.0,False,🟡 Tier 2 — Orta risk
 Galler – Danimarka,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Wales,Denmark,MS 2,0.5132055016674417,1.8,-0.07623009699860483,False,0.0,True,🟡 Tier 2 — Orta risk
 Girona – Mallorca,SP2,04.10,22:00,2026-10-04 22:00,2026-10-04,1.0,korner,,,SP2,Girona,Mallorca,En çok korner 1,0.6866146003855431,1.41,-0.03187341345638428,False,0.0,False,🟡 Tier 2 — Orta risk
 Romanya – İsveç,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Romania,Sweden,En çok korner 2,0.6614988803479145,1.4,-0.07390156751291976,False,0.0,False,🟡 Tier 2 — Orta risk
@@ -31,11 +31,11 @@ Castellon – AD Ceuta,SP2,04.10,19:30,2026-10-04 19:30,2026-10-04,1.0,piyasa,,,
 Alanyaspor – Erzurumspor FK,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1.0,oran,,,T1,Alanyaspor,Erzurumspor,MS 1,0.4859099357415056,1.89,-0.08163022144855447,False,0.0,False,🔴 Tier 3 — Yüksek risk
 Cordoba – Tenerife,SP2,05.10,21:30,2026-10-05 21:30,2026-10-05,1.0,piyasa,,,SP2,Cordoba,Tenerife,KG Yok,0.4819934730161159,1.91,-0.07939246653921872,False,0.0,False,🔴 Tier 3 — Yüksek risk
 Guatemala – Surinam,CONCACAF Uluslar A Ligi,06.10,03:00,2026-10-06 03:00,2026-10-06,3.0,oran,,,MILLI,Guatemala,Suriname,MS 1,0.4747107134537747,1.88,-0.10754385870690364,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Kırgızistan – Lübnan,Uluslararası Hazırlık Maçları,04.10,17:00,2026-10-04 17:00,2026-10-04,2.0,oran,,,MILLI,Kyrgyzstan,Lebanon,KG Var,0.45799182502908103,2.07,-0.0519569221898023,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Kırgızistan – Lübnan,Uluslararası Hazırlık Maçları,04.10,17:00,2026-10-04 17:00,2026-10-04,2.0,oran,,,MILLI,Kyrgyzstan,Lebanon,KG Var,0.4624214031379677,2.04,-0.05666033759854583,False,0.0,False,🔴 Tier 3 — Yüksek risk
 Grenada – Bonaire,CONCACAF Uluslar B Ligi,06.10,03:00,2026-10-06 03:00,2026-10-06,3.0,oran,,,MILLI,Grenada,Bonaire,MS 1 & 2.5 Üst,0.45656973558324493,1.97,-0.1005576209010075,False,0.0,False,🔴 Tier 3 — Yüksek risk
 Bosna Hersek – Polonya,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Bosnia and Herzegovina,Poland,MS 2,0.41899306056859303,2.16,-0.094974989171839,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Fas – Mali,Uluslararası Hazırlık Maçları,04.10,21:00,2026-10-04 21:00,2026-10-04,1.0,oran,,,MILLI,Morocco,Mali,MS 1 & 2.5 Üst,0.4019999601929214,2.08,-0.16384008279872353,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,MS 1 & KG Var,0.3929264560030701,2.42,-0.049117976472570435,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,MS 1 & KG Var,0.40027329130010053,2.36,-0.05535503253176277,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Malta – Andorra,UEFA Uluslar Ligi,04.10,19:00,2026-10-04 19:00,2026-10-04,1.0,oran,,,MILLI,Malta,Andorra,İY/MS 1/1,0.3810829265496151,2.18,-0.169239220121839,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Sp Gijon – Celta B,SP2,04.10,,,2026-10-04,,piyasa,,,SP2,Sp Gijon,Celta B,MS 1 & 2.5 Üst,0.36291460786350566,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Galler – Danimarka,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Wales,Denmark,MS 2 & 2.5 Üst,0.31831751210717973,2.85,-0.09279509049453771,False,0.0,True,🔴 Tier 3 — Yüksek risk
@@ -47,21 +47,21 @@ Malta – Andorra,UEFA Uluslar Ligi,04.10,19:00,2026-10-04 19:00,2026-10-04,1.0,
 Kıbrıs Rum Kesimi – Letonya,UEFA Uluslar Ligi,05.10,19:00,2026-10-05 19:00,2026-10-05,1.0,oran,,,MILLI,Cyprus,Latvia,1-0,0.1685499240800298,5.21,-0.12185489554304474,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
 Mısır – Güney Afrika,Uluslararası Hazırlık Maçları,04.10,21:00,2026-10-04 21:00,2026-10-04,1.0,oran,,,MILLI,Egypt,South Africa,1-0,0.15781430786115994,4.54,-0.2835230423103339,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
 Fransa – Belçika,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,France,Belgium,2-1,0.15151413173798683,7.44,0.12726514013062218,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
-Azerbaycan – Litvanya,UEFA Uluslar Ligi,04.10,16:00,2026-10-04 16:00,2026-10-04,1.0,oran,,,MILLI,Azerbaijan,Lithuania,1-1,0.14858219448104032,5.07,-0.24668827398112558,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
 Kuzey İrlanda – Gürcistan,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Northern Ireland,Georgia,1-1,0.144093928390076,5.15,-0.2579162687911085,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
+Azerbaycan – Litvanya,UEFA Uluslar Ligi,04.10,16:00,2026-10-04 16:00,2026-10-04,1.0,oran,,,MILLI,Azerbaijan,Lithuania,0-0,0.13907861144344782,5.01,-0.30321615666832646,False,,,⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)
 Malta – Andorra,UEFA Uluslar Ligi,04.10,19:00,2026-10-04 19:00,2026-10-04,1.0,oran,,,MILLI,Malta,Andorra,1-0,0.2256450693791156,3.82,-0.1380358349717784,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Kıbrıs Rum Kesimi – Letonya,UEFA Uluslar Ligi,05.10,19:00,2026-10-05 19:00,2026-10-05,1.0,oran,,,MILLI,Cyprus,Latvia,1-0,0.1685499240800298,5.21,-0.12185489554304474,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Mısır – Güney Afrika,Uluslararası Hazırlık Maçları,04.10,21:00,2026-10-04 21:00,2026-10-04,1.0,oran,,,MILLI,Egypt,South Africa,1-0,0.15781430786115994,4.54,-0.2835230423103339,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Fransa – Belçika,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,France,Belgium,2-1,0.15151413173798683,7.44,0.12726514013062218,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
-Azerbaycan – Litvanya,UEFA Uluslar Ligi,04.10,16:00,2026-10-04 16:00,2026-10-04,1.0,oran,,,MILLI,Azerbaijan,Lithuania,1-1,0.14858219448104032,5.07,-0.24668827398112558,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Kuzey İrlanda – Gürcistan,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Northern Ireland,Georgia,1-1,0.144093928390076,5.15,-0.2579162687911085,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
+Azerbaycan – Litvanya,UEFA Uluslar Ligi,04.10,16:00,2026-10-04 16:00,2026-10-04,1.0,oran,,,MILLI,Azerbaijan,Lithuania,0-0,0.13907861144344782,5.01,-0.30321615666832646,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Yunanistan – Almanya,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Greece,Germany,1-2,0.13679859833022637,7.6,0.03966934730972027,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Sociedad B – Granada,SP2,04.10,,,2026-10-04,,piyasa,,,SP2,Sociedad B,Granada,1-1,0.13506796442486213,,,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Ukrayna – Macaristan,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Ukraine,Hungary,1-1,0.13422344781398327,5.34,-0.2832467886733294,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Las Palmas – Real Valladolid,SP2,04.10,19:30,2026-10-04 19:30,2026-10-04,1.0,piyasa,,,SP2,Las Palmas,Valladolid,1-1,0.13277998205719604,5.27,-0.30024949455857686,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 İtalya – Türkiye,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Italy,Turkey,2-1,0.12674031670431982,7.4,-0.06212165638803335,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Castellon – AD Ceuta,SP2,04.10,19:30,2026-10-04 19:30,2026-10-04,1.0,piyasa,,,SP2,Castellon,Ceuta,2-0,0.12540106321610484,7.31,-0.08331822789027366,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
-Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,2-1,0.12103521503732452,9.83,0.1897761638169,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
+Hollanda – Sırbistan,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,model,,,MILLI,Netherlands,Serbia,2-1,0.12329829958262409,9.92,0.22311913185963084,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Portekiz – Norveç,UEFA Uluslar Ligi,04.10,21:45,2026-10-04 21:45,2026-10-04,1.0,oran,,,MILLI,Portugal,Norway,2-1,0.11821425294325877,7.72,-0.08738596727804238,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Cordoba – Tenerife,SP2,05.10,21:30,2026-10-05 21:30,2026-10-05,1.0,piyasa,,,SP2,Cordoba,Tenerife,1-0,0.11775288325053324,6.93,-0.18397251907380474,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 Karadağ – Ermenistan,UEFA Uluslar Ligi,05.10,21:45,2026-10-05 21:45,2026-10-05,1.0,oran,,,MILLI,Montenegro,Armenia,1-0,0.1150213574397543,6.69,-0.23050711872804375,False,,,🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)

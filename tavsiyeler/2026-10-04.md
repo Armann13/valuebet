@@ -1,6 +1,6 @@
 # Tavsiyeler — 04.10.2026
 
-İddaa oranlarının son kaydı: 04.10 15:28 (TR saati)
+İddaa oranlarının son kaydı: 04.10 15:52 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -11,8 +11,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 ## 🟢 Tier 1 — Düşük risk
 
 • Fas – Mali (Uluslararası Hazırlık Maçları, 04.10 21:00): **MS 1** — olasılık %79, adil oran 1.27, İddaa 1.20 (değer -5%) _(İddaa oranına ayarlı)_
+• Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **2.5 Üst** — olasılık %78, adil oran 1.28, İddaa 1.21 (değer -5%) _(sadece model)_
 • Sp Gijon – Celta B (SP2, 04.10): **ÇŞ 1-2** — olasılık %78, adil oran 1.28, İddaa oranı yok
-• Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **2.5 Üst** — olasılık %77, adil oran 1.30, İddaa 1.23 (değer -6%) _(sadece model)_
 • Real Madrid – Villarreal (SP1, 10.10 22:00): **MS 1** — olasılık %77, adil oran 1.30, İddaa 1.25 (değer -4%) _(İddaa oranına ayarlı)_
 • Malta – Andorra (UEFA Uluslar Ligi, 04.10 19:00): **ÇŞ 1-2** — olasılık %75, adil oran 1.33, İddaa 1.20 (değer -10%) _(İddaa oranına ayarlı)_
 • Galler – Danimarka (UEFA Uluslar Ligi, 04.10 21:45): **ÇŞ 1-2** — olasılık %75, adil oran 1.33, İddaa 1.20 (değer -10%) _(İddaa oranına ayarlı)_
@@ -34,8 +34,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Guadeloupe – Saint Lucia (CONCACAF Uluslar B Ligi, 05.10 22:00): **KG Var** — olasılık %63, adil oran 1.60, İddaa 1.48 (değer -7%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Sp Gijon – Celta B (SP2, 04.10): **MS 1** — olasılık %63, adil oran 1.60, İddaa oranı yok
 • Portekiz – Norveç (UEFA Uluslar Ligi, 04.10 21:45): **MS 1** — olasılık %62, adil oran 1.62, İddaa 1.52 (değer -6%) _(İddaa oranına ayarlı)_
+• Azerbaycan – Litvanya (UEFA Uluslar Ligi, 04.10 16:00): **KG Yok** — olasılık %62, adil oran 1.62, İddaa 1.48 (değer -9%) _(İddaa oranına ayarlı)_
 • Bahamalar – ABD Virgin Adaları (CONCACAF Uluslar C Ligi, 04.10 23:00): **MS 2** — olasılık %61, adil oran 1.63, İddaa 1.50 (değer -8%), MBS 3 _(İddaa oranına ayarlı)_
-• Kıbrıs Rum Kesimi – Letonya (UEFA Uluslar Ligi, 05.10 19:00): **MS 1** — olasılık %61, adil oran 1.64, İddaa 1.54 (değer -6%) _(İddaa oranına ayarlı)_
 • ↳ Galler – Danimarka (UEFA Uluslar Ligi, 04.10 21:45): **MS 2** — olasılık %51, adil oran 1.95, İddaa 1.80 (değer -8%) _(İddaa oranına ayarlı)_
 • Girona – Mallorca (SP2, 04.10 22:00): **En çok korner 1** — olasılık %69, adil oran 1.46, İddaa 1.41 (değer -3%) _(korner modeli)_
 • Romanya – İsveç (UEFA Uluslar Ligi, 05.10 21:45): **En çok korner 2** — olasılık %66, adil oran 1.51, İddaa 1.40 (değer -7%) _(İddaa oranına ayarlı)_
@@ -48,11 +48,11 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Alanyaspor – Erzurumspor FK (T1, 10.10 16:00): **MS 1** — olasılık %49, adil oran 2.06, İddaa 1.89 (değer -8%) _(İddaa oranına ayarlı)_
 • Cordoba – Tenerife (SP2, 05.10 21:30): **KG Yok** — olasılık %48, adil oran 2.07, İddaa 1.91 (değer -8%)
 • Guatemala – Surinam (CONCACAF Uluslar A Ligi, 06.10 03:00): **MS 1** — olasılık %47, adil oran 2.11, İddaa 1.88 (değer -11%), MBS 3 _(İddaa oranına ayarlı)_
-• Kırgızistan – Lübnan (Uluslararası Hazırlık Maçları, 04.10 17:00): **KG Var** — olasılık %46, adil oran 2.18, İddaa 2.07 (değer -5%), MBS 2 _(İddaa oranına ayarlı)_
+• Kırgızistan – Lübnan (Uluslararası Hazırlık Maçları, 04.10 17:00): **KG Var** — olasılık %46, adil oran 2.16, İddaa 2.04 (değer -6%), MBS 2 _(İddaa oranına ayarlı)_
 • Grenada – Bonaire (CONCACAF Uluslar B Ligi, 06.10 03:00): **MS 1 & 2.5 Üst** — olasılık %46, adil oran 2.19, İddaa 1.97 (değer -10%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Bosna Hersek – Polonya (UEFA Uluslar Ligi, 05.10 21:45): **MS 2** — olasılık %42, adil oran 2.39, İddaa 2.16 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Fas – Mali (Uluslararası Hazırlık Maçları, 04.10 21:00): **MS 1 & 2.5 Üst** — olasılık %40, adil oran 2.49, İddaa 2.08 (değer -16%) _(İddaa oranına ayarlı)_
-• ↳ Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **MS 1 & KG Var** — olasılık %39, adil oran 2.55, İddaa 2.42 (değer -5%) _(sadece model)_
+• ↳ Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **MS 1 & KG Var** — olasılık %40, adil oran 2.50, İddaa 2.36 (değer -6%) _(sadece model)_
 • ↳ Malta – Andorra (UEFA Uluslar Ligi, 04.10 19:00): **İY/MS 1/1** — olasılık %38, adil oran 2.62, İddaa 2.18 (değer -17%) _(İddaa oranına ayarlı)_
 • ↳ Sp Gijon – Celta B (SP2, 04.10): **MS 1 & 2.5 Üst** — olasılık %36, adil oran 2.76, İddaa oranı yok
 • ↳ Galler – Danimarka (UEFA Uluslar Ligi, 04.10 21:45): **MS 2 & 2.5 Üst** — olasılık %32, adil oran 3.14, İddaa 2.85 (değer -9%) _(İddaa oranına ayarlı)_
@@ -67,8 +67,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Kıbrıs Rum Kesimi – Letonya (UEFA Uluslar Ligi, 05.10 19:00): **1-0** — olasılık %17, adil oran 5.93, İddaa 5.21 (değer -12%) _(İddaa oranına ayarlı)_
 • Mısır – Güney Afrika (Uluslararası Hazırlık Maçları, 04.10 21:00): **1-0** — olasılık %16, adil oran 6.34, İddaa 4.54 (değer -28%) _(İddaa oranına ayarlı)_
 • Fransa – Belçika (UEFA Uluslar Ligi, 05.10 21:45): **2-1** — olasılık %15, adil oran 6.60, İddaa 7.44 (değer +13%) _(İddaa oranına ayarlı)_
-• Azerbaycan – Litvanya (UEFA Uluslar Ligi, 04.10 16:00): **1-1** — olasılık %15, adil oran 6.73, İddaa 5.07 (değer -25%) _(İddaa oranına ayarlı)_
 • Kuzey İrlanda – Gürcistan (UEFA Uluslar Ligi, 05.10 21:45): **1-1** — olasılık %14, adil oran 6.94, İddaa 5.15 (değer -26%) _(İddaa oranına ayarlı)_
+• Azerbaycan – Litvanya (UEFA Uluslar Ligi, 04.10 16:00): **0-0** — olasılık %14, adil oran 7.19, İddaa 5.01 (değer -30%) _(İddaa oranına ayarlı)_
 
 ## 🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)
 
@@ -76,15 +76,15 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Kıbrıs Rum Kesimi – Letonya (UEFA Uluslar Ligi, 05.10 19:00): **1-0** — olasılık %17, adil oran 5.93, İddaa 5.21 (değer -12%) _(İddaa oranına ayarlı)_
 • Mısır – Güney Afrika (Uluslararası Hazırlık Maçları, 04.10 21:00): **1-0** — olasılık %16, adil oran 6.34, İddaa 4.54 (değer -28%) _(İddaa oranına ayarlı)_
 • Fransa – Belçika (UEFA Uluslar Ligi, 05.10 21:45): **2-1** — olasılık %15, adil oran 6.60, İddaa 7.44 (değer +13%) _(İddaa oranına ayarlı)_
-• Azerbaycan – Litvanya (UEFA Uluslar Ligi, 04.10 16:00): **1-1** — olasılık %15, adil oran 6.73, İddaa 5.07 (değer -25%) _(İddaa oranına ayarlı)_
 • Kuzey İrlanda – Gürcistan (UEFA Uluslar Ligi, 05.10 21:45): **1-1** — olasılık %14, adil oran 6.94, İddaa 5.15 (değer -26%) _(İddaa oranına ayarlı)_
+• Azerbaycan – Litvanya (UEFA Uluslar Ligi, 04.10 16:00): **0-0** — olasılık %14, adil oran 7.19, İddaa 5.01 (değer -30%) _(İddaa oranına ayarlı)_
 • Yunanistan – Almanya (UEFA Uluslar Ligi, 04.10 21:45): **1-2** — olasılık %14, adil oran 7.31, İddaa 7.60 (değer +4%) _(İddaa oranına ayarlı)_
 • Sociedad B – Granada (SP2, 04.10): **1-1** — olasılık %14, adil oran 7.40, İddaa oranı yok
 • Ukrayna – Macaristan (UEFA Uluslar Ligi, 05.10 21:45): **1-1** — olasılık %13, adil oran 7.45, İddaa 5.34 (değer -28%) _(İddaa oranına ayarlı)_
 • Las Palmas – Real Valladolid (SP2, 04.10 19:30): **1-1** — olasılık %13, adil oran 7.53, İddaa 5.27 (değer -30%)
 • İtalya – Türkiye (UEFA Uluslar Ligi, 05.10 21:45): **2-1** — olasılık %13, adil oran 7.89, İddaa 7.40 (değer -6%) _(İddaa oranına ayarlı)_
 • Castellon – AD Ceuta (SP2, 04.10 19:30): **2-0** — olasılık %13, adil oran 7.97, İddaa 7.31 (değer -8%)
-• Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **2-1** — olasılık %12, adil oran 8.26, İddaa 9.83 (değer +19%) _(sadece model)_
+• Hollanda – Sırbistan (UEFA Uluslar Ligi, 04.10 21:45): **2-1** — olasılık %12, adil oran 8.11, İddaa 9.92 (değer +22%) _(sadece model)_
 • Portekiz – Norveç (UEFA Uluslar Ligi, 04.10 21:45): **2-1** — olasılık %12, adil oran 8.46, İddaa 7.72 (değer -9%) _(İddaa oranına ayarlı)_
 • Cordoba – Tenerife (SP2, 05.10 21:30): **1-0** — olasılık %12, adil oran 8.49, İddaa 6.93 (değer -18%)
 • Karadağ – Ermenistan (UEFA Uluslar Ligi, 05.10 21:45): **1-0** — olasılık %12, adil oran 8.69, İddaa 6.69 (değer -23%) _(İddaa oranına ayarlı)_
