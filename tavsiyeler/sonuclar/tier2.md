@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/30 tuttu** (isabet %80, beklenen %65) · +4.13 birim · 11 tahmin sonuç bekliyor
+**25/32 tuttu** (isabet %78, beklenen %65) · +3.61 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,11 +14,11 @@
 
 **02:00 · Aruba – Anguilla**
 
-- ⏳ KG Yok · @1.51
+- ❌ KG Yok · @1.51 · 3-2
 
 **05:00 · Nikaragua – Dominik Cumhuriyeti**
 
-- ⏳ MS 2 · @1.48
+- ✅ MS 2 · @1.48 · 1-2
 
 **19:00 · Kıbrıs Rum Kesimi – Letonya**
 

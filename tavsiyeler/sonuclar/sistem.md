@@ -2,17 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/24 tuttu** (isabet %71, beklenen %65) · +0.53 birim · 12 tahmin sonuç bekliyor
+**18/26 tuttu** (isabet %69, beklenen %65) · +0.01 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 04.10 21:42 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 04.10 21:45 Hollanda – Sırbistan · ↳ Korner 8.5 Üst · @1.42 · korner 6-4
 - ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
-- ⏳ 05.10 05:00 Nikaragua – Dominik Cumhuriyeti · MS 2 · @1.48
+- ✅ 05.10 05:00 Nikaragua – Dominik Cumhuriyeti · MS 2 · @1.48 · 1-2
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
 - ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
@@ -26,7 +26,7 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 - ✅ 04.10 19:00 Malta – Andorra · En çok korner 1 · @1.40 · korner 6-5
 - ✅ 04.10 19:00 Kosova – Avusturya · ↳ Korner 7.5 Üst · @1.42 · korner 3-5
 - ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
-- ⏳ 05.10 02:00 Aruba – Anguilla · KG Yok · @1.55
+- ❌ 05.10 02:00 Aruba – Anguilla · KG Yok · @1.55 · 3-2
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
 - ⏳ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43
