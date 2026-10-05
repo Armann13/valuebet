@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 25 tahmin sonuç bekliyor
+**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,7 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
@@ -29,6 +30,7 @@
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
@@ -36,6 +38,7 @@
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
 - ⏳ 🎰 ↳ Korner 9.5 Alt · @1.40
 - ⏳ 🔴 En çok korner 2 · @1.81
+- ⏳ 🔴 En çok korner 1 · @1.80
 
 **21:45 · Ukrayna – Macaristan**
 
@@ -52,10 +55,12 @@
 - ⏳ 🎰 En çok korner 2 · @1.40
 - ⏳ 🎰 En çok korner 2 · @1.40
 - ⏳ 🎰 En çok korner 2 · @1.40
+- ⏳ 🎰 En çok korner 2 · @1.40
 
 **21:45 · Bosna Hersek – Polonya**
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.40
+- ⏳ 🎰 Korner 9.5 Alt · @1.40
 - ⏳ 🎰 Korner 9.5 Alt · @1.40
 - ⏳ 🎰 Korner 9.5 Alt · @1.40
 

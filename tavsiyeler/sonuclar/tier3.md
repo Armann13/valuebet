@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 13 tahmin sonuç bekliyor
+**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,6 +40,10 @@
 
 - ⏳ MS 1 · @1.87
 
+**19:00 · Ruanda – Kenya**
+
+- ⏳ MS 1 · @1.86
+
 **21:30 · Cordoba – Tenerife**
 
 - ⏳ KG Yok · @1.91
@@ -60,6 +64,7 @@
 **21:45 · Kuzey İrlanda – Gürcistan**
 
 - ⏳ En çok korner 2 · @1.81
+- ⏳ En çok korner 1 · @1.80
 
 ## 04.10.2026 Pazar
 

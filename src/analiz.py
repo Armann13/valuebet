@@ -3,7 +3,7 @@ ile seçilen saatteki maçların Tier listesi.
 
     python main.py analiz --saat 21:45 [--gun 2026-10-02] [--telegram]
 
-Analiz, günlük özetle aynı Tier listesi biçimindedir (tavsiye.run, sadece o saatte başlayan maçlarla): Tier 1-3
+Analiz, günlük özetle aynı Tier listesi biçimindedir (tavsiye.run, sadece o saatte başlayan maçlarla): Tier 1-4
 (merdiven: Tier 1'deki tahminin Tier 2'de aynı maçta devamı, ör. MS 1 -> MS 1 & KG Var), kesin skor, İY/MS, korner
 (kulüp maçları) ve kuponlar. Sadece İddaa'da oynanabilen (oranı olan, kapalı olmayan) tahminler.
 """

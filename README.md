@@ -11,7 +11,7 @@ doğrulanır.
 - **Otomatik:** GitHub Actions 3 saatte bir (İddaa oranları toplandıktan sonra) tavsiye raporunu üretir:
   `tavsiyeler/son.md` (en güncel) ve `tavsiyeler/{tarih}.md`. GitHub'da (telefondan da) açıp okumak yeterli.
 - `python main.py tavsiye` → `reports/tavsiye_{tarih}.md`: yaklaşan maçlar için risk seviyesine göre tavsiye
-  (Tier 1 düşük risk ≥%70 … Tier 5 kesin skor). Her tahminin olasılığı, adil oranı, İddaa oranı ve **değeri**
+  (Tier 1 düşük risk ≥%70, Tier 2 %50-70, Tier 3 %25-50, Tier 4 %18-38 ve oran 2.30+, Tier 5-6 kesin skor). Her tahminin olasılığı, adil oranı, İddaa oranı ve **değeri**
   yazılır; risk seviyesi "tutma olasılığı", değer "fiyatın iyi olup olmadığı"dır — ayrı şeyler.
 - `python main.py predict --iddaa auto` → `reports/oneriler_{tarih}.md`: keskin fiyat sinyali, VALUE ve en olası
   sonuçlar; her sinyalin yanında o ligdeki backtest CLV'si.
@@ -102,7 +102,7 @@ yaradığını gör.
 GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
 - **Özet, günde iki kez** (TR 08:00'den ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
   güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
-  Tier 1-3'ten öne çıkanlar, Tier 4'ten en olası kesin skorlar ve tam raporun linki.
+  Tier 1-4'ten öne çıkanlar, Tier 5-6'dan en olası kesin skorlar ve tam raporun linki.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
 - **Elle güncel özet:** GitHub → Actions → "İddaa oranları" → Run workflow → "Telegram'a güncel özeti şimdi gönder"
   kutusunu işaretle (ya da `gh workflow run iddaa.yml -f telegram_ozet=true`). Oranlar toplanır, rapor yenilenir,
@@ -121,11 +121,13 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 
 ### Telegram Tier listesi ve maç analizi
 
-- Tek mesaj: 💎, Tier 1-3, Tier 4-5 (kesin skor), korner (kulüp maçları), sistem kupon. Her satırda saat, maç,
-  tahmin ve İddaa oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez.
+- Tek mesaj: 💎, Tier 1-3, 🟣 Tier 4 (çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS,
+  İY/MS, yüksek korner barajı), Tier 5-6 (kesin skor), korner, sistem kupon. Her satırda saat, maç, tahmin ve İddaa
+  oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez. Telegram'ın 4096 karakter
+  sınırı etiketsiz metne uygulanır; aşarsa mesaj satır sınırından bölünür.
 - **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
   MS 1 & KG Var / MS 1 & 2.5 Üst → İY/MS 1/1); kesin skor da merdivenin son basamağıyla uyumludur (ör. MS 1 & KG Var →
-  2-1). İY/MS (ilk yarı / maç sonu; her golün ilk yarıda atılma olasılığı %44.6) olasılığına göre Tier 1-3'e girer.
+  2-1). İY/MS (ilk yarı / maç sonu; her golün ilk yarıda atılma olasılığı %44.6) olasılığına göre Tier 1-4'e girer.
 - **🎰 Sistem kupon:** bugün / yarının en olası 8 tahmini (oran 1.30+), kâra geçme şansı en yüksek "8'de k".
 - **Maç analizi:** `python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions →
   "Maç analizi" → Run workflow (saat gir): o saatte başlayan maçların aynı biçimde Tier listesi, güncel oranlarla.
@@ -144,7 +146,8 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
   "🚩 Korner" bölümü: maç başına en olası korner bahsi (oran 1.30+). Keskin oran olmadığı için 💎 yok; sonuç
   takibinde korner sayılarıyla kapanır.
 
-Tier 1 ve 2'de en düşük oran: 1.20 ve 1.40 (`tavsiye.MIN_ODDS`); 1.06'lık çifte şans gibi tahminler listelenmez.
+En düşük oran (`tavsiye.MIN_ODDS`): Tier 1'de 1.20, Tier 2'de 1.40 (1.06'lık çifte şans gibi tahminler listelenmez),
+Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 
 ### Sonuç takibi (tavsiyeler tuttu mu?)
 

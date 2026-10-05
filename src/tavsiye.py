@@ -11,8 +11,9 @@ Milli maçlar ayrı bir modelle (src/milli.py) tahmin edilir.
 
 Risk seviyesi = tahminin TUTMAMA olasılığı:
   Tier 1 düşük (olasılık >= %70), Tier 2 orta (%50-70), Tier 3 yüksek (%25-50: beraberlik, sürpriz, kombinasyon),
-  Tier 4 çok yüksek (en olası kesin skor, kısa liste), Tier 5 aşırı (her maçın en olası kesin skoru).
-  Tier 1 ve 2'de oranı MIN_ODDS'un altındaki tahminler (ör. 1.06'lık çifte şans) listelenmez.
+  Tier 4 çok yüksek (%18-38, oran en az 2.30: MS & KG / Üst, sürpriz MS, İY/MS, yüksek korner barajları),
+  Tier 5 aşırı (en olası kesin skor, kısa liste), Tier 6 (her maçın en olası kesin skoru).
+  Tier 1, 2 ve 4'te oranı MIN_ODDS'un altındaki tahminler (ör. 1.06'lık çifte şans) listelenmez.
 Değer: oran x olasılık - 1. Pozitifse fiyat adil fiyatın üstünde (uzun vadede kârlı olması beklenir); negatifse
 tahmin tutsa bile bu oranla uzun vadede kaybettirir. Risk seviyesi ile değer farklı şeylerdir.
 
@@ -32,16 +33,19 @@ from src.iddaa import KOR_LINES_COL, ODD_COLS, SCORE_COL, corner_lines, score_od
 from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
-         ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50)]
-MAX_PER_TIER = {0: 8, 1: 12, 2: 12}
-MIN_ODDS = {0: 1.20, 1: 1.40}   # Tier 1 / 2'de en düşük oran (İddaa; yoksa adil oran): 1.06 gibi oranlar oynanmaya değmez
-MAX_SHORT_SCORES = 6          # Tier 4: en olası kesin skoru en yüksek olan maçlar
+         ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50), ("🟣 Tier 4 — Çok yüksek risk", 0.18, 0.38)]
+MAX_PER_TIER = {0: 8, 1: 12, 2: 12, 3: 10}
+# En düşük oran (İddaa; yoksa adil oran). Tier 1 / 2: 1.06 gibi oranlar oynanmaya değmez. Tier 4: Tier 3'ün (~1.8-2.6)
+# üstündeki oran aralığı (kullanıcı isteği, 2026-10-05: Tier 1-2 düşük oranlı, daha yüksek riskli seçenek de olsun)
+MIN_ODDS = {0: 1.20, 1: 1.40, 3: 2.30}
+MAX_SHORT_SCORES = 6          # Tier 5: en olası kesin skoru en yüksek olan maçlar
+SKOR_TIERS = ("⚡ Tier 5 — Aşırı risk (kısa kesin skor)", "🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)")
 ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1x", "ÇŞ 1-2": "odd_12",
            "ÇŞ X-2": "odd_x2", "2.5 Alt": "odd_alt", "2.5 Üst": "odd_ust", "KG Var": "odd_kg_var",
            "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL, KOR_LINES_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
-KORNER_PER_TIER = {0: 4, 1: 4, 2: 4}   # Tier 1-3'te korner tahmini sayısı (gol tahminlerine ek)
+KORNER_PER_TIER = {0: 4, 1: 4, 2: 4, 3: 3}   # Tier 1-4'te korner tahmini sayısı (gol tahminlerine ek)
 SISTEM_TIER = "🎰 Sistem kupon"
 SISTEM_N = 8                  # sistem kuponda maç sayısı
 SISTEM_MIN_ODDS = 1.30
@@ -97,7 +101,7 @@ def _corner_narrower(a: str, b: str) -> bool:
 
 
 def _select_tiers(c: pd.DataFrame, max_per_tier: dict, narrower) -> tuple[list, dict]:
-    """Tier 1-3 seçimi (bir tahmin ailesi için: gol ya da korner). Maç başına seviye başına tek tahmin; bir maç üst
+    """Tier 1-4 seçimi (bir tahmin ailesi için: gol ya da korner). Maç başına seviye başına tek tahmin; bir maç üst
     seviyedeyse alt seviyede sadece onun daha dar devamı (narrower(yeni, önceki)) gelir (merdiven, ↳), seviyenin en
     fazla yarısı. Döner: seviye başına seçilenler ve maç -> son basamaktaki tahmin."""
     frames, rung, order = [], {}, []  # order: maçların ilk görülme sırası
@@ -396,14 +400,14 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             if listed and col and not np.isfinite(odd):
                 continue
             cands.append({**info, "tahmin": bet, "p": p, "odd": odd})
-        if not as_of:  # İY/MS: olasılığına göre Tier 1-3'e girer (sadece İddaa'da oranı varsa)
+        if not as_of:  # İY/MS: olasılığına göre Tier 1-4'e girer (sadece İddaa'da oranı varsa)
             for bet, p in kupon.iyms_probs(m).items():
                 odd = r.get(_iyms_col(bet), np.nan)
                 if odd > 1.0:
                     cands.append({**info, "tahmin": bet, "p": p, "odd": odd})
         # kesin skor tierlardan sonra seçilir: maçın merdiveniyle uyumlu en olası skor
         mats[info["maç"]] = (m, info, score_odds(r.get(SCORE_COL)), listed)
-        if listed:  # korner: İddaa'da oranı olan tüm barajlar ve en çok korner (Tier 1-3'e girer)
+        if listed:  # korner: İddaa'da oranı olan tüm barajlar ve en çok korner (Tier 1-4'e girer)
             corners += _corner_cands(r, info, cmodels.get(r["div"]))
     c = pd.DataFrame(cands, columns=CAND_COLS)
     c["değer"] = c["odd"] * c["p"] - 1
@@ -427,7 +431,7 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             s += f" → {int(x['hg'])}-{int(x['ag'])} {'✅' if bet_won(x['tahmin'], int(x['hg']), int(x['ag'])) else '❌'}"
         return s
 
-    # Tier 1-3: gol tahminleri (İY/MS dahil) ve korner ayrı merdivenlerle seçilir, aynı seviyede yan yana durur
+    # Tier 1-4: gol tahminleri (İY/MS dahil) ve korner ayrı merdivenlerle seçilir, aynı seviyede yan yana durur
     goal_t, rung = _select_tiers(c, MAX_PER_TIER, lambda a, b: a in NARROWER.get(b, ()))
     k = pd.DataFrame(corners, columns=CAND_COLS)
     k["değer"], k["gerçek_değer"] = k["odd"] * k["p"] - 1, False  # keskin korner oranı yok: değer ölçülemez
@@ -447,9 +451,8 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             scores.append({**info, "tahmin": f"{i}-{j}", "p": float(m[i, j]), "odd": s_odd})
     s = pd.DataFrame(scores, columns=CAND_COLS).sort_values("p", ascending=False)
     s["değer"], s["gerçek_değer"] = s["odd"] * s["p"] - 1, False  # kesin skor olasılığı piyasaya ayarlı değil
-    picked += [("⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", s.head(MAX_SHORT_SCORES)),
-               ("🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)", s)]
-    for tname, t in picked[3:]:
+    picked += [(SKOR_TIERS[0], s.head(MAX_SHORT_SCORES)), (SKOR_TIERS[1], s)]
+    for tname, t in picked[len(TIERS):]:
         md += [f"## {tname}", ""] + [line(x) for x in t.to_dict("records")] + [""]
     if not as_of:
         from src import kupon

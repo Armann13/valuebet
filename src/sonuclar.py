@@ -28,11 +28,12 @@ from src.tavsiye import bet_won
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
             "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag",
             "iptal"]  # hk/ak korner, ihg/iag ilk yarı; iptal: geçersiz kayıt (bkz. _void)
-SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("⚡", "Tier 4"), ("🔥", "Tier 5"),
+SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("🟣", "Tier 4"), ("⚡", "Tier 5"), ("🔥", "Tier 6"),
              ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
              ("🎰", "Sistem ayakları"), ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
 AYRI = ("💎", "🎫", "🎰")   # bu bölümlerdeki tahmin, aynı tahmin başka seviyede de gönderildiyse ayrıca sayılır
-SAYFA = {"🟢": "tier1", "🟡": "tier2", "🔴": "tier3", "⚡": "tier4", "🔥": "tier5", "🔀": "iyms", "🚩": "korner",
+SAYFA = {"🟢": "tier1", "🟡": "tier2", "🔴": "tier3", "🟣": "tier4", "⚡": "tier5", "🔥": "tier6", "🔀": "iyms",
+         "🚩": "korner",
          "🎫": "kupon", "🎰": "sistem", "💎": "degerli"}   # tavsiyeler/sonuclar/<ad>.md: seviyenin tüm maçları
 GUNLER = ("Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar")
 RAPOR_SAATI = 8          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
@@ -333,8 +334,12 @@ def write_pages(log: pd.DataFrame) -> None:
     """Seviye sayfalarını tavsiyeler/sonuclar/ altına yazar (sonuclar.md'deki tablodan bağlantılı)."""
     folder = config.TAVSIYE_DIR / "sonuclar"
     folder.mkdir(parents=True, exist_ok=True)
-    for name, text in tier_pages(log).items():
+    pages = tier_pages(log)
+    for name, text in pages.items():
         (folder / f"{name}.md").write_text(text, encoding="utf-8")
+    for old in folder.glob("*.md"):  # artık olmayan seviyenin sayfası (ör. numara kayınca) eski içerikle kalmasın
+        if old.stem not in pages:
+            old.unlink()
 
 
 def summary_md(log: pd.DataFrame) -> str:

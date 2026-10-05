@@ -413,23 +413,28 @@ def test_telegram_messages():
          "gerçek_değer": True},
         {**row, "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "ÇŞ 1-X", "p": 0.80, "odd": 1.25,
          "değer": float("nan"), "gerçek_değer": False},
-        {**row, "seviye": "⚡ Tier 4 — Çok yüksek risk (kısa kesin skor)", "tahmin": "1-0", "p": 0.18,
+        {**row, "seviye": "⚡ Tier 5 — Aşırı risk (kısa kesin skor)", "tahmin": "1-0", "p": 0.18,
          "odd": 5.5, "değer": float("nan"), "gerçek_değer": False}])
-    t5 = "🔥 Tier 5 — Aşırı risk (tüm maçlarda kesin skor)"
-    extra = pd.DataFrame([  # E – F Tier 2'de; Tier 5'te A – B (Tier 4'te var), E – F ve mesajda olmayan G – H
+    t6 = "🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)"
+    extra = pd.DataFrame([  # E – F Tier 2'de, M – N Tier 4'te; Tier 6'da A – B (Tier 5'te var), E – F, M – N, G – H
         {**row, "maç": "E – F", "seviye": "🟡 Tier 2 — Orta risk", "tahmin": "MS 2", "p": 0.6, "odd": 1.5,
          "değer": -0.1, "gerçek_değer": False},
+        {**row, "maç": "M – N", "seviye": "🟣 Tier 4 — Çok yüksek risk", "tahmin": "MS 2 & KG Var", "p": 0.3,
+         "odd": 2.9, "değer": -0.1, "gerçek_değer": False},
         {**row, "maç": "K – L", "seviye": "🟢 Tier 1 — Düşük risk", "tahmin": "MS 1", "p": 0.9, "odd": float("nan"),
          "değer": float("nan"), "gerçek_değer": False},  # İddaa'da kapalı: listeye girmez
-        *[{**row, "maç": m, "seviye": t5, "tahmin": sc, "p": 0.12, "odd": 7.0, "değer": float("nan"),
-           "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("G – H", "3-3")]]])
+        *[{**row, "maç": m, "seviye": t6, "tahmin": sc, "p": 0.12, "odd": 7.0, "değer": float("nan"),
+           "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("M – N", "1-2"), ("G – H", "3-3")]]])
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     allt = "\n".join(msgs)
-    assert "TIER 5" in allt and "➜ 0-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
+    assert "TIER 4</b> · <i>çok yüksek risk" in allt and "➜ MS 2 &amp; KG Var · <b>2.90</b>" in allt
+    assert "TIER 6" in allt and "➜ 0-2 ·" in allt and "➜ 1-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
     assert allt.count("➜ 1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez; yüzde yok
+    from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
+    assert _visible_len("<b>A &amp; B</b> 🟣") == len("A & B ") + 2
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
     assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
-    assert "TIER 4" in msgs[0] and "➜ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
+    assert "TIER 5" in msgs[0] and "➜ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
@@ -821,7 +826,7 @@ def test_end_to_end():
     assert picks["tarih"].str.fullmatch(r"\d{2}\.\d{2}").all()  # "01.10" sayı olarak okunmamalı
     nat = picks[picks["maç"] == "İspanya – Çekya"]
     assert len(nat) and (nat["kaynak"] == "oran").all() and not nat["gerçek_değer"].any()  # milli maçta 💎 yok
-    from src.tavsiye import MAX_PER_TIER, NARROWER, TIERS
+    from src.tavsiye import MAX_PER_TIER, MIN_ODDS, NARROWER, TIERS
     last_bet = {}  # merdiven: ↳ satırı aynı maçın bir önceki seviyedeki tahmininin daha dar devamı
     for k, (name, _, _) in enumerate(TIERS):
         tier = picks[picks["seviye"] == name]
@@ -830,14 +835,16 @@ def test_end_to_end():
             if lad is True:
                 assert bet in NARROWER[last_bet[maç]], (maç, last_bet[maç], bet)
         last_bet.update(zip(tier["maç"], tier["tahmin"]))
+    t4 = picks[picks["seviye"].str.startswith("🟣")]  # Tier 4: Tier 3'ün üstündeki oranlar (yoksa adil oran)
+    assert (t4["odd"].fillna(1 / t4["p"]) >= MIN_ODDS[3] - 1e-9).all() and t4["p"].between(0.18, 0.38).all(), t4
     t5 = picks[picks["seviye"].str.startswith("🔥")]
     nat5 = t5.loc[t5["maç"] == "İspanya – Çekya", "odd"]
     assert len(nat5) == 1 and nat5.iloc[0] == 9.0  # skor oranı İddaa'dan
     assert f"{up['HomeTeam']} – {up['AwayTeam']}" not in set(t5["maç"])  # skor bahsi kapalı: kesin skor önerilmez
     from src import korner as kmod
-    kor = picks[picks["tahmin"].map(kmod.is_corner_bet)]  # korner Tier 1-3'te, İddaa korner oranıyla
+    kor = picks[picks["tahmin"].map(kmod.is_corner_bet)]  # korner Tier 1-4'te, İddaa korner oranıyla
     assert (kor["maç"] == f"{up['HomeTeam']} – {up['AwayTeam']}").any() and kor["seviye"].str[0].isin(
-        ["🟢", "🟡", "🔴"]).all(), kor[["seviye", "tahmin", "odd"]]
+        ["🟢", "🟡", "🔴", "🟣"]).all(), kor[["seviye", "tahmin", "odd"]]
     assert "korner modeli" in son
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4

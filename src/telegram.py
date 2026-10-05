@@ -1,7 +1,7 @@
 """Telegram bildirimi: tavsiyeler/son.csv'den (python main.py tavsiye --yayinla) mesaj.
 
   Özet: günde iki kez (TR saatiyle OZET_SAATLERI'nin her birinden sonraki ilk çalıştırmada: sabah ve akşam maçlarından
-        önce) bugün ve yarının maçları için 💎 değerli bahisler + Tier 1-4'ten öne çıkanlar (Tier 4: kesin skor) +
+        önce) bugün ve yarının maçları için 💎 değerli bahisler + Tier 1-6'dan öne çıkanlar (Tier 5-6: kesin skor) +
         tam raporun linki.
   Anlık uyarı: daha önce gönderilmemiş yeni bir 💎 (oran keskin piyasanın adil fiyatının üstünde) çıkınca.
 Gönderilenler tavsiyeler/telegram_durum.json'da tutulur (aynı bahis iki kez gönderilmez).
@@ -12,6 +12,7 @@ Kurulum: bot anahtarı ve sohbet numarası ortam değişkenlerinden okunur (GitH
 import html
 import json
 import os
+import re
 from datetime import datetime, timedelta, timezone
 
 import pandas as pd
@@ -25,20 +26,27 @@ API = "https://api.telegram.org/bot{token}/{method}"
 # TR saati -> başlık; o saatten sonraki ilk çalıştırmada. Sabah 08: GitHub sabah işini sık sık geciktirip (08:2x-08:4x)
 # 09:xx işlerini atlıyor; geç gelen iş de özeti göndersin.
 OZET_SAATLERI = {8: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}
-MAX_LEN = 4000          # Telegram sınırı 4096 karakter
+MAX_LEN = 4000          # Telegram sınırı 4096 karakter (etiketler hariç, bkz. _visible_len)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
-TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar
+TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "🟣": 4, "⚡": 4}   # ⚡ = Tier 5, en olası kesin skorlar
 BASLIK = {  # simge -> (başlık, açıklama)
     "💎": ("DEĞERLİ", "oran adil fiyatın üstünde"), "🟢": ("TIER 1", "düşük risk"), "🟡": ("TIER 2", "orta risk"),
-    "🔴": ("TIER 3", "yüksek risk"), "⚡": ("TIER 4", "kesin skor"), "🔥": ("TIER 5", "kesin skor · yukarıdaki maçlar"),
+    "🔴": ("TIER 3", "yüksek risk"), "🟣": ("TIER 4", "çok yüksek risk"), "⚡": ("TIER 5", "kesin skor"),
+    "🔥": ("TIER 6", "kesin skor · yukarıdaki maçlar"),
     "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", "")}
-KORNER_LIMIT = 3   # Tier 1-3'te gol tahminlerine ek en fazla bu kadar korner tahmini
+KORNER_LIMIT = 3   # Tier 1-4'te gol tahminlerine ek en fazla bu kadar korner tahmini
 CIZGI = "━━━━━━━━━━━━━━━"
 
 
 def _tr_now() -> datetime:
     return datetime.now(timezone.utc) + timedelta(hours=3)
+
+
+def _visible_len(text: str) -> int:
+    """Telegram'ın saydığı uzunluk: HTML etiketleri çıkmış, &amp; gibi karakterler açılmış metin, UTF-16 birimi
+    (emoji 2 sayılır). 4096 sınırı buna uygulanır."""
+    return len(html.unescape(re.sub(r"<[^>]+>", "", text)).encode("utf-16-le")) // 2
 
 
 def send(text: str) -> bool:
@@ -47,8 +55,8 @@ def send(text: str) -> bool:
         print("  telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID tanımlı değil, mesaj gönderilmedi")
         return False
     parts, cur = [], ""
-    for line in text.split("\n"):  # uzun mesajı satır sınırından böl
-        if len(cur) + len(line) + 1 > MAX_LEN:
+    for line in text.split("\n"):  # uzun mesajı satır sınırından böl (satırlar etiketleri kendi içinde kapatır)
+        if cur and _visible_len(cur + line) + 1 > MAX_LEN:
             parts.append(cur)
             cur = ""
         cur += line + "\n"
@@ -131,7 +139,7 @@ def _system_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
 
 
 def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
-    """Tek mesaj: 💎, Tier 1-3 (İY/MS ve korner dahil, merdivenle), Tier 4-5 kesin skor, sistem kupon. Sadece
+    """Tek mesaj: 💎, Tier 1-4 (İY/MS ve korner dahil, merdivenle), Tier 5-6 kesin skor, sistem kupon. Sadece
     İddaa'da oynanabilen (oranı olan) tahminler."""
     out = [header, "<i>🕘 saat · maç   ➜ tahmin · İddaa oranı</i>"]
     v = _playable(soon[soon["seviye"].str.startswith("💎")])
@@ -146,8 +154,8 @@ def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -
         log += t.to_dict("records")
         if not t.empty:
             out += _section(icon, t, now_tr)
-    # Tier 5: yukarıdaki (Tier 1-3) maçların kesin skoru; Tier 4'te zaten olanlar hariç
-    above = shown["🟢"] | shown["🟡"] | shown["🔴"]
+    # Tier 6: yukarıdaki (Tier 1-4) maçların kesin skoru; Tier 5'te zaten olanlar hariç
+    above = shown["🟢"] | shown["🟡"] | shown["🔴"] | shown["🟣"]
     t5 = _playable(soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])])
     log += t5.to_dict("records")
     if not t5.empty:
