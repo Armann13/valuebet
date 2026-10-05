@@ -2,74 +2,87 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/30 tuttu** (isabet %73, beklenen %65) · +2.03 birim · 30 tahmin sonuç bekliyor
+**27/53 tuttu** (isabet %51, beklenen %66) · -13.95 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.10 22:00 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 06.10 00:00 Küba – ST Kitts ve Nevis · MS 1 · @1.45
+- ⏳ 06.10 03:00 Bermuda – Barbados · MS 2 · @1.47
+- ⏳ 06.10 20:00 Cezayir – Nijer · KG Yok · @1.47
+- ⏳ 06.10 21:45 Moldova – Slovakya · MS 2 · @1.31
+- ⏳ 06.10 21:45 Arnavutluk – San Marino · Korner 8.5 Üst · @1.40
+- ⏳ 06.10 21:45 İsviçre – Kuzey Makedonya · ↳ Korner 8.5 Üst · @1.40
+- ⏳ 06.10 21:45 Lüksemburg – Bulgaristan · 2.5 Alt · @1.43
+- ⏳ 06.10 21:45 Estonya – İzlanda · MS 2 · @1.47
 
 ## 05.10 18:21 gönderilen kupon · 8'de 7
 
 Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.46 · 2-1
-- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
-- ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
-- ⏳ 05.10 21:45 Ukrayna – Macaristan · 2.5 Alt · @1.42
-- ⏳ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40
+- ❌ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41 · korner 4-8
+- ❌ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40 · korner 5-4
+- ❌ 05.10 21:45 Ukrayna – Macaristan · 2.5 Alt · @1.42 · 1-2
+- ❌ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40 · korner 2-8
 - ⏳ 06.10 21:45 İsviçre – Kuzey Makedonya · ↳ Korner 8.5 Üst · @1.40
 - ⏳ 06.10 21:45 Lüksemburg – Bulgaristan · 2.5 Alt · @1.43
 - ⏳ 06.10 21:45 Estonya – İzlanda · MS 2 · @1.47
 
 ## 05.10 17:54 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.42 · 2-1
-- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
-- ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
-- ⏳ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40
-- ⏳ 05.10 21:45 Ukrayna – Macaristan · 2.5 Alt · @1.44
-- ⏳ 05.10 21:45 Fransa – Belçika · 2.5 Üst · @1.45
+- ❌ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41 · korner 4-8
+- ❌ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40 · korner 5-4
+- ❌ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40 · korner 2-8
+- ❌ 05.10 21:45 Ukrayna – Macaristan · 2.5 Alt · @1.44 · 1-2
+- ✅ 05.10 21:45 Fransa – Belçika · 2.5 Üst · @1.45 · 4-1
 - ⏳ 06.10 21:45 İsviçre – Kuzey Makedonya · ↳ Korner 8.5 Üst · @1.40
 - ⏳ 06.10 21:45 Lüksemburg – Bulgaristan · 2.5 Alt · @1.43
 
 ## 05.10 10:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ⏳ 05.10 13:30 Japonya – Yeni Zelanda · KG Yok · @1.57
 - ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.51 · 2-1
-- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
-- ⏳ 05.10 21:45 İtalya – Türkiye · MS 1 · @1.31
-- ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
-- ⏳ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43
-- ⏳ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40
+- ❌ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41 · korner 4-8
+- ✅ 05.10 21:45 İtalya – Türkiye · MS 1 · @1.31 · 3-1
+- ❌ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40 · korner 5-4
+- ❌ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43 · 0-0
+- ❌ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40 · korner 2-8
 - ⏳ 06.10 21:45 İsviçre – Kuzey Makedonya · ↳ Korner 8.5 Üst · @1.40
 
 ## 04.10 21:42 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 04.10 21:45 Hollanda – Sırbistan · ↳ Korner 8.5 Üst · @1.42 · korner 6-4
 - ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
 - ✅ 05.10 05:00 Nikaragua – Dominik Cumhuriyeti · MS 2 · @1.48 · 1-2
-- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
-- ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
-- ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
-- ⏳ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43
-- ⏳ 05.10 21:45 Kuzey İrlanda – Gürcistan · 2.5 Alt · @1.42
+- ❌ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41 · korner 4-8
+- ✅ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42 · 4-1
+- ❌ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40 · korner 5-4
+- ❌ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43 · 0-0
+- ✅ 05.10 21:45 Kuzey İrlanda – Gürcistan · 2.5 Alt · @1.42 · 0-0
 
 ## 04.10 09:03 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**3/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 04.10 19:00 Malta – Andorra · En çok korner 1 · @1.40 · korner 6-5
 - ✅ 04.10 19:00 Kosova – Avusturya · ↳ Korner 7.5 Üst · @1.42 · korner 3-5
 - ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
 - ❌ 05.10 02:00 Aruba – Anguilla · KG Yok · @1.55 · 3-2
-- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
-- ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
-- ⏳ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43
-- ⏳ 05.10 21:45 Kuzey İrlanda – Gürcistan · ↳ Korner 9.5 Alt · @1.40
+- ❌ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41 · korner 4-8
+- ✅ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42 · 4-1
+- ❌ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43 · 0-0
+- ❌ 05.10 21:45 Kuzey İrlanda – Gürcistan · ↳ Korner 9.5 Alt · @1.40 · korner 8-4
 
 ## 03.10 11:01 gönderilen kupon · 7'de 6
 

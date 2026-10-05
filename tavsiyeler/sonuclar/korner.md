@@ -2,11 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 30 tahmin sonuç bekliyor
+**37/71 tuttu** (isabet %52, beklenen %64) · -16.32 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 07.10.2026 Çarşamba
+
+**02:00 · Arjantin – Benin**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+
 ## 06.10.2026 Salı
+
+**17:00 · Kazakistan – Faroe Adaları**
+
+- ⏳ 🟣 En çok korner 2 · @2.32
 
 **21:45 · İsviçre – Kuzey Makedonya**
 
@@ -15,54 +25,77 @@
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
 **21:45 · Hırvatistan – İspanya**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
 
+**21:45 · Arnavutluk – San Marino**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.40
+- ⏳ 🎰 Korner 8.5 Üst · @1.40
+
+**21:45 · Moldova – Slovakya**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.44
+
+**21:45 · Estonya – İzlanda**
+
+- ⏳ 🔴 Korner 8.5 Alt · @1.77
+
+**21:45 · Lüksemburg – Bulgaristan**
+
+- ⏳ 🔴 Korner 8.5 Alt · @1.86
+
+**21:45 · Belarus – Finlandiya**
+
+- ⏳ 🟣 Korner 10.5 Üst · @2.39
+
 ## 05.10.2026 Pazartesi
 
 **21:30 · Cordoba – Tenerife**
 
-- ⏳ 🟢 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ❌ 🟢 En çok korner 1 · @1.41 · korner 4-8
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 4-8
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 4-8
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 4-8
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 4-8
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 4-8
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
-- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.40
-- ⏳ 🔴 En çok korner 2 · @1.81
-- ⏳ 🔴 En çok korner 1 · @1.80
+- ❌ 🟢 Korner 10.5 Alt · @1.21 · korner 8-4
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.40 · korner 8-4
+- ❌ 🎰 ↳ Korner 9.5 Alt · @1.40 · korner 8-4
+- ❌ 🔴 En çok korner 2 · @1.81 · korner 8-4
+- ✅ 🔴 En çok korner 1 · @1.80 · korner 8-4
 
 **21:45 · Ukrayna – Macaristan**
 
-- ⏳ 🔴 En çok korner 1 · @1.81
-- ⏳ 🔴 En çok korner 2 · @1.84
+- ✅ 🔴 En çok korner 1 · @1.81 · korner 5-4
+- ❌ 🔴 En çok korner 2 · @1.84 · korner 5-4
 
 **21:45 · İtalya – Türkiye**
 
-- ⏳ 🔴 Korner 9.5 Alt · @1.80
+- ❌ 🔴 Korner 9.5 Alt · @1.80 · korner 3-9
 
 **21:45 · Romanya – İsveç**
 
-- ⏳ 🟡 En çok korner 2 · @1.40
-- ⏳ 🎰 En çok korner 2 · @1.40
-- ⏳ 🎰 En çok korner 2 · @1.40
-- ⏳ 🎰 En çok korner 2 · @1.40
-- ⏳ 🎰 En çok korner 2 · @1.40
+- ❌ 🟡 En çok korner 2 · @1.40 · korner 5-4
+- ❌ 🎰 En çok korner 2 · @1.40 · korner 5-4
+- ❌ 🎰 En çok korner 2 · @1.40 · korner 5-4
+- ❌ 🎰 En çok korner 2 · @1.40 · korner 5-4
+- ❌ 🎰 En çok korner 2 · @1.40 · korner 5-4
 
 **21:45 · Bosna Hersek – Polonya**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.40
-- ⏳ 🎰 Korner 9.5 Alt · @1.40
-- ⏳ 🎰 Korner 9.5 Alt · @1.40
-- ⏳ 🎰 Korner 9.5 Alt · @1.40
+- ❌ 🟡 Korner 9.5 Alt · @1.40 · korner 2-8
+- ❌ 🎰 Korner 9.5 Alt · @1.40 · korner 2-8
+- ❌ 🎰 Korner 9.5 Alt · @1.40 · korner 2-8
+- ❌ 🎰 Korner 9.5 Alt · @1.40 · korner 2-8
 
 ## 04.10.2026 Pazar
 

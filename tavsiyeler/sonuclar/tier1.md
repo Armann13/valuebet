@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/34 tuttu** (isabet %79, beklenen %78) · -1.93 birim · 10 tahmin sonuç bekliyor
+**29/38 tuttu** (isabet %76, beklenen %78) · -3.43 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 07.10.2026 Çarşamba
+
+**02:00 · Arjantin – Benin**
+
+- ⏳ Korner 11.5 Alt · @1.21
 
 **02:45 · Kolombiya – Peru**
 
@@ -30,6 +34,10 @@
 
 - ⏳ Korner 11.5 Alt · @1.20
 
+**21:45 · Belarus – Finlandiya**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
 **22:00 · Angola – Malavi**
 
 - ⏳ MS 1 · @1.26
@@ -46,19 +54,19 @@
 
 **21:30 · Cordoba – Tenerife**
 
-- ⏳ En çok korner 1 · @1.41
+- ❌ En çok korner 1 · @1.41 · korner 4-8
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
-- ⏳ Korner 10.5 Alt · @1.21
+- ❌ Korner 10.5 Alt · @1.21 · korner 8-4
 
 **21:45 · Bosna Hersek – Polonya**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 1-0
 
 **21:45 · İtalya – Türkiye**
 
-- ⏳ MS 1 · @1.27
+- ✅ MS 1 · @1.27 · 3-1
 
 ## 04.10.2026 Pazar
 

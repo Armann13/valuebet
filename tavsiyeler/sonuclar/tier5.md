@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/9 tuttu** (isabet %11, beklenen %17) · -4.66 birim · 5 tahmin sonuç bekliyor
+**1/10 tuttu** (isabet %10, beklenen %17) · -5.66 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -30,7 +30,7 @@
 
 **21:45 · Fransa – Belçika**
 
-- ⏳ 2-1 · @7.44
+- ❌ 2-1 · @7.44 · 4-1
 
 ## 04.10.2026 Pazar
 

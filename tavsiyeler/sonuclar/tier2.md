@@ -2,15 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/34 tuttu** (isabet %79, beklenen %65) · +4.78 birim · 16 tahmin sonuç bekliyor
+**31/44 tuttu** (isabet %70, beklenen %65) · +0.57 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 06.10.2026 Salı
 
+**00:00 · Küba – ST Kitts ve Nevis**
+
+- ⏳ MS 1 · @1.45
+
 **03:00 · Bermuda – Barbados**
 
 - ⏳ MS 2 · @1.47
+
+**20:00 · Cezayir – Nijer**
+
+- ⏳ KG Yok · @1.47
 
 **21:45 · Estonya – İzlanda**
 
@@ -27,6 +35,14 @@
 **21:45 · Lüksemburg – Bulgaristan**
 
 - ⏳ 2.5 Alt · @1.43
+
+**21:45 · Arnavutluk – San Marino**
+
+- ⏳ Korner 8.5 Üst · @1.40
+
+**21:45 · Moldova – Slovakya**
+
+- ⏳ Korner 8.5 Üst · @1.44
 
 ## 05.10.2026 Pazartesi
 
@@ -52,33 +68,34 @@
 
 **21:45 · Fransa – Belçika**
 
-- ⏳ MS 1 · @1.42
-- ⏳ 2.5 Üst · @1.45
+- ✅ MS 1 · @1.42 · 4-1
+- ✅ 2.5 Üst · @1.45 · 4-1
 
 **21:45 · Karadağ – Ermenistan**
 
-- ⏳ MS 1 · @1.43
+- ❌ MS 1 · @1.43 · 0-0
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.40
-- ⏳ 2.5 Alt · @1.42
+- ❌ ↳ Korner 9.5 Alt · @1.40 · korner 8-4
+- ✅ 2.5 Alt · @1.42 · 0-0
 
 **21:45 · Romanya – İsveç**
 
-- ⏳ En çok korner 2 · @1.40
+- ❌ En çok korner 2 · @1.40 · korner 5-4
 
 **21:45 · Ukrayna – Macaristan**
 
-- ⏳ 2.5 Alt · @1.47
+- ❌ 2.5 Alt · @1.47 · 1-2
 
 **21:45 · Bosna Hersek – Polonya**
 
-- ⏳ Korner 9.5 Alt · @1.40
+- ❌ Korner 9.5 Alt · @1.40 · korner 2-8
 
 **22:00 · Guadeloupe – Saint Lucia**
 
-- ⏳ KG Var · @1.56
+- ❌ KG Var · @1.56 · 0-1
+- ✅ MS 2 · @1.50 · 0-1
 
 ## 04.10.2026 Pazar
 

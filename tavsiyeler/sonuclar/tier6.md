@@ -2,11 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/38 tuttu** (isabet %18, beklenen %12) · +9.64 birim · 16 tahmin sonuç bekliyor
+**7/48 tuttu** (isabet %15, beklenen %12) · -0.36 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 07.10.2026 Çarşamba
+
+**02:00 · Arjantin – Benin**
+
+- ⏳ 3-0 · @5.95
+
 ## 06.10.2026 Salı
+
+**17:00 · Kazakistan – Faroe Adaları**
+
+- ⏳ 1-1 · @5.20
 
 **21:45 · Lüksemburg – Bulgaristan**
 
@@ -23,47 +33,53 @@
 **21:45 · İsviçre – Kuzey Makedonya**
 
 - ⏳ 3-0 · @4.91
+- ⏳ 2-1 · @11.75
 
 **21:45 · Estonya – İzlanda**
 
 - ⏳ 0-1 · @5.99
+- ⏳ 1-2 · @7.41
 
 **21:45 · İngiltere – Çekya**
 
 - ⏳ 2-1 · @9.83
 
+**21:45 · Moldova – Slovakya**
+
+- ⏳ 1-2 · @7.46
+
 ## 05.10.2026 Pazartesi
 
 **21:30 · Cordoba – Tenerife**
 
-- ⏳ 1-0 · @6.93
-- ⏳ 1-1 · @5.79
+- ❌ 1-0 · @6.93 · 3-2
+- ❌ 1-1 · @5.79 · 3-2
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
-- ⏳ 1-1 · @5.11
+- ❌ 1-1 · @5.11 · 0-0
 
 **21:45 · Ukrayna – Macaristan**
 
-- ⏳ 1-1 · @5.34
+- ❌ 1-1 · @5.34 · 1-2
 
 **21:45 · İtalya – Türkiye**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 3-1
 
 **21:45 · Karadağ – Ermenistan**
 
-- ⏳ 1-0 · @6.69
+- ❌ 1-0 · @6.69 · 0-0
 
 **21:45 · Bosna Hersek – Polonya**
 
-- ⏳ 0-1 · @7.55
-- ⏳ 1-2 · @8.38
-- ⏳ 1-1 · @5.39
+- ❌ 0-1 · @7.55 · 1-0
+- ❌ 1-2 · @8.38 · 1-0
+- ❌ 1-1 · @5.39 · 1-0
 
 **21:45 · Romanya – İsveç**
 
-- ⏳ 1-2 · @7.48
+- ❌ 1-2 · @7.48 · 0-1
 
 ## 04.10.2026 Pazar
 
