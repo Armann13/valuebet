@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/33 tuttu** (isabet %79, beklenen %78) · -2.13 birim · 11 tahmin sonuç bekliyor
+**27/34 tuttu** (isabet %79, beklenen %78) · -1.93 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,7 +42,7 @@
 
 **19:00 · Kıbrıs Rum Kesimi – Letonya**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-1
 
 **21:30 · Cordoba – Tenerife**
 

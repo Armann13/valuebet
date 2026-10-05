@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 15 tahmin sonuç bekliyor
+**18/33 tuttu** (isabet %55, beklenen %47) · +2.56 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,7 +42,7 @@
 
 **19:00 · Ruanda – Kenya**
 
-- ⏳ MS 1 · @1.86
+- ❌ MS 1 · @1.86 · 0-0
 
 **21:30 · Cordoba – Tenerife**
 

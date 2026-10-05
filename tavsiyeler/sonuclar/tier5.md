@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/8 tuttu** (isabet %12, beklenen %18) · -3.66 birim · 6 tahmin sonuç bekliyor
+**1/9 tuttu** (isabet %11, beklenen %17) · -4.66 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,7 +26,7 @@
 
 **19:00 · Kıbrıs Rum Kesimi – Letonya**
 
-- ⏳ 1-0 · @5.44
+- ❌ 1-0 · @5.44 · 2-1
 
 **21:45 · Fransa – Belçika**
 

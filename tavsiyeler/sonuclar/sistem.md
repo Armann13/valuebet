@@ -2,15 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/27 tuttu** (isabet %70, beklenen %65) · +0.64 birim · 33 tahmin sonuç bekliyor
+**22/30 tuttu** (isabet %73, beklenen %65) · +2.03 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10 18:21 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.46
+- ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.46 · 2-1
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
 - ⏳ 05.10 21:45 Ukrayna – Macaristan · 2.5 Alt · @1.42
@@ -21,9 +21,9 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 05.10 17:54 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.42
+- ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.42 · 2-1
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
 - ⏳ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40
@@ -34,10 +34,10 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 05.10 10:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ⏳ 05.10 13:30 Japonya – Yeni Zelanda · KG Yok · @1.57
-- ⏳ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.51
+- ✅ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.51 · 2-1
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 İtalya – Türkiye · MS 1 · @1.31
 - ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
