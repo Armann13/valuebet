@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 11 tahmin sonuç bekliyor
+**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,10 @@
 **01:00 · Martinik – El Salvador**
 
 - ⏳ KG Yok · @1.88
+
+**05:00 · Honduras – Jamaika**
+
+- ⏳ MS 1 · @1.89
 
 **21:45 · Belarus – Finlandiya**
 
@@ -47,6 +51,7 @@
 **21:45 · Ukrayna – Macaristan**
 
 - ⏳ En çok korner 1 · @1.81
+- ⏳ En çok korner 2 · @1.84
 
 **21:45 · İtalya – Türkiye**
 

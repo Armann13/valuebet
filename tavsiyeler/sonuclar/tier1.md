@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/33 tuttu** (isabet %79, beklenen %78) · -2.13 birim · 10 tahmin sonuç bekliyor
+**26/33 tuttu** (isabet %79, beklenen %78) · -2.13 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -55,6 +55,10 @@
 **21:45 · Bosna Hersek – Polonya**
 
 - ⏳ ÇŞ 1-2 · @1.23
+
+**21:45 · İtalya – Türkiye**
+
+- ⏳ MS 1 · @1.27
 
 ## 04.10.2026 Pazar
 

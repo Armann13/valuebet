@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/33 tuttu** (isabet %79, beklenen %65) · +4.24 birim · 14 tahmin sonuç bekliyor
+**26/33 tuttu** (isabet %79, beklenen %65) · +4.24 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 06.10.2026 Salı
+
+**03:00 · Bermuda – Barbados**
+
+- ⏳ MS 2 · @1.47
 
 **21:45 · Estonya – İzlanda**
 
@@ -19,6 +23,10 @@
 **21:45 · İsviçre – Kuzey Makedonya**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.40
+
+**21:45 · Lüksemburg – Bulgaristan**
+
+- ⏳ 2.5 Alt · @1.43
 
 ## 05.10.2026 Pazartesi
 
@@ -45,6 +53,7 @@
 **21:45 · Fransa – Belçika**
 
 - ⏳ MS 1 · @1.42
+- ⏳ 2.5 Üst · @1.45
 
 **21:45 · Karadağ – Ermenistan**
 

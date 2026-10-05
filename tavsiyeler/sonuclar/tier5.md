@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/38 tuttu** (isabet %18, beklenen %12) · +9.64 birim · 15 tahmin sonuç bekliyor
+**7/38 tuttu** (isabet %18, beklenen %12) · +9.64 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -59,6 +59,7 @@
 
 - ⏳ 0-1 · @7.55
 - ⏳ 1-2 · @8.38
+- ⏳ 1-1 · @5.39
 
 **21:45 · Romanya – İsveç**
 
