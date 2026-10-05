@@ -2,15 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/28 tuttu** (isabet %54, beklenen %47) · +2.07 birim · 10 tahmin sonuç bekliyor
+**18/32 tuttu** (isabet %56, beklenen %47) · +3.56 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.10.2026 Çarşamba
+
+**02:45 · Kolombiya – Peru**
+
+- ⏳ ↳ İY/MS 1/1 · @1.83
 
 ## 06.10.2026 Salı
 
 **01:00 · Martinik – El Salvador**
 
 - ⏳ KG Yok · @1.88
+
+**21:45 · Belarus – Finlandiya**
+
+- ⏳ MS 2 · @1.88
+
+**21:45 · Lüksemburg – Bulgaristan**
+
+- ⏳ ↳ MS 1 · @1.89
+
+**21:45 · Hırvatistan – İspanya**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.12
 
 ## 05.10.2026 Pazartesi
 
@@ -33,6 +51,10 @@
 **21:45 · İtalya – Türkiye**
 
 - ⏳ Korner 9.5 Alt · @1.80
+
+**21:45 · Kuzey İrlanda – Gürcistan**
+
+- ⏳ En çok korner 2 · @1.81
 
 ## 04.10.2026 Pazar
 
@@ -68,7 +90,7 @@
 
 **17:00 · Stranraer – Edinburgh**
 
-- ⏳ MS 1 · @1.82
+- ❌ MS 1 · @1.82 · 0-0
 
 **17:00 · Yeovil Town – Boston United**
 
@@ -84,7 +106,7 @@
 
 **17:00 · Dumbarton – Forfar**
 
-- ⏳ MS 1 · @1.82
+- ✅ MS 1 · @1.82 · 2-1
 
 **17:00 · Livingston – Ayr United**
 
@@ -108,8 +130,8 @@
 
 **19:30 · Hamilton – Peterhead**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.82
-- ⏳ KG Var · @1.85
+- ✅ ↳ MS 1 & 2.5 Üst · @1.82 · 2-1
+- ✅ KG Var · @1.85 · 2-1
 
 ## 02.10.2026 Cuma
 

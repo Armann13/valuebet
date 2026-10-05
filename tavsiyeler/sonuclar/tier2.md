@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/32 tuttu** (isabet %78, beklenen %65) · +3.61 birim · 9 tahmin sonuç bekliyor
+**26/33 tuttu** (isabet %79, beklenen %65) · +4.24 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.10.2026 Salı
+
+**21:45 · Estonya – İzlanda**
+
+- ⏳ MS 2 · @1.52
+
+**21:45 · Hırvatistan – İspanya**
+
+- ⏳ MS 2 & 2.5 Üst · @1.56
+
+**21:45 · İsviçre – Kuzey Makedonya**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.40
 
 ## 05.10.2026 Pazartesi
 
@@ -19,6 +33,10 @@
 **05:00 · Nikaragua – Dominik Cumhuriyeti**
 
 - ✅ MS 2 · @1.48 · 1-2
+
+**13:30 · Japonya – Yeni Zelanda**
+
+- ⏳ KG Yok · @1.57
 
 **19:00 · Kıbrıs Rum Kesimi – Letonya**
 
@@ -40,6 +58,14 @@
 **21:45 · Romanya – İsveç**
 
 - ⏳ En çok korner 2 · @1.40
+
+**21:45 · Ukrayna – Macaristan**
+
+- ⏳ 2.5 Alt · @1.47
+
+**21:45 · Bosna Hersek – Polonya**
+
+- ⏳ Korner 9.5 Alt · @1.40
 
 **22:00 · Guadeloupe – Saint Lucia**
 
@@ -97,7 +123,7 @@
 
 **17:00 · Ross County – Alloa**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.63
+- ✅ ↳ MS 1 & 2.5 Üst · @1.63 · 4-1
 
 **19:00 · Belarus – San Marino**
 

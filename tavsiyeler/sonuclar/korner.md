@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 10 tahmin sonuç bekliyor
+**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.10.2026 Salı
+
+**21:45 · İsviçre – Kuzey Makedonya**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+
+**21:45 · Hırvatistan – İspanya**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
 
 ## 05.10.2026 Pazartesi
 
@@ -13,12 +26,14 @@
 - ⏳ 🟢 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 
 **21:45 · Kuzey İrlanda – Gürcistan**
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
 - ⏳ 🎰 ↳ Korner 9.5 Alt · @1.40
+- ⏳ 🔴 En çok korner 2 · @1.81
 
 **21:45 · Ukrayna – Macaristan**
 
@@ -32,6 +47,12 @@
 
 - ⏳ 🟡 En çok korner 2 · @1.40
 - ⏳ 🎰 En çok korner 2 · @1.40
+- ⏳ 🎰 En çok korner 2 · @1.40
+
+**21:45 · Bosna Hersek – Polonya**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.40
+- ⏳ 🎰 Korner 9.5 Alt · @1.40
 
 ## 04.10.2026 Pazar
 

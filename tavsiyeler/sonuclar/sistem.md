@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/26 tuttu** (isabet %69, beklenen %65) · +0.01 birim · 10 tahmin sonuç bekliyor
+**19/27 tuttu** (isabet %70, beklenen %65) · +0.64 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.10 10:37 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 05.10 13:30 Japonya – Yeni Zelanda · KG Yok · @1.57
+- ⏳ 05.10 19:00 Kıbrıs Rum Kesimi – Letonya · MS 1 · @1.51
+- ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
+- ⏳ 05.10 21:45 İtalya – Türkiye · MS 1 · @1.31
+- ⏳ 05.10 21:45 Romanya – İsveç · En çok korner 2 · @1.40
+- ⏳ 05.10 21:45 Karadağ – Ermenistan · MS 1 · @1.43
+- ⏳ 05.10 21:45 Bosna Hersek – Polonya · Korner 9.5 Alt · @1.40
+- ⏳ 06.10 21:45 İsviçre – Kuzey Makedonya · ↳ Korner 8.5 Üst · @1.40
 
 ## 04.10 21:42 gönderilen kupon · 8'de 7
 
@@ -34,9 +47,9 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 03.10 11:01 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
+**6/7 maç tuttu · 7 birim yatırıldı, 10.34 döndü (+3.34)** ✅
 
-- ⏳ 03.10 17:00 Ross County – Alloa · ↳ MS 1 & 2.5 Üst · @1.63
+- ✅ 03.10 17:00 Ross County – Alloa · ↳ MS 1 & 2.5 Üst · @1.63 · 4-1
 - ❌ 03.10 19:00 Estonya – Lüksemburg · Korner 9.5 Alt · @1.40 · korner 7-3
 - ✅ 03.10 21:45 Kuzey Makedonya – İskoçya · ↳ MS 2 · @1.55 · 0-2
 - ✅ 04.10 15:00 Real Sociedad B – Granada · ↳ Korner 10.5 Alt · @1.42 · korner 1-7

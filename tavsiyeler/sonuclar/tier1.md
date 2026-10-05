@@ -2,9 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/31 tuttu** (isabet %77, beklenen %78) · -2.57 birim · 5 tahmin sonuç bekliyor
+**26/33 tuttu** (isabet %79, beklenen %78) · -2.13 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.10.2026 Çarşamba
+
+**02:45 · Kolombiya – Peru**
+
+- ⏳ MS 1 · @1.26
+
+## 06.10.2026 Salı
+
+**21:45 · İngiltere – Çekya**
+
+- ⏳ 2.5 Üst · @1.26
+
+**21:45 · İskoçya – Slovenya**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**21:45 · İsviçre – Kuzey Makedonya**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
+**21:45 · Hırvatistan – İspanya**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:00 · Angola – Malavi**
+
+- ⏳ MS 1 · @1.26
 
 ## 05.10.2026 Pazartesi
 
@@ -23,6 +51,10 @@
 **21:45 · Kuzey İrlanda – Gürcistan**
 
 - ⏳ Korner 10.5 Alt · @1.21
+
+**21:45 · Bosna Hersek – Polonya**
+
+- ⏳ ÇŞ 1-2 · @1.23
 
 ## 04.10.2026 Pazar
 
@@ -79,11 +111,11 @@
 
 **17:00 · Ross County – Alloa**
 
-- ⏳ MS 1 · @1.21
+- ✅ MS 1 · @1.21 · 4-1
 
 **19:30 · Hamilton – Peterhead**
 
-- ⏳ MS 1 · @1.23
+- ✅ MS 1 · @1.23 · 2-1
 
 **21:00 · Kanada – Peru**
 

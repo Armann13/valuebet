@@ -2,9 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/8 tuttu** (isabet %12, beklenen %18) · -3.66 birim · 3 tahmin sonuç bekliyor
+**1/8 tuttu** (isabet %12, beklenen %18) · -3.66 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.10.2026 Çarşamba
+
+**02:45 · Kolombiya – Peru**
+
+- ⏳ 2-0 · @4.27
+
+## 06.10.2026 Salı
+
+**21:45 · Arnavutluk – San Marino**
+
+- ⏳ 3-0 · @5.49
+
+**21:45 · İskoçya – Slovenya**
+
+- ⏳ 1-0 · @5.05
 
 ## 05.10.2026 Pazartesi
 
