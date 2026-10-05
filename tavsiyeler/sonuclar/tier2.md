@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/25 tuttu** (isabet %80, beklenen %65) · +3.26 birim · 16 tahmin sonuç bekliyor
+**24/30 tuttu** (isabet %80, beklenen %65) · +4.13 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **01:00 · Porto Riko – Cayman Adaları**
 
-- ⏳ KG Yok · @1.44
+- ✅ KG Yok · @1.44 · 1-0
 
 **02:00 · Aruba – Anguilla**
 
@@ -58,16 +58,16 @@
 
 **21:45 · Portekiz – Norveç**
 
-- ⏳ En çok korner 1 · @1.41
-- ⏳ MS 1 · @1.52
+- ✅ En çok korner 1 · @1.41 · korner 6-4
+- ✅ MS 1 · @1.52 · 2-1
 
 **22:00 · Girona – Mallorca**
 
-- ⏳ En çok korner 1 · @1.41
+- ❌ En çok korner 1 · @1.41 · korner 5-7
 
 **23:00 · Bahamalar – ABD Virgin Adaları**
 
-- ⏳ MS 2 · @1.50
+- ✅ MS 2 · @1.50 · 2-3
 
 ## 03.10.2026 Cumartesi
 

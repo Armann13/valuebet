@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/7 tuttu** (isabet %14, beklenen %18) · -2.66 birim · 4 tahmin sonuç bekliyor
+**1/8 tuttu** (isabet %12, beklenen %18) · -3.66 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **21:00 · Mısır – Güney Afrika**
 
-- ⏳ 1-0 · @4.53
+- ❌ 1-0 · @4.53 · 0-1
 
 ## 03.10.2026 Cumartesi
 

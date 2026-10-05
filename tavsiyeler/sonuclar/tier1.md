@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/23 tuttu** (isabet %83, beklenen %79) · -0.69 birim · 13 tahmin sonuç bekliyor
+**24/31 tuttu** (isabet %77, beklenen %78) · -2.57 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **01:00 · Trinidad ve Tobago – Curaçao**
 
-- ⏳ MS 2 · @1.22
+- ❌ MS 2 · @1.22 · 1-1
 
 **19:00 · Kıbrıs Rum Kesimi – Letonya**
 
@@ -44,28 +44,28 @@
 
 **21:00 · Fas – Mali**
 
-- ⏳ MS 1 · @1.26
+- ❌ MS 1 · @1.26 · 1-1
 
 **21:45 · Galler – Danimarka**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
 
 **21:45 · Portekiz – Norveç**
 
-- ⏳ 2.5 Üst · @1.26
+- ✅ 2.5 Üst · @1.26 · 2-1
 
 **21:45 · Hollanda – Sırbistan**
 
-- ⏳ 2.5 Üst · @1.26
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ 2.5 Üst · @1.26 · 2-1
+- ✅ Korner 7.5 Üst · @1.20 · korner 6-4
 
 **22:00 · Guyana – Dominika**
 
-- ⏳ 2.5 Üst · @1.20
+- ✅ 2.5 Üst · @1.20 · 8-1
 
 **22:00 · Girona – Mallorca**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ❌ ÇŞ 1-2 · @1.25 · 0-0
 
 ## 03.10.2026 Cumartesi
 

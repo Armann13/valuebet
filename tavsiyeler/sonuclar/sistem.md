@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/20 tuttu** (isabet %75, beklenen %64) · +1.70 birim · 16 tahmin sonuç bekliyor
+**17/24 tuttu** (isabet %71, beklenen %65) · +0.53 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 04.10 21:42 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 04.10 21:45 Hollanda – Sırbistan · ↳ Korner 8.5 Üst · @1.42
-- ⏳ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41
+- ✅ 04.10 21:45 Hollanda – Sırbistan · ↳ Korner 8.5 Üst · @1.42 · korner 6-4
+- ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
 - ⏳ 05.10 05:00 Nikaragua – Dominik Cumhuriyeti · MS 2 · @1.48
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
@@ -25,7 +25,7 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 04.10 19:00 Malta – Andorra · En çok korner 1 · @1.40 · korner 6-5
 - ✅ 04.10 19:00 Kosova – Avusturya · ↳ Korner 7.5 Üst · @1.42 · korner 3-5
-- ⏳ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41
+- ❌ 04.10 22:00 Girona – Mallorca · En çok korner 1 · @1.41 · korner 5-7
 - ⏳ 05.10 02:00 Aruba – Anguilla · KG Yok · @1.55
 - ⏳ 05.10 21:30 Cordoba – Tenerife · En çok korner 1 · @1.41
 - ⏳ 05.10 21:45 Fransa – Belçika · MS 1 · @1.42
@@ -34,7 +34,7 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 03.10 11:01 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 
 - ⏳ 03.10 17:00 Ross County – Alloa · ↳ MS 1 & 2.5 Üst · @1.63
 - ❌ 03.10 19:00 Estonya – Lüksemburg · Korner 9.5 Alt · @1.40 · korner 7-3
@@ -42,7 +42,7 @@ Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 - ✅ 04.10 15:00 Real Sociedad B – Granada · ↳ Korner 10.5 Alt · @1.42 · korner 1-7
 - ✅ 04.10 19:00 Malta – Andorra · KG Yok · @1.44 · 1-0
 - ✅ 04.10 19:00 Kosova – Avusturya · ↳ Korner 7.5 Üst · @1.42 · korner 3-5
-- ⏳ 04.10 21:45 Portekiz – Norveç · En çok korner 1 · @1.41
+- ✅ 04.10 21:45 Portekiz – Norveç · En çok korner 1 · @1.41 · korner 6-4
 
 ## 02.10 20:57 gönderilen kupon · 7'de 6
 

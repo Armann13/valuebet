@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/32 tuttu** (isabet %12, beklenen %12) · -7.77 birim · 13 tahmin sonuç bekliyor
+**7/38 tuttu** (isabet %18, beklenen %12) · +9.64 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -61,21 +61,21 @@
 
 **21:45 · Portekiz – Norveç**
 
-- ⏳ 2-1 · @7.53
+- ✅ 2-1 · @7.53 · 2-1
 
 **21:45 · Galler – Danimarka**
 
-- ⏳ 1-2 · @7.64
-- ⏳ 0-1 · @7.03
+- ❌ 1-2 · @7.64 · 0-1
+- ✅ 0-1 · @7.03 · 0-1
 
 **21:45 · Hollanda – Sırbistan**
 
-- ⏳ 2-1 · @8.85
+- ✅ 2-1 · @8.85 · 2-1
 
 **22:00 · Girona – Mallorca**
 
-- ⏳ 1-1 · @5.52
-- ⏳ 2-1 · @8.52
+- ❌ 1-1 · @5.52 · 0-0
+- ❌ 2-1 · @8.52 · 0-0
 
 ## 03.10.2026 Cumartesi
 

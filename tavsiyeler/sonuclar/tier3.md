@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/25 tuttu** (isabet %52, beklenen %47) · +1.43 birim · 13 tahmin sonuç bekliyor
+**15/28 tuttu** (isabet %54, beklenen %47) · +2.07 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,15 +54,15 @@
 
 **21:45 · Portekiz – Norveç**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.91
+- ✅ ↳ MS 1 & 2.5 Üst · @1.91 · 2-1
 
 **21:45 · Hollanda – Sırbistan**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.73
+- ✅ ↳ Korner 9.5 Üst · @1.73 · korner 6-4
 
 **23:00 · Bahamalar – ABD Virgin Adaları**
 
-- ⏳ KG Yok · @2.35
+- ❌ KG Yok · @2.35 · 2-3
 
 ## 03.10.2026 Cumartesi
 

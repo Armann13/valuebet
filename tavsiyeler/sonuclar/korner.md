@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/40 tuttu** (isabet %75, beklenen %63) · +3.90 birim · 18 tahmin sonuç bekliyor
+**35/48 tuttu** (isabet %73, beklenen %63) · +3.07 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -64,20 +64,20 @@
 
 **21:45 · Portekiz – Norveç**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 6-4
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 6-4
 
 **21:45 · Hollanda – Sırbistan**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 6-4
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.73 · korner 6-4
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.42 · korner 6-4
 
 **22:00 · Girona – Mallorca**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ❌ 🟡 En çok korner 1 · @1.41 · korner 5-7
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 5-7
+- ❌ 🎰 En çok korner 1 · @1.41 · korner 5-7
 
 ## 03.10.2026 Cumartesi
 
