@@ -450,6 +450,8 @@ def test_telegram_messages():
     assert len(msgs) == 1 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
+    msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 8, 30))  # 08:30: sabah özeti (geç gelen sabah işi)
+    assert "Günün tavsiyeleri" in msgs[0]
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
     assert "Günün tavsiyeleri" in msgs[0]
 
@@ -626,11 +628,11 @@ def test_sonuclar():
     assert "- ✅ 🚩 Korner 9.5 Üst · @1.80 · korner 7-4" in pages["korner"]  # korner sayfasında seviyesiyle
     assert "Henüz sonuçlanan yok · 1 tahmin sonuç bekliyor" in pages["tier3"] and "- ⏳ MS 2 & KG Var · @3.20" in pages["tier3"]
     assert pages["sistem"].count("**2/3 maç tuttu · 3 birim yatırıldı, 2.25 döndü (-0.75)** ❌") == 2
-    # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 09:00'dan sonra (eksikler ⏳)
+    # rapor zamanı: gün tamamsa hemen, eksikse ertesi sabah 08:00'den sonra (eksikler ⏳)
     due = lambda t: sonuclar.due_days(log, set(), pd.Timestamp(t))  # noqa: E731
     assert due("2026-10-02 12:00") == ["2026-10-01"]       # 01.10 tamam; 02.10 henüz bugün
-    assert due("2026-10-03 08:00") == ["2026-10-01"]       # 02.10'da Galler maçı eksik, sabah 09:00 olmadı
-    assert due("2026-10-03 09:30") == ["2026-10-01", "2026-10-02"]
+    assert due("2026-10-03 07:30") == ["2026-10-01"]       # 02.10'da Galler maçı eksik, sabah 08:00 olmadı
+    assert due("2026-10-03 08:30") == ["2026-10-01", "2026-10-02"]
     assert sonuclar.due_days(log, {"2026-10-01"}, pd.Timestamp("2026-10-03 09:30")) == ["2026-10-02"]
     # İY/MS: maç sonu tutmadıysa ilk yarı skoru olmadan da kaybetti; tuttuysa ilk yarıyı bekler
     iy = pd.DataFrame({"tahmin": ["İY/MS 2/2", "İY/MS 1/1"], "hg": [1, 2], "ag": [1, 0], "ihg": np.nan, "iag": np.nan})

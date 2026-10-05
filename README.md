@@ -100,7 +100,7 @@ yaradığını gör.
 ### Telegram bildirimi
 
 GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
-- **Özet, günde iki kez** (TR 09:00'dan ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
+- **Özet, günde iki kez** (TR 08:00'den ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
   güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
   Tier 1-3'ten öne çıkanlar, Tier 4'ten en olası kesin skorlar ve tam raporun linki.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
@@ -154,7 +154,7 @@ Tier 1 ve 2'de en düşük oran: 1.20 ve 1.40 (`tavsiye.MIN_ODDS`); 1.06'lık ç
   (`src/kulup_sonuc.py`, `data/raw/kulup/espn.csv`; ESPN'de olmayan İskoçya League One / Two football-data'dan 1-3
   gün içinde). İptal edilen kayıt (`iptal` sütunu, ör. yanlış eşleşmiş maç) 🚫: isabete / kâra girmez, sistem
   kuponda 1.00 oranla tutmuş sayılır. Bir günün **📊 Sonuçlar** mesajı tüm tahminleri sonuçlanınca, en geç ertesi sabah
-  (09:00'dan sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: seviye bazında isabet, beklenen
+  (08:00'den sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: seviye bazında isabet, beklenen
   isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek başına 1 birim), tek tek tahminler ve
   başlangıçtan beri toplam. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;
   sonradan gelirse toplamlara eklenir.

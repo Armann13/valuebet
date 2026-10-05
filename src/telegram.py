@@ -22,7 +22,9 @@ from src import korner
 from src.tavsiye import is_ladder
 
 API = "https://api.telegram.org/bot{token}/{method}"
-OZET_SAATLERI = {9: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}  # TR saati -> başlık; o saatten sonraki ilk çalıştırmada
+# TR saati -> başlık; o saatten sonraki ilk çalıştırmada. Sabah 08: GitHub sabah işini sık sık geciktirip (08:2x-08:4x)
+# 09:xx işlerini atlıyor; geç gelen iş de özeti göndersin.
+OZET_SAATLERI = {8: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
 TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "⚡": 4}   # ⚡ = Tier 4, en olası kesin skorlar

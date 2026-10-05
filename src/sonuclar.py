@@ -35,7 +35,7 @@ AYRI = ("💎", "🎫", "🎰")   # bu bölümlerdeki tahmin, aynı tahmin başk
 SAYFA = {"🟢": "tier1", "🟡": "tier2", "🔴": "tier3", "⚡": "tier4", "🔥": "tier5", "🔀": "iyms", "🚩": "korner",
          "🎫": "kupon", "🎰": "sistem", "💎": "degerli"}   # tavsiyeler/sonuclar/<ad>.md: seviyenin tüm maçları
 GUNLER = ("Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar")
-RAPOR_SAATI = 9          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
+RAPOR_SAATI = 8          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
 
 
