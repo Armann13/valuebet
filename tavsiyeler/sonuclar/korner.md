@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/71 tuttu** (isabet %52, beklenen %64) · -16.32 birim · 17 tahmin sonuç bekliyor
+**37/71 tuttu** (isabet %52, beklenen %64) · -16.32 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,12 @@
 **02:00 · Arjantin – Benin**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🔴 Korner 9.5 Üst · @1.77
+
+**03:00 · ABD – Kanada**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.40
+- ⏳ 🎰 Korner 8.5 Üst · @1.40
 
 ## 06.10.2026 Salı
 
@@ -27,6 +33,7 @@
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
 **21:45 · Hırvatistan – İspanya**
 
@@ -36,6 +43,7 @@
 **21:45 · Arnavutluk – San Marino**
 
 - ⏳ 🟡 Korner 8.5 Üst · @1.40
+- ⏳ 🎰 Korner 8.5 Üst · @1.40
 - ⏳ 🎰 Korner 8.5 Üst · @1.40
 
 **21:45 · Moldova – Slovakya**
@@ -53,6 +61,10 @@
 **21:45 · Belarus – Finlandiya**
 
 - ⏳ 🟣 Korner 10.5 Üst · @2.39
+
+**21:45 · İngiltere – Çekya**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
 
 ## 05.10.2026 Pazartesi
 

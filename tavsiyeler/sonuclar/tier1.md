@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/38 tuttu** (isabet %76, beklenen %78) · -3.43 birim · 8 tahmin sonuç bekliyor
+**29/38 tuttu** (isabet %76, beklenen %78) · -3.43 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,6 +21,7 @@
 **21:45 · İngiltere – Çekya**
 
 - ⏳ 2.5 Üst · @1.26
+- ⏳ Korner 11.5 Alt · @1.20
 
 **21:45 · İskoçya – Slovenya**
 
@@ -37,6 +38,10 @@
 **21:45 · Belarus – Finlandiya**
 
 - ⏳ ÇŞ 1-2 · @1.24
+
+**21:45 · Moldova – Slovakya**
+
+- ⏳ MS 2 · @1.28
 
 **22:00 · Angola – Malavi**
 

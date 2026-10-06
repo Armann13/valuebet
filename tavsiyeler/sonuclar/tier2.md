@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/46 tuttu** (isabet %70, beklenen %65) · +0.04 birim · 9 tahmin sonuç bekliyor
+**32/46 tuttu** (isabet %70, beklenen %65) · +0.04 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.10.2026 Çarşamba
+
+**03:00 · ABD – Kanada**
+
+- ⏳ Korner 8.5 Üst · @1.40
+
+**05:30 · Meksika – Şili**
+
+- ⏳ MS 1 · @1.43
 
 ## 06.10.2026 Salı
 
@@ -15,6 +25,14 @@
 **03:00 · Bermuda – Barbados**
 
 - ✅ MS 2 · @1.47 · 1-2
+
+**17:00 · Kazakistan – Faroe Adaları**
+
+- ⏳ 2.5 Alt · @1.40
+
+**19:00 · Rusya – Nijerya**
+
+- ⏳ MS 1 · @1.47
 
 **20:00 · Cezayir – Nijer**
 
@@ -43,6 +61,10 @@
 **21:45 · Moldova – Slovakya**
 
 - ⏳ Korner 8.5 Üst · @1.44
+
+**21:45 · Belarus – Finlandiya**
+
+- ⏳ 2.5 Alt · @1.42
 
 ## 05.10.2026 Pazartesi
 

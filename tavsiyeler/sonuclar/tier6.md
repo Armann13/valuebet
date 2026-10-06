@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/48 tuttu** (isabet %15, beklenen %12) · -0.36 birim · 11 tahmin sonuç bekliyor
+**7/48 tuttu** (isabet %15, beklenen %12) · -0.36 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **02:00 · Arjantin – Benin**
 
 - ⏳ 3-0 · @5.95
+
+**03:00 · ABD – Kanada**
+
+- ⏳ 2-1 · @6.63
 
 ## 06.10.2026 Salı
 
@@ -47,6 +51,7 @@
 **21:45 · Moldova – Slovakya**
 
 - ⏳ 1-2 · @7.46
+- ⏳ 0-2 · @5.44
 
 ## 05.10.2026 Pazartesi
 
