@@ -12,13 +12,13 @@ Az veriyle sonuçlar çok gürültülüdür; asıl ölçüt birkaç yüz maçtan
 | SC1 | 3 | 3 | +0.1371 ± 0.2881 (n=3) | +0.2082 ± 0.0945 (n=3) |
 | SC2 | 5 | 5 | +0.1107 ± 0.1271 (n=5) | +0.0860 ± 0.0886 (n=5) |
 | SC3 | 5 | 5 | +0.0511 ± 0.0553 (n=5) | +0.0049 ± 0.0892 (n=5) |
-| SP2 | 10 | 9 | +0.0166 ± 0.1073 (n=9) | +0.0198 ± 0.1066 (n=9) |
-| toplam | 47 | 46 | +0.0468 ± 0.0473 (n=46) | +0.0270 ± 0.0414 (n=46) |
+| SP2 | 10 | 10 | +0.0248 ± 0.0973 (n=10) | +0.0268 ± 0.0963 (n=10) |
+| toplam | 47 | 47 | +0.0479 ± 0.0463 (n=47) | +0.0283 ± 0.0406 (n=47) |
 
 ## Kağıt bahisler
 | kural | bahis | açık | sonuçlanan | ort. oran | ROI_% | CLV_ort_% | CLV ±GA_% | CLV>0_% |
 |---|---|---|---|---|---|---|---|---|
-| Model | 38 | 1 | 37 | 3.07 | -18.81 | -10.06 | 3.34 | 8.11 |
+| Model | 38 | 0 | 38 | 3.07 | -20.95 | -10.07 | 3.25 | 7.89 |
 | Keskin açılış adil fiyatı (model yok) | 1 | 0 | 1 | 1.70 | -100.00 | 2.31 | — | 100.00 |
 | Model + keskin piyasa onayı (predict'teki VALUE kuralı) | 0 | 0 | 0 | — | — | — | — | — |
 
@@ -28,9 +28,9 @@ Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji k
 
 | grup | sonuç sayısı | maç | ort. oran | CLV ilk oran_% | ±GA_% | CLV son oran_% | CLV>0_% | ROI_% |
 |---|---|---|---|---|---|---|---|---|
-| Tüm İddaa fiyatları | 196 | 40 | 2.52 | -15.27 | 1.06 | -14.98 | 2.04 | -16.09 |
+| Tüm İddaa fiyatları | 201 | 41 | 2.51 | -15.20 | 1.04 | -14.91 | 1.99 | -16.40 |
 | İddaa > keskin açılış adil fiyatı | 0 | 0 | — | — | — | — | — | — |
 | Model edge ≥ %3 (onaysız) | 19 | 15 | 4.20 | -20.68 | 4.74 | -20.59 | 5.26 | -20.05 |
 | Model edge + keskin onay (VALUE) | 0 | 0 | — | — | — | — | — | — |
 
-Sonuçlanmamış (açık) maç: 13. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
+Sonuçlanmamış (açık) maç: 12. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
