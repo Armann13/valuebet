@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/46 tuttu** (isabet %70, beklenen %65) · +0.04 birim · 14 tahmin sonuç bekliyor
+**32/47 tuttu** (isabet %68, beklenen %65) · -0.96 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,7 +28,7 @@
 
 **17:00 · Kazakistan – Faroe Adaları**
 
-- ⏳ 2.5 Alt · @1.40
+- ❌ 2.5 Alt · @1.40 · 2-2
 
 **19:00 · Rusya – Nijerya**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/48 tuttu** (isabet %15, beklenen %12) · -0.36 birim · 13 tahmin sonuç bekliyor
+**7/49 tuttu** (isabet %14, beklenen %12) · -1.36 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **17:00 · Kazakistan – Faroe Adaları**
 
-- ⏳ 1-1 · @5.20
+- ❌ 1-1 · @5.20 · 2-2
 
 **21:45 · Lüksemburg – Bulgaristan**
 

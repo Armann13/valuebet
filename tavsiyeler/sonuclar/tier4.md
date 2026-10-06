@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/1 tuttu** (isabet %0, beklenen %33) · -1.00 birim · 9 tahmin sonuç bekliyor
+**2/3 tuttu** (isabet %67, beklenen %33) · +2.23 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,8 +24,8 @@
 
 **17:00 · Kazakistan – Faroe Adaları**
 
-- ⏳ MS X · @2.91
-- ⏳ En çok korner 2 · @2.32
+- ✅ MS X · @2.91 · 2-2
+- ✅ En çok korner 2 · @2.32 · korner 5-8
 
 **21:45 · Estonya – İzlanda**
 

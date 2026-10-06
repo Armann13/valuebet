@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/71 tuttu** (isabet %52, beklenen %64) · -16.32 birim · 23 tahmin sonuç bekliyor
+**38/72 tuttu** (isabet %53, beklenen %64) · -15.00 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,7 +22,7 @@
 
 **17:00 · Kazakistan – Faroe Adaları**
 
-- ⏳ 🟣 En çok korner 2 · @2.32
+- ✅ 🟣 En çok korner 2 · @2.32 · korner 5-8
 
 **21:45 · İsviçre – Kuzey Makedonya**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/55 tuttu** (isabet %51, beklenen %66) · -14.48 birim · 21 tahmin sonuç bekliyor
+**28/56 tuttu** (isabet %50, beklenen %66) · -15.48 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 06.10 17:00 Kazakistan – Faroe Adaları · 2.5 Alt · @1.40
+- ❌ 06.10 17:00 Kazakistan – Faroe Adaları · 2.5 Alt · @1.40 · 2-2
 - ⏳ 06.10 19:00 Rusya – Nijerya · MS 1 · @1.47
 - ⏳ 06.10 21:45 Belarus – Finlandiya · 2.5 Alt · @1.42
 - ⏳ 06.10 21:45 Arnavutluk – San Marino · Korner 8.5 Üst · @1.40

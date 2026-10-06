@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 06.10.2026 13:41. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 06.10.2026 16:03. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -9,13 +9,13 @@ Son güncelleme: 06.10.2026 13:41. Sadece Telegram'da gönderilen tahminler (ilk
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
 | [🟢 Tier 1](sonuclar/tier1.md) | 48 | 38 | 29 | %76 | %78 | -3.43 | %-9 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 60 | 46 | 32 | %70 | %65 | +0.04 | %0 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 60 | 47 | 32 | %68 | %65 | -0.96 | %-2 |
 | [🔴 Tier 3](sonuclar/tier3.md) | 53 | 42 | 21 | %50 | %48 | -0.87 | %-2 |
-| [🟣 Tier 4](sonuclar/tier4.md) | 10 | 1 | 0 | %0 | %33 | -1.00 | %-100 |
+| [🟣 Tier 4](sonuclar/tier4.md) | 10 | 3 | 2 | %67 | %33 | +2.23 | %74 |
 | [⚡ Tier 5](sonuclar/tier5.md) | 14 | 10 | 1 | %10 | %17 | -5.66 | %-57 |
-| [🔥 Tier 6](sonuclar/tier6.md) | 61 | 48 | 7 | %15 | %12 | -0.36 | %-1 |
-| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 94 | 71 | 37 | %52 | %64 | -16.32 | %-23 |
-| [🎰 Sistem ayakları](sonuclar/sistem.md) | 76 | 55 | 28 | %51 | %66 | -14.48 | %-26 |
+| [🔥 Tier 6](sonuclar/tier6.md) | 61 | 49 | 7 | %14 | %12 | -1.36 | %-3 |
+| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 94 | 72 | 38 | %53 | %64 | -15.00 | %-21 |
+| [🎰 Sistem ayakları](sonuclar/sistem.md) | 76 | 56 | 28 | %50 | %66 | -15.48 | %-28 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 1 | 1 | 1 | %100 | %37 | +1.84 | %184 |
 
 ## Sistem kuponları
@@ -45,5 +45,5 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 03.10.2026 | 61 | 59 | 29 | %49 | %46 | -10.60 |
 | 04.10.2026 | 53 | 53 | 34 | %64 | %51 | +24.80 |
 | 05.10.2026 | 70 | 67 | 21 | %31 | %55 | -36.03 |
-| 06.10.2026 | 74 | 4 | 2 | %50 | %51 | -1.06 |
+| 06.10.2026 | 74 | 9 | 4 | %44 | %46 | -0.83 |
 | 07.10.2026 | 7 | 0 | 0 | — | — | — |
