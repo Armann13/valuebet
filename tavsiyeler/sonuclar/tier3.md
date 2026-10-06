@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/40 tuttu** (isabet %52, beklenen %48) · +1.13 birim · 10 tahmin sonuç bekliyor
+**21/42 tuttu** (isabet %50, beklenen %48) · -0.87 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **01:00 · Martinik – El Salvador**
 
-- ⏳ KG Yok · @1.88
+- ❌ KG Yok · @1.88 · 1-1
 
 **05:00 · Honduras – Jamaika**
 
-- ⏳ MS 1 · @1.89
+- ❌ MS 1 · @1.89 · 1-1
 
 **20:00 · Ürdün – Venezuela**
 

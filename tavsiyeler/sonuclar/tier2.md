@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/44 tuttu** (isabet %70, beklenen %65) · +0.57 birim · 11 tahmin sonuç bekliyor
+**32/46 tuttu** (isabet %70, beklenen %65) · +0.04 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **00:00 · Küba – ST Kitts ve Nevis**
 
-- ⏳ MS 1 · @1.45
+- ❌ MS 1 · @1.45 · 2-2
 
 **03:00 · Bermuda – Barbados**
 
-- ⏳ MS 2 · @1.47
+- ✅ MS 2 · @1.47 · 1-2
 
 **20:00 · Cezayir – Nijer**
 

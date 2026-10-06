@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/53 tuttu** (isabet %51, beklenen %66) · -13.95 birim · 15 tahmin sonuç bekliyor
+**28/55 tuttu** (isabet %51, beklenen %66) · -14.48 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.10 22:00 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 06.10 00:00 Küba – ST Kitts ve Nevis · MS 1 · @1.45
-- ⏳ 06.10 03:00 Bermuda – Barbados · MS 2 · @1.47
+- ❌ 06.10 00:00 Küba – ST Kitts ve Nevis · MS 1 · @1.45 · 2-2
+- ✅ 06.10 03:00 Bermuda – Barbados · MS 2 · @1.47 · 1-2
 - ⏳ 06.10 20:00 Cezayir – Nijer · KG Yok · @1.47
 - ⏳ 06.10 21:45 Moldova – Slovakya · MS 2 · @1.31
 - ⏳ 06.10 21:45 Arnavutluk – San Marino · Korner 8.5 Üst · @1.40
