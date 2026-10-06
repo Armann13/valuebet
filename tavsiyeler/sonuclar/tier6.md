@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/49 tuttu** (isabet %14, beklenen %12) · -1.36 birim · 12 tahmin sonuç bekliyor
+**7/49 tuttu** (isabet %14, beklenen %12) · -1.36 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **02:00 · Arjantin – Benin**
 
 - ⏳ 3-0 · @5.95
+- ⏳ 3-1 · @33.50
 
 **03:00 · ABD – Kanada**
 

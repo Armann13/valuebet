@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/38 tuttu** (isabet %76, beklenen %78) · -3.43 birim · 10 tahmin sonuç bekliyor
+**29/39 tuttu** (isabet %74, beklenen %78) · -4.43 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,10 +18,15 @@
 
 ## 06.10.2026 Salı
 
+**20:00 · Ürdün – Venezuela**
+
+- ❌ ÇŞ 1-2 · @1.21 · 0-0
+
 **21:45 · İngiltere – Çekya**
 
 - ⏳ 2.5 Üst · @1.26
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ Korner 7.5 Üst · @1.20
 
 **21:45 · İskoçya – Slovenya**
 

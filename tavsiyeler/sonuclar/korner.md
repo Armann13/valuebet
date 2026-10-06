@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/72 tuttu** (isabet %53, beklenen %64) · -15.00 birim · 22 tahmin sonuç bekliyor
+**38/72 tuttu** (isabet %53, beklenen %64) · -15.00 birim · 35 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,7 @@
 
 - ⏳ 🟡 Korner 8.5 Üst · @1.40
 - ⏳ 🎰 Korner 8.5 Üst · @1.40
+- ⏳ 🔴 En çok korner 1 · @1.74
 
 ## 06.10.2026 Salı
 
@@ -34,6 +35,8 @@
 - ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
 
 **21:45 · Hırvatistan – İspanya**
 
@@ -45,6 +48,7 @@
 - ⏳ 🟡 Korner 8.5 Üst · @1.40
 - ⏳ 🎰 Korner 8.5 Üst · @1.40
 - ⏳ 🎰 Korner 8.5 Üst · @1.40
+- ⏳ 🎰 Korner 8.5 Üst · @1.40
 
 **21:45 · Moldova – Slovakya**
 
@@ -53,18 +57,27 @@
 **21:45 · Estonya – İzlanda**
 
 - ⏳ 🔴 Korner 8.5 Alt · @1.77
+- ⏳ 🟡 En çok korner 2 · @1.41
+- ⏳ 🎰 En çok korner 2 · @1.41
 
 **21:45 · Lüksemburg – Bulgaristan**
 
 - ⏳ 🔴 Korner 8.5 Alt · @1.86
+- ⏳ 🟣 En çok korner 2 · @2.57
 
 **21:45 · Belarus – Finlandiya**
 
 - ⏳ 🟣 Korner 10.5 Üst · @2.39
+- ⏳ 🟣 En çok korner 1 · @2.38
 
 **21:45 · İngiltere – Çekya**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.87
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
 
 ## 05.10.2026 Pazartesi
 

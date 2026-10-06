@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/42 tuttu** (isabet %50, beklenen %48) · -0.87 birim · 11 tahmin sonuç bekliyor
+**21/43 tuttu** (isabet %49, beklenen %48) · -1.87 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,6 +20,14 @@
 
 - ⏳ ↳ İY/MS 1/1 · @1.83
 
+**03:00 · ABD – Kanada**
+
+- ⏳ En çok korner 1 · @1.74
+
+**05:00 · Fransız Guyanası – Belize**
+
+- ⏳ MS 1 · @2.06
+
 ## 06.10.2026 Salı
 
 **01:00 · Martinik – El Salvador**
@@ -32,7 +40,7 @@
 
 **20:00 · Ürdün – Venezuela**
 
-- ⏳ MS 1 · @1.80
+- ❌ MS 1 · @1.80 · 0-0
 
 **21:45 · Belarus – Finlandiya**
 
@@ -54,6 +62,14 @@
 **21:45 · Moldova – Slovakya**
 
 - ⏳ ↳ İY/MS 2/2 · @1.79
+
+**21:45 · İngiltere – Çekya**
+
+- ⏳ ↳ Korner 9.5 Üst · @1.72
+
+**21:45 · İsviçre – Kuzey Makedonya**
+
+- ⏳ ↳ Korner 9.5 Üst · @1.73
 
 ## 05.10.2026 Pazartesi
 

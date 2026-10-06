@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/47 tuttu** (isabet %68, beklenen %65) · -0.96 birim · 13 tahmin sonuç bekliyor
+**32/49 tuttu** (isabet %65, beklenen %65) · -2.96 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **03:00 · ABD – Kanada**
 
 - ⏳ Korner 8.5 Üst · @1.40
+- ⏳ MS 1 · @1.51
 
 **05:30 · Meksika – Şili**
 
@@ -32,15 +33,16 @@
 
 **19:00 · Rusya – Nijerya**
 
-- ⏳ MS 1 · @1.47
+- ❌ MS 1 · @1.47 · 3-3
 
 **20:00 · Cezayir – Nijer**
 
-- ⏳ KG Yok · @1.47
+- ❌ KG Yok · @1.47 · 2-1
 
 **21:45 · Estonya – İzlanda**
 
 - ⏳ MS 2 · @1.52
+- ⏳ En çok korner 2 · @1.41
 
 **21:45 · Hırvatistan – İspanya**
 
@@ -53,6 +55,7 @@
 **21:45 · Lüksemburg – Bulgaristan**
 
 - ⏳ 2.5 Alt · @1.43
+- ⏳ KG Yok · @1.49
 
 **21:45 · Arnavutluk – San Marino**
 
@@ -65,6 +68,10 @@
 **21:45 · Belarus – Finlandiya**
 
 - ⏳ 2.5 Alt · @1.42
+
+**21:45 · İngiltere – Çekya**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
 
 ## 05.10.2026 Pazartesi
 
