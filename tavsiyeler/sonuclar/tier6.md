@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/49 tuttu** (isabet %14, beklenen %12) · -1.36 birim · 13 tahmin sonuç bekliyor
+**9/59 tuttu** (isabet %15, beklenen %12) · +1.38 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -25,34 +25,34 @@
 
 **21:45 · Lüksemburg – Bulgaristan**
 
-- ⏳ 1-0 · @5.11
+- ❌ 1-0 · @5.11 · 0-2
 
 **21:45 · Hırvatistan – İspanya**
 
-- ⏳ 1-2 · @7.83
+- ✅ 1-2 · @7.83 · 1-2
 
 **21:45 · Belarus – Finlandiya**
 
-- ⏳ 0-1 · @5.58
+- ❌ 0-1 · @5.58 · 1-0
 
 **21:45 · İsviçre – Kuzey Makedonya**
 
-- ⏳ 3-0 · @4.91
-- ⏳ 2-1 · @11.75
+- ✅ 3-0 · @4.91 · 3-0
+- ❌ 2-1 · @11.75 · 3-0
 
 **21:45 · Estonya – İzlanda**
 
-- ⏳ 0-1 · @5.99
-- ⏳ 1-2 · @7.41
+- ❌ 0-1 · @5.99 · 0-0
+- ❌ 1-2 · @7.41 · 0-0
 
 **21:45 · İngiltere – Çekya**
 
-- ⏳ 2-1 · @9.83
+- ❌ 2-1 · @9.83 · 3-0
 
 **21:45 · Moldova – Slovakya**
 
-- ⏳ 1-2 · @7.46
-- ⏳ 0-2 · @5.44
+- ❌ 1-2 · @7.46 · 0-4
+- ❌ 0-2 · @5.44 · 0-4
 
 ## 05.10.2026 Pazartesi
 

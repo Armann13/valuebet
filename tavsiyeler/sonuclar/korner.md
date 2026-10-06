@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/72 tuttu** (isabet %53, beklenen %64) · -15.00 birim · 35 tahmin sonuç bekliyor
+**59/102 tuttu** (isabet %58, beklenen %62) · -15.98 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,57 +27,57 @@
 
 **21:45 · İsviçre – Kuzey Makedonya**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 8-3
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.85 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 8-3
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.73 · korner 8-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.41 · korner 8-3
 
 **21:45 · Hırvatistan – İspanya**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 3-6
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.12 · korner 3-6
 
 **21:45 · Arnavutluk – San Marino**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.40
-- ⏳ 🎰 Korner 8.5 Üst · @1.40
-- ⏳ 🎰 Korner 8.5 Üst · @1.40
-- ⏳ 🎰 Korner 8.5 Üst · @1.40
+- ✅ 🟡 Korner 8.5 Üst · @1.40 · korner 10-1
+- ✅ 🎰 Korner 8.5 Üst · @1.40 · korner 10-1
+- ✅ 🎰 Korner 8.5 Üst · @1.40 · korner 10-1
+- ✅ 🎰 Korner 8.5 Üst · @1.40 · korner 10-1
 
 **21:45 · Moldova – Slovakya**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.44
+- ✅ 🟡 Korner 8.5 Üst · @1.44 · korner 8-3
 
 **21:45 · Estonya – İzlanda**
 
-- ⏳ 🔴 Korner 8.5 Alt · @1.77
-- ⏳ 🟡 En çok korner 2 · @1.41
-- ⏳ 🎰 En çok korner 2 · @1.41
+- ❌ 🔴 Korner 8.5 Alt · @1.77 · korner 3-7
+- ✅ 🟡 En çok korner 2 · @1.41 · korner 3-7
+- ✅ 🎰 En çok korner 2 · @1.41 · korner 3-7
 
 **21:45 · Lüksemburg – Bulgaristan**
 
-- ⏳ 🔴 Korner 8.5 Alt · @1.86
-- ⏳ 🟣 En çok korner 2 · @2.57
+- ❌ 🔴 Korner 8.5 Alt · @1.86 · korner 5-4
+- ❌ 🟣 En çok korner 2 · @2.57 · korner 5-4
 
 **21:45 · Belarus – Finlandiya**
 
-- ⏳ 🟣 Korner 10.5 Üst · @2.39
-- ⏳ 🟣 En çok korner 1 · @2.38
+- ❌ 🟣 Korner 10.5 Üst · @2.39 · korner 1-5
+- ❌ 🟣 En çok korner 1 · @2.38 · korner 1-5
 
 **21:45 · İngiltere – Çekya**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.87
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 6-3
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 6-3
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 6-3
+- ❌ 🔴 ↳ Korner 9.5 Üst · @1.72 · korner 6-3
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.87 · korner 6-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.41 · korner 6-3
 
 ## 05.10.2026 Pazartesi
 

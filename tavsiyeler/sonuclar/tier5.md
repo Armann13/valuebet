@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/10 tuttu** (isabet %10, beklenen %17) · -5.66 birim · 4 tahmin sonuç bekliyor
+**1/12 tuttu** (isabet %8, beklenen %17) · -7.66 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **21:45 · Arnavutluk – San Marino**
 
-- ⏳ 3-0 · @5.49
+- ❌ 3-0 · @5.49 · 2-1
 
 **21:45 · İskoçya – Slovenya**
 
-- ⏳ 1-0 · @5.05
+- ❌ 1-0 · @5.05 · 1-2
 
 ## 05.10.2026 Pazartesi
 

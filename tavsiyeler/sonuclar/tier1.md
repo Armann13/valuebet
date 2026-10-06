@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/39 tuttu** (isabet %74, beklenen %78) · -4.43 birim · 11 tahmin sonuç bekliyor
+**38/48 tuttu** (isabet %79, beklenen %77) · -2.37 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,33 +24,33 @@
 
 **21:45 · İngiltere – Çekya**
 
-- ⏳ 2.5 Üst · @1.26
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ 2.5 Üst · @1.26 · 3-0
+- ✅ Korner 11.5 Alt · @1.20 · korner 6-3
+- ✅ Korner 7.5 Üst · @1.20 · korner 6-3
 
 **21:45 · İskoçya – Slovenya**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 1-2
 
 **21:45 · İsviçre – Kuzey Makedonya**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 8-3
 
 **21:45 · Hırvatistan – İspanya**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 3-6
 
 **21:45 · Belarus – Finlandiya**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.24 · 1-0
 
 **21:45 · Moldova – Slovakya**
 
-- ⏳ MS 2 · @1.28
+- ✅ MS 2 · @1.28 · 0-4
 
 **22:00 · Angola – Malavi**
 
-- ⏳ MS 1 · @1.26
+- ✅ MS 1 · @1.26 · 3-1
 
 ## 05.10.2026 Pazartesi
 

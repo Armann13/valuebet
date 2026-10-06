@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/4 tuttu** (isabet %50, beklenen %30) · +1.23 birim · 11 tahmin sonuç bekliyor
+**2/12 tuttu** (isabet %17, beklenen %30) · -6.77 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,23 +37,23 @@
 
 **21:45 · Estonya – İzlanda**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.37
+- ❌ ↳ MS 2 & 2.5 Üst · @2.37 · 0-0
 
 **21:45 · İsviçre – Kuzey Makedonya**
 
-- ⏳ MS 1 & KG Var · @3.19
-- ⏳ ↳ Korner 11.5 Üst · @2.85
+- ❌ MS 1 & KG Var · @3.19 · 3-0
+- ❌ ↳ Korner 11.5 Üst · @2.85 · korner 8-3
 
 **21:45 · Belarus – Finlandiya**
 
-- ⏳ Korner 10.5 Üst · @2.39
-- ⏳ En çok korner 1 · @2.38
+- ❌ Korner 10.5 Üst · @2.39 · korner 1-5
+- ❌ En çok korner 1 · @2.38 · korner 1-5
 
 **21:45 · Lüksemburg – Bulgaristan**
 
-- ⏳ ↳ İY/MS 1/1 · @3.33
-- ⏳ En çok korner 2 · @2.57
+- ❌ ↳ İY/MS 1/1 · @3.33
+- ❌ En çok korner 2 · @2.57 · korner 5-4
 
 **21:45 · İngiltere – Çekya**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.87
+- ❌ ↳ Korner 11.5 Üst · @2.87 · korner 6-3
