@@ -457,6 +457,13 @@ def test_telegram_messages():
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 8, 30))  # 08:30: sabah özeti (geç gelen sabah işi)
     assert "Günün tavsiyeleri" in msgs[0]
+    # bugün ve yarın maç yoksa sabah kısa not (sıradaki maç günleriyle); akşam tekrar gelmez
+    far = picks[~picks["seviye"].str.startswith("💎")].assign(gün="2026-10-10", maç="Y – Z")
+    msgs, st3 = build_messages(far, {}, datetime(2026, 10, 7, 9, 0))
+    assert len(msgs) == 1 and "tavsiye çıkan maç yok" in msgs[0] and "10.10 Cumartesi: 1 maç" in msgs[0], msgs
+    assert build_messages(far, st3, datetime(2026, 10, 7, 18, 30))[0] == []
+    assert "maç yok" in build_messages(pd.DataFrame(), {}, datetime(2026, 10, 7, 9, 0))[0][0]
+    assert build_messages(pd.DataFrame(), {}, datetime(2026, 10, 7, 7, 0))[0] == []  # 08:00'den önce: yok
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
     assert "Günün tavsiyeleri" in msgs[0]
 

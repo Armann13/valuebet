@@ -166,6 +166,20 @@ def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -
     return ["\n".join(out)]
 
 
+def _no_match_note(picks: pd.DataFrame, now_tr: datetime) -> str:
+    """Bugün ve yarın tavsiye yoksa (ör. milli maç arası bitti, ligler hafta sonu başlıyor): kısa not ve sıradaki
+    maç günleri."""
+    from src.sonuclar import GUNLER
+    lines = [f"⚽ <b>{OZET_SAATLERI[min(OZET_SAATLERI)]} — {now_tr:%d.%m}</b>", "",
+             "Bugün ve yarın takip edilen liglerde tavsiye çıkan maç yok."]
+    if not picks.empty:
+        days = picks.drop_duplicates(["gün", "maç"]).groupby("gün").size().head(3)
+        lines += ["", "<b>Sıradaki maç günleri</b>"] + [
+            f"• {pd.Timestamp(d):%d.%m} {GUNLER[pd.Timestamp(d).dayofweek]}: {n} maç" for d, n in days.items()]
+    lines += ["", "<i>Tavsiyeler maç gününden bir gün önce sabah listeye girer.</i>"]
+    return "\n".join(lines)
+
+
 def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bool = False,
                    log: list | None = None) -> tuple[list, dict]:
     """Gönderilecek mesajlar ve güncellenmiş durum (saf fonksiyon: test edilebilir).
@@ -174,20 +188,29 @@ def build_messages(picks: pd.DataFrame, state: dict, now_tr: datetime, force: bo
     log = [] if log is None else log
     msgs = []
     state = {**state, "son_ozet": state.get("son_ozet"), "gonderilen": list(state.get("gonderilen", []))}
+    passed = [h for h in OZET_SAATLERI if now_tr.hour >= h]
+    slot = f"{now_tr:%Y-%m-%d} {max(passed):02d}" if passed else None  # bugünün son geçilen özet saati
+    due = force or (slot is not None and state["son_ozet"] != slot)
+    # bugün ve yarın maç yoksa sabah (ya da elle istenince) kısa not: sessiz kalınca mesaj gelmedi sanılıyor
+    note_due = due and (force or max(passed) == min(OZET_SAATLERI))
     if picks.empty:
+        if note_due:
+            msgs.append(_no_match_note(picks, now_tr))
+            state["son_ozet"] = slot or state["son_ozet"]
         return msgs, state
     soon = picks[picks["gün"] <= (now_tr + timedelta(days=1)).strftime("%Y-%m-%d")]
     value = picks[picks["seviye"].str.startswith("💎")].drop_duplicates("maç")
     sent = set(state["gonderilen"])
-    passed = [h for h in OZET_SAATLERI if now_tr.hour >= h]
-    slot = f"{now_tr:%Y-%m-%d} {max(passed):02d}" if passed else None  # bugünün son geçilen özet saati
-    if (force or (slot and state["son_ozet"] != slot)) and not soon.empty:
+    if due and not soon.empty:
         title = "Güncel tavsiyeler" if force else OZET_SAATLERI[max(passed)]
         stamp = f"{now_tr:%d.%m %H:%M}" if force else f"{now_tr:%d.%m}"
         msgs += digest_parts(soon, now_tr, f"⚽ <b>{title} — {stamp}</b>", log)
         state["son_ozet"] = slot or state["son_ozet"]
         v = soon[soon["seviye"].str.startswith("💎")]
         sent |= {_key(r) for r in v.to_dict("records")}  # özette gönderilen 💎 anlık uyarıda tekrar gelmesin
+    elif note_due:
+        msgs.append(_no_match_note(picks, now_tr))
+        state["son_ozet"] = slot or state["son_ozet"]
     new = [r for r in _playable(value).to_dict("records") if _key(r) not in sent]
     if new:
         msgs.append("\n".join(["💎 <b>Yeni değerli bahis</b>", ""] + [_fmt(r, now_tr) for r in new] +

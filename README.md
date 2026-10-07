@@ -102,7 +102,8 @@ yaradığını gör.
 GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
 - **Özet, günde iki kez** (TR 08:00'den ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
   güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
-  Tier 1-4'ten öne çıkanlar, Tier 5-6'dan en olası kesin skorlar ve tam raporun linki.
+  Tier 1-4'ten öne çıkanlar, Tier 5-6'dan en olası kesin skorlar ve tam raporun linki. Bugün ve yarın maç yoksa
+  (ör. milli maç arası bitti, ligler hafta sonu) sabah kısa bir not ve sıradaki maç günleri gelir.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
 - **Elle güncel özet:** GitHub → Actions → "İddaa oranları" → Run workflow → "Telegram'a güncel özeti şimdi gönder"
   kutusunu işaretle (ya da `gh workflow run iddaa.yml -f telegram_ozet=true`). Oranlar toplanır, rapor yenilenir,
