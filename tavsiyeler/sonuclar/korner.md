@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**59/102 tuttu** (isabet %58, beklenen %62) · -15.98 birim · 5 tahmin sonuç bekliyor
+**63/107 tuttu** (isabet %59, beklenen %62) · -15.20 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,14 +10,14 @@
 
 **02:00 · Arjantin – Benin**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🔴 Korner 9.5 Üst · @1.77
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 8-2
+- ✅ 🔴 Korner 9.5 Üst · @1.77 · korner 8-2
 
 **03:00 · ABD – Kanada**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.40
-- ⏳ 🎰 Korner 8.5 Üst · @1.40
-- ⏳ 🔴 En çok korner 1 · @1.74
+- ✅ 🟡 Korner 8.5 Üst · @1.40 · korner 4-8
+- ✅ 🎰 Korner 8.5 Üst · @1.40 · korner 4-8
+- ❌ 🔴 En çok korner 1 · @1.74 · korner 4-8
 
 ## 06.10.2026 Salı
 

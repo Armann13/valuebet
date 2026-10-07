@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/50 tuttu** (isabet %44, beklenen %48) · -7.14 birim · 7 tahmin sonuç bekliyor
+**25/54 tuttu** (isabet %46, beklenen %47) · -5.41 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **02:00 · Antigua & Barbuda – Aruba**
 
-- ⏳ MS 1 · @1.90
+- ✅ MS 1 · @1.90 · 3-2
 
 **02:00 · Arjantin – Benin**
 
-- ⏳ Korner 9.5 Üst · @1.77
+- ✅ Korner 9.5 Üst · @1.77 · korner 8-2
 
 **02:45 · Kolombiya – Peru**
 
@@ -22,11 +22,11 @@
 
 **03:00 · ABD – Kanada**
 
-- ⏳ En çok korner 1 · @1.74
+- ❌ En çok korner 1 · @1.74 · korner 4-8
 
 **05:00 · Fransız Guyanası – Belize**
 
-- ⏳ MS 1 · @2.06
+- ✅ MS 1 · @2.06 · 1-0
 
 ## 06.10.2026 Salı
 

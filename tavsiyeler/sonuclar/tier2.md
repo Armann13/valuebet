@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/59 tuttu** (isabet %69, beklenen %64) · -0.00 birim · 5 tahmin sonuç bekliyor
+**43/62 tuttu** (isabet %69, beklenen %64) · -0.09 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,12 +10,12 @@
 
 **03:00 · ABD – Kanada**
 
-- ⏳ Korner 8.5 Üst · @1.40
-- ⏳ MS 1 · @1.51
+- ✅ Korner 8.5 Üst · @1.40 · korner 4-8
+- ✅ MS 1 · @1.51 · 1-0
 
 **05:30 · Meksika – Şili**
 
-- ⏳ MS 1 · @1.43
+- ❌ MS 1 · @1.43 · 0-2
 
 ## 06.10.2026 Salı
 

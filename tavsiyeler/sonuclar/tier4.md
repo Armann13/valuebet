@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/12 tuttu** (isabet %17, beklenen %30) · -6.77 birim · 3 tahmin sonuç bekliyor
+**2/15 tuttu** (isabet %13, beklenen %30) · -9.77 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 **02:00 · Antigua & Barbuda – Aruba**
 
-- ⏳ ↳ MS X · @3.10
+- ❌ ↳ MS X · @3.10 · 3-2
 
 **03:00 · ABD – Kanada**
 
-- ⏳ MS 1 & KG Var · @3.13
+- ❌ MS 1 & KG Var · @3.13 · 1-0
 
 **05:30 · Meksika – Şili**
 
-- ⏳ ↳ MS 1 & KG Var · @3.09
+- ❌ ↳ MS 1 & KG Var · @3.09 · 0-2
 
 ## 06.10.2026 Salı
 

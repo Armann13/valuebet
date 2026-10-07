@@ -1,4 +1,4 @@
-# Tavsiyeler — 06.10.2026
+# Tavsiyeler — 07.10.2026
 
 İddaa oranlarının son kaydı: 07.10 01:41 (TR saati)
 
@@ -6,54 +6,33 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 **↳** = aynı maçta bir üst seviyedeki tahminin daha riskli (daha yüksek oranlı) devamı: bu tutarsa üstteki de tutar (ör. MS 1 → MS 1 & 2.5 Üst → MS 1 & KG Var). Tier 2 ve 3'ün en fazla yarısı böyle, gerisi diğer maçlar.
 
-**Milli maçlar** ayrı bir modelle (milli takım sonuçları, tarafsız saha ve hazırlık maçı ağırlığıyla) tahmin edilir. Milli maçlar için keskin piyasa oranı olmadığından 💎 çıkmaz. İddaa sahayı bildirmediği için ev sahibi kendi sahasında sayılır.
-
 ## 🟢 Tier 1 — Düşük risk
 
 • Real Madrid – Villarreal (SP1, 10.10 22:00): **MS 1** — olasılık %77, adil oran 1.30, İddaa 1.25 (değer -4%) _(İddaa oranına ayarlı)_
-• Kolombiya – Peru (Uluslararası Hazırlık Maçları, 07.10 02:45): **MS 1** — olasılık %76, adil oran 1.31, İddaa 1.24 (değer -6%) _(İddaa oranına ayarlı)_
-• Arjantin – Benin (Uluslararası Hazırlık Maçları, 07.10 02:00): **KG Yok** — olasılık %73, adil oran 1.37, İddaa 1.20 (değer -13%) _(sadece model)_
-• Fransız Guyanası – Belize (CONCACAF Uluslar B Ligi, 07.10 05:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.21 (değer -14%), MBS 3 _(İddaa oranına ayarlı)_
-• Meksika – Şili (Uluslararası Hazırlık Maçları, 07.10 05:30): **En çok korner 1** — olasılık %75, adil oran 1.33, İddaa 1.24 (değer -7%) _(İddaa oranına ayarlı)_
-• Kolombiya – Peru (Uluslararası Hazırlık Maçları, 07.10 02:45): **En çok korner 1** — olasılık %73, adil oran 1.36, İddaa 1.26 (değer -7%) _(İddaa oranına ayarlı)_
 
 ## 🟡 Tier 2 — Orta risk
 
 • Leipzig – Eintracht Frankfurt (D1, 10.10 19:30): **MS 1** — olasılık %66, adil oran 1.51, İddaa 1.43 (değer -5%) _(İddaa oranına ayarlı)_
-• Meksika – Şili (Uluslararası Hazırlık Maçları, 07.10 05:30): **MS 1** — olasılık %63, adil oran 1.58, İddaa 1.46 (değer -8%) _(İddaa oranına ayarlı)_
 • Rizespor – Fenerbahçe (T1, 10.10 19:00): **MS 2** — olasılık %59, adil oran 1.70, İddaa 1.59 (değer -7%) _(İddaa oranına ayarlı)_
 • Manchester United – Tottenham (E0, 10.10 19:30): **MS 1** — olasılık %58, adil oran 1.72, İddaa 1.61 (değer -7%) _(İddaa oranına ayarlı)_
-• ABD – Kanada (Uluslararası Hazırlık Maçları, 07.10 03:00): **MS 1** — olasılık %55, adil oran 1.83, İddaa 1.66 (değer -9%) _(İddaa oranına ayarlı)_
-• Antigua & Barbuda – Aruba (CONCACAF Uluslar C Ligi, 07.10 02:00): **2.5 Alt** — olasılık %52, adil oran 1.92, İddaa 1.65 (değer -14%), MBS 3 _(İddaa oranına ayarlı)_
 • Eyüpspor – Göztepe (T1, 12.10 20:00): **MS 2** — olasılık %52, adil oran 1.94, İddaa 1.79 (değer -8%) _(İddaa oranına ayarlı)_
-• ↳ Kolombiya – Peru (Uluslararası Hazırlık Maçları, 07.10 02:45): **İY/MS 1/1** — olasılık %51, adil oran 1.98, İddaa 1.78 (değer -10%) _(İddaa oranına ayarlı)_
 • Samsunspor – Trabzonspor (T1, 10.10 16:00): **MS 2** — olasılık %50, adil oran 2.00, İddaa 1.84 (değer -8%) _(İddaa oranına ayarlı)_
 
 ## 🔴 Tier 3 — Yüksek risk
 
 • Alanyaspor – Erzurumspor FK (T1, 10.10 16:00): **MS 1** — olasılık %49, adil oran 2.06, İddaa 1.89 (değer -8%) _(İddaa oranına ayarlı)_
-• ↳ Fransız Guyanası – Belize (CONCACAF Uluslar B Ligi, 07.10 05:00): **MS 1** — olasılık %44, adil oran 2.26, İddaa 2.00 (değer -12%), MBS 3 _(İddaa oranına ayarlı)_
 • Liverpool – Manchester City (E0, 11.10 18:30): **MS 2** — olasılık %38, adil oran 2.66, İddaa 2.38 (değer -10%) _(İddaa oranına ayarlı)_
 • Gaziantep FK – Çorum FK (T1, 11.10 16:00): **MS 2** — olasılık %36, adil oran 2.75, İddaa 2.45 (değer -11%) _(İddaa oranına ayarlı)_
-• ↳ Meksika – Şili (Uluslararası Hazırlık Maçları, 07.10 05:30): **MS 1 & 2.5 Üst** — olasılık %35, adil oran 2.83, İddaa 2.33 (değer -18%) _(İddaa oranına ayarlı)_
-• ↳ ABD – Kanada (Uluslararası Hazırlık Maçları, 07.10 03:00): **İY/MS 1/1** — olasılık %32, adil oran 3.08, İddaa 2.49 (değer -19%) _(İddaa oranına ayarlı)_
-• ABD – Kanada (Uluslararası Hazırlık Maçları, 07.10 03:00): **En çok korner 2** — olasılık %47, adil oran 2.13, İddaa 1.83 (değer -14%) _(İddaa oranına ayarlı)_
 
 ## 🟣 Tier 4 — Çok yüksek risk
 
-• ↳ Meksika – Şili (Uluslararası Hazırlık Maçları, 07.10 05:30): **MS 1 & KG Var** — olasılık %25, adil oran 3.96, İddaa 3.40 (değer -14%) _(İddaa oranına ayarlı)_
+Bu seviyede tahmin yok.
 
 ## ⚡ Tier 5 — Aşırı risk (kısa kesin skor)
 
-• Kolombiya – Peru (Uluslararası Hazırlık Maçları, 07.10 02:45): **2-0** — olasılık %16, adil oran 6.14, İddaa 4.03 (değer -34%) _(İddaa oranına ayarlı)_
-• Arjantin – Benin (Uluslararası Hazırlık Maçları, 07.10 02:00): **3-0** — olasılık %14, adil oran 7.01, İddaa 8.76 (değer +25%) _(sadece model)_
-• ABD – Kanada (Uluslararası Hazırlık Maçları, 07.10 03:00): **1-0** — olasılık %13, adil oran 7.61, İddaa 8.24 (değer +8%) _(İddaa oranına ayarlı)_
 
 ## 🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 
-• Kolombiya – Peru (Uluslararası Hazırlık Maçları, 07.10 02:45): **2-0** — olasılık %16, adil oran 6.14, İddaa 4.03 (değer -34%) _(İddaa oranına ayarlı)_
-• Arjantin – Benin (Uluslararası Hazırlık Maçları, 07.10 02:00): **3-0** — olasılık %14, adil oran 7.01, İddaa 8.76 (değer +25%) _(sadece model)_
-• ABD – Kanada (Uluslararası Hazırlık Maçları, 07.10 03:00): **1-0** — olasılık %13, adil oran 7.61, İddaa 8.24 (değer +8%) _(İddaa oranına ayarlı)_
 
 ## 🎰 Sistem kupon (0 maç)
 

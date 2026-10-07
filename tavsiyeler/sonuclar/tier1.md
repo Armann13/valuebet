@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/48 tuttu** (isabet %79, beklenen %77) · -2.37 birim · 2 tahmin sonuç bekliyor
+**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **02:00 · Arjantin – Benin**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 8-2
 
 **02:45 · Kolombiya – Peru**
 
-- ⏳ MS 1 · @1.26
+- ✅ MS 1 · @1.26 · 2-0
 
 ## 06.10.2026 Salı
 

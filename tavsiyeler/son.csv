@@ -1,30 +1,10 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
-Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7667208630895815,1.25,-0.041598921138023104,False,0.0,False,🟢 Tier 1 — Düşük risk
-Kolombiya – Peru,Uluslararası Hazırlık Maçları,07.10,02:45,2026-10-07 02:45,2026-10-06,1,oran,,,MILLI,Colombia,Peru,MS 1,0.7620775476377936,1.24,-0.055023840929136036,False,0.0,False,🟢 Tier 1 — Düşük risk
-Arjantin – Benin,Uluslararası Hazırlık Maçları,07.10,02:00,2026-10-07 02:00,2026-10-06,1,model,,,MILLI,Argentina,Benin,KG Yok,0.7290323448791795,1.2,-0.12516118614498473,False,0.0,False,🟢 Tier 1 — Düşük risk
-Fransız Guyanası – Belize,CONCACAF Uluslar B Ligi,07.10,05:00,2026-10-07 05:00,2026-10-07,3,oran,,,MILLI,French Guiana,Belize,ÇŞ 1-2,0.7144537555014815,1.21,-0.13551095584320738,False,0.0,False,🟢 Tier 1 — Düşük risk
-Meksika – Şili,Uluslararası Hazırlık Maçları,07.10,05:30,2026-10-07 05:30,2026-10-07,1,oran,,,MILLI,Mexico,Chile,En çok korner 1,0.7512038061198003,1.24,-0.0685072804114476,False,0.0,False,🟢 Tier 1 — Düşük risk
-Kolombiya – Peru,Uluslararası Hazırlık Maçları,07.10,02:45,2026-10-07 02:45,2026-10-06,1,oran,,,MILLI,Colombia,Peru,En çok korner 1,0.7348820257420655,1.26,-0.0740486475649974,False,0.0,False,🟢 Tier 1 — Düşük risk
-Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,MS 1,0.6608640539508239,1.43,-0.05496440285032178,False,0.0,False,🟡 Tier 2 — Orta risk
-Meksika – Şili,Uluslararası Hazırlık Maçları,07.10,05:30,2026-10-07 05:30,2026-10-07,1,oran,,,MILLI,Mexico,Chile,MS 1,0.6334761397379569,1.46,-0.0751248359825829,False,0.0,False,🟡 Tier 2 — Orta risk
-Rizespor – Fenerbahçe,T1,10.10,19:00,2026-10-10 19:00,2026-10-10,1,oran,,,T1,Rizespor,Fenerbahce,MS 2,0.5879850193720326,1.59,-0.06510381919846808,False,0.0,False,🟡 Tier 2 — Orta risk
-Manchester United – Tottenham,E0,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,E0,Man United,Tottenham,MS 1,0.5804147583081157,1.61,-0.06553223912393358,False,0.0,False,🟡 Tier 2 — Orta risk
-ABD – Kanada,Uluslararası Hazırlık Maçları,07.10,03:00,2026-10-07 03:00,2026-10-07,1,oran,,,MILLI,United States,Canada,MS 1,0.5479239778439177,1.66,-0.09044619677909671,False,0.0,False,🟡 Tier 2 — Orta risk
-Antigua & Barbuda – Aruba,CONCACAF Uluslar C Ligi,07.10,02:00,2026-10-07 02:00,2026-10-06,3,oran,,,MILLI,Antigua and Barbuda,Aruba,2.5 Alt,0.5209951040452369,1.65,-0.14035807832535918,False,0.0,False,🟡 Tier 2 — Orta risk
-Eyüpspor – Göztepe,T1,12.10,20:00,2026-10-12 20:00,2026-10-12,1,oran,,,T1,Eyupspor,Goztep,MS 2,0.5154386053189349,1.79,-0.07736489647910649,False,0.0,False,🟡 Tier 2 — Orta risk
-Kolombiya – Peru,Uluslararası Hazırlık Maçları,07.10,02:45,2026-10-07 02:45,2026-10-06,1,oran,,,MILLI,Colombia,Peru,İY/MS 1/1,0.5063166301611876,1.78,-0.09875639831308614,False,0.0,True,🟡 Tier 2 — Orta risk
-Samsunspor – Trabzonspor,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Samsunspor,Trabzonspor,MS 2,0.5010444306716619,1.84,-0.07807824756414206,False,0.0,False,🟡 Tier 2 — Orta risk
-Alanyaspor – Erzurumspor FK,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Alanyaspor,Erzurumspor,MS 1,0.4859099357415056,1.89,-0.08163022144855447,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Fransız Guyanası – Belize,CONCACAF Uluslar B Ligi,07.10,05:00,2026-10-07 05:00,2026-10-07,3,oran,,,MILLI,French Guiana,Belize,MS 1,0.442216451154011,2.0,-0.11556709769197804,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,MS 2,0.37622489274834875,2.38,-0.10458475525892996,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Gaziantep FK – Çorum FK,T1,11.10,16:00,2026-10-11 16:00,2026-10-11,1,oran,,,T1,Gaziantep,Corum,MS 2,0.36416313467885886,2.45,-0.10780032003679574,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Meksika – Şili,Uluslararası Hazırlık Maçları,07.10,05:30,2026-10-07 05:30,2026-10-07,1,oran,,,MILLI,Mexico,Chile,MS 1 & 2.5 Üst,0.3532775357677056,2.33,-0.17686334166124595,False,0.0,True,🔴 Tier 3 — Yüksek risk
-ABD – Kanada,Uluslararası Hazırlık Maçları,07.10,03:00,2026-10-07 03:00,2026-10-07,1,oran,,,MILLI,United States,Canada,İY/MS 1/1,0.32437734715639965,2.49,-0.19230040558056483,False,0.0,True,🔴 Tier 3 — Yüksek risk
-ABD – Kanada,Uluslararası Hazırlık Maçları,07.10,03:00,2026-10-07 03:00,2026-10-07,1,oran,,,MILLI,United States,Canada,En çok korner 2,0.4691002547726008,1.83,-0.14154653376614046,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Meksika – Şili,Uluslararası Hazırlık Maçları,07.10,05:30,2026-10-07 05:30,2026-10-07,1,oran,,,MILLI,Mexico,Chile,MS 1 & KG Var,0.252232001398491,3.4,-0.14241119524513057,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kolombiya – Peru,Uluslararası Hazırlık Maçları,07.10,02:45,2026-10-07 02:45,2026-10-06,1,oran,,,MILLI,Colombia,Peru,2-0,0.16290994893742844,4.03,-0.3434729057821634,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Arjantin – Benin,Uluslararası Hazırlık Maçları,07.10,02:00,2026-10-07 02:00,2026-10-06,1,model,,,MILLI,Argentina,Benin,3-0,0.14257039371310218,8.76,0.24891664892677512,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-ABD – Kanada,Uluslararası Hazırlık Maçları,07.10,03:00,2026-10-07 03:00,2026-10-07,1,oran,,,MILLI,United States,Canada,1-0,0.1314593008757997,8.24,0.08322463921658962,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Kolombiya – Peru,Uluslararası Hazırlık Maçları,07.10,02:45,2026-10-07 02:45,2026-10-06,1,oran,,,MILLI,Colombia,Peru,2-0,0.16290994893742844,4.03,-0.3434729057821634,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Arjantin – Benin,Uluslararası Hazırlık Maçları,07.10,02:00,2026-10-07 02:00,2026-10-06,1,model,,,MILLI,Argentina,Benin,3-0,0.14257039371310218,8.76,0.24891664892677512,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-ABD – Kanada,Uluslararası Hazırlık Maçları,07.10,03:00,2026-10-07 03:00,2026-10-07,1,oran,,,MILLI,United States,Canada,1-0,0.1314593008757997,8.24,0.08322463921658962,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7667208630895815,1.25,-0.041598921138023104,False,0,False,🟢 Tier 1 — Düşük risk
+Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,MS 1,0.6608640539508239,1.43,-0.05496440285032178,False,0,False,🟡 Tier 2 — Orta risk
+Rizespor – Fenerbahçe,T1,10.10,19:00,2026-10-10 19:00,2026-10-10,1,oran,,,T1,Rizespor,Fenerbahce,MS 2,0.5879850193720326,1.59,-0.06510381919846808,False,0,False,🟡 Tier 2 — Orta risk
+Manchester United – Tottenham,E0,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,E0,Man United,Tottenham,MS 1,0.5804147583081157,1.61,-0.06553223912393358,False,0,False,🟡 Tier 2 — Orta risk
+Eyüpspor – Göztepe,T1,12.10,20:00,2026-10-12 20:00,2026-10-12,1,oran,,,T1,Eyupspor,Goztep,MS 2,0.5154386053189349,1.79,-0.07736489647910649,False,0,False,🟡 Tier 2 — Orta risk
+Samsunspor – Trabzonspor,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Samsunspor,Trabzonspor,MS 2,0.5010444306716619,1.84,-0.07807824756414206,False,0,False,🟡 Tier 2 — Orta risk
+Alanyaspor – Erzurumspor FK,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Alanyaspor,Erzurumspor,MS 1,0.4859099357415056,1.89,-0.08163022144855447,False,0,False,🔴 Tier 3 — Yüksek risk
+Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,MS 2,0.37622489274834875,2.38,-0.10458475525892996,False,0,False,🔴 Tier 3 — Yüksek risk
+Gaziantep FK – Çorum FK,T1,11.10,16:00,2026-10-11 16:00,2026-10-11,1,oran,,,T1,Gaziantep,Corum,MS 2,0.36416313467885886,2.45,-0.10780032003679574,False,0,False,🔴 Tier 3 — Yüksek risk

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/12 tuttu** (isabet %8, beklenen %17) · -7.66 birim · 2 tahmin sonuç bekliyor
+**2/13 tuttu** (isabet %15, beklenen %17) · -4.39 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:45 · Kolombiya – Peru**
 
-- ⏳ 2-0 · @4.27
+- ✅ 2-0 · @4.27 · 2-0
 
 ## 06.10.2026 Salı
 

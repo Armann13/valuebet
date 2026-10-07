@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/59 tuttu** (isabet %15, beklenen %12) · +1.38 birim · 3 tahmin sonuç bekliyor
+**10/62 tuttu** (isabet %16, beklenen %12) · +4.33 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,12 +10,12 @@
 
 **02:00 · Arjantin – Benin**
 
-- ⏳ 3-0 · @5.95
-- ⏳ 3-1 · @33.50
+- ✅ 3-0 · @5.95 · 3-0
+- ❌ 3-1 · @33.50 · 3-0
 
 **03:00 · ABD – Kanada**
 
-- ⏳ 2-1 · @6.63
+- ❌ 2-1 · @6.63 · 1-0
 
 ## 06.10.2026 Salı
 
