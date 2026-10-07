@@ -1,10 +1,10 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
-Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7667208630895815,1.25,-0.041598921138023104,False,0,False,🟢 Tier 1 — Düşük risk
+Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7667208630895814,1.25,-0.041598921138023215,False,0,False,🟢 Tier 1 — Düşük risk
 Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,MS 1,0.6608640539508239,1.43,-0.05496440285032178,False,0,False,🟡 Tier 2 — Orta risk
-Rizespor – Fenerbahçe,T1,10.10,19:00,2026-10-10 19:00,2026-10-10,1,oran,,,T1,Rizespor,Fenerbahce,MS 2,0.5879850193720326,1.59,-0.06510381919846808,False,0,False,🟡 Tier 2 — Orta risk
-Manchester United – Tottenham,E0,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,E0,Man United,Tottenham,MS 1,0.5804147583081157,1.61,-0.06553223912393358,False,0,False,🟡 Tier 2 — Orta risk
+Rizespor – Fenerbahçe,T1,10.10,19:00,2026-10-10 19:00,2026-10-10,1,oran,,,T1,Rizespor,Fenerbahce,MS 2,0.5879850193720328,1.59,-0.06510381919846775,False,0,False,🟡 Tier 2 — Orta risk
+Manchester United – Tottenham,E0,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,E0,Man United,Tottenham,MS 1,0.5804147583081156,1.61,-0.0655322391239338,False,0,False,🟡 Tier 2 — Orta risk
 Eyüpspor – Göztepe,T1,12.10,20:00,2026-10-12 20:00,2026-10-12,1,oran,,,T1,Eyupspor,Goztep,MS 2,0.5154386053189349,1.79,-0.07736489647910649,False,0,False,🟡 Tier 2 — Orta risk
 Samsunspor – Trabzonspor,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Samsunspor,Trabzonspor,MS 2,0.5010444306716619,1.84,-0.07807824756414206,False,0,False,🟡 Tier 2 — Orta risk
-Alanyaspor – Erzurumspor FK,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Alanyaspor,Erzurumspor,MS 1,0.4859099357415056,1.89,-0.08163022144855447,False,0,False,🔴 Tier 3 — Yüksek risk
-Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,MS 2,0.37622489274834875,2.38,-0.10458475525892996,False,0,False,🔴 Tier 3 — Yüksek risk
+Alanyaspor – Erzurumspor FK,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Alanyaspor,Erzurumspor,MS 1,0.4859099357415055,1.89,-0.0816302214485547,False,0,False,🔴 Tier 3 — Yüksek risk
+Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,MS 2,0.3762248927483487,2.38,-0.10458475525893018,False,0,False,🔴 Tier 3 — Yüksek risk
 Gaziantep FK – Çorum FK,T1,11.10,16:00,2026-10-11 16:00,2026-10-11,1,oran,,,T1,Gaziantep,Corum,MS 2,0.36416313467885886,2.45,-0.10780032003679574,False,0,False,🔴 Tier 3 — Yüksek risk
