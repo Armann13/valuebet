@@ -1,7 +1,7 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
 Augsburg – Bayern Münih,D1,10.10,16:30,2026-10-10 16:30,2026-10-10,1,oran,,,D1,Augsburg,Bayern Munich,MS 2 & 2.5 Üst,0.8251994665648842,1.21,-0.0015086454564902096,False,0.0,False,🟢 Tier 1 — Düşük risk
 Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,2.5 Üst,0.789889137253303,1.2,-0.05213303529603641,False,0.0,False,🟢 Tier 1 — Düşük risk
-B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1,0.7667029578401688,1.25,-0.04162130269978892,False,0.0,False,🟢 Tier 1 — Düşük risk
+B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1,0.7724177067591443,1.24,-0.04220204361866098,False,0.0,False,🟢 Tier 1 — Düşük risk
 Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1,0.7602372194579043,1.26,-0.042101103483040525,False,0.0,False,🟢 Tier 1 — Düşük risk
 Samsunspor – Trabzonspor,T1,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,T1,Samsunspor,Trabzonspor,ÇŞ 1-2,0.7521559556052877,1.2,-0.09741285327365479,False,0.0,False,🟢 Tier 1 — Düşük risk
 Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,ÇŞ 1-2,0.7496649556751677,1.2,-0.10040205318979878,False,0.0,False,🟢 Tier 1 — Düşük risk
@@ -19,7 +19,7 @@ Atalanta – Venezia,I1,12.10,19:30,2026-10-12 19:30,2026-10-12,1,oran,,,I1,Atal
 Cagliari – Juventus,I1,11.10,21:45,2026-10-11 21:45,2026-10-11,1,oran,,,I1,Cagliari,Juventus,MS 2,0.6501163848861592,1.45,-0.05733124191506922,False,0.0,False,🟡 Tier 2 — Orta risk
 Lazio – AC Monza,I1,11.10,16:00,2026-10-11 16:00,2026-10-11,1,oran,,,I1,Lazio,Monza,MS 1,0.646316094762008,1.46,-0.05637850164746827,False,0.0,False,🟡 Tier 2 — Orta risk
 Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1 & 2.5 Üst,0.6418359297136144,1.5,-0.03724610542957851,False,0.0,True,🟡 Tier 2 — Orta risk
-B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1 & 2.5 Üst,0.5997201721007347,1.59,-0.04644492635983177,False,0.0,True,🟡 Tier 2 — Orta risk
+B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1 & 2.5 Üst,0.6032706273470736,1.58,-0.04683240879162365,False,0.0,True,🟡 Tier 2 — Orta risk
 Augsburg – Bayern Münih,D1,10.10,16:30,2026-10-10 16:30,2026-10-10,1,oran,,,D1,Augsburg,Bayern Munich,MS 2 & KG Var,0.5740636605630351,1.72,-0.012610503831579578,False,0.0,True,🟡 Tier 2 — Orta risk
 Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,MS 1 & 2.5 Üst,0.5555745610887514,1.72,-0.044411754927347724,False,0.0,True,🟡 Tier 2 — Orta risk
 Empoli – US Palermo,I2,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran,,,I2,Empoli,Palermo,MS 2,0.5013489143338464,1.84,-0.07751799762572253,False,0.0,True,🟡 Tier 2 — Orta risk
@@ -37,7 +37,7 @@ Virtus Entella – Juve Stabia,I2,10.10,16:00,2026-10-10 16:00,2026-10-10,1,oran
 Derby County – Wrexham,E1,10.10,17:00,2026-10-10 17:00,2026-10-10,1,oran,,,E1,Derby,Wrexham,KG Yok,0.47769184063687775,1.88,-0.10193933960266988,False,0.0,False,🔴 Tier 3 — Yüksek risk
 Real Madrid – Villarreal,SP1,10.10,22:00,2026-10-10 22:00,2026-10-10,1,oran,,,SP1,Real Madrid,Villarreal,MS 1 & KG Var,0.4688955827537406,2.07,-0.029386143699757006,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Leipzig – Eintracht Frankfurt,D1,10.10,19:30,2026-10-10 19:30,2026-10-10,1,oran,,,D1,RB Leipzig,Ein Frankfurt,MS 1 & KG Var,0.4359256787606066,2.22,-0.03224499315145324,False,0.0,True,🔴 Tier 3 — Yüksek risk
-B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1 & KG Var,0.40193394283591927,2.33,-0.06349391319230813,False,0.0,True,🔴 Tier 3 — Yüksek risk
+B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,MS 1 & KG Var,0.40431346672457674,2.33,-0.05794962253173619,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Liverpool – Manchester City,E0,11.10,18:30,2026-10-11 18:30,2026-10-11,1,oran,,,E0,Liverpool,Man City,MS 2,0.3774940085867909,2.37,-0.1053391996493056,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Heidenheim – Kaiserslautern,D2,09.10,19:30,2026-10-09 19:30,2026-10-09,1,korner,,,D2,Heidenheim,Kaiserslautern,Korner 9.5 Alt,0.4593598601617014,2.17,-0.003189103449108055,False,0.0,True,🔴 Tier 3 — Yüksek risk
 B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,korner,,,D1,Dortmund,Werder Bremen,Korner 8.5 Alt,0.42196809457167184,2.14,-0.09698827761662221,False,0.0,True,🔴 Tier 3 — Yüksek risk
@@ -108,8 +108,8 @@ Ipswich Town – Fulham,E0,10.10,17:00,2026-10-10 17:00,2026-10-10,1,oran,,,E0,I
 Santander – Valencia,SP1,11.10,22:00,2026-10-11 22:00,2026-10-11,1,oran,,,SP1,Santander,Valencia,1-1,0.12031957504343664,5.93,-0.2865049199924208,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Preston – Millwall,E1,10.10,17:00,2026-10-10 17:00,2026-10-10,1,oran,,,E1,Preston,Millwall,1-1,0.12017625347141865,5.59,-0.3282147430947697,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Nantes – Reims,F2,10.10,15:00,2026-10-10 15:00,2026-10-10,1,oran,,,F2,Nantes,Reims,2-1,0.12010817427723244,7.93,-0.04754217798154681,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,2-1,0.11999756234153226,7.74,-0.07121886747654027,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Sunderland – Brighton,E0,10.10,17:00,2026-10-10 17:00,2026-10-10,1,oran,,,E0,Sunderland,Brighton,1-1,0.11970622935376947,5.67,-0.3212656795641271,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-B. Dortmund – Werder Bremen,D1,09.10,21:30,2026-10-09 21:30,2026-10-09,1,oran,,,D1,Dortmund,Werder Bremen,2-1,0.11929133539221615,7.73,-0.07787797741816915,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Galatasaray – Kasımpaşa,T1,09.10,20:00,2026-10-09 20:00,2026-10-09,1,oran,,,T1,Galatasaray,Kasimpasa,2-0,0.11886021730943455,6.46,-0.23216299618105285,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 AS Nancy – Guingamp,F2,09.10,21:00,2026-10-09 21:00,2026-10-09,1,oran,,,F2,Nancy,Guingamp,1-1,0.11805785240324056,5.75,-0.32116734868136676,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Eyüpspor – Göztepe,T1,12.10,20:00,2026-10-12 20:00,2026-10-12,1,oran,,,T1,Eyupspor,Goztep,1-2,0.1178120354047341,7.72,-0.0904910866754528,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
