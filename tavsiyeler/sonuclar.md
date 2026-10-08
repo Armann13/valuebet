@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 08.10.2026 18:59. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 08.10.2026 20:55. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -13,7 +13,7 @@ Son güncelleme: 08.10.2026 18:59. Sadece Telegram'da gönderilen tahminler (ilk
 | [🔴 Tier 3](sonuclar/tier3.md) | 62 | 55 | 25 | %45 | %47 | -6.41 | %-12 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 20 | 15 | 2 | %13 | %30 | -9.77 | %-65 |
 | [⚡ Tier 5](sonuclar/tier5.md) | 15 | 14 | 2 | %14 | %17 | -5.39 | %-39 |
-| [🔥 Tier 6](sonuclar/tier6.md) | 69 | 62 | 10 | %16 | %12 | +4.33 | %7 |
+| [🔥 Tier 6](sonuclar/tier6.md) | 70 | 62 | 10 | %16 | %12 | +4.33 | %7 |
 | [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 123 | 107 | 63 | %59 | %62 | -15.20 | %-14 |
 | [🎰 Sistem ayakları](sonuclar/sistem.md) | 91 | 84 | 47 | %56 | %66 | -16.81 | %-20 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 1 | 1 | 1 | %100 | %37 | +1.84 | %184 |
@@ -49,4 +49,4 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 05.10.2026 | 70 | 70 | 21 | %30 | %55 | -39.03 |
 | 06.10.2026 | 93 | 91 | 48 | %53 | %50 | -4.22 |
 | 07.10.2026 | 12 | 12 | 5 | %42 | %51 | -4.12 |
-| 09.10.2026 | 37 | 0 | 0 | — | — | — |
+| 09.10.2026 | 38 | 0 | 0 | — | — | — |
