@@ -2,9 +2,51 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**63/107 tuttu** (isabet %59, beklenen %62) · -15.20 birim
+**63/107 tuttu** (isabet %59, beklenen %62) · -15.20 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.10.2026 Cuma
+
+**19:30 · Heidenheim – Kaiserslautern**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.43
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.17
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
+
+**19:30 · Braunschweig – Holstein Kiel**
+
+- ⏳ 🔴 En çok korner 2 · @1.97
+
+**20:45 · Moreirense – Gil Vicente**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
+- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.24
+- ⏳ 🟣 ↳ Korner 6.5 Alt · @3.15
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.40
+
+**21:00 · PSV – Heerenveen**
+
+- ⏳ 🟡 Korner 11.5 Alt · @1.53
+- ⏳ 🎰 Korner 11.5 Alt · @1.53
+
+**21:30 · B. Dortmund – Werder Bremen**
+
+- ⏳ 🟣 Korner 7.5 Alt · @2.90
+
+**21:45 · SK Beveren – Lommel SK**
+
+- ⏳ 🟢 En çok korner 1 · @1.28
+
+**22:00 · West Ham – Queens Park Rangers**
+
+- ⏳ 🎰 En çok korner 1 · @1.32
+
+**22:00 · Malaga CF – Espanyol**
+
+- ⏳ 🎰 Korner 8.5 Üst · @1.55
 
 ## 07.10.2026 Çarşamba
 

@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim
+**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.10.2026 Cuma
+
+**19:30 · Heidenheim – Kaiserslautern**
+
+- ⏳ Korner 12.5 Alt · @1.25
+
+**20:45 · Moreirense – Gil Vicente**
+
+- ⏳ Korner 10.5 Alt · @1.21
+
+**21:00 · PSV – Heerenveen**
+
+- ⏳ MS 1 & 2.5 Üst · @1.27
+
+**21:30 · B. Dortmund – Werder Bremen**
+
+- ⏳ MS 1 · @1.25
+
+**21:45 · SK Beveren – Lommel SK**
+
+- ⏳ En çok korner 1 · @1.28
 
 ## 07.10.2026 Çarşamba
 

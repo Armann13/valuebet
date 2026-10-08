@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/13 tuttu** (isabet %15, beklenen %17) · -4.39 birim · 1 tahmin sonuç bekliyor
+**2/14 tuttu** (isabet %14, beklenen %17) · -5.39 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.10.2026 Cuma
+
+**21:00 · Montpellier – Grenoble**
+
+- ⏳ 1-0 · @5.39
 
 ## 07.10.2026 Çarşamba
 
@@ -74,4 +80,4 @@
 
 **Japonya – Ekvador**
 
-- ⏳ 2-1 · @6.52
+- ❌ 2-1 · @6.52 · 0-0
