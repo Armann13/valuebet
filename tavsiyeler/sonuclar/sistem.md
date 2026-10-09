@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**47/84 tuttu** (isabet %56, beklenen %66) · -16.81 birim · 15 tahmin sonuç bekliyor
+**47/86 tuttu** (isabet %55, beklenen %66) · -18.81 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,8 +23,8 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 09.10 19:30 Heidenheim – Kaiserslautern · ↳ Korner 11.5 Alt · @1.43
-- ⏳ 09.10 19:30 Braunschweig – Holstein Kiel · 2.5 Üst · @1.41
+- ❌ 09.10 19:30 Heidenheim – Kaiserslautern · ↳ Korner 11.5 Alt · @1.43 · korner 7-8
+- ❌ 09.10 19:30 Braunschweig – Holstein Kiel · 2.5 Üst · @1.41 · 1-0
 - ⏳ 09.10 20:45 Moreirense – Gil Vicente · ↳ Korner 9.5 Alt · @1.40
 - ⏳ 09.10 21:00 PSV – Heerenveen · Korner 11.5 Alt · @1.53
 - ⏳ 09.10 21:30 B. Dortmund – Werder Bremen · ↳ MS 1 & 2.5 Üst · @1.59

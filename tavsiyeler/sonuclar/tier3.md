@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/55 tuttu** (isabet %45, beklenen %47) · -6.41 birim · 13 tahmin sonuç bekliyor
+**26/57 tuttu** (isabet %46, beklenen %47) · -6.44 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,11 +36,11 @@
 
 **19:30 · Braunschweig – Holstein Kiel**
 
-- ⏳ En çok korner 2 · @1.97
+- ✅ En çok korner 2 · @1.97 · korner 2-3
 
 **19:30 · Heidenheim – Kaiserslautern**
 
-- ⏳ ↳ Korner 9.5 Alt · @2.17
+- ❌ ↳ Korner 9.5 Alt · @2.17 · korner 7-8
 
 **20:45 · Moreirense – Gil Vicente**
 

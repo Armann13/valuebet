@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim · 12 tahmin sonuç bekliyor
+**40/51 tuttu** (isabet %78, beklenen %77) · -2.90 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,7 +37,7 @@
 
 **19:30 · Heidenheim – Kaiserslautern**
 
-- ⏳ Korner 12.5 Alt · @1.25
+- ❌ Korner 12.5 Alt · @1.25 · korner 7-8
 
 **20:45 · Moreirense – Gil Vicente**
 
