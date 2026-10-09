@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/14 tuttu** (isabet %14, beklenen %17) · -5.39 birim · 3 tahmin sonuç bekliyor
+**2/15 tuttu** (isabet %13, beklenen %17) · -6.39 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,15 @@
 
 - ⏳ 0-1 · @5.07
 
+**21:00 · Fortuna Sittard – Twente**
+
+- ⏳ 1-2 · @7.71
+
 ## 09.10.2026 Cuma
 
 **21:00 · Montpellier – Grenoble**
 
-- ⏳ 1-0 · @5.39
+- ❌ 1-0 · @5.39 · 2-0
 
 ## 07.10.2026 Çarşamba
 

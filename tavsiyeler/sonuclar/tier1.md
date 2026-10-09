@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/51 tuttu** (isabet %78, beklenen %77) · -2.90 birim · 11 tahmin sonuç bekliyor
+**41/53 tuttu** (isabet %77, beklenen %77) · -3.69 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,10 @@
 
 - ⏳ MS 2 & 2.5 Üst · @1.21
 - ⏳ Korner 12.5 Alt · @1.22
+
+**16:30 · Paderborn – Stuttgart**
+
+- ⏳ 2.5 Üst · @1.25
 
 **17:00 · Sheffield United – Lincoln City**
 
@@ -33,6 +37,10 @@
 
 - ⏳ MS 1 · @1.22
 
+**22:00 · Real Madrid – Villarreal**
+
+- ⏳ MS 1 · @1.26
+
 ## 09.10.2026 Cuma
 
 **19:30 · Heidenheim – Kaiserslautern**
@@ -41,11 +49,11 @@
 
 **20:45 · Moreirense – Gil Vicente**
 
-- ⏳ Korner 10.5 Alt · @1.21
+- ✅ Korner 10.5 Alt · @1.21 · korner 4-3
 
 **21:00 · PSV – Heerenveen**
 
-- ⏳ MS 1 & 2.5 Üst · @1.27
+- ❌ MS 1 & 2.5 Üst · @1.27 · 2-0
 
 **21:30 · B. Dortmund – Werder Bremen**
 

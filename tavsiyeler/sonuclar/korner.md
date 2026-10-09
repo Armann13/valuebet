@@ -2,15 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/112 tuttu** (isabet %57, beklenen %62) · -18.23 birim · 27 tahmin sonuç bekliyor
+**70/119 tuttu** (isabet %59, beklenen %61) · -15.92 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 10.10.2026 Cumartesi
 
+**14:00 · Darmstadt 98 – E. Cottbus**
+
+- ⏳ 🎰 En çok korner 2 · @1.99
+
 **16:00 · Alanyaspor – Erzurumspor FK**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 
 **16:30 · Augsburg – Bayern Münih**
@@ -19,10 +24,12 @@
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
 
 **17:00 · Sheffield United – Lincoln City**
 
 - ⏳ 🟢 En çok korner 1 · @1.53
+- ⏳ 🎰 En çok korner 1 · @1.53
 - ⏳ 🎰 En çok korner 1 · @1.53
 
 **17:00 · Derby County – Wrexham**
@@ -35,9 +42,14 @@
 
 - ⏳ 🔴 En çok korner 1 · @2.19
 
+**17:00 · Cercle Brugge – Anderlecht**
+
+- ⏳ 🔴 En çok korner 1 · @1.97
+
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 
 **19:45 · Feyenoord – AZ Alkmaar**
@@ -63,16 +75,16 @@
 
 **20:45 · Moreirense – Gil Vicente**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
-- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.24
-- ⏳ 🟣 ↳ Korner 6.5 Alt · @3.15
-- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.40
+- ✅ 🟢 Korner 10.5 Alt · @1.21 · korner 4-3
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.40 · korner 4-3
+- ✅ 🔴 ↳ Korner 7.5 Alt · @2.24 · korner 4-3
+- ❌ 🟣 ↳ Korner 6.5 Alt · @3.15 · korner 4-3
+- ✅ 🎰 ↳ Korner 9.5 Alt · @1.40 · korner 4-3
 
 **21:00 · PSV – Heerenveen**
 
-- ⏳ 🟡 Korner 11.5 Alt · @1.53
-- ⏳ 🎰 Korner 11.5 Alt · @1.53
+- ✅ 🟡 Korner 11.5 Alt · @1.53 · korner 4-6
+- ✅ 🎰 Korner 11.5 Alt · @1.53 · korner 4-6
 
 **21:30 · B. Dortmund – Werder Bremen**
 

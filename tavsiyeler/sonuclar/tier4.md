@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/17 tuttu** (isabet %12, beklenen %30) · -11.77 birim · 10 tahmin sonuç bekliyor
+**2/18 tuttu** (isabet %11, beklenen %30) · -12.77 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 10.10.2026 Cumartesi
+
+**14:30 · Altrincham – Aldershot**
+
+- ⏳ MS 1 & 2.5 Üst · @2.36
 
 **15:00 · Vallecano – Athletic Bilbao**
 
@@ -23,6 +27,18 @@
 **17:00 · Derby County – Wrexham**
 
 - ⏳ ↳ Korner 8.5 Alt · @3.04
+
+**17:00 · Leicester City – Peterborough**
+
+- ⏳ KG Yok · @2.30
+
+**17:00 · Montrose – Ross County**
+
+- ⏳ MS 2 & KG Var · @2.50
+
+**17:00 · Aston Villa – Brentford**
+
+- ⏳ MS 2 · @2.38
 
 **19:45 · Feyenoord – AZ Alkmaar**
 
@@ -44,7 +60,7 @@
 
 **20:45 · Moreirense – Gil Vicente**
 
-- ⏳ ↳ Korner 6.5 Alt · @3.15
+- ❌ ↳ Korner 6.5 Alt · @3.15 · korner 4-3
 
 **21:30 · B. Dortmund – Werder Bremen**
 

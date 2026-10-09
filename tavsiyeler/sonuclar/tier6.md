@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/66 tuttu** (isabet %15, beklenen %12) · +0.33 birim · 25 tahmin sonuç bekliyor
+**11/68 tuttu** (isabet %16, beklenen %12) · +4.29 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,9 +12,17 @@
 
 - ⏳ 1-0 · @7.06
 
+**14:30 · Altrincham – Aldershot**
+
+- ⏳ 2-1 · @6.75
+
 **15:00 · Vallecano – Athletic Bilbao**
 
 - ⏳ 0-1 · @8.04
+
+**15:00 · Clermont – Red Star FC**
+
+- ⏳ 0-1 · @6.67
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
@@ -31,6 +39,10 @@
 **16:30 · Union Berlin – Elversberg**
 
 - ⏳ 2-1 · @8.60
+
+**16:30 · Paderborn – Stuttgart**
+
+- ⏳ 1-2 · @7.94
 
 **17:00 · Derby County – Wrexham**
 
@@ -55,6 +67,18 @@
 **17:00 · Bolton – Stoke City**
 
 - ⏳ 1-2 · @8.73
+
+**17:00 · Cercle Brugge – Anderlecht**
+
+- ⏳ 1-2 · @7.79
+
+**17:00 · Aston Villa – Brentford**
+
+- ⏳ 1-2 · @8.73
+
+**17:00 · Leicester City – Peterborough**
+
+- ⏳ 3-0 · @10.70
 
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
@@ -98,11 +122,11 @@
 
 **20:45 · Moreirense – Gil Vicente**
 
-- ⏳ 0-1 · @5.96
+- ✅ 0-1 · @5.96 · 0-1
 
 **21:00 · PSV – Heerenveen**
 
-- ⏳ 3-1 · @9.10
+- ❌ 3-1 · @9.10 · 2-0
 
 **21:30 · B. Dortmund – Werder Bremen**
 

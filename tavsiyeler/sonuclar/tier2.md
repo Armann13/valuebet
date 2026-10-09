@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/66 tuttu** (isabet %65, beklenen %64) · -4.09 birim · 13 tahmin sonuç bekliyor
+**45/69 tuttu** (isabet %65, beklenen %64) · -4.16 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,6 +24,10 @@
 
 - ⏳ ↳ MS 2 & KG Var · @1.73
 - ⏳ ↳ Korner 11.5 Alt · @1.40
+
+**17:00 · Clyde Bank – Dumbarton**
+
+- ⏳ MS 1 · @1.44
 
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
@@ -49,12 +53,12 @@
 
 **20:45 · Moreirense – Gil Vicente**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.40
+- ✅ ↳ Korner 9.5 Alt · @1.40 · korner 4-3
 
 **21:00 · PSV – Heerenveen**
 
-- ⏳ ↳ MS 1 & KG Var · @1.73
-- ⏳ Korner 11.5 Alt · @1.53
+- ❌ ↳ MS 1 & KG Var · @1.73 · 2-0
+- ✅ Korner 11.5 Alt · @1.53 · korner 4-6
 
 **21:30 · B. Dortmund – Werder Bremen**
 
