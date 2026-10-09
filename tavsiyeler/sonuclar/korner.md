@@ -2,9 +2,51 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**63/107 tuttu** (isabet %59, beklenen %62) · -15.20 birim · 16 tahmin sonuç bekliyor
+**63/107 tuttu** (isabet %59, beklenen %62) · -15.20 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**16:00 · Alanyaspor – Erzurumspor FK**
+
+- ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
+
+**16:30 · Augsburg – Bayern Münih**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
+
+**17:00 · Sheffield United – Lincoln City**
+
+- ⏳ 🟢 En çok korner 1 · @1.53
+- ⏳ 🎰 En çok korner 1 · @1.53
+
+**17:00 · Derby County – Wrexham**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.27
+- ⏳ 🟣 ↳ Korner 8.5 Alt · @3.04
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.47
+
+**17:00 · Preston – Millwall**
+
+- ⏳ 🔴 En çok korner 1 · @2.19
+
+**17:30 · Go Ahead Eagles – Sparta Rotterdam**
+
+- ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
+
+**19:45 · Feyenoord – AZ Alkmaar**
+
+- ⏳ 🟣 Korner 8.5 Alt · @3.23
+
+**21:45 · Paris Saint Germain – Le Mans**
+
+- ⏳ 🟣 Korner 11.5 Üst · @2.72
 
 ## 09.10.2026 Cuma
 

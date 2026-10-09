@@ -2,9 +2,87 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/62 tuttu** (isabet %16, beklenen %12) · +4.33 birim · 8 tahmin sonuç bekliyor
+**10/62 tuttu** (isabet %16, beklenen %12) · +4.33 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**14:30 · West Bromwich – Birmingham**
+
+- ⏳ 1-0 · @7.06
+
+**15:00 · Vallecano – Athletic Bilbao**
+
+- ⏳ 0-1 · @8.04
+
+**16:00 · Alanyaspor – Erzurumspor FK**
+
+- ⏳ 1-1 · @5.41
+
+**16:30 · Hoffenheim – Hamburg**
+
+- ⏳ 2-1 · @7.64
+
+**16:30 · Augsburg – Bayern Münih**
+
+- ⏳ 1-2 · @10.55
+
+**16:30 · Union Berlin – Elversberg**
+
+- ⏳ 2-1 · @8.60
+
+**17:00 · Derby County – Wrexham**
+
+- ⏳ 1-1 · @5.35
+
+**17:00 · Sheffield United – Lincoln City**
+
+- ⏳ 1-1 · @5.51
+
+**17:00 · York City – Northampton**
+
+- ⏳ 1-0 · @5.69
+
+**17:00 · Preston – Millwall**
+
+- ⏳ 1-1 · @5.61
+
+**17:00 · Dundee Utd – Hibernian**
+
+- ⏳ 1-2 · @8.53
+
+**17:00 · Bolton – Stoke City**
+
+- ⏳ 1-2 · @8.73
+
+**17:30 · Go Ahead Eagles – Sparta Rotterdam**
+
+- ⏳ 2-1 · @8.00
+
+**18:15 · Lille – Le Havre**
+
+- ⏳ 2-1 · @7.38
+
+**19:30 · Leipzig – Eintracht Frankfurt**
+
+- ⏳ 2-1 · @8.28
+
+**19:45 · Feyenoord – AZ Alkmaar**
+
+- ⏳ 2-1 · @8.05
+
+**21:45 · Paris Saint Germain – Le Mans**
+
+- ⏳ 3-0 · @6.42
+
+**22:00 · Ajax – NEC Nijmegen**
+
+- ⏳ 2-1 · @8.17
+
+**22:00 · Real Madrid – Villarreal**
+
+- ⏳ 2-1 · @8.23
 
 ## 09.10.2026 Cuma
 
@@ -16,6 +94,7 @@
 
 - ⏳ 1-2 · @8.69
 - ⏳ 1-1 · @6.47
+- ⏳ 2-1 · @9.19
 
 **20:45 · Moreirense – Gil Vicente**
 
@@ -36,6 +115,10 @@
 **22:00 · West Ham – Queens Park Rangers**
 
 - ⏳ 2-1 · @7.36
+
+**22:00 · Malaga CF – Espanyol**
+
+- ⏳ 0-1 · @7.52
 
 ## 07.10.2026 Çarşamba
 

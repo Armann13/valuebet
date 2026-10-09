@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/14 tuttu** (isabet %14, beklenen %17) · -5.39 birim · 1 tahmin sonuç bekliyor
+**2/14 tuttu** (isabet %14, beklenen %17) · -5.39 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**17:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ 0-1 · @5.19
+
+**20:00 · Maritimo – Porto**
+
+- ⏳ 0-1 · @5.07
 
 ## 09.10.2026 Cuma
 

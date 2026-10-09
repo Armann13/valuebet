@@ -2,9 +2,36 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim · 5 tahmin sonuç bekliyor
+**40/50 tuttu** (isabet %80, beklenen %77) · -1.90 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**16:30 · Augsburg – Bayern Münih**
+
+- ⏳ MS 2 & 2.5 Üst · @1.21
+- ⏳ Korner 12.5 Alt · @1.22
+
+**17:00 · Sheffield United – Lincoln City**
+
+- ⏳ En çok korner 1 · @1.53
+
+**17:00 · Derby County – Wrexham**
+
+- ⏳ Korner 12.5 Alt · @1.27
+
+**19:30 · Leipzig – Eintracht Frankfurt**
+
+- ⏳ 2.5 Üst · @1.20
+
+**20:00 · Maritimo – Porto**
+
+- ⏳ MS 2 · @1.24
+
+**22:00 · Ajax – NEC Nijmegen**
+
+- ⏳ MS 1 · @1.22
 
 ## 09.10.2026 Cuma
 

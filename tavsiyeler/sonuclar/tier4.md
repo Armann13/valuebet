@@ -2,9 +2,35 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/15 tuttu** (isabet %13, beklenen %30) · -9.77 birim · 5 tahmin sonuç bekliyor
+**2/15 tuttu** (isabet %13, beklenen %30) · -9.77 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**15:00 · Vallecano – Athletic Bilbao**
+
+- ⏳ MS 2 · @2.39
+
+**17:00 · Bolton – Stoke City**
+
+- ⏳ MS 2 · @2.38
+
+**17:00 · Dundee Utd – Hibernian**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.27
+
+**17:00 · Derby County – Wrexham**
+
+- ⏳ ↳ Korner 8.5 Alt · @3.04
+
+**19:45 · Feyenoord – AZ Alkmaar**
+
+- ⏳ Korner 8.5 Alt · @3.23
+
+**21:45 · Paris Saint Germain – Le Mans**
+
+- ⏳ Korner 11.5 Üst · @2.72
 
 ## 09.10.2026 Cuma
 
@@ -27,6 +53,10 @@
 **22:00 · West Ham – Queens Park Rangers**
 
 - ⏳ ↳ MS 1 & KG Var · @2.70
+
+**22:00 · Malaga CF – Espanyol**
+
+- ⏳ MS 2 · @2.38
 
 ## 07.10.2026 Çarşamba
 

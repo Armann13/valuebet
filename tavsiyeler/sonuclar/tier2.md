@@ -2,9 +2,40 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/64 tuttu** (isabet %67, beklenen %64) · -2.09 birim · 7 tahmin sonuç bekliyor
+**43/64 tuttu** (isabet %67, beklenen %64) · -2.09 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**16:00 · Alanyaspor – Erzurumspor FK**
+
+- ⏳ En çok korner 1 · @1.41
+
+**16:30 · Hoffenheim – Hamburg**
+
+- ⏳ KG Var · @1.47
+
+**16:30 · Union Berlin – Elversberg**
+
+- ⏳ 2.5 Üst · @1.42
+
+**16:30 · Augsburg – Bayern Münih**
+
+- ⏳ ↳ MS 2 & KG Var · @1.73
+- ⏳ ↳ Korner 11.5 Alt · @1.40
+
+**17:30 · Go Ahead Eagles – Sparta Rotterdam**
+
+- ⏳ En çok korner 1 · @1.41
+
+**22:00 · Ajax – NEC Nijmegen**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.47
+
+**22:00 · Real Madrid – Villarreal**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.52
 
 ## 09.10.2026 Cuma
 

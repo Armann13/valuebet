@@ -2,9 +2,35 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/55 tuttu** (isabet %45, beklenen %47) · -6.41 birim · 7 tahmin sonuç bekliyor
+**25/55 tuttu** (isabet %45, beklenen %47) · -6.41 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10.2026 Cumartesi
+
+**14:30 · West Bromwich – Birmingham**
+
+- ⏳ KG Yok · @1.87
+
+**16:30 · Augsburg – Bayern Münih**
+
+- ⏳ ↳ Korner 9.5 Alt · @2.10
+
+**17:00 · York City – Northampton**
+
+- ⏳ KG Yok · @1.76
+
+**17:00 · Preston – Millwall**
+
+- ⏳ En çok korner 1 · @2.19
+
+**18:15 · Lille – Le Havre**
+
+- ⏳ MS 1 & 2.5 Üst · @1.87
+
+**20:00 · Maritimo – Porto**
+
+- ⏳ ↳ İY/MS 2/2 · @1.71
 
 ## 09.10.2026 Cuma
 
