@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/69 tuttu** (isabet %65, beklenen %64) · -4.16 birim · 11 tahmin sonuç bekliyor
+**45/71 tuttu** (isabet %63, beklenen %64) · -6.16 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -62,11 +62,11 @@
 
 **21:30 · B. Dortmund – Werder Bremen**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.59
+- ❌ ↳ MS 1 & 2.5 Üst · @1.59 · 2-2
 
 **22:00 · West Ham – Queens Park Rangers**
 
-- ⏳ MS 1 · @1.40
+- ❌ MS 1 · @1.40 · 1-1
 
 ## 07.10.2026 Çarşamba
 

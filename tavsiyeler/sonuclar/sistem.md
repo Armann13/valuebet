@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/88 tuttu** (isabet %56, beklenen %66) · -17.88 birim · 19 tahmin sonuç bekliyor
+**51/91 tuttu** (isabet %56, beklenen %65) · -18.01 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -34,15 +34,15 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 08.10 13:46 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**4/7 maç tuttu · 7 birim yatırıldı, 0.00 döndü (-7.00)** ❌
 
 - ❌ 09.10 19:30 Heidenheim – Kaiserslautern · ↳ Korner 11.5 Alt · @1.43 · korner 7-8
 - ❌ 09.10 19:30 Braunschweig – Holstein Kiel · 2.5 Üst · @1.41 · 1-0
 - ✅ 09.10 20:45 Moreirense – Gil Vicente · ↳ Korner 9.5 Alt · @1.40 · korner 4-3
 - ✅ 09.10 21:00 PSV – Heerenveen · Korner 11.5 Alt · @1.53 · korner 4-6
-- ⏳ 09.10 21:30 B. Dortmund – Werder Bremen · ↳ MS 1 & 2.5 Üst · @1.59
-- ⏳ 09.10 22:00 West Ham – Queens Park Rangers · En çok korner 1 · @1.32
-- ⏳ 09.10 22:00 Malaga CF – Espanyol · Korner 8.5 Üst · @1.55
+- ❌ 09.10 21:30 B. Dortmund – Werder Bremen · ↳ MS 1 & 2.5 Üst · @1.59 · 2-2
+- ✅ 09.10 22:00 West Ham – Queens Park Rangers · En çok korner 1 · @1.32 · korner 4-1
+- ✅ 09.10 22:00 Malaga CF – Espanyol · Korner 8.5 Üst · @1.55 · korner 8-2
 
 ## 06.10 19:03 gönderilen kupon · 8'de 7
 

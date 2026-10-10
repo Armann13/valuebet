@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/53 tuttu** (isabet %77, beklenen %77) · -3.69 birim · 11 tahmin sonuç bekliyor
+**42/55 tuttu** (isabet %76, beklenen %77) · -4.41 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -57,11 +57,11 @@
 
 **21:30 · B. Dortmund – Werder Bremen**
 
-- ⏳ MS 1 · @1.25
+- ❌ MS 1 · @1.25 · 2-2
 
 **21:45 · SK Beveren – Lommel SK**
 
-- ⏳ En çok korner 1 · @1.28
+- ✅ En çok korner 1 · @1.28 · korner 12-6
 
 ## 07.10.2026 Çarşamba
 

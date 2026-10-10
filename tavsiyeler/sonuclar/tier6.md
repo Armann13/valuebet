@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/68 tuttu** (isabet %16, beklenen %12) · +4.29 birim · 29 tahmin sonuç bekliyor
+**11/72 tuttu** (isabet %15, beklenen %12) · +0.29 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -130,19 +130,19 @@
 
 **21:30 · B. Dortmund – Werder Bremen**
 
-- ⏳ 2-1 · @7.74
+- ❌ 2-1 · @7.74 · 2-2
 
 **21:45 · SK Beveren – Lommel SK**
 
-- ⏳ 2-1 · @7.62
+- ❌ 2-1 · @7.62 · 1-3
 
 **22:00 · West Ham – Queens Park Rangers**
 
-- ⏳ 2-1 · @7.36
+- ❌ 2-1 · @7.36 · 1-1
 
 **22:00 · Malaga CF – Espanyol**
 
-- ⏳ 0-1 · @7.52
+- ❌ 0-1 · @7.52 · 1-1
 
 ## 07.10.2026 Çarşamba
 
