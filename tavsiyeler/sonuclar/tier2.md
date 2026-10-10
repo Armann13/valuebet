@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/71 tuttu** (isabet %63, beklenen %64) · -6.16 birim · 15 tahmin sonuç bekliyor
+**49/78 tuttu** (isabet %63, beklenen %64) · -6.74 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,16 +24,16 @@
 
 **16:30 · Hoffenheim – Hamburg**
 
-- ⏳ KG Var · @1.47
+- ✅ KG Var · @1.47 · 2-3
 
 **16:30 · Union Berlin – Elversberg**
 
-- ⏳ 2.5 Üst · @1.42
+- ❌ 2.5 Üst · @1.42 · 1-0
 
 **16:30 · Augsburg – Bayern Münih**
 
-- ⏳ ↳ MS 2 & KG Var · @1.73
-- ⏳ ↳ Korner 11.5 Alt · @1.40
+- ❌ ↳ MS 2 & KG Var · @1.73 · 2-2
+- ❌ ↳ Korner 11.5 Alt · @1.40 · korner 5-9
 
 **17:00 · Clyde Bank – Dumbarton**
 
@@ -41,7 +41,7 @@
 
 **17:00 · Inverness – Stenhousemuir**
 
-- ⏳ 2.5 Alt · @1.57
+- ✅ 2.5 Alt · @1.57 · 2-0
 
 **17:00 · Hearts – St Mirren**
 
@@ -49,11 +49,11 @@
 
 **17:00 · Rangers – Kilmarnock**
 
-- ⏳ KG Var · @1.97
+- ✅ KG Var · @1.97 · 3-1
 
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
-- ⏳ En çok korner 1 · @1.41
+- ✅ En çok korner 1 · @1.41 · korner 9-6
 
 **21:45 · Paris Saint Germain – Le Mans**
 

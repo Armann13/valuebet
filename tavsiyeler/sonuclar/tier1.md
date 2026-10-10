@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**42/55 tuttu** (isabet %76, beklenen %77) · -4.41 birim · 11 tahmin sonuç bekliyor
+**43/60 tuttu** (isabet %72, beklenen %77) · -8.14 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,20 +20,20 @@
 
 **16:30 · Augsburg – Bayern Münih**
 
-- ⏳ MS 2 & 2.5 Üst · @1.21
-- ⏳ Korner 12.5 Alt · @1.22
+- ❌ MS 2 & 2.5 Üst · @1.21 · 2-2
+- ❌ Korner 12.5 Alt · @1.22 · korner 5-9
 
 **16:30 · Paderborn – Stuttgart**
 
-- ⏳ 2.5 Üst · @1.25
+- ❌ 2.5 Üst · @1.25 · 0-2
 
 **17:00 · Sheffield United – Lincoln City**
 
-- ⏳ En çok korner 1 · @1.53
+- ❌ En çok korner 1 · @1.53 · korner 2-2
 
 **17:00 · Derby County – Wrexham**
 
-- ⏳ Korner 12.5 Alt · @1.27
+- ✅ Korner 12.5 Alt · @1.27 · korner 1-9
 
 **19:30 · Leipzig – Eintracht Frankfurt**
 

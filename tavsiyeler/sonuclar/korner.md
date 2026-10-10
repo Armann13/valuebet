@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/125 tuttu** (isabet %60, beklenen %61) · -13.79 birim · 30 tahmin sonuç bekliyor
+**81/144 tuttu** (isabet %56, beklenen %62) · -24.41 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -38,40 +38,40 @@
 
 **16:30 · Augsburg – Bayern Münih**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
-- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
-- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
-- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
+- ❌ 🟢 Korner 12.5 Alt · @1.22 · korner 5-9
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.40 · korner 5-9
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.10 · korner 5-9
+- ❌ 🎰 ↳ Korner 11.5 Alt · @1.40 · korner 5-9
+- ❌ 🎰 ↳ Korner 11.5 Alt · @1.40 · korner 5-9
+- ❌ 🎰 ↳ Korner 11.5 Alt · @1.40 · korner 5-9
 
 **17:00 · Sheffield United – Lincoln City**
 
-- ⏳ 🟢 En çok korner 1 · @1.53
-- ⏳ 🎰 En çok korner 1 · @1.53
-- ⏳ 🎰 En çok korner 1 · @1.53
-- ⏳ 🎰 En çok korner 1 · @1.53
+- ❌ 🟢 En çok korner 1 · @1.53 · korner 2-2
+- ❌ 🎰 En çok korner 1 · @1.53 · korner 2-2
+- ❌ 🎰 En çok korner 1 · @1.53 · korner 2-2
+- ❌ 🎰 En çok korner 1 · @1.53 · korner 2-2
 
 **17:00 · Derby County – Wrexham**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.27
-- ⏳ 🟣 ↳ Korner 8.5 Alt · @3.04
-- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.47
+- ✅ 🟢 Korner 12.5 Alt · @1.27 · korner 1-9
+- ❌ 🟣 ↳ Korner 8.5 Alt · @3.04 · korner 1-9
+- ✅ 🎰 ↳ Korner 11.5 Alt · @1.47 · korner 1-9
 
 **17:00 · Preston – Millwall**
 
-- ⏳ 🔴 En çok korner 1 · @2.19
+- ❌ 🔴 En çok korner 1 · @2.19 · korner 4-4
 
 **17:00 · Cercle Brugge – Anderlecht**
 
-- ⏳ 🔴 En çok korner 1 · @1.97
+- ❌ 🔴 En çok korner 1 · @1.97 · korner 5-5
 
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 9-6
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 9-6
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 9-6
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 9-6
 
 **19:45 · Feyenoord – AZ Alkmaar**
 

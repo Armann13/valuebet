@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/1 tuttu** (isabet %100, beklenen %37) · +1.84 birim · 17 tahmin sonuç bekliyor
+**5/5 tuttu** (isabet %100, beklenen %51) · +6.01 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,16 +40,16 @@
 
 **17:00 · Inverness – Stenhousemuir**
 
-- ⏳ 2.5 Alt · @1.57
-- ⏳ KG Yok · @1.65
+- ✅ 2.5 Alt · @1.57 · 2-0
+- ✅ KG Yok · @1.65 · 2-0
 
 **17:00 · Rangers – Kilmarnock**
 
-- ⏳ KG Var · @1.93
+- ✅ KG Var · @1.93 · 3-1
 
 **17:00 · Chelsea – Bournemouth**
 
-- ⏳ MS 1 & KG Var · @3.02
+- ✅ MS 1 & KG Var · @3.02 · 5-1
 
 **21:45 · Paris Saint Germain – Le Mans**
 

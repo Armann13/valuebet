@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/15 tuttu** (isabet %13, beklenen %17) · -6.39 birim · 6 tahmin sonuç bekliyor
+**2/17 tuttu** (isabet %12, beklenen %17) · -8.39 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **17:00 · Inverness – Stenhousemuir**
 
-- ⏳ 1-0 · @5.07
+- ❌ 1-0 · @5.07 · 2-0
 
 **17:00 · Raith Rovers – Queen's Park**
 
-- ⏳ 1-0 · @4.73
+- ❌ 1-0 · @4.73 · 2-0
 
 **17:30 · Casa Pia AC – Santa Clara**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/72 tuttu** (isabet %15, beklenen %12) · +0.29 birim · 39 tahmin sonuç bekliyor
+**14/93 tuttu** (isabet %15, beklenen %12) · +1.16 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,11 +40,11 @@
 
 **14:30 · West Bromwich – Birmingham**
 
-- ⏳ 1-0 · @7.06
+- ❌ 1-0 · @7.06 · 0-1
 
 **14:30 · Altrincham – Aldershot**
 
-- ⏳ 2-1 · @6.75
+- ❌ 2-1 · @6.75 · 3-1
 
 **15:00 · Vallecano – Athletic Bilbao**
 
@@ -52,7 +52,7 @@
 
 **15:00 · Clermont – Red Star FC**
 
-- ⏳ 0-1 · @6.67
+- ❌ 0-1 · @6.67 · 2-3
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
@@ -60,55 +60,55 @@
 
 **16:30 · Hoffenheim – Hamburg**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 2-3
 
 **16:30 · Augsburg – Bayern Münih**
 
-- ⏳ 1-2 · @10.55
+- ❌ 1-2 · @10.55 · 2-2
 
 **16:30 · Union Berlin – Elversberg**
 
-- ⏳ 2-1 · @8.60
+- ❌ 2-1 · @8.60 · 1-0
 
 **16:30 · Paderborn – Stuttgart**
 
-- ⏳ 1-2 · @7.94
+- ❌ 1-2 · @7.94 · 0-2
 
 **17:00 · Derby County – Wrexham**
 
-- ⏳ 1-1 · @5.35
+- ✅ 1-1 · @5.35 · 1-1
 
 **17:00 · Sheffield United – Lincoln City**
 
-- ⏳ 1-1 · @5.51
+- ❌ 1-1 · @5.51 · 3-0
 
 **17:00 · York City – Northampton**
 
-- ⏳ 1-0 · @5.69
+- ❌ 1-0 · @5.69 · 1-1
 
 **17:00 · Preston – Millwall**
 
-- ⏳ 1-1 · @5.61
+- ❌ 1-1 · @5.61 · 0-1
 
 **17:00 · Dundee Utd – Hibernian**
 
-- ⏳ 1-2 · @8.53
+- ❌ 1-2 · @8.53 · 1-0
 
 **17:00 · Bolton – Stoke City**
 
-- ⏳ 1-2 · @8.73
+- ✅ 1-2 · @8.73 · 1-2
 
 **17:00 · Cercle Brugge – Anderlecht**
 
-- ⏳ 1-2 · @7.79
+- ✅ 1-2 · @7.79 · 1-2
 
 **17:00 · Aston Villa – Brentford**
 
-- ⏳ 1-2 · @8.73
+- ❌ 1-2 · @8.73 · 2-2
 
 **17:00 · Leicester City – Peterborough**
 
-- ⏳ 3-0 · @10.70
+- ❌ 3-0 · @10.70 · 1-3
 
 **17:00 · Hearts – St Mirren**
 
@@ -116,23 +116,23 @@
 
 **17:00 · Chelsea – Bournemouth**
 
-- ⏳ 2-1 · @7.62
+- ❌ 2-1 · @7.62 · 5-1
 
 **17:00 · Rangers – Kilmarnock**
 
-- ⏳ 2-1 · @9.51
+- ❌ 2-1 · @9.51 · 3-1
 
 **17:00 · Worthing – Solihull Moors**
 
-- ⏳ 1-2 · @12.20
+- ❌ 1-2 · @12.20 · 5-0
 
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
-- ⏳ 2-1 · @8.00
+- ❌ 2-1 · @8.00 · 3-3
 
 **18:15 · Lille – Le Havre**
 
-- ⏳ 2-1 · @7.38
+- ❌ 2-1 · @7.38 · 1-0
 
 **19:30 · Leipzig – Eintracht Frankfurt**
 

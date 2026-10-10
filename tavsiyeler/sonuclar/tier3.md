@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/60 tuttu** (isabet %45, beklenen %47) · -7.20 birim · 15 tahmin sonuç bekliyor
+**29/68 tuttu** (isabet %43, beklenen %47) · -10.31 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,35 +24,35 @@
 
 **14:30 · West Bromwich – Birmingham**
 
-- ⏳ KG Yok · @1.87
+- ✅ KG Yok · @1.87 · 0-1
 
 **15:00 · Clermont – Red Star FC**
 
-- ⏳ KG Yok · @1.86
+- ❌ KG Yok · @1.86 · 2-3
 
 **16:30 · Augsburg – Bayern Münih**
 
-- ⏳ ↳ Korner 9.5 Alt · @2.10
+- ❌ ↳ Korner 9.5 Alt · @2.10 · korner 5-9
 
 **17:00 · York City – Northampton**
 
-- ⏳ KG Yok · @1.76
+- ❌ KG Yok · @1.76 · 1-1
 
 **17:00 · Preston – Millwall**
 
-- ⏳ En çok korner 1 · @2.19
+- ❌ En çok korner 1 · @2.19 · korner 4-4
 
 **17:00 · Cercle Brugge – Anderlecht**
 
-- ⏳ En çok korner 1 · @1.97
+- ❌ En çok korner 1 · @1.97 · korner 5-5
 
 **17:00 · Chelsea – Bournemouth**
 
-- ⏳ MS 1 & KG Var · @3.02
+- ✅ MS 1 & KG Var · @3.02 · 5-1
 
 **18:15 · Lille – Le Havre**
 
-- ⏳ MS 1 & 2.5 Üst · @1.87
+- ❌ MS 1 & 2.5 Üst · @1.87 · 1-0
 
 **20:00 · Maritimo – Porto**
 

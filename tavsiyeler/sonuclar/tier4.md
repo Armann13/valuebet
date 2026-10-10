@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/21 tuttu** (isabet %10, beklenen %31) · -15.77 birim · 12 tahmin sonuç bekliyor
+**4/28 tuttu** (isabet %14, beklenen %32) · -18.03 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **14:30 · Altrincham – Aldershot**
 
-- ⏳ MS 1 & 2.5 Üst · @2.36
+- ✅ MS 1 & 2.5 Üst · @2.36 · 3-1
 
 **15:00 · Vallecano – Athletic Bilbao**
 
@@ -18,19 +18,19 @@
 
 **17:00 · Bolton – Stoke City**
 
-- ⏳ MS 2 · @2.38
+- ✅ MS 2 · @2.38 · 1-2
 
 **17:00 · Dundee Utd – Hibernian**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.27
+- ❌ ↳ MS 2 & 2.5 Üst · @3.27 · 1-0
 
 **17:00 · Derby County – Wrexham**
 
-- ⏳ ↳ Korner 8.5 Alt · @3.04
+- ❌ ↳ Korner 8.5 Alt · @3.04 · korner 1-9
 
 **17:00 · Leicester City – Peterborough**
 
-- ⏳ KG Yok · @2.30
+- ❌ KG Yok · @2.30 · 1-3
 
 **17:00 · Montrose – Ross County**
 
@@ -38,11 +38,11 @@
 
 **17:00 · Aston Villa – Brentford**
 
-- ⏳ MS 2 · @2.38
+- ❌ MS 2 · @2.38 · 2-2
 
 **17:00 · Worthing – Solihull Moors**
 
-- ⏳ MS 2 · @4.27
+- ❌ MS 2 · @4.27 · 5-0
 
 **19:45 · Feyenoord – AZ Alkmaar**
 
