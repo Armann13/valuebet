@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/60 tuttu** (isabet %72, beklenen %77) · -8.14 birim · 6 tahmin sonuç bekliyor
+**45/62 tuttu** (isabet %73, beklenen %77) · -7.70 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,11 +37,11 @@
 
 **19:30 · Leipzig – Eintracht Frankfurt**
 
-- ⏳ 2.5 Üst · @1.20
+- ✅ 2.5 Üst · @1.20 · 6-0
 
 **20:00 · Maritimo – Porto**
 
-- ⏳ MS 2 · @1.24
+- ✅ MS 2 · @1.24 · 1-2
 
 **22:00 · Ajax – NEC Nijmegen**
 
@@ -50,6 +50,10 @@
 **22:00 · Real Madrid – Villarreal**
 
 - ⏳ MS 1 · @1.26
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ Korner 11.5 Alt · @1.21
 
 ## 09.10.2026 Cuma
 

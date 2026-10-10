@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/17 tuttu** (isabet %12, beklenen %17) · -8.39 birim · 4 tahmin sonuç bekliyor
+**2/19 tuttu** (isabet %11, beklenen %17) · -10.39 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,7 +28,11 @@
 
 **20:00 · Maritimo – Porto**
 
-- ⏳ 0-1 · @5.07
+- ❌ 0-1 · @5.07 · 1-2
+
+**20:30 · SS Arezzo – Cremonese**
+
+- ❌ 1-1 · @5.24 · 0-0
 
 **21:00 · Fortuna Sittard – Twente**
 

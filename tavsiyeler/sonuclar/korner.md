@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/144 tuttu** (isabet %56, beklenen %62) · -24.41 birim · 11 tahmin sonuç bekliyor
+**81/145 tuttu** (isabet %56, beklenen %62) · -25.41 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,15 +12,30 @@
 
 - ⏳ 🟢 En çok korner 1 · @1.51
 - ⏳ 🎰 En çok korner 1 · @1.51
+- ⏳ 🎰 En çok korner 1 · @1.51
+
+**16:00 · Gaziantep FK – Çorum FK**
+
+- ⏳ 🔴 En çok korner 1 · @2.02
 
 **17:15 · Real Sociedad – Deportivo La Coruna**
 
 - ⏳ 🟢 En çok korner 1 · @1.35
 - ⏳ 🎰 En çok korner 1 · @1.35
+- ⏳ 🎰 En çok korner 1 · @1.35
 
 **17:45 · Excelsior – Groningen**
 
 - ⏳ 🔴 En çok korner 2 · @2.00
+
+**18:15 · Rennes – AJ Auxerre**
+
+- ⏳ 🟡 En çok korner 1 · @1.43
+- ⏳ 🎰 En çok korner 1 · @1.43
+
+**19:30 · Westerlo – Antwerp**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.63
 
 ## 10.10.2026 Cumartesi
 
@@ -75,11 +90,19 @@
 
 **19:45 · Feyenoord – AZ Alkmaar**
 
-- ⏳ 🟣 Korner 8.5 Alt · @3.23
+- ❌ 🟣 Korner 8.5 Alt · @3.23 · korner 7-6
 
 **21:45 · Paris Saint Germain – Le Mans**
 
 - ⏳ 🟣 Korner 11.5 Üst · @2.72
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.88
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.67
 
 ## 09.10.2026 Cuma
 

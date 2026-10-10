@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/93 tuttu** (isabet %15, beklenen %12) · +1.16 birim · 18 tahmin sonuç bekliyor
+**14/96 tuttu** (isabet %15, beklenen %12) · -1.84 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,6 +35,14 @@
 **17:45 · Excelsior – Groningen**
 
 - ⏳ 1-1 · @6.25
+
+**18:15 · Rennes – AJ Auxerre**
+
+- ⏳ 2-1 · @7.44
+
+**19:30 · Westerlo – Antwerp**
+
+- ⏳ 2-1 · @8.30
 
 ## 10.10.2026 Cumartesi
 
@@ -136,17 +144,21 @@
 
 **19:30 · Leipzig – Eintracht Frankfurt**
 
-- ⏳ 2-1 · @8.28
+- ❌ 2-1 · @8.28 · 6-0
 
 **19:45 · Feyenoord – AZ Alkmaar**
 
-- ⏳ 2-1 · @8.05
-- ⏳ 1-1 · @8.05
+- ❌ 2-1 · @8.05 · 2-0
+- ❌ 1-1 · @8.05 · 2-0
 
 **21:45 · Paris Saint Germain – Le Mans**
 
 - ⏳ 3-0 · @6.42
 - ⏳ 2-1 · @10.65
+
+**21:45 · Napoli – Frosinone**
+
+- ⏳ 3-0 · @11.20
 
 **22:00 · Ajax – NEC Nijmegen**
 

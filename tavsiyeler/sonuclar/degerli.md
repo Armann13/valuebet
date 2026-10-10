@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/5 tuttu** (isabet %100, beklenen %51) · +6.01 birim · 13 tahmin sonuç bekliyor
+**5/5 tuttu** (isabet %100, beklenen %51) · +6.01 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -25,6 +25,8 @@
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
 - ⏳ 2.5 Üst · @2.13
+- ⏳ MS 1 & 2.5 Üst · @4.02
+- ⏳ KG Var · @1.83
 
 **19:00 · Beşiktaş – Kocaelispor**
 
@@ -56,9 +58,17 @@
 - ⏳ MS 1 & KG Var · @2.25
 - ⏳ KG Var · @1.94
 
+**21:45 · Napoli – Frosinone**
+
+- ⏳ KG Yok · @2.25
+
 **22:00 · Ajax – NEC Nijmegen**
 
 - ⏳ 2.5 Alt · @3.73
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ MS 2 · @1.97
 
 ## 04.10.2026 Pazar
 

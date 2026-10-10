@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/28 tuttu** (isabet %14, beklenen %32) · -18.03 birim · 5 tahmin sonuç bekliyor
+**4/30 tuttu** (isabet %13, beklenen %32) · -20.03 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**19:30 · Westerlo – Antwerp**
+
+- ⏳ Korner 8.5 Alt · @2.63
 
 ## 10.10.2026 Cumartesi
 
@@ -46,12 +52,16 @@
 
 **19:45 · Feyenoord – AZ Alkmaar**
 
-- ⏳ Korner 8.5 Alt · @3.23
-- ⏳ MS X · @4.08
+- ❌ Korner 8.5 Alt · @3.23 · korner 7-6
+- ❌ MS X · @4.08 · 2-0
 
 **21:45 · Paris Saint Germain – Le Mans**
 
 - ⏳ Korner 11.5 Üst · @2.72
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.88
 
 ## 09.10.2026 Cuma
 

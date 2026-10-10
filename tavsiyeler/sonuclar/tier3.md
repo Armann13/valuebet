@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/68 tuttu** (isabet %43, beklenen %47) · -10.31 birim · 7 tahmin sonuç bekliyor
+**29/68 tuttu** (isabet %43, beklenen %47) · -10.31 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,10 @@
 **14:30 · Saint Pauli – Karlsruhe**
 
 - ⏳ 2.5 Alt · @2.53
+
+**16:00 · Gaziantep FK – Çorum FK**
+
+- ⏳ En çok korner 1 · @2.02
 
 **17:45 · Excelsior – Groningen**
 
@@ -58,9 +62,21 @@
 
 - ⏳ ↳ İY/MS 2/2 · @1.71
 
+**21:45 · Paris Saint Germain – Le Mans**
+
+- ⏳ MS 1 & KG Var · @2.23
+
+**21:45 · Napoli – Frosinone**
+
+- ⏳ KG Yok · @2.25
+
 **22:00 · Ajax – NEC Nijmegen**
 
 - ⏳ 2.5 Alt · @3.73
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.12
 
 ## 09.10.2026 Cuma
 

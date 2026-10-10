@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/78 tuttu** (isabet %63, beklenen %64) · -6.74 birim · 8 tahmin sonuç bekliyor
+**49/78 tuttu** (isabet %63, beklenen %64) · -6.74 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,14 @@
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
 - ⏳ KG Var · @1.84
+
+**18:15 · Rennes – AJ Auxerre**
+
+- ⏳ En çok korner 1 · @1.43
+
+**19:00 · Beşiktaş – Kocaelispor**
+
+- ⏳ 2.5 Alt · @2.19
 
 ## 10.10.2026 Cumartesi
 
@@ -66,6 +74,11 @@
 **22:00 · Real Madrid – Villarreal**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.52
+
+**22:30 · Casa Pia AC – Santa Clara**
+
+- ⏳ MS 2 · @1.97
+- ⏳ ↳ Korner 9.5 Alt · @1.67
 
 ## 09.10.2026 Cuma
 

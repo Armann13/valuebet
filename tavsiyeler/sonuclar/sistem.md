@@ -2,9 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/108 tuttu** (isabet %56, beklenen %66) · -20.81 birim · 7 tahmin sonuç bekliyor
+**60/108 tuttu** (isabet %56, beklenen %66) · -20.81 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 10.10 20:25 gönderilen kupon · 7'de 4
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 10.10 22:30 Casa Pia AC – Santa Clara · ↳ Korner 9.5 Alt · @1.67
+- ⏳ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51
+- ⏳ 11.10 16:00 Gaziantep FK – Çorum FK · 2.5 Üst · @1.79
+- ⏳ 11.10 17:00 POT Iraklis – APO Levadeiakos FC · KG Var · @1.83
+- ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
+- ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43
+- ⏳ 11.10 19:00 Beşiktaş – Kocaelispor · 2.5 Alt · @2.19
 
 ## 10.10 13:02 gönderilen kupon · 8'de 7
 
