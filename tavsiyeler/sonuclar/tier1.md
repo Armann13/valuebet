@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**42/55 tuttu** (isabet %76, beklenen %77) · -4.41 birim · 9 tahmin sonuç bekliyor
+**42/55 tuttu** (isabet %76, beklenen %77) · -4.41 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**13:15 · Utrecht – Willem II**
+
+- ⏳ En çok korner 1 · @1.51
+
+**17:15 · Real Sociedad – Deportivo La Coruna**
+
+- ⏳ En çok korner 1 · @1.35
 
 ## 10.10.2026 Cumartesi
 

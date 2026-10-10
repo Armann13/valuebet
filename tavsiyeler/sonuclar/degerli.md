@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/1 tuttu** (isabet %100, beklenen %37) · +1.84 birim · 9 tahmin sonuç bekliyor
+**1/1 tuttu** (isabet %100, beklenen %37) · +1.84 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,12 @@
 **14:00 · Motherwell – Celtic**
 
 - ⏳ 2.5 Alt · @2.51
+- ⏳ KG Yok · @2.28
 
 **14:30 · Saint Pauli – Karlsruhe**
 
 - ⏳ 2.5 Alt · @2.53
+- ⏳ KG Yok · @2.43
 
 **16:00 · Gaziantep FK – Çorum FK**
 
@@ -27,24 +29,36 @@
 **19:00 · Beşiktaş – Kocaelispor**
 
 - ⏳ 2.5 Alt · @2.18
+- ⏳ İY/MS X/1 · @3.98
 
 ## 10.10.2026 Cumartesi
 
 **17:00 · Hearts – St Mirren**
 
 - ⏳ 2.5 Alt · @2.40
+- ⏳ KG Yok · @2.01
 
 **17:00 · Inverness – Stenhousemuir**
 
 - ⏳ 2.5 Alt · @1.57
+- ⏳ KG Yok · @1.65
 
 **17:00 · Rangers – Kilmarnock**
 
 - ⏳ KG Var · @1.93
 
+**17:00 · Chelsea – Bournemouth**
+
+- ⏳ MS 1 & KG Var · @3.02
+
 **21:45 · Paris Saint Germain – Le Mans**
 
 - ⏳ MS 1 & KG Var · @2.25
+- ⏳ KG Var · @1.94
+
+**22:00 · Ajax – NEC Nijmegen**
+
+- ⏳ 2.5 Alt · @3.73
 
 ## 04.10.2026 Pazar
 

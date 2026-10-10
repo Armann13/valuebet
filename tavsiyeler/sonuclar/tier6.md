@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/72 tuttu** (isabet %15, beklenen %12) · +0.29 birim · 25 tahmin sonuç bekliyor
+**11/72 tuttu** (isabet %15, beklenen %12) · +0.29 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**13:15 · Utrecht – Willem II**
+
+- ⏳ 1-1 · @8.29
+
+**14:00 · Motherwell – Celtic**
+
+- ⏳ 0-1 · @9.69
+
+**14:30 · Saint Pauli – Karlsruhe**
+
+- ⏳ 1-1 · @7.45
+
+**16:00 · Gaziantep FK – Çorum FK**
+
+- ⏳ 2-1 · @8.93
+
+**17:00 · POT Iraklis – APO Levadeiakos FC**
+
+- ⏳ 1-1 · @4.59
+
+**17:15 · Real Sociedad – Deportivo La Coruna**
+
+- ⏳ 1-0 · @6.87
+
+**17:45 · Excelsior – Groningen**
+
+- ⏳ 1-1 · @6.25
 
 ## 10.10.2026 Cumartesi
 
@@ -80,6 +110,22 @@
 
 - ⏳ 3-0 · @10.70
 
+**17:00 · Hearts – St Mirren**
+
+- ⏳ 1-0 · @8.25
+
+**17:00 · Chelsea – Bournemouth**
+
+- ⏳ 2-1 · @7.62
+
+**17:00 · Rangers – Kilmarnock**
+
+- ⏳ 2-1 · @9.51
+
+**17:00 · Worthing – Solihull Moors**
+
+- ⏳ 1-2 · @12.20
+
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
 - ⏳ 2-1 · @8.00
@@ -95,14 +141,17 @@
 **19:45 · Feyenoord – AZ Alkmaar**
 
 - ⏳ 2-1 · @8.05
+- ⏳ 1-1 · @8.05
 
 **21:45 · Paris Saint Germain – Le Mans**
 
 - ⏳ 3-0 · @6.42
+- ⏳ 2-1 · @10.65
 
 **22:00 · Ajax – NEC Nijmegen**
 
 - ⏳ 2-1 · @8.17
+- ⏳ 2-0 · @10.30
 
 **22:00 · Real Madrid – Villarreal**
 

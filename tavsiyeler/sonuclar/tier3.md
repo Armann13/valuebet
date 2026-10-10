@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/60 tuttu** (isabet %45, beklenen %47) · -7.20 birim · 10 tahmin sonuç bekliyor
+**27/60 tuttu** (isabet %45, beklenen %47) · -7.20 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**14:00 · Motherwell – Celtic**
+
+- ⏳ 2.5 Alt · @2.51
+
+**14:30 · Saint Pauli – Karlsruhe**
+
+- ⏳ 2.5 Alt · @2.53
+
+**17:45 · Excelsior – Groningen**
+
+- ⏳ En çok korner 2 · @2.00
 
 ## 10.10.2026 Cumartesi
 
@@ -32,6 +46,10 @@
 
 - ⏳ En çok korner 1 · @1.97
 
+**17:00 · Chelsea – Bournemouth**
+
+- ⏳ MS 1 & KG Var · @3.02
+
 **18:15 · Lille – Le Havre**
 
 - ⏳ MS 1 & 2.5 Üst · @1.87
@@ -39,6 +57,10 @@
 **20:00 · Maritimo – Porto**
 
 - ⏳ ↳ İY/MS 2/2 · @1.71
+
+**22:00 · Ajax – NEC Nijmegen**
+
+- ⏳ 2.5 Alt · @3.73
 
 ## 09.10.2026 Cuma
 

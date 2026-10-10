@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/71 tuttu** (isabet %63, beklenen %64) · -6.16 birim · 9 tahmin sonuç bekliyor
+**45/71 tuttu** (isabet %63, beklenen %64) · -6.16 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**16:00 · Gaziantep FK – Çorum FK**
+
+- ⏳ 2.5 Üst · @1.79
+
+**17:00 · POT Iraklis – APO Levadeiakos FC**
+
+- ⏳ KG Var · @1.84
 
 ## 10.10.2026 Cumartesi
 
@@ -29,9 +39,25 @@
 
 - ⏳ MS 1 · @1.44
 
+**17:00 · Inverness – Stenhousemuir**
+
+- ⏳ 2.5 Alt · @1.57
+
+**17:00 · Hearts – St Mirren**
+
+- ⏳ KG Yok · @2.01
+
+**17:00 · Rangers – Kilmarnock**
+
+- ⏳ KG Var · @1.97
+
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
 - ⏳ En çok korner 1 · @1.41
+
+**21:45 · Paris Saint Germain – Le Mans**
+
+- ⏳ KG Var · @1.94
 
 **22:00 · Ajax – NEC Nijmegen**
 

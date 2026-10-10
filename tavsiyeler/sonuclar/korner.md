@@ -2,19 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**73/123 tuttu** (isabet %59, beklenen %61) · -15.77 birim · 22 tahmin sonuç bekliyor
+**75/125 tuttu** (isabet %60, beklenen %61) · -13.79 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10.2026 Pazar
+
+**13:15 · Utrecht – Willem II**
+
+- ⏳ 🟢 En çok korner 1 · @1.51
+- ⏳ 🎰 En çok korner 1 · @1.51
+
+**17:15 · Real Sociedad – Deportivo La Coruna**
+
+- ⏳ 🟢 En çok korner 1 · @1.35
+- ⏳ 🎰 En çok korner 1 · @1.35
+
+**17:45 · Excelsior – Groningen**
+
+- ⏳ 🔴 En çok korner 2 · @2.00
 
 ## 10.10.2026 Cumartesi
 
 **14:00 · Darmstadt 98 – E. Cottbus**
 
-- ⏳ 🎰 En çok korner 2 · @1.99
+- ✅ 🎰 En çok korner 2 · @1.99 · korner 7-8
+- ✅ 🎰 En çok korner 2 · @1.99 · korner 7-8
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 
@@ -25,10 +43,12 @@
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.40
 
 **17:00 · Sheffield United – Lincoln City**
 
 - ⏳ 🟢 En çok korner 1 · @1.53
+- ⏳ 🎰 En çok korner 1 · @1.53
 - ⏳ 🎰 En çok korner 1 · @1.53
 - ⏳ 🎰 En çok korner 1 · @1.53
 
@@ -49,6 +69,7 @@
 **17:30 · Go Ahead Eagles – Sparta Rotterdam**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 

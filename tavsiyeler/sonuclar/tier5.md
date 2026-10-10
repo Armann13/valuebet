@@ -2,11 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/15 tuttu** (isabet %13, beklenen %17) · -6.39 birim · 3 tahmin sonuç bekliyor
+**2/15 tuttu** (isabet %13, beklenen %17) · -6.39 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 11.10.2026 Pazar
+
+**19:00 · Beşiktaş – Kocaelispor**
+
+- ⏳ 1-0 · @6.65
+
 ## 10.10.2026 Cumartesi
+
+**17:00 · Inverness – Stenhousemuir**
+
+- ⏳ 1-0 · @5.07
+
+**17:00 · Raith Rovers – Queen's Park**
+
+- ⏳ 1-0 · @4.73
 
 **17:30 · Casa Pia AC – Santa Clara**
 

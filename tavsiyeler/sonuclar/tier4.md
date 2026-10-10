@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/21 tuttu** (isabet %10, beklenen %31) · -15.77 birim · 10 tahmin sonuç bekliyor
+**2/21 tuttu** (isabet %10, beklenen %31) · -15.77 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,9 +40,14 @@
 
 - ⏳ MS 2 · @2.38
 
+**17:00 · Worthing – Solihull Moors**
+
+- ⏳ MS 2 · @4.27
+
 **19:45 · Feyenoord – AZ Alkmaar**
 
 - ⏳ Korner 8.5 Alt · @3.23
+- ⏳ MS X · @4.08
 
 **21:45 · Paris Saint Germain – Le Mans**
 

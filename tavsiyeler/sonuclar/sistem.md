@@ -2,15 +2,28 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**51/91 tuttu** (isabet %56, beklenen %65) · -18.01 birim · 16 tahmin sonuç bekliyor
+**53/93 tuttu** (isabet %57, beklenen %65) · -16.03 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 10.10 13:02 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
+- ✅ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99 · korner 7-8
+- ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
+- ⏳ 10.10 16:30 Augsburg – Bayern Münih · ↳ Korner 11.5 Alt · @1.40
+- ⏳ 10.10 17:00 Sheffield United – Lincoln City · En çok korner 1 · @1.53
+- ⏳ 10.10 17:00 Inverness – Stenhousemuir · 2.5 Alt · @1.57
+- ⏳ 10.10 17:30 Go Ahead Eagles – Sparta Rotterdam · En çok korner 1 · @1.41
+- ⏳ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51
+- ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
+
 ## 09.10 21:29 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99
+- ✅ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99 · korner 7-8
 - ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
 - ⏳ 10.10 16:30 Augsburg – Bayern Münih · ↳ Korner 11.5 Alt · @1.40
 - ⏳ 10.10 16:30 Union Berlin – Elversberg · 2.5 Üst · @1.41
