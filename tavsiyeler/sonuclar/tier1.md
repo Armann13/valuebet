@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/62 tuttu** (isabet %73, beklenen %77) · -7.70 birim · 5 tahmin sonuç bekliyor
+**47/65 tuttu** (isabet %72, beklenen %77) · -8.23 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,15 +45,15 @@
 
 **22:00 · Ajax – NEC Nijmegen**
 
-- ⏳ MS 1 · @1.22
+- ❌ MS 1 · @1.22 · 1-1
 
 **22:00 · Real Madrid – Villarreal**
 
-- ⏳ MS 1 · @1.26
+- ✅ MS 1 · @1.26 · 1-0
 
 **22:30 · Casa Pia AC – Santa Clara**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 3-7
 
 ## 09.10.2026 Cuma
 

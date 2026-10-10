@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/68 tuttu** (isabet %43, beklenen %47) · -10.31 birim · 11 tahmin sonuç bekliyor
+**32/72 tuttu** (isabet %44, beklenen %47) · -6.10 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -64,19 +64,19 @@
 
 **21:45 · Paris Saint Germain – Le Mans**
 
-- ⏳ MS 1 & KG Var · @2.23
+- ✅ MS 1 & KG Var · @2.23 · 3-1
 
 **21:45 · Napoli – Frosinone**
 
-- ⏳ KG Yok · @2.25
+- ✅ KG Yok · @2.25 · 3-0
 
 **22:00 · Ajax – NEC Nijmegen**
 
-- ⏳ 2.5 Alt · @3.73
+- ✅ 2.5 Alt · @3.73 · 1-1
 
 **22:30 · Casa Pia AC – Santa Clara**
 
-- ⏳ ↳ Korner 8.5 Alt · @2.12
+- ❌ ↳ Korner 8.5 Alt · @2.12 · korner 3-7
 
 ## 09.10.2026 Cuma
 

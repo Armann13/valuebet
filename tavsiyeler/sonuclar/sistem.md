@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/108 tuttu** (isabet %56, beklenen %66) · -20.81 birim · 14 tahmin sonuç bekliyor
+**60/111 tuttu** (isabet %54, beklenen %66) · -23.81 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 10.10 22:30 Casa Pia AC – Santa Clara · ↳ Korner 9.5 Alt · @1.67
+- ❌ 10.10 22:30 Casa Pia AC – Santa Clara · ↳ Korner 9.5 Alt · @1.67 · korner 3-7
 - ⏳ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51
 - ⏳ 11.10 16:00 Gaziantep FK – Çorum FK · 2.5 Üst · @1.79
 - ⏳ 11.10 17:00 POT Iraklis – APO Levadeiakos FC · KG Var · @1.83
@@ -42,7 +42,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ✅ 10.10 16:30 Hoffenheim – Hamburg · KG Var · @1.48 · 2-3
 - ❌ 10.10 17:00 Sheffield United – Lincoln City · En çok korner 1 · @1.53 · korner 2-2
 - ✅ 10.10 17:30 Go Ahead Eagles – Sparta Rotterdam · En çok korner 1 · @1.41 · korner 9-6
-- ⏳ 10.10 22:00 Ajax – NEC Nijmegen · ↳ MS 1 & 2.5 Üst · @1.47
+- ❌ 10.10 22:00 Ajax – NEC Nijmegen · ↳ MS 1 & 2.5 Üst · @1.47 · 1-1
 
 ## 09.10 13:45 gönderilen kupon · 8'de 7
 
@@ -55,7 +55,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ❌ 10.10 17:00 Sheffield United – Lincoln City · En çok korner 1 · @1.53 · korner 2-2
 - ✅ 10.10 17:00 Derby County – Wrexham · ↳ Korner 11.5 Alt · @1.47 · korner 1-9
 - ✅ 10.10 17:30 Go Ahead Eagles – Sparta Rotterdam · En çok korner 1 · @1.41 · korner 9-6
-- ⏳ 10.10 22:00 Ajax – NEC Nijmegen · ↳ MS 1 & 2.5 Üst · @1.47
+- ❌ 10.10 22:00 Ajax – NEC Nijmegen · ↳ MS 1 & 2.5 Üst · @1.47 · 1-1
 
 ## 08.10 13:46 gönderilen kupon · 7'de 6
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/145 tuttu** (isabet %56, beklenen %62) · -25.41 birim · 21 tahmin sonuç bekliyor
+**82/151 tuttu** (isabet %54, beklenen %61) · -30.20 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -94,15 +94,15 @@
 
 **21:45 · Paris Saint Germain – Le Mans**
 
-- ⏳ 🟣 Korner 11.5 Üst · @2.72
+- ❌ 🟣 Korner 11.5 Üst · @2.72 · korner 4-4
 
 **22:30 · Casa Pia AC – Santa Clara**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.88
-- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.67
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 3-7
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.67 · korner 3-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.12 · korner 3-7
+- ❌ 🟣 ↳ Korner 7.5 Alt · @2.88 · korner 3-7
+- ❌ 🎰 ↳ Korner 9.5 Alt · @1.67 · korner 3-7
 
 ## 09.10.2026 Cuma
 

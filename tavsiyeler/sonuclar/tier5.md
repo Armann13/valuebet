@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/19 tuttu** (isabet %11, beklenen %17) · -10.39 birim · 3 tahmin sonuç bekliyor
+**3/21 tuttu** (isabet %14, beklenen %17) · -7.20 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **17:30 · Casa Pia AC – Santa Clara**
 
-- ⏳ 0-1 · @5.19
+- ✅ 0-1 · @5.19 · 0-1
 
 **20:00 · Maritimo – Porto**
 
@@ -36,7 +36,7 @@
 
 **21:00 · Fortuna Sittard – Twente**
 
-- ⏳ 1-2 · @7.71
+- ❌ 1-2 · @7.71 · 1-1
 
 ## 09.10.2026 Cuma
 
