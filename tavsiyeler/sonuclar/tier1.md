@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/66 tuttu** (isabet %73, beklenen %77) · -7.72 birim · 4 tahmin sonuç bekliyor
+**49/68 tuttu** (isabet %72, beklenen %77) · -8.52 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@
 
 **17:15 · Real Sociedad – Deportivo La Coruna**
 
-- ⏳ En çok korner 1 · @1.35
+- ❌ En çok korner 1 · @1.35 · korner 7-10
 
 **17:45 · Excelsior – Groningen**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 1-5
 
 ## 10.10.2026 Cumartesi
 

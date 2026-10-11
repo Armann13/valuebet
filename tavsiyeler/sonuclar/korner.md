@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**86/159 tuttu** (isabet %54, beklenen %62) · -32.16 birim · 21 tahmin sonuç bekliyor
+**89/166 tuttu** (isabet %54, beklenen %62) · -32.51 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -48,18 +48,18 @@
 
 **16:00 · Gaziantep FK – Çorum FK**
 
-- ⏳ 🔴 En çok korner 1 · @2.02
+- ✅ 🔴 En çok korner 1 · @2.02 · korner 10-5
 
 **17:15 · Real Sociedad – Deportivo La Coruna**
 
-- ⏳ 🟢 En çok korner 1 · @1.35
-- ⏳ 🎰 En çok korner 1 · @1.35
-- ⏳ 🎰 En çok korner 1 · @1.35
-- ⏳ 🎰 En çok korner 1 · @1.35
+- ❌ 🟢 En çok korner 1 · @1.35 · korner 7-10
+- ❌ 🎰 En çok korner 1 · @1.35 · korner 7-10
+- ❌ 🎰 En çok korner 1 · @1.35 · korner 7-10
+- ❌ 🎰 En çok korner 1 · @1.35 · korner 7-10
 
 **17:45 · Excelsior – Groningen**
 
-- ⏳ 🔴 En çok korner 2 · @2.00
+- ✅ 🔴 En çok korner 2 · @2.00 · korner 3-6
 
 **18:15 · Rennes – AJ Auxerre**
 
@@ -69,7 +69,7 @@
 
 **19:30 · Westerlo – Antwerp**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.63
+- ✅ 🟣 Korner 8.5 Alt · @2.63 · korner 3-3
 
 ## 10.10.2026 Cumartesi
 

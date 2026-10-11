@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/15 tuttu** (isabet %93, beklenen %46) · +17.90 birim · 9 tahmin sonuç bekliyor
+**15/21 tuttu** (isabet %71, beklenen %46) · +13.69 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,21 +24,21 @@
 
 **16:00 · Gaziantep FK – Çorum FK**
 
-- ⏳ 2.5 Üst · @1.79
+- ✅ 2.5 Üst · @1.79 · 0-3
 
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
-- ⏳ 2.5 Üst · @2.13
-- ⏳ MS 1 & 2.5 Üst · @4.02
-- ⏳ KG Var · @1.83
+- ❌ 2.5 Üst · @2.13 · 2-0
+- ❌ MS 1 & 2.5 Üst · @4.02 · 2-0
+- ❌ KG Var · @1.83 · 2-0
 
 **18:30 · Liverpool – Manchester City**
 
-- ⏳ MS 1 · @2.94
+- ❌ MS 1 · @2.94 · 0-3
 
 **19:00 · Beşiktaş – Kocaelispor**
 
-- ⏳ 2.5 Alt · @2.18
+- ❌ 2.5 Alt · @2.18 · 2-1
 - ⏳ İY/MS X/1 · @3.98
 
 ## 10.10.2026 Cumartesi

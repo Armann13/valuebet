@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/33 tuttu** (isabet %12, beklenen %32) · -23.03 birim · 8 tahmin sonuç bekliyor
+**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **16:00 · Lazio – AC Monza**
 
-- ⏳ MS 1 & 2.5 Üst · @2.39
+- ✅ MS 1 & 2.5 Üst · @2.39 · 3-1
 
 **18:15 · Rennes – AJ Auxerre**
 
@@ -32,11 +32,11 @@
 
 **18:30 · Liverpool – Manchester City**
 
-- ⏳ MS 1 · @2.77
+- ❌ MS 1 · @2.77 · 0-3
 
 **19:30 · Westerlo – Antwerp**
 
-- ⏳ Korner 8.5 Alt · @2.63
+- ✅ Korner 8.5 Alt · @2.63 · korner 3-3
 
 ## 10.10.2026 Cumartesi
 

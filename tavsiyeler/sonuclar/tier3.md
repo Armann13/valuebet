@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/76 tuttu** (isabet %45, beklenen %47) · -5.06 birim · 7 tahmin sonuç bekliyor
+**36/79 tuttu** (isabet %46, beklenen %47) · -4.04 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,15 +29,15 @@
 
 **16:00 · Gaziantep FK – Çorum FK**
 
-- ⏳ En çok korner 1 · @2.02
+- ✅ En çok korner 1 · @2.02 · korner 10-5
 
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
-- ⏳ MS 1 & 2.5 Üst · @4.01
+- ❌ MS 1 & 2.5 Üst · @4.01 · 2-0
 
 **17:45 · Excelsior – Groningen**
 
-- ⏳ En çok korner 2 · @2.00
+- ✅ En çok korner 2 · @2.00 · korner 3-6
 
 ## 10.10.2026 Cumartesi
 

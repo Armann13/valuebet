@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/21 tuttu** (isabet %14, beklenen %17) · -7.20 birim · 4 tahmin sonuç bekliyor
+**3/22 tuttu** (isabet %14, beklenen %17) · -8.20 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **19:00 · Beşiktaş – Kocaelispor**
 
-- ⏳ 1-0 · @6.65
+- ❌ 1-0 · @6.65 · 2-1
 
 **21:45 · Cagliari – Juventus**
 

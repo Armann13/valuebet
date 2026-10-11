@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**52/85 tuttu** (isabet %61, beklenen %64) · -8.42 birim · 12 tahmin sonuç bekliyor
+**55/91 tuttu** (isabet %60, beklenen %63) · -9.75 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,19 +28,19 @@
 
 **15:30 · Zwolle – SC Cambuur**
 
-- ⏳ 2.5 Üst · @1.40
+- ❌ 2.5 Üst · @1.40 · 0-1
 
 **16:00 · Gaziantep FK – Çorum FK**
 
-- ⏳ 2.5 Üst · @1.79
+- ✅ 2.5 Üst · @1.79 · 0-3
 
 **16:00 · Crystal Palace – Nottingham Forest**
 
-- ⏳ ÇŞ 1-X · @1.40
+- ✅ ÇŞ 1-X · @1.40 · 3-1
 
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
-- ⏳ KG Var · @1.84
+- ❌ KG Var · @1.84 · 2-0
 
 **18:15 · Rennes – AJ Auxerre**
 
@@ -48,11 +48,11 @@
 
 **19:00 · Beşiktaş – Kocaelispor**
 
-- ⏳ 2.5 Alt · @2.19
+- ❌ 2.5 Alt · @2.19 · 2-1
 
 **19:30 · Mallorca – Las Palmas**
 
-- ⏳ MS 1 · @1.48
+- ✅ MS 1 · @1.48 · 3-1
 
 ## 10.10.2026 Cumartesi
 
