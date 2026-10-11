@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/68 tuttu** (isabet %72, beklenen %77) · -8.52 birim · 2 tahmin sonuç bekliyor
+**49/68 tuttu** (isabet %72, beklenen %77) · -8.52 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,14 @@
 **20:00 · Eyüpspor – Göztepe**
 
 - ⏳ ÇŞ 1-2 · @1.20
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ Korner 11.5 Alt · @1.22
+
+**22:00 · Tenerife – Girona**
+
+- ⏳ Korner 10.5 Alt · @1.31
 
 ## 11.10.2026 Pazar
 

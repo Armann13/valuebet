@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/119 tuttu** (isabet %13, beklenen %12) · -13.64 birim · 9 tahmin sonuç bekliyor
+**15/119 tuttu** (isabet %13, beklenen %12) · -13.64 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,9 +12,17 @@
 
 - ⏳ 1-0 · @6.88
 
+**17:15 · CF Burgos – Granada**
+
+- ⏳ 1-1 · @5.23
+
 **19:30 · Atalanta – Venezia**
 
 - ⏳ 2-1 · @7.48
+
+**19:30 · Real Oviedo – Eibar**
+
+- ⏳ 1-0 · @6.11
 
 **20:00 · Eyüpspor – Göztepe**
 

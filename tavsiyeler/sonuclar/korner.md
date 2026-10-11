@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/166 tuttu** (isabet %54, beklenen %62) · -32.51 birim · 14 tahmin sonuç bekliyor
+**89/166 tuttu** (isabet %54, beklenen %62) · -32.51 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,19 +12,46 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.45
 - ⏳ 🎰 En çok korner 1 · @1.45
+- ⏳ 🎰 En çok korner 1 · @1.45
+
+**17:15 · CF Burgos – Granada**
+
+- ⏳ 🔴 En çok korner 2 · @2.40
 
 **19:30 · Atalanta – Venezia**
 
 - ⏳ 🟢 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.37
 
 **19:30 · Real Oviedo – Eibar**
 
 - ⏳ 🎰 En çok korner 1 · @1.54
+- ⏳ 🟡 En çok korner 1 · @1.54
+- ⏳ 🎰 En çok korner 1 · @1.54
+
+**20:00 · Eyüpspor – Göztepe**
+
+- ⏳ 🟣 Korner 7.5 Alt · @2.72
+
+**21:45 · Torino – Udinese**
+
+- ⏳ 🟣 Korner 10.5 Üst · @2.91
 
 **22:00 · Levante – Sevilla**
 
 - ⏳ 🔴 En çok korner 2 · @2.02
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.18
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.98
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
+
+**22:00 · Tenerife – Girona**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.31
+- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.60
+- ⏳ 🎰 Korner 10.5 Alt · @1.31
 
 **22:15 · Famalicao – Alverca FC**
 

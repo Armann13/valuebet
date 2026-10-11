@@ -2,15 +2,27 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 5 tahmin sonuç bekliyor
+**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 12.10.2026 Pazartesi
 
+**20:00 · Eyüpspor – Göztepe**
+
+- ⏳ Korner 7.5 Alt · @2.72
+
+**21:45 · Torino – Udinese**
+
+- ⏳ Korner 10.5 Üst · @2.91
+
 **22:00 · Tenerife – Girona**
 
 - ⏳ MS 2 · @2.38
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.98
 
 **22:15 · Famalicao – Alverca FC**
 

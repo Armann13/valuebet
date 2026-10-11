@@ -2,15 +2,24 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/79 tuttu** (isabet %46, beklenen %47) · -4.04 birim · 4 tahmin sonuç bekliyor
+**36/79 tuttu** (isabet %46, beklenen %47) · -4.04 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 12.10.2026 Pazartesi
 
+**17:15 · CF Burgos – Granada**
+
+- ⏳ En çok korner 2 · @2.40
+
 **22:00 · Levante – Sevilla**
 
 - ⏳ En çok korner 2 · @2.02
+- ⏳ ↳ Korner 8.5 Alt · @2.18
+
+**22:00 · Tenerife – Girona**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.60
 
 ## 11.10.2026 Pazar
 

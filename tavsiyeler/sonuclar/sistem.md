@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/122 tuttu** (isabet %52, beklenen %66) · -28.49 birim · 8 tahmin sonuç bekliyor
+**64/122 tuttu** (isabet %52, beklenen %66) · -28.49 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.10 22:37 gönderilen kupon · 5'de 3
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45
+- ⏳ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37
+- ⏳ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54
+- ⏳ 12.10 22:00 Tenerife – Girona · Korner 10.5 Alt · @1.31
+- ⏳ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.41
 
 ## 11.10 08:58 gönderilen kupon · 8'de 7
 

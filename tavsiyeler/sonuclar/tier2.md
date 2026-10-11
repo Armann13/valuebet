@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**55/91 tuttu** (isabet %60, beklenen %63) · -9.75 birim · 6 tahmin sonuç bekliyor
+**55/91 tuttu** (isabet %60, beklenen %63) · -9.75 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,9 +12,17 @@
 
 - ⏳ En çok korner 1 · @1.45
 
+**19:30 · Real Oviedo – Eibar**
+
+- ⏳ En çok korner 1 · @1.54
+
 **20:00 · Eyüpspor – Göztepe**
 
 - ⏳ ↳ MS 2 · @1.84
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
 
 ## 11.10.2026 Pazar
 

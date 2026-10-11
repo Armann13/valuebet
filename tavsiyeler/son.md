@@ -1,6 +1,6 @@
 # Tavsiyeler — 11.10.2026
 
-İddaa oranlarının son kaydı: 11.10 22:35 (TR saati)
+İddaa oranlarının son kaydı: 11.10 22:44 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -92,7 +92,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Mallorca – Las Palmas (SP2, 11.10): **1-0** — olasılık %15, adil oran 6.85, İddaa oranı yok _(sadece model)_
 • Kifisia – Panetolikos (G1, 11.10): **1-0** — olasılık %15, adil oran 6.88, İddaa oranı yok
 • Torino – Udinese (I1, 12.10 21:45): **1-1** — olasılık %15, adil oran 6.88, İddaa 5.14 (değer -25%)
-• Levante – Sevilla (SP1, 12.10 22:00): **1-1** — olasılık %14, adil oran 6.93, İddaa 5.29 (değer -24%)
+• Levante – Sevilla (SP1, 12.10 22:00): **1-1** — olasılık %14, adil oran 6.93, İddaa 5.28 (değer -24%)
 • Elche – Celta (SP1, 11.10): **1-1** — olasılık %14, adil oran 7.12, İddaa oranı yok
 • Standard – Charleroi (B1, 11.10): **1-1** — olasılık %14, adil oran 7.18, İddaa oranı yok _(sadece model)_
 • Rennes – Auxerre (F1, 11.10): **2-1** — olasılık %14, adil oran 7.36, İddaa oranı yok
@@ -131,7 +131,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Lazio – Monza (I1, 11.10): **2-1** — olasılık %11, adil oran 8.98, İddaa oranı yok
 • Aris – Volos NFC (G1, 11.10): **2-1** — olasılık %11, adil oran 9.00, İddaa oranı yok
 • Aberdeen – St Johnstone (SC0, 11.10): **1-0** — olasılık %11, adil oran 9.05, İddaa oranı yok
-• Atalanta – Venezia (I1, 12.10 19:30): **2-1** — olasılık %11, adil oran 9.05, İddaa 7.51 (değer -17%)
+• Atalanta – Venezia (I1, 12.10 19:30): **2-1** — olasılık %11, adil oran 9.05, İddaa 7.49 (değer -17%)
 • Freiburg – Schalke 04 (D1, 11.10): **2-1** — olasılık %11, adil oran 9.06, İddaa oranı yok
 • Como – Roma (I1, 11.10): **1-1** — olasılık %11, adil oran 9.08, İddaa oranı yok
 • St Pauli – Karlsruhe (D2, 11.10): **2-1** — olasılık %11, adil oran 9.13, İddaa oranı yok
