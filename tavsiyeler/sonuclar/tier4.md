@@ -2,11 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/32 tuttu** (isabet %12, beklenen %32) · -22.03 birim · 3 tahmin sonuç bekliyor
+**4/32 tuttu** (isabet %12, beklenen %32) · -22.03 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 12.10.2026 Pazartesi
+
+**22:00 · Tenerife – Girona**
+
+- ⏳ MS 2 · @2.38
+
+**22:15 · Famalicao – Alverca FC**
+
+- ⏳ En çok korner 2 · @2.80
+
 ## 11.10.2026 Pazar
+
+**14:30 · Saint Pauli – Karlsruhe**
+
+- ⏳ ↳ Korner 8.5 Alt · @3.29
+
+**16:00 · Lazio – AC Monza**
+
+- ⏳ MS 1 & 2.5 Üst · @2.39
+
+**18:15 · Rennes – AJ Auxerre**
+
+- ⏳ MS 1 & KG Var · @2.49
+
+**18:30 · Liverpool – Manchester City**
+
+- ⏳ MS 1 · @2.77
 
 **19:30 · Westerlo – Antwerp**
 

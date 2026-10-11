@@ -2,16 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/111 tuttu** (isabet %54, beklenen %66) · -23.81 birim · 11 tahmin sonuç bekliyor
+**63/114 tuttu** (isabet %55, beklenen %66) · -22.28 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 11.10 08:58 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
+- ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
+- ⏳ 11.10 14:30 Saint Pauli – Karlsruhe · Korner 12.5 Alt · @1.32
+- ⏳ 11.10 15:30 Zwolle – SC Cambuur · 2.5 Üst · @1.40
+- ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
+- ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43
+- ⏳ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45
+- ⏳ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.41
+- ⏳ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54
+
 ## 10.10 20:25 gönderilen kupon · 7'de 4
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 10.10 22:30 Casa Pia AC – Santa Clara · ↳ Korner 9.5 Alt · @1.67 · korner 3-7
-- ⏳ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51
+- ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
 - ⏳ 11.10 16:00 Gaziantep FK – Çorum FK · 2.5 Üst · @1.79
 - ⏳ 11.10 17:00 POT Iraklis – APO Levadeiakos FC · KG Var · @1.83
 - ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
@@ -20,7 +33,7 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 10.10 13:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ✅ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99 · korner 7-8
 - ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
@@ -28,7 +41,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ❌ 10.10 17:00 Sheffield United – Lincoln City · En çok korner 1 · @1.53 · korner 2-2
 - ✅ 10.10 17:00 Inverness – Stenhousemuir · 2.5 Alt · @1.57 · 2-0
 - ✅ 10.10 17:30 Go Ahead Eagles – Sparta Rotterdam · En çok korner 1 · @1.41 · korner 9-6
-- ⏳ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51
+- ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
 - ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
 
 ## 09.10 21:29 gönderilen kupon · 8'de 7

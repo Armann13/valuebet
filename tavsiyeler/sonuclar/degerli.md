@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/10 tuttu** (isabet %100, beklenen %48) · +13.15 birim · 12 tahmin sonuç bekliyor
+**12/12 tuttu** (isabet %100, beklenen %47) · +15.94 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,13 +10,17 @@
 
 **14:00 · Motherwell – Celtic**
 
-- ⏳ 2.5 Alt · @2.51
-- ⏳ KG Yok · @2.28
+- ✅ 2.5 Alt · @2.51 · 0-2
+- ✅ KG Yok · @2.28 · 0-2
 
 **14:30 · Saint Pauli – Karlsruhe**
 
 - ⏳ 2.5 Alt · @2.53
 - ⏳ KG Yok · @2.43
+
+**14:30 · Hertha Berlin – Greuther Furth**
+
+- ⏳ 2.5 Alt · @2.90
 
 **16:00 · Gaziantep FK – Çorum FK**
 

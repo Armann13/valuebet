@@ -2,15 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/21 tuttu** (isabet %14, beklenen %17) · -7.20 birim · 1 tahmin sonuç bekliyor
+**3/21 tuttu** (isabet %14, beklenen %17) · -7.20 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.10.2026 Pazartesi
+
+**21:45 · Torino – Udinese**
+
+- ⏳ 1-1 · @5.12
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ 1-1 · @5.31
 
 ## 11.10.2026 Pazar
 
 **19:00 · Beşiktaş – Kocaelispor**
 
 - ⏳ 1-0 · @6.65
+
+**21:45 · Cagliari – Juventus**
+
+- ⏳ 0-1 · @5.40
 
 ## 10.10.2026 Cumartesi
 

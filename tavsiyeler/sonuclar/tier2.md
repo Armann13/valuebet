@@ -2,15 +2,41 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**51/83 tuttu** (isabet %61, beklenen %64) · -7.83 birim · 7 tahmin sonuç bekliyor
+**52/84 tuttu** (isabet %62, beklenen %64) · -7.42 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 12.10.2026 Pazartesi
+
+**15:00 · Real Valladolid – Albacete**
+
+- ⏳ En çok korner 1 · @1.45
+
+**20:00 · Eyüpspor – Göztepe**
+
+- ⏳ ↳ MS 2 · @1.84
+
 ## 11.10.2026 Pazar
+
+**13:15 · Utrecht – Willem II**
+
+- ✅ MS 1 · @1.41 · 3-1
+
+**14:30 · Saint Pauli – Karlsruhe**
+
+- ⏳ ↳ Korner 11.5 Alt · @1.54
+
+**15:30 · Zwolle – SC Cambuur**
+
+- ⏳ 2.5 Üst · @1.40
 
 **16:00 · Gaziantep FK – Çorum FK**
 
 - ⏳ 2.5 Üst · @1.79
+
+**16:00 · Crystal Palace – Nottingham Forest**
+
+- ⏳ ÇŞ 1-X · @1.40
 
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
@@ -23,6 +49,10 @@
 **19:00 · Beşiktaş – Kocaelispor**
 
 - ⏳ 2.5 Alt · @2.19
+
+**19:30 · Mallorca – Las Palmas**
+
+- ⏳ MS 1 · @1.48
 
 ## 10.10.2026 Cumartesi
 

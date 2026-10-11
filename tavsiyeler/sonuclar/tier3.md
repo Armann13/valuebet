@@ -2,23 +2,38 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/72 tuttu** (isabet %44, beklenen %47) · -6.10 birim · 7 tahmin sonuç bekliyor
+**33/73 tuttu** (isabet %45, beklenen %47) · -4.59 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.10.2026 Pazartesi
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ En çok korner 2 · @2.02
 
 ## 11.10.2026 Pazar
 
 **14:00 · Motherwell – Celtic**
 
-- ⏳ 2.5 Alt · @2.51
+- ✅ 2.5 Alt · @2.51 · 0-2
 
 **14:30 · Saint Pauli – Karlsruhe**
 
 - ⏳ 2.5 Alt · @2.53
+- ⏳ ↳ Korner 9.5 Alt · @2.41
+
+**14:30 · Hertha Berlin – Greuther Furth**
+
+- ⏳ 2.5 Alt · @2.90
 
 **16:00 · Gaziantep FK – Çorum FK**
 
 - ⏳ En çok korner 1 · @2.02
+
+**17:00 · POT Iraklis – APO Levadeiakos FC**
+
+- ⏳ MS 1 & 2.5 Üst · @4.01
 
 **17:45 · Excelsior – Groningen**
 

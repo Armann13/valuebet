@@ -2,31 +2,71 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/102 tuttu** (isabet %15, beklenen %12) · +3.36 birim · 12 tahmin sonuç bekliyor
+**15/105 tuttu** (isabet %14, beklenen %12) · +0.36 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.10.2026 Pazartesi
+
+**15:00 · Real Valladolid – Albacete**
+
+- ⏳ 1-0 · @6.88
+
+**19:30 · Atalanta – Venezia**
+
+- ⏳ 2-1 · @7.48
+
+**20:00 · Eyüpspor – Göztepe**
+
+- ⏳ 1-2 · @7.73
+
+**22:00 · Tenerife – Girona**
+
+- ⏳ 0-1 · @6.71
+
+**22:15 · Famalicao – Alverca FC**
+
+- ⏳ 1-0 · @6.00
 
 ## 11.10.2026 Pazar
 
 **13:15 · Utrecht – Willem II**
 
-- ⏳ 1-1 · @8.29
+- ❌ 1-1 · @8.29 · 3-1
+- ❌ 2-0 · @8.16 · 3-1
 
 **14:00 · Motherwell – Celtic**
 
-- ⏳ 0-1 · @9.69
+- ❌ 0-1 · @9.69 · 0-2
 
 **14:30 · Saint Pauli – Karlsruhe**
 
 - ⏳ 1-1 · @7.45
 
+**14:30 · Hertha Berlin – Greuther Furth**
+
+- ⏳ 1-1 · @8.58
+
+**15:30 · Zwolle – SC Cambuur**
+
+- ⏳ 2-1 · @8.14
+
 **16:00 · Gaziantep FK – Çorum FK**
 
 - ⏳ 2-1 · @8.93
 
+**16:00 · Crystal Palace – Nottingham Forest**
+
+- ⏳ 1-1 · @5.41
+
+**16:00 · Lazio – AC Monza**
+
+- ⏳ 2-1 · @7.42
+
 **17:00 · POT Iraklis – APO Levadeiakos FC**
 
 - ⏳ 1-1 · @4.59
+- ⏳ 2-1 · @7.75
 
 **17:15 · Real Sociedad – Deportivo La Coruna**
 
@@ -35,14 +75,23 @@
 **17:45 · Excelsior – Groningen**
 
 - ⏳ 1-1 · @6.25
+- ⏳ 1-2 · @8.89
 
 **18:15 · Rennes – AJ Auxerre**
 
 - ⏳ 2-1 · @7.44
 
+**18:30 · Liverpool – Manchester City**
+
+- ⏳ 2-1 · @9.69
+
 **19:30 · Westerlo – Antwerp**
 
 - ⏳ 2-1 · @8.30
+
+**19:30 · Mallorca – Las Palmas**
+
+- ⏳ 1-0 · @6.32
 
 ## 10.10.2026 Cumartesi
 

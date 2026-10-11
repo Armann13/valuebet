@@ -2,19 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**47/65 tuttu** (isabet %72, beklenen %77) · -8.23 birim · 2 tahmin sonuç bekliyor
+**48/66 tuttu** (isabet %73, beklenen %77) · -7.72 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.10.2026 Pazartesi
+
+**19:30 · Atalanta – Venezia**
+
+- ⏳ En çok korner 1 · @1.41
+
+**20:00 · Eyüpspor – Göztepe**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 ## 11.10.2026 Pazar
 
 **13:15 · Utrecht – Willem II**
 
-- ⏳ En çok korner 1 · @1.51
+- ✅ En çok korner 1 · @1.51 · korner 7-3
 
 **17:15 · Real Sociedad – Deportivo La Coruna**
 
 - ⏳ En çok korner 1 · @1.35
+
+**17:45 · Excelsior – Groningen**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 ## 10.10.2026 Cumartesi
 

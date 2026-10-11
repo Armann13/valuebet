@@ -2,17 +2,49 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**82/151 tuttu** (isabet %54, beklenen %61) · -30.20 birim · 15 tahmin sonuç bekliyor
+**86/155 tuttu** (isabet %55, beklenen %62) · -28.16 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.10.2026 Pazartesi
+
+**15:00 · Real Valladolid – Albacete**
+
+- ⏳ 🟡 En çok korner 1 · @1.45
+- ⏳ 🎰 En çok korner 1 · @1.45
+
+**19:30 · Atalanta – Venezia**
+
+- ⏳ 🟢 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
+
+**19:30 · Real Oviedo – Eibar**
+
+- ⏳ 🎰 En çok korner 1 · @1.54
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ 🔴 En çok korner 2 · @2.02
+
+**22:15 · Famalicao – Alverca FC**
+
+- ⏳ 🟣 En çok korner 2 · @2.80
 
 ## 11.10.2026 Pazar
 
 **13:15 · Utrecht – Willem II**
 
-- ⏳ 🟢 En çok korner 1 · @1.51
-- ⏳ 🎰 En çok korner 1 · @1.51
-- ⏳ 🎰 En çok korner 1 · @1.51
+- ✅ 🟢 En çok korner 1 · @1.51 · korner 7-3
+- ✅ 🎰 En çok korner 1 · @1.51 · korner 7-3
+- ✅ 🎰 En çok korner 1 · @1.51 · korner 7-3
+- ✅ 🎰 En çok korner 1 · @1.51 · korner 7-3
+
+**14:30 · Saint Pauli – Karlsruhe**
+
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.54
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.41
+- ⏳ 🟣 ↳ Korner 8.5 Alt · @3.29
+- ⏳ 🎰 Korner 12.5 Alt · @1.32
 
 **16:00 · Gaziantep FK – Çorum FK**
 
@@ -23,6 +55,7 @@
 - ⏳ 🟢 En çok korner 1 · @1.35
 - ⏳ 🎰 En çok korner 1 · @1.35
 - ⏳ 🎰 En çok korner 1 · @1.35
+- ⏳ 🎰 En çok korner 1 · @1.35
 
 **17:45 · Excelsior – Groningen**
 
@@ -31,6 +64,7 @@
 **18:15 · Rennes – AJ Auxerre**
 
 - ⏳ 🟡 En çok korner 1 · @1.43
+- ⏳ 🎰 En çok korner 1 · @1.43
 - ⏳ 🎰 En çok korner 1 · @1.43
 
 **19:30 · Westerlo – Antwerp**
