@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/32 tuttu** (isabet %12, beklenen %32) · -22.03 birim · 9 tahmin sonuç bekliyor
+**4/33 tuttu** (isabet %12, beklenen %32) · -23.03 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **14:30 · Saint Pauli – Karlsruhe**
 
-- ⏳ ↳ Korner 8.5 Alt · @3.29
+- ❌ ↳ Korner 8.5 Alt · @3.29 · korner 6-9
 
 **16:00 · Lazio – AC Monza**
 

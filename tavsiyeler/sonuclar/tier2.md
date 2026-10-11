@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**52/84 tuttu** (isabet %62, beklenen %64) · -7.42 birim · 13 tahmin sonuç bekliyor
+**52/85 tuttu** (isabet %61, beklenen %64) · -8.42 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **14:30 · Saint Pauli – Karlsruhe**
 
-- ⏳ ↳ Korner 11.5 Alt · @1.54
+- ❌ ↳ Korner 11.5 Alt · @1.54 · korner 6-9
 
 **15:30 · Zwolle – SC Cambuur**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**63/114 tuttu** (isabet %55, beklenen %66) · -22.28 birim · 16 tahmin sonuç bekliyor
+**63/115 tuttu** (isabet %55, beklenen %66) · -23.28 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,7 +11,7 @@
 Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
-- ⏳ 11.10 14:30 Saint Pauli – Karlsruhe · Korner 12.5 Alt · @1.32
+- ❌ 11.10 14:30 Saint Pauli – Karlsruhe · Korner 12.5 Alt · @1.32 · korner 6-9
 - ⏳ 11.10 15:30 Zwolle – SC Cambuur · 2.5 Üst · @1.40
 - ⏳ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35
 - ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43

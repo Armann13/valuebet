@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/105 tuttu** (isabet %14, beklenen %12) · +0.36 birim · 23 tahmin sonuç bekliyor
+**15/107 tuttu** (isabet %14, beklenen %12) · -1.64 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,11 +41,11 @@
 
 **14:30 · Saint Pauli – Karlsruhe**
 
-- ⏳ 1-1 · @7.45
+- ❌ 1-1 · @7.45 · 2-0
 
 **14:30 · Hertha Berlin – Greuther Furth**
 
-- ⏳ 1-1 · @8.58
+- ❌ 1-1 · @8.58 · 2-1
 
 **15:30 · Zwolle – SC Cambuur**
 

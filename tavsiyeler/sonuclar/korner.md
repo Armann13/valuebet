@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**86/155 tuttu** (isabet %55, beklenen %62) · -28.16 birim · 25 tahmin sonuç bekliyor
+**86/159 tuttu** (isabet %54, beklenen %62) · -32.16 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,10 +41,10 @@
 
 **14:30 · Saint Pauli – Karlsruhe**
 
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.54
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.41
-- ⏳ 🟣 ↳ Korner 8.5 Alt · @3.29
-- ⏳ 🎰 Korner 12.5 Alt · @1.32
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.54 · korner 6-9
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.41 · korner 6-9
+- ❌ 🟣 ↳ Korner 8.5 Alt · @3.29 · korner 6-9
+- ❌ 🎰 Korner 12.5 Alt · @1.32 · korner 6-9
 
 **16:00 · Gaziantep FK – Çorum FK**
 

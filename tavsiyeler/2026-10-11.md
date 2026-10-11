@@ -1,6 +1,6 @@
 # Tavsiyeler — 11.10.2026
 
-İddaa oranlarının son kaydı: 11.10 15:59 (TR saati)
+İddaa oranlarının son kaydı: 11.10 16:33 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -23,7 +23,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## 🟡 Tier 2 — Orta risk
 
-• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.57 (değer +33% 💎)
+• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.51 (değer +30% 💎)
 • Bochum – Bielefeld (D2, 11.10): **ÇŞ 1-X** — olasılık %69, adil oran 1.46, İddaa oranı yok
 • Andorra – Castellon (SP2, 11.10): **ÇŞ X-2** — olasılık %69, adil oran 1.46, İddaa oranı yok
 • Catanzaro – Mantova (I2, 11.10): **ÇŞ 1-X** — olasılık %68, adil oran 1.47, İddaa oranı yok
@@ -42,10 +42,10 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## 🔴 Tier 3 — Yüksek risk
 
-• Liverpool – Manchester City (E0, 11.10 18:30): **MS 1** — olasılık %35, adil oran 2.82, İddaa 2.94 (değer +4% 💎)
-• POT Iraklis – APO Levadeiakos FC (G1, 11.10 17:00): **MS 1 & 2.5 Üst** — olasılık %25, adil oran 3.94, İddaa 3.96 (değer +0% 💎), MBS 3
+• Liverpool – Manchester City (E0, 11.10 18:30): **MS 1** — olasılık %35, adil oran 2.82, İddaa 2.95 (değer +5% 💎)
 • Rio Ave – Nacional (P1, 11.10): **KG Yok** — olasılık %50, adil oran 2.00, İddaa oranı yok _(sadece model)_
 • Aberdeen – St Johnstone (SC0, 11.10): **KG Yok** — olasılık %50, adil oran 2.00, İddaa oranı yok
+• Almeria – Leganes (SP2, 11.10 17:15): **KG Yok** — olasılık %50, adil oran 2.01, İddaa 1.84 (değer -8%)
 • Modena – Verona (I2, 11.10): **KG Var** — olasılık %50, adil oran 2.01, İddaa oranı yok
 • Zwolle – Cambuur (N1, 11.10): **MS 1** — olasılık %50, adil oran 2.01, İddaa oranı yok
 • ↳ Utrecht – Willem II (N1, 11.10): **MS 1 & 2.5 Üst** — olasılık %47, adil oran 2.14, İddaa oranı yok
@@ -77,25 +77,26 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## ⚡ Tier 5 — Aşırı risk (kısa kesin skor)
 
-• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **1-0** — olasılık %19, adil oran 5.28, İddaa 8.04 (değer +52%)
+• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **1-0** — olasılık %19, adil oran 5.28, İddaa 7.88 (değer +49%)
 • Mallorca – Las Palmas (SP2, 11.10 19:30): **1-0** — olasılık %15, adil oran 6.53, İddaa 6.03 (değer -8%) _(İddaa oranına ayarlı)_
 • St. Gilloise – Oud-Heverlee Leuven (B1, 11.10): **2-0** — olasılık %15, adil oran 6.53, İddaa oranı yok _(sadece model)_
-• Cagliari – Juventus (I1, 11.10 21:45): **0-1** — olasılık %15, adil oran 6.81, İddaa 5.32 (değer -22%)
+• POT Iraklis – APO Levadeiakos FC (G1, 11.10 17:00): **1-1** — olasılık %15, adil oran 6.70, İddaa 4.61 (değer -31%), MBS 3
+• Cagliari – Juventus (I1, 11.10 21:45): **0-1** — olasılık %15, adil oran 6.81, İddaa 5.31 (değer -22%)
 • Kifisia – Panetolikos (G1, 11.10): **1-0** — olasılık %15, adil oran 6.88, İddaa oranı yok
-• Torino – Udinese (I1, 12.10 21:45): **1-1** — olasılık %15, adil oran 6.88, İddaa 5.12 (değer -26%)
 
 ## 🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 
-• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **1-0** — olasılık %19, adil oran 5.28, İddaa 8.04 (değer +52%)
+• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **1-0** — olasılık %19, adil oran 5.28, İddaa 7.88 (değer +49%)
 • Mallorca – Las Palmas (SP2, 11.10 19:30): **1-0** — olasılık %15, adil oran 6.53, İddaa 6.03 (değer -8%) _(İddaa oranına ayarlı)_
 • St. Gilloise – Oud-Heverlee Leuven (B1, 11.10): **2-0** — olasılık %15, adil oran 6.53, İddaa oranı yok _(sadece model)_
-• Cagliari – Juventus (I1, 11.10 21:45): **0-1** — olasılık %15, adil oran 6.81, İddaa 5.32 (değer -22%)
+• POT Iraklis – APO Levadeiakos FC (G1, 11.10 17:00): **1-1** — olasılık %15, adil oran 6.70, İddaa 4.61 (değer -31%), MBS 3
+• Cagliari – Juventus (I1, 11.10 21:45): **0-1** — olasılık %15, adil oran 6.81, İddaa 5.31 (değer -22%)
 • Kifisia – Panetolikos (G1, 11.10): **1-0** — olasılık %15, adil oran 6.88, İddaa oranı yok
 • Torino – Udinese (I1, 12.10 21:45): **1-1** — olasılık %15, adil oran 6.88, İddaa 5.12 (değer -26%)
+• Cadiz – S.Gijon (SP2, 11.10 22:00): **1-0** — olasılık %14, adil oran 6.92, İddaa 5.81 (değer -16%) _(İddaa oranına ayarlı)_
 • Levante – Sevilla (SP1, 12.10 22:00): **1-1** — olasılık %14, adil oran 6.93, İddaa 5.31 (değer -23%)
-• Cadiz – S.Gijon (SP2, 11.10 22:00): **1-0** — olasılık %14, adil oran 7.00, İddaa 5.85 (değer -16%) _(İddaa oranına ayarlı)_
 • Standard – Charleroi (B1, 11.10): **1-1** — olasılık %14, adil oran 7.18, İddaa oranı yok _(sadece model)_
-• Rennes – AJ Auxerre (F1, 11.10 18:15): **2-1** — olasılık %14, adil oran 7.36, İddaa 7.48 (değer +2%)
+• Rennes – AJ Auxerre (F1, 11.10 18:15): **2-1** — olasılık %14, adil oran 7.36, İddaa 7.47 (değer +2%)
 • Famalicao – Alverca FC (P1, 12.10 22:15): **1-0** — olasılık %14, adil oran 7.38, İddaa 6.09 (değer -17%)
 • Crystal Palace – Nott'm Forest (E0, 11.10): **1-1** — olasılık %13, adil oran 7.43, İddaa oranı yok
 • Olympiacos – Panathinaikos (G1, 11.10 21:00): **1-1** — olasılık %13, adil oran 7.46, İddaa 4.67 (değer -37%), MBS 3
@@ -114,26 +115,26 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Coventry – Newcastle United (E0, 12.10 22:00): **1-1** — olasılık %12, adil oran 8.10, İddaa 5.97 (değer -26%)
 • Bochum – Bielefeld (D2, 11.10): **1-1** — olasılık %12, adil oran 8.10, İddaa oranı yok
 • PAOK – Kalamata (G1, 12.10): **2-0** — olasılık %12, adil oran 8.12, İddaa oranı yok _(sadece model)_
-• Almeria – Leganes (SP2, 11.10 17:15): **1-0** — olasılık %12, adil oran 8.19, İddaa 6.56 (değer -20%)
+• Almeria – Leganes (SP2, 11.10 17:15): **1-0** — olasılık %12, adil oran 8.19, İddaa 6.52 (değer -20%)
 • Real Valladolid – Albacete (SP2, 12.10 15:00): **1-0** — olasılık %12, adil oran 8.20, İddaa 6.88 (değer -16%) _(İddaa oranına ayarlı)_
 • Nice – Strasbourg (F1, 11.10): **1-1** — olasılık %12, adil oran 8.25, İddaa oranı yok
 • Eyüpspor – Göztepe (T1, 12.10 20:00): **1-2** — olasılık %12, adil oran 8.36, İddaa 7.73 (değer -7%) _(İddaa oranına ayarlı)_
 • Westerlo – Antwerp (B1, 11.10 19:30): **2-1** — olasılık %12, adil oran 8.43, İddaa 7.95 (değer -6%) _(İddaa oranına ayarlı)_
-• Padova – Carrarese Calcio 1908 (I2, 11.10 18:15): **1-1** — olasılık %12, adil oran 8.48, İddaa 5.79 (değer -32%)
+• Padova – Carrarese Calcio 1908 (I2, 11.10 18:15): **1-1** — olasılık %12, adil oran 8.48, İddaa 5.74 (değer -32%)
 • Telstar – Den Haag (N1, 11.10): **1-1** — olasılık %12, adil oran 8.48, İddaa oranı yok
-• Real Betis – Osasuna (SP1, 11.10 19:30): **1-0** — olasılık %12, adil oran 8.55, İddaa 7.03 (değer -18%)
-• Sassuolo – AC Milan (I1, 11.10 19:00): **1-1** — olasılık %12, adil oran 8.60, İddaa 6.26 (değer -27%)
+• Real Betis – Osasuna (SP1, 11.10 19:30): **1-0** — olasılık %12, adil oran 8.55, İddaa 6.94 (değer -19%)
+• Sassuolo – AC Milan (I1, 11.10 19:00): **1-1** — olasılık %12, adil oran 8.60, İddaa 6.27 (değer -27%)
 • Dijon – Metz (F2, 12.10 21:45): **1-1** — olasılık %12, adil oran 8.66, İddaa 5.78 (değer -33%) _(İddaa oranına ayarlı)_
 • Mechelen – St. Truidense (B1, 11.10 20:15): **1-1** — olasılık %11, adil oran 8.76, İddaa 5.93 (değer -32%) _(İddaa oranına ayarlı)_
 • Troyes – Marseille (F1, 11.10): **1-1** — olasılık %11, adil oran 8.80, İddaa oranı yok
 • Benfica – Guimaraes (P1, 11.10): **2-1** — olasılık %11, adil oran 8.81, İddaa oranı yok
-• Real Sociedad – Deportivo La Coruna (SP1, 11.10 17:15): **1-0** — olasılık %11, adil oran 8.96, İddaa 7.05 (değer -21%)
+• Real Sociedad – Deportivo La Coruna (SP1, 11.10 17:15): **1-0** — olasılık %11, adil oran 8.96, İddaa 7.41 (değer -17%)
 • Rio Ave – Nacional (P1, 11.10): **1-0** — olasılık %11, adil oran 8.98, İddaa oranı yok _(sadece model)_
 • Motherwell – Celtic (SC0, 11.10): **1-2** — olasılık %11, adil oran 8.98, İddaa oranı yok
 • Lazio – Monza (I1, 11.10): **2-1** — olasılık %11, adil oran 8.98, İddaa oranı yok
 • Aberdeen – St Johnstone (SC0, 11.10): **1-0** — olasılık %11, adil oran 9.05, İddaa oranı yok
 • Atalanta – Venezia (I1, 12.10 19:30): **2-1** — olasılık %11, adil oran 9.05, İddaa 7.49 (değer -17%)
-• Freiburg – Schalke 04 (D1, 11.10 18:30): **2-1** — olasılık %11, adil oran 9.06, İddaa 7.49 (değer -17%)
+• Freiburg – Schalke 04 (D1, 11.10 18:30): **2-1** — olasılık %11, adil oran 9.06, İddaa 7.47 (değer -18%)
 • Como – Roma (I1, 11.10): **1-1** — olasılık %11, adil oran 9.08, İddaa oranı yok
 • St Pauli – Karlsruhe (D2, 11.10): **2-1** — olasılık %11, adil oran 9.13, İddaa oranı yok
 • Excelsior – Groningen (N1, 11.10 17:45): **1-1** — olasılık %11, adil oran 9.48, İddaa 6.33 (değer -33%) _(İddaa oranına ayarlı)_
@@ -142,11 +143,10 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Tenerife – Girona (SP2, 12.10 22:00): **0-1** — olasılık %10, adil oran 9.96, İddaa 6.71 (değer -33%) _(İddaa oranına ayarlı)_
 • Zwolle – Cambuur (N1, 11.10): **2-1** — olasılık %10, adil oran 10.08, İddaa oranı yok
 • Southampton – Portsmouth (E1, 11.10): **2-1** — olasılık %10, adil oran 10.35, İddaa oranı yok
-• POT Iraklis – APO Levadeiakos FC (G1, 11.10 17:00): **2-1** — olasılık %10, adil oran 10.46, İddaa 7.72 (değer -26%), MBS 3
 • Utrecht – Willem II (N1, 11.10): **2-1** — olasılık %9, adil oran 10.64, İddaa oranı yok
 • Elche – Celta (SP1, 11.10): **0-1** — olasılık %9, adil oran 10.79, İddaa oranı yok
 • Gaziantep – Corum (T1, 11.10): **2-1** — olasılık %8, adil oran 11.81, İddaa oranı yok
-• Liverpool – Manchester City (E0, 11.10 18:30): **2-1** — olasılık %8, adil oran 11.88, İddaa 10.00 (değer -16%)
+• Liverpool – Manchester City (E0, 11.10 18:30): **2-1** — olasılık %8, adil oran 11.88, İddaa 10.05 (değer -15%)
 
 ## 🎰 Sistem kupon (7 maç)
 
@@ -156,21 +156,20 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Levante – Sevilla (SP1, 12.10 22:00): **Korner 10.5 Alt** — olasılık %66, adil oran 1.50, İddaa 1.42 (değer -6%) _(korner modeli)_
 • Real Oviedo – Eibar (SP2, 12.10 19:30): **En çok korner 1** — olasılık %66, adil oran 1.51, İddaa 1.54 (değer +2%) _(korner modeli)_
 • ↳ Almeria – Leganes (SP2, 11.10 17:15): **Korner 10.5 Alt** — olasılık %66, adil oran 1.52, İddaa 1.46 (değer -4%) _(korner modeli)_
-• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.57 (değer +33% 💎)
+• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.51 (değer +30% 💎)
 
 | sistem | kolon | en az k tutma | kâr olasılığı | beklenen dönüş (birim başına) |
 |---|---|---|---|---|
-| 7'de 4 | 35 | %86 | %32 | 1.23 |
-| 7'de 5 | 21 | %61 | %29 | 1.29 |
-| 7'de 6 | 7 | %29 | %29 | 1.35 |
-| 7'de 7 | 1 | %6 | %6 | 1.41 |
+| 7'de 4 | 35 | %86 | %29 | 1.21 |
+| 7'de 5 | 21 | %61 | %29 | 1.26 |
+| 7'de 6 | 7 | %29 | %29 | 1.32 |
+| 7'de 7 | 1 | %6 | %6 | 1.37 |
 
 ## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)
 
 Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle / Betfair) adil fiyatının üstünde. Sadece modelin gördüğü değerler buraya alınmaz (backtest'te kapanışı yenmedi).
 
-• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.57 (değer +33% 💎)
+• Beşiktaş – Kocaelispor (T1, 11.10 19:00): **2.5 Alt** — olasılık %52, adil oran 1.93, İddaa 2.51 (değer +30% 💎)
 • Beşiktaş – Kocaelispor (T1, 11.10 19:00): **İY/MS X/1** — olasılık %26, adil oran 3.81, İddaa 4.07 (değer +7% 💎)
-• Liverpool – Manchester City (E0, 11.10 18:30): **MS 1** — olasılık %35, adil oran 2.82, İddaa 2.94 (değer +4% 💎)
-• POT Iraklis – APO Levadeiakos FC (G1, 11.10 17:00): **MS 1 & 2.5 Üst** — olasılık %25, adil oran 3.94, İddaa 3.96 (değer +0% 💎), MBS 3
+• Liverpool – Manchester City (E0, 11.10 18:30): **MS 1** — olasılık %35, adil oran 2.82, İddaa 2.95 (değer +5% 💎)
 • Beşiktaş – Kocaelispor (T1, 11.10 19:00): **KG Yok** — olasılık %59, adil oran 1.69, İddaa 1.69 (değer +0% 💎)
