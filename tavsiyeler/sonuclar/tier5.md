@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/23 tuttu** (isabet %13, beklenen %17) · -9.20 birim · 2 tahmin sonuç bekliyor
+**3/23 tuttu** (isabet %13, beklenen %17) · -9.20 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10.2026 Salı
+
+**21:45 · Cardiff City – Watford**
+
+- ⏳ 2-1 · @7.53
+
+**21:45 · Queen's Park – Inverness**
+
+- ⏳ 0-1 · @5.30
+
+**22:00 · Birmingham – Preston**
+
+- ⏳ 2-1 · @7.33
 
 ## 12.10.2026 Pazartesi
 

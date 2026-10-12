@@ -2,20 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/79 tuttu** (isabet %46, beklenen %47) · -4.04 birim · 7 tahmin sonuç bekliyor
+**36/80 tuttu** (isabet %45, beklenen %47) · -5.04 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10.2026 Salı
+
+**21:45 · Bristol City – Blackburn Rovers**
+
+- ⏳ ↳ MS 1 · @1.86
+- ⏳ ↳ Korner 9.5 Alt · @2.17
+
+**21:45 · Wrexham – West Bromwich**
+
+- ⏳ KG Yok · @1.86
+- ⏳ En çok korner 2 · @2.44
 
 ## 12.10.2026 Pazartesi
 
 **17:15 · CF Burgos – Granada**
 
-- ⏳ En çok korner 2 · @2.40
+- ❌ En çok korner 2 · @2.40 · korner 4-0
+
+**19:30 · Real Oviedo – Eibar**
+
+- ⏳ MS 1 · @2.22
 
 **22:00 · Levante – Sevilla**
 
 - ⏳ En çok korner 2 · @2.02
 - ⏳ ↳ Korner 8.5 Alt · @2.18
+- ⏳ 2.5 Üst · @2.05
 
 **22:00 · Tenerife – Girona**
 

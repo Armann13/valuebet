@@ -2,19 +2,42 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/119 tuttu** (isabet %13, beklenen %12) · -13.64 birim · 11 tahmin sonuç bekliyor
+**15/122 tuttu** (isabet %12, beklenen %12) · -16.64 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10.2026 Salı
+
+**21:45 · Burnley – Charlton**
+
+- ⏳ 1-0 · @6.26
+
+**21:45 · Wrexham – West Bromwich**
+
+- ⏳ 1-0 · @6.93
+
+**21:45 · Bristol City – Blackburn Rovers**
+
+- ⏳ 2-1 · @7.80
+
+**21:45 · Millwall – Swansea City**
+
+- ⏳ 2-1 · @8.75
+
+**22:00 · Stoke City – Middlesbrough**
+
+- ⏳ 1-2 · @7.66
 
 ## 12.10.2026 Pazartesi
 
 **15:00 · Real Valladolid – Albacete**
 
-- ⏳ 1-0 · @6.88
+- ❌ 1-0 · @6.88 · 5-0
+- ❌ 2-1 · @7.74 · 5-0
 
 **17:15 · CF Burgos – Granada**
 
-- ⏳ 1-1 · @5.23
+- ❌ 1-1 · @5.23 · 0-1
 
 **19:30 · Atalanta – Venezia**
 
@@ -28,9 +51,17 @@
 
 - ⏳ 1-2 · @7.73
 
+**21:45 · Dijon – Metz**
+
+- ⏳ 1-2 · @8.59
+
 **22:00 · Tenerife – Girona**
 
 - ⏳ 0-1 · @6.71
+
+**22:00 · Levante – Sevilla**
+
+- ⏳ 1-2 · @9.28
 
 **22:15 · Famalicao – Alverca FC**
 

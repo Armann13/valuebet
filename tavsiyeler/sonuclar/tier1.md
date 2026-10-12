@@ -2,11 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/68 tuttu** (isabet %72, beklenen %77) · -8.52 birim · 4 tahmin sonuç bekliyor
+**50/69 tuttu** (isabet %72, beklenen %77) · -8.30 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 13.10.2026 Salı
+
+**21:45 · Bristol City – Blackburn Rovers**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**21:45 · Millwall – Swansea City**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**21:45 · Burnley – Charlton**
+
+- ⏳ En çok korner 1 · @1.32
+
+**22:00 · Stoke City – Middlesbrough**
+
+- ⏳ ÇŞ X-2 · @1.20
+
 ## 12.10.2026 Pazartesi
+
+**15:00 · Real Valladolid – Albacete**
+
+- ✅ ÇŞ 1-2 · @1.22 · 5-0
 
 **19:30 · Atalanta – Venezia**
 
@@ -15,6 +37,10 @@
 **20:00 · Eyüpspor – Göztepe**
 
 - ⏳ ÇŞ 1-2 · @1.20
+
+**21:45 · Dijon – Metz**
+
+- ⏳ ÇŞ 1-2 · @1.22
 
 **22:00 · Levante – Sevilla**
 

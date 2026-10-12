@@ -2,15 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 8 tahmin sonuç bekliyor
+**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10.2026 Salı
+
+**21:45 · Bristol City – Blackburn Rovers**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.93
+
+**22:00 · Stoke City – Middlesbrough**
+
+- ⏳ ↳ MS 2 & KG Var · @3.39
 
 ## 12.10.2026 Pazartesi
 
 **20:00 · Eyüpspor – Göztepe**
 
 - ⏳ Korner 7.5 Alt · @2.72
+- ⏳ MS 2 & KG Var · @3.50
 
 **21:45 · Torino – Udinese**
 

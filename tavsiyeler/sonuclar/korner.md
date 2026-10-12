@@ -2,26 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/166 tuttu** (isabet %54, beklenen %62) · -32.51 birim · 29 tahmin sonuç bekliyor
+**93/171 tuttu** (isabet %54, beklenen %62) · -31.71 birim · 34 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10.2026 Salı
+
+**21:45 · Burnley – Charlton**
+
+- ⏳ 🟢 En çok korner 1 · @1.32
+- ⏳ 🎰 En çok korner 1 · @1.32
+
+**21:45 · Bristol City – Blackburn Rovers**
+
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.43
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.17
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
+
+**21:45 · Wrexham – West Bromwich**
+
+- ⏳ 🔴 En çok korner 2 · @2.44
 
 ## 12.10.2026 Pazartesi
 
 **15:00 · Real Valladolid – Albacete**
 
-- ⏳ 🟡 En çok korner 1 · @1.45
-- ⏳ 🎰 En çok korner 1 · @1.45
-- ⏳ 🎰 En çok korner 1 · @1.45
+- ✅ 🟡 En çok korner 1 · @1.45 · korner 7-5
+- ✅ 🎰 En çok korner 1 · @1.45 · korner 7-5
+- ✅ 🎰 En çok korner 1 · @1.45 · korner 7-5
+- ✅ 🎰 En çok korner 1 · @1.45 · korner 7-5
 
 **17:15 · CF Burgos – Granada**
 
-- ⏳ 🔴 En çok korner 2 · @2.40
+- ❌ 🔴 En çok korner 2 · @2.40 · korner 4-0
 
 **19:30 · Atalanta – Venezia**
 
 - ⏳ 🟢 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.37
 - ⏳ 🎰 En çok korner 1 · @1.37
 
 **19:30 · Real Oviedo – Eibar**
@@ -29,6 +48,7 @@
 - ⏳ 🎰 En çok korner 1 · @1.54
 - ⏳ 🟡 En çok korner 1 · @1.54
 - ⏳ 🎰 En çok korner 1 · @1.54
+- ⏳ 🎰 En çok korner 1 · @1.42
 
 **20:00 · Eyüpspor – Göztepe**
 
@@ -46,6 +66,7 @@
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.18
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @2.98
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.40
 
 **22:00 · Tenerife – Girona**
 
