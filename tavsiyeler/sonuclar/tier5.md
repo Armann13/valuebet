@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/22 tuttu** (isabet %14, beklenen %17) · -8.20 birim · 3 tahmin sonuç bekliyor
+**3/23 tuttu** (isabet %13, beklenen %17) · -9.20 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **21:45 · Cagliari – Juventus**
 
-- ⏳ 0-1 · @5.40
+- ❌ 0-1 · @5.40 · 1-1
 
 ## 10.10.2026 Cumartesi
 

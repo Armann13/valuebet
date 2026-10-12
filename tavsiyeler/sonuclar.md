@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 11.10.2026 19:46. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 12.10.2026 00:39. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -12,7 +12,7 @@ Son güncelleme: 11.10.2026 19:46. Sadece Telegram'da gönderilen tahminler (ilk
 | [🟡 Tier 2](sonuclar/tier2.md) | 99 | 91 | 55 | %60 | %63 | -9.75 | %-11 |
 | [🔴 Tier 3](sonuclar/tier3.md) | 86 | 79 | 36 | %46 | %47 | -4.04 | %-5 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 44 | 36 | 6 | %17 | %33 | -21.01 | %-58 |
-| [⚡ Tier 5](sonuclar/tier5.md) | 25 | 22 | 3 | %14 | %17 | -8.20 | %-37 |
+| [⚡ Tier 5](sonuclar/tier5.md) | 25 | 23 | 3 | %13 | %17 | -9.20 | %-40 |
 | [🔥 Tier 6](sonuclar/tier6.md) | 130 | 119 | 15 | %13 | %12 | -13.64 | %-11 |
 | [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 195 | 166 | 89 | %54 | %62 | -32.51 | %-20 |
 | [🎰 Sistem ayakları](sonuclar/sistem.md) | 135 | 122 | 64 | %52 | %66 | -28.49 | %-23 |
@@ -57,5 +57,5 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 07.10.2026 | 12 | 12 | 5 | %42 | %51 | -4.12 |
 | 09.10.2026 | 41 | 41 | 11 | %27 | %44 | -19.61 |
 | 10.10.2026 | 124 | 110 | 41 | %37 | %42 | -2.88 |
-| 11.10.2026 | 69 | 62 | 21 | %34 | %42 | -21.27 |
+| 11.10.2026 | 69 | 63 | 21 | %33 | %42 | -22.27 |
 | 12.10.2026 | 34 | 0 | 0 | — | — | — |
