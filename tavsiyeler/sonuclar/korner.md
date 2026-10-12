@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**93/171 tuttu** (isabet %54, beklenen %62) · -31.71 birim · 34 tahmin sonuç bekliyor
+**113/196 tuttu** (isabet %58, beklenen %62) · -26.04 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,11 +12,13 @@
 
 - ⏳ 🟢 En çok korner 1 · @1.32
 - ⏳ 🎰 En çok korner 1 · @1.32
+- ⏳ 🎰 En çok korner 1 · @1.32
 
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.43
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.17
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
 
 **21:45 · Wrexham – West Bromwich**
@@ -38,45 +40,52 @@
 
 **19:30 · Atalanta – Venezia**
 
-- ⏳ 🟢 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.37
-- ⏳ 🎰 En çok korner 1 · @1.37
+- ✅ 🟢 En çok korner 1 · @1.41 · korner 8-7
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 8-7
+- ✅ 🎰 En çok korner 1 · @1.37 · korner 8-7
+- ✅ 🎰 En çok korner 1 · @1.37 · korner 8-7
+- ✅ 🎰 En çok korner 1 · @1.37 · korner 8-7
 
 **19:30 · Real Oviedo – Eibar**
 
-- ⏳ 🎰 En çok korner 1 · @1.54
-- ⏳ 🟡 En çok korner 1 · @1.54
-- ⏳ 🎰 En çok korner 1 · @1.54
-- ⏳ 🎰 En çok korner 1 · @1.42
+- ✅ 🎰 En çok korner 1 · @1.54 · korner 10-5
+- ✅ 🟡 En çok korner 1 · @1.54 · korner 10-5
+- ✅ 🎰 En çok korner 1 · @1.54 · korner 10-5
+- ✅ 🎰 En çok korner 1 · @1.42 · korner 10-5
+- ✅ 🎰 En çok korner 1 · @1.42 · korner 10-5
 
 **20:00 · Eyüpspor – Göztepe**
 
-- ⏳ 🟣 Korner 7.5 Alt · @2.72
+- ❌ 🟣 Korner 7.5 Alt · @2.72 · korner 3-7
 
 **21:45 · Torino – Udinese**
 
-- ⏳ 🟣 Korner 10.5 Üst · @2.91
+- ❌ 🟣 Korner 10.5 Üst · @2.91 · korner 4-3
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ 🔴 En çok korner 2 · @2.02
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.18
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.98
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.40
+- ❌ 🔴 En çok korner 2 · @2.02 · korner 5-2
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-2
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.18 · korner 5-2
+- ✅ 🟣 ↳ Korner 7.5 Alt · @2.98 · korner 5-2
+- ✅ 🎰 ↳ Korner 10.5 Alt · @1.41 · korner 5-2
+- ✅ 🎰 ↳ Korner 10.5 Alt · @1.40 · korner 5-2
+- ✅ 🎰 ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 
 **22:00 · Tenerife – Girona**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.31
-- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.60
-- ⏳ 🎰 Korner 10.5 Alt · @1.31
+- ✅ 🟢 Korner 10.5 Alt · @1.31 · korner 6-3
+- ❌ 🔴 ↳ Korner 7.5 Alt · @2.60 · korner 6-3
+- ✅ 🎰 Korner 10.5 Alt · @1.31 · korner 6-3
+
+**22:00 · Coventry – Newcastle United**
+
+- ✅ 🎰 En çok korner 2 · @1.65 · korner 2-6
 
 **22:15 · Famalicao – Alverca FC**
 
-- ⏳ 🟣 En çok korner 2 · @2.80
+- ❌ 🟣 En çok korner 2 · @2.80 · korner 8-3
 
 ## 11.10.2026 Pazar
 

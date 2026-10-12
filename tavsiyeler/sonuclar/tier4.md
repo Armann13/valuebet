@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**6/36 tuttu** (isabet %17, beklenen %33) · -21.01 birim · 11 tahmin sonuç bekliyor
+**7/43 tuttu** (isabet %16, beklenen %33) · -25.03 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,32 +12,41 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.93
 
+**21:45 · Millwall – Swansea City**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.75
+
 **22:00 · Stoke City – Middlesbrough**
 
 - ⏳ ↳ MS 2 & KG Var · @3.39
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.72
 
 ## 12.10.2026 Pazartesi
 
 **20:00 · Eyüpspor – Göztepe**
 
-- ⏳ Korner 7.5 Alt · @2.72
-- ⏳ MS 2 & KG Var · @3.50
+- ❌ Korner 7.5 Alt · @2.72 · korner 3-7
+- ❌ MS 2 & KG Var · @3.50 · 0-4
 
 **21:45 · Torino – Udinese**
 
-- ⏳ Korner 10.5 Üst · @2.91
+- ❌ Korner 10.5 Üst · @2.91 · korner 4-3
+
+**21:45 · Dijon – Metz**
+
+- ❌ ↳ MS 2 & 2.5 Üst · @3.39 · 4-2
 
 **22:00 · Tenerife – Girona**
 
-- ⏳ MS 2 · @2.38
+- ❌ MS 2 · @2.38 · 1-1
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.98
+- ✅ ↳ Korner 7.5 Alt · @2.98 · korner 5-2
 
 **22:15 · Famalicao – Alverca FC**
 
-- ⏳ En çok korner 2 · @2.80
+- ❌ En çok korner 2 · @2.80 · korner 8-3
 
 ## 11.10.2026 Pazar
 

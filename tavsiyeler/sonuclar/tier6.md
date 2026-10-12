@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/122 tuttu** (isabet %12, beklenen %12) · -16.64 birim · 16 tahmin sonuç bekliyor
+**15/130 tuttu** (isabet %12, beklenen %12) · -24.64 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,31 +41,35 @@
 
 **19:30 · Atalanta – Venezia**
 
-- ⏳ 2-1 · @7.48
+- ❌ 2-1 · @7.48 · 3-1
 
 **19:30 · Real Oviedo – Eibar**
 
-- ⏳ 1-0 · @6.11
+- ❌ 1-0 · @6.11 · 3-1
 
 **20:00 · Eyüpspor – Göztepe**
 
-- ⏳ 1-2 · @7.73
+- ❌ 1-2 · @7.73 · 0-4
 
 **21:45 · Dijon – Metz**
 
-- ⏳ 1-2 · @8.59
+- ❌ 1-2 · @8.59 · 4-2
 
 **22:00 · Tenerife – Girona**
 
-- ⏳ 0-1 · @6.71
+- ❌ 0-1 · @6.71 · 1-1
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ 1-2 · @9.28
+- ❌ 1-2 · @9.28 · 3-3
+
+**22:00 · Coventry – Newcastle United**
+
+- ❌ 1-1 · @6.14 · 4-1
 
 **22:15 · Famalicao – Alverca FC**
 
-- ⏳ 1-0 · @6.00
+- ❌ 1-0 · @6.00 · 1-4
 
 ## 11.10.2026 Pazar
 

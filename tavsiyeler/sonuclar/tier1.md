@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/69 tuttu** (isabet %72, beklenen %77) · -8.30 birim · 9 tahmin sonuç bekliyor
+**55/75 tuttu** (isabet %73, beklenen %77) · -7.94 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ⏳ ÇŞ 1-2 · @1.22
+- ⏳ ÇŞ 1-X · @1.20
 
 **21:45 · Millwall – Swansea City**
 
@@ -32,23 +33,27 @@
 
 **19:30 · Atalanta – Venezia**
 
-- ⏳ En çok korner 1 · @1.41
+- ✅ En çok korner 1 · @1.41 · korner 8-7
 
 **20:00 · Eyüpspor – Göztepe**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-4
 
 **21:45 · Dijon – Metz**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 4-2
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-2
 
 **22:00 · Tenerife – Girona**
 
-- ⏳ Korner 10.5 Alt · @1.31
+- ✅ Korner 10.5 Alt · @1.31 · korner 6-3
+
+**22:00 · Coventry – Newcastle United**
+
+- ❌ ÇŞ X-2 · @1.25 · 4-1
 
 ## 11.10.2026 Pazar
 

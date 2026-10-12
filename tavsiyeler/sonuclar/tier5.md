@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/23 tuttu** (isabet %13, beklenen %17) · -9.20 birim · 5 tahmin sonuç bekliyor
+**3/25 tuttu** (isabet %12, beklenen %17) · -11.20 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@
 
 **21:45 · Torino – Udinese**
 
-- ⏳ 1-1 · @5.12
+- ❌ 1-1 · @5.12 · 2-1
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ 1-1 · @5.31
+- ❌ 1-1 · @5.31 · 3-3
 
 ## 11.10.2026 Pazar
 

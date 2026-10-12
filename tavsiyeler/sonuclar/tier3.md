@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/80 tuttu** (isabet %45, beklenen %47) · -5.04 birim · 12 tahmin sonuç bekliyor
+**39/85 tuttu** (isabet %46, beklenen %46) · -3.59 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,6 +18,10 @@
 - ⏳ KG Yok · @1.86
 - ⏳ En çok korner 2 · @2.44
 
+**22:00 · Stoke City – Middlesbrough**
+
+- ⏳ ↳ MS 2 · @1.86
+
 ## 12.10.2026 Pazartesi
 
 **17:15 · CF Burgos – Granada**
@@ -26,17 +30,17 @@
 
 **19:30 · Real Oviedo – Eibar**
 
-- ⏳ MS 1 · @2.22
+- ✅ MS 1 · @2.22 · 3-1
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ En çok korner 2 · @2.02
-- ⏳ ↳ Korner 8.5 Alt · @2.18
-- ⏳ 2.5 Üst · @2.05
+- ❌ En çok korner 2 · @2.02 · korner 5-2
+- ✅ ↳ Korner 8.5 Alt · @2.18 · korner 5-2
+- ✅ 2.5 Üst · @2.05 · 3-3
 
 **22:00 · Tenerife – Girona**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.60
+- ❌ ↳ Korner 7.5 Alt · @2.60 · korner 6-3
 
 ## 11.10.2026 Pazar
 

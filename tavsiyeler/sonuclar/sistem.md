@@ -2,18 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**67/125 tuttu** (isabet %54, beklenen %66) · -27.14 birim · 18 tahmin sonuç bekliyor
+**80/138 tuttu** (isabet %58, beklenen %67) · -21.52 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 12.10 19:11 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+
+- ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
+- ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42 · korner 10-5
+- ✅ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.41 · korner 5-2
+- ✅ 12.10 22:00 Coventry – Newcastle United · En çok korner 2 · @1.65 · korner 2-6
+- ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
+- ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
+- ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.58
+- ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49
+
 ## 12.10 14:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
-- ⏳ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37
-- ⏳ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42
-- ⏳ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.40
+- ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
+- ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42 · korner 10-5
+- ✅ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.40 · korner 5-2
 - ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
 - ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
 - ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56
@@ -21,17 +34,17 @@ Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 11.10 22:37 gönderilen kupon · 5'de 3
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+**5/5 maç tuttu · 10 birim yatırıldı, 28.33 döndü (+18.33)** ✅
 
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
-- ⏳ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37
-- ⏳ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54
-- ⏳ 12.10 22:00 Tenerife – Girona · Korner 10.5 Alt · @1.31
-- ⏳ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.41
+- ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
+- ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54 · korner 10-5
+- ✅ 12.10 22:00 Tenerife – Girona · Korner 10.5 Alt · @1.31 · korner 6-3
+- ✅ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 
 ## 11.10 08:58 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
 - ❌ 11.10 14:30 Saint Pauli – Karlsruhe · Korner 12.5 Alt · @1.32 · korner 6-9
@@ -39,8 +52,8 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 - ❌ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35 · korner 7-10
 - ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
-- ⏳ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.41
-- ⏳ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54
+- ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.41 · korner 8-7
+- ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54 · korner 10-5
 
 ## 10.10 20:25 gönderilen kupon · 7'de 4
 

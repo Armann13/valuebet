@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**56/92 tuttu** (isabet %61, beklenen %63) · -9.30 birim · 14 tahmin sonuç bekliyor
+**61/98 tuttu** (isabet %62, beklenen %63) · -7.61 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,23 +36,24 @@
 
 **19:30 · Real Oviedo – Eibar**
 
-- ⏳ En çok korner 1 · @1.54
+- ✅ En çok korner 1 · @1.54 · korner 10-5
 
 **19:30 · Atalanta – Venezia**
 
-- ⏳ MS 1 · @1.44
+- ✅ MS 1 · @1.44 · 3-1
+- ✅ 2.5 Üst · @1.46 · 3-1
 
 **20:00 · Eyüpspor – Göztepe**
 
-- ⏳ ↳ MS 2 · @1.84
+- ✅ ↳ MS 2 · @1.84 · 0-4
 
 **22:00 · Levante – Sevilla**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ✅ ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 
 **22:15 · Famalicao – Alverca FC**
 
-- ⏳ 2.5 Alt · @1.67
+- ❌ 2.5 Alt · @1.67 · 1-4
 
 ## 11.10.2026 Pazar
 
