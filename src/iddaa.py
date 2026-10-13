@@ -74,6 +74,7 @@ def resolve_competitions(comps: list) -> dict:
     """iddaa lig no -> bizim lig kodumuz. config.IDDAA_LEAGUE_NAMES ile: ad tam aynı ya da "ad," ile başlıyor
     (sezon aşaması eki, ör. "İskoçya Premiership, Şampiyona Turu"). "... Beşiktaş Özel" gibi özel marketler ve kadın /
     genç ligleri ("İtalya Serie A, Women") dışarıda.
+    Avrupa kupaları (config.IDDAA_AVRUPA_NAMES) -> config.AVRUPA.
     Milli takım turnuvaları (config.IDDAA_MILLI_KEYWORDS; gençler / kadınlar / kulüpler hariç) -> config.MILLI."""
     out = {}
     for c in comps:
@@ -83,6 +84,9 @@ def resolve_competitions(comps: list) -> dict:
         for div, base in config.IDDAA_LEAGUE_NAMES.items():
             if (name == base or name.startswith(base + ",")) and not re.search(config.IDDAA_LEAGUE_EXCLUDE, name):
                 out[c["i"]] = div
+        if (c["i"] not in out and name.startswith(config.IDDAA_AVRUPA_NAMES)
+                and not re.search(config.IDDAA_LEAGUE_EXCLUDE, name)):
+            out[c["i"]] = config.AVRUPA
         if (c["i"] not in out and any(k in name for k in config.IDDAA_MILLI_KEYWORDS)
                 and not re.search(config.IDDAA_MILLI_EXCLUDE, name)):
             out[c["i"]] = config.MILLI
@@ -234,6 +238,10 @@ def _map_teams(df: pd.DataFrame, report: bool = False) -> tuple[pd.DataFrame, se
     known = db.load_matches()
     unknown = set()
     for div in df["div"].unique():
+        if div == config.AVRUPA:  # model yok (takımlar farklı liglerden): İddaa'daki ad olduğu gibi
+            sel = df["div"] == div
+            df.loc[sel, "home"], df.loc[sel, "away"] = df.loc[sel, "home_iddaa"], df.loc[sel, "away_iddaa"]
+            continue
         if div == config.MILLI:  # Türkçe ülke adı -> veri setindeki ad; bulanık eşleşme yok
             resolve = TeamResolver(sorted(milli.TEAMS), aliases=milli.ULKELER, allow_fuzzy=False)
         else:

@@ -73,12 +73,18 @@ IDDAA_LEAGUE_NAMES = {
 }
 # Aynı adla başlayan kadın / genç / yedek ligleri hariç (ör. "İtalya Serie A, Women" erkek Serie A'ya eşlenmesin)
 IDDAA_LEAGUE_EXCLUDE = r"Women|Kadın|\bU\s?\d{2}\b|Genç|Ümit|Rezerv|Reserve|Youth|Futsal|Plaj"
+# Avrupa kupaları (kullanıcı isteği, 2026-10-13). Takımlar farklı liglerden; kulüp modelleri ülke ülke ayrı olduğu için
+# ortak güç ölçeği yok: olasılıklar İddaa'nın marjı arındırılmış oranlarından (milli kornerdeki gibi), 💎 yok.
+AVRUPA = "AVRUPA"
+IDDAA_AVRUPA_NAMES = ("UEFA Şampiyonlar Ligi", "UEFA Avrupa Ligi", "UEFA Konferans Ligi", "UEFA Avrupa Konferans Ligi")
 # Kulüp maçı sonuçları ESPN'den (sadece tavsiye takibi: football-data sonuçları haftada birkaç kez gelir, ESPN maçtan
 # birkaç saat sonra). ESPN'de olmayan ligler (İskoçya League One / Two) football-data'yı bekler.
 ESPN_KULUP = {"E0": "eng.1", "E1": "eng.2", "E2": "eng.3", "E3": "eng.4", "EC": "eng.5", "SC0": "sco.1",
               "SC1": "sco.2", "D1": "ger.1", "D2": "ger.2", "I1": "ita.1", "I2": "ita.2", "SP1": "esp.1",
               "SP2": "esp.2", "F1": "fra.1", "F2": "fra.2", "N1": "ned.1", "B1": "bel.1", "P1": "por.1",
-              "T1": "tur.1", "G1": "gre.1"}
+              "T1": "tur.1", "G1": "gre.1",
+              AVRUPA: ("uefa.champions", "uefa.europa", "uefa.europa.conf", "uefa.champions_qual",
+                       "uefa.europa_qual", "uefa.europa.conf_qual")}   # birden çok turnuva: hepsine bakılır
 
 # ---------------------------------------------------------------- Milli takımlar (bkz. src/milli.py)
 # Sonuçlar: martj42/international_results (GitHub; 1872'den bugüne tüm resmi A milli maçlar, düzenli güncellenir).

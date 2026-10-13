@@ -286,6 +286,26 @@ def _price_fair(r: dict) -> tuple[tuple, tuple]:
     return tuple(fair), tuple(ou)
 
 
+def market_matrix(r: dict, n: int = config.MAX_GOALS + 1) -> np.ndarray | None:
+    """Avrupa kupası maçı (model yok): fiyatın marjsız 1X2 ve 2.5 alt/üst olasılıklarına en yakın bağımsız Poisson
+    skor tablosu (λ ızgarası); sonra diğer maçlardaki gibi calibrate ile tam ayarlanır. 1X2 oranı yoksa None."""
+    from scipy.stats import poisson
+    target, target_ou = _price_fair(r)
+    if not all(np.isfinite(target)):
+        return None
+    lam = np.arange(0.15, 4.01, 0.05)
+    pmf = poisson.pmf(np.arange(n)[None, :], lam[:, None])           # (λ, gol)
+    m = pmf[:, None, :, None] * pmf[None, :, None, :]                # (λ ev, λ dep, ev golü, dep golü)
+    m /= m.sum(axis=(-2, -1), keepdims=True)                          # tablo n golde kesilir: toplam 1 olsun
+    g = np.arange(n)
+    h, a = np.meshgrid(g, g, indexing="ij")
+    loss = sum((m[..., mask].sum(-1) - t) ** 2 for mask, t in zip((h > a, h == a, h < a), target))
+    if np.isfinite(target_ou[0]):
+        loss = loss + (m[..., (h + a) >= 3].sum(-1) - target_ou[0]) ** 2
+    i, j = np.unravel_index(np.argmin(loss), loss.shape)
+    return m[i, j]
+
+
 def _match_label(r: dict) -> str:
     """Maç adı: İddaa'daki adlarla (kuponda aranacak ad), yoksa veri setindeki adlarla."""
     h, a = r.get("home_iddaa"), r.get("away_iddaa")
@@ -295,10 +315,12 @@ def _match_label(r: dict) -> str:
 
 
 def _league_label(r: dict) -> str:
-    if r["div"] != config.MILLI:
+    if r["div"] not in (config.MILLI, config.AVRUPA):
         return r["div"]
     comp = r.get("competition")
-    return comp.split(",")[0].strip() if isinstance(comp, str) and comp.strip() else "Milli"
+    if isinstance(comp, str) and comp.strip():
+        return comp.split(",")[0].strip()
+    return "Milli" if r["div"] == config.MILLI else "Avrupa kupası"
 
 
 def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config.RIDGE_TOTAL,
@@ -342,12 +364,12 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
                "şanstan çok etkilenir; amaç sistemin nasıl çalıştığını göstermek.", ""]
     if up.empty:
         return "\n".join(md + ["Maç bulunamadı."]), pd.DataFrame()
-    is_nat = up["div"] == config.MILLI
-    club, nat = up[~is_nat], up[is_nat]
+    is_nat, is_eu = up["div"] == config.MILLI, up["div"] == config.AVRUPA
+    club, nat, eu = up[~is_nat & ~is_eu], up[is_nat], up[is_eu]
     if motivation and not club.empty:
         train = add_motivation(train)
         club = add_motivation(train, club)
-    up = pd.concat([club, nat], ignore_index=True, sort=False)
+    up = pd.concat([club, nat, eu], ignore_index=True, sort=False)
     refs = {d: (start if as_of else t) for d, t in club.groupby("div")["date"].min().items()}
     models = _fit_models(train, refs, {"xi": xi, "ridge": ridge, "ridge_total": ridge_total}, joint) if refs else {}
     # korner: sadece İddaa'da korner oranı açık kulüp maçlarının ligleri için (geçmiş korner verisi kulüplerde var)
@@ -361,14 +383,22 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         md += ["**Milli maçlar** ayrı bir modelle (milli takım sonuçları, tarafsız saha ve hazırlık maçı ağırlığıyla) "
                "tahmin edilir. Milli maçlar için keskin piyasa oranı olmadığından 💎 çıkmaz. İddaa sahayı "
                "bildirmediği için ev sahibi kendi sahasında sayılır.", ""]
+    if not eu.empty:
+        md += ["**Avrupa kupaları** (Şampiyonlar / Avrupa / Konferans Ligi): takımlar farklı liglerden olduğu için "
+               "modelimiz yok; olasılıklar İddaa oranlarının marjı arındırılmış halinden. 💎 çıkmaz.", ""]
     from src import kupon
     cands, scores, corners, mats = [], [], [], {}
     for r in up.to_dict("records"):
-        mdl = models.get(r["div"])
-        if mdl is None:
-            continue
-        neutral = r.get("neutral") is True or r.get("neutral") is np.True_
-        m = mdl.score_matrix(r["home"], r["away"], r["div"], r.get("mot", 0), neutral)
+        if r["div"] == config.AVRUPA:
+            m = market_matrix(r)  # sonra fiyatın marjsız oranına ayarlanır (kaynak: oran)
+            if m is None:
+                continue
+        else:
+            mdl = models.get(r["div"])
+            if mdl is None:
+                continue
+            neutral = r.get("neutral") is True or r.get("neutral") is np.True_
+            m = mdl.score_matrix(r["home"], r["away"], r["div"], r.get("mot", 0), neutral)
         target = tuple(r.get(f"keskin_{k}", np.nan) for k in ("1", "x", "2"))
         target_ou = (r.get("keskin_ust", np.nan), r.get("keskin_alt", np.nan))
         src = "piyasa" if all(np.isfinite(target)) else "model"

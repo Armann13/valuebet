@@ -166,6 +166,13 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
   maçları tek tek, gün gün (`tavsiyeler/sonuclar/tier1.md` ... `korner.md`, `sistem.md`). Elle:
   `python main.py sonuc --gonderme`.
 
+### Avrupa kupaları
+
+- UEFA Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi (elemeler dahil; gençlik / kadın hariç) İddaa'dan `AVRUPA`
+  lig koduyla gelir. Takımlar farklı liglerden olduğu ve kulüp modelleri ülke ülke ayrı olduğu için model yok: skor
+  tablosu İddaa'nın marjı arındırılmış 1X2 ve 2.5 alt/üst oranlarına uyan Poisson (`tavsiye.market_matrix`), korner
+  İddaa oranından. Aynı Tier listesine girer (merdiven, kesin skor, korner); 💎 çıkmaz. Sonuçlar ESPN'den.
+
 ### Milli takımlar
 
 - **Sonuçlar:** [martj42/international_results](https://github.com/martj42/international_results) (GitHub, tüm A

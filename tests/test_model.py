@@ -311,7 +311,20 @@ def test_parse_iddaa():
              {"i": 126, "si": "1", "n": "UEFA Şampiyonlar Ligi"}, {"i": 958, "si": "1", "n": "Kulüplerarası Hazırlık Maçları"},
              {"i": 8, "si": "1", "n": "U21 Avrupa Şampiyonası Elemeleri"}, {"i": 9, "si": "1", "n": "Kadınlar Dünya Kupası"},
              {"i": 10, "si": "1", "n": "Dünya Kupası U20"}, {"i": 11, "si": "1", "n": "Kulüpler Dünya Kupası"}]
-    assert resolve_competitions(milli) == {i: config.MILLI for i in (1407, 1484, 2902, 1432, 7)}
+    assert resolve_competitions(milli) == {**{i: config.MILLI for i in (1407, 1484, 2902, 1432, 7)},
+                                           126: config.AVRUPA}  # Şampiyonlar Ligi milli değil, Avrupa kupası
+    # Avrupa kupaları ayrı (model yok, İddaa oranından); gençlik / kadın turnuvaları hariç
+    avrupa = [{"i": 46194, "si": "1", "n": "UEFA Şampiyonlar Ligi"}, {"i": 46195, "si": "1", "n": "UEFA Avrupa Ligi"},
+              {"i": 46196, "si": "1", "n": "UEFA Konferans Ligi"}, {"i": 588, "si": "1", "n": "UEFA Avrupa Ligi Elemeleri"},
+              {"i": 46321, "si": "1", "n": "UEFA Gençlik Ligi"}, {"i": 1629, "si": "1", "n": "UEFA Şamp. Ligi, Kadınlar, El."}]
+    assert resolve_competitions(avrupa) == {i: config.AVRUPA for i in (46194, 46195, 46196, 588)}
+    from src.tavsiye import _league_label, market_matrix
+    r = {"odd_1": 9.0, "odd_x": 5.6, "odd_2": 1.25, "odd_ust": 1.45, "odd_alt": 2.6, "ou_line": 2.5}
+    m = market_matrix(r)
+    h, a = np.meshgrid(np.arange(m.shape[0]), np.arange(m.shape[0]), indexing="ij")
+    assert abs(m.sum() - 1) < 1e-6 and m[h < a].sum() > 0.7 and m[(h + a) >= 3].sum() > 0.55  # deplasman favori, gollü
+    assert market_matrix({"odd_1": float("nan"), "odd_x": 3.0, "odd_2": 2.0}) is None
+    assert _league_label({"div": config.AVRUPA, "competition": "UEFA Şampiyonlar Ligi"}) == "UEFA Şampiyonlar Ligi"
 
 
 def test_milli_names():

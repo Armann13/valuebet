@@ -102,21 +102,23 @@ def download(log: pd.DataFrame, today: pd.Timestamp | None = None) -> int:
         games = g.drop_duplicates(["home", "away"])
         if all((day, div, h, a) in have for h, a in zip(games["home"], games["away"])):
             continue
-        try:
-            r = requests.get(config.ESPN_URL.format(league=config.ESPN_KULUP[div]),
-                             params={"dates": day.replace("-", "")}, timeout=30)
-            r.raise_for_status()
-            events = _events(r.json())
-        except Exception:  # bir lig / gün alınamazsa diğerleri devam etsin
-            failed += 1
-            continue
+        codes = config.ESPN_KULUP[div]
+        events = []
+        for code in [codes] if isinstance(codes, str) else codes:  # Avrupa kupaları: birden çok turnuva
+            try:
+                r = requests.get(config.ESPN_URL.format(league=code), params={"dates": day.replace("-", "")},
+                                 timeout=30)
+                r.raise_for_status()
+                events += _events(r.json())
+            except Exception:  # bir lig / gün alınamazsa diğerleri devam etsin
+                failed += 1
+            time.sleep(0.3)
         for _, x in games.iterrows():
             ih, _, ia = str(x["maç"]).partition(" – ")  # İddaa adları (football-data adından farklı olabilir)
             e = match(events, [x["home"], ih], [x["away"], ia])
             if e:
                 rows.append({"date": day, "div": div, "home": x["home"], "away": x["away"],
                              **{k: e[k] for k in COLS[4:]}})
-        time.sleep(0.3)  # siteye nazik davran
     if rows:
         new = pd.concat([old, pd.DataFrame(rows).assign(date=lambda d: pd.to_datetime(d["date"]))], ignore_index=True)
         new = new.drop_duplicates(["date", "div", "home", "away"], keep="last").sort_values("date")
