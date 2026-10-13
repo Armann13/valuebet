@@ -1,26 +1,41 @@
 # Canlı takip (kağıt üzerinde)
 
-Son kayıt: 2026-10-09 22:31 UTC. Model: dc-v3 (birleşik + yeni gelen + motivasyon + xG 0.25, ridge 4/16). Bahisler B365 oranıyla, 1 birim.
+Son kayıt: 2026-10-13 22:19 UTC. Model: dc-v3 (birleşik + yeni gelen + motivasyon + xG 0.25, ridge 4/16). Bahisler B365 oranıyla, 1 birim.
 Az veriyle sonuçlar çok gürültülüdür; asıl ölçüt birkaç yüz maçtan sonra anlam kazanır.
 
 ## Tahmin kalitesi
 | lig | kayıtlı | sonuçlanan | 1X2 log loss (model − kapanış) | OU2.5 log loss (model − kapanış) |
 |---|---|---|---|---|
-| E2 | 15 | 3 | +0.1401 ± 0.2158 (n=3) | -0.0247 ± 0.1733 (n=3) |
-| E3 | 20 | 8 | -0.0278 ± 0.1119 (n=8) | -0.0447 ± 0.1127 (n=8) |
-| EC | 24 | 13 | +0.0449 ± 0.0966 (n=13) | +0.0320 ± 0.0726 (n=13) |
-| SC1 | 8 | 3 | +0.1371 ± 0.2881 (n=3) | +0.2082 ± 0.0945 (n=3) |
-| SC2 | 10 | 5 | +0.1107 ± 0.1271 (n=5) | +0.0860 ± 0.0886 (n=5) |
-| SC3 | 10 | 5 | +0.0511 ± 0.0553 (n=5) | +0.0049 ± 0.0892 (n=5) |
-| SP2 | 21 | 10 | +0.0248 ± 0.0973 (n=10) | +0.0268 ± 0.0963 (n=10) |
-| toplam | 228 | 47 | +0.0479 ± 0.0463 (n=47) | +0.0283 ± 0.0406 (n=47) |
+| B1 | 8 | 8 | +0.0463 ± 0.0715 (n=8) | +0.0292 ± 0.1136 (n=8) |
+| D1 | 8 | 8 | -0.1015 ± 0.1951 (n=8) | +0.0372 ± 0.0769 (n=8) |
+| D2 | 7 | 7 | +0.0414 ± 0.0592 (n=7) | +0.0526 ± 0.0730 (n=7) |
+| E0 | 10 | 10 | +0.0100 ± 0.0969 (n=10) | -0.0030 ± 0.0325 (n=10) |
+| E1 | 15 | 11 | +0.0082 ± 0.0524 (n=11) | -0.0094 ± 0.0811 (n=11) |
+| E2 | 16 | 15 | +0.0684 ± 0.1021 (n=15) | +0.0017 ± 0.0684 (n=15) |
+| E3 | 20 | 20 | -0.0292 ± 0.0911 (n=20) | -0.0530 ± 0.0618 (n=20) |
+| EC | 24 | 24 | +0.0653 ± 0.0669 (n=24) | +0.0157 ± 0.0581 (n=24) |
+| F1 | 8 | 8 | -0.0191 ± 0.1786 (n=8) | +0.0729 ± 0.0725 (n=8) |
+| F2 | 4 | 4 | +0.1687 ± 0.1474 (n=4) | -0.0197 ± 0.0974 (n=4) |
+| G1 | 7 | 7 | +0.0627 ± 0.1565 (n=7) | +0.0282 ± 0.0882 (n=7) |
+| I1 | 10 | 10 | -0.0178 ± 0.0520 (n=10) | +0.0021 ± 0.1139 (n=10) |
+| I2 | 9 | 9 | +0.0656 ± 0.1154 (n=9) | -0.0116 ± 0.0937 (n=9) |
+| N1 | 8 | 8 | -0.0829 ± 0.1256 (n=8) | -0.0870 ± 0.1314 (n=8) |
+| P1 | 7 | 7 | +0.0175 ± 0.0852 (n=7) | -0.0167 ± 0.0966 (n=7) |
+| SC0 | 6 | 6 | +0.0373 ± 0.1185 (n=6) | -0.0427 ± 0.1661 (n=6) |
+| SC1 | 8 | 8 | +0.0858 ± 0.1463 (n=8) | +0.0591 ± 0.1309 (n=8) |
+| SC2 | 10 | 10 | +0.0606 ± 0.1336 (n=10) | +0.0512 ± 0.0629 (n=10) |
+| SC3 | 10 | 10 | +0.0713 ± 0.0976 (n=10) | +0.0387 ± 0.0707 (n=10) |
+| SP1 | 9 | 8 | +0.1283 ± 0.0437 (n=8) | -0.0194 ± 0.1009 (n=8) |
+| SP2 | 21 | 21 | +0.0176 ± 0.0736 (n=21) | +0.0327 ± 0.0546 (n=21) |
+| T1 | 8 | 8 | +0.1568 ± 0.0947 (n=8) | +0.0812 ± 0.1252 (n=8) |
+| toplam | 233 | 227 | +0.0342 ± 0.0229 (n=227) | +0.0097 ± 0.0182 (n=227) |
 
 ## Kağıt bahisler
 | kural | bahis | açık | sonuçlanan | ort. oran | ROI_% | CLV_ort_% | CLV ±GA_% | CLV>0_% |
 |---|---|---|---|---|---|---|---|---|
-| Model | 242 | 204 | 38 | 3.05 | -20.95 | -10.07 | 3.25 | 7.89 |
-| Keskin açılış adil fiyatı (model yok) | 3 | 2 | 1 | 3.72 | -100.00 | 2.31 | — | 100.00 |
-| Model + keskin piyasa onayı (predict'teki VALUE kuralı) | 2 | 2 | 0 | 4.22 | — | — | — | — |
+| Model | 250 | 10 | 240 | 3.05 | -21.11 | -8.14 | 1.11 | 15.42 |
+| Keskin açılış adil fiyatı (model yok) | 3 | 0 | 3 | 3.72 | -100.00 | 0.66 | 4.41 | 66.67 |
+| Model + keskin piyasa onayı (predict'teki VALUE kuralı) | 2 | 0 | 2 | 4.22 | 60.00 | 0.14 | 6.50 | 50.00 |
 
 Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji karşılaştırması).
 
@@ -28,9 +43,9 @@ Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji k
 
 | grup | sonuç sayısı | maç | ort. oran | CLV ilk oran_% | ±GA_% | CLV son oran_% | CLV>0_% | ROI_% |
 |---|---|---|---|---|---|---|---|---|
-| Tüm İddaa fiyatları | 206 | 42 | 2.51 | -15.09 | 1.07 | -14.79 | 2.91 | -16.59 |
+| Tüm İddaa fiyatları | 1010 | 208 | 2.68 | -13.68 | 0.46 | -13.65 | 1.78 | -17.32 |
 | İddaa > keskin açılış adil fiyatı | 0 | 0 | — | — | — | — | — | — |
-| Model edge ≥ %3 (onaysız) | 19 | 15 | 4.20 | -20.68 | 4.74 | -20.59 | 5.26 | -20.05 |
+| Model edge ≥ %3 (onaysız) | 133 | 97 | 4.44 | -16.55 | 1.91 | -16.93 | 5.26 | -34.11 |
 | Model edge + keskin onay (VALUE) | 0 | 0 | — | — | — | — | — | — |
 
-Sonuçlanmamış (açık) maç: 181. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
+Sonuçlanmamış (açık) maç: 69. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
