@@ -1,67 +1,68 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
-Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,ÇŞ 1-2,0.7493801377172634,1.2,-0.10074383473928394,False,0.0,False,🟢 Tier 1 — Düşük risk
-Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,ÇŞ 1-2,0.7308018362301577,1.23,-0.10111374143690599,False,0.0,False,🟢 Tier 1 — Düşük risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,ÇŞ 1-2,0.7250758796225204,1.24,-0.10090590926807474,False,0.0,False,🟢 Tier 1 — Düşük risk
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,ÇŞ 1-2,0.7229010332393859,1.24,-0.10360271878316141,False,0.0,False,🟢 Tier 1 — Düşük risk
-Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,ÇŞ 1-2,0.7182595390323727,1.25,-0.1021755762095341,False,0.0,False,🟢 Tier 1 — Düşük risk
-Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Burnley,Charlton,En çok korner 1,0.7687226003618532,1.32,0.01471383247764635,False,0.0,False,🟢 Tier 1 — Düşük risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 12.5 Alt,0.7486193171770911,1.25,-0.06422585352863619,False,0.0,False,🟢 Tier 1 — Düşük risk
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 12.5 Alt,0.727899620604521,1.22,-0.11196246286248446,False,0.0,False,🟢 Tier 1 — Düşük risk
-Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,Portsmouth,Sheffield United,Korner 8.5 Üst,0.723723512290617,1.2,-0.13153178525125953,False,0.0,False,🟢 Tier 1 — Düşük risk
-Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2.5 Üst,0.6595870891902154,1.4,-0.07657807513369852,False,0.0,False,🟡 Tier 2 — Orta risk
-Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,MS 2,0.6275271984181873,1.47,-0.07753501832526477,False,0.0,False,🟡 Tier 2 — Orta risk
-Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,MS 1,0.6269967635202496,1.5,-0.05950485471962563,False,0.0,False,🟡 Tier 2 — Orta risk
-Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,MS 1,0.6223215127952495,1.51,-0.06029451567917321,False,0.0,False,🟡 Tier 2 — Orta risk
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,ÇŞ 1-2,0.7500382925513333,1.2,-0.0999540489384001,False,0.0,False,🟢 Tier 1 — Düşük risk
+Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,ÇŞ 1-2,0.7308018362301578,1.23,-0.10111374143690588,False,0.0,False,🟢 Tier 1 — Düşük risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,ÇŞ 1-2,0.7250758796225205,1.24,-0.10090590926807452,False,0.0,False,🟢 Tier 1 — Düşük risk
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,ÇŞ 1-2,0.7237388943141814,1.24,-0.10256377105041514,False,0.0,False,🟢 Tier 1 — Düşük risk
+Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,ÇŞ 1-2,0.7194036075489505,1.25,-0.10074549056381188,False,0.0,False,🟢 Tier 1 — Düşük risk
+Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Burnley,Charlton,En çok korner 1,0.7687228219248972,1.32,0.014714124940864215,False,0.0,False,🟢 Tier 1 — Düşük risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 12.5 Alt,0.7486198061752221,1.25,-0.06422524228097237,False,0.0,False,🟢 Tier 1 — Düşük risk
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 12.5 Alt,0.7279001294224894,1.22,-0.11196184210456295,False,0.0,False,🟢 Tier 1 — Düşük risk
+Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,Portsmouth,Sheffield United,Korner 8.5 Üst,0.723723313367602,1.2,-0.13153202395887764,False,0.0,False,🟢 Tier 1 — Düşük risk
+Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2.5 Üst,0.6595870891902155,1.4,-0.07657807513369841,False,0.0,False,🟡 Tier 2 — Orta risk
+Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,MS 1,0.6359971331282506,1.48,-0.05872424297018919,False,0.0,False,🟡 Tier 2 — Orta risk
+Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,MS 2,0.6334496332504632,1.46,-0.07516353545432375,False,0.0,False,🟡 Tier 2 — Orta risk
+Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,MS 1,0.6269967635202497,1.5,-0.05950485471962552,False,0.0,False,🟡 Tier 2 — Orta risk
 Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,MS 2,0.5970132292457612,1.57,-0.06268923008415495,False,0.0,False,🟡 Tier 2 — Orta risk
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,MS 1,0.59651635229281,1.57,-0.06346932690028828,False,0.0,False,🟡 Tier 2 — Orta risk
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,MS 1,0.5965163522928102,1.57,-0.06346932690028795,False,0.0,False,🟡 Tier 2 — Orta risk
 Mansfield – Oxford,E2,15.10,22:00,2026-10-15 22:00,2026-10-15,2,oran,,,E2,Mansfield,Oxford,2.5 Üst,0.5496626830175029,1.58,-0.13153296083234545,False,0.0,False,🟡 Tier 2 — Orta risk
-Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,KG Var,0.5151308468943948,1.77,-0.08821840099692113,False,0.0,False,🟡 Tier 2 — Orta risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 11.5 Alt,0.6679930662311266,1.43,-0.044769915289488926,False,0.0,True,🟡 Tier 2 — Orta risk
-Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,korner,,,E1,Lincoln,West Ham,Korner 9.5 Üst,0.5674260787765626,1.51,-0.14318662104739044,False,0.0,False,🟡 Tier 2 — Orta risk
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Millwall,Swansea,En çok korner 1,0.556724351302687,1.79,-0.003463411168190156,False,0.0,False,🟡 Tier 2 — Orta risk
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 10.5 Alt,0.5510191102925406,1.67,-0.07979808581145731,False,0.0,True,🟡 Tier 2 — Orta risk
-Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,MS 2,0.4979196388625781,1.85,-0.07884866810423041,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,MS 1,0.4616110534233899,1.98,-0.08601011422168792,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,MS 1,0.4366983728873298,2.08,-0.09166738439435396,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,MS 1,0.42126939155129955,2.15,-0.09427080816470601,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,MS 1,0.404707466338627,2.23,-0.09750235006486185,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,MS 1 & 2.5 Üst,0.2954948584891638,3.05,-0.0987406816080505,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Wrexham,West Brom,En çok korner 2,0.4814577869037092,2.44,0.17475700004505046,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 9.5 Alt,0.4733071409298151,2.17,0.027076495817698776,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,korner,,,E1,Stoke,Middlesbrough,En çok korner 1,0.4542714937037633,2.48,0.1265933043853329,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 9.5 Alt,0.4497427349785227,2.09,-0.06003768389488762,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,MS 2 & 2.5 Üst,0.31649164355957615,2.8,-0.11382339803318686,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,İY/MS 1/1,0.2764783482920709,3.09,-0.1456819037775009,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,MS 1 & 2.5 Üst,0.25464962154618515,3.39,-0.1367377829584323,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,İY/MS 1/1,0.2455739767866375,3.46,-0.15031404031823425,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,İY/MS 1/1,0.23958947321324364,3.6,-0.1374778964323229,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 8.5 Alt,0.3687393406889915,2.9,0.06934408799807534,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,Norwich,Southampton,Korner 8.5 Alt,0.357120382026759,2.55,-0.08934302583176457,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Cardiff,Watford,Korner 8.5 Alt,0.34186288637279527,2.91,-0.005179000655165744,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,0-1,0.16307540613529806,5.13,-0.16342316652592104,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,2-1,0.16254228551995947,7.45,0.21094002712369808,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,2-1,0.14409559315534948,7.35,0.059102609691818575,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,2-1,0.1343418208044004,7.4,-0.005870526047436986,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,1-2,0.12796876602931428,7.39,-0.05431081904336743,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,1-0,0.1251907457592026,6.32,-0.20879448680183943,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,0-1,0.16307540613529806,5.13,-0.16342316652592104,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,2-1,0.16254228551995947,7.45,0.21094002712369808,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,2-1,0.14409559315534948,7.35,0.059102609691818575,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,2-1,0.1343418208044004,7.4,-0.005870526047436986,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,1-2,0.12796876602931428,7.39,-0.05431081904336743,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,1-0,0.1251907457592026,6.32,-0.20879448680183943,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,1-2,0.11803333930216076,7.73,-0.0876022871942973,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,1-0,0.11693874823081543,6.61,-0.22703487419431,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,1-0,0.11255311455971252,6.77,-0.23801541443074625,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Mansfield – Oxford,E2,15.10,22:00,2026-10-15 22:00,2026-10-15,2,oran,,,E2,Mansfield,Oxford,2-1,0.11116633626072313,7.22,-0.197379052197579,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,1-0,0.10396765034470304,6.96,-0.2763851536008669,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,2-1,0.10056590815782633,8.16,-0.17938218943213713,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2-1,0.09362268966036252,8.69,-0.18641882685144973,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Burnley,Charlton,En çok korner 1,0.7687226003618532,1.32,0.01471383247764635,False,0.0,False,🎰 Sistem kupon
-Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 11.5 Alt,0.6679930662311266,1.43,-0.044769915289488926,False,0.0,True,🎰 Sistem kupon
-Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2.5 Üst,0.6595870891902154,1.4,-0.07657807513369852,False,0.0,False,🎰 Sistem kupon
-Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,MS 2,0.6275271984181873,1.47,-0.07753501832526477,False,0.0,False,🎰 Sistem kupon
-Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,MS 1,0.6269967635202496,1.5,-0.05950485471962563,False,0.0,False,🎰 Sistem kupon
+Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,KG Var,0.5151332594571698,1.77,-0.08821413076080942,False,0.0,False,🟡 Tier 2 — Orta risk
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,MS 2,0.5097588619987479,1.81,-0.07733645978226633,False,0.0,True,🟡 Tier 2 — Orta risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 11.5 Alt,0.6679936146656016,1.43,-0.0447691310281898,False,0.0,True,🟡 Tier 2 — Orta risk
+Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,korner,,,E1,Lincoln,West Ham,Korner 9.5 Üst,0.5674251633019389,1.51,-0.14318800341407223,False,0.0,False,🟡 Tier 2 — Orta risk
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Millwall,Swansea,En çok korner 1,0.5567240321536123,1.79,-0.003463982445033875,False,0.0,False,🟡 Tier 2 — Orta risk
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 10.5 Alt,0.5510196981020707,1.67,-0.07979710416954189,False,0.0,True,🟡 Tier 2 — Orta risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,MS 1,0.46161105342338987,1.98,-0.08601011422168803,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,MS 1,0.43669837288732977,2.08,-0.09166738439435407,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,MS 1,0.4325013126781145,2.1,-0.09174724337595952,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,MS 1,0.4164914273020386,2.17,-0.09621360275457624,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,MS 2 & 2.5 Üst,0.3238060520358621,2.74,-0.1127714174217378,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,MS 1 & 2.5 Üst,0.29549350847651934,3.05,-0.09874479914661605,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Wrexham,West Brom,En çok korner 2,0.4814575044496521,2.44,0.17475631085715104,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 9.5 Alt,0.4733077218472521,2.17,0.027077756408537157,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,korner,,,E1,Stoke,Middlesbrough,En çok korner 1,0.4542719294620386,2.48,0.12659438506585574,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,QPR,Derby,Korner 9.5 Alt,0.4497433127131484,2.09,-0.060036476429519925,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,İY/MS 1/1,0.2764806575820605,3.09,-0.1456747680714332,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,MS 2 & KG Var,0.2558657634129795,3.59,-0.08144190934740358,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,MS 1 & 2.5 Üst,0.2546480562241005,3.39,-0.13674308940029922,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,İY/MS 1/1,0.2521049667181618,3.36,-0.1529273118269764,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,İY/MS 1/1,0.24654680981829225,3.5,-0.1370861656359772,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 8.5 Alt,0.3687398805140164,2.9,0.06934565349064759,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,korner,,,E1,Norwich,Southampton,Korner 8.5 Alt,0.357120991791531,2.55,-0.08934147093159595,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Cardiff,Watford,Korner 8.5 Alt,0.34186309283598193,2.91,-0.005178399847292514,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,0-1,0.16474540678801952,5.1,-0.15979842538110045,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,2-1,0.16252688312001784,7.45,0.21082527924413297,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,2-1,0.14408205924948905,7.35,0.059003135483744584,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,2-1,0.13433107472940745,7.4,-0.005950047002384884,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,1-0,0.12890699519887994,6.23,-0.196909419910978,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,1-2,0.1279662523082325,7.39,-0.054329395442161865,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,0-1,0.16474540678801952,5.1,-0.15979842538110045,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,2-1,0.16252688312001784,7.45,0.21082527924413297,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Birmingham – Preston,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Birmingham,Preston,2-1,0.14408205924948905,7.35,0.059003135483744584,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,2-1,0.13433107472940745,7.4,-0.005950047002384884,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Burnley,Charlton,1-0,0.12890699519887994,6.23,-0.196909419910978,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,1-2,0.1279662523082325,7.39,-0.054329395442161865,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stoke City – Middlesbrough,E1,13.10,22:00,2026-10-13 22:00,2026-10-13,1,oran,,,E1,Stoke,Middlesbrough,1-2,0.12075675824131726,7.68,-0.07258809670668342,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wrexham – West Bromwich,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Wrexham,West Brom,1-0,0.12021170329866103,6.52,-0.21621969449273015,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Bristol City,Blackburn,1-0,0.11255111735945851,6.77,-0.23802893547646597,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Mansfield – Oxford,E2,15.10,22:00,2026-10-15 22:00,2026-10-15,2,oran,,,E2,Mansfield,Oxford,2-1,0.11115140369634997,7.22,-0.19748686531235327,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Millwall,Swansea,1-0,0.10714983411159656,6.88,-0.26280914131221567,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Portsmouth – Sheffield United,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Portsmouth,Sheffield United,2-1,0.10055743886853663,8.16,-0.17945129883274114,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2-1,0.0936133157513933,8.69,-0.18650028612039227,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Burnley – Charlton,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Burnley,Charlton,En çok korner 1,0.7687228219248972,1.32,0.014714124940864215,False,0.0,False,🎰 Sistem kupon
+Bristol City – Blackburn Rovers,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Bristol City,Blackburn,Korner 11.5 Alt,0.6679936146656016,1.43,-0.0447691310281898,False,0.0,True,🎰 Sistem kupon
+Norwich City – Southampton,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,Norwich,Southampton,2.5 Üst,0.6595870891902155,1.4,-0.07657807513369841,False,0.0,False,🎰 Sistem kupon
+Queen's Park – Inverness,SC1,13.10,21:45,2026-10-13 21:45,2026-10-13,3,oran,,,SC1,Queens Park,Inverness C,MS 2,0.6334496332504632,1.46,-0.07516353545432375,False,0.0,False,🎰 Sistem kupon
+Cardiff City – Watford,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,oran,,,E1,Cardiff,Watford,MS 1,0.6269967635202497,1.5,-0.05950485471962552,False,0.0,False,🎰 Sistem kupon
 Lincoln City – West Ham,E1,14.10,22:00,2026-10-14 22:00,2026-10-14,1,oran,,,E1,Lincoln,West Ham,MS 2,0.5970132292457612,1.57,-0.06268923008415495,False,0.0,False,🎰 Sistem kupon
-Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,MS 1,0.59651635229281,1.57,-0.06346932690028828,False,0.0,False,🎰 Sistem kupon
-Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Millwall,Swansea,En çok korner 1,0.556724351302687,1.79,-0.003463411168190156,False,0.0,False,🎰 Sistem kupon
+Queens Park Rangers – Derby County,E1,14.10,21:45,2026-10-14 21:45,2026-10-14,1,oran,,,E1,QPR,Derby,MS 1,0.5965163522928102,1.57,-0.06346932690028795,False,0.0,False,🎰 Sistem kupon
+Millwall – Swansea City,E1,13.10,21:45,2026-10-13 21:45,2026-10-13,1,korner,,,E1,Millwall,Swansea,En çok korner 1,0.5567240321536123,1.79,-0.003463982445033875,False,0.0,False,🎰 Sistem kupon
