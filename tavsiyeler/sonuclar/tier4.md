@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/43 tuttu** (isabet %16, beklenen %33) · -25.03 birim · 13 tahmin sonuç bekliyor
+**11/52 tuttu** (isabet %21, beklenen %32) · -22.13 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,26 +20,35 @@
 
 **21:45 · Bristol City – Blackburn Rovers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.93
-- ⏳ ↳ İY/MS 1/1 · @3.10
-- ⏳ ↳ Korner 8.5 Alt · @2.90
+- ❌ ↳ MS 1 & 2.5 Üst · @2.93 · 0-1
+- ❌ ↳ İY/MS 1/1 · @3.10
+- ❌ ↳ Korner 8.5 Alt · @2.90 · korner 10-5
 
 **21:45 · Millwall – Swansea City**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.75
+- ❌ ↳ MS 1 & 2.5 Üst · @3.75 · 0-1
 
 **21:45 · Wrexham – West Bromwich**
 
-- ⏳ ↳ İY/MS 1/1 · @3.43
+- ❌ ↳ İY/MS 1/1 · @3.43
 
 **21:45 · Cardiff City – Watford**
 
-- ⏳ Korner 8.5 Alt · @2.92
+- ✅ Korner 8.5 Alt · @2.92 · korner 6-1
 
 **22:00 · Stoke City – Middlesbrough**
 
-- ⏳ ↳ MS 2 & KG Var · @3.39
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.72
+- ✅ ↳ MS 2 & KG Var · @3.39 · 2-3
+- ✅ ↳ MS 2 & 2.5 Üst · @2.72 · 2-3
+
+**22:00 · Villarreal – Napoli**
+
+- ✅ ↳ MS 1 & 2.5 Üst · @2.87 · 3-1
+
+**22:00 · Atletico Madrid – Manchester United**
+
+- ⏳ ↳ MS 1 & KG Var · @3.26
+- ⏳ ↳ Korner 11.5 Üst · @2.84
 
 ## 12.10.2026 Pazartesi
 

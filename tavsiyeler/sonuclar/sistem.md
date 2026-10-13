@@ -2,18 +2,44 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**80/138 tuttu** (isabet %58, beklenen %67) · -21.52 birim · 21 tahmin sonuç bekliyor
+**87/156 tuttu** (isabet %56, beklenen %67) · -28.16 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 13.10 20:09 gönderilen kupon · 8'de 5
+
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.10 22:00 Inter – Club Brugge · MS 1 & 2.5 Üst · @1.37
+- ✅ 13.10 22:00 Arsenal – Lille · KG Yok · @1.56 · 3-0
+- ⏳ 13.10 22:00 Atletico Madrid – Manchester United · ↳ Korner 8.5 Üst · @1.40
+- ❌ 13.10 22:00 Villarreal – Napoli · ↳ Korner 8.5 Üst · @1.41 · korner 4-4
+- ⏳ 13.10 22:00 Galatasaray – Barcelona · ↳ İY/MS 2/2 · @1.54
+- ⏳ 13.10 22:00 Leipzig – PSV · En çok korner 1 · @1.57
+- ⏳ 13.10 22:00 Birmingham – Preston · KG Var · @1.75
+- ✅ 13.10 22:00 Stoke City – Middlesbrough · ↳ MS 2 · @1.81 · 2-3
+
+## 13.10 20:02 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+
+- ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
+- ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
+- ❌ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.46 · 2-1
+- ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.50 · 5-1
+- ✅ 13.10 21:45 Millwall – Swansea City · En çok korner 1 · @1.79 · korner 13-1
+- ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
+- ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.57
+- ⏳ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.57
+
 ## 13.10 09:54 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
-- ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
-- ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56
-- ⏳ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.60
+- ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
+- ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
+- ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56 · 5-1
+- ❌ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.60 · 2-1
 - ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.45
 - ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
 - ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.62
@@ -21,28 +47,28 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 12.10 19:11 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 
 - ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
 - ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42 · korner 10-5
 - ✅ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 - ✅ 12.10 22:00 Coventry – Newcastle United · En çok korner 2 · @1.65 · korner 2-6
-- ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
-- ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
-- ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.58
+- ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
+- ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
+- ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.58 · 5-1
 - ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49
 
 ## 12.10 14:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
 - ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
 - ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42 · korner 10-5
 - ✅ 12.10 22:00 Levante – Sevilla · ↳ Korner 10.5 Alt · @1.40 · korner 5-2
-- ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
-- ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
-- ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56
+- ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
+- ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
+- ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56 · 5-1
 - ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49
 
 ## 11.10 22:37 gönderilen kupon · 5'de 3

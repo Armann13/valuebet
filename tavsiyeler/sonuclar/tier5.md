@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/25 tuttu** (isabet %12, beklenen %17) · -11.20 birim · 4 tahmin sonuç bekliyor
+**4/28 tuttu** (isabet %14, beklenen %17) · -8.14 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,15 +16,23 @@
 
 **21:45 · Cardiff City – Watford**
 
-- ⏳ 2-1 · @7.53
+- ❌ 2-1 · @7.53 · 5-1
 
 **21:45 · Queen's Park – Inverness**
 
-- ⏳ 0-1 · @5.30
+- ❌ 0-1 · @5.30 · 2-1
 
 **22:00 · Birmingham – Preston**
 
 - ⏳ 2-1 · @7.33
+
+**22:00 · Arsenal – Lille**
+
+- ✅ 3-0 · @6.06 · 3-0
+
+**22:00 · Atletico Madrid – Manchester United**
+
+- ⏳ 2-1 · @7.63
 
 ## 12.10.2026 Pazartesi
 
