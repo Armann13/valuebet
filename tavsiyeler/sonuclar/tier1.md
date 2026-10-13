@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**55/75 tuttu** (isabet %73, beklenen %77) · -7.94 birim · 5 tahmin sonuç bekliyor
+**55/75 tuttu** (isabet %73, beklenen %77) · -7.94 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Portsmouth – Sheffield United**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**21:45 · Queens Park Rangers – Derby County**
+
+- ⏳ Korner 12.5 Alt · @1.22
 
 ## 13.10.2026 Salı
 
@@ -12,6 +22,7 @@
 
 - ⏳ ÇŞ 1-2 · @1.22
 - ⏳ ÇŞ 1-X · @1.20
+- ⏳ Korner 12.5 Alt · @1.25
 
 **21:45 · Millwall – Swansea City**
 
@@ -20,6 +31,10 @@
 **21:45 · Burnley – Charlton**
 
 - ⏳ En çok korner 1 · @1.32
+
+**21:45 · Wrexham – West Bromwich**
+
+- ⏳ ÇŞ 1-2 · @1.24
 
 **22:00 · Stoke City – Middlesbrough**
 

@@ -2,15 +2,30 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**113/196 tuttu** (isabet %58, beklenen %62) · -26.04 birim · 15 tahmin sonuç bekliyor
+**113/196 tuttu** (isabet %58, beklenen %62) · -26.04 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Queens Park Rangers – Derby County**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.22
+
+**21:45 · Norwich City – Southampton**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.55
+
+**22:00 · Lincoln City – West Ham**
+
+- ⏳ 🟡 Korner 9.5 Üst · @1.51
 
 ## 13.10.2026 Salı
 
 **21:45 · Burnley – Charlton**
 
 - ⏳ 🟢 En çok korner 1 · @1.32
+- ⏳ 🎰 En çok korner 1 · @1.32
 - ⏳ 🎰 En çok korner 1 · @1.32
 - ⏳ 🎰 En çok korner 1 · @1.32
 
@@ -20,10 +35,25 @@
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.17
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
 - ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
+- ⏳ 🟢 Korner 12.5 Alt · @1.25
+- ⏳ 🟣 ↳ Korner 8.5 Alt · @2.90
+- ⏳ 🎰 ↳ Korner 11.5 Alt · @1.43
 
 **21:45 · Wrexham – West Bromwich**
 
 - ⏳ 🔴 En çok korner 2 · @2.44
+
+**21:45 · Millwall – Swansea City**
+
+- ⏳ 🟡 En çok korner 1 · @1.79
+
+**21:45 · Cardiff City – Watford**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.92
+
+**22:00 · Stoke City – Middlesbrough**
+
+- ⏳ 🔴 En çok korner 1 · @2.48
 
 ## 12.10.2026 Pazartesi
 

@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/130 tuttu** (isabet %12, beklenen %12) · -24.64 birim · 9 tahmin sonuç bekliyor
+**15/130 tuttu** (isabet %12, beklenen %12) · -24.64 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Queens Park Rangers – Derby County**
+
+- ⏳ 2-1 · @7.43
+
+**21:45 · Portsmouth – Sheffield United**
+
+- ⏳ 2-1 · @8.16
+
+**21:45 · Norwich City – Southampton**
+
+- ⏳ 2-1 · @8.69
 
 ## 13.10.2026 Salı
 
@@ -19,6 +33,7 @@
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ⏳ 2-1 · @7.80
+- ⏳ 1-0 · @6.70
 
 **21:45 · Millwall – Swansea City**
 

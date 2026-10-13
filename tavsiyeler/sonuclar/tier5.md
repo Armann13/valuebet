@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/25 tuttu** (isabet %12, beklenen %17) · -11.20 birim · 3 tahmin sonuç bekliyor
+**3/25 tuttu** (isabet %12, beklenen %17) · -11.20 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**22:00 · Lincoln City – West Ham**
+
+- ⏳ 1-2 · @7.38
 
 ## 13.10.2026 Salı
 

@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/85 tuttu** (isabet %46, beklenen %46) · -3.59 birim · 8 tahmin sonuç bekliyor
+**39/85 tuttu** (isabet %46, beklenen %46) · -3.59 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Portsmouth – Sheffield United**
+
+- ⏳ ↳ MS 1 · @2.08
 
 ## 13.10.2026 Salı
 
@@ -17,10 +23,12 @@
 
 - ⏳ KG Yok · @1.86
 - ⏳ En çok korner 2 · @2.44
+- ⏳ ↳ MS 1 · @2.15
 
 **22:00 · Stoke City – Middlesbrough**
 
 - ⏳ ↳ MS 2 · @1.86
+- ⏳ En çok korner 1 · @2.48
 
 ## 12.10.2026 Pazartesi
 

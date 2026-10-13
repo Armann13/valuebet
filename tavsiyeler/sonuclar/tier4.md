@@ -2,19 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/43 tuttu** (isabet %16, beklenen %33) · -25.03 birim · 7 tahmin sonuç bekliyor
+**7/43 tuttu** (isabet %16, beklenen %33) · -25.03 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Portsmouth – Sheffield United**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.39
+
+**21:45 · Norwich City – Southampton**
+
+- ⏳ Korner 8.5 Alt · @2.55
 
 ## 13.10.2026 Salı
 
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.93
+- ⏳ ↳ İY/MS 1/1 · @3.10
+- ⏳ ↳ Korner 8.5 Alt · @2.90
 
 **21:45 · Millwall – Swansea City**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.75
+
+**21:45 · Wrexham – West Bromwich**
+
+- ⏳ ↳ İY/MS 1/1 · @3.43
+
+**21:45 · Cardiff City – Watford**
+
+- ⏳ Korner 8.5 Alt · @2.92
 
 **22:00 · Stoke City – Middlesbrough**
 

@@ -2,9 +2,24 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/98 tuttu** (isabet %62, beklenen %63) · -7.61 birim · 9 tahmin sonuç bekliyor
+**61/98 tuttu** (isabet %62, beklenen %63) · -7.61 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.10.2026 Çarşamba
+
+**21:45 · Norwich City – Southampton**
+
+- ⏳ 2.5 Üst · @1.40
+
+**21:45 · Queens Park Rangers – Derby County**
+
+- ⏳ MS 1 · @1.62
+
+**22:00 · Lincoln City – West Ham**
+
+- ⏳ MS 2 · @1.54
+- ⏳ Korner 9.5 Üst · @1.51
 
 ## 13.10.2026 Salı
 
@@ -23,6 +38,10 @@
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ⏳ ↳ Korner 11.5 Alt · @1.43
+
+**21:45 · Millwall – Swansea City**
+
+- ⏳ En çok korner 1 · @1.79
 
 **22:00 · Birmingham – Preston**
 

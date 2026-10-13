@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**80/138 tuttu** (isabet %58, beklenen %67) · -21.52 birim · 13 tahmin sonuç bekliyor
+**80/138 tuttu** (isabet %58, beklenen %67) · -21.52 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.10 09:54 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32
+- ⏳ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43
+- ⏳ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56
+- ⏳ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.60
+- ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.45
+- ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
+- ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.62
+- ⏳ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.54
 
 ## 12.10 19:11 gönderilen kupon · 8'de 7
 
