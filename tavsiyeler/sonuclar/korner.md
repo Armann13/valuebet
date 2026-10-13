@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**120/219 tuttu** (isabet %55, beklenen %62) · -35.22 birim · 17 tahmin sonuç bekliyor
+**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -60,11 +60,11 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.84
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ❌ 🟢 Korner 7.5 Üst · @1.20 · korner 2-5
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.40 · korner 2-5
+- ❌ 🔴 ↳ Korner 10.5 Üst · @2.17 · korner 2-5
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.84 · korner 2-5
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 2-5
 
 **22:00 · Villarreal – Napoli**
 
@@ -83,7 +83,7 @@
 
 **22:00 · Leipzig – PSV**
 
-- ⏳ 🎰 En çok korner 1 · @1.57
+- ❌ 🎰 En çok korner 1 · @1.57 · korner 6-13
 
 ## 12.10.2026 Pazartesi
 
@@ -180,9 +180,9 @@
 
 **18:15 · Rennes – AJ Auxerre**
 
-- ⏳ 🟡 En çok korner 1 · @1.43
-- ⏳ 🎰 En çok korner 1 · @1.43
-- ⏳ 🎰 En çok korner 1 · @1.43
+- ✅ 🟡 En çok korner 1 · @1.43 · korner 12-5
+- ✅ 🎰 En çok korner 1 · @1.43 · korner 12-5
+- ✅ 🎰 En çok korner 1 · @1.43 · korner 12-5
 
 **19:30 · Westerlo – Antwerp**
 
@@ -197,10 +197,10 @@
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 5-3
 
 **16:30 · Augsburg – Bayern Münih**
 

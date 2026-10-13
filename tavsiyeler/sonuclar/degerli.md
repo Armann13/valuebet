@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/21 tuttu** (isabet %71, beklenen %46) · +13.69 birim · 3 tahmin sonuç bekliyor
+**16/24 tuttu** (isabet %67, beklenen %46) · +12.70 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -39,14 +39,14 @@
 **19:00 · Beşiktaş – Kocaelispor**
 
 - ❌ 2.5 Alt · @2.18 · 2-1
-- ⏳ İY/MS X/1 · @3.98
+- ❌ İY/MS X/1 · @3.98 · İY 2-1, MS 2-1
 
 ## 10.10.2026 Cumartesi
 
 **17:00 · Hearts – St Mirren**
 
-- ⏳ 2.5 Alt · @2.40
-- ⏳ KG Yok · @2.01
+- ❌ 2.5 Alt · @2.40 · 5-0
+- ✅ KG Yok · @2.01 · 5-0
 
 **17:00 · Inverness – Stenhousemuir**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/95 tuttu** (isabet %45, beklenen %46) · -4.86 birim · 8 tahmin sonuç bekliyor
+**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,7 +41,7 @@
 
 **22:00 · Leipzig – PSV**
 
-- ⏳ ↳ MS 1 & KG Var · @2.09
+- ❌ ↳ MS 1 & KG Var · @2.09 · 1-0
 
 **22:00 · Inter – Club Brugge**
 
@@ -49,8 +49,8 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
-- ⏳ ↳ Korner 10.5 Üst · @2.17
+- ❌ ↳ MS 1 & 2.5 Üst · @2.49 · 2-0
+- ❌ ↳ Korner 10.5 Üst · @2.17 · korner 2-5
 
 ## 12.10.2026 Pazartesi
 
@@ -135,7 +135,7 @@
 
 **20:00 · Maritimo – Porto**
 
-- ⏳ ↳ İY/MS 2/2 · @1.71
+- ❌ ↳ İY/MS 2/2 · @1.71 · İY 1-1, MS 1-2
 
 **21:45 · Paris Saint Germain – Le Mans**
 

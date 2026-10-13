@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/28 tuttu** (isabet %14, beklenen %17) · -8.14 birim · 3 tahmin sonuç bekliyor
+**4/30 tuttu** (isabet %13, beklenen %16) · -10.14 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **22:00 · Birmingham – Preston**
 
-- ⏳ 2-1 · @7.33
+- ❌ 2-1 · @7.33 · 4-0
 
 **22:00 · Arsenal – Lille**
 
@@ -32,7 +32,7 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ 2-1 · @7.63
+- ❌ 2-1 · @7.63 · 2-0
 
 ## 12.10.2026 Pazartesi
 

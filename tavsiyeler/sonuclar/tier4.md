@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/52 tuttu** (isabet %21, beklenen %32) · -22.13 birim · 7 tahmin sonuç bekliyor
+**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -47,8 +47,8 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ ↳ MS 1 & KG Var · @3.26
-- ⏳ ↳ Korner 11.5 Üst · @2.84
+- ❌ ↳ MS 1 & KG Var · @3.26 · 2-0
+- ❌ ↳ Korner 11.5 Üst · @2.84 · korner 2-5
 
 ## 12.10.2026 Pazartesi
 
@@ -89,7 +89,7 @@
 
 **18:15 · Rennes – AJ Auxerre**
 
-- ⏳ MS 1 & KG Var · @2.49
+- ✅ MS 1 & KG Var · @2.49 · 4-1
 
 **18:30 · Liverpool – Manchester City**
 
@@ -127,7 +127,7 @@
 
 **17:00 · Montrose – Ross County**
 
-- ⏳ MS 2 & KG Var · @2.50
+- ❌ MS 2 & KG Var · @2.50 · 0-5
 
 **17:00 · Aston Villa – Brentford**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**63/86 tuttu** (isabet %73, beklenen %77) · -9.25 birim · 6 tahmin sonuç bekliyor
+**64/89 tuttu** (isabet %72, beklenen %77) · -11.02 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -43,7 +43,7 @@
 
 **22:00 · Galatasaray – Barcelona**
 
-- ⏳ MS 2 · @1.23
+- ✅ MS 2 · @1.23 · 1-4
 
 **22:00 · Villarreal – Napoli**
 
@@ -52,7 +52,7 @@
 
 **22:00 · Leipzig – PSV**
 
-- ⏳ KG Var · @1.26
+- ❌ KG Var · @1.26 · 1-0
 
 **22:00 · Inter – Club Brugge**
 
@@ -60,7 +60,7 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ❌ Korner 7.5 Üst · @1.20 · korner 2-5
 
 **22:00 · Arsenal – Lille**
 

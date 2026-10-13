@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/105 tuttu** (isabet %61, beklenen %63) · -9.70 birim · 14 tahmin sonuç bekliyor
+**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,8 +45,8 @@
 
 **22:00 · Birmingham – Preston**
 
-- ⏳ MS 1 · @1.49
-- ⏳ KG Var · @1.75
+- ✅ MS 1 · @1.49 · 4-0
+- ❌ KG Var · @1.75 · 4-0
 
 **22:00 · Arsenal – Lille**
 
@@ -58,8 +58,8 @@
 
 **22:00 · Atletico Madrid – Manchester United**
 
-- ⏳ MS 1 · @1.75
-- ⏳ ↳ Korner 8.5 Üst · @1.40
+- ✅ MS 1 · @1.75 · 2-0
+- ❌ ↳ Korner 8.5 Üst · @1.40 · korner 2-5
 
 **22:00 · Villarreal – Napoli**
 
@@ -124,7 +124,7 @@
 
 **18:15 · Rennes – AJ Auxerre**
 
-- ⏳ En çok korner 1 · @1.43
+- ✅ En çok korner 1 · @1.43 · korner 12-5
 
 **19:00 · Beşiktaş – Kocaelispor**
 
@@ -138,7 +138,7 @@
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
-- ⏳ En çok korner 1 · @1.41
+- ✅ En çok korner 1 · @1.41 · korner 5-3
 
 **16:30 · Hoffenheim – Hamburg**
 
@@ -155,7 +155,7 @@
 
 **17:00 · Clyde Bank – Dumbarton**
 
-- ⏳ MS 1 · @1.44
+- ✅ MS 1 · @1.44 · 2-1
 
 **17:00 · Inverness – Stenhousemuir**
 
@@ -163,7 +163,7 @@
 
 **17:00 · Hearts – St Mirren**
 
-- ⏳ KG Yok · @2.01
+- ✅ KG Yok · @2.01 · 5-0
 
 **17:00 · Rangers – Kilmarnock**
 

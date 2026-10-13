@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/156 tuttu** (isabet %56, beklenen %67) · -28.16 birim · 19 tahmin sonuç bekliyor
+**95/167 tuttu** (isabet %57, beklenen %66) · -27.64 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,11 +12,11 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ⏳ 13.10 22:00 Inter – Club Brugge · MS 1 & 2.5 Üst · @1.37
 - ✅ 13.10 22:00 Arsenal – Lille · KG Yok · @1.56 · 3-0
-- ⏳ 13.10 22:00 Atletico Madrid – Manchester United · ↳ Korner 8.5 Üst · @1.40
+- ❌ 13.10 22:00 Atletico Madrid – Manchester United · ↳ Korner 8.5 Üst · @1.40 · korner 2-5
 - ❌ 13.10 22:00 Villarreal – Napoli · ↳ Korner 8.5 Üst · @1.41 · korner 4-4
 - ⏳ 13.10 22:00 Galatasaray – Barcelona · ↳ İY/MS 2/2 · @1.54
-- ⏳ 13.10 22:00 Leipzig – PSV · En çok korner 1 · @1.57
-- ⏳ 13.10 22:00 Birmingham – Preston · KG Var · @1.75
+- ❌ 13.10 22:00 Leipzig – PSV · En çok korner 1 · @1.57 · korner 6-13
+- ❌ 13.10 22:00 Birmingham – Preston · KG Var · @1.75 · 4-0
 - ✅ 13.10 22:00 Stoke City – Middlesbrough · ↳ MS 2 · @1.81 · 2-3
 
 ## 13.10 20:02 gönderilen kupon · 8'de 7
@@ -34,20 +34,20 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 13.10 09:54 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
 - ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
 - ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56 · 5-1
 - ❌ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.60 · 2-1
-- ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.45
+- ✅ 13.10 22:00 Birmingham – Preston · MS 1 · @1.45 · 4-0
 - ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
 - ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.62
 - ⏳ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.54
 
 ## 12.10 19:11 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
+**6/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
 - ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.42 · korner 10-5
@@ -56,11 +56,11 @@ Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 - ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
 - ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
 - ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.58 · 5-1
-- ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49
+- ✅ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49 · 4-0
 
 ## 12.10 14:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
+**6/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
 - ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.37 · korner 8-7
@@ -69,7 +69,7 @@ Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 - ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
 - ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
 - ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56 · 5-1
-- ⏳ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49
+- ✅ 13.10 22:00 Birmingham – Preston · MS 1 · @1.49 · 4-0
 
 ## 11.10 22:37 gönderilen kupon · 5'de 3
 
@@ -83,35 +83,35 @@ Sonuç bekleniyor (5 maç tuttu, diğerleri ⏳)
 
 ## 11.10 08:58 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+**5/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
 - ❌ 11.10 14:30 Saint Pauli – Karlsruhe · Korner 12.5 Alt · @1.32 · korner 6-9
 - ❌ 11.10 15:30 Zwolle – SC Cambuur · 2.5 Üst · @1.40 · 0-1
 - ❌ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35 · korner 7-10
-- ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43
+- ✅ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43 · korner 12-5
 - ✅ 12.10 15:00 Real Valladolid – Albacete · En çok korner 1 · @1.45 · korner 7-5
 - ✅ 12.10 19:30 Atalanta – Venezia · En çok korner 1 · @1.41 · korner 8-7
 - ✅ 12.10 19:30 Real Oviedo – Eibar · En çok korner 1 · @1.54 · korner 10-5
 
 ## 10.10 20:25 gönderilen kupon · 7'de 4
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**3/7 maç tuttu · 35 birim yatırıldı, 0.00 döndü (-35.00)** ❌
 
 - ❌ 10.10 22:30 Casa Pia AC – Santa Clara · ↳ Korner 9.5 Alt · @1.67 · korner 3-7
 - ✅ 11.10 13:15 Utrecht – Willem II · En çok korner 1 · @1.51 · korner 7-3
 - ✅ 11.10 16:00 Gaziantep FK – Çorum FK · 2.5 Üst · @1.79 · 0-3
 - ❌ 11.10 17:00 POT Iraklis – APO Levadeiakos FC · KG Var · @1.83 · 2-0
 - ❌ 11.10 17:15 Real Sociedad – Deportivo La Coruna · En çok korner 1 · @1.35 · korner 7-10
-- ⏳ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43
+- ✅ 11.10 18:15 Rennes – AJ Auxerre · En çok korner 1 · @1.43 · korner 12-5
 - ❌ 11.10 19:00 Beşiktaş – Kocaelispor · 2.5 Alt · @2.19 · 2-1
 
 ## 10.10 13:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+**5/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99 · korner 7-8
-- ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
+- ✅ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41 · korner 5-3
 - ❌ 10.10 16:30 Augsburg – Bayern Münih · ↳ Korner 11.5 Alt · @1.40 · korner 5-9
 - ❌ 10.10 17:00 Sheffield United – Lincoln City · En çok korner 1 · @1.53 · korner 2-2
 - ✅ 10.10 17:00 Inverness – Stenhousemuir · 2.5 Alt · @1.57 · 2-0
@@ -121,10 +121,10 @@ Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 ## 09.10 21:29 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 10.10 14:00 Darmstadt 98 – E. Cottbus · En çok korner 2 · @1.99 · korner 7-8
-- ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
+- ✅ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41 · korner 5-3
 - ❌ 10.10 16:30 Augsburg – Bayern Münih · ↳ Korner 11.5 Alt · @1.40 · korner 5-9
 - ❌ 10.10 16:30 Union Berlin – Elversberg · 2.5 Üst · @1.41 · 1-0
 - ✅ 10.10 16:30 Hoffenheim – Hamburg · KG Var · @1.48 · 2-3
@@ -134,9 +134,9 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 ## 09.10 13:45 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
-- ⏳ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41
+- ✅ 10.10 16:00 Alanyaspor – Erzurumspor FK · En çok korner 1 · @1.41 · korner 5-3
 - ❌ 10.10 16:30 Augsburg – Bayern Münih · ↳ Korner 11.5 Alt · @1.40 · korner 5-9
 - ✅ 10.10 16:30 Hoffenheim – Hamburg · KG Var · @1.47 · 2-3
 - ❌ 10.10 16:30 Union Berlin – Elversberg · 2.5 Üst · @1.42 · 1-0

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/138 tuttu** (isabet %11, beklenen %12) · -32.64 birim · 10 tahmin sonuç bekliyor
+**15/143 tuttu** (isabet %10, beklenen %12) · -37.64 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,11 +54,11 @@
 
 **22:00 · Leipzig – PSV**
 
-- ⏳ 2-1 · @8.62
+- ❌ 2-1 · @8.62 · 1-0
 
 **22:00 · Galatasaray – Barcelona**
 
-- ⏳ 1-3 · @8.90
+- ❌ 1-3 · @8.90 · 1-4
 
 ## 12.10.2026 Pazartesi
 
@@ -154,7 +154,7 @@
 
 **18:15 · Rennes – AJ Auxerre**
 
-- ⏳ 2-1 · @7.44
+- ❌ 2-1 · @7.44 · 4-1
 
 **18:30 · Liverpool – Manchester City**
 
@@ -188,7 +188,7 @@
 
 **16:00 · Alanyaspor – Erzurumspor FK**
 
-- ⏳ 1-1 · @5.41
+- ❌ 1-1 · @5.41 · 0-0
 
 **16:30 · Hoffenheim – Hamburg**
 
@@ -244,7 +244,7 @@
 
 **17:00 · Hearts – St Mirren**
 
-- ⏳ 1-0 · @8.25
+- ❌ 1-0 · @8.25 · 5-0
 
 **17:00 · Chelsea – Bournemouth**
 
