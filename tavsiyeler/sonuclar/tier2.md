@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 16 tahmin sonuç bekliyor
+**75/120 tuttu** (isabet %62, beklenen %63) · -7.63 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,22 +37,22 @@
 
 **21:45 · Norwich City – Southampton**
 
-- ⏳ 2.5 Üst · @1.40
+- ❌ 2.5 Üst · @1.40 · 0-1
 
 **21:45 · Queens Park Rangers – Derby County**
 
-- ⏳ MS 1 · @1.62
+- ✅ MS 1 · @1.62 · 4-1
 
 **22:00 · Lincoln City – West Ham**
 
-- ⏳ MS 2 · @1.54
-- ⏳ Korner 9.5 Üst · @1.51
-- ⏳ KG Var · @1.78
+- ✅ MS 2 · @1.54 · 0-6
+- ✅ Korner 9.5 Üst · @1.51 · korner 3-11
+- ❌ KG Var · @1.78 · 0-6
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.47
-- ⏳ ↳ Korner 8.5 Üst · @1.40
+- ✅ ↳ MS 2 & 2.5 Üst · @1.47 · 0-3
+- ✅ ↳ Korner 8.5 Üst · @1.40 · korner 1-8
 
 ## 13.10.2026 Salı
 

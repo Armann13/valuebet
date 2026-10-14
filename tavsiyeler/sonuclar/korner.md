@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 21 tahmin sonuç bekliyor
+**133/242 tuttu** (isabet %55, beklenen %62) · -39.01 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,23 +36,23 @@
 
 **21:45 · Queens Park Rangers – Derby County**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.22
+- ✅ 🟢 Korner 12.5 Alt · @1.22 · korner 1-3
 
 **21:45 · Norwich City – Southampton**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.55
+- ✅ 🟣 Korner 8.5 Alt · @2.55 · korner 5-3
 
 **22:00 · Lincoln City – West Ham**
 
-- ⏳ 🟡 Korner 9.5 Üst · @1.51
+- ✅ 🟡 Korner 9.5 Üst · @1.51 · korner 3-11
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 1-8
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.40 · korner 1-8
+- ❌ 🔴 ↳ Korner 10.5 Üst · @2.17 · korner 1-8
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.85 · korner 1-8
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 1-8
 
 **22:00 · Bodo Glimt – B. Dortmund**
 
@@ -60,11 +60,11 @@
 
 **22:00 · Real Betis – Porto**
 
-- ⏳ 🔴 Korner 9.5 Üst · @1.72
+- ❌ 🔴 Korner 9.5 Üst · @1.72 · korner 5-1
 
 **22:00 · Manchester City – Paris Saint Germain**
 
-- ⏳ 🟣 En çok korner 2 · @2.33
+- ❌ 🟣 En çok korner 2 · @2.33 · korner 11-2
 
 ## 13.10.2026 Salı
 

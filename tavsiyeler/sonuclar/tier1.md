@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**65/90 tuttu** (isabet %72, beklenen %77) · -10.77 birim · 12 tahmin sonuç bekliyor
+**70/95 tuttu** (isabet %74, beklenen %77) · -9.68 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,16 +36,16 @@
 
 **21:45 · Portsmouth – Sheffield United**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 3-2
 
 **21:45 · Queens Park Rangers – Derby County**
 
-- ⏳ Korner 12.5 Alt · @1.22
+- ✅ Korner 12.5 Alt · @1.22 · korner 1-3
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ 2.5 Üst · @1.24
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ 2.5 Üst · @1.24 · 0-3
+- ✅ Korner 7.5 Üst · @1.20 · korner 1-8
 
 **22:00 · Bodo Glimt – B. Dortmund**
 
@@ -53,7 +53,7 @@
 
 **22:00 · Real Betis – Porto**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 3-2
 
 ## 13.10.2026 Salı
 

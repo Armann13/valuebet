@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/144 tuttu** (isabet %10, beklenen %12) · -38.64 birim · 28 tahmin sonuç bekliyor
+**15/154 tuttu** (isabet %10, beklenen %11) · -48.64 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -73,34 +73,34 @@
 
 **21:45 · Queens Park Rangers – Derby County**
 
-- ⏳ 2-1 · @7.43
+- ❌ 2-1 · @7.43 · 4-1
 
 **21:45 · Portsmouth – Sheffield United**
 
-- ⏳ 2-1 · @8.16
+- ❌ 2-1 · @8.16 · 3-2
 
 **21:45 · Norwich City – Southampton**
 
-- ⏳ 2-1 · @8.69
+- ❌ 2-1 · @8.69 · 0-1
 
 **22:00 · Real Betis – Porto**
 
-- ⏳ 2-1 · @7.80
+- ❌ 2-1 · @7.80 · 3-2
 
 **22:00 · Manchester City – Paris Saint Germain**
 
-- ⏳ 1-1 · @7.10
-- ⏳ 2-1 · @8.22
+- ❌ 1-1 · @7.10 · 2-4
+- ❌ 2-1 · @8.22 · 2-4
 
 **22:00 · Shakhtar Donetsk – AEK Athens**
 
-- ⏳ 1-2 · @8.81
-- ⏳ 1-0 · @7.83
+- ❌ 1-2 · @8.81 · 3-1
+- ❌ 1-0 · @7.83 · 3-1
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ 1-3 · @8.79
-- ⏳ 1-2 · @7.98
+- ❌ 1-3 · @8.79 · 0-3
+- ❌ 1-2 · @7.98 · 0-3
 
 **22:00 · Bodo Glimt – B. Dortmund**
 

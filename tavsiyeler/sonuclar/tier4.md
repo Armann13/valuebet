@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 13 tahmin sonuç bekliyor
+**15/63 tuttu** (isabet %24, beklenen %32) · -22.24 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,28 +32,28 @@
 
 **21:45 · Portsmouth – Sheffield United**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.39
+- ✅ ↳ MS 1 & 2.5 Üst · @3.39 · 3-2
 
 **21:45 · Norwich City – Southampton**
 
-- ⏳ Korner 8.5 Alt · @2.55
+- ✅ Korner 8.5 Alt · @2.55 · korner 5-3
 
 **22:00 · Shakhtar Donetsk – AEK Athens**
 
-- ⏳ MS 2 · @2.43
-- ⏳ MS 1 · @2.46
+- ❌ MS 2 · @2.43 · 3-1
+- ✅ MS 1 · @2.46 · 3-1
 
 **22:00 · Manchester City – Paris Saint Germain**
 
-- ⏳ En çok korner 2 · @2.33
+- ❌ En çok korner 2 · @2.33 · korner 11-2
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.85
+- ❌ ↳ Korner 11.5 Üst · @2.85 · korner 1-8
 
 **22:00 · Lincoln City – West Ham**
 
-- ⏳ ↳ MS 2 & KG Var · @3.48
+- ❌ ↳ MS 2 & KG Var · @3.48 · 0-6
 
 ## 13.10.2026 Salı
 

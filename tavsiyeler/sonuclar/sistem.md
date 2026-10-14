@@ -2,15 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**95/167 tuttu** (isabet %57, beklenen %66) · -27.64 birim · 24 tahmin sonuç bekliyor
+**101/176 tuttu** (isabet %57, beklenen %66) · -27.47 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 14.10 20:21 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ Korner 8.5 Üst · @1.40
+- ✅ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ Korner 8.5 Üst · @1.40 · korner 1-8
 - ⏳ 15.10 19:45 KF Egnatia Rrogozhine – Midtjylland · MS 2 · @1.42
 - ⏳ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56
 - ⏳ 15.10 19:45 Hajduk Split – Ajax · MS 2 · @1.43
@@ -21,10 +21,10 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 14.10 08:03 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.43
-- ⏳ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ MS 2 & 2.5 Üst · @1.47
+- ❌ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.43 · 0-1
+- ✅ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ MS 2 & 2.5 Üst · @1.47 · 0-3
 - ⏳ 15.10 19:45 Hajduk Split – Ajax · MS 2 · @1.41
 - ⏳ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56
 - ⏳ 15.10 22:00 Twente – Thun · ↳ MS 1 & 2.5 Üst · @1.40
@@ -47,29 +47,29 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 13.10 20:02 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
 - ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
 - ❌ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.46 · 2-1
 - ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.50 · 5-1
 - ✅ 13.10 21:45 Millwall – Swansea City · En çok korner 1 · @1.79 · korner 13-1
-- ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
-- ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.57
-- ⏳ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.57
+- ❌ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40 · 0-1
+- ✅ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.57 · 4-1
+- ✅ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.57 · 0-6
 
 ## 13.10 09:54 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ❌ 13.10 21:45 Burnley – Charlton · En çok korner 1 · @1.32 · korner 7-7
 - ❌ 13.10 21:45 Bristol City – Blackburn Rovers · ↳ Korner 11.5 Alt · @1.43 · korner 10-5
 - ✅ 13.10 21:45 Cardiff City – Watford · MS 1 · @1.56 · 5-1
 - ❌ 13.10 21:45 Queen's Park – Inverness · MS 2 · @1.60 · 2-1
 - ✅ 13.10 22:00 Birmingham – Preston · MS 1 · @1.45 · 4-0
-- ⏳ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40
-- ⏳ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.62
-- ⏳ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.54
+- ❌ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.40 · 0-1
+- ✅ 14.10 21:45 Queens Park Rangers – Derby County · MS 1 · @1.62 · 4-1
+- ✅ 14.10 22:00 Lincoln City – West Ham · MS 2 · @1.54 · 0-6
 
 ## 12.10 19:11 gönderilen kupon · 8'de 7
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 14 tahmin sonuç bekliyor
+**46/105 tuttu** (isabet %44, beklenen %46) · -9.01 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,21 +32,21 @@
 
 **21:45 · Portsmouth – Sheffield United**
 
-- ⏳ ↳ MS 1 · @2.08
-- ⏳ 2.5 Üst · @1.87
+- ✅ ↳ MS 1 · @2.08 · 3-2
+- ✅ 2.5 Üst · @1.87 · 3-2
 
 **22:00 · Real Betis – Porto**
 
-- ⏳ ↳ MS 1 · @1.90
-- ⏳ Korner 9.5 Üst · @1.72
+- ✅ ↳ MS 1 · @1.90 · 3-2
+- ❌ Korner 9.5 Üst · @1.72 · korner 5-1
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
-- ⏳ ↳ Korner 10.5 Üst · @2.17
+- ❌ ↳ Korner 10.5 Üst · @2.17 · korner 1-8
 
 **22:00 · Manchester City – Paris Saint Germain**
 
-- ⏳ MS 1 · @1.92
+- ❌ MS 1 · @1.92 · 2-4
 
 ## 13.10.2026 Salı
 
