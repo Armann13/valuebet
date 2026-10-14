@@ -2,9 +2,32 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 6 tahmin sonuç bekliyor
+**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10.2026 Perşembe
+
+**19:45 · Hajduk Split – Ajax**
+
+- ⏳ MS 2 · @1.41
+- ⏳ En çok korner 2 · @1.41
+
+**19:45 · Panathinaikos – Banja Luka**
+
+- ⏳ KG Yok · @1.56
+
+**22:00 · Twente – Thun**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.40
+
+**22:00 · Brann – Lincoln Red**
+
+- ⏳ KG Yok · @1.62
+
+**22:00 · Hoffenheim – Beşiktaş**
+
+- ⏳ En çok korner 1 · @1.41
 
 ## 14.10.2026 Çarşamba
 
@@ -20,6 +43,11 @@
 
 - ⏳ MS 2 · @1.54
 - ⏳ Korner 9.5 Üst · @1.51
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.47
+- ⏳ ↳ Korner 8.5 Üst · @1.40
 
 ## 13.10.2026 Salı
 

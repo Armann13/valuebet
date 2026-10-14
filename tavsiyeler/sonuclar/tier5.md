@@ -2,9 +2,27 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/30 tuttu** (isabet %13, beklenen %16) · -10.14 birim · 1 tahmin sonuç bekliyor
+**4/30 tuttu** (isabet %13, beklenen %16) · -10.14 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10.2026 Perşembe
+
+**19:45 · Panathinaikos – Banja Luka**
+
+- ⏳ 2-0 · @5.42
+
+**19:45 · Mjallby – Inter Club De Escaldes**
+
+- ⏳ 2-0 · @5.58
+
+**22:00 · Brann – Lincoln Red**
+
+- ⏳ 3-0 · @6.19
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ 2-0 · @5.72
 
 ## 14.10.2026 Çarşamba
 

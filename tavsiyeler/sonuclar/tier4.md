@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 3 tahmin sonuç bekliyor
+**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10.2026 Perşembe
+
+**19:45 · NK Celje – Omonia**
+
+- ⏳ MS 2 · @2.55
+
+**22:00 · NEC Nijmegen – Levski Sofya**
+
+- ⏳ MS 1 & 2.5 Üst · @2.53
+
+**22:00 · Freiburg – Jablonec**
+
+- ⏳ 2.5 Alt · @2.33
 
 ## 14.10.2026 Çarşamba
 
@@ -15,6 +29,18 @@
 **21:45 · Norwich City – Southampton**
 
 - ⏳ Korner 8.5 Alt · @2.55
+
+**22:00 · Shakhtar Donetsk – AEK Athens**
+
+- ⏳ MS 2 · @2.43
+
+**22:00 · Manchester City – Paris Saint Germain**
+
+- ⏳ En çok korner 2 · @2.33
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ ↳ Korner 11.5 Üst · @2.85
 
 ## 13.10.2026 Salı
 

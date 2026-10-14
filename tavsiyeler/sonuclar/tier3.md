@@ -2,15 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 4 tahmin sonuç bekliyor
+**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10.2026 Perşembe
+
+**22:00 · Dinamo Zagreb – Anderlecht**
+
+- ⏳ MS 1 · @1.88
+
+**22:00 · Jagiellonia Bialystok – Ararat**
+
+- ⏳ İY/MS 1/1 · @1.82
+
+**22:00 · Atalanta – Pafos FC**
+
+- ⏳ Korner 9.5 Alt · @1.72
 
 ## 14.10.2026 Çarşamba
 
 **21:45 · Portsmouth – Sheffield United**
 
 - ⏳ ↳ MS 1 · @2.08
+- ⏳ 2.5 Üst · @1.87
+
+**22:00 · Real Betis – Porto**
+
+- ⏳ ↳ MS 1 · @1.90
+- ⏳ Korner 9.5 Üst · @1.72
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ ↳ Korner 10.5 Üst · @2.17
 
 ## 13.10.2026 Salı
 

@@ -2,9 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 4 tahmin sonuç bekliyor
+**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10.2026 Perşembe
+
+**19:45 · Hajduk Split – Ajax**
+
+- ⏳ 🟡 En çok korner 2 · @1.41
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+
+**22:00 · Hoffenheim – Beşiktaş**
+
+- ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
+
+**22:00 · Atalanta – Pafos FC**
+
+- ⏳ 🔴 Korner 9.5 Alt · @1.72
 
 ## 14.10.2026 Çarşamba
 
@@ -19,6 +39,25 @@
 **22:00 · Lincoln City – West Ham**
 
 - ⏳ 🟡 Korner 9.5 Üst · @1.51
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
+
+**22:00 · Bodo Glimt – B. Dortmund**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+
+**22:00 · Real Betis – Porto**
+
+- ⏳ 🔴 Korner 9.5 Üst · @1.72
+
+**22:00 · Manchester City – Paris Saint Germain**
+
+- ⏳ 🟣 En çok korner 2 · @2.33
 
 ## 13.10.2026 Salı
 

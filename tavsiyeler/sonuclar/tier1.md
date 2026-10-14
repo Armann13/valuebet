@@ -2,11 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/89 tuttu** (isabet %72, beklenen %77) · -11.02 birim · 3 tahmin sonuç bekliyor
+**64/89 tuttu** (isabet %72, beklenen %77) · -11.02 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 15.10.2026 Perşembe
+
+**19:45 · Mjallby – Inter Club De Escaldes**
+
+- ⏳ MS 1 · @1.22
+
+**19:45 · Sparta Prag – Lillestrom**
+
+- ⏳ MS 1 · @1.23
+
+**22:00 · Atalanta – Pafos FC**
+
+- ⏳ MS 1 · @1.25
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
 ## 14.10.2026 Çarşamba
+
+**19:45 · LASK – Liverpool**
+
+- ⏳ MS 2 · @1.25
 
 **21:45 · Portsmouth – Sheffield United**
 
@@ -15,6 +37,15 @@
 **21:45 · Queens Park Rangers – Derby County**
 
 - ⏳ Korner 12.5 Alt · @1.22
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ 2.5 Üst · @1.24
+- ⏳ Korner 7.5 Üst · @1.20
+
+**22:00 · Bodo Glimt – B. Dortmund**
+
+- ⏳ Korner 7.5 Üst · @1.20
 
 ## 13.10.2026 Salı
 

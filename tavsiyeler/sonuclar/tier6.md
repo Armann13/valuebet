@@ -2,11 +2,57 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/143 tuttu** (isabet %10, beklenen %12) · -37.64 birim · 5 tahmin sonuç bekliyor
+**15/143 tuttu** (isabet %10, beklenen %12) · -37.64 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 15.10.2026 Perşembe
+
+**19:45 · Hajduk Split – Ajax**
+
+- ⏳ 1-2 · @7.33
+
+**19:45 · Sparta Prag – Lillestrom**
+
+- ⏳ 2-1 · @7.59
+
+**19:45 · NK Celje – Omonia**
+
+- ⏳ 1-2 · @9.07
+
+**22:00 · Freiburg – Jablonec**
+
+- ⏳ 2-0 · @5.78
+
+**22:00 · Jagiellonia Bialystok – Ararat**
+
+- ⏳ 2-0 · @6.47
+
+**22:00 · NEC Nijmegen – Levski Sofya**
+
+- ⏳ 2-1 · @7.53
+
+**22:00 · Dinamo Zagreb – Anderlecht**
+
+- ⏳ 1-0 · @7.63
+
+**22:00 · Hoffenheim – Beşiktaş**
+
+- ⏳ 1-1 · @7.10
+
+**22:00 · Atalanta – Pafos FC**
+
+- ⏳ 2-1 · @7.59
+
+**22:00 · Twente – Thun**
+
+- ⏳ 3-1 · @8.81
+
 ## 14.10.2026 Çarşamba
+
+**19:45 · LASK – Liverpool**
+
+- ⏳ 1-2 · @7.73
 
 **21:45 · Queens Park Rangers – Derby County**
 
@@ -19,6 +65,26 @@
 **21:45 · Norwich City – Southampton**
 
 - ⏳ 2-1 · @8.69
+
+**22:00 · Real Betis – Porto**
+
+- ⏳ 2-1 · @7.80
+
+**22:00 · Manchester City – Paris Saint Germain**
+
+- ⏳ 1-1 · @7.10
+
+**22:00 · Shakhtar Donetsk – AEK Athens**
+
+- ⏳ 1-2 · @8.81
+
+**22:00 · Slovan Bratislava – Stuttgart**
+
+- ⏳ 1-3 · @8.79
+
+**22:00 · Bodo Glimt – B. Dortmund**
+
+- ⏳ 1-1 · @7.81
 
 ## 13.10.2026 Salı
 
