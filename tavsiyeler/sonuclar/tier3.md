@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 11 tahmin sonuç bekliyor
+**43/99 tuttu** (isabet %43, beklenen %46) · -8.86 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,6 +20,14 @@
 
 - ⏳ Korner 9.5 Alt · @1.72
 
+**22:00 · Kopenhag – Braga**
+
+- ⏳ KG Yok · @1.84
+
+**22:00 · Hoffenheim – Beşiktaş**
+
+- ⏳ MS 1 · @1.87
+
 ## 14.10.2026 Çarşamba
 
 **21:45 · Portsmouth – Sheffield United**
@@ -35,6 +43,10 @@
 **22:00 · Slovan Bratislava – Stuttgart**
 
 - ⏳ ↳ Korner 10.5 Üst · @2.17
+
+**22:00 · Manchester City – Paris Saint Germain**
+
+- ⏳ MS 1 · @1.92
 
 ## 13.10.2026 Salı
 

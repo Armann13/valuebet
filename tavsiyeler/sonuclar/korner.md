@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 17 tahmin sonuç bekliyor
+**127/232 tuttu** (isabet %55, beklenen %62) · -38.29 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,14 +12,20 @@
 
 - ⏳ 🟡 En çok korner 2 · @1.41
 
+**19:45 · Riga FC – K Almaty**
+
+- ⏳ 🟣 En çok korner 2 · @2.33
+
 **22:00 · St. Truidense – FC Iberia 1999**
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
 **22:00 · Hoffenheim – Beşiktaş**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 
 **22:00 · Atalanta – Pafos FC**
@@ -46,6 +52,7 @@
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
 - ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
 **22:00 · Bodo Glimt – B. Dortmund**
 

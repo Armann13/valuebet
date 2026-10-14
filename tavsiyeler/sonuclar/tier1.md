@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/89 tuttu** (isabet %72, beklenen %77) · -11.02 birim · 11 tahmin sonuç bekliyor
+**65/90 tuttu** (isabet %72, beklenen %77) · -10.77 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,15 @@
 
 - ⏳ Korner 7.5 Üst · @1.20
 
+**22:00 · Twente – Thun**
+
+- ⏳ 2.5 Üst · @1.25
+
 ## 14.10.2026 Çarşamba
 
 **19:45 · LASK – Liverpool**
 
-- ⏳ MS 2 · @1.25
+- ✅ MS 2 · @1.25 · 3-6
 
 **21:45 · Portsmouth – Sheffield United**
 
@@ -46,6 +50,10 @@
 **22:00 · Bodo Glimt – B. Dortmund**
 
 - ⏳ Korner 7.5 Üst · @1.20
+
+**22:00 · Real Betis – Porto**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 ## 13.10.2026 Salı
 

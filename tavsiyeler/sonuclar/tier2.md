@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 14 tahmin sonuç bekliyor
+**70/113 tuttu** (isabet %62, beklenen %63) · -8.17 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,6 +16,10 @@
 **19:45 · Panathinaikos – Banja Luka**
 
 - ⏳ KG Yok · @1.56
+
+**19:45 · KF Egnatia Rrogozhine – Midtjylland**
+
+- ⏳ MS 2 · @1.42
 
 **22:00 · Twente – Thun**
 
@@ -43,6 +47,7 @@
 
 - ⏳ MS 2 · @1.54
 - ⏳ Korner 9.5 Üst · @1.51
+- ⏳ KG Var · @1.78
 
 **22:00 · Slovan Bratislava – Stuttgart**
 

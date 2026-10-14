@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/143 tuttu** (isabet %10, beklenen %12) · -37.64 birim · 21 tahmin sonuç bekliyor
+**15/144 tuttu** (isabet %10, beklenen %12) · -38.64 birim · 28 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,6 +19,14 @@
 **19:45 · NK Celje – Omonia**
 
 - ⏳ 1-2 · @9.07
+
+**19:45 · Riga FC – K Almaty**
+
+- ⏳ 1-1 · @5.62
+
+**19:45 · KF Egnatia Rrogozhine – Midtjylland**
+
+- ⏳ 1-2 · @7.33
 
 **22:00 · Freiburg – Jablonec**
 
@@ -39,6 +47,7 @@
 **22:00 · Hoffenheim – Beşiktaş**
 
 - ⏳ 1-1 · @7.10
+- ⏳ 2-1 · @8.15
 
 **22:00 · Atalanta – Pafos FC**
 
@@ -48,11 +57,19 @@
 
 - ⏳ 3-1 · @8.81
 
+**22:00 · Kopenhag – Braga**
+
+- ⏳ 1-0 · @7.03
+
+**22:00 · Bournemouth – Sturm Graz**
+
+- ⏳ 3-1 · @8.94
+
 ## 14.10.2026 Çarşamba
 
 **19:45 · LASK – Liverpool**
 
-- ⏳ 1-2 · @7.73
+- ❌ 1-2 · @7.73 · 3-6
 
 **21:45 · Queens Park Rangers – Derby County**
 
@@ -73,14 +90,17 @@
 **22:00 · Manchester City – Paris Saint Germain**
 
 - ⏳ 1-1 · @7.10
+- ⏳ 2-1 · @8.22
 
 **22:00 · Shakhtar Donetsk – AEK Athens**
 
 - ⏳ 1-2 · @8.81
+- ⏳ 1-0 · @7.83
 
 **22:00 · Slovan Bratislava – Stuttgart**
 
 - ⏳ 1-3 · @8.79
+- ⏳ 1-2 · @7.98
 
 **22:00 · Bodo Glimt – B. Dortmund**
 

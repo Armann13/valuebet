@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 9 tahmin sonuç bekliyor
+**12/56 tuttu** (isabet %21, beklenen %32) · -23.64 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,10 @@
 
 - ⏳ MS 2 · @2.55
 
+**19:45 · Riga FC – K Almaty**
+
+- ⏳ En çok korner 2 · @2.33
+
 **22:00 · NEC Nijmegen – Levski Sofya**
 
 - ⏳ MS 1 & 2.5 Üst · @2.53
@@ -19,6 +23,10 @@
 **22:00 · Freiburg – Jablonec**
 
 - ⏳ 2.5 Alt · @2.33
+
+**22:00 · Bournemouth – Sturm Graz**
+
+- ⏳ MS 1 & KG Var · @2.30
 
 ## 14.10.2026 Çarşamba
 
@@ -33,6 +41,7 @@
 **22:00 · Shakhtar Donetsk – AEK Athens**
 
 - ⏳ MS 2 · @2.43
+- ⏳ MS 1 · @2.46
 
 **22:00 · Manchester City – Paris Saint Germain**
 
@@ -41,6 +50,10 @@
 **22:00 · Slovan Bratislava – Stuttgart**
 
 - ⏳ ↳ Korner 11.5 Üst · @2.85
+
+**22:00 · Lincoln City – West Ham**
+
+- ⏳ ↳ MS 2 & KG Var · @3.48
 
 ## 13.10.2026 Salı
 
