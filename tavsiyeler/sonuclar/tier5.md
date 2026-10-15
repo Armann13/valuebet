@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/31 tuttu** (isabet %13, beklenen %16) · -11.14 birim · 4 tahmin sonuç bekliyor
+**5/33 tuttu** (isabet %15, beklenen %16) · -7.56 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **19:45 · Panathinaikos – Banja Luka**
 
-- ⏳ 2-0 · @5.42
+- ❌ 2-0 · @5.42 · 2-1
 
 **19:45 · Mjallby – Inter Club De Escaldes**
 
-- ⏳ 2-0 · @5.58
+- ✅ 2-0 · @5.58 · 2-0
 
 **22:00 · Brann – Lincoln Red**
 

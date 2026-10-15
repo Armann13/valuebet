@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/63 tuttu** (isabet %24, beklenen %32) · -22.24 birim · 8 tahmin sonuç bekliyor
+**17/65 tuttu** (isabet %26, beklenen %32) · -19.36 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **19:45 · NK Celje – Omonia**
 
-- ⏳ MS 2 · @2.55
+- ✅ MS 2 · @2.55 · 0-3
 
 **19:45 · Riga FC – K Almaty**
 
-- ⏳ En çok korner 2 · @2.33
+- ✅ En çok korner 2 · @2.33 · korner 2-3
 
 **22:00 · NEC Nijmegen – Levski Sofya**
 
@@ -35,6 +35,14 @@
 **22:00 · St. Truidense – FC Iberia 1999**
 
 - ⏳ ↳ Korner 11.5 Üst · @2.85
+
+**22:00 · Hoffenheim – Beşiktaş**
+
+- ⏳ MS 1 & 2.5 Üst · @2.43
+
+**22:00 · Hearts – Nordsjælland**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.79
 
 ## 14.10.2026 Çarşamba
 

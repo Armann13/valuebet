@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**70/95 tuttu** (isabet %74, beklenen %77) · -9.68 birim · 10 tahmin sonuç bekliyor
+**73/99 tuttu** (isabet %74, beklenen %77) · -10.05 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,19 +10,19 @@
 
 **19:45 · Mjallby – Inter Club De Escaldes**
 
-- ⏳ MS 1 · @1.22
+- ✅ MS 1 · @1.22 · 2-0
 
 **19:45 · Sparta Prag – Lillestrom**
 
-- ⏳ MS 1 · @1.23
+- ❌ MS 1 · @1.23 · 1-1
 
 **19:45 · Torreense – Sunderland**
 
-- ⏳ MS 2 · @1.21
+- ✅ MS 2 · @1.21 · 1-2
 
 **19:45 · CSKA Sofya – Monaco**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 12-1
 
 **22:00 · Atalanta – Pafos FC**
 
@@ -39,6 +39,10 @@
 **22:00 · Jagiellonia Bialystok – Ararat**
 
 - ⏳ En çok korner 1 · @1.20
+
+**22:00 · Ferencvaros – Viktoria Plzen**
+
+- ⏳ Korner 7.5 Üst · @1.20
 
 ## 14.10.2026 Çarşamba
 

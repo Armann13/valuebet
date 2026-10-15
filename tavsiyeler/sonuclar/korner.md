@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**133/242 tuttu** (isabet %55, beklenen %62) · -39.01 birim · 21 tahmin sonuç bekliyor
+**140/249 tuttu** (isabet %56, beklenen %61) · -35.12 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,22 +10,22 @@
 
 **19:45 · Hajduk Split – Ajax**
 
-- ⏳ 🟡 En çok korner 2 · @1.41
-- ⏳ 🎰 En çok korner 2 · @1.41
+- ✅ 🟡 En çok korner 2 · @1.41 · korner 4-5
+- ✅ 🎰 En çok korner 2 · @1.41 · korner 4-5
 
 **19:45 · Riga FC – K Almaty**
 
-- ⏳ 🟣 En çok korner 2 · @2.33
+- ✅ 🟣 En çok korner 2 · @2.33 · korner 2-3
 
 **19:45 · CSKA Sofya – Monaco**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 12-1
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 12-1
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.41 · korner 12-1
 
 **19:45 · Union Saint Gilloise – Real Sociedad**
 
-- ⏳ 🔴 Korner 9.5 Alt · @1.72
+- ✅ 🔴 Korner 9.5 Alt · @1.72 · korner 4-2
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
@@ -35,6 +35,7 @@
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
 - ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
 
 **22:00 · Hoffenheim – Beşiktaş**
@@ -50,6 +51,16 @@
 **22:00 · Jagiellonia Bialystok – Ararat**
 
 - ⏳ 🟢 En çok korner 1 · @1.20
+
+**22:00 · Ferencvaros – Viktoria Plzen**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+
+**22:00 · Hearts – Nordsjælland**
+
+- ⏳ 🔴 En çok korner 2 · @1.80
 
 ## 14.10.2026 Çarşamba
 

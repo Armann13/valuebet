@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**46/105 tuttu** (isabet %44, beklenen %46) · -9.01 birim · 12 tahmin sonuç bekliyor
+**47/107 tuttu** (isabet %44, beklenen %46) · -9.29 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **19:45 · KF Egnatia Rrogozhine – Midtjylland**
 
-- ⏳ ↳ İY/MS 2/2 · @2.04
+- ❌ ↳ İY/MS 2/2 · @2.04
 
 **19:45 · Union Saint Gilloise – Real Sociedad**
 
-- ⏳ Korner 9.5 Alt · @1.72
+- ✅ Korner 9.5 Alt · @1.72 · korner 4-2
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
@@ -40,6 +40,18 @@
 **22:00 · St. Truidense – FC Iberia 1999**
 
 - ⏳ ↳ Korner 10.5 Üst · @2.17
+
+**22:00 · NEC Nijmegen – Levski Sofya**
+
+- ⏳ KG Yok · @1.82
+
+**22:00 · Twente – Thun**
+
+- ⏳ ↳ MS 1 & KG Var · @1.96
+
+**22:00 · Hearts – Nordsjælland**
+
+- ⏳ En çok korner 2 · @1.80
 
 ## 14.10.2026 Çarşamba
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/120 tuttu** (isabet %62, beklenen %63) · -7.63 birim · 15 tahmin sonuç bekliyor
+**77/125 tuttu** (isabet %62, beklenen %63) · -9.81 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,16 +10,16 @@
 
 **19:45 · Hajduk Split – Ajax**
 
-- ⏳ MS 2 · @1.41
-- ⏳ En çok korner 2 · @1.41
+- ❌ MS 2 · @1.41 · 2-1
+- ✅ En çok korner 2 · @1.41 · korner 4-5
 
 **19:45 · Panathinaikos – Banja Luka**
 
-- ⏳ KG Yok · @1.56
+- ❌ KG Yok · @1.56 · 2-1
 
 **19:45 · KF Egnatia Rrogozhine – Midtjylland**
 
-- ⏳ MS 2 · @1.42
+- ❌ MS 2 · @1.42 · 1-1
 
 **19:45 · Torreense – Sunderland**
 
@@ -27,7 +27,7 @@
 
 **19:45 · CSKA Sofya – Monaco**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.41
+- ✅ ↳ Korner 8.5 Üst · @1.41 · korner 12-1
 
 **22:00 · Twente – Thun**
 
@@ -53,6 +53,22 @@
 **22:00 · St. Truidense – FC Iberia 1999**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.40
+
+**22:00 · Benfica – Celtic**
+
+- ⏳ İY/MS 1/1 · @1.40
+
+**22:00 · Hearts – Nordsjælland**
+
+- ⏳ 2.5 Üst · @1.42
+
+**22:00 · Bournemouth – Sturm Graz**
+
+- ⏳ KG Yok · @1.73
+
+**22:00 · Ferencvaros – Viktoria Plzen**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
 
 ## 14.10.2026 Çarşamba
 

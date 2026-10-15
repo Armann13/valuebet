@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/154 tuttu** (isabet %10, beklenen %11) · -48.64 birim · 26 tahmin sonuç bekliyor
+**17/165 tuttu** (isabet %10, beklenen %11) · -47.68 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,38 +10,38 @@
 
 **19:45 · Hajduk Split – Ajax**
 
-- ⏳ 1-2 · @7.33
+- ❌ 1-2 · @7.33 · 2-1
 
 **19:45 · Sparta Prag – Lillestrom**
 
-- ⏳ 2-1 · @7.59
+- ❌ 2-1 · @7.59 · 1-1
 
 **19:45 · NK Celje – Omonia**
 
-- ⏳ 1-2 · @9.07
-- ⏳ 0-1 · @8.49
+- ❌ 1-2 · @9.07 · 0-3
+- ❌ 0-1 · @8.49 · 0-3
 
 **19:45 · Riga FC – K Almaty**
 
-- ⏳ 1-1 · @5.62
-- ⏳ 1-0 · @6.12
+- ✅ 1-1 · @5.62 · 1-1
+- ❌ 1-0 · @6.12 · 1-1
 
 **19:45 · KF Egnatia Rrogozhine – Midtjylland**
 
-- ⏳ 1-2 · @7.33
-- ⏳ 0-2 · @6.58
+- ❌ 1-2 · @7.33 · 1-1
+- ❌ 0-2 · @6.58 · 1-1
 
 **19:45 · Torreense – Sunderland**
 
-- ⏳ 0-2 · @5.73
+- ❌ 0-2 · @5.73 · 1-2
 
 **19:45 · CSKA Sofya – Monaco**
 
-- ⏳ 0-2 · @6.97
+- ❌ 0-2 · @6.97 · 1-2
 
 **19:45 · Union Saint Gilloise – Real Sociedad**
 
-- ⏳ 1-1 · @6.34
+- ✅ 1-1 · @6.34 · 1-1
 
 **22:00 · Freiburg – Jablonec**
 
@@ -54,6 +54,7 @@
 **22:00 · NEC Nijmegen – Levski Sofya**
 
 - ⏳ 2-1 · @7.53
+- ⏳ 1-0 · @6.36
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
@@ -81,6 +82,23 @@
 **22:00 · Bournemouth – Sturm Graz**
 
 - ⏳ 3-1 · @8.94
+- ⏳ 3-0 · @6.61
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ 3-0 · @6.50
+
+**22:00 · Ferencvaros – Viktoria Plzen**
+
+- ⏳ 1-1 · @6.33
+
+**22:00 · Benfica – Celtic**
+
+- ⏳ 3-0 · @7.70
+
+**22:00 · Hearts – Nordsjælland**
+
+- ⏳ 1-2 · @8.25
 
 ## 14.10.2026 Çarşamba
 
