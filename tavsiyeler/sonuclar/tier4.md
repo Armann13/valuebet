@@ -60,7 +60,7 @@
 **21:45 · Bristol City – Blackburn Rovers**
 
 - ❌ ↳ MS 1 & 2.5 Üst · @2.93 · 0-1
-- ❌ ↳ İY/MS 1/1 · @3.10
+- ❌ ↳ İY/MS 1/1 · @3.10 · İY 0-1, MS 0-1
 - ❌ ↳ Korner 8.5 Alt · @2.90 · korner 10-5
 
 **21:45 · Millwall – Swansea City**
@@ -69,7 +69,7 @@
 
 **21:45 · Wrexham – West Bromwich**
 
-- ❌ ↳ İY/MS 1/1 · @3.43
+- ❌ ↳ İY/MS 1/1 · @3.43 · İY 0-0, MS 1-2
 
 **21:45 · Cardiff City – Watford**
 
