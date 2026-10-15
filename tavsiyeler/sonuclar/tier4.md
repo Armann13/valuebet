@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/63 tuttu** (isabet %24, beklenen %32) · -22.24 birim · 6 tahmin sonuç bekliyor
+**15/63 tuttu** (isabet %24, beklenen %32) · -22.24 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,6 +27,14 @@
 **22:00 · Bournemouth – Sturm Graz**
 
 - ⏳ MS 1 & KG Var · @2.30
+
+**22:00 · Dinamo Zagreb – Anderlecht**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.77
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ ↳ Korner 11.5 Üst · @2.85
 
 ## 14.10.2026 Çarşamba
 

@@ -2,11 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**46/105 tuttu** (isabet %44, beklenen %46) · -9.01 birim · 8 tahmin sonuç bekliyor
+**46/105 tuttu** (isabet %44, beklenen %46) · -9.01 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 15.10.2026 Perşembe
+
+**19:45 · KF Egnatia Rrogozhine – Midtjylland**
+
+- ⏳ ↳ İY/MS 2/2 · @2.04
+
+**19:45 · Union Saint Gilloise – Real Sociedad**
+
+- ⏳ Korner 9.5 Alt · @1.72
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
@@ -19,6 +27,7 @@
 **22:00 · Atalanta – Pafos FC**
 
 - ⏳ Korner 9.5 Alt · @1.72
+- ⏳ ↳ MS 1 & KG Var · @2.67
 
 **22:00 · Kopenhag – Braga**
 
@@ -27,6 +36,10 @@
 **22:00 · Hoffenheim – Beşiktaş**
 
 - ⏳ MS 1 · @1.87
+
+**22:00 · St. Truidense – FC Iberia 1999**
+
+- ⏳ ↳ Korner 10.5 Üst · @2.17
 
 ## 14.10.2026 Çarşamba
 

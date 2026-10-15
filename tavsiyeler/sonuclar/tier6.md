@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/154 tuttu** (isabet %10, beklenen %11) · -48.64 birim · 18 tahmin sonuç bekliyor
+**15/154 tuttu** (isabet %10, beklenen %11) · -48.64 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,14 +19,29 @@
 **19:45 · NK Celje – Omonia**
 
 - ⏳ 1-2 · @9.07
+- ⏳ 0-1 · @8.49
 
 **19:45 · Riga FC – K Almaty**
 
 - ⏳ 1-1 · @5.62
+- ⏳ 1-0 · @6.12
 
 **19:45 · KF Egnatia Rrogozhine – Midtjylland**
 
 - ⏳ 1-2 · @7.33
+- ⏳ 0-2 · @6.58
+
+**19:45 · Torreense – Sunderland**
+
+- ⏳ 0-2 · @5.73
+
+**19:45 · CSKA Sofya – Monaco**
+
+- ⏳ 0-2 · @6.97
+
+**19:45 · Union Saint Gilloise – Real Sociedad**
+
+- ⏳ 1-1 · @6.34
 
 **22:00 · Freiburg – Jablonec**
 
@@ -43,6 +58,7 @@
 **22:00 · Dinamo Zagreb – Anderlecht**
 
 - ⏳ 1-0 · @7.63
+- ⏳ 2-1 · @7.83
 
 **22:00 · Hoffenheim – Beşiktaş**
 
@@ -56,6 +72,7 @@
 **22:00 · Twente – Thun**
 
 - ⏳ 3-1 · @8.81
+- ⏳ 3-0 · @7.94
 
 **22:00 · Kopenhag – Braga**
 

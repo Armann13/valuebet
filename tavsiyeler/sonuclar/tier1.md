@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**70/95 tuttu** (isabet %74, beklenen %77) · -9.68 birim · 7 tahmin sonuç bekliyor
+**70/95 tuttu** (isabet %74, beklenen %77) · -9.68 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,6 +16,14 @@
 
 - ⏳ MS 1 · @1.23
 
+**19:45 · Torreense – Sunderland**
+
+- ⏳ MS 2 · @1.21
+
+**19:45 · CSKA Sofya – Monaco**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
 **22:00 · Atalanta – Pafos FC**
 
 - ⏳ MS 1 · @1.25
@@ -27,6 +35,10 @@
 **22:00 · Twente – Thun**
 
 - ⏳ 2.5 Üst · @1.25
+
+**22:00 · Jagiellonia Bialystok – Ararat**
+
+- ⏳ En çok korner 1 · @1.20
 
 ## 14.10.2026 Çarşamba
 

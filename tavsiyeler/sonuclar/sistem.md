@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/176 tuttu** (isabet %57, beklenen %66) · -27.47 birim · 15 tahmin sonuç bekliyor
+**101/176 tuttu** (isabet %57, beklenen %66) · -27.47 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.10 14:42 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 15.10 19:45 KF Egnatia Rrogozhine – Midtjylland · MS 2 · @1.42
+- ⏳ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56
+- ⏳ 15.10 19:45 Hajduk Split – Ajax · En çok korner 2 · @1.41
+- ⏳ 15.10 19:45 CSKA Sofya – Monaco · ↳ Korner 8.5 Üst · @1.41
+- ⏳ 15.10 22:00 Twente – Thun · İY/MS 1/1 · @1.43
+- ⏳ 15.10 22:00 Freiburg – Jablonec · KG Yok · @1.57
+- ⏳ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40
+- ⏳ 15.10 22:00 Atalanta – Pafos FC · ↳ MS 1 & 2.5 Üst · @1.66
 
 ## 14.10 20:21 gönderilen kupon · 8'de 7
 
