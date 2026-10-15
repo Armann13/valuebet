@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/65 tuttu** (isabet %26, beklenen %32) · -19.36 birim · 8 tahmin sonuç bekliyor
+**17/71 tuttu** (isabet %24, beklenen %32) · -25.36 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,27 +18,27 @@
 
 **22:00 · NEC Nijmegen – Levski Sofya**
 
-- ⏳ MS 1 & 2.5 Üst · @2.53
+- ❌ MS 1 & 2.5 Üst · @2.53 · 1-1
 
 **22:00 · Freiburg – Jablonec**
 
-- ⏳ 2.5 Alt · @2.33
+- ❌ 2.5 Alt · @2.33 · 3-2
 
 **22:00 · Bournemouth – Sturm Graz**
 
-- ⏳ MS 1 & KG Var · @2.30
+- ❌ MS 1 & KG Var · @2.30 · 3-0
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.77
+- ❌ ↳ MS 1 & 2.5 Üst · @2.77 · 1-0
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.85
+- ❌ ↳ Korner 11.5 Üst · @2.85 · korner 4-0
 
 **22:00 · Hoffenheim – Beşiktaş**
 
-- ⏳ MS 1 & 2.5 Üst · @2.43
+- ❌ MS 1 & 2.5 Üst · @2.43 · 2-3
 
 **22:00 · Hearts – Nordsjælland**
 

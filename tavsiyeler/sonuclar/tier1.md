@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**73/99 tuttu** (isabet %74, beklenen %77) · -10.05 birim · 7 tahmin sonuç bekliyor
+**75/104 tuttu** (isabet %72, beklenen %77) · -12.60 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,23 +26,23 @@
 
 **22:00 · Atalanta – Pafos FC**
 
-- ⏳ MS 1 · @1.25
+- ✅ MS 1 · @1.25 · 3-1
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ❌ Korner 7.5 Üst · @1.20 · korner 4-0
 
 **22:00 · Twente – Thun**
 
-- ⏳ 2.5 Üst · @1.25
+- ❌ 2.5 Üst · @1.25 · 1-0
 
 **22:00 · Jagiellonia Bialystok – Ararat**
 
-- ⏳ En çok korner 1 · @1.20
+- ❌ En çok korner 1 · @1.20 · korner 2-3
 
 **22:00 · Ferencvaros – Viktoria Plzen**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 7-3
 
 ## 14.10.2026 Çarşamba
 

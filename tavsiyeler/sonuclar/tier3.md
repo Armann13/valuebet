@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**47/107 tuttu** (isabet %44, beklenen %46) · -9.29 birim · 13 tahmin sonuç bekliyor
+**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,7 +18,7 @@
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
-- ⏳ MS 1 · @1.88
+- ✅ MS 1 · @1.88 · 1-0
 
 **22:00 · Jagiellonia Bialystok – Ararat**
 
@@ -26,8 +26,8 @@
 
 **22:00 · Atalanta – Pafos FC**
 
-- ⏳ Korner 9.5 Alt · @1.72
-- ⏳ ↳ MS 1 & KG Var · @2.67
+- ✅ Korner 9.5 Alt · @1.72 · korner 6-2
+- ✅ ↳ MS 1 & KG Var · @2.67 · 3-1
 
 **22:00 · Kopenhag – Braga**
 
@@ -35,19 +35,19 @@
 
 **22:00 · Hoffenheim – Beşiktaş**
 
-- ⏳ MS 1 · @1.87
+- ❌ MS 1 · @1.87 · 2-3
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ ↳ Korner 10.5 Üst · @2.17
+- ❌ ↳ Korner 10.5 Üst · @2.17 · korner 4-0
 
 **22:00 · NEC Nijmegen – Levski Sofya**
 
-- ⏳ KG Yok · @1.82
+- ❌ KG Yok · @1.82 · 1-1
 
 **22:00 · Twente – Thun**
 
-- ⏳ ↳ MS 1 & KG Var · @1.96
+- ❌ ↳ MS 1 & KG Var · @1.96 · 1-0
 
 **22:00 · Hearts – Nordsjælland**
 

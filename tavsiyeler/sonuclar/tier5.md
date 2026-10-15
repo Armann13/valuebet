@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/33 tuttu** (isabet %15, beklenen %16) · -7.56 birim · 2 tahmin sonuç bekliyor
+**6/35 tuttu** (isabet %17, beklenen %16) · -3.84 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,11 +18,11 @@
 
 **22:00 · Brann – Lincoln Red**
 
-- ⏳ 3-0 · @6.19
+- ❌ 3-0 · @6.19 · 2-1
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ 2-0 · @5.72
+- ✅ 2-0 · @5.72 · 2-0
 
 ## 14.10.2026 Çarşamba
 

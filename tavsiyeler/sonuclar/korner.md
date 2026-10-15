@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**140/249 tuttu** (isabet %56, beklenen %61) · -35.12 birim · 19 tahmin sonuç bekliyor
+**147/265 tuttu** (isabet %55, beklenen %62) · -41.15 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,34 +29,34 @@
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.17
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.85
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.40
+- ❌ 🟢 Korner 7.5 Üst · @1.20 · korner 4-0
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ❌ 🔴 ↳ Korner 10.5 Üst · @2.17 · korner 4-0
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.85 · korner 4-0
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.40 · korner 4-0
 
 **22:00 · Hoffenheim – Beşiktaş**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 7-5
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 7-5
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 7-5
 
 **22:00 · Atalanta – Pafos FC**
 
-- ⏳ 🔴 Korner 9.5 Alt · @1.72
+- ✅ 🔴 Korner 9.5 Alt · @1.72 · korner 6-2
 
 **22:00 · Jagiellonia Bialystok – Ararat**
 
-- ⏳ 🟢 En çok korner 1 · @1.20
+- ❌ 🟢 En çok korner 1 · @1.20 · korner 2-3
 
 **22:00 · Ferencvaros – Viktoria Plzen**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 7-3
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 7-3
+- ✅ 🎰 ↳ Korner 8.5 Üst · @1.41 · korner 7-3
 
 **22:00 · Hearts – Nordsjælland**
 

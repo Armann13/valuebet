@@ -2,60 +2,60 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**103/185 tuttu** (isabet %56, beklenen %66) · -33.65 birim · 21 tahmin sonuç bekliyor
+**109/201 tuttu** (isabet %54, beklenen %66) · -40.46 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 15.10 20:11 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
-- ⏳ 15.10 22:00 Freiburg – Jablonec · KG Yok · @1.50
+- ❌ 15.10 22:00 Freiburg – Jablonec · KG Yok · @1.50 · 3-2
 - ⏳ 15.10 22:00 Benfica – Celtic · İY/MS 1/1 · @1.40
 - ⏳ 15.10 22:00 Hearts – Nordsjælland · 2.5 Üst · @1.42
-- ⏳ 15.10 22:00 Bournemouth – Sturm Graz · KG Yok · @1.73
-- ⏳ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40
-- ⏳ 15.10 22:00 Ferencvaros – Viktoria Plzen · ↳ Korner 8.5 Üst · @1.41
-- ⏳ 15.10 22:00 Atalanta – Pafos FC · ↳ MS 1 & 2.5 Üst · @1.57
+- ✅ 15.10 22:00 Bournemouth – Sturm Graz · KG Yok · @1.73 · 3-0
+- ❌ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ✅ 15.10 22:00 Ferencvaros – Viktoria Plzen · ↳ Korner 8.5 Üst · @1.41 · korner 7-3
+- ✅ 15.10 22:00 Atalanta – Pafos FC · ↳ MS 1 & 2.5 Üst · @1.57 · 3-1
 
 ## 15.10 14:42 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ❌ 15.10 19:45 KF Egnatia Rrogozhine – Midtjylland · MS 2 · @1.42 · 1-1
 - ❌ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56 · 2-1
 - ✅ 15.10 19:45 Hajduk Split – Ajax · En çok korner 2 · @1.41 · korner 4-5
 - ✅ 15.10 19:45 CSKA Sofya – Monaco · ↳ Korner 8.5 Üst · @1.41 · korner 12-1
 - ⏳ 15.10 22:00 Twente – Thun · İY/MS 1/1 · @1.43
-- ⏳ 15.10 22:00 Freiburg – Jablonec · KG Yok · @1.57
-- ⏳ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40
-- ⏳ 15.10 22:00 Atalanta – Pafos FC · ↳ MS 1 & 2.5 Üst · @1.66
+- ❌ 15.10 22:00 Freiburg – Jablonec · KG Yok · @1.57 · 3-2
+- ❌ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40 · korner 4-0
+- ✅ 15.10 22:00 Atalanta – Pafos FC · ↳ MS 1 & 2.5 Üst · @1.66 · 3-1
 
 ## 14.10 20:21 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+**2/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ Korner 8.5 Üst · @1.40 · korner 1-8
 - ❌ 15.10 19:45 KF Egnatia Rrogozhine – Midtjylland · MS 2 · @1.42 · 1-1
 - ❌ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56 · 2-1
 - ❌ 15.10 19:45 Hajduk Split – Ajax · MS 2 · @1.43 · 2-1
-- ⏳ 15.10 22:00 Twente – Thun · ↳ MS 1 & 2.5 Üst · @1.40
-- ⏳ 15.10 22:00 Brann – Lincoln Red · KG Yok · @1.64
-- ⏳ 15.10 22:00 Hoffenheim – Beşiktaş · En çok korner 1 · @1.41
-- ⏳ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40
+- ❌ 15.10 22:00 Twente – Thun · ↳ MS 1 & 2.5 Üst · @1.40 · 1-0
+- ❌ 15.10 22:00 Brann – Lincoln Red · KG Yok · @1.64 · 2-1
+- ✅ 15.10 22:00 Hoffenheim – Beşiktaş · En çok korner 1 · @1.41 · korner 7-5
+- ❌ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40 · korner 4-0
 
 ## 14.10 08:03 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+**2/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ❌ 14.10 21:45 Norwich City – Southampton · 2.5 Üst · @1.43 · 0-1
 - ✅ 14.10 22:00 Slovan Bratislava – Stuttgart · ↳ MS 2 & 2.5 Üst · @1.47 · 0-3
 - ❌ 15.10 19:45 Hajduk Split – Ajax · MS 2 · @1.41 · 2-1
 - ❌ 15.10 19:45 Panathinaikos – Banja Luka · KG Yok · @1.56 · 2-1
-- ⏳ 15.10 22:00 Twente – Thun · ↳ MS 1 & 2.5 Üst · @1.40
-- ⏳ 15.10 22:00 Brann – Lincoln Red · KG Yok · @1.62
-- ⏳ 15.10 22:00 Hoffenheim – Beşiktaş · En çok korner 1 · @1.41
-- ⏳ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40
+- ❌ 15.10 22:00 Twente – Thun · ↳ MS 1 & 2.5 Üst · @1.40 · 1-0
+- ❌ 15.10 22:00 Brann – Lincoln Red · KG Yok · @1.62 · 2-1
+- ✅ 15.10 22:00 Hoffenheim – Beşiktaş · En çok korner 1 · @1.41 · korner 7-5
+- ❌ 15.10 22:00 St. Truidense – FC Iberia 1999 · ↳ Korner 8.5 Üst · @1.40 · korner 4-0
 
 ## 13.10 20:09 gönderilen kupon · 8'de 5
 

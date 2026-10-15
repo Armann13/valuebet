@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/165 tuttu** (isabet %10, beklenen %11) · -47.68 birim · 21 tahmin sonuç bekliyor
+**19/181 tuttu** (isabet %10, beklenen %11) · -49.44 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,35 +45,35 @@
 
 **22:00 · Freiburg – Jablonec**
 
-- ⏳ 2-0 · @5.78
+- ❌ 2-0 · @5.78 · 3-2
 
 **22:00 · Jagiellonia Bialystok – Ararat**
 
-- ⏳ 2-0 · @6.47
+- ❌ 2-0 · @6.47 · 3-1
 
 **22:00 · NEC Nijmegen – Levski Sofya**
 
-- ⏳ 2-1 · @7.53
-- ⏳ 1-0 · @6.36
+- ❌ 2-1 · @7.53 · 1-1
+- ❌ 1-0 · @6.36 · 1-1
 
 **22:00 · Dinamo Zagreb – Anderlecht**
 
-- ⏳ 1-0 · @7.63
-- ⏳ 2-1 · @7.83
+- ✅ 1-0 · @7.63 · 1-0
+- ❌ 2-1 · @7.83 · 1-0
 
 **22:00 · Hoffenheim – Beşiktaş**
 
-- ⏳ 1-1 · @7.10
-- ⏳ 2-1 · @8.15
+- ❌ 1-1 · @7.10 · 2-3
+- ❌ 2-1 · @8.15 · 2-3
 
 **22:00 · Atalanta – Pafos FC**
 
-- ⏳ 2-1 · @7.59
+- ❌ 2-1 · @7.59 · 3-1
 
 **22:00 · Twente – Thun**
 
-- ⏳ 3-1 · @8.81
-- ⏳ 3-0 · @7.94
+- ❌ 3-1 · @8.81 · 1-0
+- ❌ 3-0 · @7.94 · 1-0
 
 **22:00 · Kopenhag – Braga**
 
@@ -81,20 +81,20 @@
 
 **22:00 · Bournemouth – Sturm Graz**
 
-- ⏳ 3-1 · @8.94
-- ⏳ 3-0 · @6.61
+- ❌ 3-1 · @8.94 · 3-0
+- ✅ 3-0 · @6.61 · 3-0
 
 **22:00 · St. Truidense – FC Iberia 1999**
 
-- ⏳ 3-0 · @6.50
+- ❌ 3-0 · @6.50 · 2-0
 
 **22:00 · Ferencvaros – Viktoria Plzen**
 
-- ⏳ 1-1 · @6.33
+- ❌ 1-1 · @6.33 · 2-1
 
 **22:00 · Benfica – Celtic**
 
-- ⏳ 3-0 · @7.70
+- ❌ 3-0 · @7.70 · 4-1
 
 **22:00 · Hearts – Nordsjælland**
 
