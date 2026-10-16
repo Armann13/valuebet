@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/71 tuttu** (isabet %24, beklenen %32) · -25.36 birim · 9 tahmin sonuç bekliyor
+**18/72 tuttu** (isabet %25, beklenen %32) · -23.90 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **14:00 · Wolfsburg – Heidenheim**
 
 - ⏳ ↳ MS 1 & KG Var · @2.46
+
+**15:00 · Metz – Sochaux**
+
+- ⏳ ↳ İY/MS 1/1 · @2.48
 
 **16:00 · Gençlerbirliği – Galatasaray**
 
@@ -35,6 +39,16 @@
 **17:15 · Villarreal – Elche**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.97
+
+**19:30 · Newcastle United – Aston Villa**
+
+- ⏳ En çok korner 2 · @2.43
+
+## 16.10.2026 Cuma
+
+**20:00 · Çorum FK – Rizespor**
+
+- ✅ MS 1 & 2.5 Üst · @2.46 · 2-1
 
 ## 15.10.2026 Perşembe
 

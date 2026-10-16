@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**147/265 tuttu** (isabet %55, beklenen %62) · -41.15 birim · 19 tahmin sonuç bekliyor
+**147/265 tuttu** (isabet %55, beklenen %62) · -41.15 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,7 @@
 
 - ⏳ 🟡 En çok korner 2 · @1.53
 - ⏳ 🎰 En çok korner 2 · @1.53
+- ⏳ 🎰 En çok korner 2 · @1.57
 
 **17:00 · Fulham – Hull City**
 
@@ -32,10 +33,15 @@
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.17
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @2.97
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.42
 
 **18:15 · Mantova 1911 – US Palermo**
 
 - ⏳ 🔴 En çok korner 1 · @2.00
+
+**19:30 · Newcastle United – Aston Villa**
+
+- ⏳ 🟣 En çok korner 2 · @2.43
 
 **22:00 · Las Palmas – Castellon**
 
@@ -48,6 +54,7 @@
 **21:00 · Heerenveen – Excelsior**
 
 - ⏳ 🟡 En çok korner 1 · @1.40
+- ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
 
 ## 15.10.2026 Perşembe

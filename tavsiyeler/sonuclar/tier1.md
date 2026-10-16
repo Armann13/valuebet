@@ -2,13 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/104 tuttu** (isabet %72, beklenen %77) · -12.60 birim · 10 tahmin sonuç bekliyor
+**75/105 tuttu** (isabet %71, beklenen %77) · -13.60 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.10.2026 Cumartesi
 
 **14:00 · Kaiserslautern – Bochum**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**14:00 · Wolfsburg – Heidenheim**
+
+- ⏳ 2.5 Üst · @1.25
+
+**16:00 · Gençlerbirliği – Galatasaray**
+
+- ⏳ MS 2 · @1.27
+
+**16:30 · Schalke 04 – Mainz**
 
 - ⏳ ÇŞ 1-2 · @1.20
 
@@ -40,7 +52,7 @@
 
 **19:30 · E. Cottbus – Nürnberg**
 
-- ⏳ 2.5 Üst · @1.23
+- ❌ 2.5 Üst · @1.23 · 1-1
 
 ## 15.10.2026 Perşembe
 

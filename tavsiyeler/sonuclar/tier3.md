@@ -2,11 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 13 tahmin sonuç bekliyor
+**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.10.2026 Cumartesi
+
+**14:00 · Wolfsburg – Heidenheim**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.93
+
+**15:00 · Real Sociedad B – Almeria**
+
+- ⏳ MS 2 · @1.87
 
 **16:00 · Ascoli – Empoli**
 

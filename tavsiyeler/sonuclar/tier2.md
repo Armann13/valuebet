@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/133 tuttu** (isabet %61, beklenen %63) · -11.60 birim · 15 tahmin sonuç bekliyor
+**81/133 tuttu** (isabet %61, beklenen %63) · -11.60 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **16:00 · Venezia – Napoli**
 
 - ⏳ En çok korner 2 · @1.53
+
+**16:00 · Gençlerbirliği – Galatasaray**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.70
 
 **16:30 · Union Berlin – B. Dortmund**
 
@@ -45,6 +49,7 @@
 **21:00 · Heerenveen – Excelsior**
 
 - ⏳ En çok korner 1 · @1.40
+- ⏳ MS 1 · @1.43
 
 ## 15.10.2026 Perşembe
 
