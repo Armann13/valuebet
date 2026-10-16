@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 6 tahmin sonuç bekliyor
+**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10.2026 Cumartesi
+
+**16:00 · Ascoli – Empoli**
+
+- ⏳ KG Yok · @1.87
+
+**17:00 · Colchester – Exeter City**
+
+- ⏳ KG Yok · @1.79
+
+**17:00 · Wycombe – Notts County**
+
+- ⏳ MS 1 · @1.80
+
+**17:00 · Wigan Athletic – Reading**
+
+- ⏳ MS 2 · @1.81
+
+**17:15 · Villarreal – Elche**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.17
+
+**18:15 · Mantova 1911 – US Palermo**
+
+- ⏳ En çok korner 1 · @2.00
+
+**22:00 · Las Palmas – Castellon**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.13
 
 ## 15.10.2026 Perşembe
 

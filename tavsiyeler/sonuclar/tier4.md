@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/71 tuttu** (isabet %24, beklenen %32) · -25.36 birim · 2 tahmin sonuç bekliyor
+**17/71 tuttu** (isabet %24, beklenen %32) · -25.36 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10.2026 Cumartesi
+
+**14:00 · Wolfsburg – Heidenheim**
+
+- ⏳ ↳ MS 1 & KG Var · @2.46
+
+**16:00 · Gençlerbirliği – Galatasaray**
+
+- ⏳ MS 2 & KG Var · @2.49
+
+**17:00 · Norwich City – Portsmouth**
+
+- ⏳ MS 1 & 2.5 Üst · @2.43
+
+**17:00 · Swansea City – West Ham**
+
+- ⏳ Korner 8.5 Alt · @2.64
+
+**17:00 · Birmingham – Queens Park Rangers**
+
+- ⏳ Korner 8.5 Alt · @2.62
+
+**17:15 · Eibar – Mallorca**
+
+- ⏳ MS 1 · @2.36
+
+**17:15 · Villarreal – Elche**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.97
 
 ## 15.10.2026 Perşembe
 

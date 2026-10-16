@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**6/35 tuttu** (isabet %17, beklenen %16) · -3.84 birim
+**6/35 tuttu** (isabet %17, beklenen %16) · -3.84 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10.2026 Cumartesi
+
+**17:00 · Salford City – Crawley Town**
+
+- ⏳ 2-1 · @6.70
+
+**17:00 · Inverness – Arbroath**
+
+- ⏳ 1-0 · @4.86
+
+**17:00 · Bradford – Stevenage**
+
+- ⏳ 1-0 · @4.72
 
 ## 15.10.2026 Perşembe
 

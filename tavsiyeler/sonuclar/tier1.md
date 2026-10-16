@@ -2,9 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/104 tuttu** (isabet %72, beklenen %77) · -12.60 birim · 2 tahmin sonuç bekliyor
+**75/104 tuttu** (isabet %72, beklenen %77) · -12.60 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10.2026 Cumartesi
+
+**14:00 · Kaiserslautern – Bochum**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**17:00 · Salford City – Crawley Town**
+
+- ⏳ MS 1 · @1.24
+
+**17:00 · Fulham – Hull City**
+
+- ⏳ En çok korner 1 · @1.22
+
+**17:15 · Villarreal – Elche**
+
+- ⏳ Korner 11.5 Alt · @1.22
+
+**19:30 · Bayern Münih – Leipzig**
+
+- ⏳ MS 1 & 2.5 Üst · @1.24
+
+**21:00 · Telstar – Feyenoord**
+
+- ⏳ MS 2 · @1.22
+
+**22:00 · Las Palmas – Castellon**
+
+- ⏳ Korner 11.5 Alt · @1.21
+
+## 16.10.2026 Cuma
+
+**19:30 · E. Cottbus – Nürnberg**
+
+- ⏳ 2.5 Üst · @1.23
 
 ## 15.10.2026 Perşembe
 

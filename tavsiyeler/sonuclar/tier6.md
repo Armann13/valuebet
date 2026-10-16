@@ -2,9 +2,105 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/181 tuttu** (isabet %10, beklenen %11) · -49.44 birim · 5 tahmin sonuç bekliyor
+**19/181 tuttu** (isabet %10, beklenen %11) · -49.44 birim · 28 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10.2026 Cumartesi
+
+**14:00 · Wolfsburg – Heidenheim**
+
+- ⏳ 2-1 · @8.07
+
+**14:00 · Kaiserslautern – Bochum**
+
+- ⏳ 2-1 · @8.10
+
+**16:00 · Gençlerbirliği – Galatasaray**
+
+- ⏳ 1-2 · @7.48
+
+**16:00 · Ascoli – Empoli**
+
+- ⏳ 1-0 · @6.70
+
+**16:00 · Venezia – Napoli**
+
+- ⏳ 1-2 · @7.35
+
+**16:30 · Union Berlin – B. Dortmund**
+
+- ⏳ 1-2 · @7.40
+
+**17:00 · Stockport – Bromley**
+
+- ⏳ 2-1 · @7.12
+
+**17:00 · Wigan Athletic – Reading**
+
+- ⏳ 1-2 · @6.86
+
+**17:00 · Colchester – Exeter City**
+
+- ⏳ 1-0 · @5.95
+
+**17:00 · Birmingham – Queens Park Rangers**
+
+- ⏳ 1-1 · @5.67
+
+**17:00 · Swansea City – West Ham**
+
+- ⏳ 1-1 · @6.06
+
+**17:00 · Manchester City – Ipswich Town**
+
+- ⏳ 3-0 · @7.34
+
+**17:00 · Norwich City – Portsmouth**
+
+- ⏳ 2-1 · @7.46
+
+**17:00 · Fulham – Hull City**
+
+- ⏳ 1-1 · @6.38
+
+**17:00 · Wycombe – Notts County**
+
+- ⏳ 1-0 · @6.56
+
+**17:15 · Eibar – Mallorca**
+
+- ⏳ 1-0 · @6.73
+
+**17:15 · Villarreal – Elche**
+
+- ⏳ 2-1 · @7.45
+
+**18:15 · Mantova 1911 – US Palermo**
+
+- ⏳ 1-1 · @5.70
+
+**19:30 · Bayern Münih – Leipzig**
+
+- ⏳ 2-1 · @10.60
+
+**21:00 · Telstar – Feyenoord**
+
+- ⏳ 1-2 · @8.04
+
+**22:00 · Las Palmas – Castellon**
+
+- ⏳ 1-2 · @7.89
+
+## 16.10.2026 Cuma
+
+**19:30 · E. Cottbus – Nürnberg**
+
+- ⏳ 1-2 · @8.28
+
+**21:00 · Heerenveen – Excelsior**
+
+- ⏳ 2-1 · @7.68
 
 ## 15.10.2026 Perşembe
 
