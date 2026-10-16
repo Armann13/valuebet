@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**147/265 tuttu** (isabet %55, beklenen %62) · -41.15 birim · 23 tahmin sonuç bekliyor
+**150/268 tuttu** (isabet %56, beklenen %62) · -39.95 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -53,9 +53,9 @@
 
 **21:00 · Heerenveen – Excelsior**
 
-- ⏳ 🟡 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
+- ✅ 🟡 En çok korner 1 · @1.40 · korner 4-1
+- ✅ 🎰 En çok korner 1 · @1.40 · korner 4-1
+- ✅ 🎰 En çok korner 1 · @1.40 · korner 4-1
 
 ## 15.10.2026 Perşembe
 

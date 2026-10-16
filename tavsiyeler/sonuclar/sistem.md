@@ -2,15 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**109/201 tuttu** (isabet %54, beklenen %66) · -40.46 birim · 21 tahmin sonuç bekliyor
+**111/203 tuttu** (isabet %55, beklenen %66) · -39.66 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40
+- ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.57
 - ⏳ 17.10 16:00 Gençlerbirliği – Galatasaray · ↳ MS 2 & 2.5 Üst · @1.70
 - ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.46
@@ -21,9 +21,9 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 16.10 14:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40
+- ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53
 - ⏳ 17.10 16:30 Union Berlin – B. Dortmund · MS 2 · @1.45
 - ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.47
