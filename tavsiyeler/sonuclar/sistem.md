@@ -2,15 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**121/220 tuttu** (isabet %55, beklenen %66) · -41.09 birim · 13 tahmin sonuç bekliyor
+**123/222 tuttu** (isabet %55, beklenen %66) · -39.77 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.10 18:45 gönderilen kupon · 5'de 3
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.65
+- ✅ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.65 · korner 3-6
 - ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
 - ⏳ 18.10 14:30 Karlsruhe – Darmstadt 98 · En çok korner 1 · @1.60
 - ⏳ 18.10 16:00 Fiorentina – Como 1907 · Korner 10.5 Alt · @1.30
@@ -42,7 +42,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 ## 16.10 14:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+**5/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53 · korner 0-12
@@ -51,7 +51,7 @@ Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 - ❌ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.47 · 1-0
 - ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.41 · korner 10-5
 - ✅ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.50 · 3-4
-- ⏳ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.67
+- ✅ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.67 · korner 3-6
 
 ## 15.10 20:11 gönderilen kupon · 7'de 6
 

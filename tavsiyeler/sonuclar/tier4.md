@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/83 tuttu** (isabet %29, beklenen %33) · -19.84 birim · 7 tahmin sonuç bekliyor
+**24/84 tuttu** (isabet %29, beklenen %33) · -20.84 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -72,7 +72,7 @@
 
 **22:00 · Las Palmas – Castellon**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.86
+- ❌ ↳ Korner 7.5 Alt · @2.86 · korner 3-6
 
 ## 16.10.2026 Cuma
 
