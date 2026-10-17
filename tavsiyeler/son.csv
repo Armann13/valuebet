@@ -1,234 +1,217 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
-Heerenveen – Excelsior,N1,16.10,,,2026-10-16,,piyasa,,,N1,Heerenveen,Excelsior,ÇŞ 1-X,0.8326318937611318,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,ÇŞ X-2,0.8291966626020628,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,ÇŞ 1-X,0.8276506542848155,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Ayr – Partick,SC1,16.10,,,2026-10-16,,piyasa,,,SC1,Ayr,Partick,ÇŞ X-2,0.8023877489610808,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Verona – Catanzaro,I2,16.10,,,2026-10-16,,piyasa,,,I2,Verona,Catanzaro,ÇŞ 1-X,0.79351043671328,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,ÇŞ 1-2,0.787795117036684,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Reims – Dijon,F2,16.10,,,2026-10-16,,piyasa,,,F2,Reims,Dijon,ÇŞ 1-X,0.7829321443465622,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Cottbus – Nurnberg,D2,16.10,,,2026-10-16,,piyasa,,,D2,Cottbus,Nurnberg,ÇŞ 1-2,0.7801727386467157,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,korner,,,D2,Bielefeld,Osnabruck,En çok korner 1,0.830170452148488,1.3,0.07922158779303445,False,0.0,False,🟢 Tier 1 — Düşük risk
-Fulham – Hull City,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,korner,,,E0,Fulham,Hull,En çok korner 1,0.8280264535223467,1.21,0.0019120087620394521,False,0.0,False,🟢 Tier 1 — Düşük risk
-B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,korner,,,D1,Leverkusen,Freiburg,En çok korner 1,0.7920164293280435,1.28,0.013781029539895684,False,0.0,False,🟢 Tier 1 — Düşük risk
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 11.5 Alt,0.7779079676505347,1.22,-0.050952279466347616,False,0.0,False,🟢 Tier 1 — Düşük risk
-Pisa – Cremonese,I2,17.10,,,2026-10-17,,piyasa,,,I2,Pisa,Cremonese,ÇŞ 1-2,0.6998443711362337,,,False,0.0,False,🟡 Tier 2 — Orta risk
+Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,ÇŞ X-2,0.8292007216569295,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,ÇŞ 1-X,0.8276312391693839,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,ÇŞ 1-2,0.7877951170366839,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,ÇŞ 1-X,0.7792708332268556,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,ÇŞ 1-X,0.7688536350504246,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+M'gladbach – Hoffenheim,D1,18.10,,,2026-10-18,,piyasa,,,D1,M'gladbach,Hoffenheim,ÇŞ 1-2,0.7648944341847731,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Dresden – Magdeburg,D2,18.10,,,2026-10-18,,model,,,D2,Dresden,Magdeburg,ÇŞ 1-2,0.759080845597668,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Troyes – Lens,F1,17.10,,,2026-10-17,,piyasa,,,F1,Troyes,Lens,ÇŞ 1-2,0.7589862036699988,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,korner,,,D2,Bielefeld,Osnabruck,En çok korner 1,0.8300045197126469,1.3,0.0790058756264409,False,0.0,False,🟢 Tier 1 — Düşük risk
+Fulham – Hull City,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,korner,,,E0,Fulham,Hull,En çok korner 1,0.8276939957756739,1.22,0.00978667484632223,False,0.0,False,🟢 Tier 1 — Düşük risk
+B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,korner,,,D1,Leverkusen,Freiburg,En çok korner 1,0.79204244313578,1.28,0.013814327213798494,False,0.0,False,🟢 Tier 1 — Düşük risk
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 11.5 Alt,0.7778385803681972,1.25,-0.027701774539753532,False,0.0,False,🟢 Tier 1 — Düşük risk
+Pisa – Cremonese,I2,17.10,,,2026-10-17,,piyasa,,,I2,Pisa,Cremonese,ÇŞ 1-2,0.6998443711362341,,,False,0.0,False,🟡 Tier 2 — Orta risk
 Kifisia – Aris,G1,18.10,,,2026-10-18,,model,,,G1,Kifisia,Aris,ÇŞ X-2,0.6966914772660148,,,False,0.0,False,🟡 Tier 2 — Orta risk
-Guingamp – Pau FC,F2,16.10,,,2026-10-16,,piyasa,,,F2,Guingamp,Pau FC,ÇŞ 1-X,0.6966037200186891,,,False,0.0,False,🟡 Tier 2 — Orta risk
-M'gladbach – Hoffenheim,D1,18.10,,,2026-10-18,,piyasa,,,D1,M'gladbach,Hoffenheim,KG Var,0.6939954318707666,,,False,0.0,False,🟡 Tier 2 — Orta risk
-Burgos – Sabadell,SP2,18.10,,,2026-10-18,,model,,,SP2,Burgos,Sabadell,ÇŞ 1-2,0.6924608656192527,,,False,0.0,False,🟡 Tier 2 — Orta risk
+Burgos – Sabadell,SP2,18.10,,,2026-10-18,,model,,,SP2,Burgos,Sabadell,ÇŞ 1-2,0.6924933079871634,,,False,0.0,False,🟡 Tier 2 — Orta risk
 Paris FC – Rennes,F1,18.10,,,2026-10-18,,piyasa,,,F1,Paris FC,Rennes,ÇŞ 1-X,0.6923093683290514,,,False,0.0,False,🟡 Tier 2 — Orta risk
+Airdrie Utd – Hamilton,SC2,17.10,,,2026-10-17,,model,,,SC2,Airdrie Utd,Hamilton,ÇŞ X-2,0.6578415254844906,,,False,0.0,False,🟡 Tier 2 — Orta risk
+Celta B – Tenerife,SP2,19.10,,,2026-10-19,,piyasa,,,SP2,Celta B,Tenerife,ÇŞ 1-X,0.6550109699480952,,,False,0.0,False,🟡 Tier 2 — Orta risk
 Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,MS 1,0.6531206855123812,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Heerenveen – Excelsior,N1,16.10,,,2026-10-16,,piyasa,,,N1,Heerenveen,Excelsior,MS 1,0.634905211008429,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2,0.6142081465142881,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1,0.5932764902663797,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Ayr – Partick,SC1,16.10,,,2026-10-16,,piyasa,,,SC1,Ayr,Partick,MS 2,0.557465783323187,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Verona – Catanzaro,I2,16.10,,,2026-10-16,,piyasa,,,I2,Verona,Catanzaro,MS 1,0.5357469423610753,,,False,0.0,True,🟡 Tier 2 — Orta risk
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 10.5 Alt,0.6960435103931644,1.42,-0.011618215241706698,False,0.0,True,🟡 Tier 2 — Orta risk
-Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,korner,,,I1,Venezia,Napoli,En çok korner 2,0.6959026769808202,1.57,0.09256720285988784,False,0.0,False,🟡 Tier 2 — Orta risk
-Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,korner,,,E0,Bournemouth,Sunderland,En çok korner 1,0.6853243732068162,1.41,-0.03369263377838927,False,0.0,False,🟡 Tier 2 — Orta risk
-Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,korner,,,E1,Watford,Charlton,En çok korner 1,0.6642211153840949,1.53,0.016258306537665135,False,0.0,False,🟡 Tier 2 — Orta risk
-Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,2.5 Alt,0.4553585703977157,2.22,0.010896026282928961,True,1.0,False,🔴 Tier 3 — Yüksek risk
-Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,2.5 Alt,0.3972933750672267,2.82,0.1203673176895792,True,1.0,False,🔴 Tier 3 — Yüksek risk
-Nottingham Forest – Arsenal,E0,18.10,18:30,2026-10-18 18:30,2026-10-18,1.0,piyasa,,,E0,Nott'm Forest,Arsenal,KG Var,0.49924322518197134,1.81,-0.09636976242063189,False,0.0,False,🔴 Tier 3 — Yüksek risk
-La Coruna – Levante,SP1,16.10,,,2026-10-16,,piyasa,,,SP1,La Coruna,Levante,2.5 Alt,0.4974690421564284,,,False,0.0,False,🔴 Tier 3 — Yüksek risk
-AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,oran,,,SP2,Ceuta,Oviedo,KG Yok,0.49591502115397795,1.82,-0.0974346614997601,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Annecy – Nancy,F2,16.10,,,2026-10-16,,piyasa,,,F2,Annecy,Nancy,KG Yok,0.49489228491977477,,,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Heerenveen – Excelsior,N1,16.10,,,2026-10-16,,piyasa,,,N1,Heerenveen,Excelsior,MS 1 & 2.5 Üst,0.48995965912219225,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2 & 2.5 Üst,0.43877375652868467,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,MS 1 & 2.5 Üst,0.42968427015921096,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1 & 2.5 Üst,0.4022352813512839,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Ayr – Partick,SC1,16.10,,,2026-10-16,,piyasa,,,SC1,Ayr,Partick,MS 2 & 2.5 Üst,0.35767138810392024,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Verona – Catanzaro,I2,16.10,,,2026-10-16,,piyasa,,,I2,Verona,Catanzaro,MS 1 & 2.5 Üst,0.34142481605407476,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,korner,,,SP2,Ceuta,Oviedo,En çok korner 1,0.4946629295793274,1.86,-0.07992695098245095,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,korner,,,N1,Groningen,Ajax,En çok korner 1,0.4918748721294496,2.79,0.3723308932411644,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 8.5 Alt,0.4897650062302622,2.2,0.07748301370657695,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Mantova 1911 – US Palermo,I2,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,korner,,,I2,Mantova,Palermo,En çok korner 1,0.4879997737376246,2.03,-0.009360459312622194,False,0.0,False,🔴 Tier 3 — Yüksek risk
-B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,piyasa,,,D1,Leverkusen,Freiburg,KG Yok,0.3797523105580777,2.36,-0.10378454708293672,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-St Johnstone – Dundee United,SC0,17.10,,,2026-10-17,,piyasa,,,SC0,St Johnstone,Dundee United,MS 2,0.3791362760034542,,,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Watford,Charlton,MS 1,0.37644191878264,2.35,-0.11536149086079595,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-ADO Den Haag – PSV,N1,17.10,17:30,2026-10-17 17:30,2026-10-17,1.0,piyasa,,,N1,Den Haag,PSV Eindhoven,KG Yok,0.37440590178662414,2.39,-0.1051698947299683,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Airdrie Utd – Hamilton,SC2,17.10,,,2026-10-17,,model,,,SC2,Airdrie Utd,Hamilton,MS 2,0.3741783281522955,,,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2 & KG Var,0.3132244730560726,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,MS 1 & KG Var,0.28513478369863177,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1 & KG Var,0.2840936229145363,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Ayr – Partick,SC1,16.10,,,2026-10-16,,piyasa,,,SC1,Ayr,Partick,MS 2 & KG Var,0.2806663335159543,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Verona – Catanzaro,I2,16.10,,,2026-10-16,,piyasa,,,I2,Verona,Catanzaro,MS 1 & KG Var,0.25387916698886975,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 7.5 Alt,0.3761113176100175,3.01,0.13209506600615262,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Newcastle United – Aston Villa,E0,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,korner,,,E0,Newcastle,Aston Villa,En çok korner 2,0.37520568238061425,2.43,-0.08825019181510729,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Swansea City – West Ham,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,korner,,,E1,Swansea,West Ham,Korner 8.5 Alt,0.37451462834032123,2.62,-0.01877167374835831,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
-Salford City – Crawley Town,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Salford,Crawley Town,2-1,0.1551563052980265,6.64,0.030237867178895872,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2,0.6142050345381477,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1,0.5932444978961617,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Troyes – Lens,F1,17.10,,,2026-10-17,,piyasa,,,F1,Troyes,Lens,MS 2,0.5179724073399973,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,MS 1,0.5080580201118126,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,MS 1,0.5060839938356917,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,korner,,,I1,Venezia,Napoli,En çok korner 2,0.6960029009085893,1.47,0.0231242643356262,False,0.0,False,🟡 Tier 2 — Orta risk
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 10.5 Alt,0.6959636165275596,1.44,0.0021876077996856313,False,0.0,True,🟡 Tier 2 — Orta risk
+Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,korner,,,E0,Bournemouth,Sunderland,En çok korner 1,0.6851702786590191,1.41,-0.03390990709078312,False,0.0,False,🟡 Tier 2 — Orta risk
+Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,korner,,,E1,Watford,Charlton,En çok korner 1,0.6642903965688195,1.53,0.016364306750293878,False,0.0,False,🟡 Tier 2 — Orta risk
+Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,2.5 Alt,0.45537155134894347,2.22,0.010924843994654543,True,1.0,False,🔴 Tier 3 — Yüksek risk
+Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,2.5 Alt,0.3972759599840261,2.82,0.12031820715495356,True,1.0,False,🔴 Tier 3 — Yüksek risk
+Nottingham Forest – Arsenal,E0,18.10,18:30,2026-10-18 18:30,2026-10-18,1.0,piyasa,,,E0,Nott'm Forest,Arsenal,KG Var,0.4991911924545513,1.81,-0.09646394165726213,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,piyasa,,,SP1,Villarreal,Elche,MS 1 & 2.5 Üst,0.49601412692936453,1.78,-0.11709485406573117,False,0.0,False,🔴 Tier 3 — Yüksek risk
+AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,oran,,,SP2,Ceuta,Oviedo,KG Yok,0.49591725205228077,1.82,-0.09743060126484893,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Real Madrid – Sevilla,SP1,18.10,22:00,2026-10-18 22:00,2026-10-18,1.0,piyasa,,,SP1,Real Madrid,Sevilla,KG Yok,0.4931429375270503,1.76,-0.13206842995239143,False,0.0,False,🔴 Tier 3 — Yüksek risk
+M'gladbach – Hoffenheim,D1,18.10,,,2026-10-18,,piyasa,,,D1,M'gladbach,Hoffenheim,MS 2,0.4555786345818435,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2 & 2.5 Üst,0.43875014118977806,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,MS 1 & 2.5 Üst,0.4296824282686507,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1 & 2.5 Üst,0.40220157552255775,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,MS 1 & 2.5 Üst,0.3210023665840295,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,MS 1 & 2.5 Üst,0.2928979752274792,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,korner,,,SP2,Ceuta,Oviedo,En çok korner 1,0.4947632127077559,1.86,-0.07974042436357398,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,korner,,,N1,Groningen,Ajax,En çok korner 1,0.4918876663106074,2.79,0.3723665890065946,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 8.5 Alt,0.4896778651907726,2.28,0.11646553263496151,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Mantova 1911 – US Palermo,I2,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,korner,,,I2,Mantova,Palermo,En çok korner 1,0.48801743827978733,2.03,-0.00932460029203186,False,0.0,False,🔴 Tier 3 — Yüksek risk
+B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,piyasa,,,D1,Leverkusen,Freiburg,KG Yok,0.3797379995548705,2.36,-0.1038183210505057,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+St Johnstone – Dundee United,SC0,17.10,,,2026-10-17,,piyasa,,,SC0,St Johnstone,Dundee United,MS 2,0.37913627600345423,,,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Watford,Charlton,MS 1,0.3764419187826399,2.35,-0.11536149086079628,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I1,Venezia,Napoli,MS 2 & 2.5 Üst,0.37442272638461493,2.33,-0.1275950475238472,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+ADO Den Haag – PSV,N1,17.10,17:30,2026-10-17 17:30,2026-10-17,1.0,piyasa,,,N1,Den Haag,PSV Eindhoven,KG Yok,0.3743697146847483,2.39,-0.10525638190345155,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,MS 2 & KG Var,0.3132008727569608,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,MS 1 & KG Var,0.28513834843661096,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,MS 1 & KG Var,0.2840750256163812,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,MS 1 & KG Var,0.22097336874677428,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,MS 1 & KG Var,0.2201383812844276,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+AC Milan – Atalanta,I1,18.10,19:00,2026-10-18 19:00,2026-10-18,1.0,korner,,,I1,Milan,Atalanta,Korner 7.5 Alt,0.3795110266100371,2.56,-0.028451771878304943,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 7.5 Alt,0.3760304193875851,3.14,0.18073551687701728,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Swansea City – West Ham,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,korner,,,E1,Swansea,West Ham,Korner 8.5 Alt,0.3745217445528378,2.51,-0.059950421172377144,False,0.0,False,🟣 Tier 4 — Çok yüksek risk
+Salford City – Crawley Town,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Salford,Crawley Town,2-1,0.1551510483345869,6.62,0.02709993997496518,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
 Paneitolikos – Olympiacos,G1,18.10,17:00,2026-10-18 17:00,2026-10-18,3.0,piyasa,,,G1,Panetolikos,Olympiakos,0-1,0.1546006635928141,4.81,-0.2563708081185643,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Bradford – Stevenage,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Bradford,Stevenage,1-0,0.15191219779871976,4.72,-0.2829744263900428,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Parma – Torino,I1,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,piyasa,,,I1,Parma,Torino,1-1,0.15141859329407537,5.01,-0.24139284759668245,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Twente – Utrecht,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Twente,Utrecht,2-1,0.15134547554498226,7.83,0.18503507351721105,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Erzurumspor FK – Eyüpspor,T1,17.10,13:30,2026-10-17 13:30,2026-10-17,1.0,piyasa,,,T1,Erzurumspor,Eyupspor,1-0,0.14889746062154632,5.23,-0.22126628094931267,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Salford City – Crawley Town,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Salford,Crawley Town,2-1,0.1551563052980265,6.64,0.030237867178895872,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bradford – Stevenage,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Bradford,Stevenage,1-0,0.15190266760761334,4.72,-0.2830194088920651,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Parma – Torino,I1,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,piyasa,,,I1,Parma,Torino,1-1,0.1514247428373937,5.02,-0.2398477909562836,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Twente – Utrecht,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Twente,Utrecht,2-1,0.15134062160191708,7.83,0.18499706714301078,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Erzurumspor FK – Eyüpspor,T1,17.10,13:30,2026-10-17 13:30,2026-10-17,1.0,piyasa,,,T1,Erzurumspor,Eyupspor,1-0,0.14888164767347165,5.06,-0.24665886277223348,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Salford City – Crawley Town,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Salford,Crawley Town,2-1,0.1551510483345869,6.62,0.02709993997496518,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Paneitolikos – Olympiacos,G1,18.10,17:00,2026-10-18 17:00,2026-10-18,3.0,piyasa,,,G1,Panetolikos,Olympiakos,0-1,0.1546006635928141,4.81,-0.2563708081185643,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bradford – Stevenage,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Bradford,Stevenage,1-0,0.15191219779871976,4.72,-0.2829744263900428,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Parma – Torino,I1,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,piyasa,,,I1,Parma,Torino,1-1,0.15141859329407537,5.01,-0.24139284759668245,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Twente – Utrecht,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Twente,Utrecht,2-1,0.15134547554498226,7.83,0.18503507351721105,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Erzurumspor FK – Eyüpspor,T1,17.10,13:30,2026-10-17 13:30,2026-10-17,1.0,piyasa,,,T1,Erzurumspor,Eyupspor,1-0,0.14889746062154632,5.23,-0.22126628094931267,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bradford – Stevenage,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Bradford,Stevenage,1-0,0.15190266760761334,4.72,-0.2830194088920651,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Parma – Torino,I1,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,piyasa,,,I1,Parma,Torino,1-1,0.1514247428373937,5.02,-0.2398477909562836,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Twente – Utrecht,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Twente,Utrecht,2-1,0.15134062160191708,7.83,0.18499706714301078,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Erzurumspor FK – Eyüpspor,T1,17.10,13:30,2026-10-17 13:30,2026-10-17,1.0,piyasa,,,T1,Erzurumspor,Eyupspor,1-0,0.14888164767347165,5.06,-0.24665886277223348,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Kifisia – Aris,G1,18.10,,,2026-10-18,,model,,,G1,Kifisia,Aris,1-1,0.14885612499197612,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Inverness – Arbroath,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Inverness C,Arbroath,1-0,0.14753085019433385,4.86,-0.28300006805553746,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Inverness – Arbroath,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Inverness C,Arbroath,1-0,0.14753875123977114,4.8,-0.2918139940490986,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Panathinaikos – Asteras Tripolis,G1,18.10,17:30,2026-10-18 17:30,2026-10-18,3.0,piyasa,,,G1,Panathinaikos,Asteras Tripolis,2-0,0.14680810220654153,4.32,-0.3657889984677406,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 Kalamata – OFI Crete,G1,18.10,,,2026-10-18,,piyasa,,,G1,Kalamata,OFI Crete,1-1,0.14642574314658968,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Ayr – Partick,SC1,16.10,,,2026-10-16,,piyasa,,,SC1,Ayr,Partick,1-2,0.14580936926040314,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Getafe – Vallecano,SP1,19.10,22:00,2026-10-19 22:00,2026-10-19,1.0,piyasa,,,SP1,Getafe,Vallecano,1-1,0.14558838059630846,5.01,-0.27060221321249467,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Padova – Virtus Entella,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Padova,Virtus Entella,1-1,0.1455430812005011,4.94,-0.2810171788695245,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Burgos – Sabadell,SP2,18.10,,,2026-10-18,,model,,,SP2,Burgos,Sabadell,1-0,0.14513413799756217,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-APO Levadeiakos FC – Volos,G1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,G1,Levadeiakos,Volos NFC,1-1,0.1448801591729848,4.77,-0.3089216407448626,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Celta Vigo – Alaves,SP1,18.10,17:15,2026-10-18 17:15,2026-10-18,1.0,piyasa,,,SP1,Celta,Alaves,1-1,0.144078025056093,5.28,-0.23926802770382893,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Grenoble – Boulogne,F2,16.10,,,2026-10-16,,piyasa,,,F2,Grenoble,Boulogne,1-1,0.143655313798452,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-AC Monza – Cagliari,I1,19.10,19:30,2026-10-19 19:30,2026-10-19,1.0,piyasa,,,I1,Monza,Cagliari,1-1,0.14329821311400764,5.12,-0.2663131488562809,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Heerenveen – Excelsior,N1,16.10,,,2026-10-16,,piyasa,,,N1,Heerenveen,Excelsior,2-1,0.14323823411203615,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Real Betis – Barcelona,SP1,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,SP1,Betis,Barcelona,1-2,0.14219898677033,8.65,0.2300212355633544,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Cesena – Avellino,I2,18.10,,,2026-10-18,,piyasa,,,I2,Cesena,Avellino,1-1,0.14175031178204187,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-G. Morton – Queen's Park,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Morton,Queens Park,1-1,0.14124498076867312,4.68,-0.3389734900026099,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Lorient – Monaco,F1,18.10,18:15,2026-10-18 18:15,2026-10-18,1.0,piyasa,,,F1,Lorient,Monaco,1-1,0.14051295686753024,5.5,-0.22717873722858373,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Strasbourg – Paris Saint Germain,F1,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,piyasa,,,F1,Strasbourg,Paris SG,1-2,0.14011956059977307,7.75,0.08592659464824126,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Tottenham – Coventry,E0,19.10,22:00,2026-10-19 22:00,2026-10-19,1.0,piyasa,,,E0,Tottenham,Coventry,2-1,0.13862590031074082,7.31,0.013355331271515336,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Celta B – Tenerife,SP2,19.10,,,2026-10-19,,piyasa,,,SP2,Celta B,Tenerife,1-1,0.1379692165717537,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Braga – Gil Vicente,P1,19.10,22:15,2026-10-19 22:15,2026-10-19,1.0,piyasa,,,P1,Sp Braga,Gil Vicente,1-0,0.13765499347015445,5.19,-0.2855705838898984,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kasımpaşa – Samsunspor,T1,18.10,13:30,2026-10-18 13:30,2026-10-18,1.0,piyasa,,,T1,Kasimpasa,Samsunspor,1-1,0.1371759825632882,5.44,-0.25376265485571214,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Getafe – Vallecano,SP1,19.10,22:00,2026-10-19 22:00,2026-10-19,1.0,piyasa,,,SP1,Getafe,Vallecano,1-1,0.14560477523228443,5.01,-0.27052007608625506,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Padova – Virtus Entella,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Padova,Virtus Entella,1-1,0.1455577620503906,4.94,-0.2809446554710704,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Burgos – Sabadell,SP2,18.10,,,2026-10-18,,model,,,SP2,Burgos,Sabadell,1-0,0.14509709143685942,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+APO Levadeiakos FC – Volos,G1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,G1,Levadeiakos,Volos NFC,1-1,0.1448801591729848,4.79,-0.30602403756140284,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Celta Vigo – Alaves,SP1,18.10,17:15,2026-10-18 17:15,2026-10-18,1.0,piyasa,,,SP1,Celta,Alaves,1-1,0.14408325384649084,5.26,-0.24212208476745822,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+AC Monza – Cagliari,I1,19.10,19:30,2026-10-19 19:30,2026-10-19,1.0,piyasa,,,I1,Monza,Cagliari,1-1,0.14329809258792311,5.12,-0.2663137659498337,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Real Betis – Barcelona,SP1,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,SP1,Betis,Barcelona,1-2,0.14224930090598512,8.58,0.22049900177335235,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Cesena – Avellino,I2,18.10,,,2026-10-18,,piyasa,,,I2,Cesena,Avellino,1-1,0.14175022810390875,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+G. Morton – Queen's Park,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Morton,Queens Park,1-1,0.14124448479015578,4.68,-0.338975811182071,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Lorient – Monaco,F1,18.10,18:15,2026-10-18 18:15,2026-10-18,1.0,piyasa,,,F1,Lorient,Monaco,1-1,0.14050908132459217,5.5,-0.22720005271474308,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Strasbourg – Paris Saint Germain,F1,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,piyasa,,,F1,Strasbourg,Paris SG,1-2,0.1401312236650128,7.76,0.08741829564049919,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Tottenham – Coventry,E0,19.10,22:00,2026-10-19 22:00,2026-10-19,1.0,piyasa,,,E0,Tottenham,Coventry,2-1,0.1387826081913776,7.31,0.01450086587897026,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Celta B – Tenerife,SP2,19.10,,,2026-10-19,,piyasa,,,SP2,Celta B,Tenerife,1-1,0.13796751517026834,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Braga – Gil Vicente,P1,19.10,22:15,2026-10-19 22:15,2026-10-19,1.0,piyasa,,,P1,Sp Braga,Gil Vicente,1-0,0.13765499347015445,5.13,-0.2938298834981077,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kasımpaşa – Samsunspor,T1,18.10,13:30,2026-10-18 13:30,2026-10-18,1.0,piyasa,,,T1,Kasimpasa,Samsunspor,1-1,0.13717703662108033,5.44,-0.25375692078132295,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 PAOK – POT Iraklis,G1,18.10,21:00,2026-10-18 21:00,2026-10-18,3.0,piyasa,,,G1,PAOK,Iraklis,2-0,0.1371056227266961,4.7,-0.3556035731845283,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-La Coruna – Levante,SP1,16.10,,,2026-10-16,,piyasa,,,SP1,La Coruna,Levante,1-1,0.13503706795266981,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Shrewsbury – Bristol Rovers,E3,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E3,Shrewsbury,Bristol Rvs,1-1,0.1345869582507367,4.81,-0.35263673081395663,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Carrarese Calcio 1908 – Modena FC,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Carrarese,Modena,1-2,0.13453342575953633,7.54,0.014382030226903986,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Valencia – Athletic Bilbao,SP1,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,SP1,Valencia,Ath Bilbao,1-1,0.13356474120738165,5.24,-0.3001207560733201,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Granada – Cadiz,SP2,18.10,17:15,2026-10-18 17:15,2026-10-18,1.0,oran,,,SP2,Granada,Cadiz,1-0,0.1332395852900201,5.88,-0.21655123849468172,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Juventus – Lazio,I1,18.10,21:45,2026-10-18 21:45,2026-10-18,1.0,piyasa,,,I1,Juventus,Lazio,1-0,0.13280726911777155,5.92,-0.21378096682279246,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Guingamp – Pau FC,F2,16.10,,,2026-10-16,,piyasa,,,F2,Guingamp,Pau FC,1-1,0.13245962749572696,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Eibar – Mallorca,SP2,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,piyasa,,,SP2,Eibar,Mallorca,1-1,0.13213990272023732,5.23,-0.3089083087731588,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Red Star FC – St Etienne,F2,17.10,21:00,2026-10-17 21:00,2026-10-17,1.0,piyasa,,,F2,Red Star,St Etienne,1-1,0.13206627920734434,5.6,-0.2604288364388717,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Telstar – Feyenoord,N1,17.10,21:00,2026-10-17 21:00,2026-10-17,1.0,piyasa,,,N1,Telstar,Feyenoord,1-2,0.1317956493681801,7.92,0.04382154299598651,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stenhousemuir – Raith Rovers,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Stenhousemuir,Raith Rvs,1-1,0.1316364807947936,4.72,-0.37867581064857425,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Laval – Clermont,F2,16.10,,,2026-10-16,,piyasa,,,F2,Laval,Clermont,1-1,0.1301842816722247,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stockport – Bromley,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Stockport,Bromley,2-1,0.13002149894426918,6.98,-0.09244993736900109,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Nantes – Dunkerque,F2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,F2,Nantes,Dunkerque,2-1,0.12985976999469362,7.39,-0.040336299739214154,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Las Palmas – Castellon,SP2,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,SP2,Las Palmas,Castellon,1-2,0.129182974519657,7.82,0.010210860743717687,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,1-1,0.12891395897086644,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Udinese – Lecce,I1,18.10,13:30,2026-10-18 13:30,2026-10-18,1.0,piyasa,,,I1,Udinese,Lecce,1-1,0.1287975299532025,5.62,-0.2761578816630019,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Malaga CF – Real Sociedad,SP1,18.10,19:30,2026-10-18 19:30,2026-10-18,1.0,piyasa,,,SP1,Malaga,Sociedad,1-1,0.12869902563908506,5.65,-0.2728505051391694,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-West Bromwich – Blackburn Rovers,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,West Brom,Blackburn,1-0,0.12867341141138441,6.0,-0.22795953153169357,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Juve Stabia – FC Sudtirol,I2,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,I2,Juve Stabia,Sudtirol,1-1,0.12862475315913818,5.28,-0.3208613033197504,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Brighton – Crystal Palace,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Brighton,Crystal Palace,2-1,0.12856924792597915,7.29,-0.06273018261961194,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fenerbahçe – Alanyaspor,T1,17.10,19:00,2026-10-17 19:00,2026-10-17,1.0,piyasa,,,T1,Fenerbahce,Alanyaspor,2-0,0.12799659797569127,5.76,-0.26273959566001837,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Mantova 1911 – US Palermo,I2,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,piyasa,,,I2,Mantova,Palermo,1-1,0.12785978615333454,5.67,-0.27503501251059315,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wycombe – Notts County,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Wycombe,Notts County,1-1,0.12751915968493283,5.04,-0.3573034351879385,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Derby County – Stoke City,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Derby,Stoke,1-1,0.12734011720013505,5.47,-0.30344955891526126,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Le Havre – AJ Auxerre,F1,18.10,18:15,2026-10-18 18:15,2026-10-18,1.0,piyasa,,,F1,Le Havre,Auxerre,1-1,0.12732591409400373,5.48,-0.3022539907648595,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Metz – Sochaux,F2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,F2,Metz,Sochaux,1-0,0.12713286752855876,6.3,-0.19906293457007984,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Millwall – Lincoln City,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Millwall,Lincoln,1-0,0.12710590723155635,6.09,-0.2259250249598218,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Sampdoria – SS Arezzo,I2,18.10,20:30,2026-10-18 20:30,2026-10-18,1.0,piyasa,,,I2,Sampdoria,Arezzo,1-1,0.12652868987982832,5.67,-0.2825823283813734,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-AC Milan – Atalanta,I1,18.10,19:00,2026-10-18 19:00,2026-10-18,1.0,piyasa,,,I1,Milan,Atalanta,2-1,0.1260985224862401,7.42,-0.06434896315209848,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Accrington – Gillingham,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Accrington,Gillingham,1-1,0.12567412581660523,4.93,-0.3804265597241363,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Osasuna – Santander,SP1,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,piyasa,,,SP1,Osasuna,Santander,1-1,0.12566764278415885,6.21,-0.21960393831037361,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-SC Cambuur – AZ Alkmaar,N1,18.10,15:30,2026-10-18 15:30,2026-10-18,1.0,piyasa,,,N1,Cambuur,AZ Alkmaar,1-2,0.12554840330421224,7.69,-0.03453277859060777,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Dundee – Rangers,SC0,17.10,22:00,2026-10-17 22:00,2026-10-17,2.0,piyasa,,,SC0,Dundee,Rangers,1-2,0.12545693868314908,7.41,-0.07036408435786523,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Annecy – Nancy,F2,16.10,,,2026-10-16,,piyasa,,,F2,Annecy,Nancy,0-1,0.12535420027242283,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wrexham – Preston,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Wrexham,Preston,1-0,0.12532863319882454,6.25,-0.21669604250734664,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Colchester – Exeter City,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Colchester,Exeter,1-0,0.1251047203317982,5.73,-0.28314995249879626,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,1-0,0.12498839418729218,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Bournemouth,Sunderland,1-1,0.1249082850735503,5.55,-0.3067590178417958,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Crewe Alexandra – Rochdale,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Crewe,Rochdale,2-1,0.12446055690397383,6.62,-0.17607111329569325,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-S.Gijon – Albacete,SP2,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,SP2,Sp Gijon,Albacete,1-1,0.12421361235594659,5.68,-0.29446668181822344,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Paris FC – Rennes,F1,18.10,,,2026-10-18,,piyasa,,,F1,Paris FC,Rennes,1-1,0.12419654344390409,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Benevento – Vicenza,I2,17.10,,,2026-10-17,,piyasa,,,I2,Benevento,Vicenza,1-1,0.12384726108383251,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Grimsby Town – Northampton,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Grimsby,Northampton,2-1,0.12371595339785867,6.47,-0.19955778151585446,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Aberdeen – St Mirren,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Aberdeen,St Mirren,2-1,0.12346029678744874,7.49,-0.07528237706200891,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Middlesbrough – Cardiff City,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Middlesbrough,Cardiff,2-1,0.12303935570564783,7.61,-0.06367050308001998,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Real Sociedad B – Almeria,SP2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,SP2,Sociedad B,Almeria,1-1,0.12294860792485687,5.84,-0.2819801297188359,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Birmingham – Queens Park Rangers,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Birmingham,QPR,1-1,0.12281483305618571,5.63,-0.30855248989367445,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Frosinone – Sassuolo,I1,16.10,,,2026-10-16,,piyasa,,,I1,Frosinone,Sassuolo,2-1,0.12239850364617615,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wigan Athletic – Reading,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Wigan,Reading,1-2,0.12238584992316279,6.76,-0.17267165451941957,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Burnley – Wolves,E1,16.10,,,2026-10-16,,piyasa,,,E1,Burnley,Wolves,1-1,0.12198110204737353,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Corum – Rizespor,T1,16.10,,,2026-10-16,,piyasa,,,T1,Corum,Rizespor,1-1,0.12162227890850419,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bristol City – Sheffield United,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Bristol City,Sheffield United,1-1,0.12159805694462054,5.76,-0.29959519199898565,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Tranmere – Barnet,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Tranmere,Barnet,1-1,0.12084489446435087,5.3,-0.35952205933894044,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Cottbus – Nurnberg,D2,16.10,,,2026-10-16,,piyasa,,,D2,Cottbus,Nurnberg,1-2,0.12062067549463101,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Holstein Kiel – Hertha,D2,16.10,,,2026-10-16,,piyasa,,,D2,Holstein Kiel,Hertha,1-2,0.12023913612962878,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Sparta Rotterdam – Willem II,N1,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,N1,Sparta Rotterdam,Willem II,2-1,0.12019434981326506,7.48,-0.10094626339677726,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kocaelispor – Göztepe,T1,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,T1,Kocaelispor,Goztep,1-1,0.12018834675622779,5.53,-0.33535844243806034,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Swansea City – West Ham,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Swansea,West Ham,1-1,0.11949568282485805,5.92,-0.29258555767684036,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Espanyol – Atletico Madrid,SP1,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,SP1,Espanol,Ath Madrid,0-1,0.11941957094514154,6.66,-0.20466565750535737,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-St Johnstone – Dundee Utd,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,oran,,,SC0,St Johnstone,Dundee,1-1,0.11910151000864994,5.7,-0.3211213929506953,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Leeds United – Manchester United,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Leeds,Man United,1-1,0.1189274684361328,5.94,-0.2935708374893711,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Ascoli – Empoli,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Ascoli,Empoli,2-1,0.11886687581379912,7.66,-0.08947973126629871,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,2-1,0.11842708516199552,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Nottingham Forest – Arsenal,E0,18.10,18:30,2026-10-18 18:30,2026-10-18,1.0,piyasa,,,E0,Nott'm Forest,Arsenal,1-1,0.11807210109583327,6.31,-0.25496504208529214,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hannover 96 – Saint Pauli,D2,17.10,21:30,2026-10-17 21:30,2026-10-17,1.0,piyasa,,,D2,Hannover,St Pauli,2-1,0.11744038505148627,8.19,-0.03816324642832747,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Gençlerbirliği – Galatasaray,T1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,T1,Genclerbirligi,Galatasaray,1-2,0.11708211828087958,7.44,-0.12890903999025582,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Le Mans – Toulouse,F1,16.10,,,2026-10-16,,piyasa,,,F1,Le Mans,Toulouse,1-1,0.1170615629946735,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Plymouth – Huddersfield,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Plymouth,Huddersfield,1-1,0.11688693041765945,5.29,-0.38166813809058153,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Union Berlin – B. Dortmund,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Union Berlin,Dortmund,1-2,0.11681980374071779,7.39,-0.1367016503560956,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kaiserslautern – Bochum,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Kaiserslautern,Bochum,1-1,0.11664396849877465,5.94,-0.3071348271172786,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Celtic – Hearts,SC0,18.10,17:00,2026-10-18 17:00,2026-10-18,2.0,piyasa,,,SC0,Celtic,Hearts,2-1,0.11659201755594327,7.33,-0.1453805113149358,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Newcastle United – Aston Villa,E0,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,E0,Newcastle,Aston Villa,1-1,0.11655122212713553,6.13,-0.2855410083606592,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,1-1,0.11633847832355491,6.36,-0.26008727786219066,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Norwich City – Portsmouth,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Norwich,Portsmouth,1-1,0.11611442572693859,6.16,-0.28473513752205826,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Port Vale – Chesterfield,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Port Vale,Chesterfield,1-1,0.11611218372080502,4.95,-0.4252446905820151,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Sheffield Wednesday – Wimbledon,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Sheffield Weds,AFC Wimbledon,2-1,0.11561806604835746,6.44,-0.25541965464857785,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Schalke 04 – Mainz,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Schalke 04,Mainz,1-1,0.11559764962489584,6.06,-0.2994782432731312,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Leyton Orient – Blackpool,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Leyton Orient,Blackpool,1-1,0.11555326621666105,5.24,-0.39450088502469605,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Peterborough – Burton Albion,E2,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E2,Peterboro,Burton,2-1,0.11547088875334631,6.71,-0.22519033646504627,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Brentford – Liverpool,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Brentford,Liverpool,1-1,0.11543126304210312,6.21,-0.2831718565085396,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Oldham – Cheltenham,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Oldham,Cheltenham,1-1,0.11471966717877381,5.71,-0.3449507004092015,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Swindon Town – Walsall,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Swindon,Walsall,1-1,0.114439527927301,5.29,-0.39461489726457766,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Everton – Chelsea,E0,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E0,Everton,Chelsea,1-1,0.11442152250490413,6.1,-0.3020287127200848,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Milton Keynes Dons – Luton,E2,17.10,,,2026-10-17,,piyasa,,,E2,Milton Keynes Dons,Luton,1-1,0.11405241544138023,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hibernian – Falkirk,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Hibernian,Falkirk,2-1,0.11330700550722433,7.29,-0.17399192985233458,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fiorentina – Como 1907,I1,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,I1,Fiorentina,Como,1-2,0.11327537087891389,7.84,-0.11192109230931513,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fulham – Hull City,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Fulham,Hull,1-1,0.11320806578370586,6.34,-0.2822608629313048,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wolfsburg – Heidenheim,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Wolfsburg,Heidenheim,2-1,0.11304333821016727,8.01,-0.09452286093656026,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Lille – Brest,F1,17.10,21:45,2026-10-17 21:45,2026-10-17,1.0,piyasa,,,F1,Lille,Brest,1-1,0.1128789301003695,6.14,-0.3069233691837313,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Reims – Dijon,F2,16.10,,,2026-10-16,,piyasa,,,F2,Reims,Dijon,2-1,0.1128363752897404,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kilmarnock – Motherwell,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Kilmarnock,Motherwell,1-1,0.11275082433316183,6.16,-0.30545492210772307,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fleetwood – Rotherham,E3,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E3,Fleetwood Town,Rotherham,1-1,0.11267922470795401,4.9,-0.44787179893102536,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Newport – York City,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Newport County,York,1-1,0.11264765349603154,5.35,-0.39733505379623135,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Leganes – Cordoba,SP2,16.10,,,2026-10-16,,piyasa,,,SP2,Leganes,Cordoba,1-1,0.11179529286006112,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bologna – Inter,I1,17.10,19:00,2026-10-17 19:00,2026-10-17,1.0,piyasa,,,I1,Bologna,Inter,1-2,0.11134042384203777,7.35,-0.18164788476102245,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Dunfermline – Livingston,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,oran,,,SC1,Dunfermline,Livingston,1-1,0.11130664032623688,5.0,-0.44346679836881564,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Real Madrid – Sevilla,SP1,18.10,22:00,2026-10-18 22:00,2026-10-18,1.0,piyasa,,,SP1,Real Madrid,Sevilla,2-0,0.11110256592868266,6.33,-0.2967207576714388,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Angers – Marseille,F1,18.10,,,2026-10-18,,piyasa,,,F1,Angers,Marseille,1-1,0.11061565462899255,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Rodez AF – Montpellier,F2,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,oran,,,F2,Rodez,Montpellier,1-2,0.11053494110993005,8.62,-0.047188807632403074,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Barnsley – Cambridge,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Barnsley,Cambridge,1-1,0.11034737707260775,5.42,-0.40191721626646604,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Manchester City – Ipswich Town,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Man City,Ipswich,2-0,0.10964456684589934,6.73,-0.2620920651270974,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I1,Venezia,Napoli,1-2,0.10909150275245638,7.33,-0.20035928482449472,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Pisa – Cremonese,I2,17.10,,,2026-10-17,,piyasa,,,I2,Pisa,Cremonese,1-0,0.1089165311510471,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Lyon – Nice,F1,18.10,21:45,2026-10-18 21:45,2026-10-18,1.0,piyasa,,,F1,Lyon,Nice,1-1,0.10760914111014167,6.69,-0.28009484597315226,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Zwolle – Go Ahead Eagles,N1,18.10,13:15,2026-10-18 13:15,2026-10-18,1.0,piyasa,,,N1,Zwolle,Go Ahead Eagles,1-1,0.10758365731171238,6.87,-0.2609002742685359,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Werder Bremen – Paderborn,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Werder Bremen,Paderborn,2-1,0.10728397200212822,7.54,-0.19107885110395317,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hamburg – Stuttgart,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Hamburg,Stuttgart,1-2,0.10722731215144926,7.95,-0.1475428683959784,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Greuther Furth – Braunschweig,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Greuther Furth,Braunschweig,1-1,0.10657241544737553,6.37,-0.3211337136002179,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Dresden – Magdeburg,D2,18.10,,,2026-10-18,,model,,,D2,Dresden,Magdeburg,1-1,0.10651616679300512,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Troyes – Lens,F1,17.10,,,2026-10-17,,piyasa,,,F1,Troyes,Lens,1-1,0.10614264537384088,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,oran,,,SP2,Ceuta,Oviedo,0-1,0.1056938254881827,6.87,-0.27388341889618484,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-M'gladbach – Hoffenheim,D1,18.10,,,2026-10-18,,piyasa,,,D1,M'gladbach,Hoffenheim,1-2,0.10546248681482039,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Girona – FC Andorra,SP2,18.10,19:30,2026-10-18 19:30,2026-10-18,1.0,piyasa,,,SP2,Girona,Andorra,1-1,0.10455925752653042,6.16,-0.35591497363657265,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Verona – Catanzaro,I2,16.10,,,2026-10-16,,piyasa,,,I2,Verona,Catanzaro,2-1,0.1037997138669645,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-St Johnstone – Dundee United,SC0,17.10,,,2026-10-17,,piyasa,,,SC0,St Johnstone,Dundee United,1-2,0.10322352646558572,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,piyasa,,,D2,Bielefeld,Osnabruck,1-1,0.102564429311881,6.7,-0.3128183236103973,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bayern Münih – Leipzig,D1,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,D1,Bayern Munich,RB Leipzig,2-1,0.10170938346928125,10.55,0.07303399560091739,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Leicester City – Doncaster,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Leicester,Doncaster,1-1,0.10165133677828321,5.9,-0.40025711300812905,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,piyasa,,,SP1,Villarreal,Elche,2-1,0.10107694084133596,7.41,-0.25101986836570045,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Southampton – Bolton,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Southampton,Bolton,2-1,0.09966539418474203,7.45,-0.2574928133236718,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,2-1,0.09956375749271767,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-NEC Nijmegen – Fortuna Sittard,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Nijmegen,For Sittard,2-1,0.09947177479546367,7.75,-0.22909374533515658,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Karlsruhe – Darmstadt 98,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,piyasa,,,D2,Karlsruhe,Darmstadt,1-1,0.09929514553489388,6.96,-0.30890578707713856,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,1-1,0.09916244588837315,7.68,-0.23843241557729422,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,1-2,0.09901861752105443,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Elversberg – Augsburg,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Elversberg,Augsburg,1-1,0.09852187056901449,6.79,-0.33103649883639163,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Ein Frankfurt – FC Koln,D1,16.10,,,2026-10-16,,piyasa,,,D1,Ein Frankfurt,FC Koln,2-1,0.09830534834393284,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Airdrie Utd – Hamilton,SC2,17.10,,,2026-10-17,,model,,,SC2,Airdrie Utd,Hamilton,0-1,0.0910759943182605,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Watford,Charlton,2-1,0.08940195040939602,8.65,-0.22667312895872438,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,piyasa,,,D1,Leverkusen,Freiburg,2-0,0.07607408074517415,9.48,-0.2788177145357491,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-ADO Den Haag – PSV,N1,17.10,17:30,2026-10-17 17:30,2026-10-17,1.0,piyasa,,,N1,Den Haag,PSV Eindhoven,0-3,0.074429329884813,9.7,-0.2780355001173139,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,korner,,,D2,Bielefeld,Osnabruck,En çok korner 1,0.830170452148488,1.3,0.07922158779303445,False,0.0,False,🎰 Sistem kupon
-Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 10.5 Alt,0.6960435103931644,1.42,-0.011618215241706698,False,0.0,True,🎰 Sistem kupon
-Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,korner,,,I1,Venezia,Napoli,En çok korner 2,0.6959026769808202,1.57,0.09256720285988784,False,0.0,False,🎰 Sistem kupon
-Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,korner,,,E0,Bournemouth,Sunderland,En çok korner 1,0.6853243732068162,1.41,-0.03369263377838927,False,0.0,False,🎰 Sistem kupon
-Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,korner,,,E1,Watford,Charlton,En çok korner 1,0.6642211153840949,1.53,0.016258306537665135,False,0.0,False,🎰 Sistem kupon
-Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,2.5 Alt,0.3972933750672267,2.82,0.1203673176895792,True,,,💎 Değeri pozitif olanlar
-Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,KG Yok,0.395301300079261,2.78,0.09893761422034553,True,,,💎 Değeri pozitif olanlar
-Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,2.5 Alt,0.4553585703977157,2.22,0.010896026282928961,True,,,💎 Değeri pozitif olanlar
-Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,KG Yok,0.4248252711730935,2.37,0.006835892680231659,True,,,💎 Değeri pozitif olanlar
+Airdrie Utd – Hamilton,SC2,17.10,,,2026-10-17,,model,,,SC2,Airdrie Utd,Hamilton,1-1,0.13539995346208777,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Shrewsbury – Bristol Rovers,E3,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E3,Shrewsbury,Bristol Rvs,1-1,0.1345955540856901,4.71,-0.3660549402563996,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Carrarese Calcio 1908 – Modena FC,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Carrarese,Modena,1-2,0.13452617890812935,7.52,0.011636865389132556,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Valencia – Athletic Bilbao,SP1,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,SP1,Valencia,Ath Bilbao,1-1,0.13356739140114704,5.23,-0.3014425429720009,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Granada – Cadiz,SP2,18.10,17:15,2026-10-18 17:15,2026-10-18,1.0,oran,,,SP2,Granada,Cadiz,1-0,0.13324284548720114,5.88,-0.2165320685352573,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Juventus – Lazio,I1,18.10,21:45,2026-10-18 21:45,2026-10-18,1.0,piyasa,,,I1,Juventus,Lazio,1-0,0.1328095343549367,5.94,-0.211111365931676,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Eibar – Mallorca,SP2,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,piyasa,,,SP2,Eibar,Mallorca,1-1,0.13214841687798368,5.23,-0.30886377972814527,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Red Star FC – St Etienne,F2,17.10,21:00,2026-10-17 21:00,2026-10-17,1.0,piyasa,,,F2,Red Star,St Etienne,1-1,0.13205887443204498,5.6,-0.2604703031805482,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Telstar – Feyenoord,N1,17.10,21:00,2026-10-17 21:00,2026-10-17,1.0,piyasa,,,N1,Telstar,Feyenoord,1-2,0.1318061397004307,7.92,0.04390462642741122,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stenhousemuir – Raith Rovers,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,piyasa,,,SC1,Stenhousemuir,Raith Rvs,1-1,0.1316424003906081,4.65,-0.3878628381836723,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stockport – Bromley,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Stockport,Bromley,2-1,0.13004684066048153,6.99,-0.09097258378323414,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Nantes – Dunkerque,F2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,F2,Nantes,Dunkerque,2-1,0.12986377546312186,7.29,-0.05329307687384166,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Las Palmas – Castellon,SP2,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,SP2,Las Palmas,Castellon,1-2,0.12918821194230268,7.82,0.010251817388806872,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Udinese – Lecce,I1,18.10,13:30,2026-10-18 13:30,2026-10-18,1.0,piyasa,,,I1,Udinese,Lecce,1-1,0.1287990785101011,5.62,-0.27614917877323175,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Malaga CF – Real Sociedad,SP1,18.10,19:30,2026-10-18 19:30,2026-10-18,1.0,piyasa,,,SP1,Malaga,Sociedad,1-1,0.12869448120607443,5.67,-0.27030229156155794,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+West Bromwich – Blackburn Rovers,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,West Brom,Blackburn,1-0,0.12867158576988863,6.02,-0.22539705366527052,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Juve Stabia – FC Sudtirol,I2,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,I2,Juve Stabia,Sudtirol,1-1,0.12863724129760626,5.28,-0.3207953659486389,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Brighton – Crystal Palace,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Brighton,Crystal Palace,2-1,0.12863703994994063,7.28,-0.06352234916443211,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fenerbahçe – Alanyaspor,T1,17.10,19:00,2026-10-17 19:00,2026-10-17,1.0,piyasa,,,T1,Fenerbahce,Alanyaspor,2-0,0.12799432221896595,5.76,-0.26275270401875617,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Mantova 1911 – US Palermo,I2,17.10,18:15,2026-10-17 18:15,2026-10-17,1.0,piyasa,,,I2,Mantova,Palermo,1-1,0.12785523135004115,5.67,-0.2750608382452667,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wycombe – Notts County,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Wycombe,Notts County,1-1,0.12752625828857986,5.06,-0.3547171330597859,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Le Havre – AJ Auxerre,F1,18.10,18:15,2026-10-18 18:15,2026-10-18,1.0,piyasa,,,F1,Le Havre,Auxerre,1-1,0.12733076735174675,5.48,-0.3022273949124278,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Derby County – Stoke City,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Derby,Stoke,1-1,0.12732746864079864,5.47,-0.30351874653483146,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Metz – Sochaux,F2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,F2,Metz,Sochaux,1-0,0.12711544524485174,6.3,-0.19917269495743406,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Millwall – Lincoln City,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Millwall,Lincoln,1-0,0.12711104151354127,6.23,-0.20809821137063778,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sampdoria – SS Arezzo,I2,18.10,20:30,2026-10-18 20:30,2026-10-18,1.0,piyasa,,,I2,Sampdoria,Arezzo,1-1,0.12652467236850856,5.67,-0.28260510767055647,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+AC Milan – Atalanta,I1,18.10,19:00,2026-10-18 19:00,2026-10-18,1.0,piyasa,,,I1,Milan,Atalanta,2-1,0.12609819137521994,7.42,-0.06435141999586813,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Accrington – Gillingham,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Accrington,Gillingham,1-1,0.12566663041751844,4.85,-0.3905168424750356,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Osasuna – Santander,SP1,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,piyasa,,,SP1,Osasuna,Santander,1-1,0.12565796511998578,6.3,-0.20835481974408965,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+SC Cambuur – AZ Alkmaar,N1,18.10,15:30,2026-10-18 15:30,2026-10-18,1.0,piyasa,,,N1,Cambuur,AZ Alkmaar,1-2,0.1255798348965205,7.69,-0.034291069645757344,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Dundee – Rangers,SC0,17.10,22:00,2026-10-17 22:00,2026-10-17,2.0,piyasa,,,SC0,Dundee,Rangers,1-2,0.12549109447642565,7.41,-0.0701109899296859,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wrexham – Preston,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Wrexham,Preston,1-0,0.12531894085570688,6.25,-0.21675661965183202,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Colchester – Exeter City,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Colchester,Exeter,1-0,0.12510414663123154,5.73,-0.2831532398030432,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Bournemouth,Sunderland,1-1,0.12490513643185847,5.55,-0.30677649280318553,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Crewe Alexandra – Rochdale,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Crewe,Rochdale,2-1,0.12448954969327516,6.65,-0.17214449453972014,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+S.Gijon – Albacete,SP2,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,SP2,Sp Gijon,Albacete,1-1,0.12420880882497833,5.67,-0.2957360539623729,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Paris FC – Rennes,F1,18.10,,,2026-10-18,,piyasa,,,F1,Paris FC,Rennes,1-1,0.1241940061527485,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Benevento – Vicenza,I2,17.10,,,2026-10-17,,piyasa,,,I2,Benevento,Vicenza,1-1,0.12383899274903389,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Grimsby Town – Northampton,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Grimsby,Northampton,2-1,0.12370595730869327,6.52,-0.1934371583473199,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Aberdeen – St Mirren,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Aberdeen,St Mirren,2-1,0.12345662226820117,7.49,-0.07530989921117315,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Middlesbrough – Cardiff City,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Middlesbrough,Cardiff,2-1,0.12302928928811292,7.62,-0.06251681562457956,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Real Sociedad B – Almeria,SP2,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,SP2,Sociedad B,Almeria,1-1,0.12294006485351575,5.84,-0.28203002125546806,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Birmingham – Queens Park Rangers,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Birmingham,QPR,1-1,0.1228108002862021,5.71,-0.298750330365786,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wigan Athletic – Reading,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Wigan,Reading,1-2,0.12237101867310807,6.63,-0.18868014619729356,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bristol City – Sheffield United,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Bristol City,Sheffield United,1-1,0.12158399728429543,5.78,-0.29724449569677236,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Tranmere – Barnet,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Tranmere,Barnet,1-1,0.12084578897225601,5.27,-0.36314269211621086,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kocaelispor – Göztepe,T1,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,T1,Kocaelispor,Goztep,1-1,0.12020211376247494,5.53,-0.33528231089351357,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sparta Rotterdam – Willem II,N1,17.10,22:00,2026-10-17 22:00,2026-10-17,1.0,piyasa,,,N1,Sparta Rotterdam,Willem II,2-1,0.120197377252672,7.44,-0.1057315132401202,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Swansea City – West Ham,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Swansea,West Ham,1-1,0.11948929782621869,5.92,-0.2926233568687854,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Espanyol – Atletico Madrid,SP1,17.10,15:00,2026-10-17 15:00,2026-10-17,1.0,piyasa,,,SP1,Espanol,Ath Madrid,0-1,0.11942905670932155,6.64,-0.20699106345010498,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+St Johnstone – Dundee Utd,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,oran,,,SC0,St Johnstone,Dundee,1-1,0.11909615951334604,5.7,-0.3211518907739276,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Leeds United – Manchester United,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,E0,Leeds,Man United,1-1,0.11890787294367117,5.94,-0.29368723471459324,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Ascoli – Empoli,I2,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I2,Ascoli,Empoli,2-1,0.11886013292471363,7.58,-0.09904019243067064,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Roma – Genoa,I1,17.10,,,2026-10-17,,piyasa,,,I1,Roma,Genoa,2-1,0.11842281962383414,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Nottingham Forest – Arsenal,E0,18.10,18:30,2026-10-18 18:30,2026-10-18,1.0,piyasa,,,E0,Nott'm Forest,Arsenal,1-1,0.11806573589017508,6.31,-0.2550052065329953,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hannover 96 – Saint Pauli,D2,17.10,21:30,2026-10-17 21:30,2026-10-17,1.0,piyasa,,,D2,Hannover,St Pauli,2-1,0.117413784153573,8.15,-0.04307765914838002,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Gençlerbirliği – Galatasaray,T1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,T1,Genclerbirligi,Galatasaray,1-2,0.11709969185681363,7.55,-0.1158973264810571,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Plymouth – Huddersfield,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Plymouth,Huddersfield,1-1,0.1168979646157536,5.25,-0.3862856857672936,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Union Berlin – B. Dortmund,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Union Berlin,Dortmund,1-2,0.11682132934547788,7.37,-0.13902680272382795,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kaiserslautern – Bochum,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Kaiserslautern,Bochum,1-1,0.11665028463184318,5.94,-0.3070973092868514,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Celtic – Hearts,SC0,18.10,17:00,2026-10-18 17:00,2026-10-18,2.0,piyasa,,,SC0,Celtic,Hearts,2-1,0.11659844641613369,7.33,-0.14533338776974003,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Newcastle United – Aston Villa,E0,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,E0,Newcastle,Aston Villa,1-1,0.11653008886371648,6.06,-0.29382766148587824,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,1-1,0.11633894148567417,6.36,-0.26008433215111226,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Port Vale – Chesterfield,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Port Vale,Chesterfield,1-1,0.11611202725632881,4.83,-0.43917890835193185,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Norwich City – Portsmouth,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Norwich,Portsmouth,1-1,0.11610616657268776,6.04,-0.2987187539009659,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sheffield Wednesday – Wimbledon,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Sheffield Weds,AFC Wimbledon,2-1,0.1156410973433703,6.46,-0.2529585111618279,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Schalke 04 – Mainz,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Schalke 04,Mainz,1-1,0.1156026578405804,6.04,-0.3017599466428944,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Leyton Orient – Blackpool,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Leyton Orient,Blackpool,1-1,0.1155558965011807,5.24,-0.3944871023338131,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Peterborough – Burton Albion,E2,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E2,Peterboro,Burton,2-1,0.11545282181963577,6.71,-0.225311565590244,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Brentford – Liverpool,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Brentford,Liverpool,1-1,0.11541571186472012,6.29,-0.27403517237091046,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Oldham – Cheltenham,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Oldham,Cheltenham,1-1,0.11471318958949916,5.69,-0.3472819512357497,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Swindon Town – Walsall,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Swindon,Walsall,1-1,0.11442967389846695,5.26,-0.39809991529406386,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Everton – Chelsea,E0,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E0,Everton,Chelsea,1-1,0.11441524763508854,6.06,-0.30664359933136354,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Milton Keynes Dons – Luton,E2,17.10,,,2026-10-17,,piyasa,,,E2,Milton Keynes Dons,Luton,1-1,0.11405576244141306,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hibernian – Falkirk,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Hibernian,Falkirk,2-1,0.11331926898474248,7.29,-0.17390252910122728,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fiorentina – Como 1907,I1,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,piyasa,,,I1,Fiorentina,Como,1-2,0.11328538559563475,7.84,-0.11184257693022359,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fulham – Hull City,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Fulham,Hull,1-1,0.11318866471884095,6.41,-0.2744606591522295,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wolfsburg – Heidenheim,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Wolfsburg,Heidenheim,2-1,0.11306011909861707,8.08,-0.08647423768317408,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Lille – Brest,F1,17.10,21:45,2026-10-17 21:45,2026-10-17,1.0,piyasa,,,F1,Lille,Brest,1-1,0.11287869444216152,5.97,-0.32611419418029575,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kilmarnock – Motherwell,SC0,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,SC0,Kilmarnock,Motherwell,1-1,0.11274411133353206,6.16,-0.30549627418544256,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fleetwood – Rotherham,E3,17.10,14:30,2026-10-17 14:30,2026-10-17,2.0,piyasa,,,E3,Fleetwood Town,Rotherham,1-1,0.11268266542894712,4.9,-0.4478549393981591,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Newport – York City,E3,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E3,Newport County,York,1-1,0.112635524294486,5.34,-0.39852630026744473,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Dunfermline – Livingston,SC1,17.10,17:00,2026-10-17 17:00,2026-10-17,3.0,oran,,,SC1,Dunfermline,Livingston,1-1,0.11153032104982905,5.0,-0.44234839475085475,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bologna – Inter,I1,17.10,19:00,2026-10-17 19:00,2026-10-17,1.0,piyasa,,,I1,Bologna,Inter,1-2,0.11135853428959924,7.35,-0.18151477297144558,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Real Madrid – Sevilla,SP1,18.10,22:00,2026-10-18 22:00,2026-10-18,1.0,piyasa,,,SP1,Real Madrid,Sevilla,2-0,0.11110176182022197,6.33,-0.2967258476779949,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Angers – Marseille,F1,18.10,,,2026-10-18,,piyasa,,,F1,Angers,Marseille,1-1,0.1106139888438976,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Rodez AF – Montpellier,F2,19.10,21:45,2026-10-19 21:45,2026-10-19,1.0,oran,,,F2,Rodez,Montpellier,1-2,0.11053714788451728,8.62,-0.047169785235461115,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Barnsley – Cambridge,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Barnsley,Cambridge,1-1,0.11035121963248276,5.42,-0.4018963895919434,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Manchester City – Ipswich Town,E0,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E0,Man City,Ipswich,2-0,0.10962006104100139,7.13,-0.21840896477766014,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,piyasa,,,I1,Venezia,Napoli,1-2,0.1090948357357536,7.34,-0.19924390569956862,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Pisa – Cremonese,I2,17.10,,,2026-10-17,,piyasa,,,I2,Pisa,Cremonese,1-0,0.10891910611621011,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Lyon – Nice,F1,18.10,21:45,2026-10-18 21:45,2026-10-18,1.0,piyasa,,,F1,Lyon,Nice,1-1,0.10760568457028091,6.69,-0.28011797022482066,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Zwolle – Go Ahead Eagles,N1,18.10,13:15,2026-10-18 13:15,2026-10-18,1.0,piyasa,,,N1,Zwolle,Go Ahead Eagles,1-1,0.10758289527098332,6.87,-0.26090550948834457,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Werder Bremen – Paderborn,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Werder Bremen,Paderborn,2-1,0.1072988827306427,7.52,-0.193112401865567,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hamburg – Stuttgart,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Hamburg,Stuttgart,1-2,0.10723952637005851,7.91,-0.15173534641283715,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Valladolid – Eldense,SP2,18.10,,,2026-10-18,,piyasa,,,SP2,Valladolid,Eldense,2-1,0.10660858030420568,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Greuther Furth – Braunschweig,D2,17.10,14:00,2026-10-17 14:00,2026-10-17,1.0,piyasa,,,D2,Greuther Furth,Braunschweig,1-1,0.10657210509238364,6.47,-0.31047848005227785,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+AD Ceuta – Real Oviedo,SP2,18.10,15:00,2026-10-18 15:00,2026-10-18,1.0,oran,,,SP2,Ceuta,Oviedo,0-1,0.1056923135462704,6.87,-0.2738938059371223,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+M'gladbach – Hoffenheim,D1,18.10,,,2026-10-18,,piyasa,,,D1,M'gladbach,Hoffenheim,1-2,0.1054702647529132,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Girona – FC Andorra,SP2,18.10,19:30,2026-10-18 19:30,2026-10-18,1.0,piyasa,,,SP2,Girona,Andorra,1-1,0.10455424269528112,6.16,-0.35594586499706826,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+St Johnstone – Dundee United,SC0,17.10,,,2026-10-17,,piyasa,,,SC0,St Johnstone,Dundee United,1-2,0.10322474310494265,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,piyasa,,,D2,Bielefeld,Osnabruck,1-1,0.10256724919010567,6.7,-0.312799430426292,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bayern Münih – Leipzig,D1,17.10,19:30,2026-10-17 19:30,2026-10-17,1.0,piyasa,,,D1,Bayern Munich,RB Leipzig,2-1,0.10173763751945199,10.65,0.08350583958216373,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Leicester City – Doncaster,E2,17.10,17:00,2026-10-17 17:00,2026-10-17,2.0,piyasa,,,E2,Leicester,Doncaster,1-1,0.10164110587549408,5.9,-0.40031747533458495,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,piyasa,,,SP1,Villarreal,Elche,2-1,0.10109472415042924,7.36,-0.2559428302528408,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Southampton – Bolton,E1,17.10,17:00,2026-10-17 17:00,2026-10-17,1.0,piyasa,,,E1,Southampton,Bolton,2-1,0.09969156094627048,7.51,-0.25131637729350875,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Buyuksehyr – Gaziantep,T1,18.10,,,2026-10-18,,model,,,T1,Buyuksehyr,Gaziantep,2-1,0.09956366284259614,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+NEC Nijmegen – Fortuna Sittard,N1,18.10,21:00,2026-10-18 21:00,2026-10-18,1.0,piyasa,,,N1,Nijmegen,For Sittard,2-1,0.09947338297646367,7.82,-0.22211814512405403,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Karlsruhe – Darmstadt 98,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,piyasa,,,D2,Karlsruhe,Darmstadt,1-1,0.09929297608761749,6.96,-0.30892088643018234,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,1-1,0.0991610320438224,7.68,-0.238443273903444,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Queen of Sth – Ross County,SC2,17.10,,,2026-10-17,,model,,,SC2,Queen of Sth,Ross County,1-2,0.0990196935261298,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Elversberg – Augsburg,D1,17.10,16:30,2026-10-17 16:30,2026-10-17,1.0,piyasa,,,D1,Elversberg,Augsburg,1-1,0.09852562324606275,6.76,-0.33396678685661585,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Troyes – Lens,F1,17.10,,,2026-10-17,,piyasa,,,F1,Troyes,Lens,1-2,0.09823830727347697,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,piyasa,,,E1,Watford,Charlton,2-1,0.08940995665305124,8.65,-0.2266038749511068,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Dresden – Magdeburg,D2,18.10,,,2026-10-18,,model,,,D2,Dresden,Magdeburg,2-1,0.0871124260500345,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Amedspor – Konyaspor,T1,17.10,,,2026-10-17,,piyasa,,,T1,Amedspor,Konyaspor,2-1,0.07750021788901046,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+B. Leverkusen – Freiburg,D1,18.10,16:30,2026-10-18 16:30,2026-10-18,1.0,piyasa,,,D1,Leverkusen,Freiburg,2-0,0.07607433823195471,9.43,-0.28261899047266714,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+ADO Den Haag – PSV,N1,17.10,17:30,2026-10-17 17:30,2026-10-17,1.0,piyasa,,,N1,Den Haag,PSV Eindhoven,0-3,0.07444447503204026,9.66,-0.28086637119049107,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Arminia Bielefeld – Osnabruck,D2,18.10,14:30,2026-10-18 14:30,2026-10-18,1.0,korner,,,D2,Bielefeld,Osnabruck,En çok korner 1,0.8300045197126469,1.3,0.0790058756264409,False,0.0,False,🎰 Sistem kupon
+Venezia – Napoli,I1,17.10,16:00,2026-10-17 16:00,2026-10-17,1.0,korner,,,I1,Venezia,Napoli,En çok korner 2,0.6960029009085893,1.47,0.0231242643356262,False,0.0,False,🎰 Sistem kupon
+Villarreal – Elche,SP1,17.10,17:15,2026-10-17 17:15,2026-10-17,1.0,korner,,,SP1,Villarreal,Elche,Korner 10.5 Alt,0.6959636165275596,1.44,0.0021876077996856313,False,0.0,True,🎰 Sistem kupon
+Bournemouth – Sunderland,E0,18.10,16:00,2026-10-18 16:00,2026-10-18,1.0,korner,,,E0,Bournemouth,Sunderland,En çok korner 1,0.6851702786590191,1.41,-0.03390990709078312,False,0.0,False,🎰 Sistem kupon
+Watford – Charlton,E1,17.10,14:30,2026-10-17 14:30,2026-10-17,1.0,korner,,,E1,Watford,Charlton,En çok korner 1,0.6642903965688195,1.53,0.016364306750293878,False,0.0,False,🎰 Sistem kupon
+Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,2.5 Alt,0.3972759599840261,2.82,0.12031820715495356,True,,,💎 Değeri pozitif olanlar
+Groningen – Ajax,N1,18.10,17:45,2026-10-18 17:45,2026-10-18,1.0,piyasa,,,N1,Groningen,Ajax,KG Yok,0.39528251570861755,2.78,0.09888539366995674,True,,,💎 Değeri pozitif olanlar
+Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,2.5 Alt,0.45537155134894347,2.22,0.010924843994654543,True,,,💎 Değeri pozitif olanlar
+Trabzonspor – Beşiktaş,T1,19.10,20:00,2026-10-19 20:00,2026-10-19,1.0,piyasa,,,T1,Trabzonspor,Besiktas,KG Yok,0.4248369068000271,2.37,0.00686346911606428,True,,,💎 Değeri pozitif olanlar

@@ -2,9 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/27 tuttu** (isabet %63, beklenen %46) · +11.46 birim
+**17/27 tuttu** (isabet %63, beklenen %46) · +11.46 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**20:00 · Trabzonspor – Beşiktaş**
+
+- ⏳ 2.5 Alt · @2.22
+
+## 18.10.2026 Pazar
+
+**17:45 · Groningen – Ajax**
+
+- ⏳ 2.5 Alt · @2.82
 
 ## 14.10.2026 Çarşamba
 
