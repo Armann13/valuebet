@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/184 tuttu** (isabet %11, beklenen %11) · -44.67 birim · 30 tahmin sonuç bekliyor
+**20/184 tuttu** (isabet %11, beklenen %11) · -44.67 birim · 41 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**14:30 · Arminia Bielefeld – Osnabruck**
+
+- ⏳ 1-1 · @6.70
+
+**15:00 · AD Ceuta – Real Oviedo**
+
+- ⏳ 0-1 · @6.87
+
+**16:00 · Bournemouth – Sunderland**
+
+- ⏳ 1-1 · @5.53
+
+**16:30 · B. Leverkusen – Freiburg**
+
+- ⏳ 2-0 · @9.48
+
+**17:45 · Groningen – Ajax**
+
+- ⏳ 1-1 · @7.68
+
+**18:30 · Nottingham Forest – Arsenal**
+
+- ⏳ 1-1 · @6.22
+
+**19:00 · AC Milan – Atalanta**
+
+- ⏳ 2-1 · @7.42
 
 ## 17.10.2026 Cumartesi
 
@@ -15,6 +45,14 @@
 **14:00 · Kaiserslautern – Bochum**
 
 - ⏳ 2-1 · @8.10
+
+**14:00 · Greuther Furth – Braunschweig**
+
+- ⏳ 1-0 · @10.95
+
+**14:30 · Middlesbrough – Cardiff City**
+
+- ⏳ 3-0 · @11.70
 
 **15:00 · Metz – Sochaux**
 
@@ -79,6 +117,14 @@
 **17:00 · Wycombe – Notts County**
 
 - ⏳ 1-0 · @6.56
+
+**17:00 · Wrexham – Preston**
+
+- ⏳ 1-1 · @6.55
+
+**17:00 · Derby County – Stoke City**
+
+- ⏳ 1-2 · @8.38
 
 **17:15 · Eibar – Mallorca**
 

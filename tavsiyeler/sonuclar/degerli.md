@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/27 tuttu** (isabet %63, beklenen %46) · +11.46 birim · 2 tahmin sonuç bekliyor
+**17/27 tuttu** (isabet %63, beklenen %46) · +11.46 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,13 @@
 **17:45 · Groningen – Ajax**
 
 - ⏳ 2.5 Alt · @2.82
+- ⏳ KG Yok · @2.78
+
+## 17.10.2026 Cumartesi
+
+**17:00 · Wrexham – Preston**
+
+- ⏳ KG Var · @1.94
 
 ## 14.10.2026 Çarşamba
 

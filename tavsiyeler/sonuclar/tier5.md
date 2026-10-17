@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**6/35 tuttu** (isabet %17, beklenen %16) · -3.84 birim · 3 tahmin sonuç bekliyor
+**6/35 tuttu** (isabet %17, beklenen %16) · -3.84 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**17:00 · Paneitolikos – Olympiacos**
+
+- ⏳ 0-1 · @4.77
+
+**21:00 · Twente – Utrecht**
+
+- ⏳ 2-1 · @7.83
 
 ## 17.10.2026 Cumartesi
 

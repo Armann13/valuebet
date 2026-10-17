@@ -2,9 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 15 tahmin sonuç bekliyor
+**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**15:00 · AD Ceuta – Real Oviedo**
+
+- ⏳ KG Yok · @1.82
+- ⏳ En çok korner 1 · @1.94
+
+**17:45 · Groningen – Ajax**
+
+- ⏳ 2.5 Alt · @2.82
+- ⏳ En çok korner 1 · @2.91
+
+**18:30 · Nottingham Forest – Arsenal**
+
+- ⏳ KG Var · @1.80
 
 ## 17.10.2026 Cumartesi
 
@@ -31,6 +47,10 @@
 **17:00 · Wigan Athletic – Reading**
 
 - ⏳ MS 2 · @1.81
+
+**17:00 · Derby County – Stoke City**
+
+- ⏳ 2.5 Üst · @1.83
 
 **17:15 · Villarreal – Elche**
 

@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**111/203 tuttu** (isabet %55, beklenen %66) · -39.66 birim · 19 tahmin sonuç bekliyor
+**111/203 tuttu** (isabet %55, beklenen %66) · -39.66 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.10 13:56 gönderilen kupon · 6'de 4
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 17.10 14:30 Watford – Charlton · En çok korner 1 · @1.53
+- ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.47
+- ⏳ 17.10 17:00 Wrexham – Preston · KG Var · @1.94
+- ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.44
+- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
+- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.40
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 

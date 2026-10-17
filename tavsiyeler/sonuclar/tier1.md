@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/105 tuttu** (isabet %71, beklenen %77) · -13.60 birim · 12 tahmin sonuç bekliyor
+**75/105 tuttu** (isabet %71, beklenen %77) · -13.60 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**14:30 · Arminia Bielefeld – Osnabruck**
+
+- ⏳ En çok korner 1 · @1.30
+
+**16:30 · B. Leverkusen – Freiburg**
+
+- ⏳ En çok korner 1 · @1.28
 
 ## 17.10.2026 Cumartesi
 

@@ -2,15 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/72 tuttu** (isabet %25, beklenen %32) · -23.90 birim · 11 tahmin sonuç bekliyor
+**18/72 tuttu** (isabet %25, beklenen %32) · -23.90 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**16:30 · B. Leverkusen – Freiburg**
+
+- ⏳ KG Yok · @2.36
+
+**19:00 · AC Milan – Atalanta**
+
+- ⏳ Korner 7.5 Alt · @2.56
 
 ## 17.10.2026 Cumartesi
 
 **14:00 · Wolfsburg – Heidenheim**
 
 - ⏳ ↳ MS 1 & KG Var · @2.46
+
+**14:00 · Greuther Furth – Braunschweig**
+
+- ⏳ KG Yok · @2.50
+
+**14:30 · Middlesbrough – Cardiff City**
+
+- ⏳ KG Yok · @2.48
 
 **15:00 · Metz – Sochaux**
 
@@ -31,6 +49,10 @@
 **17:00 · Birmingham – Queens Park Rangers**
 
 - ⏳ Korner 8.5 Alt · @2.62
+
+**17:00 · Salford City – Crawley Town**
+
+- ⏳ MS 1 & KG Var · @2.41
 
 **17:15 · Eibar – Mallorca**
 

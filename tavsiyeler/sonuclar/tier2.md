@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**83/135 tuttu** (isabet %61, beklenen %63) · -10.77 birim · 15 tahmin sonuç bekliyor
+**83/135 tuttu** (isabet %61, beklenen %63) · -10.77 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10.2026 Pazar
+
+**16:00 · Bournemouth – Sunderland**
+
+- ⏳ En çok korner 1 · @1.40
 
 ## 17.10.2026 Cumartesi
 
@@ -31,6 +37,10 @@
 **17:00 · Salford City – Crawley Town**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.62
+
+**17:00 · Wrexham – Preston**
+
+- ⏳ KG Var · @1.94
 
 **17:15 · Villarreal – Elche**
 

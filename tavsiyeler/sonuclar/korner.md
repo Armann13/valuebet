@@ -2,17 +2,50 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**150/268 tuttu** (isabet %56, beklenen %62) · -39.95 birim · 20 tahmin sonuç bekliyor
+**150/268 tuttu** (isabet %56, beklenen %62) · -39.95 birim · 31 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 18.10.2026 Pazar
+
+**14:30 · Arminia Bielefeld – Osnabruck**
+
+- ⏳ 🟢 En çok korner 1 · @1.30
+- ⏳ 🎰 En çok korner 1 · @1.30
+
+**15:00 · AD Ceuta – Real Oviedo**
+
+- ⏳ 🔴 En çok korner 1 · @1.94
+
+**16:00 · Bournemouth – Sunderland**
+
+- ⏳ 🟡 En çok korner 1 · @1.40
+- ⏳ 🎰 En çok korner 1 · @1.40
+
+**16:30 · B. Leverkusen – Freiburg**
+
+- ⏳ 🟢 En çok korner 1 · @1.28
+
+**17:45 · Groningen – Ajax**
+
+- ⏳ 🔴 En çok korner 1 · @2.91
+
+**19:00 · AC Milan – Atalanta**
+
+- ⏳ 🟣 Korner 7.5 Alt · @2.56
+
 ## 17.10.2026 Cumartesi
+
+**14:30 · Watford – Charlton**
+
+- ⏳ 🎰 En çok korner 1 · @1.53
 
 **16:00 · Venezia – Napoli**
 
 - ⏳ 🟡 En çok korner 2 · @1.53
 - ⏳ 🎰 En çok korner 2 · @1.53
 - ⏳ 🎰 En çok korner 2 · @1.57
+- ⏳ 🎰 En çok korner 2 · @1.47
 
 **17:00 · Fulham – Hull City**
 
@@ -34,6 +67,7 @@
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @2.97
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.42
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.44
 
 **18:15 · Mantova 1911 – US Palermo**
 
