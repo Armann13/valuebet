@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/143 tuttu** (isabet %61, beklenen %63) · -12.21 birim · 11 tahmin sonuç bekliyor
+**89/145 tuttu** (isabet %61, beklenen %63) · -11.03 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -56,11 +56,11 @@
 
 **19:30 · Bayern Münih – Leipzig**
 
-- ⏳ ↳ MS 1 & KG Var · @1.68
+- ✅ ↳ MS 1 & KG Var · @1.68 · 6-1
 
 **21:00 · Telstar – Feyenoord**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.50
+- ✅ ↳ MS 2 & 2.5 Üst · @1.50 · 3-4
 
 ## 16.10.2026 Cuma
 

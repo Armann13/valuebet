@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/112 tuttu** (isabet %72, beklenen %77) · -13.22 birim · 7 tahmin sonuç bekliyor
+**83/114 tuttu** (isabet %73, beklenen %77) · -12.76 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -48,11 +48,11 @@
 
 **19:30 · Bayern Münih – Leipzig**
 
-- ⏳ MS 1 & 2.5 Üst · @1.24
+- ✅ MS 1 & 2.5 Üst · @1.24 · 6-1
 
 **21:00 · Telstar – Feyenoord**
 
-- ⏳ MS 2 · @1.22
+- ✅ MS 2 · @1.22 · 3-4
 
 **22:00 · Las Palmas – Castellon**
 

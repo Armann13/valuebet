@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/209 tuttu** (isabet %10, beklenen %11) · -69.67 birim · 20 tahmin sonuç bekliyor
+**20/212 tuttu** (isabet %9, beklenen %11) · -72.67 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -153,15 +153,15 @@
 
 **19:30 · Bayern Münih – Leipzig**
 
-- ⏳ 2-1 · @10.60
+- ❌ 2-1 · @10.60 · 6-1
 
 **19:30 · Newcastle United – Aston Villa**
 
-- ⏳ 1-1 · @6.13
+- ❌ 1-1 · @6.13 · 0-1
 
 **21:00 · Telstar – Feyenoord**
 
-- ⏳ 1-2 · @8.04
+- ❌ 1-2 · @8.04 · 3-4
 
 **22:00 · Las Palmas – Castellon**
 

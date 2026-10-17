@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/218 tuttu** (isabet %55, beklenen %66) · -42.08 birim · 15 tahmin sonuç bekliyor
+**121/220 tuttu** (isabet %55, beklenen %66) · -41.09 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,7 +29,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+**5/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.57 · korner 0-12
@@ -38,11 +38,11 @@ Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 - ❌ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.45 · 1-0
 - ✅ 17.10 17:00 Salford City – Crawley Town · ↳ MS 1 & 2.5 Üst · @1.61 · 2-1
 - ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.42 · korner 10-5
-- ⏳ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.49
+- ✅ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.49 · 3-4
 
 ## 16.10 14:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53 · korner 0-12
@@ -50,7 +50,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ✅ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.47 · 3-2
 - ❌ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.47 · 1-0
 - ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.41 · korner 10-5
-- ⏳ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.50
+- ✅ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.50 · 3-4
 - ⏳ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.67
 
 ## 15.10 20:11 gönderilen kupon · 7'de 6

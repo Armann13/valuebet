@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**23/82 tuttu** (isabet %28, beklenen %33) · -21.27 birim · 8 tahmin sonuç bekliyor
+**24/83 tuttu** (isabet %29, beklenen %33) · -19.84 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -68,7 +68,7 @@
 
 **19:30 · Newcastle United – Aston Villa**
 
-- ⏳ En çok korner 2 · @2.43
+- ✅ En çok korner 2 · @2.43 · korner 4-5
 
 **22:00 · Las Palmas – Castellon**
 
