@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**155/273 tuttu** (isabet %57, beklenen %62) · -37.32 birim · 26 tahmin sonuç bekliyor
+**158/284 tuttu** (isabet %56, beklenen %62) · -41.84 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,12 @@
 
 - ⏳ 🟢 En çok korner 1 · @1.30
 - ⏳ 🎰 En çok korner 1 · @1.30
+- ⏳ 🎰 En çok korner 1 · @1.30
+
+**14:30 · Karlsruhe – Darmstadt 98**
+
+- ⏳ 🟡 En çok korner 1 · @1.60
+- ⏳ 🎰 En çok korner 1 · @1.60
 
 **15:00 · AD Ceuta – Real Oviedo**
 
@@ -21,6 +27,12 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
+- ⏳ 🎰 En çok korner 1 · @1.41
+
+**16:00 · Fiorentina – Como 1907**
+
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
+- ⏳ 🎰 Korner 10.5 Alt · @1.30
 
 **16:30 · B. Leverkusen – Freiburg**
 
@@ -33,6 +45,10 @@
 **19:00 · AC Milan – Atalanta**
 
 - ⏳ 🟣 Korner 7.5 Alt · @2.56
+
+**20:30 · Sampdoria – SS Arezzo**
+
+- ⏳ 🟣 En çok korner 2 · @2.45
 
 ## 17.10.2026 Cumartesi
 
@@ -49,29 +65,29 @@
 
 **17:00 · Fulham – Hull City**
 
-- ⏳ 🟢 En çok korner 1 · @1.22
+- ✅ 🟢 En çok korner 1 · @1.22 · korner 10-2
 
 **17:00 · Swansea City – West Ham**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.64
+- ✅ 🟣 Korner 8.5 Alt · @2.64 · korner 6-1
 
 **17:00 · Birmingham – Queens Park Rangers**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.62
+- ✅ 🟣 Korner 8.5 Alt · @2.62 · korner 0-4
 
 **17:15 · Villarreal – Elche**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.17
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.97
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.42
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.44
+- ❌ 🟢 Korner 11.5 Alt · @1.22 · korner 10-5
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 10-5
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.17 · korner 10-5
+- ❌ 🟣 ↳ Korner 7.5 Alt · @2.97 · korner 10-5
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.41 · korner 10-5
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.42 · korner 10-5
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.44 · korner 10-5
 
 **18:15 · Mantova 1911 – US Palermo**
 
-- ⏳ 🔴 En çok korner 1 · @2.00
+- ❌ 🔴 En çok korner 1 · @2.00 · korner 3-3
 
 **19:30 · Newcastle United – Aston Villa**
 
@@ -82,6 +98,8 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.13
 - ⏳ 🎰 ↳ Korner 9.5 Alt · @1.67
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.86
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.65
 
 ## 16.10.2026 Cuma
 

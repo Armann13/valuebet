@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/195 tuttu** (isabet %10, beklenen %11) · -55.67 birim · 30 tahmin sonuç bekliyor
+**20/209 tuttu** (isabet %10, beklenen %11) · -69.67 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,13 +12,22 @@
 
 - ⏳ 1-1 · @6.70
 
+**14:30 · Karlsruhe – Darmstadt 98**
+
+- ⏳ 1-1 · @6.96
+
 **15:00 · AD Ceuta – Real Oviedo**
 
 - ⏳ 0-1 · @6.87
+- ⏳ 1-1 · @5.27
 
 **16:00 · Bournemouth – Sunderland**
 
 - ⏳ 1-1 · @5.53
+
+**16:00 · Fiorentina – Como 1907**
+
+- ⏳ 1-2 · @7.85
 
 **16:30 · B. Leverkusen – Freiburg**
 
@@ -35,6 +44,10 @@
 **19:00 · AC Milan – Atalanta**
 
 - ⏳ 2-1 · @7.42
+
+**20:30 · Sampdoria – SS Arezzo**
+
+- ⏳ 1-1 · @5.56
 
 ## 17.10.2026 Cumartesi
 
@@ -84,59 +97,59 @@
 
 **17:00 · Stockport – Bromley**
 
-- ⏳ 2-1 · @7.12
+- ❌ 2-1 · @7.12 · 1-0
 
 **17:00 · Wigan Athletic – Reading**
 
-- ⏳ 1-2 · @6.86
+- ❌ 1-2 · @6.86 · 1-0
 
 **17:00 · Colchester – Exeter City**
 
-- ⏳ 1-0 · @5.95
+- ❌ 1-0 · @5.95 · 0-0
 
 **17:00 · Birmingham – Queens Park Rangers**
 
-- ⏳ 1-1 · @5.67
+- ❌ 1-1 · @5.67 · 3-0
 
 **17:00 · Swansea City – West Ham**
 
-- ⏳ 1-1 · @6.06
+- ❌ 1-1 · @6.06 · 0-1
 
 **17:00 · Manchester City – Ipswich Town**
 
-- ⏳ 3-0 · @7.34
+- ❌ 3-0 · @7.34 · 3-2
 
 **17:00 · Norwich City – Portsmouth**
 
-- ⏳ 2-1 · @7.46
+- ❌ 2-1 · @7.46 · 0-1
 
 **17:00 · Fulham – Hull City**
 
-- ⏳ 1-1 · @6.38
+- ❌ 1-1 · @6.38 · 1-0
 
 **17:00 · Wycombe – Notts County**
 
-- ⏳ 1-0 · @6.56
+- ❌ 1-0 · @6.56 · 2-0
 
 **17:00 · Wrexham – Preston**
 
-- ⏳ 1-1 · @6.55
+- ❌ 1-1 · @6.55 · 4-1
 
 **17:00 · Derby County – Stoke City**
 
-- ⏳ 1-2 · @8.38
+- ❌ 1-2 · @8.38 · 0-1
 
 **17:15 · Eibar – Mallorca**
 
-- ⏳ 1-0 · @6.73
+- ❌ 1-0 · @6.73 · 1-1
 
 **17:15 · Villarreal – Elche**
 
-- ⏳ 2-1 · @7.45
+- ❌ 2-1 · @7.45 · 0-0
 
 **18:15 · Mantova 1911 – US Palermo**
 
-- ⏳ 1-1 · @5.70
+- ❌ 1-1 · @5.70 · 0-2
 
 **19:30 · Bayern Münih – Leipzig**
 

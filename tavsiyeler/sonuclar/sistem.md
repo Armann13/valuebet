@@ -2,44 +2,54 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**115/209 tuttu** (isabet %55, beklenen %66) · -39.56 birim · 19 tahmin sonuç bekliyor
+**119/218 tuttu** (isabet %55, beklenen %66) · -42.08 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 17.10 18:45 gönderilen kupon · 5'de 3
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.65
+- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
+- ⏳ 18.10 14:30 Karlsruhe – Darmstadt 98 · En çok korner 1 · @1.60
+- ⏳ 18.10 16:00 Fiorentina – Como 1907 · Korner 10.5 Alt · @1.30
+- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41
+
 ## 17.10 13:56 gönderilen kupon · 6'de 4
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ✅ 17.10 14:30 Watford – Charlton · En çok korner 1 · @1.53 · korner 4-3
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.47 · korner 0-12
-- ⏳ 17.10 17:00 Wrexham – Preston · KG Var · @1.94
-- ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.44
+- ✅ 17.10 17:00 Wrexham – Preston · KG Var · @1.94 · 4-1
+- ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.44 · korner 10-5
 - ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
 - ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.40
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.57 · korner 0-12
 - ❌ 17.10 16:00 Gençlerbirliği – Galatasaray · ↳ MS 2 & 2.5 Üst · @1.70 · 0-1
-- ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.46
-- ⏳ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.45
-- ⏳ 17.10 17:00 Salford City – Crawley Town · ↳ MS 1 & 2.5 Üst · @1.61
-- ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.42
+- ✅ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.46 · 3-2
+- ❌ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.45 · 1-0
+- ✅ 17.10 17:00 Salford City – Crawley Town · ↳ MS 1 & 2.5 Üst · @1.61 · 2-1
+- ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.42 · korner 10-5
 - ⏳ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.49
 
 ## 16.10 14:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53 · korner 0-12
 - ❌ 17.10 16:30 Union Berlin – B. Dortmund · MS 2 · @1.45 · 0-0
-- ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.47
-- ⏳ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.47
-- ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.41
+- ✅ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.47 · 3-2
+- ❌ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.47 · 1-0
+- ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.41 · korner 10-5
 - ⏳ 17.10 21:00 Telstar – Feyenoord · ↳ MS 2 & 2.5 Üst · @1.50
 - ⏳ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.67
 

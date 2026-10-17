@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**52/117 tuttu** (isabet %44, beklenen %46) · -9.22 birim · 18 tahmin sonuç bekliyor
+**54/123 tuttu** (isabet %44, beklenen %46) · -11.63 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -38,27 +38,27 @@
 
 **17:00 · Colchester – Exeter City**
 
-- ⏳ KG Yok · @1.79
+- ✅ KG Yok · @1.79 · 0-0
 
 **17:00 · Wycombe – Notts County**
 
-- ⏳ MS 1 · @1.80
+- ✅ MS 1 · @1.80 · 2-0
 
 **17:00 · Wigan Athletic – Reading**
 
-- ⏳ MS 2 · @1.81
+- ❌ MS 2 · @1.81 · 1-0
 
 **17:00 · Derby County – Stoke City**
 
-- ⏳ 2.5 Üst · @1.83
+- ❌ 2.5 Üst · @1.83 · 0-1
 
 **17:15 · Villarreal – Elche**
 
-- ⏳ ↳ Korner 8.5 Alt · @2.17
+- ❌ ↳ Korner 8.5 Alt · @2.17 · korner 10-5
 
 **18:15 · Mantova 1911 – US Palermo**
 
-- ⏳ En çok korner 1 · @2.00
+- ❌ En çok korner 1 · @2.00 · korner 3-3
 
 **22:00 · Las Palmas – Castellon**
 

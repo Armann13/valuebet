@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**79/109 tuttu** (isabet %72, beklenen %77) · -12.68 birim · 10 tahmin sonuç bekliyor
+**81/112 tuttu** (isabet %72, beklenen %77) · -13.22 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,15 +36,15 @@
 
 **17:00 · Salford City – Crawley Town**
 
-- ⏳ MS 1 · @1.24
+- ✅ MS 1 · @1.24 · 2-1
 
 **17:00 · Fulham – Hull City**
 
-- ⏳ En çok korner 1 · @1.22
+- ✅ En çok korner 1 · @1.22 · korner 10-2
 
 **17:15 · Villarreal – Elche**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ❌ Korner 11.5 Alt · @1.22 · korner 10-5
 
 **19:30 · Bayern Münih – Leipzig**
 

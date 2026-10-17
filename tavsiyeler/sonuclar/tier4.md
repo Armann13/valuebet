@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/76 tuttu** (isabet %26, beklenen %33) · -22.94 birim · 12 tahmin sonuç bekliyor
+**23/82 tuttu** (isabet %28, beklenen %33) · -21.27 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,10 @@
 **19:00 · AC Milan – Atalanta**
 
 - ⏳ Korner 7.5 Alt · @2.56
+
+**20:30 · Sampdoria – SS Arezzo**
+
+- ⏳ En çok korner 2 · @2.45
 
 ## 17.10.2026 Cumartesi
 
@@ -40,31 +44,35 @@
 
 **17:00 · Norwich City – Portsmouth**
 
-- ⏳ MS 1 & 2.5 Üst · @2.43
+- ❌ MS 1 & 2.5 Üst · @2.43 · 0-1
 
 **17:00 · Swansea City – West Ham**
 
-- ⏳ Korner 8.5 Alt · @2.64
+- ✅ Korner 8.5 Alt · @2.64 · korner 6-1
 
 **17:00 · Birmingham – Queens Park Rangers**
 
-- ⏳ Korner 8.5 Alt · @2.62
+- ✅ Korner 8.5 Alt · @2.62 · korner 0-4
 
 **17:00 · Salford City – Crawley Town**
 
-- ⏳ MS 1 & KG Var · @2.41
+- ✅ MS 1 & KG Var · @2.41 · 2-1
 
 **17:15 · Eibar – Mallorca**
 
-- ⏳ MS 1 · @2.36
+- ❌ MS 1 · @2.36 · 1-1
 
 **17:15 · Villarreal – Elche**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.97
+- ❌ ↳ Korner 7.5 Alt · @2.97 · korner 10-5
 
 **19:30 · Newcastle United – Aston Villa**
 
 - ⏳ En çok korner 2 · @2.43
+
+**22:00 · Las Palmas – Castellon**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.86
 
 ## 16.10.2026 Cuma
 
