@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/105 tuttu** (isabet %71, beklenen %77) · -13.60 birim · 14 tahmin sonuç bekliyor
+**79/109 tuttu** (isabet %72, beklenen %77) · -12.68 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,19 +20,19 @@
 
 **14:00 · Kaiserslautern – Bochum**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-0
 
 **14:00 · Wolfsburg – Heidenheim**
 
-- ⏳ 2.5 Üst · @1.25
+- ✅ 2.5 Üst · @1.25 · 3-1
 
 **16:00 · Gençlerbirliği – Galatasaray**
 
-- ⏳ MS 2 · @1.27
+- ✅ MS 2 · @1.27 · 0-1
 
 **16:30 · Schalke 04 – Mainz**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
 
 **17:00 · Salford City – Crawley Town**
 

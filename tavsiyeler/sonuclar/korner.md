@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**150/268 tuttu** (isabet %56, beklenen %62) · -39.95 birim · 31 tahmin sonuç bekliyor
+**155/273 tuttu** (isabet %57, beklenen %62) · -37.32 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -38,14 +38,14 @@
 
 **14:30 · Watford – Charlton**
 
-- ⏳ 🎰 En çok korner 1 · @1.53
+- ✅ 🎰 En çok korner 1 · @1.53 · korner 4-3
 
 **16:00 · Venezia – Napoli**
 
-- ⏳ 🟡 En çok korner 2 · @1.53
-- ⏳ 🎰 En çok korner 2 · @1.53
-- ⏳ 🎰 En çok korner 2 · @1.57
-- ⏳ 🎰 En çok korner 2 · @1.47
+- ✅ 🟡 En çok korner 2 · @1.53 · korner 0-12
+- ✅ 🎰 En çok korner 2 · @1.53 · korner 0-12
+- ✅ 🎰 En çok korner 2 · @1.57 · korner 0-12
+- ✅ 🎰 En çok korner 2 · @1.47 · korner 0-12
 
 **17:00 · Fulham – Hull City**
 

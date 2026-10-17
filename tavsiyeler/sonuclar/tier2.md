@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**83/135 tuttu** (isabet %61, beklenen %63) · -10.77 birim · 17 tahmin sonuç bekliyor
+**84/138 tuttu** (isabet %61, beklenen %63) · -12.24 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,15 +16,15 @@
 
 **16:00 · Venezia – Napoli**
 
-- ⏳ En çok korner 2 · @1.53
+- ✅ En çok korner 2 · @1.53 · korner 0-12
 
 **16:00 · Gençlerbirliği – Galatasaray**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.70
+- ❌ ↳ MS 2 & 2.5 Üst · @1.70 · 0-1
 
 **16:30 · Union Berlin – B. Dortmund**
 
-- ⏳ MS 2 · @1.45
+- ❌ MS 2 · @1.45 · 0-0
 
 **17:00 · Manchester City – Ipswich Town**
 

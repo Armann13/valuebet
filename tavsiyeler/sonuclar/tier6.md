@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/184 tuttu** (isabet %11, beklenen %11) · -44.67 birim · 41 tahmin sonuç bekliyor
+**20/195 tuttu** (isabet %10, beklenen %11) · -55.67 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,47 +40,47 @@
 
 **14:00 · Wolfsburg – Heidenheim**
 
-- ⏳ 2-1 · @8.07
+- ❌ 2-1 · @8.07 · 3-1
 
 **14:00 · Kaiserslautern – Bochum**
 
-- ⏳ 2-1 · @8.10
+- ❌ 2-1 · @8.10 · 2-0
 
 **14:00 · Greuther Furth – Braunschweig**
 
-- ⏳ 1-0 · @10.95
+- ❌ 1-0 · @10.95 · 2-0
 
 **14:30 · Middlesbrough – Cardiff City**
 
-- ⏳ 3-0 · @11.70
+- ❌ 3-0 · @11.70 · 2-2
 
 **15:00 · Metz – Sochaux**
 
-- ⏳ 1-0 · @6.30
+- ❌ 1-0 · @6.30 · 3-2
 
 **15:00 · Real Sociedad B – Almeria**
 
-- ⏳ 1-2 · @7.76
+- ❌ 1-2 · @7.76 · 2-4
 
 **16:00 · Gençlerbirliği – Galatasaray**
 
-- ⏳ 1-2 · @7.48
+- ❌ 1-2 · @7.48 · 0-1
 
 **16:00 · Ascoli – Empoli**
 
-- ⏳ 1-0 · @6.70
+- ❌ 1-0 · @6.70 · 1-1
 
 **16:00 · Venezia – Napoli**
 
-- ⏳ 1-2 · @7.35
+- ❌ 1-2 · @7.35 · 1-0
 
 **16:30 · Union Berlin – B. Dortmund**
 
-- ⏳ 1-2 · @7.40
+- ❌ 1-2 · @7.40 · 0-0
 
 **16:30 · Schalke 04 – Mainz**
 
-- ⏳ 1-2 · @8.30
+- ❌ 1-2 · @8.30 · 0-1
 
 **17:00 · Stockport – Bromley**
 

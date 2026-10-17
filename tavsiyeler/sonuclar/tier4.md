@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/72 tuttu** (isabet %25, beklenen %32) · -23.90 birim · 16 tahmin sonuç bekliyor
+**20/76 tuttu** (isabet %26, beklenen %33) · -22.94 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,15 +20,15 @@
 
 **14:00 · Wolfsburg – Heidenheim**
 
-- ⏳ ↳ MS 1 & KG Var · @2.46
+- ✅ ↳ MS 1 & KG Var · @2.46 · 3-1
 
 **14:00 · Greuther Furth – Braunschweig**
 
-- ⏳ KG Yok · @2.50
+- ✅ KG Yok · @2.50 · 2-0
 
 **14:30 · Middlesbrough – Cardiff City**
 
-- ⏳ KG Yok · @2.48
+- ❌ KG Yok · @2.48 · 2-2
 
 **15:00 · Metz – Sochaux**
 
@@ -36,7 +36,7 @@
 
 **16:00 · Gençlerbirliği – Galatasaray**
 
-- ⏳ MS 2 & KG Var · @2.49
+- ❌ MS 2 & KG Var · @2.49 · 0-1
 
 **17:00 · Norwich City – Portsmouth**
 

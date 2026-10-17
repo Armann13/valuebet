@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/114 tuttu** (isabet %44, beklenen %46) · -10.02 birim · 21 tahmin sonuç bekliyor
+**52/117 tuttu** (isabet %44, beklenen %46) · -9.22 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,15 +26,15 @@
 
 **14:00 · Wolfsburg – Heidenheim**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.93
+- ✅ ↳ MS 1 & 2.5 Üst · @1.93 · 3-1
 
 **15:00 · Real Sociedad B – Almeria**
 
-- ⏳ MS 2 · @1.87
+- ✅ MS 2 · @1.87 · 2-4
 
 **16:00 · Ascoli – Empoli**
 
-- ⏳ KG Yok · @1.87
+- ❌ KG Yok · @1.87 · 1-1
 
 **17:00 · Colchester – Exeter City**
 

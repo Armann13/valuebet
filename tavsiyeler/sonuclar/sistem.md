@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**111/203 tuttu** (isabet %55, beklenen %66) · -39.66 birim · 25 tahmin sonuç bekliyor
+**115/209 tuttu** (isabet %55, beklenen %66) · -39.56 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.10 13:56 gönderilen kupon · 6'de 4
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
-- ⏳ 17.10 14:30 Watford – Charlton · En çok korner 1 · @1.53
-- ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.47
+- ✅ 17.10 14:30 Watford – Charlton · En çok korner 1 · @1.53 · korner 4-3
+- ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.47 · korner 0-12
 - ⏳ 17.10 17:00 Wrexham – Preston · KG Var · @1.94
 - ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.44
 - ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
@@ -19,11 +19,11 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
-- ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.57
-- ⏳ 17.10 16:00 Gençlerbirliği – Galatasaray · ↳ MS 2 & 2.5 Üst · @1.70
+- ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.57 · korner 0-12
+- ❌ 17.10 16:00 Gençlerbirliği – Galatasaray · ↳ MS 2 & 2.5 Üst · @1.70 · 0-1
 - ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.46
 - ⏳ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.45
 - ⏳ 17.10 17:00 Salford City – Crawley Town · ↳ MS 1 & 2.5 Üst · @1.61
@@ -32,11 +32,11 @@ Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 16.10 14:37 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.10 21:00 Heerenveen – Excelsior · En çok korner 1 · @1.40 · korner 4-1
-- ⏳ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53
-- ⏳ 17.10 16:30 Union Berlin – B. Dortmund · MS 2 · @1.45
+- ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.53 · korner 0-12
+- ❌ 17.10 16:30 Union Berlin – B. Dortmund · MS 2 · @1.45 · 0-0
 - ⏳ 17.10 17:00 Manchester City – Ipswich Town · MS 1 & 2.5 Üst · @1.47
 - ⏳ 17.10 17:00 Stockport – Bromley · MS 1 & 2.5 Üst · @1.47
 - ⏳ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.41
