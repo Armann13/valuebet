@@ -1,6 +1,6 @@
 # Tavsiyeler — 18.10.2026
 
-İddaa oranlarının son kaydı: 18.10 23:51 (TR saati)
+İddaa oranlarının son kaydı: 19.10 02:19 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -84,7 +84,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Twente – Utrecht (N1, 18.10): **2-1** — olasılık %15, adil oran 6.61, İddaa oranı yok
 • Kifisia – Aris (G1, 18.10): **1-1** — olasılık %15, adil oran 6.72, İddaa oranı yok _(sadece model)_
 • Kalamata – OFI Crete (G1, 18.10): **1-1** — olasılık %15, adil oran 6.83, İddaa oranı yok
-• Getafe – Vallecano (SP1, 19.10 22:00): **1-1** — olasılık %15, adil oran 6.87, İddaa 5.01 (değer -27%)
+• Getafe – Vallecano (SP1, 19.10 22:00): **1-1** — olasılık %15, adil oran 6.87, İddaa 4.95 (değer -28%)
 
 ## 🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 
@@ -93,13 +93,13 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Twente – Utrecht (N1, 18.10): **2-1** — olasılık %15, adil oran 6.61, İddaa oranı yok
 • Kifisia – Aris (G1, 18.10): **1-1** — olasılık %15, adil oran 6.72, İddaa oranı yok _(sadece model)_
 • Kalamata – OFI Crete (G1, 18.10): **1-1** — olasılık %15, adil oran 6.83, İddaa oranı yok
-• Getafe – Vallecano (SP1, 19.10 22:00): **1-1** — olasılık %15, adil oran 6.87, İddaa 5.01 (değer -27%)
+• Getafe – Vallecano (SP1, 19.10 22:00): **1-1** — olasılık %15, adil oran 6.87, İddaa 4.95 (değer -28%)
 • Burgos – Sabadell (SP2, 18.10): **1-0** — olasılık %15, adil oran 6.89, İddaa oranı yok _(sadece model)_
 • Celta – Alaves (SP1, 18.10): **1-1** — olasılık %14, adil oran 6.94, İddaa oranı yok
 • AC Monza – Cagliari (I1, 19.10 19:30): **1-1** — olasılık %14, adil oran 6.98, İddaa 5.11 (değer -27%)
 • Cesena – Avellino (I2, 18.10): **1-1** — olasılık %14, adil oran 7.05, İddaa oranı yok
 • Lorient – Monaco (F1, 18.10): **1-1** — olasılık %14, adil oran 7.12, İddaa oranı yok
-• Tottenham – Coventry (E0, 19.10 22:00): **2-1** — olasılık %14, adil oran 7.21, İddaa 7.27 (değer +1%)
+• Tottenham – Coventry (E0, 19.10 22:00): **2-1** — olasılık %14, adil oran 7.19, İddaa 7.27 (değer +1%)
 • Braga – Gil Vicente (P1, 19.10 22:15): **1-0** — olasılık %14, adil oran 7.26, İddaa 5.20 (değer -28%)
 • Kasimpasa – Samsunspor (T1, 18.10): **1-1** — olasılık %14, adil oran 7.29, İddaa oranı yok
 • PAOK – Iraklis (G1, 18.10): **2-0** — olasılık %14, adil oran 7.29, İddaa oranı yok
