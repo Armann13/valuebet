@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**86/117 tuttu** (isabet %74, beklenen %77) · -11.97 birim · 6 tahmin sonuç bekliyor
+**88/120 tuttu** (isabet %73, beklenen %77) · -12.57 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,15 +24,15 @@
 
 **21:00 · PAOK – POT Iraklis**
 
-- ⏳ MS 1 · @1.20
+- ✅ MS 1 · @1.20 · 2-1
 
 **21:00 · Twente – Utrecht**
 
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ Korner 12.5 Alt · @1.20 · korner 5-4
 
 **21:45 · Juventus – Lazio**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ❌ Korner 11.5 Alt · @1.22 · korner 5-7
 
 ## 17.10.2026 Cumartesi
 

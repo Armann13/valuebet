@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/89 tuttu** (isabet %30, beklenen %33) · -16.47 birim · 8 tahmin sonuç bekliyor
+**27/92 tuttu** (isabet %29, beklenen %33) · -19.47 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,11 +36,11 @@
 
 **20:30 · Sampdoria – SS Arezzo**
 
-- ⏳ En çok korner 2 · @2.45
+- ❌ En çok korner 2 · @2.45 · korner 10-4
 
 **21:00 · NEC Nijmegen – Fortuna Sittard**
 
-- ⏳ KG Yok · @2.38
+- ❌ KG Yok · @2.38 · 2-2
 
 **21:45 · Lyon – Nice**
 
@@ -48,7 +48,7 @@
 
 **21:45 · Juventus – Lazio**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.99
+- ❌ ↳ Korner 7.5 Alt · @2.99 · korner 5-7
 
 ## 17.10.2026 Cumartesi
 

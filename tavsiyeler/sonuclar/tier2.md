@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/150 tuttu** (isabet %61, beklenen %63) · -11.52 birim · 9 tahmin sonuç bekliyor
+**92/151 tuttu** (isabet %61, beklenen %63) · -12.52 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,7 +37,7 @@
 
 **21:45 · Juventus – Lazio**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ ↳ Korner 10.5 Alt · @1.41 · korner 5-7
 
 ## 17.10.2026 Cumartesi
 

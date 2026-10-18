@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**176/310 tuttu** (isabet %57, beklenen %62) · -36.83 birim · 15 tahmin sonuç bekliyor
+**178/317 tuttu** (isabet %56, beklenen %61) · -40.60 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -79,19 +79,19 @@
 
 **20:30 · Sampdoria – SS Arezzo**
 
-- ⏳ 🟣 En çok korner 2 · @2.45
+- ❌ 🟣 En çok korner 2 · @2.45 · korner 10-4
 
 **21:00 · Twente – Utrecht**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.03
+- ✅ 🟢 Korner 12.5 Alt · @1.20 · korner 5-4
+- ✅ 🔴 ↳ Korner 9.5 Alt · @2.03 · korner 5-4
 
 **21:45 · Juventus – Lazio**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.18
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.99
+- ❌ 🟢 Korner 11.5 Alt · @1.22 · korner 5-7
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.18 · korner 5-7
+- ❌ 🟣 ↳ Korner 7.5 Alt · @2.99 · korner 5-7
 
 ## 17.10.2026 Cumartesi
 

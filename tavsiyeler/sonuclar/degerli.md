@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/34 tuttu** (isabet %62, beklenen %45) · +14.21 birim · 4 tahmin sonuç bekliyor
+**23/37 tuttu** (isabet %62, beklenen %45) · +15.91 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,11 +32,15 @@
 
 **21:00 · PAOK – POT Iraklis**
 
-- ⏳ MS 1 & KG Var · @2.93
+- ✅ MS 1 & KG Var · @2.93 · 2-1
 
 **21:00 · Twente – Utrecht**
 
-- ⏳ MS 1 & KG Var · @2.32
+- ❌ MS 1 & KG Var · @2.32 · 1-2
+
+**21:45 · Lyon – Nice**
+
+- ✅ MS 1 · @1.77 · 2-1
 
 ## 17.10.2026 Cumartesi
 

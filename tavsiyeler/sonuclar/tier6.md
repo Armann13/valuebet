@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**23/230 tuttu** (isabet %10, beklenen %11) · -65.65 birim · 15 tahmin sonuç bekliyor
+**25/236 tuttu** (isabet %11, beklenen %11) · -57.35 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -84,24 +84,24 @@
 
 **20:30 · Sampdoria – SS Arezzo**
 
-- ⏳ 1-1 · @5.56
+- ❌ 1-1 · @5.56 · 1-2
 
 **21:00 · PAOK – POT Iraklis**
 
-- ⏳ 2-1 · @6.77
-- ⏳ 2-0 · @4.66
+- ✅ 2-1 · @6.77 · 2-1
+- ❌ 2-0 · @4.66 · 2-1
 
 **21:00 · NEC Nijmegen – Fortuna Sittard**
 
-- ⏳ 2-0 · @9.57
+- ❌ 2-0 · @9.57 · 2-2
 
 **21:45 · Lyon – Nice**
 
-- ⏳ 2-1 · @7.53
+- ✅ 2-1 · @7.53 · 2-1
 
 **21:45 · Juventus – Lazio**
 
-- ⏳ 1-0 · @5.91
+- ❌ 1-0 · @5.91 · 0-3
 
 ## 17.10.2026 Cumartesi
 
