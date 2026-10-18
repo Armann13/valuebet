@@ -2,19 +2,35 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/213 tuttu** (isabet %9, beklenen %11) · -73.67 birim · 16 tahmin sonuç bekliyor
+**20/213 tuttu** (isabet %9, beklenen %11) · -73.67 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**19:30 · AC Monza – Cagliari**
+
+- ⏳ 1-1 · @5.11
+
+**20:00 · Trabzonspor – Beşiktaş**
+
+- ⏳ 0-1 · @10.55
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ 2-1 · @7.30
 
 ## 18.10.2026 Pazar
 
 **14:30 · Arminia Bielefeld – Osnabruck**
 
 - ⏳ 1-1 · @6.70
+- ⏳ 2-1 · @7.54
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
 - ⏳ 1-1 · @6.96
+- ⏳ 2-1 · @8.29
 
 **15:00 · AD Ceuta – Real Oviedo**
 
@@ -29,13 +45,30 @@
 
 - ⏳ 1-2 · @7.85
 
+**16:00 · Kocaelispor – Göztepe**
+
+- ⏳ 1-2 · @8.70
+
 **16:30 · B. Leverkusen – Freiburg**
 
 - ⏳ 2-0 · @9.48
+- ⏳ 1-1 · @7.84
+
+**17:15 · Granada – Cadiz**
+
+- ⏳ 1-0 · @6.30
+
+**17:15 · Celta Vigo – Alaves**
+
+- ⏳ 2-1 · @8.78
 
 **17:45 · Groningen – Ajax**
 
 - ⏳ 1-1 · @7.68
+
+**18:15 · Lorient – Monaco**
+
+- ⏳ 1-1 · @5.48
 
 **18:30 · Nottingham Forest – Arsenal**
 
@@ -48,6 +81,18 @@
 **20:30 · Sampdoria – SS Arezzo**
 
 - ⏳ 1-1 · @5.56
+
+**21:00 · PAOK – POT Iraklis**
+
+- ⏳ 2-1 · @6.77
+
+**21:00 · NEC Nijmegen – Fortuna Sittard**
+
+- ⏳ 2-0 · @9.57
+
+**21:45 · Lyon – Nice**
+
+- ⏳ 2-1 · @7.53
 
 ## 17.10.2026 Cumartesi
 

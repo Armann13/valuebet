@@ -2,15 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/145 tuttu** (isabet %61, beklenen %63) · -11.03 birim · 9 tahmin sonuç bekliyor
+**89/145 tuttu** (isabet %61, beklenen %63) · -11.03 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**19:30 · AC Monza – Cagliari**
+
+- ⏳ En çok korner 1 · @1.49
 
 ## 18.10.2026 Pazar
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
 - ⏳ En çok korner 1 · @1.60
+- ⏳ 2.5 Üst · @1.47
+
+**14:30 · Arminia Bielefeld – Osnabruck**
+
+- ⏳ 2.5 Üst · @1.64
 
 **16:00 · Bournemouth – Sunderland**
 

@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**162/290 tuttu** (isabet %56, beklenen %61) · -40.88 birim · 18 tahmin sonuç bekliyor
+**162/290 tuttu** (isabet %56, beklenen %61) · -40.88 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**19:30 · AC Monza – Cagliari**
+
+- ⏳ 🟡 En çok korner 1 · @1.49
+- ⏳ 🎰 En çok korner 1 · @1.49
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ 🟢 En çok korner 1 · @1.25
 
 ## 18.10.2026 Pazar
 
@@ -13,6 +24,7 @@
 - ⏳ 🟢 En çok korner 1 · @1.30
 - ⏳ 🎰 En çok korner 1 · @1.30
 - ⏳ 🎰 En çok korner 1 · @1.30
+- ⏳ 🎰 En çok korner 1 · @1.33
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
@@ -28,11 +40,18 @@
 - ⏳ 🟡 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 
 **16:00 · Fiorentina – Como 1907**
 
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
 - ⏳ 🎰 Korner 10.5 Alt · @1.30
+- ⏳ 🟣 ↳ Korner 6.5 Alt · @3.66
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.53
+
+**16:00 · Kocaelispor – Göztepe**
+
+- ⏳ 🔴 En çok korner 1 · @1.90
 
 **16:30 · B. Leverkusen – Freiburg**
 
@@ -41,6 +60,10 @@
 **17:45 · Groningen – Ajax**
 
 - ⏳ 🔴 En çok korner 1 · @2.91
+
+**18:15 · Lorient – Monaco**
+
+- ⏳ 🟣 Korner 7.5 Alt · @2.61
 
 **19:00 · AC Milan – Atalanta**
 

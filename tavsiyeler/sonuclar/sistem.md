@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**123/222 tuttu** (isabet %55, beklenen %66) · -39.77 birim · 11 tahmin sonuç bekliyor
+**123/222 tuttu** (isabet %55, beklenen %66) · -39.77 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.10 14:19 gönderilen kupon · 5'de 3
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.33
+- ⏳ 18.10 14:30 Karlsruhe – Darmstadt 98 · 2.5 Üst · @1.47
+- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41
+- ⏳ 18.10 16:00 Fiorentina – Como 1907 · ↳ Korner 9.5 Alt · @1.53
+- ⏳ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.49
 
 ## 17.10 18:45 gönderilen kupon · 5'de 3
 

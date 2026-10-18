@@ -2,15 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/38 tuttu** (isabet %18, beklenen %16) · -0.14 birim · 2 tahmin sonuç bekliyor
+**7/38 tuttu** (isabet %18, beklenen %16) · -0.14 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**21:45 · Parma – Torino**
+
+- ⏳ 1-1 · @4.98
 
 ## 18.10.2026 Pazar
 
 **17:00 · Paneitolikos – Olympiacos**
 
 - ⏳ 0-1 · @4.77
+
+**17:30 · Panathinaikos – Asteras Tripolis**
+
+- ⏳ 2-0 · @4.59
 
 **21:00 · Twente – Utrecht**
 

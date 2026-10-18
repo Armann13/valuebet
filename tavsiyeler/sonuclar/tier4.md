@@ -2,15 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/84 tuttu** (isabet %29, beklenen %33) · -20.84 birim · 6 tahmin sonuç bekliyor
+**24/84 tuttu** (isabet %29, beklenen %33) · -20.84 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 19.10.2026 Pazartesi
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ MS 1 & KG Var · @2.70
+
 ## 18.10.2026 Pazar
+
+**16:00 · Fiorentina – Como 1907**
+
+- ⏳ ↳ Korner 6.5 Alt · @3.66
 
 **16:30 · B. Leverkusen – Freiburg**
 
 - ⏳ KG Yok · @2.36
+
+**17:15 · Celta Vigo – Alaves**
+
+- ⏳ MS 1 & 2.5 Üst · @4.20
+
+**18:15 · Lorient – Monaco**
+
+- ⏳ Korner 7.5 Alt · @2.61
 
 **19:00 · AC Milan – Atalanta**
 
@@ -19,6 +37,14 @@
 **20:30 · Sampdoria – SS Arezzo**
 
 - ⏳ En çok korner 2 · @2.45
+
+**21:00 · NEC Nijmegen – Fortuna Sittard**
+
+- ⏳ KG Yok · @2.38
+
+**21:45 · Lyon – Nice**
+
+- ⏳ İY/MS 1/1 · @2.58
 
 ## 17.10.2026 Cumartesi
 

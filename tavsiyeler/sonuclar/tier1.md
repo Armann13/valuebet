@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**84/115 tuttu** (isabet %73, beklenen %77) · -12.55 birim · 4 tahmin sonuç bekliyor
+**84/115 tuttu** (isabet %73, beklenen %77) · -12.55 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.10.2026 Pazartesi
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ En çok korner 1 · @1.25
 
 ## 18.10.2026 Pazar
 
