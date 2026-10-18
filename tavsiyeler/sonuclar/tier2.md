@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/150 tuttu** (isabet %61, beklenen %63) · -11.52 birim · 7 tahmin sonuç bekliyor
+**92/150 tuttu** (isabet %61, beklenen %63) · -11.52 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **19:30 · AC Monza – Cagliari**
 
 - ⏳ En çok korner 1 · @1.49
+
+**22:15 · Braga – Gil Vicente**
+
+- ⏳ Korner 9.5 Alt · @1.54
 
 ## 18.10.2026 Pazar
 
@@ -30,6 +34,10 @@
 **16:00 · Fiorentina – Como 1907**
 
 - ❌ ↳ Korner 9.5 Alt · @1.54 · korner 11-5
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
 
 ## 17.10.2026 Cumartesi
 

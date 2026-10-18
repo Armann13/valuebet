@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**86/117 tuttu** (isabet %74, beklenen %77) · -11.97 birim · 3 tahmin sonuç bekliyor
+**86/117 tuttu** (isabet %74, beklenen %77) · -11.97 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,6 +21,18 @@
 **16:30 · B. Leverkusen – Freiburg**
 
 - ✅ En çok korner 1 · @1.28 · korner 4-3
+
+**21:00 · PAOK – POT Iraklis**
+
+- ⏳ MS 1 · @1.20
+
+**21:00 · Twente – Utrecht**
+
+- ⏳ Korner 12.5 Alt · @1.20
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ Korner 11.5 Alt · @1.22
 
 ## 17.10.2026 Cumartesi
 

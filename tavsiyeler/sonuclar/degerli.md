@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/32 tuttu** (isabet %66, beklenen %45) · +16.21 birim · 6 tahmin sonuç bekliyor
+**21/34 tuttu** (isabet %62, beklenen %45) · +14.21 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,8 +27,8 @@
 
 **17:45 · Groningen – Ajax**
 
-- ⏳ 2.5 Alt · @2.82
-- ⏳ KG Yok · @2.78
+- ❌ 2.5 Alt · @2.82 · 2-5
+- ❌ KG Yok · @2.78 · 2-5
 
 **21:00 · PAOK – POT Iraklis**
 

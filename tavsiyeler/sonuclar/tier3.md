@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**56/127 tuttu** (isabet %44, beklenen %46) · -11.79 birim · 12 tahmin sonuç bekliyor
+**58/131 tuttu** (isabet %44, beklenen %46) · -11.08 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **20:00 · Trabzonspor – Beşiktaş**
 
 - ⏳ KG Yok · @2.38
+- ⏳ En çok korner 1 · @2.00
 
 ## 18.10.2026 Pazar
 
@@ -25,20 +26,29 @@
 
 **17:15 · Granada – Cadiz**
 
-- ⏳ KG Yok · @1.80
+- ✅ KG Yok · @1.80 · 2-0
 
 **17:45 · Groningen – Ajax**
 
-- ⏳ 2.5 Alt · @2.82
-- ⏳ En çok korner 1 · @2.91
+- ❌ 2.5 Alt · @2.82 · 2-5
+- ✅ En çok korner 1 · @2.91 · korner 7-4
 
 **18:30 · Nottingham Forest – Arsenal**
 
-- ⏳ KG Var · @1.80
+- ❌ KG Var · @1.80 · 0-1
 
 **21:00 · PAOK – POT Iraklis**
 
 - ⏳ MS 1 & KG Var · @2.93
+
+**21:00 · Twente – Utrecht**
+
+- ⏳ MS 1 & KG Var · @2.37
+- ⏳ ↳ Korner 9.5 Alt · @2.03
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.18
 
 ## 17.10.2026 Cumartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/86 tuttu** (isabet %28, beklenen %33) · -22.84 birim · 10 tahmin sonuç bekliyor
+**27/89 tuttu** (isabet %30, beklenen %33) · -16.47 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,15 +24,15 @@
 
 **17:15 · Celta Vigo – Alaves**
 
-- ⏳ MS 1 & 2.5 Üst · @4.20
+- ✅ MS 1 & 2.5 Üst · @4.20 · 2-1
 
 **18:15 · Lorient – Monaco**
 
-- ⏳ Korner 7.5 Alt · @2.61
+- ✅ Korner 7.5 Alt · @2.61 · korner 3-4
 
 **19:00 · AC Milan – Atalanta**
 
-- ⏳ Korner 7.5 Alt · @2.56
+- ✅ Korner 7.5 Alt · @2.56 · korner 2-2
 
 **20:30 · Sampdoria – SS Arezzo**
 
@@ -45,6 +45,10 @@
 **21:45 · Lyon – Nice**
 
 - ⏳ İY/MS 1/1 · @2.58
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.99
 
 ## 17.10.2026 Cumartesi
 

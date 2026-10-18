@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/39 tuttu** (isabet %18, beklenen %16) · -1.14 birim · 3 tahmin sonuç bekliyor
+**7/40 tuttu** (isabet %18, beklenen %16) · -2.14 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,10 @@
 
 - ⏳ 1-1 · @4.98
 
+**22:00 · Getafe – Vallecano**
+
+- ⏳ 1-1 · @5.01
+
 ## 18.10.2026 Pazar
 
 **17:00 · Paneitolikos – Olympiacos**
@@ -20,7 +24,7 @@
 
 **17:30 · Panathinaikos – Asteras Tripolis**
 
-- ⏳ 2-0 · @4.59
+- ❌ 2-0 · @4.59 · 5-1
 
 **21:00 · Twente – Utrecht**
 

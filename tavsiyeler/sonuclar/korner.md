@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**173/307 tuttu** (isabet %56, beklenen %62) · -41.91 birim · 10 tahmin sonuç bekliyor
+**176/310 tuttu** (isabet %57, beklenen %62) · -36.83 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -13,9 +13,17 @@
 - ⏳ 🟡 En çok korner 1 · @1.49
 - ⏳ 🎰 En çok korner 1 · @1.49
 
+**20:00 · Trabzonspor – Beşiktaş**
+
+- ⏳ 🔴 En çok korner 1 · @2.00
+
 **22:00 · Tottenham – Coventry**
 
 - ⏳ 🟢 En çok korner 1 · @1.25
+
+**22:15 · Braga – Gil Vicente**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.54
 
 ## 18.10.2026 Pazar
 
@@ -59,19 +67,31 @@
 
 **17:45 · Groningen – Ajax**
 
-- ⏳ 🔴 En çok korner 1 · @2.91
+- ✅ 🔴 En çok korner 1 · @2.91 · korner 7-4
 
 **18:15 · Lorient – Monaco**
 
-- ⏳ 🟣 Korner 7.5 Alt · @2.61
+- ✅ 🟣 Korner 7.5 Alt · @2.61 · korner 3-4
 
 **19:00 · AC Milan – Atalanta**
 
-- ⏳ 🟣 Korner 7.5 Alt · @2.56
+- ✅ 🟣 Korner 7.5 Alt · @2.56 · korner 2-2
 
 **20:30 · Sampdoria – SS Arezzo**
 
 - ⏳ 🟣 En çok korner 2 · @2.45
+
+**21:00 · Twente – Utrecht**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.20
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.03
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.18
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.99
 
 ## 17.10.2026 Cumartesi
 

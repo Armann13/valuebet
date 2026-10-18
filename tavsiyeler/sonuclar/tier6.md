@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/224 tuttu** (isabet %10, beklenen %11) · -68.43 birim · 18 tahmin sonuç bekliyor
+**23/230 tuttu** (isabet %10, beklenen %11) · -65.65 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,6 +19,10 @@
 **22:00 · Tottenham – Coventry**
 
 - ⏳ 2-1 · @7.30
+
+**22:15 · Braga – Gil Vicente**
+
+- ⏳ 1-0 · @5.20
 
 ## 18.10.2026 Pazar
 
@@ -56,27 +60,27 @@
 
 **17:15 · Granada – Cadiz**
 
-- ⏳ 1-0 · @6.30
+- ❌ 1-0 · @6.30 · 2-0
 
 **17:15 · Celta Vigo – Alaves**
 
-- ⏳ 2-1 · @8.78
+- ✅ 2-1 · @8.78 · 2-1
 
 **17:45 · Groningen – Ajax**
 
-- ⏳ 1-1 · @7.68
+- ❌ 1-1 · @7.68 · 2-5
 
 **18:15 · Lorient – Monaco**
 
-- ⏳ 1-1 · @5.48
+- ❌ 1-1 · @5.48 · 1-0
 
 **18:30 · Nottingham Forest – Arsenal**
 
-- ⏳ 1-1 · @6.22
+- ❌ 1-1 · @6.22 · 0-1
 
 **19:00 · AC Milan – Atalanta**
 
-- ⏳ 2-1 · @7.42
+- ❌ 2-1 · @7.42 · 3-2
 
 **20:30 · Sampdoria – SS Arezzo**
 
@@ -85,6 +89,7 @@
 **21:00 · PAOK – POT Iraklis**
 
 - ⏳ 2-1 · @6.77
+- ⏳ 2-0 · @4.66
 
 **21:00 · NEC Nijmegen – Fortuna Sittard**
 
@@ -93,6 +98,10 @@
 **21:45 · Lyon – Nice**
 
 - ⏳ 2-1 · @7.53
+
+**21:45 · Juventus – Lazio**
+
+- ⏳ 1-0 · @5.91
 
 ## 17.10.2026 Cumartesi
 
