@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**162/290 tuttu** (isabet %56, beklenen %61) · -40.88 birim · 27 tahmin sonuç bekliyor
+**173/307 tuttu** (isabet %56, beklenen %62) · -41.91 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,41 +21,41 @@
 
 **14:30 · Arminia Bielefeld – Osnabruck**
 
-- ⏳ 🟢 En çok korner 1 · @1.30
-- ⏳ 🎰 En çok korner 1 · @1.30
-- ⏳ 🎰 En çok korner 1 · @1.30
-- ⏳ 🎰 En çok korner 1 · @1.33
+- ✅ 🟢 En çok korner 1 · @1.30 · korner 6-0
+- ✅ 🎰 En çok korner 1 · @1.30 · korner 6-0
+- ✅ 🎰 En çok korner 1 · @1.30 · korner 6-0
+- ✅ 🎰 En çok korner 1 · @1.33 · korner 6-0
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
-- ⏳ 🟡 En çok korner 1 · @1.60
-- ⏳ 🎰 En çok korner 1 · @1.60
+- ❌ 🟡 En çok korner 1 · @1.60 · korner 4-4
+- ❌ 🎰 En çok korner 1 · @1.60 · korner 4-4
 
 **15:00 · AD Ceuta – Real Oviedo**
 
-- ⏳ 🔴 En çok korner 1 · @1.94
+- ✅ 🔴 En çok korner 1 · @1.94 · korner 15-2
 
 **16:00 · Bournemouth – Sunderland**
 
-- ⏳ 🟡 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.40 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.40 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 5-3
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 5-3
 
 **16:00 · Fiorentina – Como 1907**
 
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
-- ⏳ 🎰 Korner 10.5 Alt · @1.30
-- ⏳ 🟣 ↳ Korner 6.5 Alt · @3.66
-- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.53
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.54 · korner 11-5
+- ❌ 🎰 Korner 10.5 Alt · @1.30 · korner 11-5
+- ❌ 🟣 ↳ Korner 6.5 Alt · @3.66 · korner 11-5
+- ❌ 🎰 ↳ Korner 9.5 Alt · @1.53 · korner 11-5
 
 **16:00 · Kocaelispor – Göztepe**
 
-- ⏳ 🔴 En çok korner 1 · @1.90
+- ✅ 🔴 En çok korner 1 · @1.90 · korner 5-1
 
 **16:30 · B. Leverkusen – Freiburg**
 
-- ⏳ 🟢 En çok korner 1 · @1.28
+- ✅ 🟢 En çok korner 1 · @1.28 · korner 4-3
 
 **17:45 · Groningen – Ajax**
 

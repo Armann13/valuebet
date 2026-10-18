@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**54/124 tuttu** (isabet %44, beklenen %46) · -12.63 birim · 15 tahmin sonuç bekliyor
+**56/127 tuttu** (isabet %44, beklenen %46) · -11.79 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,12 +16,12 @@
 
 **15:00 · AD Ceuta – Real Oviedo**
 
-- ⏳ KG Yok · @1.82
-- ⏳ En çok korner 1 · @1.94
+- ❌ KG Yok · @1.82 · 1-2
+- ✅ En çok korner 1 · @1.94 · korner 15-2
 
 **16:00 · Kocaelispor – Göztepe**
 
-- ⏳ En çok korner 1 · @1.90
+- ✅ En çok korner 1 · @1.90 · korner 5-1
 
 **17:15 · Granada – Cadiz**
 

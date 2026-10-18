@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/28 tuttu** (isabet %64, beklenen %46) · +12.40 birim · 8 tahmin sonuç bekliyor
+**21/32 tuttu** (isabet %66, beklenen %45) · +16.21 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,9 +17,13 @@
 
 **14:30 · Arminia Bielefeld – Osnabruck**
 
-- ⏳ MS 1 & 2.5 Üst · @2.66
-- ⏳ MS 1 & KG Var · @3.51
-- ⏳ 2.5 Üst · @1.64
+- ✅ MS 1 & 2.5 Üst · @2.66 · 2-1
+- ✅ MS 1 & KG Var · @3.51 · 2-1
+- ✅ 2.5 Üst · @1.64 · 2-1
+
+**16:00 · Leeds United – Manchester United**
+
+- ❌ MS 1 & 2.5 Üst · @3.87 · 1-1
 
 **17:45 · Groningen – Ajax**
 
@@ -29,6 +33,10 @@
 **21:00 · PAOK – POT Iraklis**
 
 - ⏳ MS 1 & KG Var · @2.93
+
+**21:00 · Twente – Utrecht**
+
+- ⏳ MS 1 & KG Var · @2.32
 
 ## 17.10.2026 Cumartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/213 tuttu** (isabet %9, beklenen %11) · -73.67 birim · 29 tahmin sonuç bekliyor
+**22/224 tuttu** (isabet %10, beklenen %11) · -68.43 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,35 +24,35 @@
 
 **14:30 · Arminia Bielefeld – Osnabruck**
 
-- ⏳ 1-1 · @6.70
-- ⏳ 2-1 · @7.54
+- ❌ 1-1 · @6.70 · 2-1
+- ✅ 2-1 · @7.54 · 2-1
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
-- ⏳ 1-1 · @6.96
-- ⏳ 2-1 · @8.29
+- ❌ 1-1 · @6.96 · 4-0
+- ❌ 2-1 · @8.29 · 4-0
 
 **15:00 · AD Ceuta – Real Oviedo**
 
-- ⏳ 0-1 · @6.87
-- ⏳ 1-1 · @5.27
+- ❌ 0-1 · @6.87 · 1-2
+- ❌ 1-1 · @5.27 · 1-2
 
 **16:00 · Bournemouth – Sunderland**
 
-- ⏳ 1-1 · @5.53
+- ❌ 1-1 · @5.53 · 2-0
 
 **16:00 · Fiorentina – Como 1907**
 
-- ⏳ 1-2 · @7.85
+- ❌ 1-2 · @7.85 · 1-3
 
 **16:00 · Kocaelispor – Göztepe**
 
-- ⏳ 1-2 · @8.70
+- ✅ 1-2 · @8.70 · 1-2
 
 **16:30 · B. Leverkusen – Freiburg**
 
-- ⏳ 2-0 · @9.48
-- ⏳ 1-1 · @7.84
+- ❌ 2-0 · @9.48 · 2-1
+- ❌ 1-1 · @7.84 · 2-1
 
 **17:15 · Granada – Cadiz**
 

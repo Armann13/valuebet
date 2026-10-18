@@ -1,166 +1,175 @@
 date,div,home,away,fthg,ftag,hthg,htag,hc,ac
 2026-10-03,E3,Exeter,Rotherham,1,0,,,8.0,2.0
-2026-10-03,SP2,Cadiz,Leganes,4,0,,,5.0,4.0
-2026-10-03,SP2,Almeria,Burgos,2,1,,,8.0,3.0
-2026-10-03,SC1,Morton,Raith Rvs,1,2,,,,
-2026-10-03,SP2,Albacete,Eibar,1,3,,,6.0,0.0
-2026-10-03,EC,Yeovil,Boston Utd,6,0,,,,
-2026-10-03,EC,Aldershot,Carlisle,1,3,,,,
-2026-10-03,EC,Gateshead,Worthing,1,2,,,,
 2026-10-03,E3,Gillingham,Newport County,0,0,,,3.0,2.0
+2026-10-03,EC,Gateshead,Worthing,1,2,,,,
+2026-10-03,EC,Aldershot,Carlisle,1,3,,,,
+2026-10-03,EC,Yeovil,Boston Utd,6,0,,,,
 2026-10-03,SC1,Livingston,Ayr,1,2,,,,
+2026-10-03,SC1,Morton,Raith Rvs,1,2,,,,
+2026-10-03,SP2,Almeria,Burgos,2,1,,,8.0,3.0
+2026-10-03,SP2,Cadiz,Leganes,4,0,,,5.0,4.0
+2026-10-03,SP2,Albacete,Eibar,1,3,,,6.0,0.0
 2026-10-04,SP2,Castellon,Ceuta,1,1,,,3.0,7.0
 2026-10-04,SP2,Sociedad B,Granada,2,3,,,1.0,7.0
 2026-10-04,SP2,Girona,Mallorca,0,0,,,5.0,7.0
 2026-10-04,SP2,Las Palmas,Valladolid,2,2,,,3.0,6.0
 2026-10-05,SP2,Cordoba,Tenerife,3,2,,,4.0,8.0
-2026-10-09,N1,PSV Eindhoven,Heerenveen,2,0,,,4.0,6.0
-2026-10-09,F2,Montpellier,Grenoble,2,0,,,7.0,7.0
-2026-10-09,D1,Dortmund,Werder Bremen,2,2,,,9.0,3.0
-2026-10-09,P1,Moreirense,Gil Vicente,0,1,,,4.0,3.0
-2026-10-09,E1,West Ham,QPR,1,1,,,4.0,1.0
-2026-10-09,SP1,Malaga,Espanol,1,1,,,8.0,2.0
 2026-10-09,D2,Braunschweig,Holstein Kiel,1,0,,,2.0,3.0
-2026-10-09,D2,Heidenheim,Kaiserslautern,0,0,,,7.0,8.0
 2026-10-09,B1,Beveren,Lommel SK,1,3,,,12.0,6.0
+2026-10-09,D2,Heidenheim,Kaiserslautern,0,0,,,7.0,8.0
+2026-10-09,SP1,Malaga,Espanol,1,1,,,8.0,2.0
+2026-10-09,E1,West Ham,QPR,1,1,,,4.0,1.0
+2026-10-09,P1,Moreirense,Gil Vicente,0,1,,,4.0,3.0
+2026-10-09,D1,Dortmund,Werder Bremen,2,2,,,9.0,3.0
+2026-10-09,F2,Montpellier,Grenoble,2,0,,,7.0,7.0
+2026-10-09,N1,PSV Eindhoven,Heerenveen,2,0,,,4.0,6.0
+2026-10-10,D1,Paderborn,Stuttgart,0,2,,,7.0,5.0
+2026-10-10,E0,Chelsea,Bournemouth,5,1,,,1.0,7.0
+2026-10-10,SC1,Inverness C,Stenhousemuir,2,0,,,,
+2026-10-10,D1,RB Leipzig,Ein Frankfurt,6,0,,,3.0,6.0
+2026-10-10,SC1,Raith Rvs,Queens Park,2,0,,,,
+2026-10-10,D1,Hoffenheim,Hamburg,2,3,,,7.0,3.0
+2026-10-10,SC0,Dundee,Hibernian,1,0,,,8.0,3.0
+2026-10-10,B1,Cercle Brugge,Anderlecht,1,2,,,5.0,5.0
+2026-10-10,E1,Preston,Millwall,0,1,,,4.0,4.0
+2026-10-10,E1,Derby,Wrexham,1,1,,,1.0,9.0
+2026-10-10,I2,Arezzo,Cremonese,0,0,,,3.0,1.0
+2026-10-10,E0,Aston Villa,Brentford,2,2,,,2.0,2.0
+2026-10-10,E1,West Brom,Birmingham,0,1,,,7.0,9.0
+2026-10-10,P1,Casa Pia,Santa Clara,0,1,,,3.0,7.0
+2026-10-10,SP1,Real Madrid,Villarreal,1,0,,,9.0,3.0
+2026-10-10,D2,Darmstadt,Cottbus,3,1,,,7.0,8.0
+2026-10-10,D1,Union Berlin,Elversberg,1,0,,,7.0,3.0
+2026-10-10,N1,For Sittard,Twente,1,1,,,5.0,7.0
 2026-10-10,E3,York,Northampton,1,1,,,8.0,4.0
 2026-10-10,F1,Lille,Le Havre,1,0,,,4.0,5.0
 2026-10-10,E1,Bolton,Stoke,1,2,,,10.0,4.0
 2026-10-10,E2,Leicester,Peterboro,1,3,,,8.0,8.0
-2026-10-10,N1,Go Ahead Eagles,Sparta Rotterdam,3,3,,,9.0,6.0
 2026-10-10,SC0,Rangers,Kilmarnock,3,1,,,8.0,3.0
 2026-10-10,D1,Augsburg,Bayern Munich,2,2,,,5.0,9.0
 2026-10-10,EC,Worthing,Solihull,5,0,,,,
-2026-10-10,I1,Napoli,Frosinone,3,0,,,6.0,4.0
+2026-10-10,N1,Go Ahead Eagles,Sparta Rotterdam,3,3,,,9.0,6.0
 2026-10-10,F1,Paris SG,Le Mans,3,1,,,4.0,4.0
 2026-10-10,E1,Sheffield United,Lincoln,3,0,,,2.0,2.0
 2026-10-10,N1,Ajax,Nijmegen,1,1,,,4.0,4.0
 2026-10-10,F2,Clermont,Red Star,2,3,,,6.0,3.0
 2026-10-10,P1,Maritimo,Porto,1,2,,,2.0,6.0
 2026-10-10,N1,Feyenoord,AZ Alkmaar,2,0,,,7.0,6.0
-2026-10-10,N1,For Sittard,Twente,1,1,,,5.0,7.0
+2026-10-10,I1,Napoli,Frosinone,3,0,,,6.0,4.0
 2026-10-10,EC,Altrincham,Aldershot,3,1,,,,
-2026-10-10,D2,Darmstadt,Cottbus,3,1,,,7.0,8.0
-2026-10-10,E1,Preston,Millwall,0,1,,,4.0,4.0
-2026-10-10,D1,Paderborn,Stuttgart,0,2,,,7.0,5.0
-2026-10-10,E0,Chelsea,Bournemouth,5,1,,,1.0,7.0
-2026-10-10,D1,Union Berlin,Elversberg,1,0,,,7.0,3.0
-2026-10-10,SC1,Inverness C,Stenhousemuir,2,0,,,,
-2026-10-10,D1,RB Leipzig,Ein Frankfurt,6,0,,,3.0,6.0
-2026-10-10,SC1,Raith Rvs,Queens Park,2,0,,,,
-2026-10-10,D1,Hoffenheim,Hamburg,2,3,,,7.0,3.0
-2026-10-10,SC0,Dundee,Hibernian,1,0,,,8.0,3.0
-2026-10-10,SP1,Real Madrid,Villarreal,1,0,,,9.0,3.0
-2026-10-10,B1,Cercle Brugge,Anderlecht,1,2,,,5.0,5.0
-2026-10-10,E1,Derby,Wrexham,1,1,,,1.0,9.0
-2026-10-10,I2,Arezzo,Cremonese,0,0,,,3.0,1.0
-2026-10-10,E0,Aston Villa,Brentford,2,2,,,2.0,2.0
-2026-10-10,E1,West Brom,Birmingham,0,1,,,7.0,9.0
-2026-10-10,P1,Casa Pia,Santa Clara,0,1,,,3.0,7.0
-2026-10-11,SP2,Mallorca,Las Palmas,3,1,,,7.0,2.0
-2026-10-11,D2,St Pauli,Karlsruhe,2,0,,,6.0,9.0
-2026-10-11,B1,Westerlo,Antwerp,5,1,,,3.0,3.0
-2026-10-11,SP1,Sociedad,La Coruna,3,2,,,7.0,10.0
-2026-10-11,N1,Zwolle,Cambuur,0,1,,,5.0,5.0
-2026-10-11,N1,Utrecht,Willem II,3,1,,,7.0,3.0
-2026-10-11,T1,Besiktas,Kocaelispor,2,1,,,4.0,7.0
-2026-10-11,E0,Crystal Palace,Nott'm Forest,3,1,,,5.0,8.0
 2026-10-11,D2,Hertha,Greuther Furth,2,1,,,5.0,12.0
-2026-10-11,I1,Cagliari,Juventus,1,1,,,1.0,9.0
-2026-10-11,T1,Gaziantep,Corum,0,3,,,10.0,5.0
-2026-10-11,E0,Liverpool,Man City,0,3,,,5.0,6.0
-2026-10-11,SC0,Motherwell,Celtic,0,2,,,2.0,9.0
-2026-10-11,G1,Iraklis,Levadeiakos,2,0,,,2.0,2.0
-2026-10-11,I1,Lazio,Monza,3,1,,,7.0,6.0
 2026-10-11,N1,Excelsior,Groningen,1,5,,,3.0,6.0
-2026-10-12,I1,Atalanta,Venezia,3,1,,,8.0,7.0
-2026-10-12,P1,Famalicao,Alverca,1,4,,,8.0,3.0
-2026-10-12,I1,Torino,Udinese,2,1,,,4.0,3.0
-2026-10-12,F2,Dijon,Metz,4,2,,,3.0,3.0
-2026-10-12,SP2,Oviedo,Eibar,3,1,,,10.0,5.0
-2026-10-12,SP2,Valladolid,Albacete,5,0,,,7.0,5.0
-2026-10-12,SP1,Levante,Sevilla,3,3,,,5.0,2.0
-2026-10-12,SP2,Tenerife,Girona,1,1,,,6.0,3.0
-2026-10-12,SP2,Burgos,Granada,0,1,,,4.0,0.0
-2026-10-12,T1,Eyupspor,Goztep,0,4,,,3.0,7.0
+2026-10-11,I1,Lazio,Monza,3,1,,,7.0,6.0
+2026-10-11,G1,Iraklis,Levadeiakos,2,0,,,2.0,2.0
+2026-10-11,SC0,Motherwell,Celtic,0,2,,,2.0,9.0
+2026-10-11,E0,Liverpool,Man City,0,3,,,5.0,6.0
+2026-10-11,T1,Gaziantep,Corum,0,3,,,10.0,5.0
+2026-10-11,I1,Cagliari,Juventus,1,1,,,1.0,9.0
+2026-10-11,E0,Crystal Palace,Nott'm Forest,3,1,,,5.0,8.0
+2026-10-11,N1,Utrecht,Willem II,3,1,,,7.0,3.0
+2026-10-11,N1,Zwolle,Cambuur,0,1,,,5.0,5.0
+2026-10-11,SP1,Sociedad,La Coruna,3,2,,,7.0,10.0
+2026-10-11,B1,Westerlo,Antwerp,5,1,,,3.0,3.0
+2026-10-11,D2,St Pauli,Karlsruhe,2,0,,,6.0,9.0
+2026-10-11,SP2,Mallorca,Las Palmas,3,1,,,7.0,2.0
+2026-10-11,T1,Besiktas,Kocaelispor,2,1,,,4.0,7.0
 2026-10-12,E0,Coventry,Newcastle,4,1,,,2.0,6.0
-2026-10-13,AVRUPA,Arsenal,Lille,3,0,,,7.0,0.0
-2026-10-13,E1,Stoke,Middlesbrough,2,3,,,4.0,3.0
-2026-10-13,E1,Bristol City,Blackburn,0,1,,,10.0,5.0
-2026-10-13,AVRUPA,Atletico Madrid,Manchester United,2,0,,,2.0,5.0
-2026-10-13,E1,Birmingham,Preston,4,0,,,6.0,3.0
-2026-10-13,E1,Cardiff,Watford,5,1,,,6.0,1.0
-2026-10-13,AVRUPA,Villarreal,Napoli,3,1,,,4.0,4.0
-2026-10-13,E1,Wrexham,West Brom,1,2,,,3.0,7.0
+2026-10-12,T1,Eyupspor,Goztep,0,4,,,3.0,7.0
+2026-10-12,SP2,Burgos,Granada,0,1,,,4.0,0.0
+2026-10-12,SP2,Tenerife,Girona,1,1,,,6.0,3.0
+2026-10-12,SP1,Levante,Sevilla,3,3,,,5.0,2.0
+2026-10-12,SP2,Oviedo,Eibar,3,1,,,10.0,5.0
+2026-10-12,F2,Dijon,Metz,4,2,,,3.0,3.0
+2026-10-12,I1,Torino,Udinese,2,1,,,4.0,3.0
+2026-10-12,P1,Famalicao,Alverca,1,4,,,8.0,3.0
+2026-10-12,I1,Atalanta,Venezia,3,1,,,8.0,7.0
+2026-10-12,SP2,Valladolid,Albacete,5,0,,,7.0,5.0
 2026-10-13,E1,Millwall,Swansea,0,1,,,13.0,1.0
-2026-10-13,E1,Burnley,Charlton,2,2,,,7.0,7.0
-2026-10-13,AVRUPA,Galatasaray,Barcelona,1,4,,,1.0,6.0
-2026-10-13,SC1,Queens Park,Inverness C,2,1,,,,
 2026-10-13,AVRUPA,Leipzig,PSV,1,0,,,6.0,13.0
-2026-10-14,AVRUPA,Slovan Bratislava,Stuttgart,0,3,,,1.0,8.0
-2026-10-14,AVRUPA,Manchester City,Paris Saint Germain,2,4,,,11.0,2.0
-2026-10-14,E1,Portsmouth,Sheffield United,3,2,,,10.0,6.0
-2026-10-14,E1,Norwich,Southampton,0,1,,,5.0,3.0
-2026-10-14,AVRUPA,Real Betis,Porto,3,2,,,5.0,1.0
-2026-10-14,AVRUPA,Shakhtar Donetsk,AEK Athens,3,1,,,5.0,2.0
-2026-10-14,E1,QPR,Derby,4,1,,,1.0,3.0
-2026-10-14,E1,Lincoln,West Ham,0,6,,,3.0,11.0
+2026-10-13,SC1,Queens Park,Inverness C,2,1,,,,
+2026-10-13,AVRUPA,Galatasaray,Barcelona,1,4,,,1.0,6.0
+2026-10-13,E1,Burnley,Charlton,2,2,,,7.0,7.0
+2026-10-13,E1,Wrexham,West Brom,1,2,,,3.0,7.0
+2026-10-13,E1,Stoke,Middlesbrough,2,3,,,4.0,3.0
+2026-10-13,E1,Cardiff,Watford,5,1,,,6.0,1.0
+2026-10-13,E1,Birmingham,Preston,4,0,,,6.0,3.0
+2026-10-13,AVRUPA,Atletico Madrid,Manchester United,2,0,,,2.0,5.0
+2026-10-13,E1,Bristol City,Blackburn,0,1,,,10.0,5.0
+2026-10-13,AVRUPA,Villarreal,Napoli,3,1,,,4.0,4.0
+2026-10-13,AVRUPA,Arsenal,Lille,3,0,,,7.0,0.0
 2026-10-14,AVRUPA,LASK,Liverpool,3,6,,,3.0,11.0
-2026-10-15,AVRUPA,Twente,Thun,1,0,,,6.0,1.0
+2026-10-14,E1,Lincoln,West Ham,0,6,,,3.0,11.0
+2026-10-14,AVRUPA,Shakhtar Donetsk,AEK Athens,3,1,,,5.0,2.0
+2026-10-14,AVRUPA,Real Betis,Porto,3,2,,,5.0,1.0
+2026-10-14,E1,QPR,Derby,4,1,,,1.0,3.0
+2026-10-14,E1,Portsmouth,Sheffield United,3,2,,,10.0,6.0
+2026-10-14,AVRUPA,Manchester City,Paris Saint Germain,2,4,,,11.0,2.0
+2026-10-14,AVRUPA,Slovan Bratislava,Stuttgart,0,3,,,1.0,8.0
+2026-10-14,E1,Norwich,Southampton,0,1,,,5.0,3.0
+2026-10-15,AVRUPA,Benfica,Celtic,4,1,,,8.0,6.0
+2026-10-15,AVRUPA,Mjallby,Inter Club De Escaldes,2,0,,,6.0,3.0
+2026-10-15,AVRUPA,KF Egnatia Rrogozhine,Midtjylland,1,1,,,2.0,6.0
+2026-10-15,AVRUPA,Riga FC,K Almaty,1,1,,,2.0,3.0
+2026-10-15,AVRUPA,Panathinaikos,Banja Luka,2,1,,,11.0,0.0
+2026-10-15,AVRUPA,Sparta Prag,Lillestrom,1,1,,,6.0,1.0
+2026-10-15,AVRUPA,Torreense,Sunderland,1,2,,,2.0,9.0
+2026-10-15,AVRUPA,CSKA Sofya,Monaco,1,2,,,12.0,1.0
+2026-10-15,AVRUPA,Union Saint Gilloise,Real Sociedad,1,1,,,4.0,2.0
+2026-10-15,AVRUPA,Hajduk Split,Ajax,2,1,,,4.0,5.0
+2026-10-15,AVRUPA,NK Celje,Omonia,0,3,,,3.0,6.0
+2026-10-15,AVRUPA,Bournemouth,Sturm Graz,3,0,,,7.0,3.0
+2026-10-15,AVRUPA,Freiburg,Jablonec,3,2,,,5.0,1.0
 2026-10-15,AVRUPA,Brann,Lincoln Red,2,1,,,17.0,2.0
 2026-10-15,AVRUPA,Atalanta,Pafos FC,3,1,,,6.0,2.0
 2026-10-15,AVRUPA,Ferencvaros,Viktoria Plzen,2,1,,,7.0,3.0
 2026-10-15,AVRUPA,St. Truidense,FC Iberia 1999,2,0,,,4.0,0.0
-2026-10-15,AVRUPA,NEC Nijmegen,Levski Sofya,1,1,,,6.0,1.0
+2026-10-15,AVRUPA,Twente,Thun,1,0,,,6.0,1.0
 2026-10-15,AVRUPA,Hoffenheim,Beşiktaş,2,3,,,7.0,5.0
 2026-10-15,AVRUPA,Jagiellonia Bialystok,Ararat,3,1,,,2.0,3.0
 2026-10-15,AVRUPA,Dinamo Zagreb,Anderlecht,1,0,,,6.0,2.0
-2026-10-15,AVRUPA,Bournemouth,Sturm Graz,3,0,,,7.0,3.0
-2026-10-15,AVRUPA,Freiburg,Jablonec,3,2,,,5.0,1.0
-2026-10-15,AVRUPA,Hajduk Split,Ajax,2,1,,,4.0,5.0
-2026-10-15,AVRUPA,NK Celje,Omonia,0,3,,,3.0,6.0
-2026-10-15,AVRUPA,Benfica,Celtic,4,1,,,8.0,6.0
-2026-10-15,AVRUPA,Union Saint Gilloise,Real Sociedad,1,1,,,4.0,2.0
-2026-10-15,AVRUPA,CSKA Sofya,Monaco,1,2,,,12.0,1.0
-2026-10-15,AVRUPA,Torreense,Sunderland,1,2,,,2.0,9.0
-2026-10-15,AVRUPA,Sparta Prag,Lillestrom,1,1,,,6.0,1.0
-2026-10-15,AVRUPA,Panathinaikos,Banja Luka,2,1,,,11.0,0.0
-2026-10-15,AVRUPA,Riga FC,K Almaty,1,1,,,2.0,3.0
-2026-10-15,AVRUPA,KF Egnatia Rrogozhine,Midtjylland,1,1,,,2.0,6.0
-2026-10-15,AVRUPA,Mjallby,Inter Club De Escaldes,2,0,,,6.0,3.0
+2026-10-15,AVRUPA,NEC Nijmegen,Levski Sofya,1,1,,,6.0,1.0
 2026-10-16,D2,Cottbus,Nurnberg,1,1,,,2.0,8.0
 2026-10-16,T1,Corum,Rizespor,2,1,,,2.0,8.0
 2026-10-16,N1,Heerenveen,Excelsior,4,0,,,4.0,1.0
+2026-10-17,D2,Wolfsburg,Heidenheim,3,1,,,8.0,8.0
+2026-10-17,I1,Venezia,Napoli,1,0,,,0.0,12.0
+2026-10-17,F2,Metz,Sochaux,3,2,,,5.0,5.0
+2026-10-17,E1,Watford,Charlton,2,0,,,4.0,3.0
+2026-10-17,E1,Middlesbrough,Cardiff,2,2,,,11.0,4.0
+2026-10-17,E2,Stockport,Bromley,1,0,,,7.0,3.0
+2026-10-17,D1,Schalke 04,Mainz,0,1,,,4.0,1.0
+2026-10-17,SP2,Las Palmas,Castellon,0,3,,,3.0,6.0
+2026-10-17,E0,Man City,Ipswich,3,2,,,2.0,3.0
+2026-10-17,I2,Ascoli,Empoli,1,1,,,6.0,8.0
+2026-10-17,D1,Bayern Munich,RB Leipzig,6,1,,,11.0,3.0
+2026-10-17,D2,Kaiserslautern,Bochum,2,0,,,6.0,4.0
+2026-10-17,SP2,Eibar,Mallorca,1,1,,,5.0,7.0
+2026-10-17,D2,Greuther Furth,Braunschweig,2,0,,,6.0,9.0
+2026-10-17,D1,Union Berlin,Dortmund,0,0,,,5.0,5.0
+2026-10-17,N1,Telstar,Feyenoord,3,4,,,7.0,8.0
 2026-10-17,E2,Wigan,Reading,1,0,,,5.0,5.0
+2026-10-17,SP2,Sociedad B,Almeria,2,4,,,10.0,2.0
 2026-10-17,E1,Birmingham,QPR,3,0,,,0.0,4.0
 2026-10-17,E1,Wrexham,Preston,4,1,,,8.0,2.0
-2026-10-17,E1,Derby,Stoke,0,1,,,7.0,4.0
+2026-10-17,T1,Genclerbirligi,Galatasaray,0,1,,,9.0,10.0
 2026-10-17,E2,Wycombe,Notts County,2,0,,,9.0,3.0
 2026-10-17,E2,Bradford,Stevenage,2,0,,,9.0,3.0
 2026-10-17,E0,Newcastle,Aston Villa,0,1,,,4.0,5.0
 2026-10-17,E3,Colchester,Exeter,0,0,,,5.0,2.0
-2026-10-17,I2,Mantova,Palermo,0,2,,,3.0,3.0
+2026-10-17,E1,Derby,Stoke,0,1,,,7.0,4.0
 2026-10-17,SC1,Inverness C,Arbroath,2,0,,,,
 2026-10-17,E1,Swansea,West Ham,0,1,,,6.0,1.0
 2026-10-17,E1,Norwich,Portsmouth,0,1,,,1.0,1.0
 2026-10-17,E0,Fulham,Hull,1,0,,,10.0,2.0
 2026-10-17,E3,Salford,Crawley Town,2,1,,,5.0,4.0
 2026-10-17,SP1,Villarreal,Elche,0,0,,,10.0,5.0
-2026-10-17,SP2,Sociedad B,Almeria,2,4,,,10.0,2.0
-2026-10-17,T1,Genclerbirligi,Galatasaray,0,1,,,9.0,10.0
-2026-10-17,N1,Telstar,Feyenoord,3,4,,,7.0,8.0
-2026-10-17,D2,Greuther Furth,Braunschweig,2,0,,,6.0,9.0
-2026-10-17,I1,Venezia,Napoli,1,0,,,0.0,12.0
-2026-10-17,F2,Metz,Sochaux,3,2,,,5.0,5.0
-2026-10-17,E1,Watford,Charlton,2,0,,,4.0,3.0
-2026-10-17,E1,Middlesbrough,Cardiff,2,2,,,11.0,4.0
-2026-10-17,E2,Stockport,Bromley,1,0,,,7.0,3.0
-2026-10-17,D2,Wolfsburg,Heidenheim,3,1,,,8.0,8.0
-2026-10-17,D1,Schalke 04,Mainz,0,1,,,4.0,1.0
-2026-10-17,D1,Union Berlin,Dortmund,0,0,,,5.0,5.0
-2026-10-17,E0,Man City,Ipswich,3,2,,,2.0,3.0
-2026-10-17,I2,Ascoli,Empoli,1,1,,,6.0,8.0
-2026-10-17,D1,Bayern Munich,RB Leipzig,6,1,,,11.0,3.0
-2026-10-17,D2,Kaiserslautern,Bochum,2,0,,,6.0,4.0
-2026-10-17,SP2,Eibar,Mallorca,1,1,,,5.0,7.0
-2026-10-17,SP2,Las Palmas,Castellon,0,3,,,3.0,6.0
+2026-10-17,I2,Mantova,Palermo,0,2,,,3.0,3.0
+2026-10-18,SP2,Ceuta,Oviedo,1,2,,,15.0,2.0
+2026-10-18,D1,Leverkusen,Freiburg,2,1,,,4.0,3.0
+2026-10-18,D2,Bielefeld,Osnabruck,2,1,,,6.0,0.0
+2026-10-18,D2,Karlsruhe,Darmstadt,4,0,,,4.0,4.0
+2026-10-18,E0,Bournemouth,Sunderland,2,0,,,5.0,3.0
+2026-10-18,E0,Leeds,Man United,1,1,,,2.0,3.0
+2026-10-18,G1,Panetolikos,Olympiakos,0,2,,,5.0,3.0
+2026-10-18,I1,Fiorentina,Como,1,3,,,11.0,5.0
+2026-10-18,T1,Kocaelispor,Goztep,1,2,,,5.0,1.0

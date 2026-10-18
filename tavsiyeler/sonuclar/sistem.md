@@ -2,40 +2,40 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**123/222 tuttu** (isabet %55, beklenen %66) · -39.77 birim · 16 tahmin sonuç bekliyor
+**130/232 tuttu** (isabet %56, beklenen %66) · -40.15 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 18.10 14:19 gönderilen kupon · 5'de 3
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
-- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.33
-- ⏳ 18.10 14:30 Karlsruhe – Darmstadt 98 · 2.5 Üst · @1.47
-- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41
-- ⏳ 18.10 16:00 Fiorentina – Como 1907 · ↳ Korner 9.5 Alt · @1.53
+- ✅ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.33 · korner 6-0
+- ✅ 18.10 14:30 Karlsruhe – Darmstadt 98 · 2.5 Üst · @1.47 · 4-0
+- ✅ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41 · korner 5-3
+- ❌ 18.10 16:00 Fiorentina – Como 1907 · ↳ Korner 9.5 Alt · @1.53 · korner 11-5
 - ⏳ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.49
 
 ## 17.10 18:45 gönderilen kupon · 5'de 3
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+**3/5 maç tuttu · 10 birim yatırıldı, 3.02 döndü (-6.98)** ❌
 
 - ✅ 17.10 22:00 Las Palmas – Castellon · ↳ Korner 9.5 Alt · @1.65 · korner 3-6
-- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
-- ⏳ 18.10 14:30 Karlsruhe – Darmstadt 98 · En çok korner 1 · @1.60
-- ⏳ 18.10 16:00 Fiorentina – Como 1907 · Korner 10.5 Alt · @1.30
-- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41
+- ✅ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30 · korner 6-0
+- ❌ 18.10 14:30 Karlsruhe – Darmstadt 98 · En çok korner 1 · @1.60 · korner 4-4
+- ❌ 18.10 16:00 Fiorentina – Como 1907 · Korner 10.5 Alt · @1.30 · korner 11-5
+- ✅ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41 · korner 5-3
 
 ## 17.10 13:56 gönderilen kupon · 6'de 4
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**5/6 maç tuttu · 15 birim yatırıldı, 26.47 döndü (+11.47)** ✅
 
 - ✅ 17.10 14:30 Watford – Charlton · En çok korner 1 · @1.53 · korner 4-3
 - ✅ 17.10 16:00 Venezia – Napoli · En çok korner 2 · @1.47 · korner 0-12
 - ✅ 17.10 17:00 Wrexham – Preston · KG Var · @1.94 · 4-1
 - ❌ 17.10 17:15 Villarreal – Elche · ↳ Korner 10.5 Alt · @1.44 · korner 10-5
-- ⏳ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30
-- ⏳ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.40
+- ✅ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.30 · korner 6-0
+- ✅ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.40 · korner 5-3
 
 ## 16.10 19:48 gönderilen kupon · 8'de 7
 

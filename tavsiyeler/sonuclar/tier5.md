@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/38 tuttu** (isabet %18, beklenen %16) · -0.14 birim · 4 tahmin sonuç bekliyor
+**7/39 tuttu** (isabet %18, beklenen %16) · -1.14 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **17:00 · Paneitolikos – Olympiacos**
 
-- ⏳ 0-1 · @4.77
+- ❌ 0-1 · @4.77 · 0-2
 
 **17:30 · Panathinaikos – Asteras Tripolis**
 

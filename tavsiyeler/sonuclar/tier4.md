@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/84 tuttu** (isabet %29, beklenen %33) · -20.84 birim · 12 tahmin sonuç bekliyor
+**24/86 tuttu** (isabet %28, beklenen %33) · -22.84 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **16:00 · Fiorentina – Como 1907**
 
-- ⏳ ↳ Korner 6.5 Alt · @3.66
+- ❌ ↳ Korner 6.5 Alt · @3.66 · korner 11-5
 
 **16:30 · B. Leverkusen – Freiburg**
 
-- ⏳ KG Yok · @2.36
+- ❌ KG Yok · @2.36 · 2-1
 
 **17:15 · Celta Vigo – Alaves**
 

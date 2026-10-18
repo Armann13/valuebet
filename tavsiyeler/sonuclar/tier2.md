@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/145 tuttu** (isabet %61, beklenen %63) · -11.03 birim · 12 tahmin sonuç bekliyor
+**92/150 tuttu** (isabet %61, beklenen %63) · -11.52 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,20 +16,20 @@
 
 **14:30 · Karlsruhe – Darmstadt 98**
 
-- ⏳ En çok korner 1 · @1.60
-- ⏳ 2.5 Üst · @1.47
+- ❌ En çok korner 1 · @1.60 · korner 4-4
+- ✅ 2.5 Üst · @1.47 · 4-0
 
 **14:30 · Arminia Bielefeld – Osnabruck**
 
-- ⏳ 2.5 Üst · @1.64
+- ✅ 2.5 Üst · @1.64 · 2-1
 
 **16:00 · Bournemouth – Sunderland**
 
-- ⏳ En çok korner 1 · @1.40
+- ✅ En çok korner 1 · @1.40 · korner 5-3
 
 **16:00 · Fiorentina – Como 1907**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.54
+- ❌ ↳ Korner 9.5 Alt · @1.54 · korner 11-5
 
 ## 17.10.2026 Cumartesi
 
