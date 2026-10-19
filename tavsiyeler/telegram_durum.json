@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-10-18 18",
+ "son_ozet": "2026-10-19 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -39,7 +39,8 @@
   "2026-10-18|PAOK – POT Iraklis|MS 1 & KG Var",
   "2026-10-18|Twente – Utrecht|MS 1 & KG Var",
   "2026-10-19|Trabzonspor – Beşiktaş|2.5 Alt",
-  "2026-10-19|Trabzonspor – Beşiktaş|KG Yok"
+  "2026-10-19|Trabzonspor – Beşiktaş|KG Yok",
+  "2026-10-19|Trabzonspor – Beşiktaş|MS 2"
  ],
  "sonuc_gonderilen": [
   "2026-10-01",
@@ -57,6 +58,7 @@
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
-  "2026-10-17"
+  "2026-10-17",
+  "2026-10-18"
  ]
 }
