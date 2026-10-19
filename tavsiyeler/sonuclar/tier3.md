@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/135 tuttu** (isabet %44, beklenen %46) · -10.12 birim · 8 tahmin sonuç bekliyor
+**60/135 tuttu** (isabet %44, beklenen %46) · -10.12 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10.2026 Salı
+
+**19:45 · Sabah – B. Dortmund**
+
+- ⏳ KG Yok · @1.91
+
+**21:45 · Oxford – Wigan Athletic**
+
+- ⏳ KG Yok · @1.87
+
+**22:00 · Paris Saint Germain – Barcelona**
+
+- ⏳ ↳ Korner 9.5 Üst · @1.73
+
+**22:00 · Porto – PSV**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.76
+
+**22:00 · Stuttgart – Atletico Madrid**
+
+- ⏳ En çok korner 1 · @1.87
 
 ## 19.10.2026 Pazartesi
 

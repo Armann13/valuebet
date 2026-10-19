@@ -2,15 +2,41 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/151 tuttu** (isabet %61, beklenen %63) · -12.52 birim · 8 tahmin sonuç bekliyor
+**92/151 tuttu** (isabet %61, beklenen %63) · -12.52 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10.2026 Salı
+
+**21:45 · Huddersfield – Peterborough**
+
+- ⏳ MS 1 · @1.41
+
+**22:00 · Stuttgart – Atletico Madrid**
+
+- ⏳ 2.5 Üst · @1.40
+
+**22:00 · Paris Saint Germain – Barcelona**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.42
+
+**22:00 · Porto – PSV**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.44
 
 ## 19.10.2026 Pazartesi
 
 **19:30 · AC Monza – Cagliari**
 
 - ⏳ En çok korner 1 · @1.49
+
+**20:00 · Trabzonspor – Beşiktaş**
+
+- ⏳ ÇŞ X-2 · @1.42
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ MS 1 · @1.42
 
 **22:15 · Braga – Gil Vicente**
 

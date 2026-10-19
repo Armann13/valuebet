@@ -2,9 +2,34 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/317 tuttu** (isabet %56, beklenen %61) · -40.60 birim · 8 tahmin sonuç bekliyor
+**178/317 tuttu** (isabet %56, beklenen %61) · -40.60 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10.2026 Salı
+
+**22:00 · Paris Saint Germain – Barcelona**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.89
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
+
+**22:00 · Napoli – Bodo Glimt**
+
+- ⏳ 🟢 En çok korner 1 · @1.24
+
+**22:00 · Porto – PSV**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.76
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.44
+
+**22:00 · Stuttgart – Atletico Madrid**
+
+- ⏳ 🔴 En çok korner 1 · @1.87
 
 ## 19.10.2026 Pazartesi
 
@@ -12,6 +37,7 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.49
 - ⏳ 🎰 En çok korner 1 · @1.49
+- ⏳ 🎰 En çok korner 1 · @1.50
 
 **20:00 · Trabzonspor – Beşiktaş**
 
@@ -20,10 +46,16 @@
 **22:00 · Tottenham – Coventry**
 
 - ⏳ 🟢 En çok korner 1 · @1.25
+- ⏳ 🟣 Korner 12.5 Üst · @2.91
+
+**22:00 · Getafe – Vallecano**
+
+- ⏳ 🟣 Korner 7.5 Alt · @2.74
 
 **22:15 · Braga – Gil Vicente**
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.54
+- ⏳ 🎰 Korner 9.5 Alt · @1.62
 
 ## 18.10.2026 Pazar
 

@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/120 tuttu** (isabet %73, beklenen %77) · -12.57 birim · 3 tahmin sonuç bekliyor
+**88/120 tuttu** (isabet %73, beklenen %77) · -12.57 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10.2026 Salı
+
+**22:00 · Paris Saint Germain – Barcelona**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
+**22:00 · Napoli – Bodo Glimt**
+
+- ⏳ En çok korner 1 · @1.24
+
+**22:00 · Porto – PSV**
+
+- ⏳ Korner 11.5 Alt · @1.25
 
 ## 19.10.2026 Pazartesi
 

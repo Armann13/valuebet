@@ -2,15 +2,34 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/92 tuttu** (isabet %29, beklenen %33) · -19.47 birim · 5 tahmin sonuç bekliyor
+**27/92 tuttu** (isabet %29, beklenen %33) · -19.47 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10.2026 Salı
+
+**21:45 · Barnet – Swindon Town**
+
+- ⏳ MS 1 & KG Var · @2.51
+
+**21:45 · Bristol Rovers – Salford City**
+
+- ⏳ MS 2 · @2.32
+
+**22:00 · Paris Saint Germain – Barcelona**
+
+- ⏳ ↳ Korner 11.5 Üst · @2.89
 
 ## 19.10.2026 Pazartesi
 
 **22:00 · Tottenham – Coventry**
 
 - ⏳ MS 1 & KG Var · @2.70
+- ⏳ Korner 12.5 Üst · @2.91
+
+**22:00 · Getafe – Vallecano**
+
+- ⏳ Korner 7.5 Alt · @2.74
 
 ## 18.10.2026 Pazar
 
