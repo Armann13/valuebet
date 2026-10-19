@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/239 tuttu** (isabet %10, beklenen %11) · -60.35 birim · 16 tahmin sonuç bekliyor
+**25/239 tuttu** (isabet %10, beklenen %11) · -60.35 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -39,10 +39,15 @@
 **22:00 · Stuttgart – Atletico Madrid**
 
 - ⏳ 1-2 · @8.15
+- ⏳ 1-1 · @6.58
 
 **22:00 · Paris Saint Germain – Barcelona**
 
 - ⏳ 2-2 · @8.95
+
+**22:00 · Liverpool – Villarreal**
+
+- ⏳ 2-1 · @7.45
 
 ## 19.10.2026 Pazartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/153 tuttu** (isabet %60, beklenen %63) · -14.52 birim · 12 tahmin sonuç bekliyor
+**92/153 tuttu** (isabet %60, beklenen %63) · -14.52 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,6 +23,7 @@
 **22:00 · Porto – PSV**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.44
+- ⏳ En çok korner 1 · @1.40
 
 ## 19.10.2026 Pazartesi
 

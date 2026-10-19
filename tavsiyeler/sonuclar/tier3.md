@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 11 tahmin sonuç bekliyor
+**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,6 +23,7 @@
 **22:00 · Porto – PSV**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.76
+- ⏳ MS 1 & 2.5 Üst · @1.92
 
 **22:00 · Stuttgart – Atletico Madrid**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/321 tuttu** (isabet %55, beklenen %61) · -44.60 birim · 19 tahmin sonuç bekliyor
+**178/321 tuttu** (isabet %55, beklenen %61) · -44.60 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,10 +26,15 @@
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.76
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.44
+- ⏳ 🟡 En çok korner 1 · @1.40
 
 **22:00 · Stuttgart – Atletico Madrid**
 
 - ⏳ 🔴 En çok korner 1 · @1.87
+
+**22:00 · Liverpool – Villarreal**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.36
 
 ## 19.10.2026 Pazartesi
 

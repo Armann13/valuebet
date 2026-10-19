@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/92 tuttu** (isabet %29, beklenen %33) · -19.47 birim · 10 tahmin sonuç bekliyor
+**27/92 tuttu** (isabet %29, beklenen %33) · -19.47 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,9 +16,17 @@
 
 - ⏳ MS 2 · @2.32
 
+**21:45 · Huddersfield – Peterborough**
+
+- ⏳ MS 1 & KG Var · @2.45
+
 **22:00 · Paris Saint Germain – Barcelona**
 
 - ⏳ ↳ Korner 11.5 Üst · @2.89
+
+**22:00 · Liverpool – Villarreal**
+
+- ⏳ Korner 8.5 Alt · @2.36
 
 ## 19.10.2026 Pazartesi
 
