@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/41 tuttu** (isabet %17, beklenen %16) · -3.14 birim · 3 tahmin sonuç bekliyor
+**7/42 tuttu** (isabet %17, beklenen %16) · -4.14 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **21:45 · Parma – Torino**
 
-- ⏳ 1-1 · @4.98
+- ❌ 1-1 · @4.98 · 0-3
 
 **22:00 · Getafe – Vallecano**
 

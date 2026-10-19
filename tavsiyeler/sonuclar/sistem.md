@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**130/232 tuttu** (isabet %56, beklenen %66) · -40.15 birim · 14 tahmin sonuç bekliyor
+**130/235 tuttu** (isabet %55, beklenen %66) · -43.15 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.50
-- ⏳ 19.10 20:00 Trabzonspor – Beşiktaş · ÇŞ X-2 · @1.42
+- ❌ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.50 · korner 2-7
+- ❌ 19.10 20:00 Trabzonspor – Beşiktaş · ÇŞ X-2 · @1.42 · 2-0
 - ⏳ 19.10 22:00 Tottenham – Coventry · MS 1 · @1.42
 - ⏳ 19.10 22:15 Braga – Gil Vicente · Korner 9.5 Alt · @1.62
 - ⏳ 20.10 21:45 Huddersfield – Peterborough · MS 1 · @1.41
@@ -21,13 +21,13 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 18.10 14:19 gönderilen kupon · 5'de 3
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**3/5 maç tuttu · 10 birim yatırıldı, 2.76 döndü (-7.24)** ❌
 
 - ✅ 18.10 14:30 Arminia Bielefeld – Osnabruck · En çok korner 1 · @1.33 · korner 6-0
 - ✅ 18.10 14:30 Karlsruhe – Darmstadt 98 · 2.5 Üst · @1.47 · 4-0
 - ✅ 18.10 16:00 Bournemouth – Sunderland · En çok korner 1 · @1.41 · korner 5-3
 - ❌ 18.10 16:00 Fiorentina – Como 1907 · ↳ Korner 9.5 Alt · @1.53 · korner 11-5
-- ⏳ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.49
+- ❌ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.49 · korner 2-7
 
 ## 17.10 18:45 gönderilen kupon · 5'de 3
 

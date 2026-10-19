@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/317 tuttu** (isabet %56, beklenen %61) · -40.60 birim · 23 tahmin sonuç bekliyor
+**178/321 tuttu** (isabet %55, beklenen %61) · -44.60 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,13 +35,13 @@
 
 **19:30 · AC Monza – Cagliari**
 
-- ⏳ 🟡 En çok korner 1 · @1.49
-- ⏳ 🎰 En çok korner 1 · @1.49
-- ⏳ 🎰 En çok korner 1 · @1.50
+- ❌ 🟡 En çok korner 1 · @1.49 · korner 2-7
+- ❌ 🎰 En çok korner 1 · @1.49 · korner 2-7
+- ❌ 🎰 En çok korner 1 · @1.50 · korner 2-7
 
 **20:00 · Trabzonspor – Beşiktaş**
 
-- ⏳ 🔴 En çok korner 1 · @2.00
+- ❌ 🔴 En çok korner 1 · @2.00 · korner 4-6
 
 **22:00 · Tottenham – Coventry**
 

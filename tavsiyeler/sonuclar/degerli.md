@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**23/37 tuttu** (isabet %62, beklenen %45) · +15.91 birim · 3 tahmin sonuç bekliyor
+**25/40 tuttu** (isabet %62, beklenen %45) · +17.51 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,9 +10,13 @@
 
 **20:00 · Trabzonspor – Beşiktaş**
 
-- ⏳ 2.5 Alt · @2.22
-- ⏳ KG Yok · @2.38
-- ⏳ MS 2 · @2.43
+- ✅ 2.5 Alt · @2.22 · 2-0
+- ✅ KG Yok · @2.38 · 2-0
+- ❌ MS 2 · @2.43 · 2-0
+
+**22:00 · Tottenham – Coventry**
+
+- ⏳ MS 1 & KG Var · @2.82
 
 ## 18.10.2026 Pazar
 

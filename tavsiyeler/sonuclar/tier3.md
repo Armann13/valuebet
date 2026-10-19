@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/135 tuttu** (isabet %44, beklenen %46) · -10.12 birim · 13 tahmin sonuç bekliyor
+**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,8 +32,8 @@
 
 **20:00 · Trabzonspor – Beşiktaş**
 
-- ⏳ KG Yok · @2.38
-- ⏳ En çok korner 1 · @2.00
+- ✅ KG Yok · @2.38 · 2-0
+- ❌ En çok korner 1 · @2.00 · korner 4-6
 
 ## 18.10.2026 Pazar
 
