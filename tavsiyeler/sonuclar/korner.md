@@ -2,9 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 16 tahmin sonuç bekliyor
+**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10.2026 Çarşamba
+
+**19:45 · Lille – Galatasaray**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.36
+
+**22:00 · Bayern Münih – Arsenal**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.87
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.66
+
+**22:00 · Real Betis – Feyenoord**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.21
+
+**22:00 · Aston Villa – Viking**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.43
+
+**22:00 · Club Brugge – RC Lens**
+
+- ⏳ 🔴 En çok korner 2 · @1.84
 
 ## 20.10.2026 Salı
 
@@ -15,10 +39,12 @@
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
 - ⏳ 🟣 ↳ Korner 11.5 Üst · @2.89
 - ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
 
 **22:00 · Napoli – Bodo Glimt**
 
 - ⏳ 🟢 En çok korner 1 · @1.24
+- ⏳ 🔴 Korner 9.5 Alt · @1.73
 
 **22:00 · Porto – PSV**
 

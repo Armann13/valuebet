@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 12 tahmin sonuç bekliyor
+**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10.2026 Çarşamba
+
+**22:00 · Bayern Münih – Arsenal**
+
+- ⏳ MS 1 · @1.91
+
+**22:00 · Club Brugge – RC Lens**
+
+- ⏳ En çok korner 2 · @1.84
 
 ## 20.10.2026 Salı
 
@@ -15,6 +25,14 @@
 **21:45 · Oxford – Wigan Athletic**
 
 - ⏳ KG Yok · @1.87
+
+**21:45 · Burton Albion – Bradford**
+
+- ⏳ MS 2 · @1.81
+
+**21:45 · Rotherham – Newport**
+
+- ⏳ KG Yok · @1.83
 
 **22:00 · Paris Saint Germain – Barcelona**
 
@@ -28,6 +46,10 @@
 **22:00 · Stuttgart – Atletico Madrid**
 
 - ⏳ En çok korner 1 · @1.87
+
+**22:00 · Napoli – Bodo Glimt**
+
+- ⏳ Korner 9.5 Alt · @1.73
 
 ## 19.10.2026 Pazartesi
 

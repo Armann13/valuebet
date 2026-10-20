@@ -2,11 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/155 tuttu** (isabet %61, beklenen %63) · -13.56 birim · 11 tahmin sonuç bekliyor
+**94/155 tuttu** (isabet %61, beklenen %63) · -13.56 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 21.10.2026 Çarşamba
+
+**22:00 · Aston Villa – Viking**
+
+- ⏳ İY/MS 1/1 · @1.45
+- ⏳ Korner 10.5 Alt · @1.43
+
+**22:00 · Real Madrid – Leipzig**
+
+- ⏳ ↳ MS 1 & KG Var · @1.89
+
 ## 20.10.2026 Salı
+
+**19:45 · Fenerbahçe – Slavia Prag**
+
+- ⏳ MS 1 · @1.43
 
 **21:45 · Huddersfield – Peterborough**
 
@@ -24,6 +39,7 @@
 
 - ⏳ ↳ Korner 10.5 Alt · @1.44
 - ⏳ En çok korner 1 · @1.40
+- ⏳ MS 1 · @1.40
 
 ## 19.10.2026 Pazartesi
 

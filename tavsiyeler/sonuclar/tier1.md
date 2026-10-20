@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/121 tuttu** (isabet %73, beklenen %77) · -13.57 birim · 5 tahmin sonuç bekliyor
+**88/121 tuttu** (isabet %73, beklenen %77) · -13.57 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10.2026 Çarşamba
+
+**19:45 · Lille – Galatasaray**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:00 · Real Madrid – Leipzig**
+
+- ⏳ MS 1 & 2.5 Üst · @1.32
+
+**22:00 · Inter – Shakhtar Donetsk**
+
+- ⏳ MS 1 & 2.5 Üst · @1.32
+
+**22:00 · Bayern Münih – Arsenal**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:00 · Real Betis – Feyenoord**
+
+- ⏳ Korner 7.5 Üst · @1.21
 
 ## 20.10.2026 Salı
 

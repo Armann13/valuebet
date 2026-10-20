@@ -2,9 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**132/237 tuttu** (isabet %56, beklenen %66) · -42.11 birim · 9 tahmin sonuç bekliyor
+**132/237 tuttu** (isabet %56, beklenen %66) · -42.11 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10 11:42 gönderilen kupon · 7'de 6
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 20.10 19:45 Fenerbahçe – Slavia Prag · MS 1 · @1.43
+- ⏳ 20.10 22:00 Porto – PSV · MS 1 · @1.40
+- ⏳ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42
+- ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.32
+- ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32
+- ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.45
+- ⏳ 21.10 22:00 Bayern Münih – Arsenal · ↳ Korner 9.5 Alt · @1.66
 
 ## 19.10 16:32 gönderilen kupon · 8'de 7
 

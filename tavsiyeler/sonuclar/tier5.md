@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/43 tuttu** (isabet %19, beklenen %16) · -0.13 birim · 1 tahmin sonuç bekliyor
+**8/43 tuttu** (isabet %19, beklenen %16) · -0.13 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10.2026 Çarşamba
+
+**22:00 · Reading – Leyton Orient**
+
+- ⏳ 2-1 · @6.39
 
 ## 20.10.2026 Salı
 

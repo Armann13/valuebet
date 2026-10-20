@@ -2,11 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/95 tuttu** (isabet %29, beklenen %33) · -19.77 birim · 9 tahmin sonuç bekliyor
+**28/95 tuttu** (isabet %29, beklenen %33) · -19.77 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 21.10.2026 Çarşamba
+
+**19:45 · Lille – Galatasaray**
+
+- ⏳ Korner 8.5 Alt · @2.36
+
+**22:00 · Bayern Münih – Arsenal**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.87
+
 ## 20.10.2026 Salı
+
+**19:45 · Fenerbahçe – Slavia Prag**
+
+- ⏳ ↳ MS 1 & KG Var · @2.61
 
 **21:45 · Barnet – Swindon Town**
 
@@ -27,6 +41,11 @@
 **22:00 · Liverpool – Villarreal**
 
 - ⏳ Korner 8.5 Alt · @2.36
+- ⏳ MS 1 & KG Var · @2.49
+
+**22:00 · Porto – PSV**
+
+- ⏳ ↳ MS 1 & KG Var · @2.70
 
 ## 19.10.2026 Pazartesi
 

@@ -2,15 +2,49 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/241 tuttu** (isabet %10, beklenen %11) · -62.35 birim · 16 tahmin sonuç bekliyor
+**25/241 tuttu** (isabet %10, beklenen %11) · -62.35 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10.2026 Çarşamba
+
+**19:45 · Lille – Galatasaray**
+
+- ⏳ 2-1 · @8.10
+
+**22:00 · Aston Villa – Viking**
+
+- ⏳ 3-0 · @8.00
+
+**22:00 · Bayern Münih – Arsenal**
+
+- ⏳ 2-1 · @7.85
+
+**22:00 · Club Brugge – RC Lens**
+
+- ⏳ 1-1 · @7.04
+
+**22:00 · Real Betis – Feyenoord**
+
+- ⏳ 2-1 · @7.73
+
+**22:00 · Real Madrid – Leipzig**
+
+- ⏳ 3-1 · @8.65
+
+**22:00 · Inter – Shakhtar Donetsk**
+
+- ⏳ 3-1 · @8.69
 
 ## 20.10.2026 Salı
 
 **19:45 · Sabah – B. Dortmund**
 
 - ⏳ 0-3 · @7.84
+
+**19:45 · Fenerbahçe – Slavia Prag**
+
+- ⏳ 2-1 · @7.36
 
 **21:45 · Barnet – Swindon Town**
 
@@ -27,6 +61,14 @@
 **21:45 · Bristol Rovers – Salford City**
 
 - ⏳ 1-2 · @7.73
+
+**21:45 · Burton Albion – Bradford**
+
+- ⏳ 0-1 · @5.61
+
+**21:45 · Rotherham – Newport**
+
+- ⏳ 1-0 · @6.32
 
 **22:00 · Porto – PSV**
 
