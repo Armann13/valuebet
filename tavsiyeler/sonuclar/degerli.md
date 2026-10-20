@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/40 tuttu** (isabet %62, beklenen %45) · +17.51 birim · 1 tahmin sonuç bekliyor
+**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **22:00 · Tottenham – Coventry**
 
-- ⏳ MS 1 & KG Var · @2.82
+- ✅ MS 1 & KG Var · @2.82 · 3-1
 
 ## 18.10.2026 Pazar
 

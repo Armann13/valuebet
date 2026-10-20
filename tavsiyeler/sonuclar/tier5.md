@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/42 tuttu** (isabet %17, beklenen %16) · -4.14 birim · 2 tahmin sonuç bekliyor
+**8/43 tuttu** (isabet %19, beklenen %16) · -0.13 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **22:00 · Getafe – Vallecano**
 
-- ⏳ 1-1 · @5.01
+- ✅ 1-1 · @5.01 · 1-1
 
 ## 18.10.2026 Pazar
 

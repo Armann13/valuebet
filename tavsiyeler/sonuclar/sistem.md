@@ -2,18 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**130/235 tuttu** (isabet %55, beklenen %66) · -43.15 birim · 11 tahmin sonuç bekliyor
+**132/237 tuttu** (isabet %56, beklenen %66) · -42.11 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 19.10 16:32 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ❌ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.50 · korner 2-7
 - ❌ 19.10 20:00 Trabzonspor – Beşiktaş · ÇŞ X-2 · @1.42 · 2-0
-- ⏳ 19.10 22:00 Tottenham – Coventry · MS 1 · @1.42
-- ⏳ 19.10 22:15 Braga – Gil Vicente · Korner 9.5 Alt · @1.62
+- ✅ 19.10 22:00 Tottenham – Coventry · MS 1 · @1.42 · 3-1
+- ✅ 19.10 22:15 Braga – Gil Vicente · Korner 9.5 Alt · @1.62 · korner 4-1
 - ⏳ 20.10 21:45 Huddersfield – Peterborough · MS 1 · @1.41
 - ⏳ 20.10 22:00 Stuttgart – Atletico Madrid · 2.5 Üst · @1.40
 - ⏳ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42

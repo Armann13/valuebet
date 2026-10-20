@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/239 tuttu** (isabet %10, beklenen %11) · -60.35 birim · 18 tahmin sonuç bekliyor
+**25/241 tuttu** (isabet %10, beklenen %11) · -62.35 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -62,11 +62,11 @@
 
 **22:00 · Tottenham – Coventry**
 
-- ⏳ 2-1 · @7.30
+- ❌ 2-1 · @7.30 · 3-1
 
 **22:15 · Braga – Gil Vicente**
 
-- ⏳ 1-0 · @5.20
+- ❌ 1-0 · @5.20 · 1-2
 
 ## 18.10.2026 Pazar
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/120 tuttu** (isabet %73, beklenen %77) · -12.57 birim · 6 tahmin sonuç bekliyor
+**88/121 tuttu** (isabet %73, beklenen %77) · -13.57 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **22:00 · Tottenham – Coventry**
 
-- ⏳ En çok korner 1 · @1.25
+- ❌ En çok korner 1 · @1.25 · korner 4-4
 
 ## 18.10.2026 Pazar
 

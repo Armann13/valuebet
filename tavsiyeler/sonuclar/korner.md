@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/321 tuttu** (isabet %55, beklenen %61) · -44.60 birim · 21 tahmin sonuç bekliyor
+**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -50,17 +50,17 @@
 
 **22:00 · Tottenham – Coventry**
 
-- ⏳ 🟢 En çok korner 1 · @1.25
-- ⏳ 🟣 Korner 12.5 Üst · @2.91
+- ❌ 🟢 En çok korner 1 · @1.25 · korner 4-4
+- ❌ 🟣 Korner 12.5 Üst · @2.91 · korner 4-4
 
 **22:00 · Getafe – Vallecano**
 
-- ⏳ 🟣 Korner 7.5 Alt · @2.74
+- ❌ 🟣 Korner 7.5 Alt · @2.74 · korner 8-8
 
 **22:15 · Braga – Gil Vicente**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.54
-- ⏳ 🎰 Korner 9.5 Alt · @1.62
+- ✅ 🟡 Korner 9.5 Alt · @1.54 · korner 4-1
+- ✅ 🎰 Korner 9.5 Alt · @1.62 · korner 4-1
 
 ## 18.10.2026 Pazar
 
