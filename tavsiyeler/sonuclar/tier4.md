@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/95 tuttu** (isabet %29, beklenen %33) · -19.77 birim · 14 tahmin sonuç bekliyor
+**28/96 tuttu** (isabet %29, beklenen %33) · -20.77 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **19:45 · Fenerbahçe – Slavia Prag**
 
-- ⏳ ↳ MS 1 & KG Var · @2.61
+- ❌ ↳ MS 1 & KG Var · @2.61 · 2-2
 
 **21:45 · Barnet – Swindon Town**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/155 tuttu** (isabet %61, beklenen %63) · -13.56 birim · 16 tahmin sonuç bekliyor
+**94/156 tuttu** (isabet %60, beklenen %63) · -14.56 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,7 +21,7 @@
 
 **19:45 · Fenerbahçe – Slavia Prag**
 
-- ⏳ MS 1 · @1.43
+- ❌ MS 1 · @1.43 · 2-2
 
 **21:45 · Huddersfield – Peterborough**
 
