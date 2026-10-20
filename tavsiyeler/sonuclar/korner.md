@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 26 tahmin sonuç bekliyor
+**186/341 tuttu** (isabet %55, beklenen %61) · -51.95 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,33 +35,33 @@
 
 **22:00 · Paris Saint Germain – Barcelona**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.89
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.42
+- ❌ 🟢 Korner 7.5 Üst · @1.20 · korner 2-3
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.42 · korner 2-3
+- ❌ 🔴 ↳ Korner 9.5 Üst · @1.73 · korner 2-3
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.89 · korner 2-3
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.42 · korner 2-3
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.42 · korner 2-3
 
 **22:00 · Napoli – Bodo Glimt**
 
-- ⏳ 🟢 En çok korner 1 · @1.24
-- ⏳ 🔴 Korner 9.5 Alt · @1.73
+- ❌ 🟢 En çok korner 1 · @1.24 · korner 2-5
+- ✅ 🔴 Korner 9.5 Alt · @1.73 · korner 2-5
 
 **22:00 · Porto – PSV**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.76
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.44
-- ⏳ 🟡 En çok korner 1 · @1.40
+- ✅ 🟢 Korner 11.5 Alt · @1.25 · korner 2-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 2-3
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.76 · korner 2-3
+- ✅ 🎰 ↳ Korner 10.5 Alt · @1.44 · korner 2-3
+- ❌ 🟡 En çok korner 1 · @1.40 · korner 2-3
 
 **22:00 · Stuttgart – Atletico Madrid**
 
-- ⏳ 🔴 En çok korner 1 · @1.87
+- ✅ 🔴 En çok korner 1 · @1.87 · korner 9-4
 
 **22:00 · Liverpool – Villarreal**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.36
+- ❌ 🟣 Korner 8.5 Alt · @2.36 · korner 8-2
 
 ## 19.10.2026 Pazartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/96 tuttu** (isabet %29, beklenen %33) · -20.77 birim · 14 tahmin sonuç bekliyor
+**33/105 tuttu** (isabet %31, beklenen %33) · -17.45 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,28 +28,28 @@
 
 **21:45 · Barnet – Swindon Town**
 
-- ⏳ MS 1 & KG Var · @2.51
+- ❌ MS 1 & KG Var · @2.51 · 1-3
 
 **21:45 · Bristol Rovers – Salford City**
 
-- ⏳ MS 2 · @2.32
+- ✅ MS 2 · @2.32 · 1-2
 
 **21:45 · Huddersfield – Peterborough**
 
-- ⏳ MS 1 & KG Var · @2.45
+- ✅ MS 1 & KG Var · @2.45 · 4-1
 
 **22:00 · Paris Saint Germain – Barcelona**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.89
+- ❌ ↳ Korner 11.5 Üst · @2.89 · korner 2-3
 
 **22:00 · Liverpool – Villarreal**
 
-- ⏳ Korner 8.5 Alt · @2.36
-- ⏳ MS 1 & KG Var · @2.49
+- ❌ Korner 8.5 Alt · @2.36 · korner 8-2
+- ✅ MS 1 & KG Var · @2.49 · 4-3
 
 **22:00 · Porto – PSV**
 
-- ⏳ ↳ MS 1 & KG Var · @2.70
+- ❌ ↳ MS 1 & KG Var · @2.70 · 0-1
 
 ## 19.10.2026 Pazartesi
 
@@ -94,7 +94,7 @@
 
 **21:45 · Lyon – Nice**
 
-- ⏳ İY/MS 1/1 · @2.58
+- ✅ İY/MS 1/1 · @2.58 · İY 2-1, MS 2-1
 
 **21:45 · Juventus – Lazio**
 
@@ -116,7 +116,7 @@
 
 **15:00 · Metz – Sochaux**
 
-- ⏳ ↳ İY/MS 1/1 · @2.48
+- ✅ ↳ İY/MS 1/1 · @2.48 · İY 2-0, MS 3-2
 
 **16:00 · Gençlerbirliği – Galatasaray**
 

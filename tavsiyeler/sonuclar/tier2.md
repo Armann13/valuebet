@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/156 tuttu** (isabet %60, beklenen %63) · -14.56 birim · 17 tahmin sonuç bekliyor
+**96/162 tuttu** (isabet %59, beklenen %63) · -17.71 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -33,21 +33,21 @@
 
 **21:45 · Huddersfield – Peterborough**
 
-- ⏳ MS 1 · @1.41
+- ✅ MS 1 · @1.41 · 4-1
 
 **22:00 · Stuttgart – Atletico Madrid**
 
-- ⏳ 2.5 Üst · @1.40
+- ❌ 2.5 Üst · @1.40 · 1-1
 
 **22:00 · Paris Saint Germain – Barcelona**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.42
+- ❌ ↳ Korner 8.5 Üst · @1.42 · korner 2-3
 
 **22:00 · Porto – PSV**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.44
-- ⏳ En çok korner 1 · @1.40
-- ⏳ MS 1 · @1.40
+- ✅ ↳ Korner 10.5 Alt · @1.44 · korner 2-3
+- ❌ En çok korner 1 · @1.40 · korner 2-3
+- ❌ MS 1 · @1.40 · 0-1
 
 ## 19.10.2026 Pazartesi
 

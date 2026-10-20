@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/242 tuttu** (isabet %10, beklenen %11) · -63.35 birim · 27 tahmin sonuç bekliyor
+**27/254 tuttu** (isabet %11, beklenen %11) · -61.04 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -56,48 +56,48 @@
 
 **21:45 · Barnet – Swindon Town**
 
-- ⏳ 2-1 · @6.49
+- ❌ 2-1 · @6.49 · 1-3
 
 **21:45 · Huddersfield – Peterborough**
 
-- ⏳ 2-1 · @6.58
+- ❌ 2-1 · @6.58 · 4-1
 
 **21:45 · Oxford – Wigan Athletic**
 
-- ⏳ 1-0 · @6.34
+- ❌ 1-0 · @6.34 · 2-1
 
 **21:45 · Bristol Rovers – Salford City**
 
-- ⏳ 1-2 · @7.73
+- ✅ 1-2 · @7.73 · 1-2
 
 **21:45 · Burton Albion – Bradford**
 
-- ⏳ 0-1 · @5.61
+- ❌ 0-1 · @5.61 · 0-0
 
 **21:45 · Rotherham – Newport**
 
-- ⏳ 1-0 · @6.32
+- ❌ 1-0 · @6.32 · 2-2
 
 **22:00 · Porto – PSV**
 
-- ⏳ 2-1 · @7.33
+- ❌ 2-1 · @7.33 · 0-1
 
 **22:00 · Napoli – Bodo Glimt**
 
-- ⏳ 2-1 · @7.48
+- ❌ 2-1 · @7.48 · 4-3
 
 **22:00 · Stuttgart – Atletico Madrid**
 
-- ⏳ 1-2 · @8.15
-- ⏳ 1-1 · @6.58
+- ❌ 1-2 · @8.15 · 1-1
+- ✅ 1-1 · @6.58 · 1-1
 
 **22:00 · Paris Saint Germain – Barcelona**
 
-- ⏳ 2-2 · @8.95
+- ❌ 2-2 · @8.95 · 4-2
 
 **22:00 · Liverpool – Villarreal**
 
-- ⏳ 2-1 · @7.45
+- ❌ 2-1 · @7.45 · 4-3
 
 ## 19.10.2026 Pazartesi
 

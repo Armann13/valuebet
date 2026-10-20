@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**132/238 tuttu** (isabet %55, beklenen %66) · -43.11 birim · 21 tahmin sonuç bekliyor
+**134/244 tuttu** (isabet %55, beklenen %66) · -46.26 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,8 +22,8 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 20.10 19:45 Fenerbahçe – Slavia Prag · MS 1 · @1.43 · 2-2
-- ⏳ 20.10 22:00 Porto – PSV · MS 1 · @1.40
-- ⏳ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42
+- ❌ 20.10 22:00 Porto – PSV · MS 1 · @1.40 · 0-1
+- ❌ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42 · korner 2-3
 - ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.45
@@ -31,16 +31,16 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 19.10 16:32 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+**4/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ❌ 19.10 19:30 AC Monza – Cagliari · En çok korner 1 · @1.50 · korner 2-7
 - ❌ 19.10 20:00 Trabzonspor – Beşiktaş · ÇŞ X-2 · @1.42 · 2-0
 - ✅ 19.10 22:00 Tottenham – Coventry · MS 1 · @1.42 · 3-1
 - ✅ 19.10 22:15 Braga – Gil Vicente · Korner 9.5 Alt · @1.62 · korner 4-1
-- ⏳ 20.10 21:45 Huddersfield – Peterborough · MS 1 · @1.41
-- ⏳ 20.10 22:00 Stuttgart – Atletico Madrid · 2.5 Üst · @1.40
-- ⏳ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42
-- ⏳ 20.10 22:00 Porto – PSV · ↳ Korner 10.5 Alt · @1.44
+- ✅ 20.10 21:45 Huddersfield – Peterborough · MS 1 · @1.41 · 4-1
+- ❌ 20.10 22:00 Stuttgart – Atletico Madrid · 2.5 Üst · @1.40 · 1-1
+- ❌ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42 · korner 2-3
+- ✅ 20.10 22:00 Porto – PSV · ↳ Korner 10.5 Alt · @1.44 · korner 2-3
 
 ## 18.10 14:19 gönderilen kupon · 5'de 3
 

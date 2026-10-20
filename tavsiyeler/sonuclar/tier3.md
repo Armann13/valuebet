@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 20 tahmin sonuç bekliyor
+**64/145 tuttu** (isabet %44, beklenen %46) · -12.38 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -33,32 +33,32 @@
 
 **21:45 · Oxford – Wigan Athletic**
 
-- ⏳ KG Yok · @1.87
+- ❌ KG Yok · @1.87 · 2-1
 
 **21:45 · Burton Albion – Bradford**
 
-- ⏳ MS 2 · @1.81
+- ❌ MS 2 · @1.81 · 0-0
 
 **21:45 · Rotherham – Newport**
 
-- ⏳ KG Yok · @1.83
+- ❌ KG Yok · @1.83 · 2-2
 
 **22:00 · Paris Saint Germain – Barcelona**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.73
+- ❌ ↳ Korner 9.5 Üst · @1.73 · korner 2-3
 
 **22:00 · Porto – PSV**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.76
-- ⏳ MS 1 & 2.5 Üst · @1.92
+- ✅ ↳ Korner 9.5 Alt · @1.76 · korner 2-3
+- ❌ MS 1 & 2.5 Üst · @1.92 · 0-1
 
 **22:00 · Stuttgart – Atletico Madrid**
 
-- ⏳ En çok korner 1 · @1.87
+- ✅ En çok korner 1 · @1.87 · korner 9-4
 
 **22:00 · Napoli – Bodo Glimt**
 
-- ⏳ Korner 9.5 Alt · @1.73
+- ✅ Korner 9.5 Alt · @1.73 · korner 2-5
 
 ## 19.10.2026 Pazartesi
 
