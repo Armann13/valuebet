@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 25 tahmin sonuç bekliyor
+**180/326 tuttu** (isabet %55, beklenen %61) · -46.44 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @2.87
 - ⏳ 🎰 ↳ Korner 9.5 Alt · @1.66
+- ⏳ 🔴 Korner 9.5 Alt · @1.71
 
 **22:00 · Real Betis – Feyenoord**
 

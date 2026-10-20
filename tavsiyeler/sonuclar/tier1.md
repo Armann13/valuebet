@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/121 tuttu** (isabet %73, beklenen %77) · -13.57 birim · 10 tahmin sonuç bekliyor
+**88/121 tuttu** (isabet %73, beklenen %77) · -13.57 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,6 +27,10 @@
 **22:00 · Real Betis – Feyenoord**
 
 - ⏳ Korner 7.5 Üst · @1.21
+
+**22:00 · Sporting Lizbon – LASK**
+
+- ⏳ MS 1 & 2.5 Üst · @1.32
 
 ## 20.10.2026 Salı
 

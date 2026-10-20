@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/96 tuttu** (isabet %29, beklenen %33) · -20.77 birim · 13 tahmin sonuç bekliyor
+**28/96 tuttu** (isabet %29, beklenen %33) · -20.77 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **19:45 · Lille – Galatasaray**
 
 - ⏳ Korner 8.5 Alt · @2.36
+
+**19:45 · Como 1907 – Manchester United**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.82
 
 **22:00 · Bayern Münih – Arsenal**
 

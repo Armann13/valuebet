@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/242 tuttu** (isabet %10, beklenen %11) · -63.35 birim · 25 tahmin sonuç bekliyor
+**25/242 tuttu** (isabet %10, beklenen %11) · -63.35 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **19:45 · Lille – Galatasaray**
 
 - ⏳ 2-1 · @8.10
+
+**19:45 · Como 1907 – Manchester United**
+
+- ⏳ 2-1 · @8.19
 
 **22:00 · Aston Villa – Viking**
 
@@ -35,6 +39,10 @@
 **22:00 · Inter – Shakhtar Donetsk**
 
 - ⏳ 3-1 · @8.69
+
+**22:00 · Sporting Lizbon – LASK**
+
+- ⏳ 3-1 · @8.75
 
 ## 20.10.2026 Salı
 

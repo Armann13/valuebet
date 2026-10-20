@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/43 tuttu** (isabet %19, beklenen %16) · -0.13 birim · 2 tahmin sonuç bekliyor
+**8/43 tuttu** (isabet %19, beklenen %16) · -0.13 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 21.10.2026 Çarşamba
+
+**21:00 · Levante – Athletic Bilbao**
+
+- ⏳ 1-1 · @5.36
 
 **22:00 · Reading – Leyton Orient**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 17 tahmin sonuç bekliyor
+**61/137 tuttu** (isabet %45, beklenen %46) · -9.74 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,19 @@
 **22:00 · Bayern Münih – Arsenal**
 
 - ⏳ MS 1 · @1.91
+- ⏳ Korner 9.5 Alt · @1.71
 
 **22:00 · Club Brugge – RC Lens**
 
 - ⏳ En çok korner 2 · @1.84
+
+**22:00 · Inter – Shakhtar Donetsk**
+
+- ⏳ ↳ MS 1 & KG Var · @2.06
+
+**22:00 · Sporting Lizbon – LASK**
+
+- ⏳ ↳ MS 1 & KG Var · @2.12
 
 ## 20.10.2026 Salı
 

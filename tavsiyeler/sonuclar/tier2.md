@@ -2,11 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/156 tuttu** (isabet %60, beklenen %63) · -14.56 birim · 15 tahmin sonuç bekliyor
+**94/156 tuttu** (isabet %60, beklenen %63) · -14.56 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 21.10.2026 Çarşamba
+
+**19:45 · Como 1907 – Manchester United**
+
+- ⏳ 2.5 Üst · @1.43
+
+**19:45 · Lille – Galatasaray**
+
+- ⏳ 2.5 Üst · @1.43
 
 **22:00 · Aston Villa – Viking**
 

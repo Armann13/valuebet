@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**132/238 tuttu** (isabet %55, beklenen %66) · -43.11 birim · 15 tahmin sonuç bekliyor
+**132/238 tuttu** (isabet %55, beklenen %66) · -43.11 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.10 22:23 gönderilen kupon · 6'de 4
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.43
+- ⏳ 21.10 19:45 Lille – Galatasaray · 2.5 Üst · @1.43
+- ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.31
+- ⏳ 21.10 22:00 Sporting Lizbon – LASK · MS 1 & 2.5 Üst · @1.32
+- ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32
+- ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.43
 
 ## 20.10 11:42 gönderilen kupon · 7'de 6
 
