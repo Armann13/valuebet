@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**186/341 tuttu** (isabet %55, beklenen %61) · -51.95 birim · 24 tahmin sonuç bekliyor
+**187/342 tuttu** (isabet %55, beklenen %61) · -50.59 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,24 +32,36 @@
 
 - ⏳ 🟣 En çok korner 2 · @2.32
 
+**19:45 · Getafe – Lugano**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.20
+
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
 
 **22:00 · Midtjylland – St. Truidense**
 
 - ⏳ 🟡 En çok korner 1 · @1.40
+- ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
 
 **22:00 · Beşiktaş – Crystal Palace**
 
 - ⏳ 🟣 En çok korner 2 · @2.47
 
+**22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
+
+- ⏳ 🟡 En çok korner 1 · @1.43
+- ⏳ 🎰 En çok korner 1 · @1.43
+
 ## 21.10.2026 Çarşamba
 
 **19:45 · Lille – Galatasaray**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.36
+- ✅ 🟣 Korner 8.5 Alt · @2.36 · korner 3-3
 
 **22:00 · Bayern Münih – Arsenal**
 

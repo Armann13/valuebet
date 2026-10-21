@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**96/162 tuttu** (isabet %59, beklenen %63) · -17.71 birim · 18 tahmin sonuç bekliyor
+**98/164 tuttu** (isabet %60, beklenen %63) · -16.85 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,23 +28,40 @@
 
 - ⏳ ↳ Korner 8.5 Üst · @1.41
 
+**19:45 · Inter Club De Escaldes – Un. Craiova**
+
+- ⏳ MS 2 · @1.46
+
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
 - ⏳ MS 1 · @1.41
+- ⏳ En çok korner 1 · @1.43
 
 **22:00 · Midtjylland – St. Truidense**
 
 - ⏳ En çok korner 1 · @1.40
 
+**22:00 · NK Celje – Salzburg**
+
+- ⏳ MS 2 · @1.43
+
+**22:00 · Beşiktaş – Crystal Palace**
+
+- ⏳ 2.5 Üst · @1.40
+
+**22:00 · Bournemouth – AC Milan**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.66
+
 ## 21.10.2026 Çarşamba
 
 **19:45 · Como 1907 – Manchester United**
 
-- ⏳ 2.5 Üst · @1.43
+- ✅ 2.5 Üst · @1.43 · 4-1
 
 **19:45 · Lille – Galatasaray**
 
-- ⏳ 2.5 Üst · @1.43
+- ✅ 2.5 Üst · @1.43 · 2-4
 
 **22:00 · Aston Villa – Viking**
 

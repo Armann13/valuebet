@@ -2,15 +2,28 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**134/244 tuttu** (isabet %55, beklenen %66) · -46.26 birim · 23 tahmin sonuç bekliyor
+**137/247 tuttu** (isabet %55, beklenen %66) · -45.00 birim · 28 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
-## 21.10 08:00 gönderilen kupon · 8'de 7
+## 21.10 20:21 gönderilen kupon · 8'de 7
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.40
+- ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · ↳ MS 1 & 2.5 Üst · @1.41
+- ⏳ 21.10 22:00 Sporting Lizbon – LASK · ↳ MS 1 & 2.5 Üst · @1.50
+- ⏳ 22.10 19:45 Juventus – Rennes · MS 1 · @1.44
+- ⏳ 22.10 19:45 Inter Club De Escaldes – Un. Craiova · MS 2 · @1.46
+- ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
+- ⏳ 22.10 22:00 NK Celje – Salzburg · MS 2 · @1.43
+- ⏳ 22.10 22:00 Beşiktaş – Crystal Palace · 2.5 Üst · @1.40
+- ⏳ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · En çok korner 1 · @1.43
+
+## 21.10 08:00 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
+- ✅ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.40 · 4-1
 - ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.43
 - ⏳ 22.10 19:45 Ofi Crete – B. Leverkusen · ↳ MS 2 & 2.5 Üst · @1.41
 - ⏳ 22.10 19:45 Ararat – AZ Alkmaar · MS 2 · @1.40
@@ -21,10 +34,10 @@ Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 20.10 22:23 gönderilen kupon · 6'de 4
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.43
-- ⏳ 21.10 19:45 Lille – Galatasaray · 2.5 Üst · @1.43
+- ✅ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.43 · 4-1
+- ✅ 21.10 19:45 Lille – Galatasaray · 2.5 Üst · @1.43 · 2-4
 - ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.31
 - ⏳ 21.10 22:00 Sporting Lizbon – LASK · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32

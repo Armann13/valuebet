@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/254 tuttu** (isabet %11, beklenen %11) · -61.04 birim · 35 tahmin sonuç bekliyor
+**27/256 tuttu** (isabet %11, beklenen %11) · -63.04 birim · 42 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **17:30 · K Almaty – Panathinaikos**
 
 - ⏳ 1-2 · @7.31
+- ⏳ 0-1 · @6.27
 
 **19:45 · Lech Poznan – Sunderland**
 
@@ -39,6 +40,7 @@
 **19:45 · Kızıl Yıldız – Kopenhag**
 
 - ⏳ 2-1 · @8.03
+- ⏳ 1-1 · @5.97
 
 **19:45 · Nordsjælland – CSKA Sofya**
 
@@ -51,6 +53,14 @@
 **19:45 · Ofi Crete – B. Leverkusen**
 
 - ⏳ 1-3 · @8.79
+
+**19:45 · Inter Club De Escaldes – Un. Craiova**
+
+- ⏳ 1-2 · @7.35
+
+**19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
+
+- ⏳ 2-1 · @7.51
 
 **22:00 · Banja Luka – Kuopion**
 
@@ -67,6 +77,7 @@
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
 - ⏳ 2-1 · @7.24
+- ⏳ 2-0 · @6.42
 
 **22:00 · Lillestrom – Real Sociedad**
 
@@ -88,19 +99,28 @@
 
 - ⏳ 1-2 · @8.66
 
+**22:00 · NK Celje – Salzburg**
+
+- ⏳ 1-2 · @7.29
+
+**22:00 · Hoffenheim – Lyon**
+
+- ⏳ 2-1 · @7.93
+
 ## 21.10.2026 Çarşamba
 
 **19:45 · Lille – Galatasaray**
 
-- ⏳ 2-1 · @8.10
+- ❌ 2-1 · @8.10 · 2-4
 
 **19:45 · Como 1907 – Manchester United**
 
-- ⏳ 2-1 · @8.19
+- ❌ 2-1 · @8.19 · 4-1
 
 **22:00 · Aston Villa – Viking**
 
 - ⏳ 3-0 · @8.00
+- ⏳ 3-1 · @8.63
 
 **22:00 · Bayern Münih – Arsenal**
 
@@ -109,6 +129,7 @@
 **22:00 · Club Brugge – RC Lens**
 
 - ⏳ 1-1 · @7.04
+- ⏳ 2-1 · @8.05
 
 **22:00 · Real Betis – Feyenoord**
 

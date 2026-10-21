@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/124 tuttu** (isabet %72, beklenen %77) · -15.32 birim · 15 tahmin sonuç bekliyor
+**90/125 tuttu** (isabet %72, beklenen %77) · -15.12 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,6 +28,14 @@
 
 - ⏳ Korner 7.5 Üst · @1.20
 
+**19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
+
+- ⏳ MS 1 · @1.24
+
+**19:45 · Getafe – Lugano**
+
+- ⏳ Korner 10.5 Alt · @1.20
+
 **22:00 · Omonia – Benfica**
 
 - ⏳ MS 2 · @1.26
@@ -40,7 +48,7 @@
 
 **19:45 · Lille – Galatasaray**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-4
 
 **22:00 · Real Madrid – Leipzig**
 
@@ -49,6 +57,7 @@
 **22:00 · Inter – Shakhtar Donetsk**
 
 - ⏳ MS 1 & 2.5 Üst · @1.32
+- ⏳ 2.5 Üst · @1.23
 
 **22:00 · Bayern Münih – Arsenal**
 
@@ -61,6 +70,7 @@
 **22:00 · Sporting Lizbon – LASK**
 
 - ⏳ MS 1 & 2.5 Üst · @1.32
+- ⏳ MS 1 · @1.23
 
 ## 20.10.2026 Salı
 

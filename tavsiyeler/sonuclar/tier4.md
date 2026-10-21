@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/105 tuttu** (isabet %31, beklenen %33) · -17.45 birim · 12 tahmin sonuç bekliyor
+**35/107 tuttu** (isabet %33, beklenen %33) · -14.27 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,6 +21,10 @@
 
 - ⏳ En çok korner 2 · @2.32
 
+**19:45 · Trabzonspor – Hearts**
+
+- ⏳ MS 1 & KG Var · @2.38
+
 **22:00 · Viktoria Plzen – Levski Sofya**
 
 - ⏳ MS 1 & 2.5 Üst · @2.42
@@ -33,15 +37,19 @@
 
 - ⏳ En çok korner 2 · @2.47
 
+**22:00 · Hoffenheim – Lyon**
+
+- ⏳ MS 1 & 2.5 Üst · @2.53
+
 ## 21.10.2026 Çarşamba
 
 **19:45 · Lille – Galatasaray**
 
-- ⏳ Korner 8.5 Alt · @2.36
+- ✅ Korner 8.5 Alt · @2.36 · korner 3-3
 
 **19:45 · Como 1907 – Manchester United**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.82
+- ✅ ↳ MS 1 & 2.5 Üst · @2.82 · 4-1
 
 **22:00 · Bayern Münih – Arsenal**
 

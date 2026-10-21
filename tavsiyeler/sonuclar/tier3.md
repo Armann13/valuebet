@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**64/145 tuttu** (isabet %44, beklenen %46) · -12.38 birim · 18 tahmin sonuç bekliyor
+**64/145 tuttu** (isabet %44, beklenen %46) · -12.38 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -31,6 +31,7 @@
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ MS 1 · @1.95
+- ⏳ ↳ Korner 8.5 Alt · @2.12
 
 ## 21.10.2026 Çarşamba
 
@@ -50,6 +51,10 @@
 **22:00 · Sporting Lizbon – LASK**
 
 - ⏳ ↳ MS 1 & KG Var · @2.12
+
+**22:00 · Aston Villa – Viking**
+
+- ⏳ MS 1 & KG Var · @2.00
 
 ## 20.10.2026 Salı
 

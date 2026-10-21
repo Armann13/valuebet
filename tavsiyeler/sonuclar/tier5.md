@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/44 tuttu** (isabet %18, beklenen %16) · -1.13 birim · 5 tahmin sonuç bekliyor
+**8/44 tuttu** (isabet %18, beklenen %16) · -1.13 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,10 @@
 **19:45 · Getafe – Lugano**
 
 - ⏳ 1-0 · @5.61
+
+**19:45 · Jablonec – Brighton**
+
+- ⏳ 0-2 · @5.88
 
 **22:00 · Braga – KAA Gent**
 
