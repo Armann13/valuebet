@@ -2,9 +2,36 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/105 tuttu** (isabet %31, beklenen %33) · -17.45 birim · 5 tahmin sonuç bekliyor
+**33/105 tuttu** (isabet %31, beklenen %33) · -17.45 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.10.2026 Perşembe
+
+**17:30 · K Almaty – Panathinaikos**
+
+- ⏳ MS 2 & 2.5 Üst · @2.38
+- ⏳ ↳ Korner 6.5 Alt · @3.10
+
+**19:45 · Zalgiris Kaunas – Brann**
+
+- ⏳ MS 2 & 2.5 Üst · @2.47
+
+**19:45 · Kızıl Yıldız – Kopenhag**
+
+- ⏳ En çok korner 2 · @2.32
+
+**22:00 · Viktoria Plzen – Levski Sofya**
+
+- ⏳ MS 1 & 2.5 Üst · @2.42
+
+**22:00 · Celtic – Celta Vigo**
+
+- ⏳ MS 2 · @2.37
+
+**22:00 · Beşiktaş – Crystal Palace**
+
+- ⏳ En çok korner 2 · @2.47
 
 ## 21.10.2026 Çarşamba
 

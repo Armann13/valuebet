@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/44 tuttu** (isabet %18, beklenen %16) · -1.13 birim · 2 tahmin sonuç bekliyor
+**8/44 tuttu** (isabet %18, beklenen %16) · -1.13 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.10.2026 Perşembe
+
+**19:45 · Ferencvaros – Torreense**
+
+- ⏳ 2-0 · @5.72
+
+**19:45 · Getafe – Lugano**
+
+- ⏳ 1-0 · @5.61
+
+**22:00 · Braga – KAA Gent**
+
+- ⏳ 1-0 · @5.23
 
 ## 21.10.2026 Çarşamba
 

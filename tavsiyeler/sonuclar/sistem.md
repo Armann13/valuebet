@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**134/244 tuttu** (isabet %55, beklenen %66) · -46.26 birim · 15 tahmin sonuç bekliyor
+**134/244 tuttu** (isabet %55, beklenen %66) · -46.26 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.10 08:00 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.40
+- ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.43
+- ⏳ 22.10 19:45 Ofi Crete – B. Leverkusen · ↳ MS 2 & 2.5 Üst · @1.41
+- ⏳ 22.10 19:45 Ararat – AZ Alkmaar · MS 2 · @1.40
+- ⏳ 22.10 19:45 Pafos FC – Riga FC · En çok korner 1 · @1.40
+- ⏳ 22.10 19:45 Juventus – Rennes · MS 1 · @1.43
+- ⏳ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · MS 1 · @1.41
+- ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
 
 ## 20.10 22:23 gönderilen kupon · 6'de 4
 

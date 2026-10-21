@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**96/162 tuttu** (isabet %59, beklenen %63) · -17.71 birim · 11 tahmin sonuç bekliyor
+**96/162 tuttu** (isabet %59, beklenen %63) · -17.71 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.10.2026 Perşembe
+
+**19:45 · Ofi Crete – B. Leverkusen**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.41
+
+**19:45 · Ararat – AZ Alkmaar**
+
+- ⏳ MS 2 · @1.40
+
+**19:45 · Juventus – Rennes**
+
+- ⏳ MS 1 · @1.43
+
+**19:45 · Pafos FC – Riga FC**
+
+- ⏳ En çok korner 1 · @1.40
+
+**19:45 · Lech Poznan – Sunderland**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
+
+**22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
+
+- ⏳ MS 1 · @1.41
+
+**22:00 · Midtjylland – St. Truidense**
+
+- ⏳ En çok korner 1 · @1.40
 
 ## 21.10.2026 Çarşamba
 

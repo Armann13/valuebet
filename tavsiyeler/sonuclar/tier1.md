@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**89/124 tuttu** (isabet %72, beklenen %77) · -15.32 birim · 8 tahmin sonuç bekliyor
+**89/124 tuttu** (isabet %72, beklenen %77) · -15.32 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.10.2026 Perşembe
+
+**17:30 · K Almaty – Panathinaikos**
+
+- ⏳ Korner 10.5 Alt · @1.20
+
+**19:45 · Ferencvaros – Torreense**
+
+- ⏳ MS 1 · @1.21
+
+**19:45 · Trabzonspor – Hearts**
+
+- ⏳ MS 1 · @1.22
+
+**19:45 · Nordsjælland – CSKA Sofya**
+
+- ⏳ MS 1 · @1.27
+
+**19:45 · Lech Poznan – Sunderland**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
+**22:00 · Omonia – Benfica**
+
+- ⏳ MS 2 · @1.26
+
+**22:00 · Bournemouth – AC Milan**
+
+- ⏳ Korner 11.5 Alt · @1.20
 
 ## 21.10.2026 Çarşamba
 
