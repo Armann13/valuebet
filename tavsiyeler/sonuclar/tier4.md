@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/107 tuttu** (isabet %33, beklenen %33) · -14.27 birim · 12 tahmin sonuç bekliyor
+**35/108 tuttu** (isabet %32, beklenen %33) · -15.27 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -53,7 +53,7 @@
 
 **22:00 · Bayern Münih – Arsenal**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.87
+- ❌ ↳ Korner 7.5 Alt · @2.87 · korner 3-5
 
 ## 20.10.2026 Salı
 

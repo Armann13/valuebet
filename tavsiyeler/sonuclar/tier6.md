@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/256 tuttu** (isabet %11, beklenen %11) · -63.04 birim · 42 tahmin sonuç bekliyor
+**28/263 tuttu** (isabet %11, beklenen %11) · -61.41 birim · 35 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -119,25 +119,25 @@
 
 **22:00 · Aston Villa – Viking**
 
-- ⏳ 3-0 · @8.00
-- ⏳ 3-1 · @8.63
+- ❌ 3-0 · @8.00 · 3-1
+- ✅ 3-1 · @8.63 · 3-1
 
 **22:00 · Bayern Münih – Arsenal**
 
-- ⏳ 2-1 · @7.85
+- ❌ 2-1 · @7.85 · 2-2
 
 **22:00 · Club Brugge – RC Lens**
 
-- ⏳ 1-1 · @7.04
-- ⏳ 2-1 · @8.05
+- ❌ 1-1 · @7.04 · 3-0
+- ❌ 2-1 · @8.05 · 3-0
 
 **22:00 · Real Betis – Feyenoord**
 
-- ⏳ 2-1 · @7.73
+- ❌ 2-1 · @7.73 · 1-0
 
 **22:00 · Real Madrid – Leipzig**
 
-- ⏳ 3-1 · @8.65
+- ❌ 3-1 · @8.65 · 4-1
 
 **22:00 · Inter – Shakhtar Donetsk**
 

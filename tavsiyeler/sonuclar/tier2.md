@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**98/164 tuttu** (isabet %60, beklenen %63) · -16.85 birim · 21 tahmin sonuç bekliyor
+**99/166 tuttu** (isabet %60, beklenen %63) · -16.96 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -66,11 +66,11 @@
 **22:00 · Aston Villa – Viking**
 
 - ⏳ İY/MS 1/1 · @1.45
-- ⏳ Korner 10.5 Alt · @1.43
+- ❌ Korner 10.5 Alt · @1.43 · korner 8-6
 
 **22:00 · Real Madrid – Leipzig**
 
-- ⏳ ↳ MS 1 & KG Var · @1.89
+- ✅ ↳ MS 1 & KG Var · @1.89 · 4-1
 
 ## 20.10.2026 Salı
 

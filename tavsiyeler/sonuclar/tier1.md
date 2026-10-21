@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**90/125 tuttu** (isabet %72, beklenen %77) · -15.12 birim · 18 tahmin sonuç bekliyor
+**93/128 tuttu** (isabet %73, beklenen %77) · -14.39 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -52,7 +52,7 @@
 
 **22:00 · Real Madrid – Leipzig**
 
-- ⏳ MS 1 & 2.5 Üst · @1.32
+- ✅ MS 1 & 2.5 Üst · @1.32 · 4-1
 
 **22:00 · Inter – Shakhtar Donetsk**
 
@@ -61,11 +61,11 @@
 
 **22:00 · Bayern Münih – Arsenal**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 3-5
 
 **22:00 · Real Betis – Feyenoord**
 
-- ⏳ Korner 7.5 Üst · @1.21
+- ✅ Korner 7.5 Üst · @1.21 · korner 4-4
 
 **22:00 · Sporting Lizbon – LASK**
 

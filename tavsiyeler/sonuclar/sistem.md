@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**137/247 tuttu** (isabet %55, beklenen %66) · -45.00 birim · 28 tahmin sonuç bekliyor
+**140/250 tuttu** (isabet %56, beklenen %66) · -43.71 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -34,26 +34,26 @@ Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 20.10 22:23 gönderilen kupon · 6'de 4
 
-Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ✅ 21.10 19:45 Como 1907 – Manchester United · 2.5 Üst · @1.43 · 4-1
 - ✅ 21.10 19:45 Lille – Galatasaray · 2.5 Üst · @1.43 · 2-4
-- ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.31
+- ✅ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.31 · 4-1
 - ⏳ 21.10 22:00 Sporting Lizbon – LASK · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.43
 
 ## 20.10 11:42 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ❌ 20.10 19:45 Fenerbahçe – Slavia Prag · MS 1 · @1.43 · 2-2
 - ❌ 20.10 22:00 Porto – PSV · MS 1 · @1.40 · 0-1
 - ❌ 20.10 22:00 Paris Saint Germain – Barcelona · ↳ Korner 8.5 Üst · @1.42 · korner 2-3
-- ⏳ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.32
+- ✅ 21.10 22:00 Real Madrid – Leipzig · MS 1 & 2.5 Üst · @1.32 · 4-1
 - ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · MS 1 & 2.5 Üst · @1.32
 - ⏳ 21.10 22:00 Aston Villa – Viking · İY/MS 1/1 · @1.45
-- ⏳ 21.10 22:00 Bayern Münih – Arsenal · ↳ Korner 9.5 Alt · @1.66
+- ✅ 21.10 22:00 Bayern Münih – Arsenal · ↳ Korner 9.5 Alt · @1.66 · korner 3-5
 
 ## 19.10 16:32 gönderilen kupon · 8'de 7
 
