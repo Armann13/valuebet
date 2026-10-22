@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**192/349 tuttu** (isabet %55, beklenen %61) · -49.97 birim · 22 tahmin sonuç bekliyor
+**192/349 tuttu** (isabet %55, beklenen %61) · -49.97 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.10.2026 Cuma
+
+**22:00 · Alaves – Malaga CF**
+
+- ⏳ 🟡 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.41
 
 ## 22.10.2026 Perşembe
 
@@ -12,6 +19,7 @@
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.20
 - ⏳ 🟣 ↳ Korner 6.5 Alt · @3.10
+- ⏳ 🎰 ↳ Korner 8.5 Alt · @1.70
 
 **19:45 · Lech Poznan – Sunderland**
 
@@ -36,6 +44,14 @@
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.20
 
+**19:45 · Sturm Graz – Marsilya**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.87
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
@@ -47,6 +63,7 @@
 - ⏳ 🟡 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
+- ⏳ 🎰 En çok korner 1 · @1.40
 
 **22:00 · Beşiktaş – Crystal Palace**
 
@@ -56,6 +73,10 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.43
 - ⏳ 🎰 En çok korner 1 · @1.43
+
+**22:00 · Monaco – Freiburg**
+
+- ⏳ 🔴 En çok korner 1 · @1.78
 
 ## 21.10.2026 Çarşamba
 

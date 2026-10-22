@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/263 tuttu** (isabet %11, beklenen %11) · -61.41 birim · 35 tahmin sonuç bekliyor
+**28/263 tuttu** (isabet %11, beklenen %11) · -61.41 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.10.2026 Cuma
+
+**20:00 · Alanyaspor – Kocaelispor**
+
+- ⏳ 1-0 · @5.27
+
+**22:00 · Bolton – Middlesbrough**
+
+- ⏳ 1-2 · @7.36
+
+**22:00 · Alaves – Malaga CF**
+
+- ⏳ 1-0 · @5.56
 
 ## 22.10.2026 Perşembe
 
@@ -16,6 +30,7 @@
 **19:45 · Lech Poznan – Sunderland**
 
 - ⏳ 0-1 · @6.52
+- ⏳ 1-1 · @6.26
 
 **19:45 · Pafos FC – Riga FC**
 
@@ -24,6 +39,7 @@
 **19:45 · Juventus – Rennes**
 
 - ⏳ 2-1 · @7.25
+- ⏳ 2-0 · @6.53
 
 **19:45 · Zalgiris Kaunas – Brann**
 
@@ -49,6 +65,7 @@
 **19:45 · Trabzonspor – Hearts**
 
 - ⏳ 2-1 · @7.60
+- ⏳ 3-0 · @7.96
 
 **19:45 · Ofi Crete – B. Leverkusen**
 
@@ -61,6 +78,7 @@
 **19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
 
 - ⏳ 2-1 · @7.51
+- ⏳ 2-0 · @6.53
 
 **22:00 · Banja Luka – Kuopion**
 
@@ -106,6 +124,10 @@
 **22:00 · Hoffenheim – Lyon**
 
 - ⏳ 2-1 · @7.93
+
+**22:00 · Monaco – Freiburg**
+
+- ⏳ 1-1 · @5.95
 
 ## 21.10.2026 Çarşamba
 

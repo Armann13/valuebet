@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**99/166 tuttu** (isabet %60, beklenen %63) · -16.96 birim · 19 tahmin sonuç bekliyor
+**99/166 tuttu** (isabet %60, beklenen %63) · -16.96 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.10.2026 Cuma
+
+**22:00 · Bolton – Middlesbrough**
+
+- ⏳ MS 2 · @1.43
+
+**22:00 · Alaves – Malaga CF**
+
+- ⏳ En çok korner 1 · @1.41
 
 ## 22.10.2026 Perşembe
 
@@ -32,6 +42,14 @@
 
 - ⏳ MS 2 · @1.46
 
+**19:45 · Trabzonspor – Hearts**
+
+- ⏳ MS 1 & 2.5 Üst · @1.45
+
+**19:45 · Sturm Graz – Marsilya**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
+
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
 - ⏳ MS 1 · @1.41
@@ -52,6 +70,10 @@
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.66
+
+**22:00 · Omonia – Benfica**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.65
 
 ## 21.10.2026 Çarşamba
 

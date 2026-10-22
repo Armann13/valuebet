@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**93/128 tuttu** (isabet %73, beklenen %77) · -14.39 birim · 15 tahmin sonuç bekliyor
+**93/128 tuttu** (isabet %73, beklenen %77) · -14.39 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,6 +35,10 @@
 **19:45 · Getafe – Lugano**
 
 - ⏳ Korner 10.5 Alt · @1.20
+
+**19:45 · Sturm Graz – Marsilya**
+
+- ⏳ Korner 7.5 Üst · @1.20
 
 **22:00 · Omonia – Benfica**
 
