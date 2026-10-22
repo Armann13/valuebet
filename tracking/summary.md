@@ -11,7 +11,7 @@ Az veriyle sonuçlar çok gürültülüdür; asıl ölçüt birkaç yüz maçtan
 | D2 | 14 | 14 | -0.0067 ± 0.0494 (n=14) | -0.0241 ± 0.0795 (n=14) |
 | E0 | 20 | 20 | +0.0439 ± 0.0682 (n=20) | +0.0153 ± 0.0346 (n=20) |
 | E1 | 26 | 26 | +0.0249 ± 0.0506 (n=26) | +0.0123 ± 0.0442 (n=26) |
-| E2 | 28 | 27 | +0.0491 ± 0.0705 (n=27) | -0.0031 ± 0.0550 (n=27) |
+| E2 | 28 | 28 | +0.0548 ± 0.0689 (n=28) | -0.0058 ± 0.0532 (n=28) |
 | E3 | 32 | 32 | -0.0139 ± 0.0679 (n=32) | -0.0366 ± 0.0500 (n=32) |
 | EC | 24 | 24 | +0.0653 ± 0.0669 (n=24) | +0.0157 ± 0.0581 (n=24) |
 | F1 | 16 | 16 | -0.0142 ± 0.1071 (n=16) | +0.0781 ± 0.0406 (n=16) |
@@ -25,15 +25,15 @@ Az veriyle sonuçlar çok gürültülüdür; asıl ölçüt birkaç yüz maçtan
 | SC1 | 12 | 12 | +0.0580 ± 0.1139 (n=12) | +0.0029 ± 0.1018 (n=12) |
 | SC2 | 15 | 15 | +0.0700 ± 0.1005 (n=15) | +0.0459 ± 0.0465 (n=15) |
 | SC3 | 15 | 15 | +0.0831 ± 0.0707 (n=15) | +0.0211 ± 0.0665 (n=15) |
-| SP1 | 19 | 17 | +0.0935 ± 0.0528 (n=17) | -0.0001 ± 0.0702 (n=17) |
+| SP1 | 19 | 18 | +0.0742 ± 0.0625 (n=18) | -0.0007 ± 0.0662 (n=18) |
 | SP2 | 31 | 31 | +0.0063 ± 0.0619 (n=31) | +0.0259 ± 0.0416 (n=31) |
 | T1 | 16 | 16 | +0.0879 ± 0.0949 (n=16) | +0.0261 ± 0.0902 (n=16) |
-| toplam | 386 | 383 | +0.0262 ± 0.0179 (n=383) | +0.0131 ± 0.0137 (n=383) |
+| toplam | 386 | 385 | +0.0259 ± 0.0179 (n=385) | +0.0128 ± 0.0136 (n=385) |
 
 ## Kağıt bahisler
 | kural | bahis | açık | sonuçlanan | ort. oran | ROI_% | CLV_ort_% | CLV ±GA_% | CLV>0_% |
 |---|---|---|---|---|---|---|---|---|
-| Model | 430 | 5 | 425 | 3.06 | -12.31 | -7.58 | 0.84 | 18.12 |
+| Model | 430 | 2 | 428 | 3.06 | -11.60 | -7.57 | 0.83 | 17.99 |
 | Keskin açılış adil fiyatı (model yok) | 3 | 0 | 3 | 3.72 | -100.00 | 0.66 | 4.41 | 66.67 |
 | Model + keskin piyasa onayı (predict'teki VALUE kuralı) | 3 | 0 | 3 | 3.43 | 68.33 | 0.74 | 3.93 | 66.67 |
 
@@ -43,9 +43,9 @@ Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji k
 
 | grup | sonuç sayısı | maç | ort. oran | CLV ilk oran_% | ±GA_% | CLV son oran_% | CLV>0_% | ROI_% |
 |---|---|---|---|---|---|---|---|---|
-| Tüm İddaa fiyatları | 1790 | 364 | 2.65 | -13.47 | 0.35 | -13.73 | 2.01 | -15.86 |
+| Tüm İddaa fiyatları | 1910 | 388 | 2.64 | -13.66 | 0.34 | -13.88 | 1.99 | -15.85 |
 | İddaa > keskin açılış adil fiyatı | 0 | 0 | — | — | — | — | — | — |
-| Model edge ≥ %3 (onaysız) | 234 | 169 | 4.23 | -16.33 | 1.32 | -16.91 | 3.42 | -29.43 |
+| Model edge ≥ %3 (onaysız) | 236 | 171 | 4.23 | -16.32 | 1.31 | -16.85 | 3.39 | -28.71 |
 | Model edge + keskin onay (VALUE) | 0 | 0 | — | — | — | — | — | — |
 
-Sonuçlanmamış (açık) maç: 135. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
+Sonuçlanmamış (açık) maç: 111. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
