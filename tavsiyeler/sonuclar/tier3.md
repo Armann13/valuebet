@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**67/149 tuttu** (isabet %45, beklenen %46) · -10.83 birim · 22 tahmin sonuç bekliyor
+**68/152 tuttu** (isabet %45, beklenen %46) · -11.99 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **20:00 · Alanyaspor – Kocaelispor**
 
 - ⏳ MS 1 · @1.84
+
+**21:45 · Brest – Nice**
+
+- ⏳ En çok korner 2 · @2.07
 
 ## 22.10.2026 Perşembe
 
@@ -21,15 +25,15 @@
 
 **19:45 · Ararat – AZ Alkmaar**
 
-- ⏳ Korner 9.5 Alt · @1.71
+- ❌ Korner 9.5 Alt · @1.71 · korner 5-6
 
 **19:45 · Lech Poznan – Sunderland**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.72
+- ❌ ↳ Korner 9.5 Üst · @1.72 · korner 3-6
 
 **19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
 
-- ⏳ KG Yok · @1.84
+- ✅ KG Yok · @1.84 · 4-0
 
 **19:45 · Juventus – Rennes**
 
@@ -55,6 +59,10 @@
 **22:00 · Monaco – Freiburg**
 
 - ⏳ En çok korner 1 · @1.78
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ ↳ Korner 9.5 Üst · @1.72
 
 ## 21.10.2026 Çarşamba
 

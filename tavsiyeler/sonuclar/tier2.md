@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**99/166 tuttu** (isabet %60, beklenen %63) · -16.96 birim · 24 tahmin sonuç bekliyor
+**103/171 tuttu** (isabet %60, beklenen %63) · -16.29 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,11 +20,11 @@
 
 **19:45 · Ofi Crete – B. Leverkusen**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.41
+- ❌ ↳ MS 2 & 2.5 Üst · @1.41 · 0-2
 
 **19:45 · Ararat – AZ Alkmaar**
 
-- ⏳ MS 2 · @1.40
+- ✅ MS 2 · @1.40 · 0-4
 
 **19:45 · Juventus – Rennes**
 
@@ -32,15 +32,15 @@
 
 **19:45 · Pafos FC – Riga FC**
 
-- ⏳ En çok korner 1 · @1.40
+- ✅ En çok korner 1 · @1.40 · korner 10-4
 
 **19:45 · Lech Poznan – Sunderland**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.41
+- ✅ ↳ Korner 8.5 Üst · @1.41 · korner 3-6
 
 **19:45 · Inter Club De Escaldes – Un. Craiova**
 
-- ⏳ MS 2 · @1.46
+- ✅ MS 2 · @1.46 · 1-3
 
 **19:45 · Trabzonspor – Hearts**
 
@@ -74,6 +74,18 @@
 **22:00 · Omonia – Benfica**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @1.65
+
+**22:00 · Lincoln Red – Twente**
+
+- ⏳ KG Yok · @1.60
+
+**22:00 · Thun – Hajduk Split**
+
+- ⏳ 2.5 Üst · @1.40
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
 
 ## 21.10.2026 Çarşamba
 

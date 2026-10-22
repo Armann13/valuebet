@@ -2,16 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**193/352 tuttu** (isabet %55, beklenen %61) · -51.77 birim · 29 tahmin sonuç bekliyor
+**197/359 tuttu** (isabet %55, beklenen %61) · -53.36 birim · 31 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 23.10.2026 Cuma
 
+**21:45 · Brest – Nice**
+
+- ⏳ 🔴 En çok korner 2 · @2.07
+
 **22:00 · Alaves – Malaga CF**
 
 - ⏳ 🟡 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
+- ⏳ 🎰 En çok korner 1 · @1.40
 
 ## 22.10.2026 Perşembe
 
@@ -23,18 +28,18 @@
 
 **19:45 · Lech Poznan – Sunderland**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 3-6
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 3-6
+- ❌ 🔴 ↳ Korner 9.5 Üst · @1.72 · korner 3-6
 
 **19:45 · Pafos FC – Riga FC**
 
-- ⏳ 🟡 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
+- ✅ 🟡 En çok korner 1 · @1.40 · korner 10-4
+- ✅ 🎰 En çok korner 1 · @1.40 · korner 10-4
 
 **19:45 · Ararat – AZ Alkmaar**
 
-- ⏳ 🔴 Korner 9.5 Alt · @1.71
+- ❌ 🔴 Korner 9.5 Alt · @1.71 · korner 5-6
 
 **19:45 · Kızıl Yıldız – Kopenhag**
 
@@ -42,7 +47,7 @@
 
 **19:45 · Getafe – Lugano**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.20
+- ❌ 🟢 Korner 10.5 Alt · @1.20 · korner 15-2
 
 **19:45 · Sturm Graz – Marsilya**
 
@@ -57,6 +62,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
+- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.66
 
 **22:00 · Midtjylland – St. Truidense**
 
@@ -64,6 +70,7 @@
 - ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
 - ⏳ 🎰 En çok korner 1 · @1.40
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
 
 **22:00 · Beşiktaş – Crystal Palace**
 
@@ -77,6 +84,14 @@
 **22:00 · Monaco – Freiburg**
 
 - ⏳ 🔴 En çok korner 1 · @1.78
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
+- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.88
+- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
 
 ## 21.10.2026 Çarşamba
 

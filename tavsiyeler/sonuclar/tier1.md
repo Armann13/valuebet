@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/129 tuttu** (isabet %73, beklenen %77) · -14.19 birim · 15 tahmin sonuç bekliyor
+**97/134 tuttu** (isabet %72, beklenen %77) · -15.54 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,7 +14,7 @@
 
 **19:45 · Ferencvaros – Torreense**
 
-- ⏳ MS 1 · @1.21
+- ✅ MS 1 · @1.21 · 4-1
 
 **19:45 · Trabzonspor – Hearts**
 
@@ -22,19 +22,19 @@
 
 **19:45 · Nordsjælland – CSKA Sofya**
 
-- ⏳ MS 1 · @1.27
+- ❌ MS 1 · @1.27 · 2-2
 
 **19:45 · Lech Poznan – Sunderland**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 3-6
 
 **19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
 
-- ⏳ MS 1 · @1.24
+- ✅ MS 1 · @1.24 · 4-0
 
 **19:45 · Getafe – Lugano**
 
-- ⏳ Korner 10.5 Alt · @1.20
+- ❌ Korner 10.5 Alt · @1.20 · korner 15-2
 
 **19:45 · Sturm Graz – Marsilya**
 
@@ -47,6 +47,14 @@
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ Korner 11.5 Alt · @1.20
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
+**22:00 · Midtjylland – St. Truidense**
+
+- ⏳ Korner 7.5 Üst · @1.20
 
 ## 21.10.2026 Çarşamba
 

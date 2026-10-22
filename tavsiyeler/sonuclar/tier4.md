@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/110 tuttu** (isabet %33, beklenen %33) · -14.89 birim · 13 tahmin sonuç bekliyor
+**36/111 tuttu** (isabet %32, beklenen %33) · -15.89 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -38,7 +38,7 @@
 
 **19:45 · Ararat – AZ Alkmaar**
 
-- ⏳ ↳ MS 2 & KG Var · @2.55
+- ❌ ↳ MS 2 & KG Var · @2.55 · 0-4
 
 **22:00 · Viktoria Plzen – Levski Sofya**
 
@@ -55,6 +55,18 @@
 **22:00 · Hoffenheim – Lyon**
 
 - ⏳ MS 1 & 2.5 Üst · @2.53
+
+**22:00 · Lillestrom – Real Sociedad**
+
+- ⏳ MS 2 & KG Var · @2.39
+
+**22:00 · Thun – Hajduk Split**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.93
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ ↳ Korner 11.5 Üst · @2.88
 
 ## 21.10.2026 Çarşamba
 

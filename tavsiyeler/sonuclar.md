@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 22.10.2026 17:20. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 22.10.2026 19:36. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,14 +8,14 @@ Son güncelleme: 22.10.2026 17:20. Sadece Telegram'da gönderilen tahminler (ilk
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| [🟢 Tier 1](sonuclar/tier1.md) | 144 | 129 | 94 | %73 | %77 | -14.19 | %-11 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 190 | 166 | 99 | %60 | %63 | -16.96 | %-10 |
-| [🔴 Tier 3](sonuclar/tier3.md) | 171 | 149 | 67 | %45 | %46 | -10.83 | %-7 |
-| [🟣 Tier 4](sonuclar/tier4.md) | 123 | 110 | 36 | %33 | %33 | -14.89 | %-14 |
-| [⚡ Tier 5](sonuclar/tier5.md) | 50 | 46 | 8 | %17 | %16 | -3.13 | %-7 |
-| [🔥 Tier 6](sonuclar/tier6.md) | 306 | 265 | 28 | %11 | %11 | -63.41 | %-24 |
-| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 381 | 352 | 193 | %55 | %61 | -51.77 | %-15 |
-| [🎰 Sistem ayakları](sonuclar/sistem.md) | 282 | 251 | 140 | %56 | %66 | -44.71 | %-18 |
+| [🟢 Tier 1](sonuclar/tier1.md) | 146 | 134 | 97 | %72 | %77 | -15.54 | %-12 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 193 | 171 | 103 | %60 | %63 | -16.29 | %-10 |
+| [🔴 Tier 3](sonuclar/tier3.md) | 173 | 152 | 68 | %45 | %46 | -11.99 | %-8 |
+| [🟣 Tier 4](sonuclar/tier4.md) | 126 | 111 | 36 | %32 | %33 | -15.89 | %-14 |
+| [⚡ Tier 5](sonuclar/tier5.md) | 50 | 49 | 8 | %16 | %16 | -6.13 | %-13 |
+| [🔥 Tier 6](sonuclar/tier6.md) | 311 | 274 | 29 | %11 | %11 | -66.15 | %-24 |
+| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 390 | 359 | 197 | %55 | %61 | -53.36 | %-15 |
+| [🎰 Sistem ayakları](sonuclar/sistem.md) | 289 | 255 | 143 | %56 | %66 | -44.45 | %-17 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 41 | 41 | 26 | %63 | %45 | +19.33 | %47 |
 
 ## Sistem kuponları
@@ -59,9 +59,10 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 19.10 16:32 | 8'de 7 | 4/8 | 8 | 0.00 | -8.00 |
 | 20.10 11:42 | 7'de 6 | 2/7 | 7 | ⏳ | ⏳ |
 | 20.10 22:23 | 6'de 4 | 3/6 | 15 | ⏳ | ⏳ |
-| 21.10 08:00 | 8'de 7 | 1/8 | 8 | ⏳ | ⏳ |
-| 21.10 20:21 | 8'de 7 | 0/8 | 8 | ⏳ | ⏳ |
+| 21.10 08:00 | 8'de 7 | 3/8 | 8 | ⏳ | ⏳ |
+| 21.10 20:21 | 8'de 7 | 1/8 | 8 | ⏳ | ⏳ |
 | 22.10 15:07 | 7'de 6 | 0/7 | 7 | ⏳ | ⏳ |
+| 22.10 20:20 | 7'de 6 | 0/7 | 7 | ⏳ | ⏳ |
 | **toplam** (30 kupon) | | | 276 | 70.92 | -205.08 |
 
 ## Gün gün
@@ -88,5 +89,5 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 | 19.10.2026 | 26 | 26 | 10 | %38 | %42 | -2.49 |
 | 20.10.2026 | 49 | 47 | 13 | %28 | %41 | -13.12 |
 | 21.10.2026 | 49 | 32 | 19 | %59 | %42 | +5.59 |
-| 22.10.2026 | 102 | 6 | 2 | %33 | %35 | -2.42 |
-| 23.10.2026 | 9 | 0 | 0 | — | — | — |
+| 22.10.2026 | 120 | 36 | 14 | %39 | %42 | -10.74 |
+| 23.10.2026 | 13 | 0 | 0 | — | — | — |

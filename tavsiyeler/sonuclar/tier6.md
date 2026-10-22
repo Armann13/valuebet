@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/265 tuttu** (isabet %11, beklenen %11) · -63.41 birim · 41 tahmin sonuç bekliyor
+**29/274 tuttu** (isabet %11, beklenen %11) · -66.15 birim · 37 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **20:00 · Alanyaspor – Kocaelispor**
 
 - ⏳ 1-0 · @5.27
+
+**21:45 · Brest – Nice**
+
+- ⏳ 1-1 · @5.72
 
 **22:00 · Bolton – Middlesbrough**
 
@@ -29,12 +33,12 @@
 
 **19:45 · Lech Poznan – Sunderland**
 
-- ⏳ 0-1 · @6.52
-- ⏳ 1-1 · @6.26
+- ❌ 0-1 · @6.52 · 1-1
+- ✅ 1-1 · @6.26 · 1-1
 
 **19:45 · Pafos FC – Riga FC**
 
-- ⏳ 1-0 · @6.92
+- ❌ 1-0 · @6.92 · 1-1
 
 **19:45 · Juventus – Rennes**
 
@@ -47,7 +51,7 @@
 
 **19:45 · Ararat – AZ Alkmaar**
 
-- ⏳ 1-2 · @7.28
+- ❌ 1-2 · @7.28 · 0-4
 
 **19:45 · Sturm Graz – Marsilya**
 
@@ -60,7 +64,7 @@
 
 **19:45 · Nordsjælland – CSKA Sofya**
 
-- ⏳ 2-1 · @7.43
+- ❌ 2-1 · @7.43 · 2-2
 
 **19:45 · Trabzonspor – Hearts**
 
@@ -69,16 +73,16 @@
 
 **19:45 · Ofi Crete – B. Leverkusen**
 
-- ⏳ 1-3 · @8.79
+- ❌ 1-3 · @8.79 · 0-2
 
 **19:45 · Inter Club De Escaldes – Un. Craiova**
 
-- ⏳ 1-2 · @7.35
+- ❌ 1-2 · @7.35 · 1-3
 
 **19:45 · Union Saint Gilloise – Hapoel Beer Sheva**
 
-- ⏳ 2-1 · @7.51
-- ⏳ 2-0 · @6.53
+- ❌ 2-1 · @7.51 · 4-0
+- ❌ 2-0 · @6.53 · 4-0
 
 **22:00 · Banja Luka – Kuopion**
 
@@ -104,6 +108,7 @@
 **22:00 · Bournemouth – AC Milan**
 
 - ⏳ 2-1 · @7.86
+- ⏳ 1-1 · @6.23
 
 **22:00 · Beşiktaş – Crystal Palace**
 
@@ -128,6 +133,18 @@
 **22:00 · Monaco – Freiburg**
 
 - ⏳ 1-1 · @5.95
+
+**22:00 · Lincoln Red – Twente**
+
+- ⏳ 0-3 · @6.12
+
+**22:00 · Jagiellonia Bialystok – Anderlecht**
+
+- ⏳ 1-1 · @5.78
+
+**22:00 · Thun – Hajduk Split**
+
+- ⏳ 1-2 · @8.44
 
 ## 21.10.2026 Çarşamba
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/46 tuttu** (isabet %17, beklenen %16) · -3.13 birim · 4 tahmin sonuç bekliyor
+**8/49 tuttu** (isabet %16, beklenen %16) · -6.13 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 **19:45 · Ferencvaros – Torreense**
 
-- ⏳ 2-0 · @5.72
+- ❌ 2-0 · @5.72 · 4-1
 
 **19:45 · Getafe – Lugano**
 
-- ⏳ 1-0 · @5.61
+- ❌ 1-0 · @5.61 · 2-5
 
 **19:45 · Jablonec – Brighton**
 
-- ⏳ 0-2 · @5.88
+- ❌ 0-2 · @5.88 · 0-0
 
 **22:00 · Braga – KAA Gent**
 
