@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/108 tuttu** (isabet %32, beklenen %33) · -15.27 birim · 15 tahmin sonuç bekliyor
+**36/110 tuttu** (isabet %33, beklenen %33) · -14.89 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,8 +16,8 @@
 
 **17:30 · K Almaty – Panathinaikos**
 
-- ⏳ MS 2 & 2.5 Üst · @2.38
-- ⏳ ↳ Korner 6.5 Alt · @3.10
+- ✅ MS 2 & 2.5 Üst · @2.38 · 1-5
+- ❌ ↳ Korner 6.5 Alt · @3.10 · korner 5-4
 
 **19:45 · Zalgiris Kaunas – Brann**
 

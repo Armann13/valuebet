@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/263 tuttu** (isabet %11, beklenen %11) · -61.41 birim · 43 tahmin sonuç bekliyor
+**28/265 tuttu** (isabet %11, beklenen %11) · -63.41 birim · 41 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,8 +24,8 @@
 
 **17:30 · K Almaty – Panathinaikos**
 
-- ⏳ 1-2 · @7.31
-- ⏳ 0-1 · @6.27
+- ❌ 1-2 · @7.31 · 1-5
+- ❌ 0-1 · @6.27 · 1-5
 
 **19:45 · Lech Poznan – Sunderland**
 

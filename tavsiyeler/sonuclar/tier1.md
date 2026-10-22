@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**93/128 tuttu** (isabet %73, beklenen %77) · -14.39 birim · 16 tahmin sonuç bekliyor
+**94/129 tuttu** (isabet %73, beklenen %77) · -14.19 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **17:30 · K Almaty – Panathinaikos**
 
-- ⏳ Korner 10.5 Alt · @1.20
+- ✅ Korner 10.5 Alt · @1.20 · korner 5-4
 
 **19:45 · Ferencvaros – Torreense**
 

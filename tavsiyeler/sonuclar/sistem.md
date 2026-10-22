@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**140/250 tuttu** (isabet %56, beklenen %66) · -43.71 birim · 32 tahmin sonuç bekliyor
+**140/251 tuttu** (isabet %56, beklenen %66) · -44.71 birim · 31 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 22.10 17:30 K Almaty – Panathinaikos · ↳ Korner 8.5 Alt · @1.70
+- ❌ 22.10 17:30 K Almaty – Panathinaikos · ↳ Korner 8.5 Alt · @1.70 · korner 5-4
 - ⏳ 22.10 19:45 Trabzonspor – Hearts · MS 1 & 2.5 Üst · @1.45
 - ⏳ 22.10 19:45 Sturm Graz – Marsilya · ↳ Korner 8.5 Üst · @1.41
 - ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
