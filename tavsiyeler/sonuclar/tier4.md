@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/111 tuttu** (isabet %32, beklenen %33) · -15.89 birim · 15 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,31 +42,31 @@
 
 **22:00 · Viktoria Plzen – Levski Sofya**
 
-- ⏳ MS 1 & 2.5 Üst · @2.42
+- ❌ MS 1 & 2.5 Üst · @2.42 · 1-2
 
 **22:00 · Celtic – Celta Vigo**
 
-- ⏳ MS 2 · @2.37
+- ✅ MS 2 · @2.37 · 1-2
 
 **22:00 · Beşiktaş – Crystal Palace**
 
-- ⏳ En çok korner 2 · @2.47
+- ✅ En çok korner 2 · @2.47 · korner 1-3
 
 **22:00 · Hoffenheim – Lyon**
 
-- ⏳ MS 1 & 2.5 Üst · @2.53
+- ✅ MS 1 & 2.5 Üst · @2.53 · 3-0
 
 **22:00 · Lillestrom – Real Sociedad**
 
-- ⏳ MS 2 & KG Var · @2.39
+- ❌ MS 2 & KG Var · @2.39 · 0-6
 
 **22:00 · Thun – Hajduk Split**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.93
+- ❌ ↳ MS 2 & 2.5 Üst · @2.93 · 0-1
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.88
+- ❌ ↳ Korner 11.5 Üst · @2.88 · korner 4-4
 
 ## 21.10.2026 Çarşamba
 

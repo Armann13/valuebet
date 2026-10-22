@@ -2,46 +2,46 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**143/255 tuttu** (isabet %56, beklenen %66) · -44.45 birim · 34 tahmin sonuç bekliyor
+**146/268 tuttu** (isabet %54, beklenen %66) · -52.78 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 22.10 20:20 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 22.10 22:00 Lincoln Red – Twente · KG Yok · @1.60
-- ⏳ 22.10 22:00 Thun – Hajduk Split · 2.5 Üst · @1.40
-- ⏳ 22.10 22:00 Jagiellonia Bialystok – Anderlecht · ↳ Korner 8.5 Üst · @1.41
-- ⏳ 22.10 22:00 Omonia – Benfica · ↳ MS 2 & 2.5 Üst · @1.62
-- ⏳ 22.10 22:00 Bournemouth – AC Milan · ↳ Korner 9.5 Alt · @1.66
+- ❌ 22.10 22:00 Lincoln Red – Twente · KG Yok · @1.60 · 1-4
+- ❌ 22.10 22:00 Thun – Hajduk Split · 2.5 Üst · @1.40 · 0-1
+- ❌ 22.10 22:00 Jagiellonia Bialystok – Anderlecht · ↳ Korner 8.5 Üst · @1.41 · korner 4-4
+- ✅ 22.10 22:00 Omonia – Benfica · ↳ MS 2 & 2.5 Üst · @1.62 · 1-4
+- ❌ 22.10 22:00 Bournemouth – AC Milan · ↳ Korner 9.5 Alt · @1.66 · korner 6-4
 - ⏳ 23.10 22:00 Alaves – Malaga CF · En çok korner 1 · @1.40
 - ⏳ 23.10 22:00 Bolton – Middlesbrough · MS 2 · @1.44
 
 ## 22.10 15:07 gönderilen kupon · 7'de 6
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 22.10 17:30 K Almaty – Panathinaikos · ↳ Korner 8.5 Alt · @1.70 · korner 5-4
 - ⏳ 22.10 19:45 Trabzonspor – Hearts · MS 1 & 2.5 Üst · @1.45
 - ⏳ 22.10 19:45 Sturm Graz – Marsilya · ↳ Korner 8.5 Üst · @1.41
-- ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
-- ⏳ 22.10 22:00 Omonia – Benfica · ↳ MS 2 & 2.5 Üst · @1.65
+- ❌ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40 · korner 6-7
+- ✅ 22.10 22:00 Omonia – Benfica · ↳ MS 2 & 2.5 Üst · @1.65 · 1-4
 - ⏳ 23.10 22:00 Alaves – Malaga CF · En çok korner 1 · @1.41
 - ⏳ 23.10 22:00 Bolton – Middlesbrough · MS 2 · @1.43
 
 ## 21.10 20:21 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ⏳ 21.10 22:00 Inter – Shakhtar Donetsk · ↳ MS 1 & 2.5 Üst · @1.41
 - ⏳ 21.10 22:00 Sporting Lizbon – LASK · ↳ MS 1 & 2.5 Üst · @1.50
 - ⏳ 22.10 19:45 Juventus – Rennes · MS 1 · @1.44
 - ✅ 22.10 19:45 Inter Club De Escaldes – Un. Craiova · MS 2 · @1.46 · 1-3
-- ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
-- ⏳ 22.10 22:00 NK Celje – Salzburg · MS 2 · @1.43
-- ⏳ 22.10 22:00 Beşiktaş – Crystal Palace · 2.5 Üst · @1.40
-- ⏳ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · En çok korner 1 · @1.43
+- ❌ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40 · korner 6-7
+- ❌ 22.10 22:00 NK Celje – Salzburg · MS 2 · @1.43 · 2-2
+- ✅ 22.10 22:00 Beşiktaş – Crystal Palace · 2.5 Üst · @1.40 · 2-2
+- ❌ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · En çok korner 1 · @1.43 · korner 5-5
 
 ## 21.10 08:00 gönderilen kupon · 8'de 7
 
@@ -53,8 +53,8 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ✅ 22.10 19:45 Ararat – AZ Alkmaar · MS 2 · @1.40 · 0-4
 - ✅ 22.10 19:45 Pafos FC – Riga FC · En çok korner 1 · @1.40 · korner 10-4
 - ⏳ 22.10 19:45 Juventus – Rennes · MS 1 · @1.43
-- ⏳ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · MS 1 · @1.41
-- ⏳ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40
+- ❌ 22.10 22:00 AGF Aarhus – KF Egnatia Rrogozhine · MS 1 · @1.41 · 1-1
+- ❌ 22.10 22:00 Midtjylland – St. Truidense · En çok korner 1 · @1.40 · korner 6-7
 
 ## 20.10 22:23 gönderilen kupon · 6'de 4
 

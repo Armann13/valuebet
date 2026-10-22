@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/49 tuttu** (isabet %16, beklenen %16) · -6.13 birim · 1 tahmin sonuç bekliyor
+**8/50 tuttu** (isabet %16, beklenen %16) · -7.13 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,7 +22,7 @@
 
 **22:00 · Braga – KAA Gent**
 
-- ⏳ 1-0 · @5.23
+- ❌ 1-0 · @5.23 · 2-0
 
 ## 21.10.2026 Çarşamba
 

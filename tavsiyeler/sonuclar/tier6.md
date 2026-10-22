@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**29/274 tuttu** (isabet %11, beklenen %11) · -66.15 birim · 37 tahmin sonuç bekliyor
+**30/290 tuttu** (isabet %10, beklenen %11) · -73.49 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -90,61 +90,61 @@
 
 **22:00 · Viktoria Plzen – Levski Sofya**
 
-- ⏳ 2-1 · @7.42
+- ❌ 2-1 · @7.42 · 1-2
 
 **22:00 · Midtjylland – St. Truidense**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 0-1
 
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
-- ⏳ 2-1 · @7.24
-- ⏳ 2-0 · @6.42
+- ❌ 2-1 · @7.24 · 1-1
+- ❌ 2-0 · @6.42 · 1-1
 
 **22:00 · Lillestrom – Real Sociedad**
 
-- ⏳ 1-2 · @7.23
+- ❌ 1-2 · @7.23 · 0-6
 
 **22:00 · Bournemouth – AC Milan**
 
-- ⏳ 2-1 · @7.86
-- ⏳ 1-1 · @6.23
+- ❌ 2-1 · @7.86 · 3-0
+- ❌ 1-1 · @6.23 · 3-0
 
 **22:00 · Beşiktaş – Crystal Palace**
 
-- ⏳ 2-1 · @8.01
+- ❌ 2-1 · @8.01 · 2-2
 
 **22:00 · Omonia – Benfica**
 
-- ⏳ 1-2 · @7.42
+- ❌ 1-2 · @7.42 · 1-4
 
 **22:00 · Celtic – Celta Vigo**
 
-- ⏳ 1-2 · @8.66
+- ✅ 1-2 · @8.66 · 1-2
 
 **22:00 · NK Celje – Salzburg**
 
-- ⏳ 1-2 · @7.29
+- ❌ 1-2 · @7.29 · 2-2
 
 **22:00 · Hoffenheim – Lyon**
 
-- ⏳ 2-1 · @7.93
+- ❌ 2-1 · @7.93 · 3-0
 
 **22:00 · Monaco – Freiburg**
 
-- ⏳ 1-1 · @5.95
+- ❌ 1-1 · @5.95 · 3-0
 
 **22:00 · Lincoln Red – Twente**
 
-- ⏳ 0-3 · @6.12
+- ❌ 0-3 · @6.12 · 1-4
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ 1-1 · @5.78
+- ❌ 1-1 · @5.78 · 0-3
 
 **22:00 · Thun – Hajduk Split**
 
-- ⏳ 1-2 · @8.44
+- ❌ 1-2 · @8.44 · 0-1
 
 ## 21.10.2026 Çarşamba
 

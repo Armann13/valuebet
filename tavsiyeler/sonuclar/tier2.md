@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**103/171 tuttu** (isabet %60, beklenen %63) · -16.29 birim · 22 tahmin sonuç bekliyor
+**105/181 tuttu** (isabet %58, beklenen %63) · -23.24 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -52,40 +52,40 @@
 
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
-- ⏳ MS 1 · @1.41
-- ⏳ En çok korner 1 · @1.43
+- ❌ MS 1 · @1.41 · 1-1
+- ❌ En çok korner 1 · @1.43 · korner 5-5
 
 **22:00 · Midtjylland – St. Truidense**
 
-- ⏳ En çok korner 1 · @1.40
+- ❌ En çok korner 1 · @1.40 · korner 6-7
 
 **22:00 · NK Celje – Salzburg**
 
-- ⏳ MS 2 · @1.43
+- ❌ MS 2 · @1.43 · 2-2
 
 **22:00 · Beşiktaş – Crystal Palace**
 
-- ⏳ 2.5 Üst · @1.40
+- ✅ 2.5 Üst · @1.40 · 2-2
 
 **22:00 · Bournemouth – AC Milan**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.66
+- ❌ ↳ Korner 9.5 Alt · @1.66 · korner 6-4
 
 **22:00 · Omonia – Benfica**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.65
+- ✅ ↳ MS 2 & 2.5 Üst · @1.65 · 1-4
 
 **22:00 · Lincoln Red – Twente**
 
-- ⏳ KG Yok · @1.60
+- ❌ KG Yok · @1.60 · 1-4
 
 **22:00 · Thun – Hajduk Split**
 
-- ⏳ 2.5 Üst · @1.40
+- ❌ 2.5 Üst · @1.40 · 0-1
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.41
+- ❌ ↳ Korner 8.5 Üst · @1.41 · korner 4-4
 
 ## 21.10.2026 Çarşamba
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**197/359 tuttu** (isabet %55, beklenen %61) · -53.36 birim · 31 tahmin sonuç bekliyor
+**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -59,39 +59,39 @@
 
 **22:00 · Bournemouth – AC Milan**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
-- ⏳ 🎰 ↳ Korner 9.5 Alt · @1.66
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 6-4
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.66 · korner 6-4
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.12 · korner 6-4
+- ❌ 🎰 ↳ Korner 9.5 Alt · @1.66 · korner 6-4
 
 **22:00 · Midtjylland – St. Truidense**
 
-- ⏳ 🟡 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
-- ⏳ 🎰 En çok korner 1 · @1.40
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ❌ 🟡 En çok korner 1 · @1.40 · korner 6-7
+- ❌ 🎰 En çok korner 1 · @1.40 · korner 6-7
+- ❌ 🎰 En çok korner 1 · @1.40 · korner 6-7
+- ❌ 🎰 En çok korner 1 · @1.40 · korner 6-7
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 6-7
 
 **22:00 · Beşiktaş – Crystal Palace**
 
-- ⏳ 🟣 En çok korner 2 · @2.47
+- ✅ 🟣 En çok korner 2 · @2.47 · korner 1-3
 
 **22:00 · AGF Aarhus – KF Egnatia Rrogozhine**
 
-- ⏳ 🟡 En çok korner 1 · @1.43
-- ⏳ 🎰 En çok korner 1 · @1.43
+- ❌ 🟡 En çok korner 1 · @1.43 · korner 5-5
+- ❌ 🎰 En çok korner 1 · @1.43 · korner 5-5
 
 **22:00 · Monaco – Freiburg**
 
-- ⏳ 🔴 En çok korner 1 · @1.78
+- ❌ 🔴 En çok korner 1 · @1.78 · korner 6-11
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
-- ⏳ 🟣 ↳ Korner 11.5 Üst · @2.88
-- ⏳ 🎰 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 4-4
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 4-4
+- ❌ 🔴 ↳ Korner 9.5 Üst · @1.72 · korner 4-4
+- ❌ 🟣 ↳ Korner 11.5 Üst · @2.88 · korner 4-4
+- ❌ 🎰 ↳ Korner 8.5 Üst · @1.41 · korner 4-4
 
 ## 21.10.2026 Çarşamba
 

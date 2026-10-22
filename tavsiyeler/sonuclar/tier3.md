@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**68/152 tuttu** (isabet %45, beklenen %46) · -11.99 birim · 21 tahmin sonuç bekliyor
+**71/158 tuttu** (isabet %45, beklenen %46) · -11.45 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,24 +45,24 @@
 
 **22:00 · Lillestrom – Real Sociedad**
 
-- ⏳ MS 2 & 2.5 Üst · @1.97
+- ✅ MS 2 & 2.5 Üst · @1.97 · 0-6
 
 **22:00 · Bournemouth – AC Milan**
 
-- ⏳ MS 1 · @1.95
-- ⏳ ↳ Korner 8.5 Alt · @2.12
+- ✅ MS 1 · @1.95 · 3-0
+- ❌ ↳ Korner 8.5 Alt · @2.12 · korner 6-4
 
 **22:00 · Omonia – Benfica**
 
-- ⏳ ↳ MS 2 & KG Var · @2.62
+- ✅ ↳ MS 2 & KG Var · @2.62 · 1-4
 
 **22:00 · Monaco – Freiburg**
 
-- ⏳ En çok korner 1 · @1.78
+- ❌ En çok korner 1 · @1.78 · korner 6-11
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.72
+- ❌ ↳ Korner 9.5 Üst · @1.72 · korner 4-4
 
 ## 21.10.2026 Çarşamba
 

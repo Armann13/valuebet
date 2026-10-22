@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**97/134 tuttu** (isabet %72, beklenen %77) · -15.54 birim · 12 tahmin sonuç bekliyor
+**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,19 +42,19 @@
 
 **22:00 · Omonia – Benfica**
 
-- ⏳ MS 2 · @1.26
+- ✅ MS 2 · @1.26 · 1-4
 
 **22:00 · Bournemouth – AC Milan**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 6-4
 
 **22:00 · Jagiellonia Bialystok – Anderlecht**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 4-4
 
 **22:00 · Midtjylland – St. Truidense**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 6-7
 
 ## 21.10.2026 Çarşamba
 
