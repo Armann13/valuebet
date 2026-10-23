@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**105/181 tuttu** (isabet %58, beklenen %63) · -23.24 birim · 20 tahmin sonuç bekliyor
+**105/181 tuttu** (isabet %58, beklenen %63) · -23.24 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,9 +32,21 @@
 
 - ⏳ MS 2 · @1.42
 
+**17:00 · Livingston – Arbroath**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.78
+
+**17:00 · Preston – West Bromwich**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.64
+
 **17:15 · Leganes – Mallorca**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.41
+
+**19:45 · Willem II – SC Cambuur**
+
+- ⏳ 2.5 Üst · @1.41
 
 **20:00 · Alverca FC – FC Arouca**
 

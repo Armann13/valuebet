@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**71/158 tuttu** (isabet %45, beklenen %46) · -11.45 birim · 20 tahmin sonuç bekliyor
+**71/159 tuttu** (isabet %45, beklenen %46) · -12.45 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 24.10.2026 Cumartesi
+
+**16:00 · Gaziantep FK – Erzurumspor FK**
+
+- ⏳ KG Yok · @1.80
 
 **17:00 · Livingston – Arbroath**
 
@@ -20,11 +24,15 @@
 
 - ⏳ ↳ Korner 9.5 Alt · @2.06
 
+**19:30 · Asteras Tripolis – APO Levadeiakos FC**
+
+- ⏳ MS 1 · @1.81
+
 ## 23.10.2026 Cuma
 
 **20:00 · Alanyaspor – Kocaelispor**
 
-- ⏳ MS 1 · @1.84
+- ❌ MS 1 · @1.84 · 1-2
 
 **21:00 · Pau – Grenoble**
 

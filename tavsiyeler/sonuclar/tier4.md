@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 15 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,6 +37,10 @@
 - ⏳ MS 1 · @2.30
 
 ## 23.10.2026 Cuma
+
+**21:45 · Kortrijk – Mechelen**
+
+- ⏳ MS 2 · @2.36
 
 **22:00 · Bolton – Middlesbrough**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 28 tahmin sonuç bekliyor
+**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,7 @@
 
 - ⏳ 🟢 En çok korner 1 · @1.39
 - ⏳ 🎰 En çok korner 1 · @1.39
+- ⏳ 🎰 En çok korner 1 · @1.37
 
 **16:30 · Augsburg – Union Berlin**
 
@@ -26,6 +27,8 @@
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.21
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.06
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.64
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.64
 
 **17:15 · Leganes – Mallorca**
 
@@ -42,6 +45,7 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.45
 - ⏳ 🎰 En çok korner 1 · @1.45
+- ⏳ 🎰 En çok korner 1 · @1.44
 
 ## 23.10.2026 Cuma
 

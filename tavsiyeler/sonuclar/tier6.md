@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/290 tuttu** (isabet %10, beklenen %11) · -73.49 birim · 39 tahmin sonuç bekliyor
+**30/291 tuttu** (isabet %10, beklenen %11) · -74.49 birim · 44 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,6 +28,10 @@
 
 - ⏳ 0-1 · @6.80
 
+**16:00 · Gaziantep FK – Erzurumspor FK**
+
+- ⏳ 1-0 · @6.67
+
 **16:30 · Augsburg – Union Berlin**
 
 - ⏳ 2-1 · @7.73
@@ -35,6 +39,7 @@
 **17:00 · Livingston – Arbroath**
 
 - ⏳ 1-0 · @5.35
+- ⏳ 2-1 · @6.60
 
 **17:00 · Solihull Moors – Carlisle**
 
@@ -47,6 +52,7 @@
 **17:00 · Notts County – Stockport**
 
 - ⏳ 1-2 · @6.41
+- ⏳ 0-1 · @5.48
 
 **17:00 · Preston – West Bromwich**
 
@@ -68,6 +74,14 @@
 
 - ⏳ 2-1 · @7.64
 
+**19:30 · Asteras Tripolis – APO Levadeiakos FC**
+
+- ⏳ 1-0 · @4.86
+
+**19:45 · Willem II – SC Cambuur**
+
+- ⏳ 2-1 · @8.85
+
 **20:00 · Alverca FC – FC Arouca**
 
 - ⏳ 1-1 · @5.39
@@ -76,7 +90,7 @@
 
 **20:00 · Alanyaspor – Kocaelispor**
 
-- ⏳ 1-0 · @5.27
+- ❌ 1-0 · @5.27 · 1-2
 
 **21:00 · Pau – Grenoble**
 
@@ -85,6 +99,10 @@
 **21:45 · Brest – Nice**
 
 - ⏳ 1-1 · @5.72
+
+**21:45 · Kortrijk – Mechelen**
+
+- ⏳ 1-2 · @8.62
 
 **22:00 · Bolton – Middlesbrough**
 

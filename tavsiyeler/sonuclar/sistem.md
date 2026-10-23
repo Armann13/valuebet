@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**146/268 tuttu** (isabet %54, beklenen %66) · -52.78 birim · 29 tahmin sonuç bekliyor
+**146/268 tuttu** (isabet %54, beklenen %66) · -52.78 birim · 37 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.10 20:19 gönderilen kupon · 8'de 7
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.10 14:30 Huddersfield – Wigan Athletic · ↳ MS 1 & 2.5 Üst · @1.68
+- ⏳ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.37
+- ⏳ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43
+- ⏳ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41
+- ⏳ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42
+- ⏳ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64
+- ⏳ 24.10 19:45 Willem II – SC Cambuur · 2.5 Üst · @1.41
+- ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
 
 ## 23.10 08:04 gönderilen kupon · 8'de 7
 
