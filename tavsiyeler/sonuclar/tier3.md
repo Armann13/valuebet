@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**71/159 tuttu** (isabet %45, beklenen %46) · -12.45 birim · 21 tahmin sonuç bekliyor
+**74/162 tuttu** (isabet %46, beklenen %46) · -9.65 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,15 +36,15 @@
 
 **21:00 · Pau – Grenoble**
 
-- ⏳ KG Var · @1.80
+- ✅ KG Var · @1.80 · 2-1
 
 **21:45 · Brest – Nice**
 
-- ⏳ En çok korner 2 · @2.07
+- ✅ En çok korner 2 · @2.07 · korner 3-7
 
 **22:00 · Ipswich Town – Nottingham Forest**
 
-- ⏳ En çok korner 2 · @1.93
+- ✅ En çok korner 2 · @1.93 · korner 0-5
 
 ## 22.10.2026 Perşembe
 

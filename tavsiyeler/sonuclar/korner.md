@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 32 tahmin sonuç bekliyor
+**206/382 tuttu** (isabet %54, beklenen %61) · -62.07 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -51,17 +51,17 @@
 
 **21:45 · Brest – Nice**
 
-- ⏳ 🔴 En çok korner 2 · @2.07
+- ✅ 🔴 En çok korner 2 · @2.07 · korner 3-7
 
 **22:00 · Alaves – Malaga CF**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.41
-- ⏳ 🎰 En çok korner 1 · @1.40
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 7-2
+- ✅ 🎰 En çok korner 1 · @1.41 · korner 7-2
+- ✅ 🎰 En çok korner 1 · @1.40 · korner 7-2
 
 **22:00 · Ipswich Town – Nottingham Forest**
 
-- ⏳ 🔴 En çok korner 2 · @1.93
+- ✅ 🔴 En çok korner 2 · @1.93 · korner 0-5
 
 ## 22.10.2026 Perşembe
 

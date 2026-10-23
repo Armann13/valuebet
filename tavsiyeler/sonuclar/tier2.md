@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**105/181 tuttu** (isabet %58, beklenen %63) · -23.24 birim · 23 tahmin sonuç bekliyor
+**107/183 tuttu** (isabet %58, beklenen %63) · -22.40 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -56,11 +56,11 @@
 
 **22:00 · Bolton – Middlesbrough**
 
-- ⏳ MS 2 · @1.43
+- ✅ MS 2 · @1.43 · 1-5
 
 **22:00 · Alaves – Malaga CF**
 
-- ⏳ En çok korner 1 · @1.41
+- ✅ En çok korner 1 · @1.41 · korner 7-2
 
 ## 22.10.2026 Perşembe
 

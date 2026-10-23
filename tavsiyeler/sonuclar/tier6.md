@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/291 tuttu** (isabet %10, beklenen %11) · -74.49 birim · 44 tahmin sonuç bekliyor
+**31/296 tuttu** (isabet %10, beklenen %11) · -73.82 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -94,11 +94,11 @@
 
 **21:00 · Pau – Grenoble**
 
-- ⏳ 1-1 · @5.69
+- ❌ 1-1 · @5.69 · 2-1
 
 **21:45 · Brest – Nice**
 
-- ⏳ 1-1 · @5.72
+- ❌ 1-1 · @5.72 · 1-2
 
 **21:45 · Kortrijk – Mechelen**
 
@@ -106,15 +106,15 @@
 
 **22:00 · Bolton – Middlesbrough**
 
-- ⏳ 1-2 · @7.36
+- ❌ 1-2 · @7.36 · 1-5
 
 **22:00 · Alaves – Malaga CF**
 
-- ⏳ 1-0 · @5.56
+- ❌ 1-0 · @5.56 · 1-1
 
 **22:00 · Ipswich Town – Nottingham Forest**
 
-- ⏳ 1-1 · @5.67
+- ✅ 1-1 · @5.67 · 1-1
 
 ## 22.10.2026 Perşembe
 

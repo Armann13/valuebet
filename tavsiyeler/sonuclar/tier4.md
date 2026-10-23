@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 16 tahmin sonuç bekliyor
+**40/119 tuttu** (isabet %34, beklenen %33) · -13.88 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -44,7 +44,7 @@
 
 **22:00 · Bolton – Middlesbrough**
 
-- ⏳ ↳ MS 2 & KG Var · @2.64
+- ✅ ↳ MS 2 & KG Var · @2.64 · 1-5
 
 ## 22.10.2026 Perşembe
 
