@@ -1,6 +1,6 @@
 # Tavsiyeler — 23.10.2026
 
-İddaa oranlarının son kaydı: 23.10 14:46 (TR saati)
+İddaa oranlarının son kaydı: 23.10 15:08 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -61,11 +61,11 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## 🟣 Tier 4 — Çok yüksek risk
 
+• Bochum – Wolfsburg (D2, 23.10 19:30): **MS 2 & 2.5 Üst** — olasılık %38, adil oran 2.63, İddaa 2.44 (değer -7%) _(İddaa oranına ayarlı)_
 • Solihull Moors – Carlisle (EC, 24.10 17:00): **MS 2 & KG Var** — olasılık %38, adil oran 2.64, İddaa 2.50 (değer -5%), MBS 3 _(İddaa oranına ayarlı)_
 • Kortrijk – Mechelen (B1, 23.10 21:45): **MS 2** — olasılık %38, adil oran 2.66, İddaa 2.36 (değer -11%) _(İddaa oranına ayarlı)_
 • Reading – Barnsley (E2, 24.10 17:00): **MS 1 & KG Var** — olasılık %37, adil oran 2.68, İddaa 2.47 (değer -8%), MBS 2 _(İddaa oranına ayarlı)_
 • FC Sudtirol – Sampdoria (I2, 24.10 16:00): **MS 2** — olasılık %37, adil oran 2.69, İddaa 2.39 (değer -11%) _(İddaa oranına ayarlı)_
-• Falkirk – Kilmarnock (SC0, 24.10 17:00): **MS 1 & 2.5 Üst** — olasılık %37, adil oran 2.70, İddaa 2.46 (değer -9%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ PSV – Feyenoord (N1, 25.10 16:30): **MS 1 & KG Var** — olasılık %34, adil oran 2.96, İddaa 2.69 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Castellon – S.Gijon (SP2, 25.10 20:30): **MS 1 & KG Var** — olasılık %32, adil oran 3.08, İddaa 2.98 (değer -3%) _(İddaa oranına ayarlı)_
 • ↳ Athletic Bilbao – Getafe (SP1, 25.10 16:00): **MS 1 & 2.5 Üst** — olasılık %31, adil oran 3.27, İddaa 2.72 (değer -17%) _(İddaa oranına ayarlı)_
@@ -98,11 +98,11 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Cagliari – Bologna (I1, 24.10 16:00): **1-1** — olasılık %15, adil oran 6.75, İddaa 4.95 (değer -27%) _(İddaa oranına ayarlı)_
 • Northampton – Colchester (E3, 24.10 14:30): **1-0** — olasılık %15, adil oran 6.78, İddaa 5.22 (değer -23%), MBS 2 _(İddaa oranına ayarlı)_
 • Arsenal – Everton (E0, 24.10 17:00): **1-0** — olasılık %15, adil oran 6.84, İddaa 5.68 (değer -17%) _(İddaa oranına ayarlı)_
-• Alaves – Malaga CF (SP1, 23.10 22:00): **1-0** — olasılık %15, adil oran 6.88, İddaa 5.38 (değer -22%) _(İddaa oranına ayarlı)_
 • Como 1907 – Sassuolo (I1, 24.10 16:00): **2-1** — olasılık %15, adil oran 6.88, İddaa 7.47 (değer +9%) _(İddaa oranına ayarlı)_
 • Volos – Panathinaikos (G1, 25.10 19:00): **1-2** — olasılık %14, adil oran 6.91, İddaa 6.60 (değer -4%), MBS 3 _(İddaa oranına ayarlı)_
 • Aris – Atromitos (G1, 25.10 20:30): **1-0** — olasılık %14, adil oran 6.93, İddaa 5.10 (değer -26%), MBS 3 _(İddaa oranına ayarlı)_
 • Asteras Tripolis – APO Levadeiakos FC (G1, 24.10 19:30): **1-0** — olasılık %14, adil oran 7.00, İddaa 4.86 (değer -31%), MBS 3 _(İddaa oranına ayarlı)_
+• Alaves – Malaga CF (SP1, 23.10 22:00): **1-0** — olasılık %14, adil oran 7.01, İddaa 5.43 (değer -22%) _(İddaa oranına ayarlı)_
 • Bolton – Middlesbrough (E1, 23.10 22:00): **1-2** — olasılık %14, adil oran 7.03, İddaa 7.46 (değer +6%) _(İddaa oranına ayarlı)_
 • Chesterfield – Crewe Alexandra (E3, 24.10 17:00): **2-1** — olasılık %14, adil oran 7.04, İddaa 6.49 (değer -8%), MBS 2 _(İddaa oranına ayarlı)_
 • N. Madeira – Braga (P1, 25.10 21:00): **0-1** — olasılık %14, adil oran 7.04, İddaa 5.79 (değer -18%) _(İddaa oranına ayarlı)_
@@ -130,7 +130,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Cheltenham – Newport (E3, 24.10 14:30): **1-1** — olasılık %13, adil oran 7.53, İddaa 4.90 (değer -35%), MBS 2 _(İddaa oranına ayarlı)_
 • Gateshead – Tamworth (EC, 23.10 21:45): **1-2** — olasılık %13, adil oran 7.53, İddaa 6.53 (değer -13%), MBS 3 _(İddaa oranına ayarlı)_
 • Almeria – Real Oviedo (SP2, 24.10 22:00): **1-0** — olasılık %13, adil oran 7.54, İddaa 6.32 (değer -16%) _(İddaa oranına ayarlı)_
-• Aston Villa – Manchester City (E0, 24.10 14:30): **1-2** — olasılık %13, adil oran 7.61, İddaa 7.37 (değer -3%) _(İddaa oranına ayarlı)_
+• Aston Villa – Manchester City (E0, 24.10 14:30): **1-2** — olasılık %13, adil oran 7.57, İddaa 7.38 (değer -3%) _(İddaa oranına ayarlı)_
 • Cremonese – Juve Stabia (I2, 24.10 16:00): **1-0** — olasılık %13, adil oran 7.62, İddaa 5.99 (değer -21%) _(İddaa oranına ayarlı)_
 • Rangers – St Johnstone (SC0, 24.10 17:00): **2-1** — olasılık %13, adil oran 7.63, İddaa 8.21 (değer +8%), MBS 2 _(İddaa oranına ayarlı)_
 • Rio Ave – Famalicao (P1, 25.10 21:00): **0-1** — olasılık %13, adil oran 7.64, İddaa 6.14 (değer -20%) _(İddaa oranına ayarlı)_
@@ -167,7 +167,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • G. Morton – Ayr United (SC1, 24.10 17:00): **1-1** — olasılık %12, adil oran 8.15, İddaa 4.92 (değer -40%), MBS 3 _(İddaa oranına ayarlı)_
 • Vallecano – Elche (SP1, 24.10 15:00): **1-0** — olasılık %12, adil oran 8.16, İddaa 6.50 (değer -20%) _(İddaa oranına ayarlı)_
 • Bromley – Peterborough (E2, 24.10 17:00): **1-2** — olasılık %12, adil oran 8.17, İddaa 7.08 (değer -13%), MBS 2 _(İddaa oranına ayarlı)_
-• Bochum – Wolfsburg (D2, 23.10 19:30): **1-2** — olasılık %12, adil oran 8.18, İddaa 8.17 (değer -0%) _(İddaa oranına ayarlı)_
 • Stoke City – Bristol City (E1, 24.10 17:00): **1-1** — olasılık %12, adil oran 8.18, İddaa 5.50 (değer -33%) _(İddaa oranına ayarlı)_
 • Rennes – Strasbourg (F1, 25.10 19:15): **2-1** — olasılık %12, adil oran 8.24, İddaa 7.69 (değer -7%) _(İddaa oranına ayarlı)_
 • Torino – AC Monza (I1, 23.10 21:45): **1-1** — olasılık %12, adil oran 8.25, İddaa 5.56 (değer -33%) _(İddaa oranına ayarlı)_
@@ -177,14 +176,15 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Rochdale – Accrington (E3, 24.10 17:00): **1-1** — olasılık %12, adil oran 8.28, İddaa 4.87 (değer -41%), MBS 2 _(İddaa oranına ayarlı)_
 • Coventry – Fulham (E0, 24.10 17:00): **1-1** — olasılık %12, adil oran 8.34, İddaa 5.69 (değer -32%) _(İddaa oranına ayarlı)_
 • Oxford – Bradford (E2, 24.10 17:00): **1-1** — olasılık %12, adil oran 8.35, İddaa 4.75 (değer -43%), MBS 2 _(İddaa oranına ayarlı)_
+• Bochum – Wolfsburg (D2, 23.10 19:30): **1-2** — olasılık %12, adil oran 8.36, İddaa 8.24 (değer -1%) _(İddaa oranına ayarlı)_
 • Luton Town – Leicester City (E2, 24.10 14:30): **2-1** — olasılık %12, adil oran 8.36, İddaa 7.26 (değer -13%), MBS 2 _(İddaa oranına ayarlı)_
-• Leipzig – Elversberg (D1, 24.10 16:30): **2-1** — olasılık %12, adil oran 8.37, İddaa 8.17 (değer -2%) _(İddaa oranına ayarlı)_
 • Cadiz – AD Ceuta (SP2, 25.10 18:15): **1-1** — olasılık %12, adil oran 8.39, İddaa 5.69 (değer -32%) _(İddaa oranına ayarlı)_
 • Augsburg – Union Berlin (D1, 24.10 16:30): **2-1** — olasılık %12, adil oran 8.41, İddaa 7.73 (değer -8%) _(İddaa oranına ayarlı)_
 • Ofi Crete – PAOK (G1, 25.10 21:00): **0-2** — olasılık %12, adil oran 8.42, İddaa 6.40 (değer -24%), MBS 3 _(İddaa oranına ayarlı)_
+• Real Sociedad – Levante (SP1, 25.10 20:30): **2-1** — olasılık %12, adil oran 8.45, İddaa 7.30 (değer -14%) _(İddaa oranına ayarlı)_
 • Harrogate – Sutton United (EC, 24.10 14:30): **1-0** — olasılık %12, adil oran 8.46, İddaa 5.75 (değer -32%), MBS 3 _(İddaa oranına ayarlı)_
 • Darmstadt 98 – Saint Pauli (D2, 23.10 19:30): **1-1** — olasılık %12, adil oran 8.49, İddaa 5.71 (değer -33%) _(İddaa oranına ayarlı)_
-• Real Sociedad – Levante (SP1, 25.10 20:30): **2-1** — olasılık %12, adil oran 8.55, İddaa 7.30 (değer -15%) _(İddaa oranına ayarlı)_
+• Leipzig – Elversberg (D1, 24.10 16:30): **2-1** — olasılık %12, adil oran 8.49, İddaa 8.16 (değer -4%) _(İddaa oranına ayarlı)_
 • West Ham – Southampton (E1, 24.10 17:00): **2-1** — olasılık %12, adil oran 8.56, İddaa 7.47 (değer -13%) _(İddaa oranına ayarlı)_
 • Rizespor – Trabzonspor (T1, 26.10 19:00): **1-2** — olasılık %12, adil oran 8.61, İddaa 7.70 (değer -11%) _(İddaa oranına ayarlı)_
 • Motherwell – Hearts (SC0, 25.10 17:00): **1-2** — olasılık %12, adil oran 8.61, İddaa 8.02 (değer -7%), MBS 2 _(İddaa oranına ayarlı)_
@@ -205,7 +205,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Mainz – Werder Bremen (D1, 24.10 16:30): **2-1** — olasılık %11, adil oran 8.80, İddaa 7.47 (değer -15%) _(İddaa oranına ayarlı)_
 • Freiburg – Bayern Münih (D1, 25.10 19:30): **1-2** — olasılık %11, adil oran 8.82, İddaa 8.50 (değer -4%) _(İddaa oranına ayarlı)_
 • Club Brugge – St. Truidense (B1, 25.10 18:00): **2-1** — olasılık %11, adil oran 8.82, İddaa 7.84 (değer -11%) _(İddaa oranına ayarlı)_
-• B. Dortmund – Eintracht Frankfurt (D1, 24.10 19:30): **2-1** — olasılık %11, adil oran 8.82, İddaa 7.72 (değer -12%) _(İddaa oranına ayarlı)_
+• B. Dortmund – Eintracht Frankfurt (D1, 24.10 19:30): **2-1** — olasılık %11, adil oran 8.82, İddaa 7.70 (değer -13%) _(İddaa oranına ayarlı)_
 • St Mirren – Dundee (SC0, 24.10 17:00): **2-1** — olasılık %11, adil oran 8.82, İddaa 8.11 (değer -8%), MBS 2 _(İddaa oranına ayarlı)_
 • Las Palmas – Real Sociedad B (SP2, 24.10 19:30): **1-1** — olasılık %11, adil oran 8.83, İddaa 5.84 (değer -34%) _(İddaa oranına ayarlı)_
 • Hartlepool – Hornchurch (EC, 24.10 17:00): **1-1** — olasılık %11, adil oran 8.85, İddaa 5.13 (değer -42%), MBS 3 _(İddaa oranına ayarlı)_
@@ -213,12 +213,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Yeovil Town – Altrincham (EC, 24.10 17:00): **2-1** — olasılık %11, adil oran 8.88, İddaa 6.80 (değer -23%), MBS 3 _(İddaa oranına ayarlı)_
 • Blackpool – Mansfield (E2, 24.10 17:00): **1-1** — olasılık %11, adil oran 8.88, İddaa 5.20 (değer -41%), MBS 2 _(İddaa oranına ayarlı)_
 • Kidderminster Harriers – Worthing (EC, 24.10 19:30): **1-1** — olasılık %11, adil oran 8.96, İddaa 5.18 (değer -42%), MBS 3 _(İddaa oranına ayarlı)_
-• Dunkerque – Metz (F2, 23.10 21:00): **1-1** — olasılık %11, adil oran 8.98, İddaa 5.96 (değer -34%) _(İddaa oranına ayarlı)_
+• Dunkerque – Metz (F2, 23.10 21:00): **1-1** — olasılık %11, adil oran 8.98, İddaa 5.98 (değer -33%) _(İddaa oranına ayarlı)_
 • Eastleigh – Boston United (EC, 24.10 14:30): **2-1** — olasılık %11, adil oran 8.99, İddaa 7.02 (değer -22%), MBS 3 _(İddaa oranına ayarlı)_
 • Sheffield United – Derby County (E1, 24.10 14:30): **1-1** — olasılık %11, adil oran 9.04, İddaa 6.01 (değer -34%) _(İddaa oranına ayarlı)_
 • Aldershot – Wealdstone (EC, 24.10 17:00): **1-1** — olasılık %11, adil oran 9.10, İddaa 5.48 (değer -40%), MBS 3 _(İddaa oranına ayarlı)_
+• Manchester United – Bournemouth (E0, 25.10 17:00): **1-1** — olasılık %11, adil oran 9.11, İddaa 6.09 (değer -33%) _(İddaa oranına ayarlı)_
 • Osnabruck – Greuther Furth (D2, 25.10 15:30): **1-1** — olasılık %11, adil oran 9.13, İddaa 6.24 (değer -32%) _(İddaa oranına ayarlı)_
-• Manchester United – Bournemouth (E0, 25.10 17:00): **1-1** — olasılık %11, adil oran 9.14, İddaa 6.09 (değer -33%) _(İddaa oranına ayarlı)_
 • Fortuna Sittard – Excelsior (N1, 25.10 14:15): **1-1** — olasılık %11, adil oran 9.20, İddaa 6.26 (değer -32%) _(İddaa oranına ayarlı)_
 • Atalanta – Frosinone (I1, 25.10 17:00): **2-1** — olasılık %11, adil oran 9.20, İddaa 7.87 (değer -14%) _(İddaa oranına ayarlı)_
 • Falkirk – Kilmarnock (SC0, 24.10 17:00): **2-1** — olasılık %11, adil oran 9.21, İddaa 7.54 (değer -18%), MBS 2 _(İddaa oranına ayarlı)_
@@ -232,7 +232,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Magdeburg – Karlsruhe (D2, 24.10 14:00): **2-1** — olasılık %11, adil oran 9.34, İddaa 7.65 (değer -18%) _(İddaa oranına ayarlı)_
 • Paderborn – Hamburg (D1, 24.10 16:30): **1-1** — olasılık %11, adil oran 9.34, İddaa 6.27 (değer -33%) _(İddaa oranına ayarlı)_
 • Barrow – Forest Green (EC, 24.10 17:00): **2-1** — olasılık %11, adil oran 9.41, İddaa 7.04 (değer -25%), MBS 3 _(İddaa oranına ayarlı)_
-• Crystal Palace – Newcastle United (E0, 25.10 17:00): **1-1** — olasılık %11, adil oran 9.44, İddaa 6.24 (değer -34%) _(İddaa oranına ayarlı)_
+• Crystal Palace – Newcastle United (E0, 25.10 17:00): **1-1** — olasılık %11, adil oran 9.45, İddaa 6.22 (değer -34%) _(İddaa oranına ayarlı)_
 • Scunthorpe – Woking (EC, 24.10 17:00): **1-1** — olasılık %11, adil oran 9.51, İddaa 5.47 (değer -43%), MBS 3 _(İddaa oranına ayarlı)_
 • Doncaster – Sheffield Wednesday (E2, 24.10 17:00): **1-1** — olasılık %10, adil oran 9.53, İddaa 5.32 (değer -44%), MBS 2 _(İddaa oranına ayarlı)_
 • Cardiff City – Birmingham (E1, 24.10 17:00): **1-2** — olasılık %10, adil oran 9.57, İddaa 8.56 (değer -11%) _(İddaa oranına ayarlı)_
