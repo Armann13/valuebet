@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 8 tahmin sonuç bekliyor
+**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**14:30 · Huddersfield – Wigan Athletic**
+
+- ⏳ MS 1 · @1.21
+
+**15:00 · Cordoba – Eibar**
+
+- ⏳ En çok korner 1 · @1.39
+
+**17:00 · Livingston – Arbroath**
+
+- ⏳ MS 1 · @1.22
+
+**17:00 · Preston – West Bromwich**
+
+- ⏳ Korner 12.5 Alt · @1.21
+
+**17:15 · Leganes – Mallorca**
+
+- ⏳ Korner 11.5 Alt · @1.22
 
 ## 22.10.2026 Perşembe
 

@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**71/158 tuttu** (isabet %45, beklenen %46) · -11.45 birim · 15 tahmin sonuç bekliyor
+**71/158 tuttu** (isabet %45, beklenen %46) · -11.45 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**17:00 · Livingston – Arbroath**
+
+- ⏳ ↳ İY/MS 1/1 · @1.71
+
+**17:00 · York City – Port Vale**
+
+- ⏳ MS 1 · @1.80
+
+**17:00 · Preston – West Bromwich**
+
+- ⏳ ↳ Korner 9.5 Alt · @2.06
 
 ## 23.10.2026 Cuma
 
@@ -12,9 +26,17 @@
 
 - ⏳ MS 1 · @1.84
 
+**21:00 · Pau – Grenoble**
+
+- ⏳ KG Var · @1.80
+
 **21:45 · Brest – Nice**
 
 - ⏳ En çok korner 2 · @2.07
+
+**22:00 · Ipswich Town – Nottingham Forest**
+
+- ⏳ En çok korner 2 · @1.93
 
 ## 22.10.2026 Perşembe
 

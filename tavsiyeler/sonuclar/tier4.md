@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 8 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %33) · -15.52 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**16:00 · FC Sudtirol – Sampdoria**
+
+- ⏳ MS 2 · @2.39
+
+**16:30 · Augsburg – Union Berlin**
+
+- ⏳ Korner 8.5 Alt · @2.53
+
+**17:00 · Solihull Moors – Carlisle**
+
+- ⏳ MS 2 & KG Var · @2.50
+
+**17:00 · Reading – Barnsley**
+
+- ⏳ MS 1 & KG Var · @2.47
+
+**17:15 · Leganes – Mallorca**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.98
+
+**17:30 · Utrecht – Zwolle**
+
+- ⏳ Korner 8.5 Alt · @2.60
+
+**19:30 · Kidderminster Harriers – Worthing**
+
+- ⏳ MS 1 · @2.30
 
 ## 23.10.2026 Cuma
 

@@ -2,9 +2,46 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 13 tahmin sonuç bekliyor
+**201/377 tuttu** (isabet %53, beklenen %61) · -65.29 birim · 28 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**14:30 · Portsmouth – Millwall**
+
+- ⏳ 🟡 En çok korner 1 · @1.51
+- ⏳ 🎰 En çok korner 1 · @1.51
+
+**15:00 · Cordoba – Eibar**
+
+- ⏳ 🟢 En çok korner 1 · @1.39
+- ⏳ 🎰 En çok korner 1 · @1.39
+
+**16:30 · Augsburg – Union Berlin**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.53
+
+**17:00 · Preston – West Bromwich**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.21
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.06
+
+**17:15 · Leganes – Mallorca**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.98
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
+
+**17:30 · Utrecht – Zwolle**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.60
+
+**20:00 · Alverca FC – FC Arouca**
+
+- ⏳ 🟡 En çok korner 1 · @1.45
+- ⏳ 🎰 En çok korner 1 · @1.45
 
 ## 23.10.2026 Cuma
 
@@ -17,6 +54,10 @@
 - ⏳ 🟡 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.41
 - ⏳ 🎰 En çok korner 1 · @1.40
+
+**22:00 · Ipswich Town – Nottingham Forest**
+
+- ⏳ 🔴 En çok korner 2 · @1.93
 
 ## 22.10.2026 Perşembe
 

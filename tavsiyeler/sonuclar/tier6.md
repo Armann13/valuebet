@@ -2,15 +2,85 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/290 tuttu** (isabet %10, beklenen %11) · -73.49 birim · 21 tahmin sonuç bekliyor
+**30/290 tuttu** (isabet %10, beklenen %11) · -73.49 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**14:30 · Bristol Rovers – Swindon Town**
+
+- ⏳ 2-1 · @6.40
+
+**14:30 · Portsmouth – Millwall**
+
+- ⏳ 1-1 · @5.43
+
+**15:00 · Cordoba – Eibar**
+
+- ⏳ 2-1 · @8.04
+
+**16:00 · Modena FC – AC Cesena**
+
+- ⏳ 2-1 · @7.27
+
+**16:00 · FC Sudtirol – Sampdoria**
+
+- ⏳ 0-1 · @6.80
+
+**16:30 · Augsburg – Union Berlin**
+
+- ⏳ 2-1 · @7.73
+
+**17:00 · Livingston – Arbroath**
+
+- ⏳ 1-0 · @5.35
+
+**17:00 · Solihull Moors – Carlisle**
+
+- ⏳ 1-2 · @6.57
+
+**17:00 · Reading – Barnsley**
+
+- ⏳ 2-1 · @6.61
+
+**17:00 · Notts County – Stockport**
+
+- ⏳ 1-2 · @6.41
+
+**17:00 · Preston – West Bromwich**
+
+- ⏳ 0-1 · @6.81
+
+**17:00 · York City – Port Vale**
+
+- ⏳ 2-1 · @6.78
+
+**17:15 · Leganes – Mallorca**
+
+- ⏳ 0-1 · @6.15
+
+**17:30 · Utrecht – Zwolle**
+
+- ⏳ 2-1 · @7.48
+
+**19:30 · Kidderminster Harriers – Worthing**
+
+- ⏳ 2-1 · @7.64
+
+**20:00 · Alverca FC – FC Arouca**
+
+- ⏳ 1-1 · @5.39
 
 ## 23.10.2026 Cuma
 
 **20:00 · Alanyaspor – Kocaelispor**
 
 - ⏳ 1-0 · @5.27
+
+**21:00 · Pau – Grenoble**
+
+- ⏳ 1-1 · @5.69
 
 **21:45 · Brest – Nice**
 
@@ -23,6 +93,10 @@
 **22:00 · Alaves – Malaga CF**
 
 - ⏳ 1-0 · @5.56
+
+**22:00 · Ipswich Town – Nottingham Forest**
+
+- ⏳ 1-1 · @5.67
 
 ## 22.10.2026 Perşembe
 

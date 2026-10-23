@@ -2,9 +2,27 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/50 tuttu** (isabet %16, beklenen %16) · -7.13 birim
+**8/50 tuttu** (isabet %16, beklenen %16) · -7.13 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10.2026 Cumartesi
+
+**14:30 · Huddersfield – Wigan Athletic**
+
+- ⏳ 2-1 · @6.60
+
+**17:00 · Queen's Park – Dunfermline**
+
+- ⏳ 1-2 · @6.44
+
+**21:45 · Lazio – Parma**
+
+- ⏳ 1-0 · @5.32
+
+**22:30 · Gil Vicente – Porto**
+
+- ⏳ 0-1 · @5.60
 
 ## 22.10.2026 Perşembe
 
