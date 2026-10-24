@@ -129,6 +129,10 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 - **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
   MS 1 & KG Var / MS 1 & 2.5 Üst → İY/MS 1/1); kesin skor da merdivenin son basamağıyla uyumludur (ör. MS 1 & KG Var →
   2-1). İY/MS (ilk yarı / maç sonu; her golün ilk yarıda atılma olasılığı %44.6) olasılığına göre Tier 1-4'e girer.
+- **🎲 Çılgın kupon:** bugün / yarının İY/MS "dönüşlerinden" (1/X, 2/X, 1/2, 2/1; oran ~12-30) olasılık x İddaa oranı
+  en yüksek 4 tanesi (farklı maçlar) + başka maçlardan en fazla 2 💎; toplam oran ve sonuçta bir bütün olarak takip.
+  Dönüş olasılıkları geçmiş maçlara göre düzeltilir (`kupon.IYMS_DUZELTME`: binom ayrımı 1/2'yi %36, 2/1'i %22 az
+  veriyordu; 2016-22'de öğrenip 2022/23+'da test edildi). Tutma ihtimali yüz binlerde bir: piyango.
 - **🎰 Sistem kupon:** bugün / yarının en olası 8 tahmini (oran 1.30+), kâra geçme şansı en yüksek "8'de k".
 - **Maç analizi:** `python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions →
   "Maç analizi" → Run workflow (saat gir): o saatte başlayan maçların aynı biçimde Tier listesi, güncel oranlarla.

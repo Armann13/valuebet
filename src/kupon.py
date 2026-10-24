@@ -14,14 +14,20 @@ import numpy as np
 
 ILK_YARI = 0.446
 SONUC = {0: "X", 1: "1", 2: "2"}
+# Binom ayrımı "dönüşleri" az veriyor: geride kalan ikinci yarıda yükleniyor (oyun durumu etkisi). 2016-2026 kulüp
+# maçlarında (24.000, skor tablosu B365 1X2 + 2.5'e ayarlı) gerçek / beklenen. 2016-22'de öğrenilip 2022/23+'da
+# test: 9 sonuçlu log loss 1.8910 -> 1.8889; 1/2 beklenen 251 -> 334 (gerçek 345), 2/X 687 -> 757 (gerçek 758).
+IYMS_DUZELTME = {"1/1": 0.953, "1/X": 1.116, "1/2": 1.359, "X/1": 0.997, "X/X": 0.996, "X/2": 0.973,
+                 "2/1": 1.216, "2/X": 1.118, "2/2": 0.969}
 
 
 def _res(h, a):
     return np.where(h > a, 1, np.where(h == a, 0, 2))
 
 
-def iyms_probs(m: np.ndarray, f: float = ILK_YARI) -> dict:
-    """{"İY/MS 1/1": p, ...}: m[ev golü, deplasman golü] maç sonu skor tablosu."""
+def iyms_probs(m: np.ndarray, f: float = ILK_YARI, duzelt: bool = True) -> dict:
+    """{"İY/MS 1/1": p, ...}: m[ev golü, deplasman golü] maç sonu skor tablosu. duzelt: dönüşler için IYMS_DUZELTME
+    (maç sonu olasılıkları korunur)."""
     n = m.shape[0]
     g = np.arange(n)
     # B[k, j] = P(ilk yarıda j gol | maçta k gol)
@@ -37,6 +43,11 @@ def iyms_probs(m: np.ndarray, f: float = ILK_YARI) -> dict:
             ft = int(_res(np.array(H), np.array(A)))
             for r in (0, 1, 2):
                 out[r, ft] += m[H, A] * ht[ht_res == r].sum()
+    if duzelt:
+        for j in (0, 1, 2):  # maç sonu sütunu içinde yeniden dağıt: maç sonu olasılığı aynı kalır
+            adj = out[:, j] * np.array([IYMS_DUZELTME[f"{SONUC[i]}/{SONUC[j]}"] for i in (0, 1, 2)])
+            if adj.sum() > 0:
+                out[:, j] = adj * out[:, j].sum() / adj.sum()
     return {f"İY/MS {SONUC[i]}/{SONUC[j]}": float(out[i, j]) for i in (1, 0, 2) for j in (1, 0, 2)}
 
 

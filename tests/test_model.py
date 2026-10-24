@@ -443,6 +443,15 @@ def test_telegram_messages():
     assert "TIER 4</b> · <i>çok yüksek risk" in allt and "➜ MS 2 &amp; KG Var · <b>2.90</b>" in allt
     assert "TIER 6" in allt and "➜ 0-2 ·" in allt and "➜ 1-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
     assert allt.count("➜ 1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez; yüzde yok
+    # çılgın kupon bölümü: toplam oran Türkçe biçimde, en az 4 dönüş ayağı varsa
+    cz = pd.DataFrame([{**row, "maç": m, "seviye": "🎲 Çılgın kupon", "tahmin": t, "p": 0.05, "odd": o,
+                        "değer": -0.3, "gerçek_değer": False}
+                       for m, t, o in [("P – Q", "İY/MS 2/X", 12.1), ("R – S", "İY/MS 1/X", 12.3),
+                                       ("T – U", "İY/MS 2/X", 12.7), ("V – W", "İY/MS 2/X", 12.6)]])
+    msgs, _ = build_messages(pd.concat([picks, cz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
+    assert "ÇILGIN KUPON" in msgs[0] and "4 maç · toplam oran 23.815,78" in msgs[0], msgs[0]
+    msgs, _ = build_messages(pd.concat([picks, cz.head(3)], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
+    assert "ÇILGIN KUPON" not in msgs[0]  # dönüş eksik: kupon gösterilmez
     from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
     assert _visible_len("<b>A &amp; B</b> 🟣") == len("A & B ") + 2
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
@@ -507,6 +516,30 @@ def test_kupon():
     # 5'te 4, 4 maç tuttu: tek kolon tutar (tutmayan 2. maç hariç)
     assert abs(kupon.system_payout([True, False, True, True, True], os_, 4) - 1.4 * 1.25 * 1.5 * 1.3) < 1e-12
     assert kupon.system_payout([True, False, True, True, False], os_, 4) == 0
+    # İY/MS düzeltmesi: dönüşler artar, maç sonu olasılıkları aynı kalır, toplam 1
+    from src.tavsiye import market_matrix
+    mm = market_matrix({"odd_1": 2.1, "odd_x": 3.4, "odd_2": 3.5, "odd_ust": 1.9, "odd_alt": 1.9, "ou_line": 2.5})
+    raw, adj = kupon.iyms_probs(mm, duzelt=False), kupon.iyms_probs(mm)
+    assert abs(sum(adj.values()) - 1) < 1e-9 and adj["İY/MS 1/2"] > raw["İY/MS 1/2"] and adj["İY/MS 1/1"] < raw["İY/MS 1/1"]
+    for ft in "1X2":
+        assert abs(sum(v for k, v in adj.items() if k.endswith("/" + ft)) -
+                   sum(v for k, v in raw.items() if k.endswith("/" + ft))) < 1e-9
+    # çılgın kupon: en değerli 4 dönüş (maç başına bir) + başka maçlardan en fazla 2 💎; 4 dönüş yoksa boş
+    from src.tavsiye import CILGIN_N, _crazy
+    now = pd.Timestamp("2026-10-24 12:00")
+    base = {"baslama": "2026-10-24 20:00", "lig": "X", "gerçek_değer": False}
+    c = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": p * o - 1}
+                      for m, t, p, o in [("A", "İY/MS 1/X", 0.05, 14), ("A", "İY/MS 1/2", 0.03, 30), ("B", "İY/MS 2/X", 0.05, 15),
+                                         ("C", "İY/MS 2/1", 0.03, 25), ("D", "İY/MS 1/X", 0.04, 12), ("E", "İY/MS 1/X", 0.04, 11),
+                                         ("F", "İY/MS 1/1", 0.40, 2.5)]])
+    pos = pd.DataFrame([{**base, "maç": m, "tahmin": "MS 1", "p": 0.5, "odd": 2.2, "değer": 0.1, "gerçek_değer": True}
+                        for m in ("A", "G", "H", "I")])
+    cr = _crazy(c, pos, now)
+    legs = cr[cr["tahmin"].str.startswith("İY/MS")]
+    assert len(legs) == CILGIN_N and legs["maç"].is_unique and set(legs["maç"]) == {"A", "B", "C", "D"}
+    assert legs.loc[legs["maç"] == "A", "tahmin"].item() == "İY/MS 1/2"  # A'da en değerli dönüş
+    assert list(cr.loc[~cr["tahmin"].str.startswith("İY/MS"), "maç"]) == ["G", "H"]  # A zaten kuponda
+    assert _crazy(c[c["maç"].isin(["A", "B", "C"])], pos, now).empty
 
 
 def test_analiz():
@@ -668,6 +701,15 @@ def test_sonuclar():
     assert c["bitti"] and abs(c["dönen"] - 5.25) < 1e-9 and c["tutan"] == 2
     assert {x["icon"]: x["tahmin"] for x in sonuclar.stats(v)}["🎰"] == 2
     assert "- 🚫 Betis – Getafe · MS 1 · @1.50 · 1-1 · iptal" in sonuclar.tier_pages(v)["sistem"]
+    # çılgın kupon bir bütün: hepsi tutmalı; 1-1 -> ÇŞ 1-X ve KG Var tuttu (oran 3 x 4 = 12)
+    cz = log[log["gönderildi"] == "2026-10-01 09:20"].head(2).assign(seviye="🎲 Çılgın kupon")
+    cz["tahmin"], cz["odd"] = ["ÇŞ 1-X", "KG Var"], [3.0, 4.0]
+    c = sonuclar.systems(cz, "🎲")[0]
+    assert c["bitti"] and c["k"] == 2 and c["oran"] == 12 and c["dönen"] == 12
+    assert "✅ TUTTU! 1 birim → 12,00 birim" in sonuclar._crazy_line(c)
+    cz["tahmin"] = ["ÇŞ 1-X", "MS 1"]
+    assert sonuclar.systems(cz, "🎲")[0]["dönen"] == 0 and "❌ 1/2 maç tuttu" in sonuclar._crazy_line(sonuclar.systems(cz, "🎲")[0])
+    assert "## Çılgın kuponlar" in sonuclar.summary_md(cz) and "cilgin" in sonuclar.tier_pages(cz)
 
 
 def test_kadro():

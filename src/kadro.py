@@ -212,8 +212,8 @@ def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
     for ko, items in sorted(slots.items()):
         _, picks = tavsiye.run(config.RAW_DIR / "fixtures.csv", saat=f"{ko:%H:%M}", gun=f"{ko:%Y-%m-%d}")
         labels = [tavsiye._match_label(r) for r, _ in items]
-        if not picks.empty:  # sistem kupon günlük özette; her kadro mesajında yeni kupon açılmasın
-            picks = picks[picks["maç"].isin(labels) & ~picks["seviye"].str.startswith("🎰")]
+        if not picks.empty:  # sistem / çılgın kupon günlük özette; her kadro mesajında yeni kupon açılmasın
+            picks = picks[picks["maç"].isin(labels) & ~picks["seviye"].str.startswith(("🎰", "🎲"))]
         head = [f"📋 <b>Kadrolar açıklandı · {ko:%d.%m %H:%M}</b>", ""]
         for label, (_, lu) in zip(labels, items):
             head += lineup_lines(label, lu) + [""]

@@ -34,7 +34,8 @@ BASLIK = {  # simge -> (başlık, açıklama)
     "🔴": ("TIER 3", "yüksek risk"), "🟣": ("TIER 4", "çok yüksek risk"), "⚡": ("TIER 5", "kesin skor"),
     "🔥": ("TIER 6", "kesin skor · yukarıdaki maçlar"),
     "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
-    "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", "")}
+    "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", ""),
+    "🎲": ("ÇILGIN KUPON", "İY/MS dönüşleri + 💎 · piyango gibi")}
 KORNER_LIMIT = 3   # Tier 1-4'te gol tahminlerine ek en fazla bu kadar korner tahmini
 CIZGI = "━━━━━━━━━━━━━━━"
 
@@ -138,6 +139,22 @@ def _system_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
                                                   "(kolon başına 1 birim)"]
 
 
+def _tl(x: float) -> str:
+    """Türkçe sayı biçimi: 23815.78 -> "23.815,78"."""
+    return f"{x:,.2f}".replace(",", "#").replace(".", ",").replace("#", ".")
+
+
+def _crazy_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
+    """Çılgın kupon: İY/MS dönüşleri + 💎, toplam oranıyla (tüm ayaklar tutmalı)."""
+    from src.tavsiye import CILGIN_N
+    t = _playable(soon[soon["seviye"].str.startswith("🎲")])
+    if t["tahmin"].str.startswith("İY/MS").sum() < CILGIN_N:  # oranı kapanan dönüş varsa kupon eksik kalmasın
+        return []
+    log += t.to_dict("records")
+    total = float(t["odd"].astype(float).prod())
+    return _section("🎲", t, now_tr) + ["", f"🧾 <b>{len(t)} maç · toplam oran {_tl(total)}</b> (hepsi tutmalı)"]
+
+
 def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
     """Tek mesaj: 💎, Tier 1-4 (İY/MS ve korner dahil, merdivenle), Tier 5-6 kesin skor, sistem kupon. Sadece
     İddaa'da oynanabilen (oranı olan) tahminler."""
@@ -161,6 +178,7 @@ def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -
     if not t5.empty:
         out += _section("🔥", t5, now_tr)
     out += _system_lines(soon, now_tr, log)
+    out += _crazy_lines(soon, now_tr, log)
     out += ["", CIZGI, "<i>↳ = bir üst seviyedeki tahminin aynı maçta devamı (bu tutarsa üstteki de tutar)</i>",
             f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
     return ["\n".join(out)]

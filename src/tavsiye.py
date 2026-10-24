@@ -49,6 +49,12 @@ KORNER_PER_TIER = {0: 4, 1: 4, 2: 4, 3: 3}   # Tier 1-4'te korner tahmini sayıs
 SISTEM_TIER = "🎰 Sistem kupon"
 SISTEM_N = 8                  # sistem kuponda maç sayısı
 SISTEM_MIN_ODDS = 1.30
+# Çılgın kupon (kullanıcı isteği, 2026-10-24): İY/MS "dönüşleri" (ilk yarıyı önde kapatan berabere kalır / kaybeder;
+# oran ~12-30) + günün 💎'leri. Piyango gibi: tutma ihtimali çok düşük, fiyat yine de en iyi olanlardan seçilir.
+CILGIN_TIER = "🎲 Çılgın kupon"
+CILGIN_DONUS = ("İY/MS 1/X", "İY/MS 2/X", "İY/MS 1/2", "İY/MS 2/1")
+CILGIN_N = 4                  # dönüş ayağı (farklı maçlar)
+CILGIN_DEGERLI = 2            # yanına en fazla bu kadar 💎
 
 
 def _iyms_col(bet: str) -> str:
@@ -64,6 +70,22 @@ def _system(picks: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
     p = p[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1))]
     sistem = p.sort_values("p", ascending=False).drop_duplicates("maç").head(SISTEM_N)
     return sistem if len(sistem) >= 5 else sistem.iloc[:0]
+
+
+def _crazy(c: pd.DataFrame, pos: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
+    """Çılgın kupon: bugün / yarının İY/MS dönüşlerinden olasılık x İddaa oranı en yüksek olanlar (maç başına bir,
+    CILGIN_N maç; dönüş olasılıkları kupon.IYMS_DUZELTME ile düzeltilmiş) + başka maçlardan en fazla CILGIN_DEGERLI 💎.
+    CILGIN_N dönüş yoksa boş."""
+    def soon(d):
+        when = pd.to_datetime(d["baslama"].where(d["baslama"].astype(str).str.len() >= 16), errors="coerce")
+        return d[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1)) &
+                 (d["odd"].astype(float) > 1)]
+    legs = soon(c[c["tahmin"].isin(CILGIN_DONUS)]).sort_values("değer", ascending=False)
+    legs = legs.drop_duplicates("maç").head(CILGIN_N)
+    if len(legs) < CILGIN_N:
+        return legs.iloc[:0]
+    value = soon(pos[~pos["maç"].isin(legs["maç"])]).drop_duplicates("maç").head(CILGIN_DEGERLI)
+    return pd.concat([legs, value], ignore_index=True)
 
 
 def _corner_cands(r: dict, info: dict, cm) -> list[dict]:
@@ -506,6 +528,18 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
            "Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle / Betfair) adil fiyatının "
            "üstünde. Sadece modelin gördüğü değerler buraya alınmaz (backtest'te kapanışı yenmedi).", ""]
     md += [line(x) for x in pos.to_dict("records")] or [f"{price} oranı adil fiyatın üstünde olan tahmin yok."]
+    if not as_of:
+        crazy = _crazy(c, pos, pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None)) + pd.Timedelta(hours=3))
+        picked.append((CILGIN_TIER, crazy))
+        md += ["", f"## {CILGIN_TIER}", ""]
+        if crazy.empty:
+            md += [f"Bugün ve yarın için en az {CILGIN_N} maçta İY/MS dönüş oranı yok.", ""]
+        else:
+            md += [line(x) for x in crazy.to_dict("records")]
+            tl = lambda x, d=2: f"{x:,.{d}f}".replace(",", "#").replace(".", ",").replace("#", ".")  # noqa: E731
+            md += ["", f"Toplam oran **{tl(np.prod(crazy['odd'].astype(float)))}**, tutma olasılığı yaklaşık "
+                       f"1/{tl(1 / np.prod(crazy['p'].astype(float)), 0)}. Piyango gibidir; ayaklar İddaa oranına göre "
+                       "en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.", ""]
     if judged:
         md += ["", "## Sonuç özeti", "", "| seviye | tahmin | tuttu | isabet | oranı olan | kâr/zarar (1 birim) | beklenen isabet |",
                "|---|---|---|---|---|---|---|"]
