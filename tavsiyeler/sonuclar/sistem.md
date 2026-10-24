@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**159/289 tuttu** (isabet %55, beklenen %66) · -55.11 birim · 22 tahmin sonuç bekliyor
+**160/293 tuttu** (isabet %55, beklenen %66) · -57.70 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,12 +14,12 @@ Sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 - ❌ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64 · korner 6-9
 - ❌ 24.10 17:00 Rangers – St Johnstone · KG Var · @1.99 · 4-0
 - ✅ 24.10 19:30 Las Palmas – Real Sociedad B · En çok korner 1 · @1.43 · korner 7-6
-- ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
+- ❌ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44 · korner 3-3
 - ⏳ 25.10 17:00 Liverpool – Brighton · En çok korner 1 · @1.52
 
 ## 23.10 20:19 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
+**5/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ✅ 24.10 14:30 Huddersfield – Wigan Athletic · ↳ MS 1 & 2.5 Üst · @1.68 · 2-1
 - ✅ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.37 · korner 16-3
@@ -27,12 +27,12 @@ Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 - ✅ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41 · 0-1
 - ❌ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42 · 1-1
 - ❌ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64 · korner 6-9
-- ⏳ 24.10 19:45 Willem II – SC Cambuur · 2.5 Üst · @1.41
-- ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
+- ✅ 24.10 19:45 Willem II – SC Cambuur · 2.5 Üst · @1.41 · 1-6
+- ❌ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44 · korner 3-3
 
 ## 23.10 08:04 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+**3/8 maç tuttu · 8 birim yatırıldı, 0.00 döndü (-8.00)** ❌
 
 - ❌ 24.10 14:30 Bristol Rovers – Swindon Town · MS 1 · @1.41 · 0-0
 - ❌ 24.10 14:30 Portsmouth – Millwall · En çok korner 1 · @1.51 · korner 5-5
@@ -41,7 +41,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ✅ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41 · 0-1
 - ❌ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42 · 1-1
 - ❌ 24.10 17:15 Leganes – Mallorca · ↳ Korner 10.5 Alt · @1.41 · korner 7-4
-- ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.45
+- ❌ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.45 · korner 3-3
 
 ## 22.10 20:20 gönderilen kupon · 7'de 6
 

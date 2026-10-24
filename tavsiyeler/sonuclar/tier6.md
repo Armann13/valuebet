@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/320 tuttu** (isabet %11, beklenen %11) · -79.29 birim · 36 tahmin sonuç bekliyor
+**34/326 tuttu** (isabet %10, beklenen %11) · -85.29 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -125,12 +125,12 @@
 
 **19:30 · Kidderminster Harriers – Worthing**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 1-2
 
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
-- ⏳ 1-0 · @4.86
-- ⏳ 1-1 · @4.56
+- ❌ 1-0 · @4.86 · 0-0
+- ❌ 1-1 · @4.56 · 0-0
 
 **19:30 · Las Palmas – Real Sociedad B**
 
@@ -147,15 +147,15 @@
 
 **19:45 · Willem II – SC Cambuur**
 
-- ⏳ 2-1 · @8.85
+- ❌ 2-1 · @8.85 · 1-6
 
 **20:00 · Alverca FC – FC Arouca**
 
-- ⏳ 1-1 · @5.39
+- ❌ 1-1 · @5.39 · 0-1
 
 **21:45 · Westerlo – SK Beveren**
 
-- ⏳ 1-2 · @11.55
+- ❌ 1-2 · @11.55 · 4-4
 
 ## 23.10.2026 Cuma
 

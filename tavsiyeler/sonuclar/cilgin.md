@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-Henüz sonuçlanan yok · 5 tahmin sonuç bekliyor
+**0/1 tuttu** (isabet %0, beklenen %3) · -1.00 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@ Henüz sonuçlanan yok · 5 tahmin sonuç bekliyor
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.10 21:45 Westerlo – SK Beveren · İY/MS 1/2 · @34.00
+- ❌ 24.10 21:45 Westerlo – SK Beveren · İY/MS 1/2 · @34.00
 - ⏳ 24.10 22:30 Gil Vicente – Porto · İY/MS 1/2 · @24.80
 - ⏳ 25.10 18:45 Sparta Rotterdam – Ajax · 2.5 Alt · @2.92
 - ⏳ 25.10 20:30 Castellon – S.Gijon · İY/MS 2/1 · @23.00

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/46 tuttu** (isabet %57, beklenen %44) · +14.33 birim · 4 tahmin sonuç bekliyor
+**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,7 +40,7 @@
 
 **21:45 · Westerlo – SK Beveren**
 
-- ⏳ MS 2 · @3.56
+- ❌ MS 2 · @3.56 · 4-4
 
 ## 19.10.2026 Pazartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**106/146 tuttu** (isabet %73, beklenen %77) · -16.40 birim · 16 tahmin sonuç bekliyor
+**107/150 tuttu** (isabet %71, beklenen %77) · -19.19 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -48,8 +48,8 @@
 
 **19:30 · Valencia – Villarreal**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ ÇŞ 1-2 · @1.21 · 1-2
+- ❌ Korner 11.5 Alt · @1.25 · korner 6-9
 
 **19:30 · Las Palmas – Real Sociedad B**
 
@@ -62,11 +62,15 @@
 
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ❌ ÇŞ 1-2 · @1.21 · 0-0
 
 **20:00 · Alverca FC – FC Arouca**
 
-- ⏳ ÇŞ 1-X · @1.22
+- ❌ ÇŞ 1-X · @1.22 · 0-1
+
+**22:30 · Gil Vicente – Porto**
+
+- ⏳ Korner 10.5 Alt · @1.30
 
 ## 22.10.2026 Perşembe
 

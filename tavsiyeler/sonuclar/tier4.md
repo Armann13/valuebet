@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/129 tuttu** (isabet %33, beklenen %33) · -16.38 birim · 20 tahmin sonuç bekliyor
+**45/135 tuttu** (isabet %33, beklenen %33) · -15.45 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -57,7 +57,7 @@
 
 **19:30 · Kidderminster Harriers – Worthing**
 
-- ⏳ MS 1 · @2.30
+- ❌ MS 1 · @2.30 · 1-2
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
@@ -74,20 +74,24 @@
 
 **19:30 · Valencia – Villarreal**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.97
+- ✅ ↳ MS 2 & 2.5 Üst · @2.97 · 1-2
 
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
-- ⏳ ↳ İY/MS 1/1 · @2.97
+- ❌ ↳ İY/MS 1/1 · @2.97
 
 **19:45 · Willem II – SC Cambuur**
 
-- ⏳ ↳ MS 2 & KG Var · @3.96
-- ⏳ ↳ Korner 7.5 Alt · @3.29
+- ✅ ↳ MS 2 & KG Var · @3.96 · 1-6
+- ❌ ↳ Korner 7.5 Alt · @3.29 · korner 13-4
 
 **20:00 · Alverca FC – FC Arouca**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
+- ❌ ↳ MS 1 & 2.5 Üst · @3.28 · 0-1
+
+**22:30 · Gil Vicente – Porto**
+
+- ⏳ ↳ MS 2 & KG Var · @3.52
 
 ## 23.10.2026 Cuma
 

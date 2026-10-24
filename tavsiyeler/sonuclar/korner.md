@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**214/405 tuttu** (isabet %53, beklenen %61) · -72.87 birim · 37 tahmin sonuç bekliyor
+**214/415 tuttu** (isabet %52, beklenen %61) · -82.87 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -107,22 +107,28 @@
 
 **19:30 · Valencia – Villarreal**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.27
+- ❌ 🟢 Korner 11.5 Alt · @1.25 · korner 6-9
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 6-9
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.27 · korner 6-9
 
 **19:45 · Willem II – SC Cambuur**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.49
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.82
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @3.29
+- ❌ 🟡 Korner 10.5 Alt · @1.49 · korner 13-4
+- ❌ 🔴 ↳ Korner 9.5 Alt · @1.82 · korner 13-4
+- ❌ 🟣 ↳ Korner 7.5 Alt · @3.29 · korner 13-4
 
 **20:00 · Alverca FC – FC Arouca**
 
-- ⏳ 🟡 En çok korner 1 · @1.45
-- ⏳ 🎰 En çok korner 1 · @1.45
-- ⏳ 🎰 En çok korner 1 · @1.44
-- ⏳ 🎰 En çok korner 1 · @1.44
+- ❌ 🟡 En çok korner 1 · @1.45 · korner 3-3
+- ❌ 🎰 En çok korner 1 · @1.45 · korner 3-3
+- ❌ 🎰 En çok korner 1 · @1.44 · korner 3-3
+- ❌ 🎰 En çok korner 1 · @1.44 · korner 3-3
+
+**22:30 · Gil Vicente – Porto**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.30
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
+- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.60
 
 ## 23.10.2026 Cuma
 
