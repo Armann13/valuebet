@@ -944,7 +944,8 @@ def test_end_to_end():
     assert "İddaa fiyatlarının değeri" in (trk / "summary.md").read_text(encoding="utf-8")
 
     # predict --iddaa auto: yaklaşan bir maç için otomatik toplanmış İddaa oranı kullanılır
-    up = pd.read_csv(fixtures).iloc[0]
+    fx = pd.read_csv(fixtures)  # yarından sonraki ilk maç: bugünkü maç 20:00 UTC'den sonra "başlamış" sayılırdı
+    up = fx[pd.to_datetime(fx["Date"], dayfirst=True) > pd.Timestamp.now().normalize()].iloc[0]
     kick_up = pd.to_datetime(up["Date"], dayfirst=True)
     season_up = kick_up.year if kick_up.month >= 7 else kick_up.year - 1
     pd.DataFrame([{"snapshot_utc": "2000-01-01 00:00", "event_id": 8, "div": up["Div"],

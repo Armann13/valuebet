@@ -237,6 +237,9 @@ def _map_teams(df: pd.DataFrame, report: bool = False) -> tuple[pd.DataFrame, se
     from src.teams import TeamResolver
     known = db.load_matches()
     unknown = set()
+    for side in ("home", "away"):  # pandas 3.1: metin sütununa tümü boş (sayısal NaN) eşleme yazılamaz
+        if side in df:
+            df[side] = df[side].astype(object)
     for div in df["div"].unique():
         if div == config.AVRUPA:  # model yok (takımlar farklı liglerden): İddaa'daki ad olduğu gibi
             sel = df["div"] == div
