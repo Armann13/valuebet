@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**110/192 tuttu** (isabet %57, beklenen %63) · -26.88 birim · 15 tahmin sonuç bekliyor
+**110/193 tuttu** (isabet %57, beklenen %63) · -27.88 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **17:00 · Liverpool – Brighton**
 
 - ⏳ En çok korner 1 · @1.52
+
+**21:00 · N. Madeira – Braga**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
 
 ## 24.10.2026 Cumartesi
 
@@ -52,15 +56,33 @@
 
 **17:15 · Leganes – Mallorca**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ ↳ Korner 10.5 Alt · @1.41 · korner 7-4
 
 **19:30 · Las Palmas – Real Sociedad B**
 
 - ⏳ En çok korner 1 · @1.43
 
+**19:30 · Chelsea – Tottenham**
+
+- ⏳ MS 1 · @1.72
+
+**19:30 · Kidderminster Harriers – Worthing**
+
+- ⏳ 2.5 Üst · @1.49
+
+**19:30 · B. Dortmund – Eintracht Frankfurt**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.61
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**19:30 · Valencia – Villarreal**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.44
+
 **19:45 · Willem II – SC Cambuur**
 
 - ⏳ 2.5 Üst · @1.41
+- ⏳ Korner 10.5 Alt · @1.49
 
 **20:00 · Alverca FC – FC Arouca**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/314 tuttu** (isabet %11, beklenen %11) · -73.29 birim · 36 tahmin sonuç bekliyor
+**34/316 tuttu** (isabet %11, beklenen %11) · -75.29 birim · 38 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,6 +28,10 @@
 
 - ⏳ 0-2 · @8.96
 
+**19:15 · Angers – Lorient**
+
+- ⏳ 1-1 · @5.25
+
 **19:30 · Sunderland – Leeds United**
 
 - ⏳ 1-1 · @5.17
@@ -35,6 +39,10 @@
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ 2-1 · @7.25
+
+**21:00 · N. Madeira – Braga**
+
+- ⏳ 0-1 · @5.95
 
 **22:45 · Udinese – AC Milan**
 
@@ -108,11 +116,11 @@
 
 **17:15 · Leganes – Mallorca**
 
-- ⏳ 0-1 · @6.15
+- ❌ 0-1 · @6.15 · 1-1
 
 **17:30 · Utrecht – Zwolle**
 
-- ⏳ 2-1 · @7.48
+- ❌ 2-1 · @7.48 · 1-1
 
 **19:30 · Kidderminster Harriers – Worthing**
 
@@ -121,10 +129,12 @@
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
 - ⏳ 1-0 · @4.86
+- ⏳ 1-1 · @4.56
 
 **19:30 · Las Palmas – Real Sociedad B**
 
 - ⏳ 1-1 · @5.70
+- ⏳ 2-1 · @8.00
 
 **19:30 · Chelsea – Tottenham**
 

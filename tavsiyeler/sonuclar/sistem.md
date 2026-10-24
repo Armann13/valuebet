@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**158/287 tuttu** (isabet %55, beklenen %66) · -54.54 birim · 24 tahmin sonuç bekliyor
+**158/288 tuttu** (isabet %55, beklenen %66) · -55.54 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,7 +40,7 @@ Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 - ✅ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43 · 3-0
 - ✅ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41 · 0-1
 - ❌ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42 · 1-1
-- ⏳ 24.10 17:15 Leganes – Mallorca · ↳ Korner 10.5 Alt · @1.41
+- ❌ 24.10 17:15 Leganes – Mallorca · ↳ Korner 10.5 Alt · @1.41 · korner 7-4
 - ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.45
 
 ## 22.10 20:20 gönderilen kupon · 7'de 6

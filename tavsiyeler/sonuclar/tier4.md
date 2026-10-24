@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/123 tuttu** (isabet %35, beklenen %33) · -10.38 birim · 15 tahmin sonuç bekliyor
+**43/125 tuttu** (isabet %34, beklenen %33) · -12.38 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,6 +19,10 @@
 **17:00 · Atalanta – Frosinone**
 
 - ⏳ KG Yok · @2.64
+
+**19:15 · Angers – Lorient**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.87
 
 ## 24.10.2026 Cumartesi
 
@@ -40,11 +44,11 @@
 
 **17:15 · Leganes – Mallorca**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.98
+- ❌ ↳ Korner 7.5 Alt · @2.98 · korner 7-4
 
 **17:30 · Utrecht – Zwolle**
 
-- ⏳ Korner 8.5 Alt · @2.60
+- ❌ Korner 8.5 Alt · @2.60 · korner 7-2
 
 **19:30 · Kidderminster Harriers – Worthing**
 
@@ -53,6 +57,32 @@
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
 - ⏳ MS 1 & KG Var · @2.31
+- ⏳ ↳ Korner 7.5 Alt · @3.10
+
+**19:30 · Chelsea – Tottenham**
+
+- ⏳ ↳ MS 1 & KG Var · @2.99
+
+**19:30 · Las Palmas – Real Sociedad B**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.96
+
+**19:30 · Valencia – Villarreal**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.97
+
+**19:30 · Asteras Tripolis – APO Levadeiakos FC**
+
+- ⏳ ↳ İY/MS 1/1 · @2.97
+
+**19:45 · Willem II – SC Cambuur**
+
+- ⏳ ↳ MS 2 & KG Var · @3.96
+- ⏳ ↳ Korner 7.5 Alt · @3.29
+
+**20:00 · Alverca FC – FC Arouca**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
 
 ## 23.10.2026 Cuma
 

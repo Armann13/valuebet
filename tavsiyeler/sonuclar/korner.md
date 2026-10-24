@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**211/394 tuttu** (isabet %54, beklenen %61) · -65.95 birim · 28 tahmin sonuç bekliyor
+**212/399 tuttu** (isabet %53, beklenen %61) · -69.73 birim · 38 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -25,6 +25,12 @@
 - ⏳ 🟡 En çok korner 1 · @1.52
 - ⏳ 🎰 En çok korner 1 · @1.52
 
+**19:15 · Angers – Lorient**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.11
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.87
+
 **19:30 · Sunderland – Leeds United**
 
 - ⏳ 🔴 En çok korner 2 · @2.19
@@ -32,6 +38,11 @@
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ 🟢 En çok korner 1 · @1.25
+
+**21:00 · N. Madeira – Braga**
+
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.19
 
 **22:45 · Udinese – AC Milan**
 
@@ -65,19 +76,38 @@
 
 **17:15 · Leganes – Mallorca**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.98
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 7-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 7-4
+- ❌ 🟣 ↳ Korner 7.5 Alt · @2.98 · korner 7-4
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.41 · korner 7-4
 
 **17:30 · Utrecht – Zwolle**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.60
+- ❌ 🟣 Korner 8.5 Alt · @2.60 · korner 7-2
 
 **19:30 · Las Palmas – Real Sociedad B**
 
 - ⏳ 🟡 En çok korner 1 · @1.43
 - ⏳ 🎰 En çok korner 1 · @1.43
+
+**19:30 · B. Dortmund – Eintracht Frankfurt**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.26
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @3.10
+
+**19:30 · Valencia – Villarreal**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.27
+
+**19:45 · Willem II – SC Cambuur**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.49
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.82
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @3.29
 
 **20:00 · Alverca FC – FC Arouca**
 

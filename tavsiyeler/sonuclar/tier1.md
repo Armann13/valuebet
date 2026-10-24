@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**104/142 tuttu** (isabet %73, beklenen %77) · -14.86 birim · 11 tahmin sonuç bekliyor
+**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **16:00 · Athletic Bilbao – Getafe**
 
 - ⏳ En çok korner 1 · @1.20
+
+**19:15 · Angers – Lorient**
+
+- ⏳ Korner 11.5 Alt · @1.20
 
 **20:30 · Real Sociedad – Levante**
 
@@ -36,7 +40,29 @@
 
 **17:15 · Leganes – Mallorca**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 7-4
+
+**19:30 · Valencia – Villarreal**
+
+- ⏳ ÇŞ 1-2 · @1.21
+- ⏳ Korner 11.5 Alt · @1.25
+
+**19:30 · Las Palmas – Real Sociedad B**
+
+- ⏳ ÇŞ 1-X · @1.24
+
+**19:30 · B. Dortmund – Eintracht Frankfurt**
+
+- ⏳ 2.5 Üst · @1.24
+- ⏳ Korner 11.5 Alt · @1.24
+
+**19:30 · Asteras Tripolis – APO Levadeiakos FC**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**20:00 · Alverca FC – FC Arouca**
+
+- ⏳ ÇŞ 1-X · @1.22
 
 ## 22.10.2026 Perşembe
 

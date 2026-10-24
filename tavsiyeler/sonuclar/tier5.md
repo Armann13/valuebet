@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/52 tuttu** (isabet %17, beklenen %16) · -2.53 birim · 4 tahmin sonuç bekliyor
+**9/52 tuttu** (isabet %17, beklenen %16) · -2.53 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,9 +22,21 @@
 
 - ❌ 1-2 · @6.44 · 0-1
 
+**19:30 · Valencia – Villarreal**
+
+- ⏳ 1-2 · @7.93
+
+**19:45 · Willem II – SC Cambuur**
+
+- ⏳ 1-2 · @8.70
+
 **20:00 · AEK Athens – Paneitolikos**
 
 - ⏳ 3-0 · @4.94
+
+**20:00 · Alverca FC – FC Arouca**
+
+- ⏳ 2-1 · @8.04
 
 **21:45 · Lazio – Parma**
 
