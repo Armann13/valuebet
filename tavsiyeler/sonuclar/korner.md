@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**214/415 tuttu** (isabet %52, beklenen %61) · -82.87 birim · 30 tahmin sonuç bekliyor
+**214/418 tuttu** (isabet %51, beklenen %61) · -85.87 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -126,9 +126,9 @@
 
 **22:30 · Gil Vicente – Porto**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.30
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
-- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.60
+- ❌ 🟢 Korner 10.5 Alt · @1.30 · korner 3-8
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.54 · korner 3-8
+- ❌ 🔴 ↳ Korner 7.5 Alt · @2.60 · korner 3-8
 
 ## 23.10.2026 Cuma
 
