@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-10-23 18",
+ "son_ozet": "2026-10-24 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -42,6 +42,11 @@
   "2026-10-19|Trabzonspor – Beşiktaş|2.5 Alt",
   "2026-10-19|Trabzonspor – Beşiktaş|KG Yok",
   "2026-10-19|Trabzonspor – Beşiktaş|MS 2",
+  "2026-10-24|Aston Villa – Manchester City|2.5 Alt",
+  "2026-10-24|Chelsea – Tottenham|MS 1 & 2.5 Üst",
+  "2026-10-24|Cordoba – Eibar|MS 2",
+  "2026-10-24|Rangers – St Johnstone|KG Var",
+  "2026-10-24|Rangers – St Johnstone|MS 1 & KG Var",
   "2026-10-25|Sparta Rotterdam – Ajax|2.5 Alt",
   "2026-10-26|FC Andorra – CF Burgos|2.5 Alt"
  ],
@@ -66,6 +71,7 @@
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
-  "2026-10-22"
+  "2026-10-22",
+  "2026-10-23"
  ]
 }
