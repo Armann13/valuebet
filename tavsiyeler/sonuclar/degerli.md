@@ -2,9 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim
+**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ 2.5 Alt · @1.69
+
+## 25.10.2026 Pazar
+
+**18:45 · Sparta Rotterdam – Ajax**
+
+- ⏳ 2.5 Alt · @2.92
 
 ## 19.10.2026 Pazartesi
 
