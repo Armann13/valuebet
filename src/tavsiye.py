@@ -52,7 +52,9 @@ KORNER_PER_TIER = {0: 4, 1: 4, 2: 4, 3: 3}   # Tier 1-4'te korner tahmini sayıs
 # farklı maçlardan; hepsi tutmalı. Korner üst yükseltici olmaz (3/26).
 IDEAL_TIER = "🎯 İdeal kupon"
 IDEAL_BANKO = 3
-IDEAL_YUKSELTICI_MIN = 1.80   # oran yükseltici en az bu oran (veride iyi giden yükselticiler ~2.1-2.6)
+# oran yükseltici en az bu oran (2026-10-25, kullanıcı: toplam oran az). Bankolar yapıları gereği ~1.20-1.30; 1.80'de
+# toplam ~3.8, 2.50'de ~5-6 ve tutma ihtimali neredeyse aynı (yüksek oranlı yükseltici modele göre daha değerli).
+IDEAL_YUKSELTICI_MIN = 2.50
 # Çılgın kupon (kullanıcı isteği, 2026-10-24): İY/MS "dönüşleri" (ilk yarıyı önde kapatan berabere kalır / kaybeder;
 # oran ~12-30) + günün 💎'leri. Piyango gibi: tutma ihtimali çok düşük, fiyat yine de en iyi olanlardan seçilir.
 CILGIN_TIER = "🎲 Çılgın kupon"

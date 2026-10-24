@@ -561,8 +561,10 @@ def test_kupon():
                        for m, t, p, o in [("A", "En çok korner 1", 0.5, 1.9), ("F", "Korner 10.5 Üst", 0.48, 2.0),
                                           ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2)]])
     pool = lambda u: pd.concat([t1, u], ignore_index=True)  # noqa: E731  (tüm adaylar; seviye bantlarıyla seçilir)
-    idl = _ideal(pool(up), now)
-    assert list(idl["maç"]) == ["A", "B", "D", "H"] and list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 2"]
+    idl = _ideal(pool(up), now)  # H'nin oranı (2.20) yükseltici için düşük: G (2.70)
+    assert list(idl["maç"]) == ["A", "B", "D", "G"] and list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "MS 2 & KG Var"]
+    up.loc[up["maç"] == "H", "odd"] = 2.6  # H artık uygun ve G'den olası
+    assert list(_ideal(pool(up), now)["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 2"]
     assert _ideal(pool(up[up["maç"] == "F"]), now).empty  # uygun yükseltici yok
     assert _ideal(pool(up.assign(odd=1.6)), now).empty  # yükseltici oranı çok düşük
     assert _ideal(pool(up[up["maç"] == "Z"]), now).empty  # yükseltici adayı yok

@@ -133,8 +133,9 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
   en yüksek 4 tanesi (farklı maçlar) + başka maçlardan en fazla 2 💎; toplam oran ve sonuçta bir bütün olarak takip.
   Dönüş olasılıkları geçmiş maçlara göre düzeltilir (`kupon.IYMS_DUZELTME`: binom ayrımı 1/2'yi %36, 2/1'i %22 az
   veriyordu; 2016-22'de öğrenip 2022/23+'da test edildi). Tutma ihtimali yüz binlerde bir: piyango.
-- **🎯 İdeal kupon:** Tier 1'den en olası 3 banko (sadece tek MS / çifte şans) + Tier 3-4'ten en olası 1 oran
-  yükseltici (sadece en çok korner / MS & KG Var), hepsi farklı maçlar; toplam oran ~4. Türler 2026-10-24'e kadarki
+- **🎯 İdeal kupon:** Tier 1'den en olası 3 banko (sadece tek MS / çifte şans) + Tier 3-4'ten oranı en az 2.50 olan
+  en olası 1 oran yükseltici (sadece en çok korner / MS & KG Var), hepsi farklı maçlar; toplam oran ~5-6, yaklaşık 6
+  kuponda 1 tutar (`IDEAL_YUKSELTICI_MIN`; 1.80'de toplam ~3.8'di). Türler 2026-10-24'e kadarki
   sonuçlara göre seçildi (992 sonuçlanan tahmin): bankolar beklenen kadar ya da üstünde, bu iki yükseltici türü
   beklenenden iyi; korner üst yükseltici olmaz (3/26). Sonuçta bir bütün olarak takip.
 - 🎰 Sistem kupon 2026-10-24'te kaldırıldı (31 kuponda 283 birim yatırıldı, 71 döndü); eski kuponlar sonuçlarda kalır.
