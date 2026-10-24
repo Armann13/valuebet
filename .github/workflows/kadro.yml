@@ -1,0 +1,67 @@
+# Kadro açıklanınca güncelleme (src/kadro.py): 15 dakikada bir, başlamasına 15-90 dakika kalan maçların ilk 11'leri
+# ESPN'de açıklandıysa o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a gider (kadrolar,
+# eksik düzenli oyuncular, sabahki listeye göre değişenler). Repo herkese açık: Actions dakikası sınırsız.
+name: Kadro güncellemesi
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kadro   # kendi grubu: diğer işlerin bekleyen çalıştırmalarını iptal ettirmesin
+
+jobs:
+  kadro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Bağımlılık
+        run: pip install -r requirements.txt
+
+      - name: Kadrosu açıklanan maç var mı
+        id: kontrol
+        run: python main.py kadro --kontrol
+
+      - name: Veritabanı (kulüp modelleri için)
+        if: steps.kontrol.outputs.hazir == '1'
+        run: python main.py build
+
+      - name: Güncel İddaa oranları
+        if: steps.kontrol.outputs.hazir == '1'
+        run: python main.py iddaa
+
+      - name: Kadrolar ve Telegram
+        if: steps.kontrol.outputs.hazir == '1'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py kadro --bekleyen "$RUNNER_TEMP/kadro.json"
+
+      - name: Kaydet (gönderilen tahminler ve maçlar)
+        if: steps.kontrol.outputs.hazir == '1'
+        run: |
+          [ -f "$RUNNER_TEMP/kadro.json" ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # bu işin topladığı oranlar kaydedilmez (3 saatlik iş kaydeder); kayıt her denemede en güncel depo üstüne
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python main.py kadro --kaydet "$RUNNER_TEMP/kadro.json"
+            git add tavsiyeler
+            git diff --cached --quiet && exit 0
+            git commit -q -m "Kadro güncellemesi $(date -u +'%Y-%m-%d %H:%M')"
+            git push -q && exit 0
+            sleep 20
+          done
+          exit 1

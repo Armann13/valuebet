@@ -22,6 +22,7 @@ import argparse
 import os
 import sys
 import time
+from pathlib import Path
 
 import config
 
@@ -196,6 +197,26 @@ def cmd_analiz(args):
         return ok
 
 
+def cmd_kadro(args):
+    import json
+    from src import kadro
+    if args.kontrol:  # GitHub işi: kadrosu açıklanan maç varsa sonraki adımlar çalışır
+        ready = kadro.check()
+        if os.environ.get("GITHUB_OUTPUT"):
+            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
+                f.write(f"hazir={int(ready)}\n")
+        return
+    if args.kaydet:  # gönderilmiş güncellemenin kaydı (GitHub'da en güncel depo üstüne)
+        res = json.loads(Path(args.kaydet).read_text(encoding="utf-8"))
+        print(f"  kadro: sonuç takibine {kadro.kaydet(res)} yeni tahmin, {len(res['maclar'])} maç işaretlendi")
+        return
+    res = kadro.run(send=not args.gonderme)
+    if args.bekleyen:
+        Path(args.bekleyen).write_text(json.dumps(res, ensure_ascii=False, default=str), encoding="utf-8")
+    elif not args.gonderme:
+        print(f"  kadro: sonuç takibine {kadro.kaydet(res)} yeni tahmin")
+
+
 def cmd_korner(args):
     from src import korner
     md = korner.run()
@@ -310,6 +331,7 @@ def main():
     for name, fn in [("download", cmd_download), ("build", cmd_build), ("backtest", cmd_backtest),
                      ("tune", cmd_tune), ("diagnose", cmd_diagnose), ("predict", cmd_predict), ("track", cmd_track), ("iddaa", cmd_iddaa), ("tavsiye", cmd_tavsiye), ("telegram", cmd_telegram),
                      ("milli", cmd_milli), ("sonuc", cmd_sonuc), ("korner", cmd_korner), ("analiz", cmd_analiz),
+                     ("kadro", cmd_kadro),
                      ("ratings", cmd_ratings), ("teams", cmd_teams), ("all", cmd_all)]:
         sp = sub.add_parser(name)
         sp.set_defaults(fn=fn)
@@ -342,6 +364,11 @@ def main():
             sp.add_argument("--telegram", action="store_true", help="Telegram'a da gönder")
         if name == "sonuc":
             sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
+        if name == "kadro":  # kadro açıklanınca güncelleme (src/kadro.py)
+            sp.add_argument("--kontrol", action="store_true", help="sadece kadrosu açıklanan maç var mı")
+            sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
+            sp.add_argument("--bekleyen", help="gönderilenleri kaydetmeden bu JSON dosyasına yaz (GitHub işi)")
+            sp.add_argument("--kaydet", help="--bekleyen ile yazılan dosyayı sonuç takibine kaydet")
         if name == "milli":  # milli takım modeli; ayarları config.MILLI_* (--xi / --ridge burada kullanılmaz)
             sp.add_argument("--siralama", action="store_true", help="güncel milli takım güç sıralaması")
             sp.add_argument("--espn", action="store_true", help="son milli maç sonuçlarını ESPN'den çek")

@@ -670,6 +670,59 @@ def test_sonuclar():
     assert "- 🚫 Betis – Getafe · MS 1 · @1.50 · 1-1 · iptal" in sonuclar.tier_pages(v)["sistem"]
 
 
+def test_kadro():
+    """Kadro güncellemesi: açıklanan ilk 11, eksik düzenli oyuncular, sabahki listeye göre değişenler, zaman penceresi."""
+    import tempfile
+    from src import kadro
+    pl = lambda i, start=True: {"starter": start, "athlete": {"id": i, "displayName": i.upper()}}  # noqa: E731
+    xi = lambda pre, extra=(): [pl(f"{pre}{k}") for k in range(1, 12 - len(extra))] + [pl(x) for x in extra]  # noqa: E731
+    pages = {
+        "M": {"rosters": [{"homeAway": "home", "team": {"id": "1", "displayName": "Ev"}, "formation": "4-3-3",
+                           "roster": xi("h") + [pl("x1", start=False)]},
+                          {"homeAway": "away", "team": {"id": "2", "displayName": "Dep"}, "formation": "4-4-2",
+                           "roster": xi("a")}],
+              "lastFiveGames": [{"team": {"id": "1"}, "events": [{"id": "p1", "leagueAbbreviation": "Süper Lig"},
+                                                                 {"id": "p2", "leagueAbbreviation": "Süper Lig"},
+                                                                 {"id": "p3", "leagueAbbreviation": "UCL"},
+                                                                 {"id": "p4", "leagueAbbreviation": "Club Friendly"}]}]},
+        # son maçlarda x1 ve x2 hep ilk 11'de; bugün x1 yedekte, x2 kadroda yok
+        **{p: {"rosters": [{"team": {"id": "1"}, "roster": xi("h", ("x1", "x2"))}]} for p in ("p1", "p2", "p3")},
+        "p4": {"rosters": [{"team": {"id": "1"}, "roster": xi("h", ("y1", "y2"))}]},  # hazırlık maçı sayılmaz
+        "N": {"rosters": [{"homeAway": "home", "team": {"id": "1"}, "roster": xi("h")[:9]}]}}  # kadro açıklanmadı
+    lu = kadro.lineup("M", fetch=pages.__getitem__)
+    assert lu["home"]["eksik"] == [("X1", True), ("X2", False)] and lu["away"]["eksik"] is None
+    assert kadro.lineup("N", fetch=pages.__getitem__) is None
+    lines = kadro.lineup_lines("Ev – Dep", lu)
+    assert lines[0] == "🏟 <b>Ev – Dep</b> · 4-3-3 / 4-4-2" and lines[1] == "• Ev: düzenli ilk 11'den yok: X1 (yedekte), X2"
+    old = pd.DataFrame([{"maç": "A – B", "seviye": "🟢 Tier 1", "tahmin": "MS 1"},
+                        {"maç": "A – B", "seviye": "🟡 Tier 2", "tahmin": "MS 1 & KG Var"},
+                        {"maç": "A – B", "seviye": "🔴 Tier 3", "tahmin": "İY/MS 1/1"},
+                        {"maç": "A – B", "seviye": "🔥 Tier 6", "tahmin": "2-1"},
+                        {"maç": "A – B", "seviye": "🎰 Sistem kupon · 7'de 6", "tahmin": "MS 1"}])
+    new = [{"maç": "A – B", "seviye": "🟢 Tier 1", "tahmin": "MS 1"}, {"maç": "A – B", "seviye": "🟡 Tier 2",
+            "tahmin": "MS 1 & 2.5 Üst"}, {"maç": "A – B", "seviye": "⚡ Tier 5", "tahmin": "2-1"},
+           {"maç": "A – B", "seviye": "🟣 Tier 4", "tahmin": "MS 1 & KG Var"},
+           {"maç": "C – D", "seviye": "🟢 Tier 1", "tahmin": "MS 2"}]
+    # aynı seviyede değişen (🔄), kalkan (➖); önceden olmayan seviye / maç sayılmaz; kesin skor Tier 5-6 aynı grup
+    assert kadro.changes(old, new) == ["➖ 🔴 A – B: İY/MS 1/1 (artık listede yok)",
+                                       "🔄 🟡 A – B: MS 1 &amp; KG Var → MS 1 &amp; 2.5 Üst"], kadro.changes(old, new)
+    now = pd.Timestamp("2026-10-24 17:00")
+    old_raw, old_tav = config.RAW_DIR, config.TAVSIYE_DIR
+    with tempfile.TemporaryDirectory() as d:
+        config.RAW_DIR, config.TAVSIYE_DIR = Path(d) / "raw", Path(d) / "tav"
+        try:
+            (config.RAW_DIR / "iddaa").mkdir(parents=True)
+            pd.DataFrame([{"snapshot_utc": "2026-10-24 15:00", "event_id": i, "div": "T1",
+                           "kickoff_utc": f"{now + pd.Timedelta(minutes=m):%Y-%m-%d %H:%M}", "home_iddaa": "A",
+                           "away_iddaa": "B", "home": "A", "away": "B"} for i, m in ((1, 10), (2, 60), (3, 120))]
+                         ).to_csv(config.RAW_DIR / "iddaa" / "odds_2026.csv", index=False)
+            assert kadro.candidates(now)["event_id"].tolist() == [2]  # 15-90 dakika kalan
+            assert kadro.kaydet({"satirlar": [], "maclar": ["2"], "zaman": "2026-10-24 20:00"}) == 0
+            assert kadro.candidates(now).empty  # gönderildi: tekrar gelmez
+        finally:
+            config.RAW_DIR, config.TAVSIYE_DIR = old_raw, old_tav
+
+
 def test_kulup_sonuc():
     """ESPN'den kulüp sonucu: adlar football-data / İddaa adıyla eşlenir; istatistiği olmayan maçta korner boş."""
     from src import kulup_sonuc as ks

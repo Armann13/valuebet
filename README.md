@@ -166,6 +166,17 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
   maçları tek tek, gün gün (`tavsiyeler/sonuclar/tier1.md` ... `korner.md`, `sistem.md`). Elle:
   `python main.py sonuc --gonderme`.
 
+### Kadro açıklanınca güncelleme
+
+- `.github/workflows/kadro.yml` 15 dakikada bir: başlamasına 15-90 dakika kalan maçların ilk 11'leri ESPN'de
+  açıklandıysa (`src/kadro.py`) o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
+  mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), önceden
+  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (sistem kupon hariç). Tahminler sonuç takibine girer;
+  gönderilen maçlar `tavsiyeler/kadro_durum.json`.
+- Kadro oyuncu bazında modele girmez (oyuncu verisi yok): etkisi İddaa oranları üzerinden gelir; eksik listesi bilgi
+  içindir. ESPN'de olmayan ligler (İskoçya League One / Two) için güncelleme gelmez.
+- Elle: `python main.py kadro [--gonderme]`. Repo herkese açık (2026-10-24): Actions dakikası sınırsız.
+
 ### Avrupa kupaları
 
 - UEFA Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi (elemeler dahil; gençlik / kadın hariç) İddaa'dan `AVRUPA`
