@@ -123,7 +123,7 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 ### Telegram Tier listesi ve maç analizi
 
 - Tek mesaj: 💎, Tier 1-3, 🟣 Tier 4 (çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS,
-  İY/MS, yüksek korner barajı), Tier 5-6 (kesin skor), korner, sistem kupon. Her satırda saat, maç, tahmin ve İddaa
+  İY/MS, yüksek korner barajı), Tier 5-6 (kesin skor), korner, 🎯 ideal ve 🎲 çılgın kupon. Her satırda saat, maç, tahmin ve İddaa
   oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez. Telegram'ın 4096 karakter
   sınırı etiketsiz metne uygulanır; aşarsa mesaj satır sınırından bölünür.
 - **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
@@ -133,7 +133,11 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
   en yüksek 4 tanesi (farklı maçlar) + başka maçlardan en fazla 2 💎; toplam oran ve sonuçta bir bütün olarak takip.
   Dönüş olasılıkları geçmiş maçlara göre düzeltilir (`kupon.IYMS_DUZELTME`: binom ayrımı 1/2'yi %36, 2/1'i %22 az
   veriyordu; 2016-22'de öğrenip 2022/23+'da test edildi). Tutma ihtimali yüz binlerde bir: piyango.
-- **🎰 Sistem kupon:** bugün / yarının en olası 8 tahmini (oran 1.30+), kâra geçme şansı en yüksek "8'de k".
+- **🎯 İdeal kupon:** Tier 1'den en olası 3 banko (sadece tek MS / çifte şans) + Tier 3-4'ten en olası 1 oran
+  yükseltici (sadece en çok korner / MS & KG Var), hepsi farklı maçlar; toplam oran ~4. Türler 2026-10-24'e kadarki
+  sonuçlara göre seçildi (992 sonuçlanan tahmin): bankolar beklenen kadar ya da üstünde, bu iki yükseltici türü
+  beklenenden iyi; korner üst yükseltici olmaz (3/26). Sonuçta bir bütün olarak takip.
+- 🎰 Sistem kupon 2026-10-24'te kaldırıldı (31 kuponda 283 birim yatırıldı, 71 döndü); eski kuponlar sonuçlarda kalır.
 - **Maç analizi:** `python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions →
   "Maç analizi" → Run workflow (saat gir): o saatte başlayan maçların aynı biçimde Tier listesi, güncel oranlarla.
 - Kart, şut, isabetli şut, faul (kulüplerde `src/istatistik.py` modeli) ve golcü oranları `src/analiz.py`'de
@@ -175,7 +179,7 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 - `.github/workflows/kadro.yml` 15 dakikada bir: başlamasına 15-90 dakika kalan maçların ilk 11'leri ESPN'de
   açıklandıysa (`src/kadro.py`) o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
   mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), önceden
-  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (sistem kupon hariç). Tahminler sonuç takibine girer;
+  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (kuponlar hariç). Tahminler sonuç takibine girer;
   gönderilen maçlar `tavsiyeler/kadro_durum.json`.
 - Kadro oyuncu bazında modele girmez (oyuncu verisi yok): etkisi İddaa oranları üzerinden gelir; eksik listesi bilgi
   içindir. ESPN'de olmayan ligler (İskoçya League One / Two) için güncelleme gelmez.

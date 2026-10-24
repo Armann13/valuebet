@@ -35,6 +35,7 @@ BASLIK = {  # simge -> (başlık, açıklama)
     "🔥": ("TIER 6", "kesin skor · yukarıdaki maçlar"),
     "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", ""),
+    "🎯": ("İDEAL KUPON", "3 banko + 1 oran yükseltici"),
     "🎲": ("ÇILGIN KUPON", "İY/MS dönüşleri + 💎 · piyango gibi")}
 KORNER_LIMIT = 3   # Tier 1-4'te gol tahminlerine ek en fazla bu kadar korner tahmini
 CIZGI = "━━━━━━━━━━━━━━━"
@@ -125,39 +126,28 @@ def _section(icon: str, rows: pd.DataFrame, now_tr: datetime) -> list:
     return out
 
 
-def _system_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
-    """Sistem kupon: maçlar ve önerilen "n'de k" (kâra geçme şansı en yüksek olan)."""
-    from src import kupon
-    sistem = _playable(soon[soon["seviye"].str.startswith("🎰")])
-    if len(sistem) < 5:
-        return []
-    n = len(sistem)
-    best = kupon.best_system(list(sistem["p"]), list(sistem["odd"]))
-    # önerilen k kayda yazılır: sonuç raporunda kupon bir bütün olarak (yatırılan / dönen) hesaplanır
-    log += sistem.assign(seviye=f"{sistem['seviye'].iloc[0]} · {n}'de {best['k']}").to_dict("records")
-    return _section("🎰", sistem, now_tr) + ["", f"🧾 <b>{n}'de {best['k']} · {best['kolon']} kolon</b> "
-                                                  "(kolon başına 1 birim)"]
-
-
 def _tl(x: float) -> str:
     """Türkçe sayı biçimi: 23815.78 -> "23.815,78"."""
     return f"{x:,.2f}".replace(",", "#").replace(".", ",").replace("#", ".")
 
 
-def _crazy_lines(soon: pd.DataFrame, now_tr: datetime, log: list) -> list:
-    """Çılgın kupon: İY/MS dönüşleri + 💎, toplam oranıyla (tüm ayaklar tutmalı)."""
-    from src.tavsiye import CILGIN_N
-    t = _playable(soon[soon["seviye"].str.startswith("🎲")])
-    if t["tahmin"].str.startswith("İY/MS").sum() < CILGIN_N:  # oranı kapanan dönüş varsa kupon eksik kalmasın
+def _coupon_lines(soon: pd.DataFrame, now_tr: datetime, log: list, icon: str) -> list:
+    """Kupon bölümü (🎯 ideal, 🎲 çılgın): ayaklar ve toplam oran; hepsi tutmalı. Bir ayağın oranı kapandıysa
+    (oynanamaz) kupon eksik kalmasın diye hiç gösterilmez."""
+    from src.tavsiye import CILGIN_N, IDEAL_BANKO
+    rows = soon[soon["seviye"].str.startswith(icon)]
+    t = _playable(rows)
+    need = IDEAL_BANKO + 1 if icon == "🎯" else CILGIN_N
+    if len(t) < len(rows) or (t["tahmin"].str.startswith("İY/MS").sum() if icon == "🎲" else len(t)) < need:
         return []
     log += t.to_dict("records")
     total = float(t["odd"].astype(float).prod())
-    return _section("🎲", t, now_tr) + ["", f"🧾 <b>{len(t)} maç · toplam oran {_tl(total)}</b> (hepsi tutmalı)"]
+    return _section(icon, t, now_tr) + ["", f"🧾 <b>{len(t)} maç · toplam oran {_tl(total)}</b> (hepsi tutmalı)"]
 
 
 def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
-    """Tek mesaj: 💎, Tier 1-4 (İY/MS ve korner dahil, merdivenle), Tier 5-6 kesin skor, sistem kupon. Sadece
-    İddaa'da oynanabilen (oranı olan) tahminler."""
+    """Tek mesaj: 💎, Tier 1-4 (İY/MS ve korner dahil, merdivenle), Tier 5-6 kesin skor, 🎯 ideal ve 🎲 çılgın kupon.
+    Sadece İddaa'da oynanabilen (oranı olan) tahminler."""
     out = [header, "<i>🕘 saat · maç   ➜ tahmin · İddaa oranı</i>"]
     v = _playable(soon[soon["seviye"].str.startswith("💎")])
     out += _section("💎", v, now_tr) if not v.empty else ["", CIZGI, "💎 <b>DEĞERLİ</b> · <i>bugün yok</i>"]
@@ -177,8 +167,8 @@ def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -
     log += t5.to_dict("records")
     if not t5.empty:
         out += _section("🔥", t5, now_tr)
-    out += _system_lines(soon, now_tr, log)
-    out += _crazy_lines(soon, now_tr, log)
+    out += _coupon_lines(soon, now_tr, log, "🎯")
+    out += _coupon_lines(soon, now_tr, log, "🎲")
     out += ["", CIZGI, "<i>↳ = bir üst seviyedeki tahminin aynı maçta devamı (bu tutarsa üstteki de tutar)</i>",
             f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
     return ["\n".join(out)]

@@ -452,6 +452,14 @@ def test_telegram_messages():
     assert "ÇILGIN KUPON" in msgs[0] and "4 maç · toplam oran 23.815,78" in msgs[0], msgs[0]
     msgs, _ = build_messages(pd.concat([picks, cz.head(3)], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     assert "ÇILGIN KUPON" not in msgs[0]  # dönüş eksik: kupon gösterilmez
+    iz = pd.DataFrame([{**row, "maç": m, "seviye": "🎯 İdeal kupon", "tahmin": t, "p": 0.8, "odd": o, "değer": -0.05,
+                        "gerçek_değer": False}
+                       for m, t, o in [("P – Q", "ÇŞ 1-X", 1.2), ("R – S", "MS 2", 1.25), ("T – U", "MS 1", 1.3),
+                                       ("V – W", "En çok korner 1", 2.0)]])
+    msgs, _ = build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
+    assert "İDEAL KUPON" in msgs[0] and "4 maç · toplam oran 3,90" in msgs[0] and "SİSTEM KUPON" not in msgs[0]
+    iz.loc[0, "odd"] = float("nan")  # bir ayak kapandı: kupon gösterilmez
+    assert "İDEAL KUPON" not in build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))[0][0]
     from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
     assert _visible_len("<b>A &amp; B</b> 🟣") == len("A & B ") + 2
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
@@ -540,6 +548,25 @@ def test_kupon():
     assert legs.loc[legs["maç"] == "A", "tahmin"].item() == "İY/MS 1/2"  # A'da en değerli dönüş
     assert list(cr.loc[~cr["tahmin"].str.startswith("İY/MS"), "maç"]) == ["G", "H"]  # A zaten kuponda
     assert _crazy(c[c["maç"].isin(["A", "B", "C"])], pos, now).empty
+    # ideal kupon: Tier 1'den en olası 3 banko (tek MS / çifte şans, farklı maç) + Tier 3-4'ten en olası en çok korner /
+    # MS & KG Var (başka maç); korner / kombinasyon banko olmaz, korner üst yükseltici olmaz
+    from src.tavsiye import _ideal, is_banko, is_booster
+    assert is_banko("ÇŞ 1-X") and is_banko("MS 2") and not is_banko("MS 1 & 2.5 Üst") and not is_banko("Korner 9.5 Alt")
+    assert is_booster("En çok korner 1") and is_booster("MS 1 & KG Var") and not is_booster("Korner 10.5 Üst")
+    t1 = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": -0.05}
+                       for m, t, p, o in [("A", "ÇŞ 1-X", 0.85, 1.2), ("A", "MS 1", 0.75, 1.25), ("B", "MS 2", 0.80, 1.22),
+                                          ("C", "Korner 9.5 Alt", 0.90, 1.2), ("D", "ÇŞ X-2", 0.78, 1.21),
+                                          ("E", "MS 1", 0.72, 1.3)]])
+    up = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": -0.05}
+                       for m, t, p, o in [("A", "En çok korner 1", 0.5, 1.9), ("F", "Korner 10.5 Üst", 0.48, 2.0),
+                                          ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2)]])
+    pool = lambda u: pd.concat([t1, u], ignore_index=True)  # noqa: E731  (tüm adaylar; seviye bantlarıyla seçilir)
+    idl = _ideal(pool(up), now)
+    assert list(idl["maç"]) == ["A", "B", "D", "H"] and list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 2"]
+    assert _ideal(pool(up[up["maç"] == "F"]), now).empty  # uygun yükseltici yok
+    assert _ideal(pool(up.assign(odd=1.6)), now).empty  # yükseltici oranı çok düşük
+    assert _ideal(pool(up[up["maç"] == "Z"]), now).empty  # yükseltici adayı yok
+    assert _ideal(t1.iloc[0:0], now).empty  # hiç aday yok (boş tabloda filtre sütun seçimine dönmesin)
 
 
 def test_analiz():
@@ -706,10 +733,15 @@ def test_sonuclar():
     cz["tahmin"], cz["odd"] = ["ÇŞ 1-X", "KG Var"], [3.0, 4.0]
     c = sonuclar.systems(cz, "🎲")[0]
     assert c["bitti"] and c["k"] == 2 and c["oran"] == 12 and c["dönen"] == 12
-    assert "✅ TUTTU! 1 birim → 12,00 birim" in sonuclar._crazy_line(c)
+    assert "✅ TUTTU! 1 birim → 12,00 birim" in sonuclar._coupon_line(c, "🎲")
     cz["tahmin"] = ["ÇŞ 1-X", "MS 1"]
-    assert sonuclar.systems(cz, "🎲")[0]["dönen"] == 0 and "❌ 1/2 maç tuttu" in sonuclar._crazy_line(sonuclar.systems(cz, "🎲")[0])
+    assert sonuclar.systems(cz, "🎲")[0]["dönen"] == 0 and "❌ 1/2 maç tuttu" in sonuclar._coupon_line(sonuclar.systems(cz, "🎲")[0])
     assert "## Çılgın kuponlar" in sonuclar.summary_md(cz) and "cilgin" in sonuclar.tier_pages(cz)
+    iz = cz.assign(seviye="🎯 İdeal kupon", tahmin=["ÇŞ 1-X", "KG Var"])  # ideal kupon da tek kolon
+    ci = sonuclar.systems(iz, "🎯")[0]
+    assert ci["dönen"] == 12 and sonuclar._coupon_line(ci, "🎯").startswith("🎯 İdeal kupon (01.10 09:20 gönderilen, 2 maç")
+    assert "## İdeal kuponlar" in sonuclar.summary_md(iz) and "ideal" in sonuclar.tier_pages(iz)
+    assert "🎯 İdeal kupon" in sonuclar.day_message("2026-10-01", iz, iz)
 
 
 def test_kadro():
@@ -965,7 +997,8 @@ def test_end_to_end():
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     day9 = f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d}"  # milli maç 18:45 UTC = 21:45 TR
     r = run("main.py", "analiz", "--saat", "21:45", "--gun", day9)  # sadece o saatteki maçların Tier listesi
-    assert r.returncode == 0 and "21:45 maçları" in r.stdout and "İspanya – Çekya" in r.stdout, r.stdout[-1500:]
+    assert r.returncode == 0 and "21:45 maçları" in r.stdout and "İspanya – Çekya" in r.stdout, \
+        r.stdout[-1500:] + r.stderr[-2000:]
     assert "%" not in r.stdout and up["HomeTeam"] not in r.stdout
     r = run("main.py", "sonuc", "--gonderme")  # henüz Telegram'da gönderilen tahmin yok
     assert r.returncode == 0 and "henüz kayıtlı tahmin yok" in r.stdout, r.stdout + r.stderr

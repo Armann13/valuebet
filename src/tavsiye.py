@@ -46,9 +46,13 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL, KOR_LINES_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
 KORNER_PER_TIER = {0: 4, 1: 4, 2: 4, 3: 3}   # Tier 1-4'te korner tahmini sayısı (gol tahminlerine ek)
-SISTEM_TIER = "🎰 Sistem kupon"
-SISTEM_N = 8                  # sistem kuponda maç sayısı
-SISTEM_MIN_ODDS = 1.30
+# İdeal kupon (kullanıcı isteği, 2026-10-24; sistem kuponun yerine: 31 sistem kuponda 283 birim -> 71): Tier 1'in en
+# sağlam türlerinden 3 banko (MS / çifte şans: 2026-10-24'e kadar 28/35 ve 25/31, beklenenin üstü) + Tier 3-4'ten
+# beklenenden iyi tutan türden 1 oran yükseltici (en çok korner 20/35 ~16 beklenen, MS & KG Var 17/37 ~13). Hepsi
+# farklı maçlardan; hepsi tutmalı. Korner üst yükseltici olmaz (3/26).
+IDEAL_TIER = "🎯 İdeal kupon"
+IDEAL_BANKO = 3
+IDEAL_YUKSELTICI_MIN = 1.80   # oran yükseltici en az bu oran (veride iyi giden yükselticiler ~2.1-2.6)
 # Çılgın kupon (kullanıcı isteği, 2026-10-24): İY/MS "dönüşleri" (ilk yarıyı önde kapatan berabere kalır / kaybeder;
 # oran ~12-30) + günün 💎'leri. Piyango gibi: tutma ihtimali çok düşük, fiyat yine de en iyi olanlardan seçilir.
 CILGIN_TIER = "🎲 Çılgın kupon"
@@ -62,29 +66,52 @@ def _iyms_col(bet: str) -> str:
     return f"odd_iyms_{a}{b}"
 
 
-def _system(picks: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
-    """Bugün ve yarının Tier 1-2 (ve korner) tahminlerinden SISTEM_N maçlık sistem kupon: maç başına en olası
-    tahmin, oranı SISTEM_MIN_ODDS+; en az 5 maç yoksa boş."""
-    p = picks[np.isfinite(picks["odd"].astype(float)) & (picks["odd"] >= SISTEM_MIN_ODDS)].copy()
-    when = pd.to_datetime(p["baslama"].where(p["baslama"].astype(str).str.len() >= 16), errors="coerce")
-    p = p[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1))]
-    sistem = p.sort_values("p", ascending=False).drop_duplicates("maç").head(SISTEM_N)
-    return sistem if len(sistem) >= 5 else sistem.iloc[:0]
+def _soon(d: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
+    """Bugün (henüz başlamamış) ve yarının, İddaa'da oranı olan tahminleri."""
+    when = pd.to_datetime(d["baslama"].where(d["baslama"].astype(str).str.len() >= 16), errors="coerce")
+    return d[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1)) &
+             (d["odd"].astype(float) > 1)]
+
+
+def is_banko(bet: str) -> bool:
+    """İdeal kupon bankosu olabilecek tür: tek MS ya da çifte şans (kombinasyon değil)."""
+    return bet.startswith(("MS ", "ÇŞ ")) and "&" not in bet
+
+
+def is_booster(bet: str) -> bool:
+    """İdeal kupon oran yükselticisi olabilecek tür: en çok korner ya da MS & KG Var."""
+    return bet.startswith("En çok korner") or (bet.startswith("MS ") and bet.endswith("& KG Var"))
+
+
+def _ideal(pool: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
+    """İdeal kupon, bugün / yarının tüm aday tahminlerinden (gol + korner; Tier listeleri günlere bölünmeden kısa
+    olduğu için onlardan değil, aynı ölçütlerle): Tier 1 ölçütündeki (olasılık >= %70, oran >= MIN_ODDS[0]) en olası
+    IDEAL_BANKO banko (is_banko, farklı maçlar) + Tier 3 ya da Tier 4 ölçütündeki en olası oran yükseltici
+    (is_booster, başka maçtan). Eksikse boş."""
+    pool = _soon(pool, now)
+    p, odd = pool["p"].astype(float), pool["odd"].astype(float)
+    # .astype(bool): boş tabloda map nesne tipi döner, pandas onu sütun seçimi sanar
+    banko = pool[pool["tahmin"].map(is_banko).astype(bool) & (p >= TIERS[0][1]) & (odd >= MIN_ODDS[0])]
+    banko = banko.sort_values("p", ascending=False).drop_duplicates("maç").head(IDEAL_BANKO)
+    t3 = (p >= TIERS[2][1]) & (p < TIERS[2][2])
+    t4 = (p >= TIERS[3][1]) & (p < TIERS[3][2]) & (odd >= MIN_ODDS[3])
+    boost = pool[pool["tahmin"].map(is_booster).astype(bool) & (t3 | t4) & (odd >= IDEAL_YUKSELTICI_MIN) &
+                 ~pool["maç"].isin(banko["maç"])]
+    boost = boost.sort_values("p", ascending=False).head(1)
+    if len(banko) < IDEAL_BANKO or boost.empty:
+        return banko.iloc[:0]
+    return pd.concat([banko, boost], ignore_index=True)
 
 
 def _crazy(c: pd.DataFrame, pos: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
     """Çılgın kupon: bugün / yarının İY/MS dönüşlerinden olasılık x İddaa oranı en yüksek olanlar (maç başına bir,
     CILGIN_N maç; dönüş olasılıkları kupon.IYMS_DUZELTME ile düzeltilmiş) + başka maçlardan en fazla CILGIN_DEGERLI 💎.
     CILGIN_N dönüş yoksa boş."""
-    def soon(d):
-        when = pd.to_datetime(d["baslama"].where(d["baslama"].astype(str).str.len() >= 16), errors="coerce")
-        return d[(when > now) & (when.dt.normalize() <= now.normalize() + pd.Timedelta(days=1)) &
-                 (d["odd"].astype(float) > 1)]
-    legs = soon(c[c["tahmin"].isin(CILGIN_DONUS)]).sort_values("değer", ascending=False)
+    legs = _soon(c[c["tahmin"].isin(CILGIN_DONUS)], now).sort_values("değer", ascending=False)
     legs = legs.drop_duplicates("maç").head(CILGIN_N)
     if len(legs) < CILGIN_N:
         return legs.iloc[:0]
-    value = soon(pos[~pos["maç"].isin(legs["maç"])]).drop_duplicates("maç").head(CILGIN_DEGERLI)
+    value = _soon(pos[~pos["maç"].isin(legs["maç"])], now).drop_duplicates("maç").head(CILGIN_DEGERLI)
     return pd.concat([legs, value], ignore_index=True)
 
 
@@ -506,23 +533,21 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
     picked += [(SKOR_TIERS[0], s.head(MAX_SHORT_SCORES)), (SKOR_TIERS[1], s)]
     for tname, t in picked[len(TIERS):]:
         md += [f"## {tname}", ""] + [line(x) for x in t.to_dict("records")] + [""]
+    tl = lambda x, d=2: f"{x:,.{d}f}".replace(",", "#").replace(".", ",").replace("#", ".")  # noqa: E731
     if not as_of:
-        from src import kupon
-        legs = pd.concat([t for name, t in picked if name.startswith(("🟢", "🟡"))], ignore_index=True)
-        legs = legs.reindex(columns=list(dict.fromkeys([*CAND_COLS, *legs.columns])))
-        sistem = _system(legs, pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None)) + pd.Timedelta(hours=3))
-        picked.append((SISTEM_TIER, sistem))
-        md += [f"## {SISTEM_TIER} ({len(sistem)} maç)", ""]
-        if sistem.empty:
-            md += ["Bugün ve yarın için en az 5 uygun maç yok.", ""]
+        ideal = _ideal(pd.concat([c, k], ignore_index=True),
+                       pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None)) + pd.Timedelta(hours=3))
+        picked.append((IDEAL_TIER, ideal))
+        md += [f"## {IDEAL_TIER}", ""]
+        if ideal.empty:
+            md += ["Bugün ve yarın için uygun 3 banko (Tier 1 MS / çifte şans) ve 1 oran yükseltici (Tier 3-4 en çok "
+                   "korner / MS & KG Var) yok.", ""]
         else:
-            md += [line(x) for x in sistem.to_dict("records")] + ["", "| sistem | kolon | en az k tutma | kâr olasılığı | "
-                                                                    "beklenen dönüş (birim başına) |", "|---|---|---|---|---|"]
-            for s in kupon.system_table(list(sistem["p"]), list(sistem["odd"])):
-                md.append(f"| {len(sistem)}'de {s['k']} | {s['kolon']} | %{100 * s['en_az_k']:.0f} | "
-                          f"%{100 * s['kar_olasiligi']:.0f} | {s['beklenen_donus']:.2f} |")
-            md += [""]
-    pos = c[c["gerçek_değer"] & (c["p"] >= 0.25)].sort_values("değer", ascending=False).head(15)
+            md += [line(x) for x in ideal.to_dict("records")]
+            md += ["", f"3 banko + 1 oran yükseltici, hepsi farklı maçlar; toplam oran "
+                       f"**{tl(np.prod(ideal['odd'].astype(float)))}**, tutma olasılığı yaklaşık "
+                       f"%{100 * np.prod(ideal['p'].astype(float)):.0f}.", ""]
+    pos =c[c["gerçek_değer"] & (c["p"] >= 0.25)].sort_values("değer", ascending=False).head(15)
     picked.append(("💎 Değeri pozitif olanlar", pos))
     md += ["## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)", "",
            "Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle / Betfair) adil fiyatının "
@@ -536,7 +561,6 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
             md += [f"Bugün ve yarın için en az {CILGIN_N} maçta İY/MS dönüş oranı yok.", ""]
         else:
             md += [line(x) for x in crazy.to_dict("records")]
-            tl = lambda x, d=2: f"{x:,.{d}f}".replace(",", "#").replace(".", ",").replace("#", ".")  # noqa: E731
             md += ["", f"Toplam oran **{tl(np.prod(crazy['odd'].astype(float)))}**, tutma olasılığı yaklaşık "
                        f"1/{tl(1 / np.prod(crazy['p'].astype(float)), 0)}. Piyango gibidir; ayaklar İddaa oranına göre "
                        "en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.", ""]
