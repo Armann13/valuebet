@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 13 tahmin sonuç bekliyor
+**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.10.2026 Pazar
+
+**16:00 · Athletic Bilbao – Getafe**
+
+- ⏳ En çok korner 1 · @1.20
+
+**20:30 · Real Sociedad – Levante**
+
+- ⏳ En çok korner 1 · @1.25
 
 ## 24.10.2026 Cumartesi
 

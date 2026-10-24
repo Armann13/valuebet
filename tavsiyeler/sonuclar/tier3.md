@@ -2,11 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**74/162 tuttu** (isabet %46, beklenen %46) · -9.65 birim · 18 tahmin sonuç bekliyor
+**74/162 tuttu** (isabet %46, beklenen %46) · -9.65 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 25.10.2026 Pazar
+
+**18:45 · Sparta Rotterdam – Ajax**
+
+- ⏳ 2.5 Alt · @2.92
+
+**19:30 · Sunderland – Leeds United**
+
+- ⏳ En çok korner 2 · @2.19
+
+**22:45 · Udinese – AC Milan**
+
+- ⏳ En çok korner 1 · @2.31
+
 ## 24.10.2026 Cumartesi
+
+**14:30 · Aston Villa – Manchester City**
+
+- ⏳ 2.5 Alt · @2.87
+
+**15:00 · Cordoba – Eibar**
+
+- ⏳ MS 2 · @3.50
 
 **16:00 · Gaziantep FK – Erzurumspor FK**
 
@@ -27,6 +49,10 @@
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
 - ⏳ MS 1 · @1.81
+
+**19:30 · Chelsea – Tottenham**
+
+- ⏳ MS 1 & 2.5 Üst · @2.46
 
 ## 23.10.2026 Cuma
 

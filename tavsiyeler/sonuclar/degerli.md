@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim · 2 tahmin sonuç bekliyor
+**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,25 @@
 **18:45 · Sparta Rotterdam – Ajax**
 
 - ⏳ 2.5 Alt · @2.92
+
+## 24.10.2026 Cumartesi
+
+**14:30 · Aston Villa – Manchester City**
+
+- ⏳ 2.5 Alt · @2.87
+
+**15:00 · Cordoba – Eibar**
+
+- ⏳ MS 2 · @3.50
+
+**17:00 · Rangers – St Johnstone**
+
+- ⏳ MS 1 & KG Var · @2.73
+- ⏳ KG Var · @1.99
+
+**19:30 · Chelsea – Tottenham**
+
+- ⏳ MS 1 & 2.5 Üst · @2.46
 
 ## 19.10.2026 Pazartesi
 

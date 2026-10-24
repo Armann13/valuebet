@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/119 tuttu** (isabet %34, beklenen %33) · -13.88 birim · 15 tahmin sonuç bekliyor
+**40/119 tuttu** (isabet %34, beklenen %33) · -13.88 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.10.2026 Pazar
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ Korner 8.5 Alt · @2.80
+
+**16:30 · NEC Nijmegen – Groningen**
+
+- ⏳ Korner 8.5 Alt · @2.56
+
+**17:00 · Atalanta – Frosinone**
+
+- ⏳ KG Yok · @2.64
 
 ## 24.10.2026 Cumartesi
 
@@ -35,6 +49,10 @@
 **19:30 · Kidderminster Harriers – Worthing**
 
 - ⏳ MS 1 · @2.30
+
+**19:30 · B. Dortmund – Eintracht Frankfurt**
+
+- ⏳ MS 1 & KG Var · @2.31
 
 ## 23.10.2026 Cuma
 

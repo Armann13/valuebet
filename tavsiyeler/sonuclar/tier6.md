@@ -2,9 +2,43 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/296 tuttu** (isabet %10, beklenen %11) · -73.82 birim · 39 tahmin sonuç bekliyor
+**31/296 tuttu** (isabet %10, beklenen %11) · -73.82 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.10.2026 Pazar
+
+**16:30 · NEC Nijmegen – Groningen**
+
+- ⏳ 1-1 · @7.02
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ 1-1 · @8.56
+
+**17:00 · Liverpool – Brighton**
+
+- ⏳ 1-1 · @6.43
+
+**17:00 · Atalanta – Frosinone**
+
+- ⏳ 3-0 · @15.85
+
+**18:45 · Sparta Rotterdam – Ajax**
+
+- ⏳ 0-2 · @8.96
+
+**19:30 · Sunderland – Leeds United**
+
+- ⏳ 1-1 · @5.17
+
+**20:30 · Real Sociedad – Levante**
+
+- ⏳ 2-1 · @7.25
+
+**22:45 · Udinese – AC Milan**
+
+- ⏳ 0-1 · @6.16
 
 ## 24.10.2026 Cumartesi
 
@@ -16,9 +50,14 @@
 
 - ⏳ 1-1 · @5.43
 
+**14:30 · Aston Villa – Manchester City**
+
+- ⏳ 1-1 · @8.46
+
 **15:00 · Cordoba – Eibar**
 
 - ⏳ 2-1 · @8.04
+- ⏳ 1-2 · @11.35
 
 **16:00 · Modena FC – AC Cesena**
 
@@ -57,10 +96,15 @@
 **17:00 · Preston – West Bromwich**
 
 - ⏳ 0-1 · @6.81
+- ⏳ 1-2 · @7.63
 
 **17:00 · York City – Port Vale**
 
 - ⏳ 2-1 · @6.78
+
+**17:00 · Rangers – St Johnstone**
+
+- ⏳ 2-1 · @8.21
 
 **17:15 · Leganes – Mallorca**
 
@@ -77,6 +121,18 @@
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 
 - ⏳ 1-0 · @4.86
+
+**19:30 · Las Palmas – Real Sociedad B**
+
+- ⏳ 1-1 · @5.70
+
+**19:30 · Chelsea – Tottenham**
+
+- ⏳ 2-1 · @7.66
+
+**19:30 · B. Dortmund – Eintracht Frankfurt**
+
+- ⏳ 2-1 · @7.68
 
 **19:45 · Willem II – SC Cambuur**
 

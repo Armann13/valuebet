@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**150/272 tuttu** (isabet %55, beklenen %66) · -51.10 birim · 33 tahmin sonuç bekliyor
+**150/272 tuttu** (isabet %55, beklenen %66) · -51.10 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.10 14:16 gönderilen kupon · 6'de 5
+
+Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.44
+- ⏳ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64
+- ⏳ 24.10 17:00 Rangers – St Johnstone · KG Var · @1.99
+- ⏳ 24.10 19:30 Las Palmas – Real Sociedad B · En çok korner 1 · @1.43
+- ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
+- ⏳ 25.10 17:00 Liverpool – Brighton · En çok korner 1 · @1.52
 
 ## 23.10 20:19 gönderilen kupon · 8'de 7
 

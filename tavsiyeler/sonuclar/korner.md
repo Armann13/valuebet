@@ -2,9 +2,40 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**206/382 tuttu** (isabet %54, beklenen %61) · -62.07 birim · 27 tahmin sonuç bekliyor
+**206/382 tuttu** (isabet %54, beklenen %61) · -62.07 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.10.2026 Pazar
+
+**16:00 · Athletic Bilbao – Getafe**
+
+- ⏳ 🟢 En çok korner 1 · @1.20
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.80
+
+**16:30 · NEC Nijmegen – Groningen**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.56
+
+**17:00 · Liverpool – Brighton**
+
+- ⏳ 🟡 En çok korner 1 · @1.52
+- ⏳ 🎰 En çok korner 1 · @1.52
+
+**19:30 · Sunderland – Leeds United**
+
+- ⏳ 🔴 En çok korner 2 · @2.19
+
+**20:30 · Real Sociedad – Levante**
+
+- ⏳ 🟢 En çok korner 1 · @1.25
+
+**22:45 · Udinese – AC Milan**
+
+- ⏳ 🔴 En çok korner 1 · @2.31
 
 ## 24.10.2026 Cumartesi
 
@@ -18,6 +49,7 @@
 - ⏳ 🟢 En çok korner 1 · @1.39
 - ⏳ 🎰 En çok korner 1 · @1.39
 - ⏳ 🎰 En çok korner 1 · @1.37
+- ⏳ 🎰 En çok korner 1 · @1.44
 
 **16:30 · Augsburg – Union Berlin**
 
@@ -28,6 +60,7 @@
 - ⏳ 🟢 Korner 12.5 Alt · @1.21
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.06
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.64
+- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.64
 - ⏳ 🎰 ↳ Korner 10.5 Alt · @1.64
 
 **17:15 · Leganes – Mallorca**
@@ -41,10 +74,16 @@
 
 - ⏳ 🟣 Korner 8.5 Alt · @2.60
 
+**19:30 · Las Palmas – Real Sociedad B**
+
+- ⏳ 🟡 En çok korner 1 · @1.43
+- ⏳ 🎰 En çok korner 1 · @1.43
+
 **20:00 · Alverca FC – FC Arouca**
 
 - ⏳ 🟡 En çok korner 1 · @1.45
 - ⏳ 🎰 En çok korner 1 · @1.45
+- ⏳ 🎰 En çok korner 1 · @1.44
 - ⏳ 🎰 En çok korner 1 · @1.44
 
 ## 23.10.2026 Cuma
