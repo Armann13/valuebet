@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**110/193 tuttu** (isabet %57, beklenen %63) · -27.88 birim · 21 tahmin sonuç bekliyor
+**111/197 tuttu** (isabet %56, beklenen %63) · -30.45 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.10.2026 Pazar
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ ↳ Korner 11.5 Alt · @1.40
 
 **17:00 · Liverpool – Brighton**
 
@@ -60,11 +64,11 @@
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ En çok korner 1 · @1.43
+- ✅ En çok korner 1 · @1.43 · korner 7-6
 
 **19:30 · Chelsea – Tottenham**
 
-- ⏳ MS 1 · @1.72
+- ❌ MS 1 · @1.72 · 0-2
 
 **19:30 · Kidderminster Harriers – Worthing**
 
@@ -72,8 +76,8 @@
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.61
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ❌ ↳ MS 1 & 2.5 Üst · @1.61 · 1-0
+- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 13-1
 
 **19:30 · Valencia – Villarreal**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**212/399 tuttu** (isabet %53, beklenen %61) · -69.73 birim · 38 tahmin sonuç bekliyor
+**214/405 tuttu** (isabet %53, beklenen %61) · -72.87 birim · 37 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,8 @@
 **16:30 · PSV – Feyenoord**
 
 - ⏳ 🟣 Korner 8.5 Alt · @2.80
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
 
 **16:30 · NEC Nijmegen – Groningen**
 
@@ -24,6 +26,10 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.52
 - ⏳ 🎰 En çok korner 1 · @1.52
+
+**17:00 · Atalanta – Frosinone**
+
+- ⏳ 🟣 Korner 8.5 Alt · @2.63
 
 **19:15 · Angers – Lorient**
 
@@ -43,6 +49,8 @@
 
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.19
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟣 ↳ Korner 7.5 Alt · @3.00
 
 **22:45 · Udinese – AC Milan**
 
@@ -87,15 +95,15 @@
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ 🟡 En çok korner 1 · @1.43
-- ⏳ 🎰 En çok korner 1 · @1.43
+- ✅ 🟡 En çok korner 1 · @1.43 · korner 7-6
+- ✅ 🎰 En çok korner 1 · @1.43 · korner 7-6
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.26
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @3.10
+- ❌ 🟢 Korner 11.5 Alt · @1.24 · korner 13-1
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.43 · korner 13-1
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.26 · korner 13-1
+- ❌ 🟣 ↳ Korner 7.5 Alt · @3.10 · korner 13-1
 
 **19:30 · Valencia – Villarreal**
 

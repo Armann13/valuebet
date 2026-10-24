@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/166 tuttu** (isabet %45, beklenen %46) · -11.85 birim · 30 tahmin sonuç bekliyor
+**76/169 tuttu** (isabet %45, beklenen %46) · -12.85 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.10.2026 Pazar
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ ↳ Korner 9.5 Alt · @2.10
 
 **18:45 · Sparta Rotterdam – Ajax**
 
@@ -61,11 +65,11 @@
 
 **19:30 · Chelsea – Tottenham**
 
-- ⏳ MS 1 & 2.5 Üst · @2.46
+- ❌ MS 1 & 2.5 Üst · @2.46 · 0-2
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ ↳ MS 1 · @2.00
+- ✅ ↳ MS 1 · @2.00 · 1-0
 
 **19:30 · Valencia – Villarreal**
 
@@ -74,7 +78,7 @@
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ ↳ Korner 8.5 Alt · @2.26
+- ❌ ↳ Korner 8.5 Alt · @2.26 · korner 13-1
 
 **19:45 · Willem II – SC Cambuur**
 
@@ -84,6 +88,10 @@
 **20:00 · Alverca FC – FC Arouca**
 
 - ⏳ ↳ MS 1 · @2.00
+
+**21:45 · Westerlo – SK Beveren**
+
+- ⏳ MS 2 · @3.56
 
 ## 23.10.2026 Cuma
 

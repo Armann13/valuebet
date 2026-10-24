@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/316 tuttu** (isabet %11, beklenen %11) · -75.29 birim · 38 tahmin sonuç bekliyor
+**34/320 tuttu** (isabet %11, beklenen %11) · -79.29 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,6 +23,7 @@
 **17:00 · Atalanta – Frosinone**
 
 - ⏳ 3-0 · @15.85
+- ⏳ 2-1 · @7.95
 
 **18:45 · Sparta Rotterdam – Ajax**
 
@@ -133,16 +134,16 @@
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ 1-1 · @5.70
-- ⏳ 2-1 · @8.00
+- ❌ 1-1 · @5.70 · 1-0
+- ❌ 2-1 · @8.00 · 1-0
 
 **19:30 · Chelsea – Tottenham**
 
-- ⏳ 2-1 · @7.66
+- ❌ 2-1 · @7.66 · 0-2
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ 2-1 · @7.68
+- ❌ 2-1 · @7.68 · 1-0
 
 **19:45 · Willem II – SC Cambuur**
 
@@ -151,6 +152,10 @@
 **20:00 · Alverca FC – FC Arouca**
 
 - ⏳ 1-1 · @5.39
+
+**21:45 · Westerlo – SK Beveren**
+
+- ⏳ 1-2 · @11.55
 
 ## 23.10.2026 Cuma
 

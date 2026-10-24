@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 18 tahmin sonuç bekliyor
+**106/146 tuttu** (isabet %73, beklenen %77) · -16.40 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,6 +19,10 @@
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ En çok korner 1 · @1.25
+
+**21:00 · N. Madeira – Braga**
+
+- ⏳ Korner 11.5 Alt · @1.22
 
 ## 24.10.2026 Cumartesi
 
@@ -49,12 +53,12 @@
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 1-0
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ 2.5 Üst · @1.24
-- ⏳ Korner 11.5 Alt · @1.24
+- ❌ 2.5 Üst · @1.24 · 1-0
+- ❌ Korner 11.5 Alt · @1.24 · korner 13-1
 
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 

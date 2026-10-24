@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/125 tuttu** (isabet %34, beklenen %33) · -12.38 birim · 22 tahmin sonuç bekliyor
+**43/129 tuttu** (isabet %33, beklenen %33) · -16.38 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,10 +19,15 @@
 **17:00 · Atalanta – Frosinone**
 
 - ⏳ KG Yok · @2.64
+- ⏳ Korner 8.5 Alt · @2.63
 
 **19:15 · Angers – Lorient**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.87
+
+**21:00 · N. Madeira – Braga**
+
+- ⏳ ↳ Korner 7.5 Alt · @3.00
 
 ## 24.10.2026 Cumartesi
 
@@ -56,16 +61,16 @@
 
 **19:30 · B. Dortmund – Eintracht Frankfurt**
 
-- ⏳ MS 1 & KG Var · @2.31
-- ⏳ ↳ Korner 7.5 Alt · @3.10
+- ❌ MS 1 & KG Var · @2.31 · 1-0
+- ❌ ↳ Korner 7.5 Alt · @3.10 · korner 13-1
 
 **19:30 · Chelsea – Tottenham**
 
-- ⏳ ↳ MS 1 & KG Var · @2.99
+- ❌ ↳ MS 1 & KG Var · @2.99 · 0-2
 
 **19:30 · Las Palmas – Real Sociedad B**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.96
+- ❌ ↳ MS 1 & 2.5 Üst · @2.96 · 1-0
 
 **19:30 · Valencia – Villarreal**
 
