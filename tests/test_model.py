@@ -455,9 +455,11 @@ def test_telegram_messages():
     iz = pd.DataFrame([{**row, "maç": m, "seviye": "🎯 İdeal kupon", "tahmin": t, "p": 0.8, "odd": o, "değer": -0.05,
                         "gerçek_değer": False}
                        for m, t, o in [("P – Q", "ÇŞ 1-X", 1.2), ("R – S", "MS 2", 1.25), ("T – U", "MS 1", 1.3),
-                                       ("V – W", "En çok korner 1", 2.0)]])
+                                       ("V – W", "En çok korner 1", 2.0), ("X – Y", "MS 1 & KG Var", 2.5)]])
     msgs, _ = build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
-    assert "İDEAL KUPON" in msgs[0] and "4 maç · toplam oran 3,90" in msgs[0] and "SİSTEM KUPON" not in msgs[0]
+    assert "İDEAL KUPON" in msgs[0] and "5 maç · toplam oran 9,75" in msgs[0] and "SİSTEM KUPON" not in msgs[0]
+    assert "İDEAL KUPON" not in build_messages(pd.concat([picks, iz.head(4)], ignore_index=True), {},
+                                               datetime(2026, 10, 3, 10, 0))[0][0]  # ayak eksik
     iz.loc[0, "odd"] = float("nan")  # bir ayak kapandı: kupon gösterilmez
     assert "İDEAL KUPON" not in build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))[0][0]
     from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
@@ -561,10 +563,13 @@ def test_kupon():
                        for m, t, p, o in [("A", "En çok korner 1", 0.5, 1.9), ("F", "Korner 10.5 Üst", 0.48, 2.0),
                                           ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2)]])
     pool = lambda u: pd.concat([t1, u], ignore_index=True)  # noqa: E731  (tüm adaylar; seviye bantlarıyla seçilir)
-    idl = _ideal(pool(up), now)  # H'nin oranı (2.20) yükseltici için düşük: G (2.70)
-    assert list(idl["maç"]) == ["A", "B", "D", "G"] and list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "MS 2 & KG Var"]
-    up.loc[up["maç"] == "H", "odd"] = 2.6  # H artık uygun ve G'den olası
-    assert list(_ideal(pool(up), now)["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 2"]
+    # 2 yükseltici: biri 2.50+ (H 2.20'de kalır: G 2.70), diğeri 1.80+ (H)
+    idl = _ideal(pool(up), now)
+    assert list(idl["maç"]) == ["A", "B", "D", "G", "H"], idl
+    assert list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "MS 2 & KG Var", "En çok korner 2"]
+    up.loc[up["maç"] == "H", "odd"] = 2.6  # H 2.50+ için de uygun ve G'den olası: önce H
+    assert list(_ideal(pool(up), now)["maç"]) == ["A", "B", "D", "H", "G"]
+    assert _ideal(pool(up[up["maç"] == "G"]), now).empty  # tek yükseltici var: kupon yok
     assert _ideal(pool(up[up["maç"] == "F"]), now).empty  # uygun yükseltici yok
     assert _ideal(pool(up.assign(odd=1.6)), now).empty  # yükseltici oranı çok düşük
     assert _ideal(pool(up[up["maç"] == "Z"]), now).empty  # yükseltici adayı yok

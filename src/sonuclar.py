@@ -398,7 +398,8 @@ def summary_md(log: pd.DataFrame) -> str:
         if fin:
             md.append(f"| **toplam** ({len(fin)} kupon) | | | {sum(s['kolon'] for s in fin)} | "
                       f"{sum(s['dönen'] for s in fin):.2f} | {fmt(sum(s['dönen'] - s['kolon'] for s in fin))} |")
-    notes = {"🎯": "3 banko (Tier 1 MS / çifte şans) + 1 oran yükseltici (Tier 3-4 en çok korner / MS & KG Var)",
+    notes = {"🎯": "3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; "
+                   "25.10'dan beri 2 tane)",
              "🎲": "İY/MS dönüşleri + 💎"}
     for icon, name in TEK_KOLON.items():
         cr = systems(log, icon)
