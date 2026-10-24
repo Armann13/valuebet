@@ -749,6 +749,29 @@ def test_sonuclar():
     assert ci["dönen"] == 12 and sonuclar._coupon_line(ci, "🎯").startswith("🎯 İdeal kupon (01.10 09:20 gönderilen, 2 maç")
     assert "## İdeal kuponlar" in sonuclar.summary_md(iz) and "ideal" in sonuclar.tier_pages(iz)
     assert "🎯 İdeal kupon" in sonuclar.day_message("2026-10-01", iz, iz)
+    # kadro güncellemesi ayrı: aynı tahmin de kaydedilir, seviye istatistiğine girmez, önce / sonra karşılaştırılır
+    first = log[(log["gönderildi"] == "2026-10-01 09:20") & log["seviye"].str[:1].isin(["🟢", "🟡"])]
+    kz = [{**first.iloc[0].to_dict(), "mesaj": "kadro"},  # 🟢 ÇŞ 1-X aynı kaldı
+          {**first.iloc[1].to_dict(), "tahmin": "KG Var", "odd": 1.9, "mesaj": "kadro"}]  # 🟡 MS 1 -> KG Var (1-1)
+    with tempfile.TemporaryDirectory() as d:
+        config.TAVSIYE_DIR = Path(d)
+        try:
+            log.to_csv(sonuclar.log_path(), index=False)
+            assert sonuclar.record(kz, datetime(2026, 10, 26, 19, 0)) == 2  # ilk tahminle aynı olan da kaydedilir
+            both = sonuclar.load_log()
+        finally:
+            config.TAVSIYE_DIR = old_dir
+    assert {x["icon"]: x["tutan"] for x in sonuclar.stats(both)} == {x["icon"]: x["tutan"] for x in sonuclar.stats(log)}
+    cmp = sonuclar.kadro_compare(both)
+    assert (cmp["önce"]["tutan"], cmp["önce"]["sonuçlanan"], cmp["sonra"]["tutan"], cmp["sonra"]["sonuçlanan"]) == (1, 2, 2, 2)
+    assert abs(cmp["önce"]["kâr"] - (0.25 - 1)) < 1e-9 and abs(cmp["sonra"]["kâr"] - (0.25 + 0.9)) < 1e-9
+    assert cmp["değişen"] == {"n": 1, "eski": 0, "yeni": 1, "bitti": 1}
+    msg = sonuclar.day_message("2026-10-01", both[both["gün"] == "2026-10-01"], both)
+    assert "📋 Kadro güncellemesi (1 maç): ilk tahminler 1/2 tuttu (-0.75), kadro sonrası liste 2/2 tuttu (+1.15) · " \
+           "değişen 1 tahminde eski 0, yeni 1 tuttu" in msg, msg
+    page = sonuclar.tier_pages(both)["kadro"]
+    assert "- 🟡 Tier 2: ❌ MS 1 @1.70 → ✅ KG Var @1.90 (değişti)" in page and "(aynı)" in page, page
+    assert "📋 Kadro öncesi / sonrası" in sonuclar.summary_md(both) and sonuclar.kadro_compare(log) is None
 
 
 def test_kadro():

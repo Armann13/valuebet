@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**107/151 tuttu** (isabet %71, beklenen %77) · -20.19 birim · 12 tahmin sonuç bekliyor
+**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,32 +45,6 @@
 **17:15 · Leganes – Mallorca**
 
 - ✅ Korner 11.5 Alt · @1.22 · korner 7-4
-
-**19:30 · Valencia – Villarreal**
-
-- ✅ ÇŞ 1-2 · @1.21 · 1-2
-- ❌ Korner 11.5 Alt · @1.25 · korner 6-9
-
-**19:30 · Las Palmas – Real Sociedad B**
-
-- ✅ ÇŞ 1-X · @1.24 · 1-0
-
-**19:30 · B. Dortmund – Eintracht Frankfurt**
-
-- ❌ 2.5 Üst · @1.24 · 1-0
-- ❌ Korner 11.5 Alt · @1.24 · korner 13-1
-
-**19:30 · Asteras Tripolis – APO Levadeiakos FC**
-
-- ❌ ÇŞ 1-2 · @1.21 · 0-0
-
-**20:00 · Alverca FC – FC Arouca**
-
-- ❌ ÇŞ 1-X · @1.22 · 0-1
-
-**22:30 · Gil Vicente – Porto**
-
-- ❌ Korner 10.5 Alt · @1.30 · korner 3-8
 
 ## 22.10.2026 Perşembe
 

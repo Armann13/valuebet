@@ -180,8 +180,11 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 - `.github/workflows/kadro.yml` 15 dakikada bir: başlamasına 15-90 dakika kalan maçların ilk 11'leri ESPN'de
   açıklandıysa (`src/kadro.py`) o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
   mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), önceden
-  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (kuponlar hariç). Tahminler sonuç takibine girer;
-  gönderilen maçlar `tavsiyeler/kadro_durum.json`.
+  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (kuponlar hariç). Gönderilen maçlar
+  `tavsiyeler/kadro_durum.json`.
+- Kadro mesajındaki tahminler sonuç takibine ilk verilenlerden **ayrı** girer (`mesaj=kadro`; seviye istatistikleri
+  ilk tahminlerle): sonuç mesajında "📋 Kadro güncellemesi" satırı ve `tavsiyeler/sonuclar/kadro.md`'de maç maç
+  önce → sonra (aynı / değişti / yeni / kalktı), isabet ve kâr; değişen tahminlerde eskisi mi yenisi mi tuttu.
 - Kadro oyuncu bazında modele girmez (oyuncu verisi yok): etkisi İddaa oranları üzerinden gelir; eksik listesi bilgi
   içindir. ESPN'de olmayan ligler (İskoçya League One / Two) için güncelleme gelmez.
 - Elle: `python main.py kadro [--gonderme]`. Repo herkese açık (2026-10-24): Actions dakikası sınırsız.

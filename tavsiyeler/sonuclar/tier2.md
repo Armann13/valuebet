@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**113/204 tuttu** (isabet %55, beklenen %63) · -34.55 birim · 13 tahmin sonuç bekliyor
+**112/196 tuttu** (isabet %57, beklenen %63) · -28.04 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -66,36 +66,13 @@
 
 - ✅ En çok korner 1 · @1.43 · korner 7-6
 
-**19:30 · Chelsea – Tottenham**
-
-- ❌ MS 1 · @1.72 · 0-2
-
-**19:30 · Kidderminster Harriers – Worthing**
-
-- ✅ 2.5 Üst · @1.49 · 1-2
-
-**19:30 · B. Dortmund – Eintracht Frankfurt**
-
-- ❌ ↳ MS 1 & 2.5 Üst · @1.61 · 1-0
-- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 13-1
-
-**19:30 · Valencia – Villarreal**
-
-- ❌ ↳ Korner 10.5 Alt · @1.44 · korner 6-9
-
 **19:45 · Willem II – SC Cambuur**
 
 - ✅ 2.5 Üst · @1.41 · 1-6
-- ❌ Korner 10.5 Alt · @1.49 · korner 13-4
 
 **20:00 · Alverca FC – FC Arouca**
 
 - ❌ En çok korner 1 · @1.45 · korner 3-3
-
-**22:30 · Gil Vicente – Porto**
-
-- ❌ 2.5 Üst · @1.81 · 0-1
-- ❌ ↳ Korner 9.5 Alt · @1.54 · korner 3-8
 
 ## 23.10.2026 Cuma
 

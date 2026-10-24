@@ -10,6 +10,8 @@ değişir. Eksik oyuncu listesi bilgi içindir.
 
 GitHub'da 15 dakikada bir (.github/workflows/kadro.yml): başlamasına PENCERE dakika kalan, mesajı gitmemiş maçlar
 kontrol edilir; kadro açıklanmışsa güncelleme gönderilir. Gönderilen maçlar tavsiyeler/kadro_durum.json'da.
+Mesajdaki tahminler sonuç takibine ilk verilenlerden ayrı (mesaj="kadro") girer: sonuclar.kadro_compare kadro öncesi /
+sonrası isabeti ve kârı karşılaştırır.
 """
 import html
 import json
@@ -221,7 +223,8 @@ def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
         if not picks.empty:
             telegram.digest_parts(picks, now_tr, "", rows)  # önce yeni liste (değişiklikleri bulmak için)
         days = {pd.Timestamp(r["kickoff_utc"]).strftime("%Y-%m-%d") for r, _ in items}  # kayıttaki gün: UTC tarihi
-        old = log[log["maç"].isin(labels) & log["gün"].isin(days)] if len(log) else log
+        old = (log[log["maç"].isin(labels) & log["gün"].isin(days) & ~sonuclar._kadro(log)]  # ilk verilenler
+               if len(log) else log)
         diff = changes(old, rows) if len(old) else []
         head += ["🔄 <b>Sabahki listeye göre</b>"] + (diff or ["Değişiklik yok"]) if len(old) else []
         rows = []
@@ -233,7 +236,8 @@ def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
             print(msg)
         elif not telegram.send(msg):
             continue  # gönderilemedi: bir sonraki çalıştırmada tekrar denenir
-        out["satirlar"] += rows
+        # mesajdaki tüm tahminler (aynı kalanlar da) "kadro" olarak ayrı kaydedilir: kadro öncesi / sonrası karşılaştırma
+        out["satirlar"] += [{**r, "mesaj": "kadro"} for r in rows]
         out["maclar"] += [str(r["event_id"]) for r, _ in items]
     return out
 

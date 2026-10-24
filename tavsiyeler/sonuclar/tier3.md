@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**78/179 tuttu** (isabet %44, beklenen %46) · -17.55 birim · 21 tahmin sonuç bekliyor
+**75/170 tuttu** (isabet %44, beklenen %46) · -15.85 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -67,36 +67,9 @@
 
 - ❌ MS 1 & 2.5 Üst · @2.46 · 0-2
 
-**19:30 · Las Palmas – Real Sociedad B**
-
-- ✅ ↳ MS 1 · @2.00 · 1-0
-
-**19:30 · Valencia – Villarreal**
-
-- ✅ ↳ MS 2 · @1.99 · 1-2
-- ❌ ↳ Korner 8.5 Alt · @2.27 · korner 6-9
-
-**19:30 · B. Dortmund – Eintracht Frankfurt**
-
-- ❌ ↳ Korner 8.5 Alt · @2.26 · korner 13-1
-
-**19:45 · Willem II – SC Cambuur**
-
-- ✅ ↳ MS 2 & 2.5 Üst · @3.31 · 1-6
-- ❌ ↳ Korner 9.5 Alt · @1.82 · korner 13-4
-
-**20:00 · Alverca FC – FC Arouca**
-
-- ❌ ↳ MS 1 · @2.00 · 0-1
-
 **21:45 · Westerlo – SK Beveren**
 
 - ❌ MS 2 · @3.56 · 4-4
-
-**22:30 · Gil Vicente – Porto**
-
-- ❌ ↳ MS 2 & 2.5 Üst · @2.22 · 0-1
-- ❌ ↳ Korner 7.5 Alt · @2.60 · korner 3-8
 
 ## 23.10.2026 Cuma
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/59 tuttu** (isabet %19, beklenen %15) · +4.00 birim · 1 tahmin sonuç bekliyor
+**10/55 tuttu** (isabet %18, beklenen %16) · +0.07 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,21 +22,9 @@
 
 - ❌ 1-2 · @6.44 · 0-1
 
-**19:30 · Valencia – Villarreal**
-
-- ✅ 1-2 · @7.93 · 1-2
-
-**19:45 · Willem II – SC Cambuur**
-
-- ❌ 1-2 · @8.70 · 1-6
-
 **20:00 · AEK Athens – Paneitolikos**
 
 - ❌ 3-0 · @4.94 · 5-0
-
-**20:00 · Alverca FC – FC Arouca**
-
-- ❌ 2-1 · @8.04 · 0-1
 
 **21:45 · Lazio – Parma**
 
@@ -45,7 +33,6 @@
 **22:30 · Gil Vicente – Porto**
 
 - ✅ 0-1 · @5.60 · 0-1
-- ❌ 1-2 · @7.49 · 0-1
 
 ## 22.10.2026 Perşembe
 

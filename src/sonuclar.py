@@ -27,7 +27,11 @@ from src.tavsiye import bet_won
 
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
             "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag",
-            "iptal"]  # hk/ak korner, ihg/iag ilk yarı; iptal: geçersiz kayıt (bkz. _void)
+            "iptal", "mesaj"]  # hk/ak korner, ihg/iag ilk yarı; iptal: geçersiz kayıt (bkz. _void); mesaj: "kadro"
+# Kadro güncellemesi (mesaj="kadro") tahminleri ayrı tutulur: seviye istatistikleri ilk verilen tahminlerle; kadro
+# öncesi / sonrası karşılaştırması ayrı (kadro_compare). Bu zamandan önceki kadro mesajlarında sadece değişen tahminler
+# kaydedildi (aynı kalanlar sabahki kayıtla birleşti): o maçlarda kadro kaydı olmayan seviye "aynı kaldı" sayılır.
+KADRO_TAM_KAYIT = "2026-10-25 00:00"
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("🟣", "Tier 4"), ("⚡", "Tier 5"), ("🔥", "Tier 6"),
              ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
              ("🎰", "Sistem ayakları"), ("🎯", "İdeal kupon ayakları"), ("🎲", "Çılgın kupon ayakları"),
@@ -59,7 +63,15 @@ def _key(df: pd.DataFrame) -> pd.Series:
     ayakları ayrı tutulur. Her gönderilen sistem kuponu ayrıdır (aynı ayak iki kuponda olabilir; kupon eksik kalmasın)."""
     group = df["seviye"].map(lambda s: next((i for i in AYRI if str(s).startswith(i)), ""))
     group = group.where(~group.isin(KUPONLAR), group + df["gönderildi"].astype(str))
+    group = group.where(~_kadro(df), "📋" + group)  # kadro güncellemesi ilk tahminlerden ayrı
     return df["gün"] + "|" + df["maç"] + "|" + df["tahmin"] + "|" + group
+
+
+def _kadro(df: pd.DataFrame) -> pd.Series:
+    """Kadro güncellemesi mesajından gelen kayıtlar."""
+    if "mesaj" not in df:
+        return pd.Series(False, index=df.index)
+    return df["mesaj"].astype(str).eq("kadro")
 
 
 def record(rows: list, sent_at: datetime) -> int:
@@ -226,9 +238,10 @@ def _select(df: pd.DataFrame, icon: str) -> pd.Series:
 
 
 def stats(df: pd.DataFrame) -> list[dict]:
-    """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı). İptaller hariç."""
+    """Seviye bazında: sonuçlanan, tutan, isabet, beklenen isabet, kâr/zarar (1 birim, İddaa oranı). İptaller ve kadro
+    güncellemesi tahminleri hariç (ilk verilen tahminler; kadro ayrı: kadro_compare)."""
     out = []
-    df = df[~_void(df)]
+    df = df[~_void(df) & ~_kadro(df)]
     won = _won(df)
     for icon, name in SEVIYELER:
         sel = _select(df, icon)
@@ -257,13 +270,18 @@ def _stat_line(s: dict) -> str:
 
 
 def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
-    """Bir günün sonuç mesajı (Telegram HTML): seviye özeti, tek tek tahminler, başlangıçtan beri toplam."""
+    """Bir günün sonuç mesajı (Telegram HTML): seviye özeti, kuponlar, kadro öncesi / sonrası, tek tek tahminler,
+    başlangıçtan beri toplam."""
+    df = df[~_kadro(df)]  # kadro güncellemesi tahminleri ayrı satırda (kadro_compare)
     won = _won(df)
     lines = [f"📊 <b>Sonuçlar — {pd.Timestamp(day):%d.%m.%Y}</b>",
              f"<i>Telegram'da gönderilen {len(df)} tahmin; her biri tek başına 1 birim, İddaa oranıyla</i>", ""]
     lines += [_stat_line(s) for s in stats(df)]
     lines += [_system_line(s) for s in systems(allt) if s["gün"] == day]
     lines += [_coupon_line(s, icon) for icon in TEK_KOLON for s in systems(allt, icon) if s["gün"] == day]
+    cmp = kadro_compare(allt[allt["gün"] == day])
+    if cmp:
+        lines += ["", _kadro_line(cmp)]
     lines += ["", "<b>Ayrıntı</b>"]
     for icon, _ in SEVIYELER:
         for (_, r), w in zip(df[df["seviye"].str.startswith(icon)].iterrows(), won[df["seviye"].str.startswith(icon)]):
@@ -276,6 +294,87 @@ def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
     lines += ["", f"<b>Başlangıçtan beri</b> ({done} sonuçlanan tahmin)"] + [_stat_line(s) for s in stats(allt)]
     lines += ["", f'<a href="{RAPOR_LINKI}">Tüm sonuçlar</a>']
     return "\n".join(lines)
+
+
+KADRO_SEVIYE = ("🟢", "🟡", "🔴", "🟣")   # karşılaştırılan seviyeler (kesin skor ve kuponlar hariç)
+
+
+def kadro_compare(log: pd.DataFrame) -> dict | None:
+    """Kadro güncellemesi gelen maçlarda ilk verilen tahminler (önce) ile kadro mesajındakiler (sonra), Tier 1-4.
+    Döner: {"maç": [maç başına seviyeler: önce / sonra tahminleri ve sonuçları], "önce" / "sonra": özet (tahmin,
+    sonuçlanan, tutan, kâr/zarar), "değişen": eski / yeni tutan sayısı}; kadro kaydı yoksa None."""
+    k = _kadro(log)
+    if not k.any():
+        return None
+    won, icon = _won(log), log["seviye"].astype(str).str[:1]
+    base = icon.isin(KADRO_SEVIYE) & ~_void(log)
+    sent = log[k].groupby(["gün", "maç"])["gönderildi"].min()  # maçın kadro mesajı zamanı
+    rows, once, sonra, changed = [], [], [], {"n": 0, "eski": 0, "yeni": 0, "bitti": 0}
+    for (day, maç), when in sent.items():
+        same = (log["gün"] == day) & (log["maç"] == maç) & base
+        tiers = []
+        for i in KADRO_SEVIYE:
+            old = log[same & ~k & (icon == i)]
+            new = log[same & k & (icon == i)]
+            if new.empty and str(when) < KADRO_TAM_KAYIT:  # eski kayıt: aynı kalan tahmin ayrıca kaydedilmedi
+                new = old
+            if old.empty and new.empty:
+                continue
+            o = [(t, won[x], odd) for x, t, odd in zip(old.index, old["tahmin"], old["odd"])]
+            n = [(t, won[x], odd) for x, t, odd in zip(new.index, new["tahmin"], new["odd"])]
+            once += o
+            sonra += n
+            if o and n and {t for t, _, _ in o} != {t for t, _, _ in n}:
+                changed["n"] += 1
+                done = all(pd.notna(w) for _, w, _ in o + n)
+                if done:
+                    changed["bitti"] += 1
+                    changed["eski"] += any(bool(w) for _, w, _ in o)
+                    changed["yeni"] += any(bool(w) for _, w, _ in n)
+            tiers.append({"icon": i, "önce": o, "sonra": n})
+        rows.append({"gün": day, "maç": maç, "zaman": when, "seviyeler": tiers})
+
+    def summary(picks):
+        done = [(w, odd) for _, w, odd in picks if pd.notna(w)]
+        pl = sum((float(odd) - 1 if w else -1.0) for w, odd in done if pd.notna(odd))
+        return {"tahmin": len(picks), "sonuçlanan": len(done), "tutan": sum(bool(w) for w, _ in done), "kâr": pl}
+    return {"maç": rows, "önce": summary(once), "sonra": summary(sonra), "değişen": changed}
+
+
+def _kadro_line(c: dict) -> str:
+    """Sonuç mesajında kadro öncesi / sonrası satırı."""
+    o, s, d = c["önce"], c["sonra"], c["değişen"]
+    txt = (f"📋 Kadro güncellemesi ({len(c['maç'])} maç): ilk tahminler {o['tutan']}/{o['sonuçlanan']} tuttu "
+           f"({o['kâr']:+.2f}), kadro sonrası liste {s['tutan']}/{s['sonuçlanan']} tuttu ({s['kâr']:+.2f})")
+    if d["bitti"]:
+        txt += f" · değişen {d['bitti']} tahminde eski {d['eski']}, yeni {d['yeni']} tuttu"
+    return txt
+
+
+def _kadro_page(c: dict) -> str:
+    """tavsiyeler/sonuclar/kadro.md: maç maç kadro öncesi / sonrası tahminler."""
+    o, s, d = c["önce"], c["sonra"], c["değişen"]
+    md = ["# 📋 Kadro öncesi / sonrası", "", "[← Tüm sonuçlar](../sonuclar.md)", "",
+          "Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar açıklandıktan sonra son oranlarla "
+          "verilen tahmin (sonra), Tier 1-4. Her tahmin 1 birim, İddaa oranıyla. Sabah mesajında maç başına birkaç "
+          "tahmin, kadro mesajında o maçların tam listesi vardır: birebir kıyas için **değişen** satırına bak "
+          "(aynı maçta aynı seviyede eski ve yeni tahmin).", "",
+          "| | tahmin | sonuçlanan | tutan | kâr/zarar |", "|---|---|---|---|---|",
+          f"| önce | {o['tahmin']} | {o['sonuçlanan']} | {o['tutan']} | {o['kâr']:+.2f} |",
+          f"| sonra | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | {s['kâr']:+.2f} |", "",
+          f"Değişen tahmin: {d['n']} ({d['bitti']} sonuçlandı: eski {d['eski']}, yeni {d['yeni']} tuttu).", "",
+          "<i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>"]
+    name = dict(SEVIYELER)
+    fmt = lambda picks: ", ".join(f"{'⏳' if pd.isna(w) else '✅' if w else '❌'} {t}" +  # noqa: E731
+                                  (f" @{float(odd):.2f}" if pd.notna(odd) else "") for t, w, odd in picks) or "—"
+    for m in sorted(c["maç"], key=lambda x: str(x["zaman"]), reverse=True):
+        md += ["", f"## {pd.Timestamp(m['gün']):%d.%m} · {m['maç']}", "",
+               f"Kadro mesajı: {pd.Timestamp(m['zaman']):%d.%m %H:%M}", ""]
+        for t in m["seviyeler"]:
+            a, b = {x for x, _, _ in t["önce"]}, {x for x, _, _ in t["sonra"]}
+            what = "aynı" if a == b else "yeni" if not a else "kalktı" if not b else "değişti"
+            md.append(f"- {t['icon']} {name[t['icon']]}: {fmt(t['önce'])} → {fmt(t['sonra'])} ({what})")
+    return "\n".join(md) + "\n"
 
 
 def _pick_line(r, w, prefix: str = "") -> str:
@@ -332,11 +431,14 @@ def _by_coupon(sel: pd.DataFrame, won: pd.Series, log: pd.DataFrame, icon: str =
 
 def tier_pages(log: pd.DataFrame) -> dict:
     """Seviye sayfaları (tavsiyeler/sonuclar/<ad>.md): o seviyenin tüm tahminleri maç maç, gün gün; sistem kuponda
-    kupon kupon. Döner: sayfa adı -> markdown."""
+    kupon kupon; kadro öncesi / sonrası (kadro.md). Döner: sayfa adı -> markdown."""
     won, pages = _won(log), {}
+    cmp = kadro_compare(log)
+    if cmp:
+        pages["kadro"] = _kadro_page(cmp)
     for s in stats(log):
         icon = s["icon"]
-        sel = log[_select(log, icon)]
+        sel = log[_select(log, icon) & ~_kadro(log)]  # ilk verilen tahminler (kadro sayfası ayrı)
         pending = s["tahmin"] - s["sonuçlanan"]
         if s["sonuçlanan"]:
             head = (f"**{s['tutan']}/{s['sonuçlanan']} tuttu** (isabet %{100 * s['isabet']:.0f}, beklenen "
@@ -398,6 +500,16 @@ def summary_md(log: pd.DataFrame) -> str:
         if fin:
             md.append(f"| **toplam** ({len(fin)} kupon) | | | {sum(s['kolon'] for s in fin)} | "
                       f"{sum(s['dönen'] for s in fin):.2f} | {fmt(sum(s['dönen'] - s['kolon'] for s in fin))} |")
+    cmp = kadro_compare(log)
+    if cmp:
+        o, s, d = cmp["önce"], cmp["sonra"], cmp["değişen"]
+        md += ["", "## [📋 Kadro öncesi / sonrası](sonuclar/kadro.md)", "",
+               f"Kadro güncellemesi gelen {len(cmp['maç'])} maçta (Tier 1-4) ilk verilen tahmin ile kadrolar "
+               "açıklandıktan sonraki tahmin. Maç maç ayrıntı için başlığa tıkla.", "",
+               "| | tahmin | sonuçlanan | tutan | kâr/zarar |", "|---|---|---|---|---|",
+               f"| önce | {o['tahmin']} | {o['sonuçlanan']} | {o['tutan']} | {o['kâr']:+.2f} |",
+               f"| sonra | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | {s['kâr']:+.2f} |", "",
+               f"Değişen tahmin: {d['n']} ({d['bitti']} sonuçlandı: eski {d['eski']}, yeni {d['yeni']} tuttu)."]
     notes = {"🎯": "3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; "
                    "25.10'dan beri 2 tane)",
              "🎲": "İY/MS dönüşleri + 💎"}
@@ -417,7 +529,7 @@ def summary_md(log: pd.DataFrame) -> str:
     md += ["", "## Gün gün", "", "| gün | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar |",
            "|---|---|---|---|---|---|---|"]
     won = _won(log)
-    for day, g in log.groupby("gün", sort=False):
+    for day, g in log[~_kadro(log)].groupby("gün", sort=False):
         w = won[g.index].dropna().astype(bool)
         odd = g.loc[w.index, "odd"].astype(float)
         has = odd.notna()

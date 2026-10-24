@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/326 tuttu** (isabet %10, beklenen %11) · -85.29 birim · 30 tahmin sonuç bekliyor
+**34/325 tuttu** (isabet %10, beklenen %11) · -84.29 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -135,7 +135,6 @@
 **19:30 · Las Palmas – Real Sociedad B**
 
 - ❌ 1-1 · @5.70 · 1-0
-- ❌ 2-1 · @8.00 · 1-0
 
 **19:30 · Chelsea – Tottenham**
 
