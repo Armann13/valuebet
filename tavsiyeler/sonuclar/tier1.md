@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/138 tuttu** (isabet %73, beklenen %77) · -14.68 birim · 15 tahmin sonuç bekliyor
+**104/142 tuttu** (isabet %73, beklenen %77) · -14.86 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,19 +20,19 @@
 
 **14:30 · Huddersfield – Wigan Athletic**
 
-- ⏳ MS 1 · @1.21
+- ✅ MS 1 · @1.21 · 2-1
 
 **15:00 · Cordoba – Eibar**
 
-- ⏳ En çok korner 1 · @1.39
+- ✅ En çok korner 1 · @1.39 · korner 16-3
 
 **17:00 · Livingston – Arbroath**
 
-- ⏳ MS 1 · @1.22
+- ✅ MS 1 · @1.22 · 1-0
 
 **17:00 · Preston – West Bromwich**
 
-- ⏳ Korner 12.5 Alt · @1.21
+- ❌ Korner 12.5 Alt · @1.21 · korner 6-9
 
 **17:15 · Leganes – Mallorca**
 

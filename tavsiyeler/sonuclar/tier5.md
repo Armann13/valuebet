@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/50 tuttu** (isabet %16, beklenen %16) · -7.13 birim · 6 tahmin sonuç bekliyor
+**9/52 tuttu** (isabet %17, beklenen %16) · -2.53 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **14:30 · Huddersfield – Wigan Athletic**
 
-- ⏳ 2-1 · @6.60
+- ✅ 2-1 · @6.60 · 2-1
 
 **17:00 · Queen's Park – Dunfermline**
 
-- ⏳ 1-2 · @6.44
+- ❌ 1-2 · @6.44 · 0-1
 
 **20:00 · AEK Athens – Paneitolikos**
 

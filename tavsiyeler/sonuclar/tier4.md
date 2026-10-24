@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/119 tuttu** (isabet %34, beklenen %33) · -13.88 birim · 19 tahmin sonuç bekliyor
+**43/123 tuttu** (isabet %35, beklenen %33) · -10.38 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,19 +24,19 @@
 
 **16:00 · FC Sudtirol – Sampdoria**
 
-- ⏳ MS 2 · @2.39
+- ❌ MS 2 · @2.39 · 1-1
 
 **16:30 · Augsburg – Union Berlin**
 
-- ⏳ Korner 8.5 Alt · @2.53
+- ✅ Korner 8.5 Alt · @2.53 · korner 5-1
 
 **17:00 · Solihull Moors – Carlisle**
 
-- ⏳ MS 2 & KG Var · @2.50
+- ✅ MS 2 & KG Var · @2.50 · 1-2
 
 **17:00 · Reading – Barnsley**
 
-- ⏳ MS 1 & KG Var · @2.47
+- ✅ MS 1 & KG Var · @2.47 · 2-1
 
 **17:15 · Leganes – Mallorca**
 

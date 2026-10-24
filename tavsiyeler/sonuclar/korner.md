@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**206/382 tuttu** (isabet %54, beklenen %61) · -62.07 birim · 40 tahmin sonuç bekliyor
+**211/394 tuttu** (isabet %54, beklenen %61) · -65.95 birim · 28 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,27 +41,27 @@
 
 **14:30 · Portsmouth – Millwall**
 
-- ⏳ 🟡 En çok korner 1 · @1.51
-- ⏳ 🎰 En çok korner 1 · @1.51
+- ❌ 🟡 En çok korner 1 · @1.51 · korner 5-5
+- ❌ 🎰 En çok korner 1 · @1.51 · korner 5-5
 
 **15:00 · Cordoba – Eibar**
 
-- ⏳ 🟢 En çok korner 1 · @1.39
-- ⏳ 🎰 En çok korner 1 · @1.39
-- ⏳ 🎰 En çok korner 1 · @1.37
-- ⏳ 🎰 En çok korner 1 · @1.44
+- ✅ 🟢 En çok korner 1 · @1.39 · korner 16-3
+- ✅ 🎰 En çok korner 1 · @1.39 · korner 16-3
+- ✅ 🎰 En çok korner 1 · @1.37 · korner 16-3
+- ✅ 🎰 En çok korner 1 · @1.44 · korner 16-3
 
 **16:30 · Augsburg – Union Berlin**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.53
+- ✅ 🟣 Korner 8.5 Alt · @2.53 · korner 5-1
 
 **17:00 · Preston – West Bromwich**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.21
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.06
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.64
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.64
-- ⏳ 🎰 ↳ Korner 10.5 Alt · @1.64
+- ❌ 🟢 Korner 12.5 Alt · @1.21 · korner 6-9
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.06 · korner 6-9
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.64 · korner 6-9
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.64 · korner 6-9
+- ❌ 🎰 ↳ Korner 10.5 Alt · @1.64 · korner 6-9
 
 **17:15 · Leganes – Mallorca**
 

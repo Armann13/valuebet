@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**74/162 tuttu** (isabet %46, beklenen %46) · -9.65 birim · 24 tahmin sonuç bekliyor
+**75/166 tuttu** (isabet %45, beklenen %46) · -11.85 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@
 
 **14:30 · Aston Villa – Manchester City**
 
-- ⏳ 2.5 Alt · @2.87
+- ❌ 2.5 Alt · @2.87 · 2-1
 
 **15:00 · Cordoba – Eibar**
 
-- ⏳ MS 2 · @3.50
+- ❌ MS 2 · @3.50 · 2-0
 
 **16:00 · Gaziantep FK – Erzurumspor FK**
 
@@ -40,11 +40,11 @@
 
 **17:00 · York City – Port Vale**
 
-- ⏳ MS 1 · @1.80
+- ✅ MS 1 · @1.80 · 2-0
 
 **17:00 · Preston – West Bromwich**
 
-- ⏳ ↳ Korner 9.5 Alt · @2.06
+- ❌ ↳ Korner 9.5 Alt · @2.06 · korner 6-9
 
 **19:30 · Asteras Tripolis – APO Levadeiakos FC**
 

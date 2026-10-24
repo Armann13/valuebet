@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/296 tuttu** (isabet %10, beklenen %11) · -73.82 birim · 54 tahmin sonuç bekliyor
+**34/314 tuttu** (isabet %11, beklenen %11) · -73.29 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -44,28 +44,28 @@
 
 **14:30 · Bristol Rovers – Swindon Town**
 
-- ⏳ 2-1 · @6.40
+- ❌ 2-1 · @6.40 · 0-0
 
 **14:30 · Portsmouth – Millwall**
 
-- ⏳ 1-1 · @5.43
+- ❌ 1-1 · @5.43 · 2-1
 
 **14:30 · Aston Villa – Manchester City**
 
-- ⏳ 1-1 · @8.46
+- ❌ 1-1 · @8.46 · 2-1
 
 **15:00 · Cordoba – Eibar**
 
-- ⏳ 2-1 · @8.04
-- ⏳ 1-2 · @11.35
+- ❌ 2-1 · @8.04 · 2-0
+- ❌ 1-2 · @11.35 · 2-0
 
 **16:00 · Modena FC – AC Cesena**
 
-- ⏳ 2-1 · @7.27
+- ❌ 2-1 · @7.27 · 3-0
 
 **16:00 · FC Sudtirol – Sampdoria**
 
-- ⏳ 0-1 · @6.80
+- ❌ 0-1 · @6.80 · 1-1
 
 **16:00 · Gaziantep FK – Erzurumspor FK**
 
@@ -73,38 +73,38 @@
 
 **16:30 · Augsburg – Union Berlin**
 
-- ⏳ 2-1 · @7.73
+- ❌ 2-1 · @7.73 · 1-1
 
 **17:00 · Livingston – Arbroath**
 
-- ⏳ 1-0 · @5.35
-- ⏳ 2-1 · @6.60
+- ✅ 1-0 · @5.35 · 1-0
+- ❌ 2-1 · @6.60 · 1-0
 
 **17:00 · Solihull Moors – Carlisle**
 
-- ⏳ 1-2 · @6.57
+- ✅ 1-2 · @6.57 · 1-2
 
 **17:00 · Reading – Barnsley**
 
-- ⏳ 2-1 · @6.61
+- ✅ 2-1 · @6.61 · 2-1
 
 **17:00 · Notts County – Stockport**
 
-- ⏳ 1-2 · @6.41
-- ⏳ 0-1 · @5.48
+- ❌ 1-2 · @6.41 · 1-1
+- ❌ 0-1 · @5.48 · 1-1
 
 **17:00 · Preston – West Bromwich**
 
-- ⏳ 0-1 · @6.81
-- ⏳ 1-2 · @7.63
+- ❌ 0-1 · @6.81 · 1-1
+- ❌ 1-2 · @7.63 · 1-1
 
 **17:00 · York City – Port Vale**
 
-- ⏳ 2-1 · @6.78
+- ❌ 2-1 · @6.78 · 2-0
 
 **17:00 · Rangers – St Johnstone**
 
-- ⏳ 2-1 · @8.21
+- ❌ 2-1 · @8.21 · 4-0
 
 **17:15 · Leganes – Mallorca**
 

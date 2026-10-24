@@ -2,44 +2,44 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**150/272 tuttu** (isabet %55, beklenen %66) · -51.10 birim · 39 tahmin sonuç bekliyor
+**158/287 tuttu** (isabet %55, beklenen %66) · -54.54 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 24.10 14:16 gönderilen kupon · 6'de 5
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.44
-- ⏳ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64
-- ⏳ 24.10 17:00 Rangers – St Johnstone · KG Var · @1.99
+- ✅ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.44 · korner 16-3
+- ❌ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64 · korner 6-9
+- ❌ 24.10 17:00 Rangers – St Johnstone · KG Var · @1.99 · 4-0
 - ⏳ 24.10 19:30 Las Palmas – Real Sociedad B · En çok korner 1 · @1.43
 - ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
 - ⏳ 25.10 17:00 Liverpool – Brighton · En çok korner 1 · @1.52
 
 ## 23.10 20:19 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (4 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.10 14:30 Huddersfield – Wigan Athletic · ↳ MS 1 & 2.5 Üst · @1.68
-- ⏳ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.37
-- ⏳ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43
-- ⏳ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41
-- ⏳ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42
-- ⏳ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64
+- ✅ 24.10 14:30 Huddersfield – Wigan Athletic · ↳ MS 1 & 2.5 Üst · @1.68 · 2-1
+- ✅ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.37 · korner 16-3
+- ✅ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43 · 3-0
+- ✅ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41 · 0-1
+- ❌ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42 · 1-1
+- ❌ 24.10 17:00 Preston – West Bromwich · ↳ Korner 10.5 Alt · @1.64 · korner 6-9
 - ⏳ 24.10 19:45 Willem II – SC Cambuur · 2.5 Üst · @1.41
 - ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.44
 
 ## 23.10 08:04 gönderilen kupon · 8'de 7
 
-Sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+Sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.10 14:30 Bristol Rovers – Swindon Town · MS 1 · @1.41
-- ⏳ 24.10 14:30 Portsmouth – Millwall · En çok korner 1 · @1.51
-- ⏳ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.39
-- ⏳ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43
-- ⏳ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41
-- ⏳ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42
+- ❌ 24.10 14:30 Bristol Rovers – Swindon Town · MS 1 · @1.41 · 0-0
+- ❌ 24.10 14:30 Portsmouth – Millwall · En çok korner 1 · @1.51 · korner 5-5
+- ✅ 24.10 15:00 Cordoba – Eibar · En çok korner 1 · @1.39 · korner 16-3
+- ✅ 24.10 16:00 Modena FC – AC Cesena · MS 1 · @1.43 · 3-0
+- ✅ 24.10 17:00 Queen's Park – Dunfermline · MS 2 · @1.41 · 0-1
+- ❌ 24.10 17:00 Notts County – Stockport · MS 2 · @1.42 · 1-1
 - ⏳ 24.10 17:15 Leganes – Mallorca · ↳ Korner 10.5 Alt · @1.41
 - ⏳ 24.10 20:00 Alverca FC – FC Arouca · En çok korner 1 · @1.45
 

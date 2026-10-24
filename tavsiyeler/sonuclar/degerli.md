@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/41 tuttu** (isabet %63, beklenen %45) · +19.33 birim · 7 tahmin sonuç bekliyor
+**26/45 tuttu** (isabet %58, beklenen %44) · +15.33 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,16 +22,16 @@
 
 **14:30 · Aston Villa – Manchester City**
 
-- ⏳ 2.5 Alt · @2.87
+- ❌ 2.5 Alt · @2.87 · 2-1
 
 **15:00 · Cordoba – Eibar**
 
-- ⏳ MS 2 · @3.50
+- ❌ MS 2 · @3.50 · 2-0
 
 **17:00 · Rangers – St Johnstone**
 
-- ⏳ MS 1 & KG Var · @2.73
-- ⏳ KG Var · @1.99
+- ❌ MS 1 & KG Var · @2.73 · 4-0
+- ❌ KG Var · @1.99 · 4-0
 
 **19:30 · Chelsea – Tottenham**
 

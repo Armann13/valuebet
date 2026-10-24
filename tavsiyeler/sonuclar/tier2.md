@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**107/183 tuttu** (isabet %58, beklenen %63) · -22.40 birim · 24 tahmin sonuç bekliyor
+**110/192 tuttu** (isabet %57, beklenen %63) · -26.88 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,39 +16,39 @@
 
 **14:30 · Bristol Rovers – Swindon Town**
 
-- ⏳ MS 1 · @1.41
+- ❌ MS 1 · @1.41 · 0-0
 
 **14:30 · Huddersfield – Wigan Athletic**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.68
+- ✅ ↳ MS 1 & 2.5 Üst · @1.68 · 2-1
 
 **14:30 · Portsmouth – Millwall**
 
-- ⏳ En çok korner 1 · @1.51
+- ❌ En çok korner 1 · @1.51 · korner 5-5
 
 **16:00 · Modena FC – AC Cesena**
 
-- ⏳ MS 1 · @1.43
+- ✅ MS 1 · @1.43 · 3-0
 
 **17:00 · Queen's Park – Dunfermline**
 
-- ⏳ MS 2 · @1.41
+- ✅ MS 2 · @1.41 · 0-1
 
 **17:00 · Notts County – Stockport**
 
-- ⏳ MS 2 · @1.42
+- ❌ MS 2 · @1.42 · 1-1
 
 **17:00 · Livingston – Arbroath**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.78
+- ❌ ↳ MS 1 & 2.5 Üst · @1.78 · 1-0
 
 **17:00 · Preston – West Bromwich**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.64
+- ❌ ↳ Korner 10.5 Alt · @1.64 · korner 6-9
 
 **17:00 · Rangers – St Johnstone**
 
-- ⏳ KG Var · @1.99
+- ❌ KG Var · @1.99 · 4-0
 
 **17:15 · Leganes – Mallorca**
 
