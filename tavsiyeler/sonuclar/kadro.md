@@ -6,12 +6,30 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 9 | 9 | 2 | -6.16 |
-| sonra | 47 | 47 | 12 | -22.96 |
+| önce | 10 | 9 | 2 | -6.16 |
+| sonra | 56 | 47 | 12 | -22.96 |
 
 Değişen tahmin: 2 (2 sonuçlandı: eski 1, yeni 0 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 25.10 · Lecce – Juventus
+
+Kadro mesajı: 25.10 19:44
+
+- 🟢 Tier 1: — → ⏳ Korner 11.5 Alt @1.21 (yeni)
+- 🟡 Tier 2: — → ⏳ MS 2 @1.40, ⏳ Korner 10.5 Alt @1.40 (yeni)
+- 🔴 Tier 3: — → ⏳ MS 2 & 2.5 Üst @2.18 (yeni)
+- 🟣 Tier 4: — → ⏳ MS 2 & KG Var @3.27 (yeni)
+
+## 25.10 · Real Sociedad – Levante
+
+Kadro mesajı: 25.10 19:44
+
+- 🟢 Tier 1: ⏳ En çok korner 1 @1.25 → ⏳ En çok korner 1 @1.25 (aynı)
+- 🟡 Tier 2: — → ⏳ MS 1 @1.42 (yeni)
+- 🔴 Tier 3: — → ⏳ MS 1 & 2.5 Üst @1.84 (yeni)
+- 🟣 Tier 4: — → ⏳ MS 1 & KG Var @2.50 (yeni)
 
 ## 25.10 · Athletic Bilbao – Getafe
 

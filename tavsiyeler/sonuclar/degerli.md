@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/51 tuttu** (isabet %53, beklenen %43) · +12.14 birim · 6 tahmin sonuç bekliyor
+**28/52 tuttu** (isabet %54, beklenen %43) · +13.08 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -30,7 +30,7 @@
 
 **18:15 · Cadiz – AD Ceuta**
 
-- ⏳ MS 1 · @1.94
+- ✅ MS 1 · @1.94 · 3-1
 
 **18:45 · Sparta Rotterdam – Ajax**
 

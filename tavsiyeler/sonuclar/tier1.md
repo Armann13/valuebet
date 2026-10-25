@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**106/145 tuttu** (isabet %73, beklenen %77) · -15.42 birim · 15 tahmin sonuç bekliyor
+**107/146 tuttu** (isabet %73, beklenen %77) · -15.21 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,7 +28,7 @@
 
 **18:15 · Cadiz – AD Ceuta**
 
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-X · @1.21 · 3-1
 
 **19:15 · Angers – Lorient**
 
