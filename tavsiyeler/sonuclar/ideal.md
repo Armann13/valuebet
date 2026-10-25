@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/6 tuttu** (isabet %67, beklenen %60) · +1.06 birim · 9 tahmin sonuç bekliyor
+**5/7 tuttu** (isabet %71, beklenen %62) · +1.30 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.10 20:19 gönderilen kupon · 5 maç, oran 12,38
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ⏳ 25.10 20:30 Castellon – S.Gijon · MS 1 & KG Var · @2.96
-- ⏳ 25.10 21:15 Union Saint Gilloise – Cercle Brugge · MS 1 · @1.24
+- ✅ 25.10 21:15 Union Saint Gilloise – Cercle Brugge · MS 1 · @1.24 · 5-2
 - ⏳ 25.10 22:45 Udinese – AC Milan · En çok korner 1 · @2.23
 - ⏳ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25
 - ⏳ 26.10 22:30 FC Andorra – CF Burgos · ÇŞ 1-X · @1.21

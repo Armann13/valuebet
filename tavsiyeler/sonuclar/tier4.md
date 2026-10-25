@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**44/135 tuttu** (isabet %33, beklenen %34) · -19.42 birim · 25 tahmin sonuç bekliyor
+**45/139 tuttu** (isabet %32, beklenen %33) · -19.38 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -71,7 +71,7 @@
 
 **20:30 · KAA Gent – Anderlecht**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @4.04
+- ✅ ↳ MS 1 & 2.5 Üst · @4.04 · 4-0
 
 **21:00 · N. Madeira – Braga**
 
@@ -80,16 +80,16 @@
 
 **21:00 · Rio Ave – Famalicao**
 
-- ⏳ Korner 11.5 Üst · @2.56
+- ❌ Korner 11.5 Üst · @2.56 · korner 4-2
 - ⏳ ↳ İY/MS 2/2 · @2.94
 
 **21:00 · Ofi Crete – PAOK**
 
-- ⏳ ↳ MS 2 & KG Var · @3.19
+- ❌ ↳ MS 2 & KG Var · @3.19 · 2-1
 
 **22:00 · AZ Alkmaar – Twente**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.78
+- ❌ ↳ MS 2 & 2.5 Üst · @3.78 · 0-2
 
 **22:45 · Udinese – AC Milan**
 

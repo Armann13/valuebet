@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/56 tuttu** (isabet %18, beklenen %16) · -0.93 birim · 5 tahmin sonuç bekliyor
+**10/58 tuttu** (isabet %17, beklenen %16) · -2.93 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,11 +28,11 @@
 
 **20:30 · Aris – Atromitos**
 
-- ⏳ 1-0 · @4.99
+- ❌ 1-0 · @4.99 · 3-1
 
 **21:00 · Rio Ave – Famalicao**
 
-- ⏳ 0-1 · @6.83
+- ❌ 0-1 · @6.83 · 0-4
 
 ## 24.10.2026 Cumartesi
 

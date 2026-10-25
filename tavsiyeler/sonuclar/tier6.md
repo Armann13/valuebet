@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/341 tuttu** (isabet %11, beklenen %11) · -84.37 birim · 41 tahmin sonuç bekliyor
+**37/347 tuttu** (isabet %11, beklenen %11) · -83.12 birim · 35 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -100,7 +100,7 @@
 
 **20:30 · Real Sociedad – Levante**
 
-- ⏳ 2-1 · @7.25
+- ✅ 2-1 · @7.25 · 2-1
 
 **20:30 · Castellon – S.Gijon**
 
@@ -108,7 +108,7 @@
 
 **20:30 · KAA Gent – Anderlecht**
 
-- ⏳ 2-1 · @8.76
+- ❌ 2-1 · @8.76 · 4-0
 
 **21:00 · N. Madeira – Braga**
 
@@ -117,19 +117,19 @@
 
 **21:00 · Rio Ave – Famalicao**
 
-- ⏳ 1-1 · @5.37
+- ❌ 1-1 · @5.37 · 0-4
 
 **21:00 · Ofi Crete – PAOK**
 
-- ⏳ 1-2 · @6.46
+- ❌ 1-2 · @6.46 · 2-1
 
 **21:15 · Union Saint Gilloise – Cercle Brugge**
 
-- ⏳ 2-1 · @7.47
+- ❌ 2-1 · @7.47 · 5-2
 
 **22:00 · AZ Alkmaar – Twente**
 
-- ⏳ 1-2 · @9.84
+- ❌ 1-2 · @9.84 · 0-2
 
 **22:45 · Udinese – AC Milan**
 

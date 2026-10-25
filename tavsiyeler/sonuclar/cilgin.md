@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/5 tuttu** (isabet %20, beklenen %32) · -2.75 birim · 17 tahmin sonuç bekliyor
+**1/6 tuttu** (isabet %17, beklenen %27) · -3.75 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,7 +11,7 @@
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 25.10 21:00 N. Madeira – Braga · İY/MS 1/2 · @23.90
-- ⏳ 25.10 21:00 Ofi Crete – PAOK · İY/MS 1/2 · @23.45
+- ❌ 25.10 21:00 Ofi Crete – PAOK · İY/MS 1/2 · @23.45
 - ⏳ 26.10 19:00 Beşiktaş – Başakşehir · İY/MS 2/1 · @19.40
 - ⏳ 26.10 21:45 Santa Clara – Benfica · İY/MS 1/2 · @25.50
 - ⏳ 26.10 22:30 FC Andorra – CF Burgos · KG Yok · @1.83

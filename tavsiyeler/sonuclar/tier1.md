@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**107/147 tuttu** (isabet %73, beklenen %77) · -16.21 birim · 25 tahmin sonuç bekliyor
+**110/151 tuttu** (isabet %73, beklenen %77) · -16.43 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -66,11 +66,11 @@
 
 **20:30 · Real Sociedad – Levante**
 
-- ⏳ En çok korner 1 · @1.25
+- ❌ En çok korner 1 · @1.25 · korner 2-3
 
 **20:30 · KAA Gent – Anderlecht**
 
-- ⏳ ÇŞ 1-X · @1.32
+- ✅ ÇŞ 1-X · @1.32 · 4-0
 
 **21:00 · N. Madeira – Braga**
 
@@ -78,11 +78,11 @@
 
 **21:00 · Rio Ave – Famalicao**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 0-4
 
 **21:15 · Union Saint Gilloise – Cercle Brugge**
 
-- ⏳ MS 1 · @1.24
+- ✅ MS 1 · @1.24 · 5-2
 
 **23:00 · Barcelona – Real Madrid**
 
