@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 3 tahmin sonuç bekliyor
+**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,6 +14,10 @@
 - ⏳ KG Yok · @1.83
 
 ## 25.10.2026 Pazar
+
+**17:00 · Atalanta – Frosinone**
+
+- ⏳ KG Yok · @2.73
 
 **18:45 · Sparta Rotterdam – Ajax**
 
