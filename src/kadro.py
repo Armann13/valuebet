@@ -229,12 +229,12 @@ def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
         head += ["🔄 <b>Sabahki listeye göre</b>"] + (diff or ["Değişiklik yok"]) if len(old) else []
         rows = []
         if picks.empty:
-            msg = "\n".join(head + ["", "Bu maçlar için tavsiye çıkmadı (oran yok ya da kapalı)."])
+            msgs = ["\n".join(head + ["", "Bu maçlar için tavsiye çıkmadı (oran yok ya da kapalı)."])]
         else:
-            msg = telegram.digest_parts(picks, now_tr, "\n".join(head).rstrip(), rows)[0]
+            msgs = telegram.digest_parts(picks, now_tr, "\n".join(head).rstrip(), rows)
         if not send:
-            print(msg)
-        elif not telegram.send(msg):
+            print("\n\n".join(msgs))
+        elif not all([telegram.send(m) for m in msgs]):
             continue  # gönderilemedi: bir sonraki çalıştırmada tekrar denenir
         # mesajdaki tüm tahminler (aynı kalanlar da) "kadro" olarak ayrı kaydedilir: kadro öncesi / sonrası karşılaştırma
         out["satirlar"] += [{**r, "mesaj": "kadro"} for r in rows]

@@ -34,7 +34,10 @@ from src.odds import add_sharp, devig, devig_frame
 
 TIERS = [("🟢 Tier 1 — Düşük risk", 0.70, 1.01), ("🟡 Tier 2 — Orta risk", 0.50, 0.70),
          ("🔴 Tier 3 — Yüksek risk", 0.25, 0.50), ("🟣 Tier 4 — Çok yüksek risk", 0.18, 0.38)]
-MAX_PER_TIER = {0: 8, 1: 12, 2: 12, 3: 10}
+# Seviye başına tahmin sınırı. 2026-10-25'ten beri pratikte sınırsız: Telegram mesajı gün -> saat -> maç düzeninde ve
+# her maç görünmeli (eski 8 / 12 / 12 / 10 sınırı birkaç güne paylaşılıyor, ör. GS - FB hiç listeye girmiyordu).
+# Maç başına seviye başına yine tek tahmin (merdiven ya da yeni maç).
+MAX_PER_TIER = {0: 500, 1: 500, 2: 500, 3: 500}
 # En düşük oran (İddaa; yoksa adil oran). Tier 1 / 2: 1.06 gibi oranlar oynanmaya değmez. Tier 4: Tier 3'ün (~1.8-2.6)
 # üstündeki oran aralığı (kullanıcı isteği, 2026-10-05: Tier 1-2 düşük oranlı, daha yüksek riskli seçenek de olsun)
 MIN_ODDS = {0: 1.20, 1: 1.40, 3: 2.30}
@@ -45,7 +48,7 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
            "KG Yok": "odd_kg_yok", "MS 1 & 2.5 Üst": "odd_ms1_ust", "MS 2 & 2.5 Üst": "odd_ms2_ust",
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL, KOR_LINES_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
-KORNER_PER_TIER = {0: 4, 1: 4, 2: 4, 3: 3}   # Tier 1-4'te korner tahmini sayısı (gol tahminlerine ek)
+KORNER_PER_TIER = {0: 500, 1: 500, 2: 500, 3: 500}   # Tier 1-4'te korner tahmini sınırı (bkz. MAX_PER_TIER)
 # İdeal kupon (kullanıcı isteği, 2026-10-24; sistem kuponun yerine: 31 sistem kuponda 283 birim -> 71): Tier 1'in en
 # sağlam türlerinden 3 banko (MS / çifte şans: 2026-10-24'e kadar 28/35 ve 25/31, beklenenin üstü) + Tier 3-4'ten
 # beklenenden iyi tutan türden 2 oran yükseltici (en çok korner 20/35 ~16 beklenen, MS & KG Var 17/37 ~13). Hepsi

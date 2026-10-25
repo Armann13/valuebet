@@ -28,7 +28,7 @@ API = "https://api.telegram.org/bot{token}/{method}"
 OZET_SAATLERI = {8: "Günün tavsiyeleri", 18: "Akşam güncellemesi"}
 MAX_LEN = 4000          # Telegram sınırı 4096 karakter (etiketler hariç, bkz. _visible_len)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/son.md"
-TIER_LIMIT = {"🟢": 5, "🟡": 6, "🔴": 4, "🟣": 4, "⚡": 4}   # ⚡ = Tier 5, en olası kesin skorlar
+KORNER_MAC = 2   # maç başına en fazla bu kadar korner tahmini (en düşük riskliler)
 BASLIK = {  # simge -> (başlık, açıklama)
     "💎": ("DEĞERLİ", "oran adil fiyatın üstünde"), "🟢": ("TIER 1", "düşük risk"), "🟡": ("TIER 2", "orta risk"),
     "🔴": ("TIER 3", "yüksek risk"), "🟣": ("TIER 4", "çok yüksek risk"), "⚡": ("TIER 5", "kesin skor"),
@@ -37,7 +37,6 @@ BASLIK = {  # simge -> (başlık, açıklama)
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", ""),
     "🎯": ("İDEAL KUPON", "3 banko + 2 oran yükseltici"),
     "🎲": ("ÇILGIN KUPON", "İY/MS dönüşleri + 💎 · piyango gibi")}
-KORNER_LIMIT = 3   # Tier 1-4'te gol tahminlerine ek en fazla bu kadar korner tahmini
 CIZGI = "━━━━━━━━━━━━━━━"
 
 
@@ -173,8 +172,9 @@ def _bet_line(r) -> str:
     return s
 
 
-def _by_day(rows: pd.DataFrame, now_tr: datetime) -> list:
-    """Gün -> saat -> maç; her maçın altında tahminleri Tier sırasıyla (kullanıcı isteği, 2026-10-25)."""
+def _by_day(rows: pd.DataFrame, now_tr: datetime) -> list[list[str]]:
+    """Gün -> saat -> maç; her maçın altında tahminleri Tier sırasıyla (kullanıcı isteği, 2026-10-25). Döner: gün
+    başına satırlar."""
     if rows.empty:
         return []
     t = pd.to_datetime(rows["baslama"], errors="coerce") if "baslama" in rows else pd.Series(pd.NaT, index=rows.index)
@@ -182,9 +182,9 @@ def _by_day(rows: pd.DataFrame, now_tr: datetime) -> list:
     order = rows["seviye"].astype(str).str[:1].map({k: i for i, k in enumerate(TIER_SIRA)}).fillna(len(TIER_SIRA))
     d = rows.assign(_t=t, _gun=day, _saat=t.dt.strftime("%H:%M").fillna("saat belli değil"), _sira=order)
     d = d.sort_values(["_gun", "_t", "maç", "_sira"], kind="stable", na_position="last")
-    out = []
+    days = []
     for gun, dg in d.groupby("_gun", sort=False):
-        out += ["", CIZGI, f"📅 <b>{_day_label(gun, now_tr)}</b>"]
+        out = ["", CIZGI, f"📅 <b>{_day_label(gun, now_tr)}</b>"]
         for saat, sg in dg.groupby("_saat", sort=False):
             out += ["", f"🕘 <b>{saat}</b>"]
             for maç, mg in sg.groupby("maç", sort=False):
@@ -192,37 +192,42 @@ def _by_day(rows: pd.DataFrame, now_tr: datetime) -> list:
                 out.append(f"⚽ <b>{html.escape(str(maç))}</b>" + (f" · MBS {int(mbs.iloc[0])}"
                                                                      if len(mbs) and mbs.iloc[0] > 1 else ""))
                 out += [_bet_line(r) for r in mg.to_dict("records")]
-    return out
+        days.append(out)
+    return days
+
+
+def _select(soon: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Mesaja girecek tahminler: her maçın Tier 1-4 gol tahminleri (seviye başına tek), en düşük riskli KORNER_MAC korner
+    tahmini, bir kesin skor (Tier 5 kısa listedeyse o, yoksa Tier 6); ayrıca 💎'ler. Sadece oynanabilenler."""
+    play = _playable(soon)
+    icon = play["seviye"].astype(str).str[:1]
+    rank = icon.map({k: i for i, k in enumerate(TIER_SIRA)})
+    tiers = play[icon.isin(TIER_SIRA[:4])]
+    corner = tiers["tahmin"].map(korner.is_corner_bet).astype(bool)  # boşken de bool maske olsun
+    kor = tiers[corner].assign(_r=rank).sort_values("_r", kind="stable").groupby("maç").head(KORNER_MAC)
+    score = play[icon.isin(("⚡", "🔥"))].assign(_r=rank).sort_values("_r", kind="stable").drop_duplicates("maç")
+    rows = pd.concat([tiers[~corner], kor.drop(columns="_r"), score.drop(columns="_r")], ignore_index=True)
+    return rows, play[icon == "💎"]
 
 
 def digest_parts(soon: pd.DataFrame, now_tr: datetime, header: str, log: list) -> list:
-    """Tek mesaj, gün -> saat -> maç düzeninde: her maçın altında Tier 1-4 (İY/MS ve korner dahil, merdivenle), Tier 5-6
-    kesin skor ve 💎; en altta 🎯 ideal ve 🎲 çılgın kupon. Hangi tahminlerin girdiği seviye sınırlarıyla seçilir
-    (TIER_LIMIT, KORNER_LIMIT). Sadece İddaa'da oynanabilen (oranı olan) tahminler."""
-    v = _playable(soon[soon["seviye"].str.startswith("💎")])
-    log += v.to_dict("records")
-    shown, parts = {}, []  # seviye simgesi -> mesajda geçen maçlar; mesaja giren satırlar
-    for icon, n in TIER_LIMIT.items():
-        t = _playable(soon[soon["seviye"].str.startswith(icon)])
-        corner = t["tahmin"].map(korner.is_corner_bet).astype(bool)  # boşken de bool maske olsun
-        t = pd.concat([t[~corner].head(n), t[corner].head(KORNER_LIMIT)])  # gol + korner
-        shown[icon] = set(t["maç"])
-        log += t.to_dict("records")
-        parts.append(t)
-    # Tier 6: yukarıdaki (Tier 1-4) maçların kesin skoru; Tier 5'te zaten olanlar hariç
-    above = shown["🟢"] | shown["🟡"] | shown["🔴"] | shown["🟣"]
-    t6 = _playable(soon[soon["seviye"].str.startswith("🔥") & soon["maç"].isin(above - shown["⚡"])])
-    log += t6.to_dict("records")
-    parts.append(t6)
-    listed = {(m, b) for p in parts for m, b in zip(p["maç"], p["tahmin"])}
-    parts.append(v[[(m, b) not in listed for m, b in zip(v["maç"], v["tahmin"])]])  # listede olan 💎 satır sonunda
-    parts = [p for p in parts if len(p)]
-    out = [header, "<i>📅 gün · 🕘 saat · ⚽ maç; altında tahminler: Tier simgesi, tahmin · İddaa oranı</i>"]
-    out += _by_day(pd.concat(parts, ignore_index=True), now_tr) if parts else ["", "Oynanabilir tahmin yok."]
-    out += _coupon_lines(soon, now_tr, log, "🎯")
-    out += _coupon_lines(soon, now_tr, log, "🎲")
-    out += ["", CIZGI, EFSANE, f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
-    return ["\n".join(out)]
+    """Gün -> saat -> maç düzeninde, her gün ayrı mesaj: bugün / yarın oranı olan her maç, altında Tier 1-4 (İY/MS ve
+    korner dahil, merdivenle), kesin skor ve 💎 (_select); son mesajın altında 🎯 ideal ve 🎲 çılgın kupon. Uzun gün
+    Telegram sınırında satır sonundan bölünür (send)."""
+    rows, v = _select(soon)
+    log += rows.to_dict("records") + v.to_dict("records")
+    listed = set(zip(rows["maç"], rows["tahmin"]))
+    v = v[[(m, b) not in listed for m, b in zip(v["maç"], v["tahmin"])]] if len(v) else v  # listedeki 💎 satır sonunda
+    parts = [p for p in (rows, v) if len(p)]
+    days = _by_day(pd.concat(parts, ignore_index=True), now_tr) if parts else []
+    intro = [header, "<i>📅 gün · 🕘 saat · ⚽ maç; altında tahminler: Tier simgesi, tahmin · İddaa oranı</i>"]
+    tail = _coupon_lines(soon, now_tr, log, "🎯") + _coupon_lines(soon, now_tr, log, "🎲")
+    tail += ["", CIZGI, EFSANE, f'<a href="{RAPOR_LINKI}">Tam rapor</a>']
+    if not days:
+        return ["\n".join(intro + ["", "Oynanabilir tahmin yok."] + tail)]
+    first = header.split("\n")[0]  # kadro mesajında başlığın altında kadro bilgisi var: devamda sadece ilk satır
+    return ["\n".join((intro if i == 0 else [f"{first} · devam"]) + d + (tail if i == len(days) - 1 else []))
+            for i, d in enumerate(days)]
 
 
 def _no_match_note(picks: pd.DataFrame, now_tr: datetime) -> str:

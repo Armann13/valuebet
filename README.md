@@ -105,6 +105,9 @@ GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalışt�
   Tier 1-4'ten öne çıkanlar, Tier 5-6'dan en olası kesin skorlar ve tam raporun linki. Bugün ve yarın maç yoksa
   (ör. milli maç arası bitti, ligler hafta sonu) sabah kısa bir not ve sıradaki maç günleri gelir.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
+- **Takım adları:** İddaa'daki ad veri setindekinden farklıysa (ör. "Marsilya", "Sporting Lizbon", "Başakşehir")
+  `team_aliases.csv`'ye `alias,team` satırı eklenir; eşleşmeyen takımın maçı listeye giremez. Eşleşmeyenler
+  `data/raw/iddaa/eslesme_raporu.csv`'de birikir.
 - **Elle güncel özet:** GitHub → Actions → "İddaa oranları" → Run workflow → "Telegram'a güncel özeti şimdi gönder"
   kutusunu işaretle (ya da `gh workflow run iddaa.yml -f telegram_ozet=true`). Oranlar toplanır, rapor yenilenir,
   özet hemen gelir.
@@ -122,7 +125,8 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 
 ### Telegram Tier listesi ve maç analizi
 
-- Tek mesaj, **gün → saat → maç** düzeninde (2026-10-25): her maçın altında o maçın tahminleri Tier simgesiyle
+- **Gün → saat → maç** düzeninde, her gün ayrı mesaj (2026-10-25): bugün / yarın İddaa'da oranı olan **her maç**
+  (seviye sınırı yok; maç başına Tier 1-4'ten birer gol tahmini, en fazla 2 korner, 1 kesin skor), altında Tier simgesiyle
   (🟢 Tier 1-3, 🟣 Tier 4 çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS, İY/MS, yüksek korner
   barajı; ⚡🔥 Tier 5-6 kesin skor; 💎 değerli), en altta 🎯 ideal ve 🎲 çılgın kupon. Her satırda tahmin ve İddaa
   oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez. Telegram'ın 4096 karakter

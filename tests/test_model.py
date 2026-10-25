@@ -257,7 +257,8 @@ def test_parse_understat():
     r = TeamResolver(["Sutton", "Man City", "Man United", "Paris SG", "Paris FC"])
     assert r("Sutton United") == "Sutton" and r.fuzzy == {"Sutton United": "Sutton"}  # tek aday: önek kuralı
     assert r("Manchester United") == "Man United" and r("Paris Saint Germain") == "Paris SG"  # eşleştirme tablosu
-    assert r("Paris") is None  # iki aday ("Paris SG", "Paris FC"): tahmin etme
+    assert r("Man") is None  # iki aday ("Man City", "Man United"): tahmin etme
+    assert r("Paris") == "Paris FC"  # İddaa'nın "Paris"i (Paris SG ayrı adla): team_aliases.csv
 
 
 def test_parse_iddaa():
@@ -441,8 +442,14 @@ def test_telegram_messages():
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     allt = "\n".join(msgs)
     assert "   🟣 MS 2 &amp; KG Var · <b>2.90</b>" in allt  # tahmin maçın altında, Tier simgesiyle
-    assert "   🔥 0-2 ·" in allt and "   🔥 1-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
-    assert allt.count("1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez (Tier 5'teki maç Tier 6'da yok); yüzde yok
+    assert "   🔥 0-2 ·" in allt and "   🔥 1-2 ·" in allt and "K – L" not in allt  # oranı kapalı tahmin yok
+    assert "⚽ <b>G – H</b>" in allt and "   🔥 3-3 ·" in allt  # her maç görünür (sadece kesin skoru olan da)
+    assert allt.count("1-0 ·") == 1 and "%" not in allt  # maç başına tek kesin skor (Tier 5 varsa o); yüzde yok
+    kor = pd.DataFrame([{**row, "maç": "C – D", "seviye": s, "tahmin": t, "p": 0.6, "odd": 1.5, "değer": -0.1,
+                         "gerçek_değer": False} for s, t in [("🟢 Tier 1", "Korner 11.5 Alt"), ("🟡 Tier 2", "Korner 10.5 Alt"),
+                                                             ("🔴 Tier 3", "Korner 9.5 Alt"), ("🟢 Tier 1", "MS 1")]])
+    one = build_messages(kor, {}, datetime(2026, 10, 3, 10, 0))[0][0]
+    assert "Korner 11.5 Alt" in one and "Korner 10.5 Alt" in one and "Korner 9.5 Alt" not in one and "🟢 MS 1" in one
     # gün -> saat -> maç: aynı maçın tüm tahminleri tek başlık altında, Tier sırasıyla; bugün yarından önce
     timed = pd.DataFrame([{**row, "maç": m, "baslama": b, "seviye": s, "tahmin": t, "p": 0.6, "odd": o, "değer": -0.1,
                            "gerçek_değer": False, "mbs": mbs}
@@ -450,7 +457,10 @@ def test_telegram_messages():
                               ("Y – Z", "2026-10-04 19:00", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 1),
                               ("A – B", "2026-10-03 21:45", "🟡 Tier 2", "MS 1", 1.6, 3),
                               ("A – B", "2026-10-03 21:45", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 3)]])
-    body = build_messages(timed, {}, datetime(2026, 10, 3, 10, 0))[0][0]
+    days = build_messages(timed, {}, datetime(2026, 10, 3, 10, 0))[0]  # her gün ayrı mesaj
+    assert len(days) == 2 and "YARIN" not in days[0] and days[1].startswith("⚽ <b>Günün tavsiyeleri — 03.10</b> · devam")
+    assert "Tam rapor" in days[1] and "Tam rapor" not in days[0]  # açıklama ve bağlantı son mesajda
+    body = "\n".join(days)
     assert body.count("⚽ <b>A – B</b> · MBS 3") == 1, body
     i = body.index
     assert i("📅 <b>BUGÜN · 03.10 Cumartesi</b>") < i("🕘 <b>21:45</b>") < i("⚽ <b>A – B</b>") < \
