@@ -1712,3 +1712,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-25 20:19,2026-10-25,25.10,P1,Uniao Madeira,Sp Braga,N. Madeira – Braga,P1,🎲 Çılgın kupon,İY/MS 1/2,0.04654495304933734,23.9,0.11242437787916226,oran,,,,2026-10-25 21:00,,,,,,
 2026-10-25 20:19,2026-10-25,25.10,G1,OFI Crete,PAOK,Ofi Crete – PAOK,G1,🎲 Çılgın kupon,İY/MS 1/2,0.04490608097199996,23.45,0.05304759879339915,piyasa,,,,2026-10-25 21:00,,,,,,
 2026-10-25 20:19,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🎲 Çılgın kupon,KG Yok,0.5531067524994698,1.83,0.01218535707402979,piyasa,,,,2026-10-26 22:30,,,,,,
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🟡 Tier 2 — Orta risk,MS 2,0.5824415113826465,1.66,-0.033147091104806736,piyasa,False,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.35429947105882165,2.63,-0.06819239111529907,piyasa,True,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.2671720823892442,3.61,-0.03550878257482837,piyasa,True,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5241516845541453,1.62,-0.15087427102228457,korner,False,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Üst,0.4148843862331927,2.05,-0.14948700822195504,korner,True,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11430931919228257,7.54,-0.13810773329018944,piyasa,,,,2026-10-25 22:45,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,SP1,Barcelona,Real Madrid,Barcelona – Real Madrid,SP1,🟡 Tier 2 — Orta risk,MS 1,0.5913673273166922,1.45,-0.14251737539079634,piyasa,False,,,2026-10-25 23:00,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,SP1,Barcelona,Real Madrid,Barcelona – Real Madrid,SP1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3968128408770416,2.01,-0.20240618983714642,piyasa,True,,,2026-10-25 23:00,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,SP1,Barcelona,Real Madrid,Barcelona – Real Madrid,SP1,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.727230476500795,1.27,-0.0764172948439904,korner,False,,,2026-10-25 23:00,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,SP1,Barcelona,Real Madrid,Barcelona – Real Madrid,SP1,🟡 Tier 2 — Orta risk,Korner 11.5 Alt,0.644450067826612,1.47,-0.05265840029488045,korner,True,,,2026-10-25 23:00,,,,,,kadro
+2026-10-25 22:17,2026-10-25,25.10,SP1,Barcelona,Real Madrid,Barcelona – Real Madrid,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11439852556816947,8.99,0.028442744857843483,piyasa,,,,2026-10-25 23:00,,,,,,kadro
