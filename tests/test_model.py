@@ -440,9 +440,21 @@ def test_telegram_messages():
            "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("M – N", "1-2"), ("G – H", "3-3")]]])
     msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     allt = "\n".join(msgs)
-    assert "TIER 4</b> · <i>çok yüksek risk" in allt and "➜ MS 2 &amp; KG Var · <b>2.90</b>" in allt
-    assert "TIER 6" in allt and "➜ 0-2 ·" in allt and "➜ 1-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
-    assert allt.count("➜ 1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez; yüzde yok
+    assert "   🟣 MS 2 &amp; KG Var · <b>2.90</b>" in allt  # tahmin maçın altında, Tier simgesiyle
+    assert "   🔥 0-2 ·" in allt and "   🔥 1-2 ·" in allt and "G – H" not in allt and "K – L" not in allt
+    assert allt.count("1-0 ·") == 1 and "%" not in allt  # skor tekrar etmez (Tier 5'teki maç Tier 6'da yok); yüzde yok
+    # gün -> saat -> maç: aynı maçın tüm tahminleri tek başlık altında, Tier sırasıyla; bugün yarından önce
+    timed = pd.DataFrame([{**row, "maç": m, "baslama": b, "seviye": s, "tahmin": t, "p": 0.6, "odd": o, "değer": -0.1,
+                           "gerçek_değer": False, "mbs": mbs}
+                          for m, b, s, t, o, mbs in [
+                              ("Y – Z", "2026-10-04 19:00", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 1),
+                              ("A – B", "2026-10-03 21:45", "🟡 Tier 2", "MS 1", 1.6, 3),
+                              ("A – B", "2026-10-03 21:45", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 3)]])
+    body = build_messages(timed, {}, datetime(2026, 10, 3, 10, 0))[0][0]
+    assert body.count("⚽ <b>A – B</b> · MBS 3") == 1, body
+    i = body.index
+    assert i("📅 <b>BUGÜN · 03.10 Cumartesi</b>") < i("🕘 <b>21:45</b>") < i("⚽ <b>A – B</b>") < \
+        i("   🟢 ÇŞ 1-X · <b>1.20</b>") < i("   🟡 MS 1 · <b>1.60</b>") < i("📅 <b>YARIN · 04.10 Pazar</b>") < i("Y – Z")
     # çılgın kupon bölümü: toplam oran Türkçe biçimde, en az 4 dönüş ayağı varsa
     cz = pd.DataFrame([{**row, "maç": m, "seviye": "🎲 Çılgın kupon", "tahmin": t, "p": 0.05, "odd": o,
                         "değer": -0.3, "gerçek_değer": False}
@@ -465,8 +477,8 @@ def test_telegram_messages():
     from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
     assert _visible_len("<b>A &amp; B</b> 🟣") == len("A & B ") + 2
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
-    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "💎" in msgs[0] and "TIER 1" in msgs[0]
-    assert "TIER 5" in msgs[0] and "➜ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
+    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "   💎 MS 1 · <b>2.00</b>" in msgs[0]
+    assert "   🟢 ÇŞ 1-X" in msgs[0] and "   ⚡ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}

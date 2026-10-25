@@ -122,8 +122,9 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
 
 ### Telegram Tier listesi ve maç analizi
 
-- Tek mesaj: 💎, Tier 1-3, 🟣 Tier 4 (çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS,
-  İY/MS, yüksek korner barajı), Tier 5-6 (kesin skor), korner, 🎯 ideal ve 🎲 çılgın kupon. Her satırda saat, maç, tahmin ve İddaa
+- Tek mesaj, **gün → saat → maç** düzeninde (2026-10-25): her maçın altında o maçın tahminleri Tier simgesiyle
+  (🟢 Tier 1-3, 🟣 Tier 4 çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS, İY/MS, yüksek korner
+  barajı; ⚡🔥 Tier 5-6 kesin skor; 💎 değerli), en altta 🎯 ideal ve 🎲 çılgın kupon. Her satırda tahmin ve İddaa
   oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez. Telegram'ın 4096 karakter
   sınırı etiketsiz metne uygulanır; aşarsa mesaj satır sınırından bölünür.
 - **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
