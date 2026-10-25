@@ -1558,3 +1558,12 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-25 14:44,2026-10-25,25.10,I1,Udinese,Milan,Udinese – AC Milan,I1,🎲 Çılgın kupon,İY/MS 1/2,0.04319948676457009,25.5,0.1015869124965374,piyasa,,,,2026-10-25 22:45,,,,,,
 2026-10-25 14:44,2026-10-25,25.10,I1,Atalanta,Frosinone,Atalanta – Frosinone,I1,🎲 Çılgın kupon,KG Yok,0.3675399174011183,2.93,0.0768919579852767,piyasa,,,,2026-10-25 17:00,,,,,,
 2026-10-25 14:44,2026-10-25,25.10,N1,Sparta Rotterdam,Ajax,Sparta Rotterdam – Ajax,N1,🎲 Çılgın kupon,2.5 Alt,0.36500922081099274,2.92,0.0658269247680987,piyasa,,,,2026-10-25 18:45,,,,,,
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.723911948105634,1.2,-0.13130566227323925,piyasa,False,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,SP1,Ath Bilbao,Getafe,Athletic Bilbao – Getafe,SP1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.762985485793962,1.21,-0.07678756218930605,korner,False,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,SP1,Ath Bilbao,Getafe,Athletic Bilbao – Getafe,SP1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5843534239239685,1.63,-0.04750391900393136,piyasa,False,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,🟡 Tier 2 — Orta risk,MS 1,0.5199659336448915,1.71,-0.11085825346723555,piyasa,True,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5872835226024221,1.53,-0.10145621041829411,korner,False,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3126543882144425,2.81,-0.12144116911741654,piyasa,True,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.23022465956047966,3.85,-0.11363506069215323,piyasa,True,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,SP1,Ath Bilbao,Getafe,Athletic Bilbao – Getafe,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.176263174925082,5.1,-0.10105780788208185,piyasa,,,,2026-10-25 16:00,,,,,,kadro
+2026-10-25 15:28,2026-10-25,25.10,T1,Konyaspor,Genclerbirligi,Konyaspor – Gençlerbirliği,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10976289408173742,7.6,-0.1658020049787956,piyasa,,,,2026-10-25 16:00,,,,,,kadro
