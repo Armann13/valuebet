@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**214/405 tuttu** (isabet %53, beklenen %61) · -72.87 birim · 32 tahmin sonuç bekliyor
+**218/416 tuttu** (isabet %52, beklenen %61) · -78.21 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,35 +16,35 @@
 
 **16:00 · Athletic Bilbao – Getafe**
 
-- ⏳ 🟢 En çok korner 1 · @1.20
+- ❌ 🟢 En çok korner 1 · @1.20 · korner 2-4
 
 **16:30 · PSV – Feyenoord**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.80
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
-- ⏳ 🟢 Korner 12.5 Alt · @1.22
+- ❌ 🟣 Korner 8.5 Alt · @2.80 · korner 6-5
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.40 · korner 6-5
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.10 · korner 6-5
+- ✅ 🟢 Korner 12.5 Alt · @1.22 · korner 6-5
 
 **16:30 · NEC Nijmegen – Groningen**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.56
+- ❌ 🟣 Korner 8.5 Alt · @2.56 · korner 11-2
 
 **17:00 · Liverpool – Brighton**
 
-- ⏳ 🟡 En çok korner 1 · @1.52
-- ⏳ 🎰 En çok korner 1 · @1.52
+- ✅ 🟡 En çok korner 1 · @1.52 · korner 4-2
+- ✅ 🎰 En çok korner 1 · @1.52 · korner 4-2
 
 **17:00 · Atalanta – Frosinone**
 
-- ⏳ 🟣 Korner 8.5 Alt · @2.63
+- ❌ 🟣 Korner 8.5 Alt · @2.63 · korner 8-9
 
 **17:00 · US Palermo – Carrarese Calcio 1908**
 
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.09
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.09 · korner 5-7
 
 **17:00 · Manchester United – Bournemouth**
 
-- ⏳ 🎯 En çok korner 2 · @2.55
+- ❌ 🎯 En çok korner 2 · @2.55 · korner 5-4
 
 **19:15 · Angers – Lorient**
 

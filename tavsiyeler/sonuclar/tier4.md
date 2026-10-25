@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/127 tuttu** (isabet %34, beklenen %33) · -14.38 birim · 18 tahmin sonuç bekliyor
+**43/132 tuttu** (isabet %33, beklenen %34) · -19.38 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,20 +16,20 @@
 
 **15:00 · Hibernian – Celtic**
 
-- ⏳ 2.5 Alt · @2.50
+- ❌ 2.5 Alt · @2.50 · 1-2
 
 **16:30 · PSV – Feyenoord**
 
-- ⏳ Korner 8.5 Alt · @2.80
+- ❌ Korner 8.5 Alt · @2.80 · korner 6-5
 
 **16:30 · NEC Nijmegen – Groningen**
 
-- ⏳ Korner 8.5 Alt · @2.56
+- ❌ Korner 8.5 Alt · @2.56 · korner 11-2
 
 **17:00 · Atalanta – Frosinone**
 
-- ⏳ KG Yok · @2.64
-- ⏳ Korner 8.5 Alt · @2.63
+- ❌ KG Yok · @2.64 · 4-4
+- ❌ Korner 8.5 Alt · @2.63 · korner 8-9
 
 **17:30 · Hoffenheim – B. Leverkusen**
 

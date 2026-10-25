@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/1 tuttu** (isabet %0, beklenen %3) · -1.00 birim · 10 tahmin sonuç bekliyor
+**0/2 tuttu** (isabet %0, beklenen %20) · -2.00 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 25.10 17:00 Atalanta – Frosinone · KG Yok · @2.93
+- ❌ 25.10 17:00 Atalanta – Frosinone · KG Yok · @2.93 · 4-4
 - ⏳ 25.10 18:45 Sparta Rotterdam – Ajax · 2.5 Alt · @2.92
 - ⏳ 25.10 19:30 Freiburg – Bayern Münih · İY/MS 1/2 · @17.80
 - ⏳ 25.10 21:00 N. Madeira – Braga · İY/MS 1/2 · @24.80

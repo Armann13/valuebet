@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 10 tahmin sonuç bekliyor
+**27/51 tuttu** (isabet %53, beklenen %43) · +12.14 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,16 +17,16 @@
 
 **15:30 · Braunschweig – Hannover 96**
 
-- ⏳ MS 1 & 2.5 Üst · @3.90
-- ⏳ MS 1 · @2.81
+- ❌ MS 1 & 2.5 Üst · @3.90 · 2-0
+- ✅ MS 1 · @2.81 · 2-0
 
 **17:00 · Atalanta – Frosinone**
 
-- ⏳ KG Yok · @2.73
+- ❌ KG Yok · @2.73 · 4-4
 
 **17:00 · Manchester United – Bournemouth**
 
-- ⏳ MS 1 & 2.5 Üst · @3.33
+- ❌ MS 1 & 2.5 Üst · @3.33 · 0-3
 
 **18:15 · Cadiz – AD Ceuta**
 

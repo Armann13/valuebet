@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**112/196 tuttu** (isabet %57, beklenen %63) · -28.04 birim · 16 tahmin sonuç bekliyor
+**114/198 tuttu** (isabet %58, beklenen %63) · -27.12 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,11 +17,11 @@
 
 **16:30 · PSV – Feyenoord**
 
-- ⏳ ↳ Korner 11.5 Alt · @1.40
+- ✅ ↳ Korner 11.5 Alt · @1.40 · korner 6-5
 
 **17:00 · Liverpool – Brighton**
 
-- ⏳ En çok korner 1 · @1.52
+- ✅ En çok korner 1 · @1.52 · korner 4-2
 
 **19:30 · Freiburg – Bayern Münih**
 

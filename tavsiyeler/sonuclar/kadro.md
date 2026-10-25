@@ -6,12 +6,28 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 8 | 8 | 2 | -5.16 |
-| sonra | 40 | 40 | 9 | -20.40 |
+| önce | 9 | 9 | 2 | -6.16 |
+| sonra | 47 | 47 | 12 | -22.96 |
 
 Değişen tahmin: 2 (2 sonuçlandı: eski 1, yeni 0 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 25.10 · Athletic Bilbao – Getafe
+
+Kadro mesajı: 25.10 15:28
+
+- 🟢 Tier 1: ❌ En çok korner 1 @1.20 → ❌ En çok korner 1 @1.21 (aynı)
+- 🟡 Tier 2: — → ❌ 2.5 Alt @1.63 (yeni)
+
+## 25.10 · Konyaspor – Gençlerbirliği
+
+Kadro mesajı: 25.10 15:28
+
+- 🟢 Tier 1: — → ✅ ÇŞ 1-2 @1.20 (yeni)
+- 🟡 Tier 2: — → ✅ MS 1 @1.71, ✅ En çok korner 1 @1.53 (yeni)
+- 🔴 Tier 3: — → ❌ MS 1 & 2.5 Üst @2.81 (yeni)
+- 🟣 Tier 4: — → ❌ MS 1 & KG Var @3.85 (yeni)
 
 ## 24.10 · Gil Vicente – Porto
 

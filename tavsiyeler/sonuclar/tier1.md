@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 15 tahmin sonuç bekliyor
+**106/145 tuttu** (isabet %73, beklenen %77) · -15.42 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **16:00 · Athletic Bilbao – Getafe**
 
-- ⏳ En çok korner 1 · @1.20
+- ❌ En çok korner 1 · @1.20 · korner 2-4
 
 **16:30 · PSV – Feyenoord**
 
-- ⏳ Korner 12.5 Alt · @1.22
+- ✅ Korner 12.5 Alt · @1.22 · korner 6-5
 
 **18:15 · Cadiz – AD Ceuta**
 

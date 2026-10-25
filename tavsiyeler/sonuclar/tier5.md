@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/55 tuttu** (isabet %18, beklenen %16) · +0.07 birim · 3 tahmin sonuç bekliyor
+**10/56 tuttu** (isabet %18, beklenen %16) · -0.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **16:00 · Athletic Bilbao – Getafe**
 
-- ⏳ 1-0 · @4.39
+- ❌ 1-0 · @4.39 · 4-0
 
 ## 24.10.2026 Cumartesi
 

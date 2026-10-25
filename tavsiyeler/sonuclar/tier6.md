@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/325 tuttu** (isabet %10, beklenen %11) · -84.29 birim · 39 tahmin sonuç bekliyor
+**36/333 tuttu** (isabet %11, beklenen %11) · -76.37 birim · 31 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,32 +16,32 @@
 
 **15:00 · Hibernian – Celtic**
 
-- ⏳ 1-1 · @7.77
+- ❌ 1-1 · @7.77 · 1-2
 
 **16:30 · NEC Nijmegen – Groningen**
 
-- ⏳ 1-1 · @7.02
+- ❌ 1-1 · @7.02 · 2-2
 
 **16:30 · PSV – Feyenoord**
 
-- ⏳ 1-1 · @8.56
+- ✅ 1-1 · @8.56 · 1-1
 
 **17:00 · Liverpool – Brighton**
 
-- ⏳ 1-1 · @6.43
+- ❌ 1-1 · @6.43 · 2-0
 
 **17:00 · Atalanta – Frosinone**
 
-- ⏳ 3-0 · @15.85
-- ⏳ 2-1 · @7.95
+- ❌ 3-0 · @15.85 · 4-4
+- ❌ 2-1 · @7.95 · 4-4
 
 **17:00 · US Palermo – Carrarese Calcio 1908**
 
-- ⏳ 2-1 · @7.36
+- ✅ 2-1 · @7.36 · 2-1
 
 **17:00 · Manchester United – Bournemouth**
 
-- ⏳ 2-1 · @8.38
+- ❌ 2-1 · @8.38 · 0-3
 
 **17:30 · Hoffenheim – B. Leverkusen**
 
