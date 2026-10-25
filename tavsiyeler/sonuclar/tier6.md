@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/335 tuttu** (isabet %11, beklenen %11) · -78.37 birim · 33 tahmin sonuç bekliyor
+**36/341 tuttu** (isabet %11, beklenen %11) · -84.37 birim · 41 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,32 @@
 **19:00 · Rizespor – Trabzonspor**
 
 - ⏳ 1-1 · @6.44
+- ⏳ 1-2 · @7.75
 
 **21:30 · Galatasaray – Fenerbahçe**
 
 - ⏳ 2-0 · @12.65
+- ⏳ 1-2 · @9.75
+
+**22:30 · Paris Saint Germain – Lyon**
+
+- ⏳ 2-1 · @7.63
+
+**22:45 · US Boulogne – Reims**
+
+- ⏳ 0-1 · @6.36
+
+**22:45 · Montpellier – Red Star FC**
+
+- ⏳ 2-1 · @8.42
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ 1-0 · @5.57
+
+**23:00 · Walsall – Salford City**
+
+- ⏳ 1-2 · @6.91
 
 ## 25.10.2026 Pazar
 
@@ -57,24 +79,24 @@
 
 **18:45 · Sparta Rotterdam – Ajax**
 
-- ⏳ 0-2 · @8.96
+- ❌ 0-2 · @8.96 · 1-2
 
 **19:00 · Volos – Panathinaikos**
 
-- ⏳ 0-2 · @5.30
+- ❌ 0-2 · @5.30 · 0-1
 
 **19:15 · Angers – Lorient**
 
-- ⏳ 1-1 · @5.25
+- ❌ 1-1 · @5.25 · 0-0
 
 **19:30 · Sunderland – Leeds United**
 
-- ⏳ 1-1 · @5.17
-- ⏳ 1-2 · @9.34
+- ❌ 1-1 · @5.17 · 0-0
+- ❌ 1-2 · @9.34 · 0-0
 
 **19:30 · Freiburg – Bayern Münih**
 
-- ⏳ 1-2 · @7.90
+- ❌ 1-2 · @7.90 · 1-3
 
 **20:30 · Real Sociedad – Levante**
 
@@ -84,21 +106,43 @@
 
 - ⏳ 2-1 · @7.30
 
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ 2-1 · @8.76
+
 **21:00 · N. Madeira – Braga**
 
 - ⏳ 0-1 · @5.95
+- ⏳ 1-2 · @7.33
 
 **21:00 · Rio Ave – Famalicao**
 
 - ⏳ 1-1 · @5.37
 
+**21:00 · Ofi Crete – PAOK**
+
+- ⏳ 1-2 · @6.46
+
+**21:15 · Union Saint Gilloise – Cercle Brugge**
+
+- ⏳ 2-1 · @7.47
+
+**22:00 · AZ Alkmaar – Twente**
+
+- ⏳ 1-2 · @9.84
+
 **22:45 · Udinese – AC Milan**
 
 - ⏳ 0-1 · @6.16
+- ⏳ 1-2 · @7.44
 
 **23:00 · Barcelona – Real Madrid**
 
 - ⏳ 2-1 · @9.00
+
+**23:30 · Sporting Lizbon – A. de Viseu **
+
+- ⏳ 2-1 · @8.22
 
 ## 24.10.2026 Cumartesi
 

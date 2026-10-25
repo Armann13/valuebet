@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/52 tuttu** (isabet %54, beklenen %43) · +13.08 birim · 5 tahmin sonuç bekliyor
+**30/55 tuttu** (isabet %55, beklenen %43) · +13.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -34,15 +34,15 @@
 
 **18:45 · Sparta Rotterdam – Ajax**
 
-- ⏳ 2.5 Alt · @2.92
+- ❌ 2.5 Alt · @2.92 · 1-2
 
 **19:00 · Volos – Panathinaikos**
 
-- ⏳ 2.5 Alt · @2.18
+- ✅ 2.5 Alt · @2.18 · 0-1
 
 **19:30 · Freiburg – Bayern Münih**
 
-- ⏳ MS 2 & 2.5 Üst · @1.67
+- ✅ MS 2 & 2.5 Üst · @1.67 · 1-3
 
 ## 24.10.2026 Cumartesi
 

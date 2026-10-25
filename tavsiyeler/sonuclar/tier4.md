@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**44/133 tuttu** (isabet %33, beklenen %34) · -17.42 birim · 15 tahmin sonuç bekliyor
+**44/135 tuttu** (isabet %33, beklenen %34) · -19.42 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,28 @@
 **19:00 · Rizespor – Trabzonspor**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.94
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.51
 
 **21:30 · Galatasaray – Fenerbahçe**
 
 - ⏳ KG Yok · @2.55
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.73
+
+**22:45 · Montpellier – Red Star FC**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.56
+
+**22:45 · US Boulogne – Reims**
+
+- ⏳ ↳ İY/MS 2/2 · @3.45
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ ↳ İY/MS 1/1 · @2.75
+
+**23:00 · Walsall – Salford City**
+
+- ⏳ ↳ MS 2 & KG Var · @3.52
 
 ## 25.10.2026 Pazar
 
@@ -41,23 +59,41 @@
 
 **19:15 · Angers – Lorient**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.87
+- ❌ ↳ Korner 7.5 Alt · @2.87 · korner 6-7
 
 **19:30 · Sunderland – Leeds United**
 
-- ⏳ MS 2 & 2.5 Üst · @4.63
+- ❌ MS 2 & 2.5 Üst · @4.63 · 0-0
 
 **20:30 · Castellon – S.Gijon**
 
 - ⏳ MS 1 & KG Var · @2.92
 
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @4.04
+
 **21:00 · N. Madeira – Braga**
 
 - ⏳ ↳ Korner 7.5 Alt · @3.00
+- ⏳ ↳ MS 2 & KG Var · @3.20
 
 **21:00 · Rio Ave – Famalicao**
 
 - ⏳ Korner 11.5 Üst · @2.56
+- ⏳ ↳ İY/MS 2/2 · @2.94
+
+**21:00 · Ofi Crete – PAOK**
+
+- ⏳ ↳ MS 2 & KG Var · @3.19
+
+**22:00 · AZ Alkmaar – Twente**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.78
+
+**22:45 · Udinese – AC Milan**
+
+- ⏳ ↳ MS 2 & KG Var · @3.41
 
 ## 24.10.2026 Cumartesi
 

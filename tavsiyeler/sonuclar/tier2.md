@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**114/198 tuttu** (isabet %58, beklenen %63) · -27.12 birim · 17 tahmin sonuç bekliyor
+**115/199 tuttu** (isabet %58, beklenen %63) · -26.45 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,11 +12,38 @@
 
 - ⏳ ↳ Korner 10.5 Alt · @1.40
 
+**19:00 · Beşiktaş – Başakşehir**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.60
+- ⏳ Korner 10.5 Alt · @1.61
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ ÇŞ X-2 · @1.53
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**21:45 · Santa Clara – Benfica**
+
+- ⏳ Korner 9.5 Alt · @1.63
+
 **22:30 · FC Andorra – CF Burgos**
 
 - ⏳ ↳ MS 1 · @1.98
 - ⏳ En çok korner 1 · @1.40
 - ⏳ KG Yok · @1.83
+
+**22:30 · Paris Saint Germain – Lyon**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.62
+- ⏳ Korner 9.5 Üst · @1.61
+
+**23:00 · Walsall – Salford City**
+
+- ⏳ 2.5 Üst · @1.53
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.40
 
 ## 25.10.2026 Pazar
 
@@ -30,15 +57,63 @@
 
 **19:30 · Freiburg – Bayern Münih**
 
-- ⏳ MS 2 & 2.5 Üst · @1.67
+- ✅ MS 2 & 2.5 Üst · @1.67 · 1-3
+
+**20:30 · Castellon – S.Gijon**
+
+- ⏳ MS 1 · @1.41
+- ⏳ Korner 10.5 Alt · @1.51
+
+**20:30 · Aris – Atromitos**
+
+- ⏳ MS 1 · @1.47
+
+**20:30 · Real Sociedad – Levante**
+
+- ⏳ KG Var · @1.44
+
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ En çok korner 2 · @1.97
 
 **21:00 · N. Madeira – Braga**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.41
+- ⏳ 2.5 Üst · @1.66
+- ⏳ Korner 9.5 Alt · @1.63
+
+**21:00 · Ofi Crete – PAOK**
+
+- ⏳ 2.5 Üst · @1.60
+
+**21:00 · Rio Ave – Famalicao**
+
+- ⏳ Korner 9.5 Üst · @1.60
+
+**21:15 · Union Saint Gilloise – Cercle Brugge**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.69
+- ⏳ Korner 10.5 Alt · @1.54
+
+**22:00 · AZ Alkmaar – Twente**
+
+- ⏳ ÇŞ X-2 · @1.53
+- ⏳ En çok korner 1 · @1.66
+
+**22:45 · Udinese – AC Milan**
+
+- ⏳ MS 2 · @1.62
+- ⏳ Korner 9.5 Alt · @1.47
 
 **23:00 · Barcelona – Real Madrid**
 
 - ⏳ ↳ Korner 11.5 Alt · @1.44
+- ⏳ MS 1 · @1.45
+
+**23:30 · Sporting Lizbon – A. de Viseu **
+
+- ⏳ KG Var · @1.65
+- ⏳ Korner 9.5 Alt · @1.74
 
 ## 24.10.2026 Cumartesi
 

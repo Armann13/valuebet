@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/173 tuttu** (isabet %43, beklenen %46) · -18.85 birim · 23 tahmin sonuç bekliyor
+**77/177 tuttu** (isabet %44, beklenen %46) · -18.48 birim · 49 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,46 @@
 **19:00 · Rizespor – Trabzonspor**
 
 - ⏳ ↳ Korner 8.5 Alt · @2.16
+- ⏳ ↳ MS 2 · @1.81
+
+**19:00 · Beşiktaş – Başakşehir**
+
+- ⏳ ↳ MS 1 & KG Var · @2.30
+- ⏳ ↳ Korner 9.5 Alt · @2.00
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ ↳ MS 2 · @2.73
+
+**21:45 · Santa Clara – Benfica**
+
+- ⏳ ↳ İY/MS 2/2 · @1.74
+- ⏳ ↳ Korner 8.5 Alt · @2.08
+
+**22:30 · Paris Saint Germain – Lyon**
+
+- ⏳ ↳ MS 1 & KG Var · @2.28
+- ⏳ ↳ Korner 10.5 Üst · @2.00
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ ↳ İY/MS 1/1 · @3.10
+
+**22:45 · US Boulogne – Reims**
+
+- ⏳ ↳ MS 2 · @2.15
+
+**22:45 · Montpellier – Red Star FC**
+
+- ⏳ ↳ MS 1 · @2.24
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ ↳ MS 1 · @1.79
+
+**23:00 · Walsall – Salford City**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.79
 
 ## 25.10.2026 Pazar
 
@@ -28,31 +68,75 @@
 
 **18:45 · Sparta Rotterdam – Ajax**
 
-- ⏳ 2.5 Alt · @2.92
+- ❌ 2.5 Alt · @2.92 · 1-2
 
 **19:00 · Volos – Panathinaikos**
 
-- ⏳ 2.5 Alt · @2.18
+- ✅ 2.5 Alt · @2.18 · 0-1
 
 **19:15 · Angers – Lorient**
 
-- ⏳ ↳ Korner 8.5 Alt · @2.11
+- ❌ ↳ Korner 8.5 Alt · @2.11 · korner 6-7
 
 **19:30 · Sunderland – Leeds United**
 
-- ⏳ En çok korner 2 · @2.19
+- ✅ En çok korner 2 · @2.19 · korner 4-5
+
+**20:30 · Castellon – S.Gijon**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.05
+- ⏳ ↳ Korner 9.5 Alt · @1.86
+
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ ↳ MS 1 · @2.35
+
+**20:30 · Aris – Atromitos**
+
+- ⏳ ↳ İY/MS 1/1 · @2.20
+
+**20:30 · Real Sociedad – Levante**
+
+- ⏳ ↳ MS 1 & KG Var · @2.49
 
 **21:00 · N. Madeira – Braga**
 
 - ⏳ ↳ Korner 8.5 Alt · @2.19
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.12
+
+**21:00 · Rio Ave – Famalicao**
+
+- ⏳ ↳ MS 2 · @1.90
+- ⏳ ↳ Korner 10.5 Üst · @1.99
+
+**21:00 · Ofi Crete – PAOK**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.30
+
+**21:15 · Union Saint Gilloise – Cercle Brugge**
+
+- ⏳ ↳ MS 1 & KG Var · @2.58
+- ⏳ ↳ Korner 9.5 Alt · @1.91
+
+**22:00 · AZ Alkmaar – Twente**
+
+- ⏳ ↳ MS 2 · @2.77
 
 **22:45 · Udinese – AC Milan**
 
 - ⏳ En çok korner 1 · @2.31
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.49
+- ⏳ ↳ Korner 8.5 Alt · @1.82
 
 **23:00 · Barcelona – Real Madrid**
 
 - ⏳ ↳ Korner 9.5 Alt · @2.22
+- ⏳ ↳ MS 1 & KG Var · @2.00
+
+**23:30 · Sporting Lizbon – A. de Viseu **
+
+- ⏳ ↳ MS 1 & KG Var · @2.26
+- ⏳ ↳ Korner 8.5 Alt · @2.25
 
 ## 24.10.2026 Cumartesi
 

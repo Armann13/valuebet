@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**218/416 tuttu** (isabet %52, beklenen %61) · -78.21 birim · 30 tahmin sonuç bekliyor
+**221/422 tuttu** (isabet %52, beklenen %61) · -77.38 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,9 +15,34 @@
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.16
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @2.94
 
+**19:00 · Beşiktaş – Başakşehir**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.61
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.00
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.23
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+
+**21:45 · Santa Clara – Benfica**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.63
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
+
 **22:30 · FC Andorra – CF Burgos**
 
 - ⏳ 🟡 En çok korner 1 · @1.40
+
+**22:30 · Paris Saint Germain – Lyon**
+
+- ⏳ 🟡 Korner 9.5 Üst · @1.61
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.00
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
 
 ## 25.10.2026 Pazar
 
@@ -55,19 +80,28 @@
 
 **19:15 · Angers – Lorient**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.11
-- ⏳ 🟣 ↳ Korner 7.5 Alt · @2.87
+- ❌ 🟢 Korner 11.5 Alt · @1.20 · korner 6-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.11 · korner 6-7
+- ❌ 🟣 ↳ Korner 7.5 Alt · @2.87 · korner 6-7
 
 **19:30 · Sunderland – Leeds United**
 
-- ⏳ 🔴 En çok korner 2 · @2.19
-- ⏳ 🎯 En çok korner 2 · @2.31
-- ⏳ 🎯 En çok korner 2 · @2.33
+- ✅ 🔴 En çok korner 2 · @2.19 · korner 4-5
+- ✅ 🎯 En çok korner 2 · @2.31 · korner 4-5
+- ✅ 🎯 En çok korner 2 · @2.33 · korner 4-5
 
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ 🟢 En çok korner 1 · @1.25
+
+**20:30 · Castellon – S.Gijon**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.51
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.86
+
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ 🟡 En çok korner 2 · @1.97
 
 **21:00 · N. Madeira – Braga**
 
@@ -75,20 +109,40 @@
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.19
 - ⏳ 🟢 Korner 11.5 Alt · @1.22
 - ⏳ 🟣 ↳ Korner 7.5 Alt · @3.00
+- ⏳ 🟡 Korner 9.5 Alt · @1.63
 
 **21:00 · Rio Ave – Famalicao**
 
 - ⏳ 🟣 Korner 11.5 Üst · @2.56
+- ⏳ 🟡 Korner 9.5 Üst · @1.60
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @1.99
+
+**21:15 · Union Saint Gilloise – Cercle Brugge**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.54
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.91
+
+**22:00 · AZ Alkmaar – Twente**
+
+- ⏳ 🟡 En çok korner 1 · @1.66
 
 **22:45 · Udinese – AC Milan**
 
 - ⏳ 🔴 En çok korner 1 · @2.31
+- ⏳ 🟡 Korner 9.5 Alt · @1.47
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.82
+- ⏳ 🎯 En çok korner 1 · @2.23
 
 **23:00 · Barcelona – Real Madrid**
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.25
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.44
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.22
+
+**23:30 · Sporting Lizbon – A. de Viseu **
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.74
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.25
 
 ## 24.10.2026 Cumartesi
 

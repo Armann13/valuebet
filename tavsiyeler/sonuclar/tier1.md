@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**107/146 tuttu** (isabet %73, beklenen %77) · -15.21 birim · 14 tahmin sonuç bekliyor
+**107/147 tuttu** (isabet %73, beklenen %77) · -16.21 birim · 25 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,40 @@
 **19:00 · Rizespor – Trabzonspor**
 
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ ÇŞ X-2 · @1.20
+
+**19:00 · Beşiktaş – Başakşehir**
+
+- ⏳ MS 1 · @1.25
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ Korner 11.5 Alt · @1.23
+
+**21:45 · Santa Clara – Benfica**
+
+- ⏳ MS 2 · @1.25
 
 **22:30 · FC Andorra – CF Burgos**
 
 - ⏳ ÇŞ 1-X · @1.21
+
+**22:30 · Paris Saint Germain – Lyon**
+
+- ⏳ 2.5 Üst · @1.27
+
+**22:45 · Montpellier – Red Star FC**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**22:45 · US Boulogne – Reims**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**23:00 · Sevilla – Osasuna**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 10.5 Alt · @1.21
 
 ## 25.10.2026 Pazar
 
@@ -32,15 +62,27 @@
 
 **19:15 · Angers – Lorient**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ❌ Korner 11.5 Alt · @1.20 · korner 6-7
 
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ En çok korner 1 · @1.25
 
+**20:30 · KAA Gent – Anderlecht**
+
+- ⏳ ÇŞ 1-X · @1.32
+
 **21:00 · N. Madeira – Braga**
 
 - ⏳ Korner 11.5 Alt · @1.22
+
+**21:00 · Rio Ave – Famalicao**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**21:15 · Union Saint Gilloise – Cercle Brugge**
+
+- ⏳ MS 1 · @1.24
 
 **23:00 · Barcelona – Real Madrid**
 
