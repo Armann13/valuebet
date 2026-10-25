@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**106/145 tuttu** (isabet %73, beklenen %77) · -15.42 birim · 13 tahmin sonuç bekliyor
+**106/145 tuttu** (isabet %73, beklenen %77) · -15.42 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.10.2026 Pazartesi
+
+**19:00 · Rizespor – Trabzonspor**
+
+- ⏳ Korner 11.5 Alt · @1.21
 
 **22:30 · FC Andorra – CF Burgos**
 
@@ -37,6 +41,10 @@
 **21:00 · N. Madeira – Braga**
 
 - ⏳ Korner 11.5 Alt · @1.22
+
+**23:00 · Barcelona – Real Madrid**
+
+- ⏳ Korner 12.5 Alt · @1.25
 
 ## 24.10.2026 Cumartesi
 

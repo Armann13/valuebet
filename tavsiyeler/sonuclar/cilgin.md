@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/2 tuttu** (isabet %0, beklenen %20) · -2.00 birim · 9 tahmin sonuç bekliyor
+**0/2 tuttu** (isabet %0, beklenen %20) · -2.00 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.10 18:55 gönderilen kupon · 6 maç, oran 1.165.313,48
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 25.10 19:00 Volos – Panathinaikos · 2.5 Alt · @2.25
+- ⏳ 25.10 19:30 Freiburg – Bayern Münih · İY/MS 1/2 · @17.55
+- ⏳ 25.10 21:00 N. Madeira – Braga · İY/MS 1/2 · @24.80
+- ⏳ 25.10 22:45 Udinese – AC Milan · İY/MS 1/2 · @25.50
+- ⏳ 26.10 21:45 Santa Clara – Benfica · İY/MS 1/2 · @25.50
+- ⏳ 26.10 22:30 FC Andorra – CF Burgos · KG Yok · @1.83
 
 ## 25.10 14:44 gönderilen kupon · 6 maç, oran 2.455.853,84
 

@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**36/333 tuttu** (isabet %11, beklenen %11) · -76.37 birim · 31 tahmin sonuç bekliyor
+**36/334 tuttu** (isabet %11, beklenen %11) · -77.37 birim · 34 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.10.2026 Pazartesi
+
+**19:00 · Rizespor – Trabzonspor**
+
+- ⏳ 1-1 · @6.44
 
 **21:30 · Galatasaray – Fenerbahçe**
 
@@ -45,7 +49,7 @@
 
 **17:30 · Hoffenheim – B. Leverkusen**
 
-- ⏳ 2-1 · @11.30
+- ❌ 2-1 · @11.30 · 3-0
 
 **18:15 · Cadiz – AD Ceuta**
 
@@ -66,6 +70,7 @@
 **19:30 · Sunderland – Leeds United**
 
 - ⏳ 1-1 · @5.17
+- ⏳ 1-2 · @9.34
 
 **19:30 · Freiburg – Bayern Münih**
 
@@ -83,9 +88,17 @@
 
 - ⏳ 0-1 · @5.95
 
+**21:00 · Rio Ave – Famalicao**
+
+- ⏳ 1-1 · @5.37
+
 **22:45 · Udinese – AC Milan**
 
 - ⏳ 0-1 · @6.16
+
+**23:00 · Barcelona – Real Madrid**
+
+- ⏳ 2-1 · @9.00
 
 ## 24.10.2026 Cumartesi
 

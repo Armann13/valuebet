@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/132 tuttu** (isabet %33, beklenen %34) · -19.38 birim · 13 tahmin sonuç bekliyor
+**44/133 tuttu** (isabet %33, beklenen %34) · -17.42 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.10.2026 Pazartesi
+
+**19:00 · Rizespor – Trabzonspor**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.94
 
 **21:30 · Galatasaray – Fenerbahçe**
 
@@ -33,11 +37,15 @@
 
 **17:30 · Hoffenheim – B. Leverkusen**
 
-- ⏳ MS 1 · @2.96
+- ✅ MS 1 · @2.96 · 3-0
 
 **19:15 · Angers – Lorient**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.87
+
+**19:30 · Sunderland – Leeds United**
+
+- ⏳ MS 2 & 2.5 Üst · @4.63
 
 **20:30 · Castellon – S.Gijon**
 
@@ -46,6 +54,10 @@
 **21:00 · N. Madeira – Braga**
 
 - ⏳ ↳ Korner 7.5 Alt · @3.00
+
+**21:00 · Rio Ave – Famalicao**
+
+- ⏳ Korner 11.5 Üst · @2.56
 
 ## 24.10.2026 Cumartesi
 

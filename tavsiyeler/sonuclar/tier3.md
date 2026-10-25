@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/173 tuttu** (isabet %43, beklenen %46) · -18.85 birim · 21 tahmin sonuç bekliyor
+**75/173 tuttu** (isabet %43, beklenen %46) · -18.85 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**19:00 · Rizespor – Trabzonspor**
+
+- ⏳ ↳ Korner 8.5 Alt · @2.16
 
 ## 25.10.2026 Pazar
 
@@ -43,6 +49,10 @@
 **22:45 · Udinese – AC Milan**
 
 - ⏳ En çok korner 1 · @2.31
+
+**23:00 · Barcelona – Real Madrid**
+
+- ⏳ ↳ Korner 9.5 Alt · @2.22
 
 ## 24.10.2026 Cumartesi
 
