@@ -2,15 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 12 tahmin sonuç bekliyor
+**105/143 tuttu** (isabet %73, beklenen %77) · -14.64 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ ÇŞ 1-X · @1.21
 
 ## 25.10.2026 Pazar
 
 **16:00 · Athletic Bilbao – Getafe**
 
 - ⏳ En çok korner 1 · @1.20
+
+**16:30 · PSV – Feyenoord**
+
+- ⏳ Korner 12.5 Alt · @1.22
+
+**18:15 · Cadiz – AD Ceuta**
+
+- ⏳ ÇŞ 1-X · @1.21
 
 **19:15 · Angers – Lorient**
 

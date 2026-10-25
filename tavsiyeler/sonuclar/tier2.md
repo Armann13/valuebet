@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**112/196 tuttu** (isabet %57, beklenen %63) · -28.04 birim · 13 tahmin sonuç bekliyor
+**112/196 tuttu** (isabet %57, beklenen %63) · -28.04 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ ↳ MS 1 · @1.98
+- ⏳ En çok korner 1 · @1.40
 
 ## 25.10.2026 Pazar
 
@@ -15,6 +22,10 @@
 **17:00 · Liverpool – Brighton**
 
 - ⏳ En çok korner 1 · @1.52
+
+**19:30 · Freiburg – Bayern Münih**
+
+- ⏳ MS 2 & 2.5 Üst · @1.67
 
 **21:00 · N. Madeira – Braga**
 

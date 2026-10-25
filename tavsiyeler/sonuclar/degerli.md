@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 4 tahmin sonuç bekliyor
+**26/47 tuttu** (isabet %55, beklenen %44) · +13.33 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,13 +15,34 @@
 
 ## 25.10.2026 Pazar
 
+**15:30 · Braunschweig – Hannover 96**
+
+- ⏳ MS 1 & 2.5 Üst · @3.90
+- ⏳ MS 1 · @2.81
+
 **17:00 · Atalanta – Frosinone**
 
 - ⏳ KG Yok · @2.73
 
+**17:00 · Manchester United – Bournemouth**
+
+- ⏳ MS 1 & 2.5 Üst · @3.33
+
+**18:15 · Cadiz – AD Ceuta**
+
+- ⏳ MS 1 · @1.94
+
 **18:45 · Sparta Rotterdam – Ajax**
 
 - ⏳ 2.5 Alt · @2.92
+
+**19:00 · Volos – Panathinaikos**
+
+- ⏳ 2.5 Alt · @2.18
+
+**19:30 · Freiburg – Bayern Münih**
+
+- ⏳ MS 2 & 2.5 Üst · @1.67
 
 ## 24.10.2026 Cumartesi
 

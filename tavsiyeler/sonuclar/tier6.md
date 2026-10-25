@@ -2,11 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/325 tuttu** (isabet %10, beklenen %11) · -84.29 birim · 30 tahmin sonuç bekliyor
+**34/325 tuttu** (isabet %10, beklenen %11) · -84.29 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 26.10.2026 Pazartesi
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ 2-0 · @12.65
+
 ## 25.10.2026 Pazar
+
+**15:00 · Hibernian – Celtic**
+
+- ⏳ 1-1 · @7.77
 
 **16:30 · NEC Nijmegen – Groningen**
 
@@ -25,9 +35,29 @@
 - ⏳ 3-0 · @15.85
 - ⏳ 2-1 · @7.95
 
+**17:00 · US Palermo – Carrarese Calcio 1908**
+
+- ⏳ 2-1 · @7.36
+
+**17:00 · Manchester United – Bournemouth**
+
+- ⏳ 2-1 · @8.38
+
+**17:30 · Hoffenheim – B. Leverkusen**
+
+- ⏳ 2-1 · @11.30
+
+**18:15 · Cadiz – AD Ceuta**
+
+- ⏳ 1-0 · @6.93
+
 **18:45 · Sparta Rotterdam – Ajax**
 
 - ⏳ 0-2 · @8.96
+
+**19:00 · Volos – Panathinaikos**
+
+- ⏳ 0-2 · @5.30
 
 **19:15 · Angers – Lorient**
 
@@ -37,9 +67,17 @@
 
 - ⏳ 1-1 · @5.17
 
+**19:30 · Freiburg – Bayern Münih**
+
+- ⏳ 1-2 · @7.90
+
 **20:30 · Real Sociedad – Levante**
 
 - ⏳ 2-1 · @7.25
+
+**20:30 · Castellon – S.Gijon**
+
+- ⏳ 2-1 · @7.30
 
 **21:00 · N. Madeira – Braga**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/170 tuttu** (isabet %44, beklenen %46) · -15.85 birim · 21 tahmin sonuç bekliyor
+**75/170 tuttu** (isabet %44, beklenen %46) · -15.85 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,9 +12,21 @@
 
 - ⏳ ↳ Korner 9.5 Alt · @2.10
 
+**17:00 · Manchester United – Bournemouth**
+
+- ⏳ MS 1 & 2.5 Üst · @3.33
+
+**17:00 · US Palermo – Carrarese Calcio 1908**
+
+- ⏳ ↳ Korner 9.5 Alt · @2.09
+
 **18:45 · Sparta Rotterdam – Ajax**
 
 - ⏳ 2.5 Alt · @2.92
+
+**19:00 · Volos – Panathinaikos**
+
+- ⏳ 2.5 Alt · @2.18
 
 **19:15 · Angers – Lorient**
 

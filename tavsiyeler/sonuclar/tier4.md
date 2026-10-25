@@ -2,11 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/127 tuttu** (isabet %34, beklenen %33) · -14.38 birim · 14 tahmin sonuç bekliyor
+**43/127 tuttu** (isabet %34, beklenen %33) · -14.38 birim · 18 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 26.10.2026 Pazartesi
+
+**21:30 · Galatasaray – Fenerbahçe**
+
+- ⏳ KG Yok · @2.55
+
 ## 25.10.2026 Pazar
+
+**15:00 · Hibernian – Celtic**
+
+- ⏳ 2.5 Alt · @2.50
 
 **16:30 · PSV – Feyenoord**
 
@@ -21,9 +31,17 @@
 - ⏳ KG Yok · @2.64
 - ⏳ Korner 8.5 Alt · @2.63
 
+**17:30 · Hoffenheim – B. Leverkusen**
+
+- ⏳ MS 1 · @2.96
+
 **19:15 · Angers – Lorient**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.87
+
+**20:30 · Castellon – S.Gijon**
+
+- ⏳ MS 1 & KG Var · @2.92
 
 **21:00 · N. Madeira – Braga**
 

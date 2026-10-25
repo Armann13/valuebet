@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**214/405 tuttu** (isabet %53, beklenen %61) · -72.87 birim · 27 tahmin sonuç bekliyor
+**214/405 tuttu** (isabet %53, beklenen %61) · -72.87 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ 🟡 En çok korner 1 · @1.40
 
 ## 25.10.2026 Pazar
 
@@ -17,6 +23,7 @@
 - ⏳ 🟣 Korner 8.5 Alt · @2.80
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @2.10
+- ⏳ 🟢 Korner 12.5 Alt · @1.22
 
 **16:30 · NEC Nijmegen – Groningen**
 
@@ -31,6 +38,14 @@
 
 - ⏳ 🟣 Korner 8.5 Alt · @2.63
 
+**17:00 · US Palermo – Carrarese Calcio 1908**
+
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.09
+
+**17:00 · Manchester United – Bournemouth**
+
+- ⏳ 🎯 En çok korner 2 · @2.55
+
 **19:15 · Angers – Lorient**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
@@ -40,6 +55,7 @@
 **19:30 · Sunderland – Leeds United**
 
 - ⏳ 🔴 En çok korner 2 · @2.19
+- ⏳ 🎯 En çok korner 2 · @2.31
 
 **20:30 · Real Sociedad – Levante**
 

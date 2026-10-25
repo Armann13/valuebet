@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/55 tuttu** (isabet %18, beklenen %16) · +0.07 birim · 1 tahmin sonuç bekliyor
+**10/55 tuttu** (isabet %18, beklenen %16) · +0.07 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10.2026 Pazartesi
+
+**21:45 · Santa Clara – Benfica**
+
+- ⏳ 0-1 · @5.52
+
+**22:30 · FC Andorra – CF Burgos**
+
+- ⏳ 1-0 · @6.61
 
 ## 25.10.2026 Pazar
 
