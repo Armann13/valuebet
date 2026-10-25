@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 23 | 12 | 4 | -5.23 |
-| sonra | 65 | 56 | 18 | -22.19 |
+| önce | 23 | 23 | 8 | -9.58 |
+| sonra | 65 | 65 | 21 | -26.64 |
 
-Değişen tahmin: 7 (4 sonuçlandı: eski 3, yeni 2 tuttu).
+Değişen tahmin: 7 (7 sonuçlandı: eski 5, yeni 3 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,17 +17,17 @@ Değişen tahmin: 7 (4 sonuçlandı: eski 3, yeni 2 tuttu).
 
 Kadro mesajı: 25.10 22:17
 
-- 🟢 Tier 1: ⏳ Korner 12.5 Alt @1.25 → ⏳ Korner 12.5 Alt @1.27 (aynı)
-- 🟡 Tier 2: ⏳ Korner 11.5 Alt @1.44, ⏳ MS 1 @1.45 → ⏳ MS 1 @1.45, ⏳ Korner 11.5 Alt @1.47 (aynı)
-- 🔴 Tier 3: ⏳ Korner 9.5 Alt @2.22, ⏳ MS 1 & KG Var @2.00 → ⏳ MS 1 & KG Var @2.01 (değişti)
+- 🟢 Tier 1: ✅ Korner 12.5 Alt @1.25 → ✅ Korner 12.5 Alt @1.27 (aynı)
+- 🟡 Tier 2: ❌ Korner 11.5 Alt @1.44, ❌ MS 1 @1.45 → ❌ MS 1 @1.45, ❌ Korner 11.5 Alt @1.47 (aynı)
+- 🔴 Tier 3: ❌ Korner 9.5 Alt @2.22, ❌ MS 1 & KG Var @2.00 → ❌ MS 1 & KG Var @2.01 (değişti)
 
 ## 25.10 · Udinese – AC Milan
 
 Kadro mesajı: 25.10 22:17
 
-- 🟡 Tier 2: ⏳ MS 2 @1.62, ⏳ Korner 9.5 Alt @1.47 → ⏳ MS 2 @1.66, ⏳ Korner 8.5 Üst @1.62 (değişti)
-- 🔴 Tier 3: ⏳ En çok korner 1 @2.31, ⏳ MS 2 & 2.5 Üst @2.49, ⏳ Korner 8.5 Alt @1.82 → ⏳ MS 2 & 2.5 Üst @2.63, ⏳ Korner 9.5 Üst @2.05 (değişti)
-- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.41 → ⏳ MS 2 & KG Var @3.61 (aynı)
+- 🟡 Tier 2: ✅ MS 2 @1.62, ✅ Korner 9.5 Alt @1.47 → ✅ MS 2 @1.66, ✅ Korner 8.5 Üst @1.62 (değişti)
+- 🔴 Tier 3: ✅ En çok korner 1 @2.31, ❌ MS 2 & 2.5 Üst @2.49, ❌ Korner 8.5 Alt @1.82 → ❌ MS 2 & 2.5 Üst @2.63, ❌ Korner 9.5 Üst @2.05 (değişti)
+- 🟣 Tier 4: ❌ MS 2 & KG Var @3.41 → ❌ MS 2 & KG Var @3.61 (aynı)
 
 ## 25.10 · Lecce – Juventus
 

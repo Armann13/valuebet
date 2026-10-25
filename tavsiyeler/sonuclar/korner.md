@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**222/430 tuttu** (isabet %52, beklenen %60) · -83.41 birim · 40 tahmin sonuç bekliyor
+**226/437 tuttu** (isabet %52, beklenen %60) · -83.15 birim · 33 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -128,16 +128,16 @@
 
 **22:45 · Udinese – AC Milan**
 
-- ⏳ 🔴 En çok korner 1 · @2.31
-- ⏳ 🟡 Korner 9.5 Alt · @1.47
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.82
-- ⏳ 🎯 En çok korner 1 · @2.23
+- ✅ 🔴 En çok korner 1 · @2.31 · korner 5-4
+- ✅ 🟡 Korner 9.5 Alt · @1.47 · korner 5-4
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.82 · korner 5-4
+- ✅ 🎯 En çok korner 1 · @2.23 · korner 5-4
 
 **23:00 · Barcelona – Real Madrid**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.44
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.22
+- ✅ 🟢 Korner 12.5 Alt · @1.25 · korner 6-6
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.44 · korner 6-6
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.22 · korner 6-6
 
 **23:30 · Sporting Lizbon – A. de Viseu **
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/347 tuttu** (isabet %11, beklenen %11) · -83.12 birim · 35 tahmin sonuç bekliyor
+**37/350 tuttu** (isabet %11, beklenen %11) · -86.12 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -133,12 +133,12 @@
 
 **22:45 · Udinese – AC Milan**
 
-- ⏳ 0-1 · @6.16
-- ⏳ 1-2 · @7.44
+- ❌ 0-1 · @6.16 · 0-2
+- ❌ 1-2 · @7.44 · 0-2
 
 **23:00 · Barcelona – Real Madrid**
 
-- ⏳ 2-1 · @9.00
+- ❌ 2-1 · @9.00 · 1-2
 
 **23:30 · Sporting Lizbon – A. de Viseu **
 

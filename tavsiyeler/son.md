@@ -1,6 +1,6 @@
 # Tavsiyeler — 25.10.2026
 
-İddaa oranlarının son kaydı: 25.10 23:56 (TR saati)
+İddaa oranlarının son kaydı: 26.10 02:19 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -96,7 +96,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ St. Gilloise – Cercle Brugge (B1, 25.10): **MS 1 & 2.5 Üst** — olasılık %56, adil oran 1.80, İddaa oranı yok
 • Walsall – Salford City (E3, 26.10 23:00): **2.5 Üst** — olasılık %55, adil oran 1.83, İddaa 1.53 (değer -17%), MBS 2
 • ↳ Rennes – Strasbourg (F1, 25.10): **MS 1** — olasılık %54, adil oran 1.85, İddaa oranı yok
-• ↳ Paris Saint Germain – Lyon (F1, 26.10 22:30): **MS 1 & 2.5 Üst** — olasılık %53, adil oran 1.88, İddaa 1.60 (değer -15%)
+• ↳ Paris Saint Germain – Lyon (F1, 26.10 22:30): **MS 1 & 2.5 Üst** — olasılık %53, adil oran 1.88, İddaa 1.58 (değer -16%)
 • ↳ Genk – Standard (B1, 25.10): **MS 1** — olasılık %53, adil oran 1.90, İddaa oranı yok _(sadece model)_
 • ↳ Castellon – Sp Gijon (SP2, 25.10): **MS 1** — olasılık %52, adil oran 1.91, İddaa oranı yok _(sadece model)_
 • ↳ Konyaspor – Genclerbirligi (T1, 25.10): **MS 1** — olasılık %52, adil oran 1.92, İddaa oranı yok
@@ -182,7 +182,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Rizespor – Trabzonspor (T1, 26.10 19:00): **Korner 8.5 Alt** — olasılık %44, adil oran 2.28, İddaa 2.16 (değer -5%) _(korner modeli)_
 • ↳ Santa Clara – Benfica (P1, 26.10 21:45): **Korner 8.5 Alt** — olasılık %42, adil oran 2.37, İddaa 2.08 (değer -12%) _(korner modeli)_
 • ↳ Galatasaray – Fenerbahçe (T1, 26.10 21:30): **Korner 8.5 Alt** — olasılık %41, adil oran 2.47, İddaa 2.22 (değer -10%) _(korner modeli)_
-• ↳ Sevilla – Osasuna (SP1, 26.10 23:00): **Korner 7.5 Alt** — olasılık %40, adil oran 2.50, İddaa 2.24 (değer -10%) _(korner modeli)_
+• ↳ Sevilla – Osasuna (SP1, 26.10 23:00): **Korner 7.5 Alt** — olasılık %40, adil oran 2.50, İddaa 2.25 (değer -10%) _(korner modeli)_
 
 ## 🟣 Tier 4 — Çok yüksek risk
 
@@ -209,7 +209,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Nacional – Sp Braga (P1, 25.10): **MS 2 & KG Var** — olasılık %29, adil oran 3.42, İddaa oranı yok
 • ↳ OFI Crete – PAOK (G1, 25.10): **MS 2 & KG Var** — olasılık %29, adil oran 3.43, İddaa oranı yok
 • ↳ Toulouse – Troyes (F1, 25.10): **MS 1 & KG Var** — olasılık %29, adil oran 3.45, İddaa oranı yok
-• ↳ Sevilla – Osasuna (SP1, 26.10 23:00): **İY/MS 1/1** — olasılık %29, adil oran 3.47, İddaa 2.72 (değer -22%)
+• ↳ Sevilla – Osasuna (SP1, 26.10 23:00): **İY/MS 1/1** — olasılık %29, adil oran 3.47, İddaa 2.73 (değer -21%)
 • ↳ Crystal Palace – Newcastle (E0, 25.10): **MS 2 & 2.5 Üst** — olasılık %29, adil oran 3.48, İddaa oranı yok
 • ↳ Atalanta – Frosinone (I1, 25.10): **MS 1 & KG Var** — olasılık %28, adil oran 3.53, İddaa oranı yok
 • ↳ Hull – Brentford (E0, 25.10): **MS 2 & KG Var** — olasılık %28, adil oran 3.54, İddaa oranı yok
@@ -248,7 +248,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Beşiktaş – Başakşehir (T1, 26.10 19:00): **2-1** — olasılık %18, adil oran 5.50, İddaa 7.64 (değer +39%) _(İddaa oranına ayarlı)_
 • FC Andorra – CF Burgos (SP2, 26.10 22:30): **1-0** — olasılık %16, adil oran 6.23, İddaa 6.61 (değer +6%)
 • Santa Clara – Benfica (P1, 26.10 21:45): **0-1** — olasılık %16, adil oran 6.25, İddaa 5.49 (değer -12%)
-• Sevilla – Osasuna (SP1, 26.10 23:00): **1-0** — olasılık %13, adil oran 7.90, İddaa 5.53 (değer -30%)
+• Sevilla – Osasuna (SP1, 26.10 23:00): **1-0** — olasılık %13, adil oran 7.90, İddaa 5.54 (değer -30%)
 • Walsall – Salford City (E3, 26.10 23:00): **1-2** — olasılık %12, adil oran 8.01, İddaa 6.91 (değer -14%), MBS 2
 • Lecce – Juventus (I1, 25.10): **1-2** — olasılık %12, adil oran 8.18, İddaa oranı yok
 
@@ -257,11 +257,11 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Beşiktaş – Başakşehir (T1, 26.10 19:00): **2-1** — olasılık %18, adil oran 5.50, İddaa 7.64 (değer +39%) _(İddaa oranına ayarlı)_
 • FC Andorra – CF Burgos (SP2, 26.10 22:30): **1-0** — olasılık %16, adil oran 6.23, İddaa 6.61 (değer +6%)
 • Santa Clara – Benfica (P1, 26.10 21:45): **0-1** — olasılık %16, adil oran 6.25, İddaa 5.49 (değer -12%)
-• Sevilla – Osasuna (SP1, 26.10 23:00): **1-0** — olasılık %13, adil oran 7.90, İddaa 5.53 (değer -30%)
+• Sevilla – Osasuna (SP1, 26.10 23:00): **1-0** — olasılık %13, adil oran 7.90, İddaa 5.54 (değer -30%)
 • Walsall – Salford City (E3, 26.10 23:00): **1-2** — olasılık %12, adil oran 8.01, İddaa 6.91 (değer -14%), MBS 2
 • Lecce – Juventus (I1, 25.10): **1-2** — olasılık %12, adil oran 8.18, İddaa oranı yok
 • Volos NFC – Panathinaikos (G1, 25.10): **1-2** — olasılık %12, adil oran 8.20, İddaa oranı yok
-• Paris Saint Germain – Lyon (F1, 26.10 22:30): **2-1** — olasılık %12, adil oran 8.33, İddaa 7.64 (değer -8%)
+• Paris Saint Germain – Lyon (F1, 26.10 22:30): **2-1** — olasılık %12, adil oran 8.33, İddaa 7.66 (değer -8%)
 • Nacional – Sp Braga (P1, 25.10): **1-2** — olasılık %12, adil oran 8.35, İddaa oranı yok
 • Hibernian – Celtic (SC0, 25.10): **1-2** — olasılık %12, adil oran 8.44, İddaa oranı yok
 • Barcelona – Real Madrid (SP1, 25.10): **2-1** — olasılık %11, adil oran 8.74, İddaa oranı yok
@@ -339,7 +339,7 @@ Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle 
 • Beşiktaş – Başakşehir (T1, 26.10 19:00): **İY/MS 2/1** — olasılık %7, adil oran 14.99, İddaa 19.40 (değer +29%) _(İddaa oranına ayarlı)_
 • Santa Clara – Benfica (P1, 26.10 21:45): **İY/MS 1/2** — olasılık %5, adil oran 22.11, İddaa 25.50 (değer +15% 💎)
 • Walsall – Salford City (E3, 26.10 23:00): **İY/MS 1/2** — olasılık %4, adil oran 24.32, İddaa 24.35 (değer +0% 💎), MBS 2
-• Paris Saint Germain – Lyon (F1, 26.10 22:30): **İY/MS 2/1** — olasılık %5, adil oran 19.33, İddaa 19.10 (değer -1%)
+• Paris Saint Germain – Lyon (F1, 26.10 22:30): **İY/MS 2/1** — olasılık %5, adil oran 19.33, İddaa 19.20 (değer -1%)
 • FC Andorra – CF Burgos (SP2, 26.10 22:30): **KG Yok** — olasılık %55, adil oran 1.81, İddaa 1.83 (değer +1% 💎)
 
-Toplam oran **421.041,92**, tutma olasılığı yaklaşık 1/281.654. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.
+Toplam oran **423.246,32**, tutma olasılığı yaklaşık 1/281.654. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.

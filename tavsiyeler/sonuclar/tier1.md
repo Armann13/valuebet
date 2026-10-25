@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**110/151 tuttu** (isabet %73, beklenen %77) · -16.43 birim · 21 tahmin sonuç bekliyor
+**111/152 tuttu** (isabet %73, beklenen %77) · -16.18 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -86,7 +86,7 @@
 
 **23:00 · Barcelona – Real Madrid**
 
-- ⏳ Korner 12.5 Alt · @1.25
+- ✅ Korner 12.5 Alt · @1.25 · korner 6-6
 
 ## 24.10.2026 Cumartesi
 

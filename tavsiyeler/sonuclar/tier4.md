@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/139 tuttu** (isabet %32, beklenen %33) · -19.38 birim · 21 tahmin sonuç bekliyor
+**45/140 tuttu** (isabet %32, beklenen %33) · -20.38 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -93,7 +93,7 @@
 
 **22:45 · Udinese – AC Milan**
 
-- ⏳ ↳ MS 2 & KG Var · @3.41
+- ❌ ↳ MS 2 & KG Var · @3.41 · 0-2
 
 ## 24.10.2026 Cumartesi
 
