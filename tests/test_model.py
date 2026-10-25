@@ -843,8 +843,11 @@ def test_kadro():
                            "away_iddaa": "B", "home": "A", "away": "B"} for i, m in ((1, 10), (2, 60), (3, 120))]
                          ).to_csv(config.RAW_DIR / "iddaa" / "odds_2026.csv", index=False)
             assert kadro.candidates(now)["event_id"].tolist() == [2]  # 15-90 dakika kalan
+            assert kadro.wait_seconds(now) == 0  # pencerede maç var: şimdi bak
             assert kadro.kaydet({"satirlar": [], "maclar": ["2"], "zaman": "2026-10-24 20:00"}) == 0
             assert kadro.candidates(now).empty  # gönderildi: tekrar gelmez
+            assert kadro.wait_seconds(now) == 30 * 60  # sıradaki (120 dk sonra) pencereye 30 dk sonra girer
+            assert kadro.wait_seconds(now + pd.Timedelta(hours=3)) == -1  # önümüzde maç yok: döngü kapanır
         finally:
             config.RAW_DIR, config.TAVSIYE_DIR = old_raw, old_tav
 

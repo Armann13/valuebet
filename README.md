@@ -182,7 +182,9 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 
 ### Kadro açıklanınca güncelleme
 
-- `.github/workflows/kadro.yml` 15 dakikada bir: başlamasına 15-90 dakika kalan maçların ilk 11'leri ESPN'de
+- `.github/workflows/kadro.yml`, günde 3 uzun iş (TR 11:00 / 17:00 / 23:00, her biri ~5 saat 40 dakika; 15 dakikalık
+  zamanlamayı GitHub saatlerce atlıyordu): maç saatlerini kendi takip eder (`kadro --bekle`), başlamasına 15-90
+  dakika kalan maç varken 10 dakikada bir bakar; önümüzdeki 8 saatte maç yoksa erken kapanır. İlk 11'ler ESPN'de
   açıklandıysa (`src/kadro.py`) o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
   mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), önceden
   gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (kuponlar hariç). Gönderilen maçlar

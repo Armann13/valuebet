@@ -1,23 +1,29 @@
-# Kadro açıklanınca güncelleme (src/kadro.py): 15 dakikada bir, başlamasına 15-90 dakika kalan maçların ilk 11'leri
-# ESPN'de açıklandıysa o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a gider (kadrolar,
-# eksik düzenli oyuncular, sabahki listeye göre değişenler). Repo herkese açık: Actions dakikası sınırsız.
+# Kadro açıklanınca güncelleme (src/kadro.py): başlamasına 15-90 dakika kalan maçların ilk 11'leri ESPN'de
+# açıklandıysa o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a gider (kadrolar, eksik
+# düzenli oyuncular, sabahki listeye göre değişenler).
+#
+# 15 dakikalık zamanlama işe yaramadı: GitHub 24 saatte 96 yerine 6 kez başlattı, 30 maçın 4'ünde kadro mesajı gitti.
+# Bunun yerine günde 3 uzun iş (repo herkese açık: Actions dakikası sınırsız): her biri ~5 saat 40 dakika açık kalır,
+# maç saatlerini kendi takip eder (sonraki maçın pencereye girmesini bekler, pencere içinde 10 dakikada bir bakar),
+# önümüzdeki 8 saatte maç yoksa erken kapanır. Geç başlasa da kaçırmaz; biri sürerken gelen sıradaki iş onu bekler.
 name: Kadro güncellemesi
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 8,14,20 * * *"   # TR 11:00 / 17:00 / 23:00 (her biri ~5 saat 40 dakika: TR ~04:40'a kadar)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: kadro   # kendi grubu: diğer işlerin bekleyen çalıştırmalarını iptal ettirmesin
+  group: kadro
+  cancel-in-progress: false   # çalışan döngü kesilmesin; sıradaki iş bekler
 
 jobs:
   kadro:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v7
 
@@ -29,39 +35,41 @@ jobs:
       - name: Bağımlılık
         run: pip install -r requirements.txt
 
-      - name: Kadrosu açıklanan maç var mı
-        id: kontrol
-        run: python main.py kadro --kontrol
-
-      - name: Veritabanı (kulüp modelleri için)
-        if: steps.kontrol.outputs.hazir == '1'
-        run: python main.py build
-
-      - name: Güncel İddaa oranları
-        if: steps.kontrol.outputs.hazir == '1'
-        run: python main.py iddaa
-
-      - name: Kadrolar ve Telegram
-        if: steps.kontrol.outputs.hazir == '1'
+      - name: Kadro döngüsü
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python main.py kadro --bekleyen "$RUNNER_TEMP/kadro.json"
-
-      - name: Kaydet (gönderilen tahminler ve maçlar)
-        if: steps.kontrol.outputs.hazir == '1'
         run: |
-          [ -f "$RUNNER_TEMP/kadro.json" ] || exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # bu işin topladığı oranlar kaydedilmez (3 saatlik iş kaydeder); kayıt her denemede en güncel depo üstüne
-          for i in 1 2 3 4 5; do
+          end=$(( $(date +%s) + 340 * 60 ))
+          built=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            # her turda en güncel depo (yeni maçlar 3 saatlik oran işinden gelir); bu işin topladığı oranlar kaydedilmez
             git fetch -q origin main && git reset -q --hard origin/main
-            python main.py kadro --kaydet "$RUNNER_TEMP/kadro.json"
-            git add tavsiyeler
-            git diff --cached --quiet && exit 0
-            git commit -q -m "Kadro güncellemesi $(date -u +'%Y-%m-%d %H:%M')"
-            git push -q && exit 0
-            sleep 20
+            wait=$(python main.py kadro --bekle | tail -n 1)
+            if [ "$wait" -lt 0 ]; then echo "önümüzdeki 8 saatte maç yok: kapanıyor"; break; fi
+            if [ "$wait" -gt 0 ]; then
+              nap=$(( wait < 1800 ? wait : 1800 )); echo "sonraki maç pencereye $wait sn sonra giriyor; $nap sn bekleniyor"
+              sleep "$nap"; continue
+            fi
+            if python main.py kadro --kontrol; then
+              if [ "$built" = 0 ]; then python main.py build && built=1; fi
+              python main.py iddaa || true
+              rm -f "$RUNNER_TEMP/kadro.json"
+              python main.py kadro --bekleyen "$RUNNER_TEMP/kadro.json" || true
+              if [ -f "$RUNNER_TEMP/kadro.json" ]; then
+                # kayıt her denemede en güncel depo üstüne (diğer işlerle çakışmasın)
+                for i in 1 2 3 4 5; do
+                  git fetch -q origin main && git reset -q --hard origin/main
+                  python main.py kadro --kaydet "$RUNNER_TEMP/kadro.json"
+                  git add tavsiyeler
+                  git diff --cached --quiet && break
+                  git commit -q -m "Kadro güncellemesi $(date -u +'%Y-%m-%d %H:%M')"
+                  git push -q && break
+                  sleep 20
+                done
+              fi
+            fi
+            sleep 600
           done
-          exit 1

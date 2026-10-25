@@ -200,12 +200,15 @@ def cmd_analiz(args):
 def cmd_kadro(args):
     import json
     from src import kadro
-    if args.kontrol:  # GitHub işi: kadrosu açıklanan maç varsa sonraki adımlar çalışır
+    if args.bekle:  # GitHub'daki uzun iş: sonraki kontrole kadar saniye (0: şimdi, -1: yakında maç yok)
+        print(kadro.wait_seconds())
+        return
+    if args.kontrol:  # kadrosu açıklanan maç var mı (yoksa çıkış kodu 1: döngüde atlanır)
         ready = kadro.check()
         if os.environ.get("GITHUB_OUTPUT"):
             with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
                 f.write(f"hazir={int(ready)}\n")
-        return
+        return ready
     if args.kaydet:  # gönderilmiş güncellemenin kaydı (GitHub'da en güncel depo üstüne)
         res = json.loads(Path(args.kaydet).read_text(encoding="utf-8"))
         print(f"  kadro: sonuç takibine {kadro.kaydet(res)} yeni tahmin, {len(res['maclar'])} maç işaretlendi")
@@ -366,6 +369,7 @@ def main():
             sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
         if name == "kadro":  # kadro açıklanınca güncelleme (src/kadro.py)
             sp.add_argument("--kontrol", action="store_true", help="sadece kadrosu açıklanan maç var mı")
+            sp.add_argument("--bekle", action="store_true", help="sonraki kontrole kadar saniye (-1: maç yok)")
             sp.add_argument("--gonderme", action="store_true", help="Telegram'a gönderme, ekrana yaz")
             sp.add_argument("--bekleyen", help="gönderilenleri kaydetmeden bu JSON dosyasına yaz (GitHub işi)")
             sp.add_argument("--kaydet", help="--bekleyen ile yazılan dosyayı sonuç takibine kaydet")

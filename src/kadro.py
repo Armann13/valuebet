@@ -51,9 +51,9 @@ def summary(event_id: str) -> dict:
     return _get(SUMMARY_URL.format(league="all"), event=event_id)
 
 
-def candidates(now_utc: pd.Timestamp | None = None) -> pd.DataFrame:
-    """Başlamasına PENCERE dakika kalan, kadro mesajı gönderilmemiş maçlar: İddaa oran kayıtlarındaki son satırları
-    (veritabanı gerekmez: kayıttaki eşlenmiş adlarla)."""
+def candidates(now_utc: pd.Timestamp | None = None, pencere: tuple = PENCERE) -> pd.DataFrame:
+    """Başlamasına pencere (dakika) kadar kalan, kadro mesajı gönderilmemiş maçlar: İddaa oran kayıtlarındaki son
+    satırlar (veritabanı gerekmez: kayıttaki eşlenmiş adlarla)."""
     files = sorted((config.RAW_DIR / "iddaa").glob("odds_*.csv"))
     if not files:
         return pd.DataFrame()
@@ -62,9 +62,20 @@ def candidates(now_utc: pd.Timestamp | None = None) -> pd.DataFrame:
     last = df.sort_values("snapshot_utc").groupby("event_id").tail(1).dropna(subset=["home", "away"])
     now = now_utc if now_utc is not None else pd.Timestamp.now("UTC").tz_localize(None)
     mins = (pd.to_datetime(last["kickoff_utc"]) - now).dt.total_seconds() / 60
-    last = last[(mins >= PENCERE[0]) & (mins <= PENCERE[1])]
+    last = last[(mins >= pencere[0]) & (mins <= pencere[1])]
     sent = set(map(str, _state().get("gonderilen", [])))
     return last[~last["event_id"].astype(str).isin(sent)].assign(kickoff_utc=lambda d: pd.to_datetime(d["kickoff_utc"]))
+
+
+def wait_seconds(now_utc: pd.Timestamp | None = None, horizon_h: float = 8) -> int:
+    """GitHub'daki uzun işin döngüsü için: kontrol penceresine (PENCERE) girmiş maç varsa 0; yoksa önümüzdeki horizon_h
+    saatte ilk maçın pencereye girmesine kalan saniye; hiç maç yoksa -1 (iş kapanabilir)."""
+    now = now_utc if now_utc is not None else pd.Timestamp.now("UTC").tz_localize(None)
+    c = candidates(now, (PENCERE[0], horizon_h * 60))
+    if c.empty:
+        return -1
+    to_window = (c["kickoff_utc"].min() - pd.Timedelta(minutes=PENCERE[1]) - now).total_seconds()
+    return max(0, int(to_window))
 
 
 def _codes(div: str) -> list:
