@@ -1593,3 +1593,15 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-25 18:55,2026-10-25,25.10,D1,Freiburg,Bayern Munich,Freiburg – Bayern Münih,D1,🎲 Çılgın kupon,İY/MS 1/2,0.062241662666691816,17.55,0.09234117980044143,piyasa,,,,2026-10-25 19:30,,,,,,
 2026-10-25 18:55,2026-10-25,25.10,G1,Volos NFC,Panathinaikos,Volos – Panathinaikos,G1,🎲 Çılgın kupon,2.5 Alt,0.4681840075316524,2.25,0.053414016946217835,piyasa,,,,2026-10-25 19:00,,,,,,
 2026-10-25 18:55,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🎲 Çılgın kupon,KG Yok,0.5531067524994228,1.83,0.012185357073943637,piyasa,,,,2026-10-26 22:30,,,,,,
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,🟡 Tier 2 — Orta risk,MS 2,0.6565502737867075,1.4,-0.08082961669860955,piyasa,False,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.40674072470269906,2.18,-0.11330522014811595,piyasa,True,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.2741699733514586,3.27,-0.10346418714073036,piyasa,True,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7102817283773797,1.21,-0.14055910866337062,korner,False,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6203508631741999,1.4,-0.13150879155612027,korner,True,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,I1,Lecce,Juventus,Lecce – Juventus,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12225237125445976,7.34,-0.10266759499226541,piyasa,,,,2026-10-25 20:00,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,🟡 Tier 2 — Orta risk,MS 1,0.5996802062098001,1.42,-0.14845410718208385,piyasa,False,,,2026-10-25 20:30,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.41631807006452876,1.84,-0.23397475108126708,piyasa,True,,,2026-10-25 20:30,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.3175770554766553,2.5,-0.20605736130836172,piyasa,True,,,2026-10-25 20:30,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7899190329164748,1.25,-0.01260120885440652,korner,False,,,2026-10-25 20:30,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11245283319896703,7.45,-0.16222639266769567,piyasa,,,,2026-10-25 20:30,,,,,,kadro
+2026-10-25 19:44,2026-10-25,25.10,SP1,Sociedad,Levante,Real Sociedad – Levante,SP1,💎 Değeri pozitif olanlar,2.5 Alt,0.3904883080656231,2.57,0.003554951728651279,piyasa,,,,2026-10-25 20:30,,,,,,kadro
