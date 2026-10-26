@@ -2,9 +2,111 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/350 tuttu** (isabet %11, beklenen %11) · -86.12 birim · 32 tahmin sonuç bekliyor
+**37/350 tuttu** (isabet %11, beklenen %11) · -86.12 birim · 58 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10.2026 Salı
+
+**20:30 · Sassuolo – Lazio**
+
+- ⏳ 1-2 · @8.02
+
+**21:00 · Benevento – US Catanzaro 1929**
+
+- ⏳ 2-1 · @7.36
+
+**22:00 · Virtus Entella – AS Avellino 1912**
+
+- ⏳ 1-0 · @5.96
+
+**22:00 · AC Cesena – Empoli**
+
+- ⏳ 2-1 · @7.83
+
+**22:00 · Padova – FC Sudtirol**
+
+- ⏳ 1-0 · @6.46
+
+**22:00 · LR Vicenza Virtus – Modena FC**
+
+- ⏳ 1-2 · @7.82
+
+**22:00 · Mantova 1911 – Cremonese**
+
+- ⏳ 2-1 · @8.14
+
+**22:00 · Ascoli – Sampdoria**
+
+- ⏳ 2-1 · @8.11
+
+**22:45 · Leicester City – Wigan Athletic**
+
+- ⏳ 2-1 · @6.55
+
+**22:45 · AFC Fylde – Hartlepool**
+
+- ⏳ 2-1 · @6.59
+
+**22:45 · Oxford – Stockport**
+
+- ⏳ 1-2 · @6.79
+
+**22:45 · Torino – Como 1907**
+
+- ⏳ 1-2 · @7.44
+
+**22:45 · AS Roma – Cagliari**
+
+- ⏳ 2-1 · @7.68
+
+**22:45 · Luton Town – Doncaster**
+
+- ⏳ 2-1 · @6.45
+
+**22:45 · Boston United – Gateshead**
+
+- ⏳ 2-1 · @6.42
+
+**22:45 · MK Dons – Bromley**
+
+- ⏳ 2-1 · @6.44
+
+**22:45 · Altrincham – Kidderminster Harriers**
+
+- ⏳ 2-1 · @6.70
+
+**22:45 · Worthing – Southend**
+
+- ⏳ 1-2 · @7.69
+
+**22:45 · Barnet – York City**
+
+- ⏳ 2-1 · @7.02
+
+**22:45 · Woking – Boreham Wood**
+
+- ⏳ 1-2 · @6.54
+
+**22:45 · Sheffield Wednesday – Cambridge**
+
+- ⏳ 2-1 · @6.82
+
+**22:45 · Hornchurch – Yeovil Town**
+
+- ⏳ 1-2 · @7.26
+
+**22:45 · Halifax Town – Barrow**
+
+- ⏳ 2-1 · @7.34
+
+**22:45 · Wealdstone – Solihull Moors**
+
+- ⏳ 1-2 · @8.59
+
+**22:45 · Tamworth – Scunthorpe**
+
+- ⏳ 1-2 · @8.57
 
 ## 26.10.2026 Pazartesi
 
@@ -12,6 +114,7 @@
 
 - ⏳ 1-1 · @6.44
 - ⏳ 1-2 · @7.75
+- ⏳ 2-1 · @11.40
 
 **21:30 · Galatasaray – Fenerbahçe**
 

@@ -2,9 +2,62 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**226/437 tuttu** (isabet %52, beklenen %60) · -83.15 birim · 33 tahmin sonuç bekliyor
+**226/437 tuttu** (isabet %52, beklenen %60) · -83.15 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10.2026 Salı
+
+**20:30 · Sassuolo – Lazio**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.52
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.90
+
+**21:00 · Benevento – US Catanzaro 1929**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+
+**22:00 · Ascoli – Sampdoria**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+
+**22:00 · AC Cesena – Empoli**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.23
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
+
+**22:00 · LR Vicenza Virtus – Modena FC**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.26
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
+
+**22:00 · Virtus Entella – AS Avellino 1912**
+
+- ⏳ 🟡 En çok korner 1 · @1.45
+
+**22:00 · Mantova 1911 – Cremonese**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.53
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.90
+- ⏳ 🎯 En çok korner 2 · @2.05
+
+**22:00 · Padova – FC Sudtirol**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.57
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.97
+
+**22:45 · Torino – Como 1907**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
+- ⏳ 🎯 En çok korner 1 · @3.02
+
+**22:45 · AS Roma – Cagliari**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.65
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
 
 ## 26.10.2026 Pazartesi
 
@@ -29,6 +82,7 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.63
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
 
 **22:30 · FC Andorra – CF Burgos**
 
@@ -38,6 +92,8 @@
 
 - ⏳ 🟡 Korner 9.5 Üst · @1.61
 - ⏳ 🔴 ↳ Korner 10.5 Üst · @2.00
+- ⏳ 🟡 Korner 10.5 Alt · @1.53
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.88
 
 **23:00 · Sevilla – Osasuna**
 

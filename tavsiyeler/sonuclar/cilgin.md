@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/6 tuttu** (isabet %17, beklenen %27) · -3.75 birim · 16 tahmin sonuç bekliyor
+**1/6 tuttu** (isabet %17, beklenen %27) · -3.75 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10 16:17 gönderilen kupon · 6 maç, oran 908.825,38
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 26.10 19:00 Beşiktaş – Başakşehir · İY/MS 2/1 · @19.65
+- ⏳ 26.10 19:00 Rizespor – Trabzonspor · 2.5 Alt · @2.26
+- ⏳ 26.10 22:30 FC Andorra – CF Burgos · KG Yok · @1.81
+- ⏳ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.55
+- ⏳ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00
+- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.80
 
 ## 25.10 20:19 gönderilen kupon · 5 maç, oran 507.380,47
 

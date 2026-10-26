@@ -2,9 +2,119 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**83/190 tuttu** (isabet %44, beklenen %46) · -17.08 birim · 36 tahmin sonuç bekliyor
+**83/190 tuttu** (isabet %44, beklenen %46) · -17.08 birim · 69 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10.2026 Salı
+
+**20:30 · Sassuolo – Lazio**
+
+- ⏳ ↳ MS 2 · @2.01
+- ⏳ ↳ Korner 8.5 Alt · @1.90
+
+**21:00 · Benevento – US Catanzaro 1929**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.25
+
+**22:00 · AC Cesena – Empoli**
+
+- ⏳ ↳ MS 1 · @1.90
+
+**22:00 · LR Vicenza Virtus – Modena FC**
+
+- ⏳ ↳ MS 2 · @1.91
+
+**22:00 · Virtus Entella – AS Avellino 1912**
+
+- ⏳ ↳ MS 1 · @1.94
+
+**22:00 · Ascoli – Sampdoria**
+
+- ⏳ ↳ MS 1 · @2.05
+
+**22:00 · Mantova 1911 – Cremonese**
+
+- ⏳ ↳ MS 1 · @2.06
+- ⏳ ↳ Korner 8.5 Alt · @1.90
+
+**22:00 · Padova – FC Sudtirol**
+
+- ⏳ ↳ MS 1 · @2.23
+- ⏳ ↳ Korner 8.5 Alt · @1.97
+
+**22:45 · Luton Town – Doncaster**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.90
+
+**22:45 · Barnet – York City**
+
+- ⏳ ↳ MS 1 · @1.85
+
+**22:45 · Boston United – Gateshead**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.95
+
+**22:45 · Ross County – Hamilton**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+
+**22:45 · AFC Fylde – Hartlepool**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.07
+
+**22:45 · MK Dons – Bromley**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.06
+
+**22:45 · Torino – Como 1907**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.28
+
+**22:45 · Woking – Boreham Wood**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+
+**22:45 · Leicester City – Wigan Athletic**
+
+- ⏳ ↳ MS 1 & KG Var · @2.47
+
+**22:45 · Sheffield Wednesday – Cambridge**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.57
+
+**22:45 · Worthing – Southend**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.59
+
+**22:45 · AS Roma – Cagliari**
+
+- ⏳ ↳ MS 1 & KG Var · @2.92
+- ⏳ ↳ Korner 8.5 Alt · @2.10
+
+**22:45 · Oxford – Stockport**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.59
+
+**22:45 · Altrincham – Kidderminster Harriers**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.64
+
+**22:45 · Tamworth – Scunthorpe**
+
+- ⏳ ↳ MS 2 · @2.63
+
+**22:45 · Wealdstone – Solihull Moors**
+
+- ⏳ ↳ MS 2 · @2.68
+
+**22:45 · Halifax Town – Barrow**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.19
+
+**22:45 · Hornchurch – Yeovil Town**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.24
 
 ## 26.10.2026 Pazartesi
 
@@ -12,6 +122,7 @@
 
 - ⏳ ↳ Korner 8.5 Alt · @2.16
 - ⏳ ↳ MS 2 · @1.81
+- ⏳ ↳ MS 1 · @3.55
 
 **19:00 · Beşiktaş – Başakşehir**
 
@@ -31,6 +142,7 @@
 
 - ⏳ ↳ MS 1 & KG Var · @2.28
 - ⏳ ↳ Korner 10.5 Üst · @2.00
+- ⏳ ↳ Korner 9.5 Alt · @1.88
 
 **22:30 · FC Andorra – CF Burgos**
 
@@ -51,6 +163,7 @@
 **23:00 · Walsall – Salford City**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.79
+- ⏳ ↳ MS 2 · @1.99
 
 ## 25.10.2026 Pazar
 

@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/9 tuttu** (isabet %78, beklenen %61) · +2.73 birim · 6 tahmin sonuç bekliyor
+**7/9 tuttu** (isabet %78, beklenen %61) · +2.73 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10 16:17 gönderilen kupon · 5 maç, oran 11,52
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25
+- ⏳ 26.10 22:30 FC Andorra – CF Burgos · ÇŞ 1-X · @1.20
+- ⏳ 27.10 22:00 Mantova 1911 – Cremonese · En çok korner 2 · @2.05
+- ⏳ 27.10 22:45 AS Roma – Cagliari · MS 1 · @1.24
+- ⏳ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.02
 
 ## 25.10 20:19 gönderilen kupon · 5 maç, oran 12,38
 

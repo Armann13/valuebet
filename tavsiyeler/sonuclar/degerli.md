@@ -2,11 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/55 tuttu** (isabet %55, beklenen %43) · +13.93 birim · 2 tahmin sonuç bekliyor
+**30/55 tuttu** (isabet %55, beklenen %43) · +13.93 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.10.2026 Pazartesi
+
+**19:00 · Rizespor – Trabzonspor**
+
+- ⏳ 2.5 Alt · @2.26
 
 **22:30 · FC Andorra – CF Burgos**
 

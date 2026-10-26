@@ -2,9 +2,107 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/140 tuttu** (isabet %32, beklenen %33) · -20.38 birim · 20 tahmin sonuç bekliyor
+**45/140 tuttu** (isabet %32, beklenen %33) · -20.38 birim · 44 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10.2026 Salı
+
+**20:30 · Sassuolo – Lazio**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.92
+
+**21:00 · Benevento – US Catanzaro 1929**
+
+- ⏳ ↳ MS 1 & KG Var · @3.09
+
+**22:00 · LR Vicenza Virtus – Modena FC**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.84
+
+**22:00 · AC Cesena – Empoli**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.01
+
+**22:00 · Ascoli – Sampdoria**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.29
+
+**22:00 · Virtus Entella – AS Avellino 1912**
+
+- ⏳ ↳ İY/MS 1/1 · @3.04
+
+**22:00 · Mantova 1911 – Cremonese**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.41
+
+**22:00 · Padova – FC Sudtirol**
+
+- ⏳ ↳ İY/MS 1/1 · @3.61
+
+**22:45 · Barnet – York City**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+
+**22:45 · Luton Town – Doncaster**
+
+- ⏳ ↳ MS 1 & KG Var · @2.60
+
+**22:45 · Boston United – Gateshead**
+
+- ⏳ ↳ MS 1 & KG Var · @2.69
+
+**22:45 · AFC Fylde – Hartlepool**
+
+- ⏳ ↳ MS 1 & KG Var · @2.69
+
+**22:45 · MK Dons – Bromley**
+
+- ⏳ ↳ MS 1 & KG Var · @2.79
+
+**22:45 · Ross County – Hamilton**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**22:45 · Woking – Boreham Wood**
+
+- ⏳ ↳ MS 2 & KG Var · @2.96
+
+**22:45 · Torino – Como 1907**
+
+- ⏳ ↳ MS 2 & KG Var · @3.08
+
+**22:45 · Worthing – Southend**
+
+- ⏳ ↳ MS 2 & KG Var · @3.08
+
+**22:45 · Oxford – Stockport**
+
+- ⏳ ↳ MS 2 & KG Var · @3.29
+
+**22:45 · Altrincham – Kidderminster Harriers**
+
+- ⏳ ↳ MS 1 & KG Var · @3.41
+
+**22:45 · Sheffield Wednesday – Cambridge**
+
+- ⏳ ↳ MS 1 & KG Var · @3.27
+
+**22:45 · Tamworth – Scunthorpe**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.56
+
+**22:45 · Wealdstone – Solihull Moors**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.72
+
+**22:45 · Halifax Town – Barrow**
+
+- ⏳ ↳ MS 1 & KG Var · @3.89
+
+**22:45 · Hornchurch – Yeovil Town**
+
+- ⏳ ↳ MS 2 & KG Var · @4.01
 
 ## 26.10.2026 Pazartesi
 
