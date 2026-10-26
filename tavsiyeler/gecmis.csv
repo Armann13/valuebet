@@ -1904,3 +1904,21 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5561948688091043,1.53,-0.14902185072207041,korner,False,,,2026-10-26 22:30,,,,,,kadro
 2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4562400817213378,1.88,-0.14226864636388503,korner,True,,,2026-10-26 22:30,,,,,,kadro
 2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12004510205238365,7.88,-0.05404459582721677,piyasa,,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Montpellier,Red Star,Montpellier – Red Star FC,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.735511669070609,1.21,-0.1100308804245631,oran,False,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Boulogne,Reims,US Boulogne – Reims,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7084853966841558,1.25,-0.11439325414480528,oran,False,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Montpellier,Red Star,Montpellier – Red Star FC,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.4338066254534944,2.08,-0.09768221905673158,oran,True,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Boulogne,Reims,US Boulogne – Reims,F2,🔴 Tier 3 — Yüksek risk,MS 2,0.42250044431296085,2.13,-0.10007405361339339,oran,True,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Montpellier,Red Star,Montpellier – Red Star FC,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.27687762612136024,3.23,-0.10568526762800645,oran,True,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Boulogne,Reims,US Boulogne – Reims,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 2/2,0.2490219244114891,3.4,-0.15332545700093714,oran,True,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Boulogne,Reims,US Boulogne – Reims,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.10892002733415898,6.53,-0.2887522215079418,oran,,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,F2,Montpellier,Red Star,Montpellier – Red Star FC,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10488875595287861,8.1,-0.15040107678168335,oran,,,,2026-10-26 22:45,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,E3,Walsall,Salford,Walsall – Salford City,E3,🟢 Tier 1 — Düşük risk,ÇŞ X-2,0.7128659507909444,1.22,-0.13030354003504785,piyasa,False,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7126517447896119,1.22,-0.1305648713566735,piyasa,False,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,🔴 Tier 3 — Yüksek risk,MS 1,0.49757498277324885,1.76,-0.12426803031908207,piyasa,True,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,E3,Walsall,Salford,Walsall – Salford City,E3,🔴 Tier 3 — Yüksek risk,MS 2,0.45135491449948795,1.99,-0.10180372014601902,piyasa,True,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.28847382630428453,2.71,-0.21823593071538894,piyasa,True,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,E3,Walsall,Salford,Walsall – Salford City,E3,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2841596793920376,2.96,-0.1588873489995687,piyasa,True,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7184001943084138,1.21,-0.13073576488681926,korner,False,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.623502472698295,1.41,-0.1208615134954042,korner,True,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,SP1,Sevilla,Osasuna,Sevilla – Osasuna,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.1265636396369161,5.63,-0.28744670884416235,piyasa,,,,2026-10-26 23:00,,,,,,kadro
+2026-10-26 22:10,2026-10-26,26.10,E3,Walsall,Salford,Walsall – Salford City,E3,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12478730105524793,7.1,-0.11401016250773965,piyasa,,,,2026-10-26 23:00,,,,,,kadro
