@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/55 tuttu** (isabet %55, beklenen %43) · +13.93 birim · 3 tahmin sonuç bekliyor
+**30/56 tuttu** (isabet %54, beklenen %43) · +12.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **19:00 · Rizespor – Trabzonspor**
 
-- ⏳ 2.5 Alt · @2.26
+- ❌ 2.5 Alt · @2.26 · 3-4
 
 **22:30 · FC Andorra – CF Burgos**
 

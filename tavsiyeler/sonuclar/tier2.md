@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**123/212 tuttu** (isabet %58, beklenen %63) · -26.66 birim · 60 tahmin sonuç bekliyor
+**125/218 tuttu** (isabet %57, beklenen %63) · -29.65 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -115,18 +115,18 @@
 
 **19:00 · Rizespor – Trabzonspor**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.40
-- ⏳ ÇŞ 1-X · @1.77
+- ✅ ↳ Korner 10.5 Alt · @1.40 · korner 4-4
+- ❌ ÇŞ 1-X · @1.77 · 3-4
 
 **19:00 · Beşiktaş – Başakşehir**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.60
-- ⏳ Korner 10.5 Alt · @1.61
+- ❌ ↳ MS 1 & 2.5 Üst · @1.60 · 2-0
+- ✅ Korner 10.5 Alt · @1.61 · korner 5-2
 
 **21:30 · Galatasaray – Fenerbahçe**
 
-- ⏳ ÇŞ X-2 · @1.53
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ❌ ÇŞ X-2 · @1.53 · 2-1
+- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 10-4
 
 **21:45 · Santa Clara – Benfica**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/140 tuttu** (isabet %32, beklenen %33) · -20.38 birim · 44 tahmin sonuç bekliyor
+**46/144 tuttu** (isabet %32, beklenen %33) · -21.87 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -108,13 +108,13 @@
 
 **19:00 · Rizespor – Trabzonspor**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.94
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.51
+- ❌ ↳ Korner 7.5 Alt · @2.94 · korner 4-4
+- ✅ ↳ MS 2 & 2.5 Üst · @2.51 · 3-4
 
 **21:30 · Galatasaray – Fenerbahçe**
 
-- ⏳ KG Yok · @2.55
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.73
+- ❌ KG Yok · @2.55 · 2-1
+- ❌ ↳ MS 2 & 2.5 Üst · @3.73 · 2-1
 
 **22:45 · Montpellier – Red Star FC**
 

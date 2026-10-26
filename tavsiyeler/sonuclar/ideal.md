@@ -2,15 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/9 tuttu** (isabet %78, beklenen %61) · +2.73 birim · 11 tahmin sonuç bekliyor
+**9/11 tuttu** (isabet %82, beklenen %64) · +3.23 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.10 16:17 gönderilen kupon · 5 maç, oran 11,52
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25
+- ✅ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25 · 2-0
 - ⏳ 26.10 22:30 FC Andorra – CF Burgos · ÇŞ 1-X · @1.20
 - ⏳ 27.10 22:00 Mantova 1911 – Cremonese · En çok korner 2 · @2.05
 - ⏳ 27.10 22:45 AS Roma – Cagliari · MS 1 · @1.24
@@ -18,12 +18,12 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 25.10 20:19 gönderilen kupon · 5 maç, oran 12,38
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ⏳ 25.10 20:30 Castellon – S.Gijon · MS 1 & KG Var · @2.96
 - ✅ 25.10 21:15 Union Saint Gilloise – Cercle Brugge · MS 1 · @1.24 · 5-2
 - ✅ 25.10 22:45 Udinese – AC Milan · En çok korner 1 · @2.23 · korner 5-4
-- ⏳ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25
+- ✅ 26.10 19:00 Beşiktaş – Başakşehir · MS 1 · @1.25 · 2-0
 - ⏳ 26.10 22:30 FC Andorra – CF Burgos · ÇŞ 1-X · @1.21
 
 ## 25.10 18:55 gönderilen kupon · 5 maç, oran 11,95

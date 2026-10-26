@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/58 tuttu** (isabet %17, beklenen %16) · -2.93 birim · 4 tahmin sonuç bekliyor
+**10/59 tuttu** (isabet %17, beklenen %16) · -3.93 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **19:00 · Beşiktaş – Başakşehir**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 2-0
 
 **21:45 · Santa Clara – Benfica**
 

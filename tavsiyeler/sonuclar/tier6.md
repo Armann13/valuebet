@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/350 tuttu** (isabet %11, beklenen %11) · -86.12 birim · 58 tahmin sonuç bekliyor
+**37/355 tuttu** (isabet %10, beklenen %11) · -91.12 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -112,14 +112,14 @@
 
 **19:00 · Rizespor – Trabzonspor**
 
-- ⏳ 1-1 · @6.44
-- ⏳ 1-2 · @7.75
-- ⏳ 2-1 · @11.40
+- ❌ 1-1 · @6.44 · 3-4
+- ❌ 1-2 · @7.75 · 3-4
+- ❌ 2-1 · @11.40 · 3-4
 
 **21:30 · Galatasaray – Fenerbahçe**
 
-- ⏳ 2-0 · @12.65
-- ⏳ 1-2 · @9.75
+- ❌ 2-0 · @12.65 · 2-1
+- ❌ 1-2 · @9.75 · 2-1
 
 **22:30 · Paris Saint Germain – Lyon**
 
