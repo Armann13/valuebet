@@ -43,9 +43,9 @@ Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji k
 
 | grup | sonuç sayısı | maç | ort. oran | CLV ilk oran_% | ±GA_% | CLV son oran_% | CLV>0_% | ROI_% |
 |---|---|---|---|---|---|---|---|---|
-| Tüm İddaa fiyatları | 1915 | 389 | 2.64 | -13.65 | 0.34 | -13.86 | 2.04 | -15.87 |
-| İddaa > keskin açılış adil fiyatı | 0 | 0 | — | — | — | — | — | — |
-| Model edge ≥ %3 (onaysız) | 236 | 171 | 4.23 | -16.32 | 1.31 | -16.85 | 3.39 | -28.71 |
-| Model edge + keskin onay (VALUE) | 0 | 0 | — | — | — | — | — | — |
+| Tüm İddaa fiyatları | 2234 | 454 | 2.63 | -13.58 | 0.32 | -13.82 | 2.37 | -15.49 |
+| İddaa > keskin açılış adil fiyatı | 1 | 1 | 2.33 | 10.63 | — | -8.36 | 100.00 | -100.00 |
+| Model edge ≥ %3 (onaysız) | 265 | 194 | 4.19 | -16.05 | 1.24 | -16.92 | 4.91 | -29.04 |
+| Model edge + keskin onay (VALUE) | 1 | 1 | 2.33 | 10.63 | — | -8.36 | 100.00 | -100.00 |
 
-Sonuçlanmamış (açık) maç: 273. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
+Sonuçlanmamış (açık) maç: 304. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
