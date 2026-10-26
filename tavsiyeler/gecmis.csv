@@ -1898,3 +1898,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.28080731536397296,2.85,-0.199699151212677,piyasa,True,,,2026-10-26 22:30,,,,,,kadro
 2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🟡 Tier 2 — Orta risk,En çok korner 1,0.6719049413321188,1.44,-0.03245688448174899,korner,False,,,2026-10-26 22:30,,,,,,kadro
 2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.16058198190268932,6.17,-0.009209171660406912,piyasa,,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🟢 Tier 1 — Düşük risk,2.5 Üst,0.7004253591541724,1.24,-0.13147255464882623,piyasa,False,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5311008296013945,1.51,-0.19803774730189427,piyasa,True,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3813860360147246,2.18,-0.16857844148790035,piyasa,True,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5561948688091043,1.53,-0.14902185072207041,korner,False,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4562400817213378,1.88,-0.14226864636388503,korner,True,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:48,2026-10-26,26.10,F1,Paris SG,Lyon,Paris Saint Germain – Lyon,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12004510205238365,7.88,-0.05404459582721677,piyasa,,,,2026-10-26 22:30,,,,,,kadro
