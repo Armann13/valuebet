@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**125/218 tuttu** (isabet %57, beklenen %63) · -29.65 birim · 54 tahmin sonuç bekliyor
+**126/219 tuttu** (isabet %58, beklenen %63) · -29.02 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -44,6 +44,7 @@
 **22:45 · Luton Town – Doncaster**
 
 - ⏳ MS 1 · @1.40
+- ⏳ KG Var · @1.48
 
 **22:45 · Boston United – Gateshead**
 
@@ -130,7 +131,7 @@
 
 **21:45 · Santa Clara – Benfica**
 
-- ⏳ Korner 9.5 Alt · @1.63
+- ✅ Korner 9.5 Alt · @1.63 · korner 2-3
 
 **22:30 · FC Andorra – CF Burgos**
 

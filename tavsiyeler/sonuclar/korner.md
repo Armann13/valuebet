@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**231/445 tuttu** (isabet %52, beklenen %60) · -82.77 birim · 49 tahmin sonuç bekliyor
+**234/448 tuttu** (isabet %52, beklenen %60) · -80.86 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -53,6 +53,7 @@
 - ⏳ 🟢 Korner 10.5 Alt · @1.22
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
 - ⏳ 🎯 En çok korner 1 · @3.02
+- ⏳ 🎯 En çok korner 1 · @3.09
 
 **22:45 · AS Roma – Cagliari**
 
@@ -80,9 +81,9 @@
 
 **21:45 · Santa Clara – Benfica**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.63
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ✅ 🟡 Korner 9.5 Alt · @1.63 · korner 2-3
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.08 · korner 2-3
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 2-3
 
 **22:30 · FC Andorra – CF Burgos**
 

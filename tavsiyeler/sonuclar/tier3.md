@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**86/196 tuttu** (isabet %44, beklenen %46) · -17.11 birim · 63 tahmin sonuç bekliyor
+**87/197 tuttu** (isabet %44, beklenen %46) · -16.03 birim · 62 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -136,7 +136,7 @@
 **21:45 · Santa Clara – Benfica**
 
 - ⏳ ↳ İY/MS 2/2 · @1.74
-- ⏳ ↳ Korner 8.5 Alt · @2.08
+- ✅ ↳ Korner 8.5 Alt · @2.08 · korner 2-3
 
 **22:30 · Paris Saint Germain – Lyon**
 

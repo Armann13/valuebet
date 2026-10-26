@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/11 tuttu** (isabet %82, beklenen %64) · +3.23 birim · 9 tahmin sonuç bekliyor
+**9/11 tuttu** (isabet %82, beklenen %64) · +3.23 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.10 23:36 gönderilen kupon · 6 maç, oran 40,01
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 27.10 22:00 LR Vicenza Virtus – Modena FC · ÇŞ 1-2 · @1.20
+- ⏳ 27.10 22:45 AS Roma – Cagliari · MS 1 · @1.22
+- ⏳ 27.10 22:45 Leicester City – Wigan Athletic · MS 1 · @1.26
+- ⏳ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.09
+- ⏳ 27.10 22:45 Luton Town – Doncaster · MS 1 & KG Var · @2.59
+- ⏳ 27.10 22:45 Boston United – Gateshead · MS 1 & KG Var · @2.71
 
 ## 26.10 16:17 gönderilen kupon · 5 maç, oran 11,52
 

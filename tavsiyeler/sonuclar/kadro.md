@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 76 | 43 | 17 | -14.43 |
-| sonra | 106 | 79 | 26 | -33.13 |
+| önce | 76 | 47 | 21 | -12.27 |
+| sonra | 106 | 82 | 29 | -32.23 |
 
-Değişen tahmin: 18 (10 sonuçlandı: eski 7, yeni 4 tuttu).
+Değişen tahmin: 18 (11 sonuçlandı: eski 8, yeni 5 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -67,9 +67,9 @@ Kadro mesajı: 26.10 21:35
 
 Kadro mesajı: 26.10 20:53
 
-- 🟢 Tier 1: ⏳ MS 2 @1.25, ⏳ Korner 11.5 Alt @1.20 → ⏳ MS 2 @1.27, ⏳ Korner 11.5 Alt @1.22 (aynı)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.63 → ⏳ Korner 10.5 Alt @1.41 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @1.74, ⏳ Korner 8.5 Alt @2.08 → ⏳ İY/MS 2/2 @1.76 (değişti)
+- 🟢 Tier 1: ✅ MS 2 @1.25, ✅ Korner 11.5 Alt @1.20 → ✅ MS 2 @1.27, ✅ Korner 11.5 Alt @1.22 (aynı)
+- 🟡 Tier 2: ✅ Korner 9.5 Alt @1.63 → ✅ Korner 10.5 Alt @1.41 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @1.74, ✅ Korner 8.5 Alt @2.08 → ⏳ İY/MS 2/2 @1.76 (değişti)
 
 ## 26.10 · Galatasaray – Fenerbahçe
 

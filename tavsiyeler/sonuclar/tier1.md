@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**114/156 tuttu** (isabet %73, beklenen %77) · -16.52 birim · 34 tahmin sonuç bekliyor
+**116/158 tuttu** (isabet %73, beklenen %77) · -16.07 birim · 34 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,11 +29,13 @@
 **22:00 · Mantova 1911 – Cremonese**
 
 - ⏳ ÇŞ 1-2 · @1.23
+- ⏳ ÇŞ 1-X · @1.23
 
 **22:00 · Ascoli – Sampdoria**
 
 - ⏳ ÇŞ 1-X · @1.24
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ ÇŞ 1-2 · @1.24
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
@@ -80,8 +82,8 @@
 
 **21:45 · Santa Clara – Benfica**
 
-- ⏳ MS 2 · @1.25
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ MS 2 · @1.25 · 1-2
+- ✅ Korner 11.5 Alt · @1.20 · korner 2-3
 
 **22:30 · FC Andorra – CF Burgos**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/59 tuttu** (isabet %17, beklenen %16) · -3.93 birim · 3 tahmin sonuç bekliyor
+**10/60 tuttu** (isabet %17, beklenen %16) · -4.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **21:45 · Santa Clara – Benfica**
 
-- ⏳ 0-1 · @5.52
+- ❌ 0-1 · @5.52 · 1-2
 
 **22:30 · FC Andorra – CF Burgos**
 

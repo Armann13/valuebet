@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 26.10.2026 20:36. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 26.10.2026 20:49. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,16 +8,16 @@ Son güncelleme: 26.10.2026 20:36. Sadece Telegram'da gönderilen tahminler (ilk
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| [🟢 Tier 1](sonuclar/tier1.md) | 190 | 156 | 114 | %73 | %77 | -16.52 | %-11 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 272 | 218 | 125 | %57 | %63 | -29.65 | %-14 |
-| [🔴 Tier 3](sonuclar/tier3.md) | 259 | 196 | 86 | %44 | %46 | -17.11 | %-9 |
+| [🟢 Tier 1](sonuclar/tier1.md) | 192 | 158 | 116 | %73 | %77 | -16.07 | %-10 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 273 | 219 | 126 | %58 | %63 | -29.02 | %-13 |
+| [🔴 Tier 3](sonuclar/tier3.md) | 259 | 197 | 87 | %44 | %46 | -16.03 | %-8 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 184 | 144 | 46 | %32 | %33 | -21.87 | %-15 |
-| [⚡ Tier 5](sonuclar/tier5.md) | 62 | 59 | 10 | %17 | %16 | -3.93 | %-7 |
+| [⚡ Tier 5](sonuclar/tier5.md) | 62 | 60 | 10 | %17 | %16 | -4.93 | %-8 |
 | [🔥 Tier 6](sonuclar/tier6.md) | 408 | 355 | 37 | %10 | %11 | -91.12 | %-26 |
-| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 494 | 445 | 231 | %52 | %60 | -82.77 | %-19 |
+| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 495 | 448 | 234 | %52 | %60 | -80.86 | %-18 |
 | [🎰 Sistem ayakları](sonuclar/sistem.md) | 311 | 294 | 161 | %55 | %66 | -57.18 | %-19 |
-| [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 20 | 11 | 9 | %82 | %64 | +3.23 | %29 |
-| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 28 | 7 | 1 | %14 | %30 | -4.75 | %-68 |
+| [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 26 | 11 | 9 | %82 | %64 | +3.23 | %29 |
+| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 32 | 7 | 1 | %14 | %30 | -4.75 | %-68 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 58 | 56 | 30 | %54 | %43 | +12.93 | %23 |
 
 ## Sistem kuponları
@@ -76,10 +76,10 @@ Kadro güncellemesi gelen 25 maçta (Tier 1-4) ilk verilen tahmin ile kadrolar a
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 76 | 43 | 17 | -14.43 |
-| sonra | 106 | 79 | 26 | -33.13 |
+| önce | 76 | 47 | 21 | -12.27 |
+| sonra | 106 | 82 | 29 | -32.23 |
 
-Değişen tahmin: 18 (10 sonuçlandı: eski 7, yeni 4 tuttu).
+Değişen tahmin: 18 (11 sonuçlandı: eski 8, yeni 5 tuttu).
 
 ## İdeal kuponlar
 
@@ -91,6 +91,7 @@ Değişen tahmin: 18 (10 sonuçlandı: eski 7, yeni 4 tuttu).
 | 25.10 18:55 | 5 | 11,95 | 2/5 | ⏳ |
 | 25.10 20:19 | 5 | 12,38 | 3/5 | ⏳ |
 | 26.10 16:17 | 5 | 11,52 | 1/5 | ⏳ |
+| 26.10 23:36 | 6 | 40,01 | 0/6 | ⏳ |
 
 ## Çılgın kuponlar
 
@@ -103,6 +104,7 @@ Değişen tahmin: 18 (10 sonuçlandı: eski 7, yeni 4 tuttu).
 | 25.10 18:55 | 6 | 1.165.313,48 | 1/6 | ⏳ |
 | 25.10 20:19 | 5 | 507.380,47 | 0/5 | ⏳ |
 | 26.10 16:17 | 6 | 908.825,38 | 0/6 | ⏳ |
+| 26.10 23:36 | 4 | 248.179,21 | 0/4 | ⏳ |
 
 ## Gün gün
 
@@ -132,5 +134,5 @@ Değişen tahmin: 18 (10 sonuçlandı: eski 7, yeni 4 tuttu).
 | 23.10.2026 | 19 | 17 | 11 | %65 | %42 | +5.63 |
 | 24.10.2026 | 100 | 96 | 28 | %29 | %40 | -29.17 |
 | 25.10.2026 | 143 | 109 | 43 | %39 | %39 | -11.12 |
-| 26.10.2026 | 84 | 30 | 11 | %37 | %44 | -12.35 |
-| 27.10.2026 | 130 | 0 | 0 | — | — | — |
+| 26.10.2026 | 84 | 35 | 15 | %43 | %45 | -11.19 |
+| 27.10.2026 | 143 | 0 | 0 | — | — | — |
