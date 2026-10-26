@@ -1881,3 +1881,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,2.5 Alt,0.44337060538614265,2.37,0.050788334765158094,piyasa,,,,2026-10-26 19:00,,,,,,kadro
 2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,KG Yok,0.4306164337141781,2.37,0.0205609479026021,piyasa,,,,2026-10-26 19:00,,,,,,kadro
 2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,MS 1,0.2742494160577142,3.65,0.0010103686106568421,piyasa,,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,🟡 Tier 2 — Orta risk,ÇŞ X-2,0.5679906602091143,1.63,-0.07417522385914377,piyasa,False,,,2026-10-26 21:30,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,🔴 Tier 3 — Yüksek risk,MS 2,0.3187533811234724,3.09,-0.015052052328470289,piyasa,True,,,2026-10-26 21:30,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2270834403252274,4.41,0.0014379718342527603,piyasa,True,,,2026-10-26 21:30,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7047837341846173,1.25,-0.11902033226922848,korner,False,,,2026-10-26 21:30,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6141676339151296,1.44,-0.11559860716221337,korner,True,,,2026-10-26 21:30,,,,,,kadro
+2026-10-26 20:41,2026-10-26,26.10,T1,Galatasaray,Fenerbahce,Galatasaray – Fenerbahçe,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.08004777716041585,10.35,-0.17150550638969597,piyasa,,,,2026-10-26 21:30,,,,,,kadro
