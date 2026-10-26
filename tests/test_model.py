@@ -583,15 +583,15 @@ def test_kupon():
                                           ("E", "MS 1", 0.72, 1.3)]])
     up = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": -0.05}
                        for m, t, p, o in [("A", "En çok korner 1", 0.5, 1.9), ("F", "Korner 10.5 Üst", 0.48, 2.0),
-                                          ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2)]])
+                                          ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2),
+                                          ("I", "En çok korner 1", 0.38, 2.8), ("J", "MS 1 & KG Var", 0.30, 3.0)]])
     pool = lambda u: pd.concat([t1, u], ignore_index=True)  # noqa: E731  (tüm adaylar; seviye bantlarıyla seçilir)
-    # 2 yükseltici: biri 2.50+ (H 2.20'de kalır: G 2.70), diğeri 1.80+ (H)
+    # yükselticiler 2.50+, en olası en fazla 3 (H 2.20'de kalır): I, G, J
     idl = _ideal(pool(up), now)
-    assert list(idl["maç"]) == ["A", "B", "D", "G", "H"], idl
-    assert list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "MS 2 & KG Var", "En çok korner 2"]
-    up.loc[up["maç"] == "H", "odd"] = 2.6  # H 2.50+ için de uygun ve G'den olası: önce H
-    assert list(_ideal(pool(up), now)["maç"]) == ["A", "B", "D", "H", "G"]
-    assert _ideal(pool(up[up["maç"] == "G"]), now).empty  # tek yükseltici var: kupon yok
+    assert list(idl["maç"]) == ["A", "B", "D", "I", "G", "J"], idl
+    assert list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 1", "MS 2 & KG Var", "MS 1 & KG Var"]
+    assert list(_ideal(pool(up[up["maç"].isin(["G", "J"])]), now)["maç"]) == ["A", "B", "D", "G", "J"]  # 2 yeter
+    assert _ideal(pool(up[up["maç"].isin(["G", "H"])]), now).empty  # 2.50+ tek yükseltici var: kupon yok
     assert _ideal(pool(up[up["maç"] == "F"]), now).empty  # uygun yükseltici yok
     assert _ideal(pool(up.assign(odd=1.6)), now).empty  # yükseltici oranı çok düşük
     assert _ideal(pool(up[up["maç"] == "Z"]), now).empty  # yükseltici adayı yok

@@ -35,7 +35,7 @@ BASLIK = {  # simge -> (başlık, açıklama)
     "🔥": ("TIER 6", "kesin skor · yukarıdaki maçlar"),
     "🔀": ("TIER 8", "ilk yarı / maç sonu"), "🚩": ("KORNER", "kulüp maçları"),
     "🎫": ("KOMBİNE KUPON", "orta risk"), "🎰": ("SİSTEM KUPON", ""),
-    "🎯": ("İDEAL KUPON", "3 banko + 2 oran yükseltici"),
+    "🎯": ("İDEAL KUPON", "3 banko + 2-3 oran yükseltici (2.50+)"),
     "🎲": ("ÇILGIN KUPON", "İY/MS dönüşleri + 💎 · piyango gibi")}
 CIZGI = "━━━━━━━━━━━━━━━"
 
@@ -133,10 +133,10 @@ def _tl(x: float) -> str:
 def _coupon_lines(soon: pd.DataFrame, now_tr: datetime, log: list, icon: str) -> list:
     """Kupon bölümü (🎯 ideal, 🎲 çılgın): ayaklar ve toplam oran; hepsi tutmalı. Bir ayağın oranı kapandıysa
     (oynanamaz) kupon eksik kalmasın diye hiç gösterilmez."""
-    from src.tavsiye import CILGIN_N, IDEAL_BANKO, IDEAL_YUKSELTICI_MIN
+    from src.tavsiye import CILGIN_N, IDEAL_BANKO, IDEAL_YUKSELTICI
     rows = soon[soon["seviye"].str.startswith(icon)]
     t = _playable(rows)
-    need = IDEAL_BANKO + len(IDEAL_YUKSELTICI_MIN) if icon == "🎯" else CILGIN_N
+    need = IDEAL_BANKO + IDEAL_YUKSELTICI[0] if icon == "🎯" else CILGIN_N
     if len(t) < len(rows) or (t["tahmin"].str.startswith("İY/MS").sum() if icon == "🎲" else len(t)) < need:
         return []
     log += t.to_dict("records")

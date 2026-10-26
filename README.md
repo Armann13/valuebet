@@ -140,7 +140,8 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
   veriyordu; 2016-22'de öğrenip 2022/23+'da test edildi). Tutma ihtimali yüz binlerde bir: piyango.
 - **🎯 İdeal kupon:** Tier 1'den en olası 3 banko (sadece tek MS / çifte şans) + Tier 3-4'ten en olası 2 oran
   yükseltici (sadece en çok korner / MS & KG Var; biri en az 2.50, diğeri en az 1.80), hepsi farklı maçlar; toplam oran
-  ~12, yaklaşık 12-13 kuponda 1 tutar (`IDEAL_YUKSELTICI_MIN`; tek yükseltici 1.80+ iken ~3.8'di). Türler 2026-10-24'e kadarki
+  ~12-30 (2026-10-26'dan beri yükselticilerin hepsi 2.50+, en az 2 en fazla 3: `IDEAL_YUKSELTICI_MIN`,
+  `IDEAL_YUKSELTICI`; tek yükseltici 1.80+ iken ~3.8'di). Türler 2026-10-24'e kadarki
   sonuçlara göre seçildi (992 sonuçlanan tahmin): bankolar beklenen kadar ya da üstünde, bu iki yükseltici türü
   beklenenden iyi; korner üst yükseltici olmaz (3/26). Sonuçta bir bütün olarak takip.
 - 🎰 Sistem kupon 2026-10-24'te kaldırıldı (31 kuponda 283 birim yatırıldı, 71 döndü); eski kuponlar sonuçlarda kalır.

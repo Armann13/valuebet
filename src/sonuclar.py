@@ -511,7 +511,7 @@ def summary_md(log: pd.DataFrame) -> str:
                f"| sonra | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | {s['kâr']:+.2f} |", "",
                f"Değişen tahmin: {d['n']} ({d['bitti']} sonuçlandı: eski {d['eski']}, yeni {d['yeni']} tuttu)."]
     notes = {"🎯": "3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; "
-                   "25.10'dan beri 2 tane)",
+                   "25.10'dan beri 2, 26.10'dan beri 2.50+ oranlı 2-3 tane)",
              "🎲": "İY/MS dönüşleri + 💎"}
     for icon, name in TEK_KOLON.items():
         cr = systems(log, icon)
