@@ -1867,3 +1867,17 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-26 16:17,2026-10-27,27.10,EC,Woking,Boreham Wood,Woking – Boreham Wood,EC,🎲 Çılgın kupon,İY/MS 1/2,0.05011311838125852,21.8,0.09246598071143586,oran,,,,2026-10-27 22:45,,,,,,
 2026-10-26 16:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,🎲 Çılgın kupon,2.5 Alt,0.44337060538574824,2.26,0.0020175681717908844,piyasa,,,,2026-10-26 19:00,,,,,,
 2026-10-26 16:17,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🎲 Çılgın kupon,KG Yok,0.5530481046808302,1.81,0.001017069472302623,piyasa,,,,2026-10-26 22:30,,,,,,
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,🟢 Tier 1 — Düşük risk,MS 1,0.7377329908744823,1.29,-0.04832444177191786,oran,False,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5667055277153841,1.66,-0.05926882399246247,oran,True,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.5034467998068172,1.8,-0.09379576034772907,piyasa,False,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,🔴 Tier 3 — Yüksek risk,MS 1,0.2742494160577142,3.65,0.0010103686106568421,piyasa,True,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.4352928922938055,2.37,0.0316441547363191,oran,True,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7351450650594202,1.21,-0.1104744712781015,korner,False,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6475768860622186,1.4,-0.09339235951289393,korner,True,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5930211969581369,1.61,-0.0452358728973995,korner,False,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.49187052782928287,2.0,-0.016258944341434267,korner,True,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Besiktas,Buyuksehyr,Beşiktaş – Başakşehir,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.17277870170044443,7.54,0.30275141082135093,oran,,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.06972211534281046,11.75,-0.18076514472197702,piyasa,,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,2.5 Alt,0.44337060538614265,2.37,0.050788334765158094,piyasa,,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,KG Yok,0.4306164337141781,2.37,0.0205609479026021,piyasa,,,,2026-10-26 19:00,,,,,,kadro
+2026-10-26 18:17,2026-10-26,26.10,T1,Rizespor,Trabzonspor,Rizespor – Trabzonspor,T1,💎 Değeri pozitif olanlar,MS 1,0.2742494160577142,3.65,0.0010103686106568421,piyasa,,,,2026-10-26 19:00,,,,,,kadro
