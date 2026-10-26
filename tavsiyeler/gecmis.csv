@@ -1893,3 +1893,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-26 20:53,2026-10-26,26.10,P1,Santa Clara,Benfica,Santa Clara – Benfica,P1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6270553346992344,1.41,-0.11585197807407965,korner,True,,,2026-10-26 21:45,,,,,,kadro
 2026-10-26 20:53,2026-10-26,26.10,P1,Santa Clara,Benfica,Santa Clara – Benfica,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.16010368520807014,6.76,0.0823009120065541,piyasa,,,,2026-10-26 21:45,,,,,,kadro
 2026-10-26 20:53,2026-10-26,26.10,P1,Santa Clara,Benfica,Santa Clara – Benfica,P1,💎 Değeri pozitif olanlar,2.5 Alt,0.4803305092460722,2.11,0.013497374509212179,piyasa,,,,2026-10-26 21:45,,,,,,kadro
+2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7277517249852006,1.22,-0.11214289551805534,piyasa,False,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🟡 Tier 2 — Orta risk,MS 1,0.5024666229806016,1.84,-0.07546141371569293,piyasa,True,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.28080731536397296,2.85,-0.199699151212677,piyasa,True,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,🟡 Tier 2 — Orta risk,En çok korner 1,0.6719049413321188,1.44,-0.03245688448174899,korner,False,,,2026-10-26 22:30,,,,,,kadro
+2026-10-26 21:35,2026-10-26,26.10,SP2,Andorra,Burgos,FC Andorra – CF Burgos,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.16058198190268932,6.17,-0.009209171660406912,piyasa,,,,2026-10-26 22:30,,,,,,kadro
