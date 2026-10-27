@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**129/227 tuttu** (isabet %57, beklenen %63) · -32.48 birim · 63 tahmin sonuç bekliyor
+**131/230 tuttu** (isabet %57, beklenen %63) · -32.55 birim · 62 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -67,12 +67,12 @@
 
 **20:30 · Sassuolo – Lazio**
 
-- ⏳ Korner 9.5 Alt · @1.52
+- ✅ Korner 9.5 Alt · @1.52 · korner 2-1
 
 **21:00 · Benevento – US Catanzaro 1929**
 
-- ⏳ MS 1 · @1.55
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ MS 1 · @1.55 · 1-1
+- ✅ ↳ Korner 10.5 Alt · @1.41 · korner 5-5
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
@@ -111,6 +111,7 @@
 
 - ⏳ MS 1 · @1.43
 - ⏳ 2.5 Üst · @1.43
+- ⏳ KG Var · @1.59
 
 **22:45 · MK Dons – Bromley**
 
@@ -165,6 +166,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.79
 - ⏳ Korner 9.5 Alt · @1.65
+- ⏳ 2.5 Üst · @1.62
 
 **22:45 · Altrincham – Kidderminster Harriers**
 

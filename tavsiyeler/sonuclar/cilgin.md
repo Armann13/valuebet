@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/10 tuttu** (isabet %10, beklenen %37) · -7.75 birim · 26 tahmin sonuç bekliyor
+**1/11 tuttu** (isabet %9, beklenen %35) · -8.75 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10 18:28 gönderilen kupon · 4 maç, oran 263.729,47
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 27.10 21:00 Benevento – US Catanzaro 1929 · İY/MS 2/1 · @22.05
+- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @20.40
+- ⏳ 27.10 22:45 AS Roma – Cagliari · İY/MS 2/1 · @26.00
+- ⏳ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @22.55
 
 ## 27.10 12:10 gönderilen kupon · 4 maç, oran 208.708,67
 

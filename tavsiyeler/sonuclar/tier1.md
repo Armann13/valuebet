@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/165 tuttu** (isabet %72, beklenen %76) · -19.39 birim · 39 tahmin sonuç bekliyor
+**121/167 tuttu** (isabet %72, beklenen %76) · -18.97 birim · 38 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,11 +54,11 @@
 
 **20:30 · Sassuolo – Lazio**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-6
 
 **21:00 · Benevento – US Catanzaro 1929**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-5
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 
@@ -88,6 +88,7 @@
 **22:00 · Padova – FC Sudtirol**
 
 - ⏳ ÇŞ 1-2 · @1.25
+- ⏳ ÇŞ 1-X · @1.20
 
 **22:45 · AS Roma – Cagliari**
 

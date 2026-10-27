@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/147 tuttu** (isabet %33, beklenen %33) · -17.79 birim · 52 tahmin sonuç bekliyor
+**49/149 tuttu** (isabet %33, beklenen %33) · -16.87 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -68,11 +68,11 @@
 
 **20:30 · Sassuolo – Lazio**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.92
+- ✅ ↳ MS 2 & 2.5 Üst · @2.92 · 2-6
 
 **21:00 · Benevento – US Catanzaro 1929**
 
-- ⏳ ↳ MS 1 & KG Var · @3.09
+- ❌ ↳ MS 1 & KG Var · @3.09 · 1-1
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/360 tuttu** (isabet %11, beklenen %11) · -87.70 birim · 65 tahmin sonuç bekliyor
+**38/362 tuttu** (isabet %10, beklenen %11) · -89.70 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -76,11 +76,11 @@
 
 **20:30 · Sassuolo – Lazio**
 
-- ⏳ 1-2 · @8.02
+- ❌ 1-2 · @8.02 · 2-6
 
 **21:00 · Benevento – US Catanzaro 1929**
 
-- ⏳ 2-1 · @7.36
+- ❌ 2-1 · @7.36 · 1-1
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 

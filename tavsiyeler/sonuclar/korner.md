@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/455 tuttu** (isabet %52, beklenen %60) · -82.85 birim · 53 tahmin sonuç bekliyor
+**241/459 tuttu** (isabet %53, beklenen %60) · -80.80 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -48,13 +48,13 @@
 
 **20:30 · Sassuolo – Lazio**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.52
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.90
+- ✅ 🟡 Korner 9.5 Alt · @1.52 · korner 2-1
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.90 · korner 2-1
 
 **21:00 · Benevento – US Catanzaro 1929**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-5
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-5
 
 **22:00 · Ascoli – Sampdoria**
 
@@ -93,6 +93,7 @@
 - ⏳ 🎯 En çok korner 1 · @3.02
 - ⏳ 🎯 En çok korner 1 · @3.09
 - ⏳ 🎯 En çok korner 1 · @3.10
+- ⏳ 🎯 En çok korner 1 · @3.09
 
 **22:45 · AS Roma – Cagliari**
 

@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/15 tuttu** (isabet %60, beklenen %68) · -0.77 birim · 17 tahmin sonuç bekliyor
+**9/15 tuttu** (isabet %60, beklenen %68) · -0.77 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10 18:28 gönderilen kupon · 6 maç, oran 41,12
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 27.10 22:00 LR Vicenza Virtus – Modena FC · ÇŞ X-2 · @1.20
+- ⏳ 27.10 22:45 Leicester City – Wigan Athletic · MS 1 · @1.25
+- ⏳ 27.10 22:45 Woking – Boreham Wood · MS 2 & KG Var · @2.60
+- ⏳ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.09
+- ⏳ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.73
+- ⏳ 28.10 20:30 Venezia – Inter · MS 2 · @1.25
 
 ## 27.10 12:10 gönderilen kupon · 6 maç, oran 40,52
 
