@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**121/167 tuttu** (isabet %72, beklenen %76) · -18.97 birim · 38 tahmin sonuç bekliyor
+**133/184 tuttu** (isabet %72, beklenen %76) · -21.19 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -62,53 +62,53 @@
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 11.5 Alt · @1.26
+- ✅ ÇŞ 1-2 · @1.20 · 1-2
+- ✅ Korner 11.5 Alt · @1.26 · korner 5-4
 
 **22:00 · AC Cesena – Empoli**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ ÇŞ 1-2 · @1.22 · 2-1
+- ❌ Korner 11.5 Alt · @1.23 · korner 7-5
 
 **22:00 · Mantova 1911 – Cremonese**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ ÇŞ 1-X · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 0-2
+- ❌ ÇŞ 1-X · @1.23 · 0-2
 
 **22:00 · Ascoli – Sampdoria**
 
-- ⏳ ÇŞ 1-X · @1.24
-- ⏳ Korner 11.5 Alt · @1.21
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 2-0
+- ❌ Korner 11.5 Alt · @1.21 · korner 9-4
+- ✅ ÇŞ 1-2 · @1.24 · 2-0
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ❌ ÇŞ 1-2 · @1.25 · 1-1
 
 **22:00 · Padova – FC Sudtirol**
 
-- ⏳ ÇŞ 1-2 · @1.25
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-2 · @1.25 · 2-0
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **22:45 · AS Roma – Cagliari**
 
-- ⏳ MS 1 · @1.24
+- ✅ MS 1 · @1.24 · 4-2
 
 **22:45 · Leicester City – Wigan Athletic**
 
-- ⏳ MS 1 · @1.25
+- ✅ MS 1 · @1.25 · 3-0
 
 **22:45 · Worthing – Southend**
 
-- ⏳ 2.5 Üst · @1.25
+- ✅ 2.5 Üst · @1.25 · 3-3
 
 **22:45 · Barnet – York City**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 3-1
 
 **22:45 · Torino – Como 1907**
 
-- ⏳ Korner 10.5 Alt · @1.22
+- ❌ Korner 10.5 Alt · @1.22 · korner 5-6
 
 ## 26.10.2026 Pazartesi
 

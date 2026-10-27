@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**241/459 tuttu** (isabet %53, beklenen %60) · -80.80 birim · 50 tahmin sonuç bekliyor
+**248/483 tuttu** (isabet %51, beklenen %60) · -93.70 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -58,47 +58,47 @@
 
 **22:00 · Ascoli – Sampdoria**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ❌ 🟢 Korner 11.5 Alt · @1.21 · korner 9-4
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.68 · korner 9-4
 
 **22:00 · AC Cesena – Empoli**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
+- ❌ 🟢 Korner 11.5 Alt · @1.23 · korner 7-5
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.42 · korner 7-5
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.26
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
+- ✅ 🟢 Korner 11.5 Alt · @1.26 · korner 5-4
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.47 · korner 5-4
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
-- ⏳ 🟡 En çok korner 1 · @1.45
+- ❌ 🟡 En çok korner 1 · @1.45 · korner 1-4
 
 **22:00 · Mantova 1911 – Cremonese**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.53
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.90
-- ⏳ 🎯 En çok korner 2 · @2.05
+- ✅ 🟡 Korner 9.5 Alt · @1.53 · korner 5-2
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.90 · korner 5-2
+- ❌ 🎯 En çok korner 2 · @2.05 · korner 5-2
 
 **22:00 · Padova – FC Sudtirol**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.57
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.97
+- ✅ 🟡 Korner 9.5 Alt · @1.57 · korner 3-6
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.97 · korner 3-6
 
 **22:45 · Torino – Como 1907**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
-- ⏳ 🎯 En çok korner 1 · @3.02
-- ⏳ 🎯 En çok korner 1 · @3.09
-- ⏳ 🎯 En çok korner 1 · @3.10
-- ⏳ 🎯 En çok korner 1 · @3.09
+- ❌ 🟢 Korner 10.5 Alt · @1.22 · korner 5-6
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.43 · korner 5-6
+- ❌ 🎯 En çok korner 1 · @3.02 · korner 5-6
+- ❌ 🎯 En çok korner 1 · @3.09 · korner 5-6
+- ❌ 🎯 En çok korner 1 · @3.10 · korner 5-6
+- ❌ 🎯 En çok korner 1 · @3.09 · korner 5-6
 
 **22:45 · AS Roma – Cagliari**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.65
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
+- ❌ 🟡 Korner 9.5 Alt · @1.65 · korner 7-8
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.10 · korner 7-8
 
 ## 26.10.2026 Pazartesi
 
@@ -193,8 +193,8 @@
 
 **20:30 · Castellon – S.Gijon**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.51
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.86
+- ✅ 🟡 Korner 10.5 Alt · @1.51 · korner 2-3
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.86 · korner 2-3
 
 **20:30 · KAA Gent – Anderlecht**
 
@@ -238,8 +238,8 @@
 
 **23:30 · Sporting Lizbon – A. de Viseu **
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.74
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.25
+- ❌ 🟡 Korner 9.5 Alt · @1.74 · korner 10-0
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.25 · korner 10-0
 
 ## 24.10.2026 Cumartesi
 

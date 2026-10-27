@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/362 tuttu** (isabet %10, beklenen %11) · -89.70 birim · 63 tahmin sonuç bekliyor
+**43/389 tuttu** (isabet %11, beklenen %11) · -80.83 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -84,96 +84,96 @@
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
-- ⏳ 1-0 · @5.96
+- ❌ 1-0 · @5.96 · 1-1
 
 **22:00 · AC Cesena – Empoli**
 
-- ⏳ 2-1 · @7.83
-- ⏳ 1-0 · @6.44
+- ✅ 2-1 · @7.83 · 2-1
+- ❌ 1-0 · @6.44 · 2-1
 
 **22:00 · Padova – FC Sudtirol**
 
-- ⏳ 1-0 · @6.46
+- ❌ 1-0 · @6.46 · 2-0
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 
-- ⏳ 1-2 · @7.82
+- ✅ 1-2 · @7.82 · 1-2
 
 **22:00 · Mantova 1911 – Cremonese**
 
-- ⏳ 2-1 · @8.14
+- ❌ 2-1 · @8.14 · 0-2
 
 **22:00 · Ascoli – Sampdoria**
 
-- ⏳ 2-1 · @8.11
+- ❌ 2-1 · @8.11 · 2-0
 
 **22:45 · Leicester City – Wigan Athletic**
 
-- ⏳ 2-1 · @6.55
+- ❌ 2-1 · @6.55 · 3-0
 
 **22:45 · AFC Fylde – Hartlepool**
 
-- ⏳ 2-1 · @6.59
+- ❌ 2-1 · @6.59 · 3-1
 
 **22:45 · Oxford – Stockport**
 
-- ⏳ 1-2 · @6.79
+- ❌ 1-2 · @6.79 · 1-0
 
 **22:45 · Torino – Como 1907**
 
-- ⏳ 1-2 · @7.44
+- ❌ 1-2 · @7.44 · 1-3
 
 **22:45 · AS Roma – Cagliari**
 
-- ⏳ 2-1 · @7.68
+- ❌ 2-1 · @7.68 · 4-2
 
 **22:45 · Luton Town – Doncaster**
 
-- ⏳ 2-1 · @6.45
+- ❌ 2-1 · @6.45 · 3-1
 
 **22:45 · Boston United – Gateshead**
 
-- ⏳ 2-1 · @6.42
+- ✅ 2-1 · @6.42 · 2-1
 
 **22:45 · MK Dons – Bromley**
 
-- ⏳ 2-1 · @6.44
+- ❌ 2-1 · @6.44 · 4-1
 
 **22:45 · Altrincham – Kidderminster Harriers**
 
-- ⏳ 2-1 · @6.70
+- ❌ 2-1 · @6.70 · 0-0
 
 **22:45 · Worthing – Southend**
 
-- ⏳ 1-2 · @7.69
+- ❌ 1-2 · @7.69 · 3-3
 
 **22:45 · Barnet – York City**
 
-- ⏳ 2-1 · @7.02
+- ❌ 2-1 · @7.02 · 3-1
 
 **22:45 · Woking – Boreham Wood**
 
-- ⏳ 1-2 · @6.54
+- ✅ 1-2 · @6.54 · 1-2
 
 **22:45 · Sheffield Wednesday – Cambridge**
 
-- ⏳ 2-1 · @6.82
+- ❌ 2-1 · @6.82 · 1-1
 
 **22:45 · Hornchurch – Yeovil Town**
 
-- ⏳ 1-2 · @7.26
+- ✅ 1-2 · @7.26 · 1-2
 
 **22:45 · Halifax Town – Barrow**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 2-3
 
 **22:45 · Wealdstone – Solihull Moors**
 
-- ⏳ 1-2 · @8.59
+- ❌ 1-2 · @8.59 · 2-3
 
 **22:45 · Tamworth – Scunthorpe**
 
-- ⏳ 1-2 · @8.57
+- ❌ 1-2 · @8.57 · 4-1
 
 ## 26.10.2026 Pazartesi
 
@@ -274,7 +274,7 @@
 
 **20:30 · Castellon – S.Gijon**
 
-- ⏳ 2-1 · @7.30
+- ❌ 2-1 · @7.30 · 4-0
 
 **20:30 · KAA Gent – Anderlecht**
 
@@ -312,7 +312,7 @@
 
 **23:30 · Sporting Lizbon – A. de Viseu **
 
-- ⏳ 2-1 · @8.22
+- ❌ 2-1 · @8.22 · 1-2
 
 ## 24.10.2026 Cumartesi
 
@@ -343,7 +343,7 @@
 
 **16:00 · Gaziantep FK – Erzurumspor FK**
 
-- ⏳ 1-0 · @6.67
+- ❌ 1-0 · @6.67 · 1-3
 
 **16:30 · Augsburg – Union Berlin**
 

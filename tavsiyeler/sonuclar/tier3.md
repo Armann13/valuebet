@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**94/209 tuttu** (isabet %45, beklenen %45) · -13.31 birim · 70 tahmin sonuç bekliyor
+**112/243 tuttu** (isabet %46, beklenen %45) · -8.00 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -92,41 +92,41 @@
 
 **22:00 · AC Cesena – Empoli**
 
-- ⏳ ↳ MS 1 · @1.90
+- ✅ ↳ MS 1 · @1.90 · 2-1
 
 **22:00 · LR Vicenza Virtus – Modena FC**
 
-- ⏳ ↳ MS 2 · @1.91
+- ✅ ↳ MS 2 · @1.91 · 1-2
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
-- ⏳ ↳ MS 1 · @1.94
+- ❌ ↳ MS 1 · @1.94 · 1-1
 
 **22:00 · Ascoli – Sampdoria**
 
-- ⏳ ↳ MS 1 · @2.05
+- ✅ ↳ MS 1 · @2.05 · 2-0
 
 **22:00 · Mantova 1911 – Cremonese**
 
-- ⏳ ↳ MS 1 · @2.06
-- ⏳ ↳ Korner 8.5 Alt · @1.90
+- ❌ ↳ MS 1 · @2.06 · 0-2
+- ✅ ↳ Korner 8.5 Alt · @1.90 · korner 5-2
 
 **22:00 · Padova – FC Sudtirol**
 
-- ⏳ ↳ MS 1 · @2.23
-- ⏳ ↳ Korner 8.5 Alt · @1.97
+- ✅ ↳ MS 1 · @2.23 · 2-0
+- ❌ ↳ Korner 8.5 Alt · @1.97 · korner 3-6
 
 **22:45 · Luton Town – Doncaster**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.90
+- ✅ ↳ MS 1 & 2.5 Üst · @1.90 · 3-1
 
 **22:45 · Barnet – York City**
 
-- ⏳ ↳ MS 1 · @1.85
+- ✅ ↳ MS 1 · @1.85 · 3-1
 
 **22:45 · Boston United – Gateshead**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.95
+- ✅ ↳ MS 1 & 2.5 Üst · @1.95 · 2-1
 
 **22:45 · Ross County – Hamilton**
 
@@ -134,60 +134,60 @@
 
 **22:45 · AFC Fylde – Hartlepool**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.07
+- ✅ ↳ MS 1 & 2.5 Üst · @2.07 · 3-1
 
 **22:45 · MK Dons – Bromley**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.06
+- ✅ ↳ MS 1 & 2.5 Üst · @2.06 · 4-1
 
 **22:45 · Torino – Como 1907**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.28
+- ✅ ↳ MS 2 & 2.5 Üst · @2.28 · 1-3
 
 **22:45 · Woking – Boreham Wood**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+- ✅ ↳ MS 2 & 2.5 Üst · @2.26 · 1-2
 
 **22:45 · Leicester City – Wigan Athletic**
 
-- ⏳ ↳ MS 1 & KG Var · @2.47
+- ❌ ↳ MS 1 & KG Var · @2.47 · 3-0
 
 **22:45 · Sheffield Wednesday – Cambridge**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.57
+- ❌ ↳ MS 1 & 2.5 Üst · @2.57 · 1-1
 
 **22:45 · Worthing – Southend**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.59
+- ❌ ↳ MS 2 & 2.5 Üst · @2.59 · 3-3
 
 **22:45 · AS Roma – Cagliari**
 
-- ⏳ ↳ MS 1 & KG Var · @2.92
-- ⏳ ↳ Korner 8.5 Alt · @2.10
+- ✅ ↳ MS 1 & KG Var · @2.92 · 4-2
+- ❌ ↳ Korner 8.5 Alt · @2.10 · korner 7-8
 
 **22:45 · Oxford – Stockport**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.59
+- ❌ ↳ MS 2 & 2.5 Üst · @2.59 · 1-0
 
 **22:45 · Altrincham – Kidderminster Harriers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.64
+- ❌ ↳ MS 1 & 2.5 Üst · @2.64 · 0-0
 
 **22:45 · Tamworth – Scunthorpe**
 
-- ⏳ ↳ MS 2 · @2.63
+- ❌ ↳ MS 2 · @2.63 · 4-1
 
 **22:45 · Wealdstone – Solihull Moors**
 
-- ⏳ ↳ MS 2 · @2.68
+- ✅ ↳ MS 2 · @2.68 · 2-3
 
 **22:45 · Halifax Town – Barrow**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.19
+- ❌ ↳ MS 1 & 2.5 Üst · @3.19 · 2-3
 
 **22:45 · Hornchurch – Yeovil Town**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.24
+- ✅ ↳ MS 2 & 2.5 Üst · @3.24 · 1-2
 
 ## 26.10.2026 Pazartesi
 
@@ -208,7 +208,7 @@
 
 **21:45 · Santa Clara – Benfica**
 
-- ⏳ ↳ İY/MS 2/2 · @1.74
+- ❌ ↳ İY/MS 2/2 · @1.74 · İY 1-0, MS 1-2
 - ✅ ↳ Korner 8.5 Alt · @2.08 · korner 2-3
 
 **22:30 · Paris Saint Germain – Lyon**
@@ -219,7 +219,7 @@
 
 **22:30 · FC Andorra – CF Burgos**
 
-- ❌ ↳ İY/MS 1/1 · @3.10
+- ❌ ↳ İY/MS 1/1 · @3.10 · İY 2-3, MS 2-3
 
 **22:45 · US Boulogne – Reims**
 
@@ -270,8 +270,8 @@
 
 **20:30 · Castellon – S.Gijon**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.05
-- ⏳ ↳ Korner 9.5 Alt · @1.86
+- ✅ ↳ MS 1 & 2.5 Üst · @2.05 · 4-0
+- ✅ ↳ Korner 9.5 Alt · @1.86 · korner 2-3
 
 **20:30 · KAA Gent – Anderlecht**
 
@@ -279,7 +279,7 @@
 
 **20:30 · Aris – Atromitos**
 
-- ⏳ ↳ İY/MS 1/1 · @2.20
+- ✅ ↳ İY/MS 1/1 · @2.20 · İY 3-1, MS 3-1
 
 **20:30 · Real Sociedad – Levante**
 
@@ -321,8 +321,8 @@
 
 **23:30 · Sporting Lizbon – A. de Viseu **
 
-- ⏳ ↳ MS 1 & KG Var · @2.26
-- ⏳ ↳ Korner 8.5 Alt · @2.25
+- ❌ ↳ MS 1 & KG Var · @2.26 · 1-2
+- ❌ ↳ Korner 8.5 Alt · @2.25 · korner 10-0
 
 ## 24.10.2026 Cumartesi
 
@@ -336,11 +336,11 @@
 
 **16:00 · Gaziantep FK – Erzurumspor FK**
 
-- ⏳ KG Yok · @1.80
+- ❌ KG Yok · @1.80 · 1-3
 
 **17:00 · Livingston – Arbroath**
 
-- ⏳ ↳ İY/MS 1/1 · @1.71
+- ❌ ↳ İY/MS 1/1 · @1.71 · İY 0-0, MS 1-0
 
 **17:00 · York City – Port Vale**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/61 tuttu** (isabet %16, beklenen %16) · -5.93 birim · 2 tahmin sonuç bekliyor
+**11/62 tuttu** (isabet %18, beklenen %16) · -2.01 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **22:45 · Stenhousemuir – Dunfermline**
 
-- ⏳ 0-1 · @4.92
+- ✅ 0-1 · @4.92 · 0-1
 
 ## 26.10.2026 Pazartesi
 
