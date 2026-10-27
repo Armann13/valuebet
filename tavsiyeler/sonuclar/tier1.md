@@ -2,9 +2,53 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/165 tuttu** (isabet %72, beklenen %76) · -19.39 birim · 27 tahmin sonuç bekliyor
+**119/165 tuttu** (isabet %72, beklenen %76) · -19.39 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · Venezia – Inter**
+
+- ⏳ MS 2 · @1.25
+- ⏳ En çok korner 2 · @1.29
+
+**20:30 · Parma – Udinese**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**21:00 · AC Pisa – US Palermo**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 11.5 Alt · @1.22
+
+**22:00 · Juve Stabia – Hellas Verona**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**22:00 · Carrarese Calcio 1908 – SS Arezzo**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**22:45 · Celtic – Dundee Utd**
+
+- ⏳ 2.5 Üst · @1.24
+
+**22:45 · Aberdeen – Falkirk**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:45 · St Johnstone – Motherwell**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:45 · St Mirren – Hibernian**
+
+- ⏳ ÇŞ X-2 · @1.24
+
+**23:00 · Hearts – Rangers**
+
+- ⏳ ÇŞ X-2 · @1.25
 
 ## 27.10.2026 Salı
 

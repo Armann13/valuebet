@@ -2,9 +2,82 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/206 tuttu** (isabet %45, beklenen %45) · -14.22 birim · 53 tahmin sonuç bekliyor
+**92/206 tuttu** (isabet %45, beklenen %45) · -14.22 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · Venezia – Inter**
+
+- ⏳ ↳ MS 2 & KG Var · @2.21
+
+**20:30 · AC Milan – Bologna**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.30
+- ⏳ ↳ Korner 7.5 Alt · @2.19
+
+**20:30 · Parma – Udinese**
+
+- ⏳ ↳ MS 2 · @2.34
+
+**21:00 · AC Pisa – US Palermo**
+
+- ⏳ ↳ MS 1 · @2.33
+
+**22:00 · Carrarese Calcio 1908 – SS Arezzo**
+
+- ⏳ ↳ MS 1 · @2.07
+
+**22:00 · Juve Stabia – Hellas Verona**
+
+- ⏳ ↳ MS 2 · @2.16
+- ⏳ ↳ Korner 8.5 Alt · @1.97
+
+**22:45 · Forest Green – Eastleigh**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.89
+
+**22:45 · Aberdeen – Falkirk**
+
+- ⏳ ↳ MS 1 · @1.92
+
+**22:45 · St Mirren – Hibernian**
+
+- ⏳ ↳ MS 2 · @1.93
+
+**22:45 · Celtic – Dundee Utd**
+
+- ⏳ ↳ MS 1 & KG Var · @2.18
+
+**22:45 · AC Monza – Napoli**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.38
+
+**22:45 · St Johnstone – Motherwell**
+
+- ⏳ ↳ MS 1 · @2.33
+
+**22:45 · Dundee – Kilmarnock**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.48
+
+**22:45 · Genoa – Juventus**
+
+- ⏳ ↳ İY/MS 2/2 · @2.30
+- ⏳ ↳ Korner 8.5 Alt · @1.92
+
+**22:45 · Sutton United – Aldershot**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.46
+
+**22:45 · Carlisle – Harrogate**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.55
+
+**23:00 · Hearts – Rangers**
+
+- ⏳ ↳ MS 2 · @1.99
 
 ## 27.10.2026 Salı
 

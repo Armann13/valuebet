@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/61 tuttu** (isabet %16, beklenen %16) · -5.93 birim · 1 tahmin sonuç bekliyor
+**10/61 tuttu** (isabet %16, beklenen %16) · -5.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**22:45 · Genoa – Juventus**
+
+- ⏳ 0-1 · @5.31
 
 ## 27.10.2026 Salı
 

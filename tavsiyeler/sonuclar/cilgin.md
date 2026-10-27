@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**1/10 tuttu** (isabet %10, beklenen %37) · -7.75 birim · 22 tahmin sonuç bekliyor
+**1/10 tuttu** (isabet %10, beklenen %37) · -7.75 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10 12:10 gönderilen kupon · 4 maç, oran 208.708,67
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00
+- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.50
+- ⏳ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.45
+- ⏳ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.80
 
 ## 26.10 23:36 gönderilen kupon · 4 maç, oran 248.179,21
 

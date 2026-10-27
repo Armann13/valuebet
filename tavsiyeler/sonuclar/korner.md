@@ -2,9 +2,47 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/455 tuttu** (isabet %52, beklenen %60) · -82.85 birim · 40 tahmin sonuç bekliyor
+**237/455 tuttu** (isabet %52, beklenen %60) · -82.85 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · Venezia – Inter**
+
+- ⏳ 🟢 En çok korner 2 · @1.29
+
+**20:30 · AC Milan – Bologna**
+
+- ⏳ 🟡 Korner 8.5 Alt · @1.69
+- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.19
+
+**20:30 · Parma – Udinese**
+
+- ⏳ 🟡 En çok korner 1 · @2.09
+
+**21:00 · AC Pisa – US Palermo**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+
+**22:00 · Juve Stabia – Hellas Verona**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.57
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.97
+
+**22:00 · Carrarese Calcio 1908 – SS Arezzo**
+
+- ⏳ 🟡 En çok korner 1 · @1.87
+
+**22:45 · AC Monza – Napoli**
+
+- ⏳ 🟡 En çok korner 2 · @1.51
+
+**22:45 · Genoa – Juventus**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.53
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.92
 
 ## 27.10.2026 Salı
 
@@ -54,6 +92,7 @@
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
 - ⏳ 🎯 En çok korner 1 · @3.02
 - ⏳ 🎯 En çok korner 1 · @3.09
+- ⏳ 🎯 En çok korner 1 · @3.10
 
 **22:45 · AS Roma – Cagliari**
 

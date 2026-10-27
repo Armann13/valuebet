@@ -2,9 +2,67 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/147 tuttu** (isabet %33, beklenen %33) · -17.79 birim · 37 tahmin sonuç bekliyor
+**48/147 tuttu** (isabet %33, beklenen %33) · -17.79 birim · 52 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · AC Milan – Bologna**
+
+- ⏳ ↳ MS 1 & KG Var · @3.31
+
+**20:30 · Parma – Udinese**
+
+- ⏳ ↳ İY/MS 2/2 · @3.84
+
+**21:00 · AC Pisa – US Palermo**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.50
+
+**22:00 · Carrarese Calcio 1908 – SS Arezzo**
+
+- ⏳ ↳ İY/MS 1/1 · @3.27
+
+**22:00 · Juve Stabia – Hellas Verona**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.44
+
+**22:45 · Forest Green – Eastleigh**
+
+- ⏳ ↳ MS 1 & KG Var · @2.58
+
+**22:45 · St Mirren – Hibernian**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.78
+
+**22:45 · Aberdeen – Falkirk**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.98
+
+**22:45 · Dundee – Kilmarnock**
+
+- ⏳ ↳ MS 1 & KG Var · @3.16
+
+**22:45 · Sutton United – Aldershot**
+
+- ⏳ ↳ MS 1 & KG Var · @3.23
+
+**22:45 · AC Monza – Napoli**
+
+- ⏳ ↳ MS 2 & KG Var · @3.21
+
+**22:45 · Carlisle – Harrogate**
+
+- ⏳ ↳ MS 1 & KG Var · @3.19
+
+**22:45 · St Johnstone – Motherwell**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.63
+
+**23:00 · Hearts – Rangers**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.82
 
 ## 27.10.2026 Salı
 
@@ -23,6 +81,7 @@
 **22:00 · AC Cesena – Empoli**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.01
+- ⏳ ↳ İY/MS 1/1 · @3.05
 
 **22:00 · Ascoli – Sampdoria**
 

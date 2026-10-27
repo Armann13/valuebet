@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/15 tuttu** (isabet %60, beklenen %68) · -0.77 birim · 11 tahmin sonuç bekliyor
+**9/15 tuttu** (isabet %60, beklenen %68) · -0.77 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.10 12:10 gönderilen kupon · 6 maç, oran 40,52
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 27.10 22:45 AS Roma – Cagliari · MS 1 · @1.21
+- ⏳ 27.10 22:45 Leicester City – Wigan Athletic · MS 1 · @1.25
+- ⏳ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.10
+- ⏳ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.69
+- ⏳ 27.10 22:45 Luton Town – Doncaster · MS 1 & KG Var · @2.57
+- ⏳ 28.10 20:30 Venezia – Inter · MS 2 · @1.25
 
 ## 26.10 23:36 gönderilen kupon · 6 maç, oran 40,01
 

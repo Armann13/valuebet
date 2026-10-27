@@ -2,9 +2,75 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/360 tuttu** (isabet %11, beklenen %11) · -87.70 birim · 48 tahmin sonuç bekliyor
+**38/360 tuttu** (isabet %11, beklenen %11) · -87.70 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · AC Milan – Bologna**
+
+- ⏳ 2-1 · @7.36
+
+**20:30 · Venezia – Inter**
+
+- ⏳ 1-2 · @7.80
+
+**20:30 · Parma – Udinese**
+
+- ⏳ 0-1 · @6.58
+
+**21:00 · AC Pisa – US Palermo**
+
+- ⏳ 2-1 · @8.64
+
+**22:00 · Juve Stabia – Hellas Verona**
+
+- ⏳ 1-2 · @8.29
+
+**22:00 · Carrarese Calcio 1908 – SS Arezzo**
+
+- ⏳ 1-0 · @6.74
+
+**22:45 · Forest Green – Eastleigh**
+
+- ⏳ 2-1 · @6.46
+
+**22:45 · St Mirren – Hibernian**
+
+- ⏳ 1-2 · @7.85
+
+**22:45 · AC Monza – Napoli**
+
+- ⏳ 1-2 · @7.37
+
+**22:45 · Sutton United – Aldershot**
+
+- ⏳ 2-1 · @6.61
+
+**22:45 · Dundee – Kilmarnock**
+
+- ⏳ 2-1 · @7.74
+
+**22:45 · Carlisle – Harrogate**
+
+- ⏳ 2-1 · @6.91
+
+**22:45 · Aberdeen – Falkirk**
+
+- ⏳ 2-1 · @7.81
+
+**22:45 · St Johnstone – Motherwell**
+
+- ⏳ 2-1 · @8.56
+
+**22:45 · Celtic – Dundee Utd**
+
+- ⏳ 2-1 · @8.10
+
+**23:00 · Hearts – Rangers**
+
+- ⏳ 1-2 · @8.01
 
 ## 27.10.2026 Salı
 
@@ -23,6 +89,7 @@
 **22:00 · AC Cesena – Empoli**
 
 - ⏳ 2-1 · @7.83
+- ⏳ 1-0 · @6.44
 
 **22:00 · Padova – FC Sudtirol**
 
