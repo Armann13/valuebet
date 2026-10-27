@@ -2046,3 +2046,15 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.587603420382651,1.64,-0.036330390572452353,korner,False,,,2026-10-27 20:30,,,,,,kadro
 2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4783712516976364,2.09,-0.00020408395194004836,korner,True,,,2026-10-27 20:30,,,,,,kadro
 2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12549212596601386,7.76,-0.026181102503732512,oran,,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7144274695848317,1.25,-0.10696566301896038,oran,False,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7052838553269727,1.25,-0.1183951808412842,oran,False,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.4616052897483978,1.97,-0.09063757919565629,oran,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.41650367111815356,2.16,-0.10035207038478822,oran,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.26063615765145787,3.06,-0.20245335758653893,oran,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.24049462743423927,3.56,-0.14383912633410822,oran,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5842876630447885,1.53,-0.10603987554147354,korner,False,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.582688527934809,1.57,-0.08517901114234994,korner,False,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.47502847024660244,1.91,-0.09269562182898938,korner,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.47343434878417623,1.97,-0.06733433289517288,korner,True,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Padova,Sudtirol,Padova – FC Sudtirol,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.13093340596835318,6.08,-0.20392489171241268,oran,,,,2026-10-27 22:00,,,,,,kadro
+2026-10-27 21:16,2026-10-27,27.10,I2,Mantova,Cremonese,Mantova 1911 – Cremonese,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09621604273514071,8.35,-0.19659604316157508,oran,,,,2026-10-27 22:00,,,,,,kadro
