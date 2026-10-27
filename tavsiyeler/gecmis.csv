@@ -2040,3 +2040,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-27 18:28,2026-10-27,27.10,I1,Roma,Cagliari,AS Roma – Cagliari,I1,🎲 Çılgın kupon,İY/MS 2/1,0.044139075132492565,26.0,0.1476159534448067,oran,,,,2026-10-27 22:45,,,,,,
 2026-10-27 18:28,2026-10-27,27.10,I2,Benevento,Catanzaro,Benevento – US Catanzaro 1929,I2,🎲 Çılgın kupon,İY/MS 2/1,0.05132624238608394,22.05,0.1317436446131508,oran,,,,2026-10-27 21:00,,,,,,
 2026-10-27 18:28,2026-10-27,27.10,E2,Oxford,Stockport,Oxford – Stockport,E2,🎲 Çılgın kupon,İY/MS 1/2,0.04999069583392931,22.55,0.12729019105510586,oran,,,,2026-10-27 22:45,,,,,,
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🟡 Tier 2 — Orta risk,MS 2,0.5009106438311994,1.83,-0.08333352178890496,oran,False,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.3520932457553455,2.58,-0.09159942595120851,oran,True,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.2765672090373477,3.29,-0.090093882267126,oran,True,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.587603420382651,1.64,-0.036330390572452353,korner,False,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4783712516976364,2.09,-0.00020408395194004836,korner,True,,,2026-10-27 20:30,,,,,,kadro
+2026-10-27 19:51,2026-10-27,27.10,I1,Sassuolo,Lazio,Sassuolo – Lazio,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12549212596601386,7.76,-0.026181102503732512,oran,,,,2026-10-27 20:30,,,,,,kadro
