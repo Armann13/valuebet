@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/197 tuttu** (isabet %44, beklenen %46) · -16.03 birim · 62 tahmin sonuç bekliyor
+**92/206 tuttu** (isabet %45, beklenen %45) · -14.22 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -140,30 +140,30 @@
 
 **22:30 · Paris Saint Germain – Lyon**
 
-- ⏳ ↳ MS 1 & KG Var · @2.28
-- ⏳ ↳ Korner 10.5 Üst · @2.00
-- ⏳ ↳ Korner 9.5 Alt · @1.88
+- ❌ ↳ MS 1 & KG Var · @2.28 · 2-0
+- ✅ ↳ Korner 10.5 Üst · @2.00 · korner 7-4
+- ❌ ↳ Korner 9.5 Alt · @1.88 · korner 7-4
 
 **22:30 · FC Andorra – CF Burgos**
 
-- ⏳ ↳ İY/MS 1/1 · @3.10
+- ❌ ↳ İY/MS 1/1 · @3.10
 
 **22:45 · US Boulogne – Reims**
 
-- ⏳ ↳ MS 2 · @2.15
+- ❌ ↳ MS 2 · @2.15 · 1-1
 
 **22:45 · Montpellier – Red Star FC**
 
-- ⏳ ↳ MS 1 · @2.24
+- ✅ ↳ MS 1 · @2.24 · 2-1
 
 **23:00 · Sevilla – Osasuna**
 
-- ⏳ ↳ MS 1 · @1.79
+- ✅ ↳ MS 1 · @1.79 · 2-0
 
 **23:00 · Walsall – Salford City**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.79
-- ⏳ ↳ MS 2 · @1.99
+- ✅ ↳ MS 2 & 2.5 Üst · @2.79 · 2-4
+- ✅ ↳ MS 2 · @1.99 · 2-4
 
 ## 25.10.2026 Pazar
 

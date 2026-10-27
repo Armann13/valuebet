@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**46/144 tuttu** (isabet %32, beklenen %33) · -21.87 birim · 40 tahmin sonuç bekliyor
+**48/147 tuttu** (isabet %33, beklenen %33) · -17.79 birim · 37 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -118,11 +118,11 @@
 
 **22:45 · Montpellier – Red Star FC**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.56
+- ✅ ↳ MS 1 & 2.5 Üst · @3.56 · 2-1
 
 **22:45 · US Boulogne – Reims**
 
-- ⏳ ↳ İY/MS 2/2 · @3.45
+- ❌ ↳ İY/MS 2/2 · @3.45
 
 **23:00 · Sevilla – Osasuna**
 
@@ -130,7 +130,7 @@
 
 **23:00 · Walsall – Salford City**
 
-- ⏳ ↳ MS 2 & KG Var · @3.52
+- ✅ ↳ MS 2 & KG Var · @3.52 · 2-4
 
 ## 25.10.2026 Pazar
 

@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 76 | 47 | 21 | -12.27 |
-| sonra | 106 | 82 | 29 | -32.23 |
+| önce | 76 | 74 | 34 | -13.16 |
+| sonra | 106 | 104 | 39 | -35.90 |
 
-Değişen tahmin: 18 (11 sonuçlandı: eski 8, yeni 5 tuttu).
+Değişen tahmin: 18 (17 sonuçlandı: eski 13, yeni 9 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,51 +17,51 @@ Değişen tahmin: 18 (11 sonuçlandı: eski 8, yeni 5 tuttu).
 
 Kadro mesajı: 26.10 22:10
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.23 → ⏳ ÇŞ 1-2 @1.21 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @2.24 → ⏳ MS 1 @2.08 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.56 → ⏳ MS 1 & 2.5 Üst @3.23 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23 → ✅ ÇŞ 1-2 @1.21 (aynı)
+- 🔴 Tier 3: ✅ MS 1 @2.24 → ✅ MS 1 @2.08 (aynı)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.56 → ✅ MS 1 & 2.5 Üst @3.23 (aynı)
 
 ## 26.10 · Sevilla – Osasuna
 
 Kadro mesajı: 26.10 22:10
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.23, ⏳ Korner 10.5 Alt @1.21 → ⏳ ÇŞ 1-2 @1.22, ⏳ Korner 10.5 Alt @1.21 (aynı)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.40 → ⏳ Korner 9.5 Alt @1.41 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @1.79 → ⏳ MS 1 @1.76 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23, ❌ Korner 10.5 Alt @1.21 → ✅ ÇŞ 1-2 @1.22, ❌ Korner 10.5 Alt @1.21 (aynı)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.40 → ❌ Korner 9.5 Alt @1.41 (aynı)
+- 🔴 Tier 3: ✅ MS 1 @1.79 → ✅ MS 1 @1.76 (aynı)
 - 🟣 Tier 4: ⏳ İY/MS 1/1 @2.75 → ⏳ İY/MS 1/1 @2.71 (aynı)
 
 ## 26.10 · US Boulogne – Reims
 
 Kadro mesajı: 26.10 22:10
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.25 → ⏳ ÇŞ 1-2 @1.25 (aynı)
-- 🔴 Tier 3: ⏳ MS 2 @2.15 → ⏳ MS 2 @2.13 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @3.45 → ⏳ İY/MS 2/2 @3.40 (aynı)
+- 🟢 Tier 1: ❌ ÇŞ 1-2 @1.25 → ❌ ÇŞ 1-2 @1.25 (aynı)
+- 🔴 Tier 3: ❌ MS 2 @2.15 → ❌ MS 2 @2.13 (aynı)
+- 🟣 Tier 4: ❌ İY/MS 2/2 @3.45 → ❌ İY/MS 2/2 @3.40 (aynı)
 
 ## 26.10 · Walsall – Salford City
 
 Kadro mesajı: 26.10 22:10
 
-- 🟢 Tier 1: ⏳ ÇŞ X-2 @1.22 → ⏳ ÇŞ X-2 @1.22 (aynı)
-- 🟡 Tier 2: ⏳ 2.5 Üst @1.53 → — (kalktı)
-- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.79, ⏳ MS 2 @1.99 → ⏳ MS 2 @1.99 (değişti)
-- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.52 → ⏳ MS 2 & 2.5 Üst @2.96 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ X-2 @1.22 → ✅ ÇŞ X-2 @1.22 (aynı)
+- 🟡 Tier 2: ✅ 2.5 Üst @1.53 → — (kalktı)
+- 🔴 Tier 3: ✅ MS 2 & 2.5 Üst @2.79, ✅ MS 2 @1.99 → ✅ MS 2 @1.99 (değişti)
+- 🟣 Tier 4: ✅ MS 2 & KG Var @3.52 → ✅ MS 2 & 2.5 Üst @2.96 (değişti)
 
 ## 26.10 · Paris Saint Germain – Lyon
 
 Kadro mesajı: 26.10 21:48
 
-- 🟢 Tier 1: ⏳ 2.5 Üst @1.27 → ⏳ 2.5 Üst @1.24 (aynı)
-- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.62, ⏳ Korner 9.5 Üst @1.61, ⏳ Korner 10.5 Alt @1.53 → ⏳ MS 1 & 2.5 Üst @1.51, ⏳ Korner 10.5 Alt @1.53 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.28, ⏳ Korner 10.5 Üst @2.00, ⏳ Korner 9.5 Alt @1.88 → ⏳ MS 1 & KG Var @2.18, ⏳ Korner 9.5 Alt @1.88 (değişti)
+- 🟢 Tier 1: ❌ 2.5 Üst @1.27 → ❌ 2.5 Üst @1.24 (aynı)
+- 🟡 Tier 2: ❌ MS 1 & 2.5 Üst @1.62, ✅ Korner 9.5 Üst @1.61, ❌ Korner 10.5 Alt @1.53 → ❌ MS 1 & 2.5 Üst @1.51, ❌ Korner 10.5 Alt @1.53 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.28, ✅ Korner 10.5 Üst @2.00, ❌ Korner 9.5 Alt @1.88 → ❌ MS 1 & KG Var @2.18, ❌ Korner 9.5 Alt @1.88 (değişti)
 
 ## 26.10 · FC Andorra – CF Burgos
 
 Kadro mesajı: 26.10 21:35
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.21 → ⏳ ÇŞ 1-2 @1.22 (değişti)
-- 🟡 Tier 2: ⏳ MS 1 @1.98, ⏳ En çok korner 1 @1.40, ⏳ KG Yok @1.83 → ⏳ MS 1 @1.84, ⏳ En çok korner 1 @1.44 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 1/1 @3.10 → ⏳ İY/MS 1/1 @2.85 (aynı)
+- 🟢 Tier 1: ❌ ÇŞ 1-X @1.21 → ✅ ÇŞ 1-2 @1.22 (değişti)
+- 🟡 Tier 2: ❌ MS 1 @1.98, ✅ En çok korner 1 @1.40, ❌ KG Yok @1.83 → ❌ MS 1 @1.84, ✅ En çok korner 1 @1.44 (değişti)
+- 🔴 Tier 3: ❌ İY/MS 1/1 @3.10 → ❌ İY/MS 1/1 @2.85 (aynı)
 
 ## 26.10 · Santa Clara – Benfica
 

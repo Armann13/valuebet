@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**116/158 tuttu** (isabet %73, beklenen %77) · -16.07 birim · 34 tahmin sonuç bekliyor
+**119/165 tuttu** (isabet %72, beklenen %76) · -19.39 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,28 +87,28 @@
 
 **22:30 · FC Andorra – CF Burgos**
 
-- ⏳ ÇŞ 1-X · @1.21
+- ❌ ÇŞ 1-X · @1.21 · 2-3
 
 **22:30 · Paris Saint Germain – Lyon**
 
-- ⏳ 2.5 Üst · @1.27
+- ❌ 2.5 Üst · @1.27 · 2-0
 
 **22:45 · Montpellier – Red Star FC**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 2-1
 
 **22:45 · US Boulogne – Reims**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ❌ ÇŞ 1-2 · @1.25 · 1-1
 
 **23:00 · Sevilla – Osasuna**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 10.5 Alt · @1.21
+- ✅ ÇŞ 1-2 · @1.23 · 2-0
+- ❌ Korner 10.5 Alt · @1.21 · korner 7-4
 
 **23:00 · Walsall – Salford City**
 
-- ⏳ ÇŞ X-2 · @1.22
+- ✅ ÇŞ X-2 · @1.22 · 2-4
 
 ## 25.10.2026 Pazar
 

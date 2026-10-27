@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/56 tuttu** (isabet %54, beklenen %43) · +12.93 birim · 2 tahmin sonuç bekliyor
+**30/58 tuttu** (isabet %52, beklenen %44) · +10.93 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,8 +14,8 @@
 
 **22:30 · FC Andorra – CF Burgos**
 
-- ⏳ 2.5 Alt · @1.69
-- ⏳ KG Yok · @1.83
+- ❌ 2.5 Alt · @1.69 · 2-3
+- ❌ KG Yok · @1.83 · 2-3
 
 ## 25.10.2026 Pazar
 
