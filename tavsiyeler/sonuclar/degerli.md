@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/58 tuttu** (isabet %52, beklenen %44) · +10.93 birim · 3 tahmin sonuç bekliyor
+**30/59 tuttu** (isabet %51, beklenen %43) · +9.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **20:30 · AC Milan – Bologna**
 
-- ⏳ MS 1 & KG Var · @3.91
+- ❌ MS 1 & KG Var · @3.91 · 2-4
 
 **22:45 · Genoa – Juventus**
 

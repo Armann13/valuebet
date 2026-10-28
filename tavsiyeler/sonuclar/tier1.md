@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**133/184 tuttu** (isabet %72, beklenen %76) · -21.19 birim · 28 tahmin sonuç bekliyor
+**135/188 tuttu** (isabet %72, beklenen %76) · -22.66 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,13 +22,13 @@
 
 **20:30 · Parma – Udinese**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ❌ ÇŞ 1-2 · @1.25 · 0-0
 
 **21:00 · AC Pisa – US Palermo**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 11.5 Alt · @1.22
-- ⏳ ÇŞ 1-X · @1.31
+- ❌ ÇŞ 1-2 · @1.23 · 3-3
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-3
+- ✅ ÇŞ 1-X · @1.31 · 3-3
 
 **22:00 · Juve Stabia – Hellas Verona**
 

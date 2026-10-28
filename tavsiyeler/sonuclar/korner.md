@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**248/483 tuttu** (isabet %51, beklenen %60) · -93.70 birim · 36 tahmin sonuç bekliyor
+**253/489 tuttu** (isabet %52, beklenen %60) · -89.90 birim · 30 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,18 +27,18 @@
 
 **20:30 · AC Milan – Bologna**
 
-- ⏳ 🟡 Korner 8.5 Alt · @1.69
-- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.19
-- ⏳ 🎯 En çok korner 2 · @3.29
+- ✅ 🟡 Korner 8.5 Alt · @1.69 · korner 2-3
+- ✅ 🔴 ↳ Korner 7.5 Alt · @2.19 · korner 2-3
+- ✅ 🎯 En çok korner 2 · @3.29 · korner 2-3
 
 **20:30 · Parma – Udinese**
 
-- ⏳ 🟡 En çok korner 1 · @2.09
+- ❌ 🟡 En çok korner 1 · @2.09 · korner 3-6
 
 **21:00 · AC Pisa – US Palermo**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-3
 
 **22:00 · Juve Stabia – Hellas Verona**
 

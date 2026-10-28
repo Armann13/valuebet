@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**112/243 tuttu** (isabet %46, beklenen %45) · -8.00 birim · 40 tahmin sonuç bekliyor
+**113/247 tuttu** (isabet %46, beklenen %45) · -9.81 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -25,16 +25,16 @@
 
 **20:30 · AC Milan – Bologna**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.30
-- ⏳ ↳ Korner 7.5 Alt · @2.19
+- ❌ ↳ MS 1 & 2.5 Üst · @2.30 · 2-4
+- ✅ ↳ Korner 7.5 Alt · @2.19 · korner 2-3
 
 **20:30 · Parma – Udinese**
 
-- ⏳ ↳ MS 2 · @2.34
+- ❌ ↳ MS 2 · @2.34 · 0-0
 
 **21:00 · AC Pisa – US Palermo**
 
-- ⏳ ↳ MS 1 · @2.33
+- ❌ ↳ MS 1 · @2.33 · 3-3
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
