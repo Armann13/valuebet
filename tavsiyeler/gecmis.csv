@@ -2197,3 +2197,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,MS 1 & KG Var,0.26983712684833827,3.88,0.04696805217155253,piyasa,,,,2026-10-28 20:30,,,,,,kadro
 2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,KG Var,0.528647075061835,1.9,0.0044294426174864565,piyasa,,,,2026-10-28 20:30,,,,,,kadro
 2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,2.5 Üst,0.5181964611247994,1.93,0.00011916997086292014,piyasa,,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7025131112795069,1.29,-0.09375808644943606,piyasa,False,,,2026-10-28 21:00,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.4050262225590139,2.15,-0.1291936214981202,piyasa,True,,,2026-10-28 21:00,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2699735940472114,3.08,-0.1684813303345889,piyasa,True,,,2026-10-28 21:00,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7223565853559712,1.22,-0.11872496586571513,korner,False,,,2026-10-28 21:00,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6338260592459777,1.41,-0.10630525646317157,korner,True,,,2026-10-28 21:00,,,,,,kadro
+2026-10-28 20:16,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10050066940812408,8.32,-0.1638344305244076,piyasa,,,,2026-10-28 21:00,,,,,,kadro
