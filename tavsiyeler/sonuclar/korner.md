@@ -2,9 +2,22 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**248/483 tuttu** (isabet %51, beklenen %60) · -93.70 birim · 26 tahmin sonuç bekliyor
+**248/483 tuttu** (isabet %51, beklenen %60) · -93.70 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 29.10.2026 Perşembe
+
+**20:30 · Frosinone – Lecce**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.53
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.88
+- ⏳ 🎯 En çok korner 2 · @3.16
+
+**22:45 · Fiorentina – Atalanta**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.28
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.52
 
 ## 28.10.2026 Çarşamba
 
@@ -16,6 +29,7 @@
 
 - ⏳ 🟡 Korner 8.5 Alt · @1.69
 - ⏳ 🔴 ↳ Korner 7.5 Alt · @2.19
+- ⏳ 🎯 En çok korner 2 · @3.29
 
 **20:30 · Parma – Udinese**
 
@@ -34,6 +48,8 @@
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
 - ⏳ 🟡 En çok korner 1 · @1.87
+- ⏳ 🟢 Korner 7.5 Üst · @1.22
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
 
 **22:45 · AC Monza – Napoli**
 
@@ -43,6 +59,8 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.53
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @1.92
+- ⏳ 🟡 Korner 8.5 Üst · @1.56
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.98
 
 ## 27.10.2026 Salı
 

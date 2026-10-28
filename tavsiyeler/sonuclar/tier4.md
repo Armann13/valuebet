@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/172 tuttu** (isabet %35, beklenen %32) · -4.24 birim · 27 tahmin sonuç bekliyor
+**61/172 tuttu** (isabet %35, beklenen %32) · -4.24 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 29.10.2026 Perşembe
+
+**20:30 · Frosinone – Lecce**
+
+- ⏳ ↳ MS 1 & KG Var · @2.64
+
+**22:45 · Fiorentina – Atalanta**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.88
 
 ## 28.10.2026 Çarşamba
 

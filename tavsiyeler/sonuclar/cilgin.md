@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/28 tuttu** (isabet %14, beklenen %17) · +50.75 birim · 12 tahmin sonuç bekliyor
+**4/28 tuttu** (isabet %14, beklenen %17) · +50.75 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10 08:54 gönderilen kupon · 4 maç, oran 270.576,65
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.90
+- ⏳ 28.10 22:45 Genoa – Juventus · İY/MS 1/2 · @30.00
+- ⏳ 28.10 23:00 Hearts – Rangers · İY/MS 1/2 · @23.45
+- ⏳ 29.10 20:30 Frosinone – Lecce · İY/MS 2/1 · @20.35
 
 ## 27.10 18:28 gönderilen kupon · 4 maç, oran 263.729,47
 

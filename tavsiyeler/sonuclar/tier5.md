@@ -2,11 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/62 tuttu** (isabet %18, beklenen %16) · -2.01 birim · 1 tahmin sonuç bekliyor
+**11/62 tuttu** (isabet %18, beklenen %16) · -2.01 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 29.10.2026 Perşembe
+
+**20:30 · Frosinone – Lecce**
+
+- ⏳ 2-1 · @7.64
+
 ## 28.10.2026 Çarşamba
+
+**20:30 · Parma – Udinese**
+
+- ⏳ 1-1 · @5.04
 
 **22:45 · Genoa – Juventus**
 
