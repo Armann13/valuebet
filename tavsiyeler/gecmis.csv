@@ -2186,3 +2186,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-28 16:10,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,MS 1 & KG Var,0.26983712684846267,3.91,0.05506316597748917,piyasa,,,,2026-10-28 20:30,,,,,,
 2026-10-28 16:10,2026-10-28,28.10,SC0,Hearts,Rangers,Hearts – Rangers,SC0,💎 Değeri pozitif olanlar,MS 1,0.2975999322394475,3.44,0.02374376690369928,piyasa,,,,2026-10-28 23:00,,,,,,
 2026-10-28 16:10,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,💎 Değeri pozitif olanlar,2.5 Üst,0.4492639017768792,2.23,0.0018585009624405568,piyasa,,,,2026-10-28 22:45,,,,,,
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,🟡 Tier 2 — Orta risk,KG Var,0.528647075061835,1.9,0.0044294426174864565,piyasa,False,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Parma,Udinese,Parma – Udinese,I1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5774396578465262,1.64,-0.05299896113169711,piyasa,False,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.26983712684833827,3.88,0.04696805217155253,piyasa,True,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,🟡 Tier 2 — Orta risk,Korner 8.5 Alt,0.5315186249602799,1.63,-0.13362464131474383,korner,False,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Parma,Udinese,Parma – Udinese,I1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5126052828489092,2.04,0.04571477701177473,korner,False,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,🔴 Tier 3 — Yüksek risk,Korner 7.5 Alt,0.41529760097695034,2.1,-0.12787503794840427,korner,True,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Parma,Udinese,Parma – Udinese,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.14836521808974606,5.03,-0.2537229530085773,piyasa,,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11982130564553413,7.6,-0.08935807709394061,piyasa,,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,MS 1 & KG Var,0.26983712684833827,3.88,0.04696805217155253,piyasa,,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,KG Var,0.528647075061835,1.9,0.0044294426174864565,piyasa,,,,2026-10-28 20:30,,,,,,kadro
+2026-10-28 19:52,2026-10-28,28.10,I1,Milan,Bologna,AC Milan – Bologna,I1,💎 Değeri pozitif olanlar,2.5 Üst,0.5181964611247994,1.93,0.00011916997086292014,piyasa,,,,2026-10-28 20:30,,,,,,kadro
