@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/58 tuttu** (isabet %52, beklenen %44) · +10.93 birim
+**30/58 tuttu** (isabet %52, beklenen %44) · +10.93 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.10.2026 Çarşamba
+
+**20:30 · AC Milan – Bologna**
+
+- ⏳ MS 1 & KG Var · @3.91
+
+**22:45 · Genoa – Juventus**
+
+- ⏳ 2.5 Üst · @2.23
+
+**23:00 · Hearts – Rangers**
+
+- ⏳ MS 1 · @3.44
 
 ## 26.10.2026 Pazartesi
 

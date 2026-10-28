@@ -1,6 +1,6 @@
 # Tavsiyeler — 28.10.2026
 
-İddaa oranlarının son kaydı: 28.10 16:05 (TR saati)
+İddaa oranlarının son kaydı: 28.10 16:33 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -31,7 +31,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Paris – Monaco (F1, 01.11 19:15): **ÇŞ 1-2** — olasılık %74, adil oran 1.35, İddaa 1.21 (değer -10%) _(İddaa oranına ayarlı)_
 • CF Burgos – Castellon (SP2, 01.11 20:30): **ÇŞ 1-2** — olasılık %74, adil oran 1.35, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
 • Lincoln City – Birmingham (E1, 31.10 15:30): **ÇŞ 1-2** — olasılık %74, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
-• Burnley – Portsmouth (E1, 31.10 18:00): **ÇŞ 1-X** — olasılık %74, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
+• Burnley – Portsmouth (E1, 31.10 18:00): **ÇŞ 1-2** — olasılık %74, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
 • Troyes – Le Mans (F1, 31.10 22:45): **ÇŞ 1-2** — olasılık %74, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
 • Monchengladbach – Paderborn (D1, 31.10 17:30): **ÇŞ 1-X** — olasılık %74, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
 • AD Ceuta – S.Gijon (SP2, 01.11 18:15): **ÇŞ 1-2** — olasılık %73, adil oran 1.36, İddaa 1.21 (değer -11%) _(İddaa oranına ayarlı)_
@@ -68,7 +68,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Middlesbrough – Charlton (E1, 31.10 18:00): **2.5 Üst** — olasılık %72, adil oran 1.40, İddaa 1.30 (değer -7%) _(İddaa oranına ayarlı)_
 • Grenoble – Dijon (F2, 30.10 22:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.25 (değer -11%) _(İddaa oranına ayarlı)_
 • SS Arezzo – Ascoli (I2, 01.11 17:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.25 (değer -11%) _(İddaa oranına ayarlı)_
-• Venezia – Inter (I1, 28.10 20:30): **2.5 Üst** — olasılık %71, adil oran 1.40, İddaa 1.28 (değer -9%)
+• Venezia – Inter (I1, 28.10 20:30): **2.5 Üst** — olasılık %71, adil oran 1.40, İddaa 1.29 (değer -8%)
 • Rodez AF – Dunkerque (F2, 30.10 22:00): **ÇŞ 1-X** — olasılık %71, adil oran 1.40, İddaa 1.24 (değer -12%) _(İddaa oranına ayarlı)_
 • Carrarese Calcio 1908 – SS Arezzo (I2, 28.10 22:00): **ÇŞ 1-X** — olasılık %71, adil oran 1.40, İddaa 1.21 (değer -14%)
 • Stade Laval – US Boulogne (F2, 30.10 22:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.25 (değer -11%) _(İddaa oranına ayarlı)_
@@ -124,14 +124,14 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Stoke City – Preston (E1, 31.10 15:30): **MS 1** — olasılık %59, adil oran 1.71, İddaa 1.59 (değer -7%) _(İddaa oranına ayarlı)_
 • AFC Fylde – Hornchurch (EC, 30.10 22:45): **MS 1** — olasılık %58, adil oran 1.71, İddaa 1.56 (değer -9%), MBS 3 _(İddaa oranına ayarlı)_
 • E. Cottbus – Bochum (D2, 30.10 20:30): **ÇŞ 1-X** — olasılık %58, adil oran 1.71, İddaa 1.46 (değer -15%) _(İddaa oranına ayarlı)_
-• Barcelona – Alaves (SP1, 31.10 23:00): **KG Var** — olasılık %58, adil oran 1.71, İddaa 2.03 (değer +18%) _(sadece model)_
+• Barcelona – Alaves (SP1, 31.10 23:00): **KG Var** — olasılık %58, adil oran 1.71, İddaa 1.88 (değer +10%) _(sadece model)_
 • ↳ Trabzonspor – Gaziantep FK (T1, 01.11 16:00): **MS 1 & 2.5 Üst** — olasılık %58, adil oran 1.73, İddaa 1.64 (değer -5%) _(İddaa oranına ayarlı)_
 • Modena FC – Mantova 1911 (I2, 31.10 17:00): **MS 1** — olasılık %58, adil oran 1.73, İddaa 1.61 (değer -7%) _(İddaa oranına ayarlı)_
 • Parma – Udinese (I1, 28.10 20:30): **2.5 Alt** — olasılık %58, adil oran 1.73, İddaa 1.60 (değer -8%)
 • Southampton – Queens Park Rangers (E1, 31.10 18:00): **MS 1** — olasılık %58, adil oran 1.73, İddaa 1.61 (değer -7%) _(İddaa oranına ayarlı)_
 • Frosinone – Lecce (I1, 29.10 20:30): **MS 1** — olasılık %58, adil oran 1.74, İddaa 1.54 (değer -11%)
 • ↳ Fenerbahçe – Göztepe (T1, 31.10 19:00): **MS 1 & 2.5 Üst** — olasılık %58, adil oran 1.74, İddaa 1.64 (değer -6%) _(İddaa oranına ayarlı)_
-• ↳ Venezia – Inter (I1, 28.10 20:30): **MS 2 & 2.5 Üst** — olasılık %57, adil oran 1.75, İddaa 1.60 (değer -9%)
+• ↳ Venezia – Inter (I1, 28.10 20:30): **MS 2 & 2.5 Üst** — olasılık %57, adil oran 1.75, İddaa 1.62 (değer -8%)
 • Real Oviedo – Las Palmas (SP2, 02.11 18:15): **MS 1** — olasılık %57, adil oran 1.76, İddaa 1.63 (değer -7%) _(İddaa oranına ayarlı)_
 • Bologna – AC Monza (I1, 31.10 17:00): **MS 1** — olasılık %57, adil oran 1.76, İddaa 1.63 (değer -7%) _(İddaa oranına ayarlı)_
 • Mallorca – Cadiz (SP2, 02.11 23:00): **KG Yok** — olasılık %57, adil oran 1.76, İddaa 1.62 (değer -8%) _(İddaa oranına ayarlı)_
@@ -204,7 +204,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Tottenham – Crystal Palace (E0, 31.10 20:30): **MS 1 & 2.5 Üst** — olasılık %45, adil oran 2.20, İddaa 1.99 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ St Mirren – Hibernian (SC0, 28.10 22:45): **MS 2** — olasılık %45, adil oran 2.20, İddaa 2.02 (değer -8%), MBS 2
 • ↳ Deportivo La Coruna – Osasuna (SP1, 02.11 23:00): **MS 1** — olasılık %45, adil oran 2.22, İddaa 2.01 (değer -9%) _(İddaa oranına ayarlı)_
-• ↳ Barcelona – Alaves (SP1, 31.10 23:00): **MS 1 & KG Var** — olasılık %45, adil oran 2.23, İddaa 2.31 (değer +4%) _(sadece model)_
+• ↳ Barcelona – Alaves (SP1, 31.10 23:00): **MS 1 & KG Var** — olasılık %45, adil oran 2.23, İddaa 2.18 (değer -2%) _(sadece model)_
 • ↳ Udinese – AS Roma (I1, 31.10 20:00): **MS 2 & 2.5 Üst** — olasılık %45, adil oran 2.24, İddaa 2.07 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ West Ham – West Bromwich (E1, 31.10 18:00): **MS 1 & 2.5 Üst** — olasılık %44, adil oran 2.25, İddaa 2.08 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Sampdoria – Virtus Entella (I2, 31.10 21:30): **MS 1** — olasılık %44, adil oran 2.25, İddaa 2.04 (değer -10%) _(İddaa oranına ayarlı)_
@@ -258,7 +258,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Modena FC – Mantova 1911 (I2, 31.10 17:00): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.61, İddaa 2.36 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Marsilya – Toulouse (F1, 01.11 22:45): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.62, İddaa 2.41 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Juve Stabia – Hellas Verona (I2, 28.10 22:00): **MS 2** — olasılık %38, adil oran 2.63, İddaa 2.20 (değer -16%)
-• ↳ Venezia – Inter (I1, 28.10 20:30): **MS 2 & KG Var** — olasılık %38, adil oran 2.63, İddaa 2.29 (değer -13%)
+• ↳ Venezia – Inter (I1, 28.10 20:30): **MS 2 & KG Var** — olasılık %38, adil oran 2.63, İddaa 2.32 (değer -12%)
 • ↳ St Johnstone – Motherwell (SC0, 28.10 22:45): **MS 1** — olasılık %38, adil oran 2.64, İddaa 2.33 (değer -12%), MBS 2
 • ↳ Gençlerbirliği – Alanyaspor (T1, 02.11 20:00): **MS 2** — olasılık %38, adil oran 2.64, İddaa 2.35 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Union Berlin – Köln (D1, 01.11 17:30): **MS 1** — olasılık %38, adil oran 2.64, İddaa 2.35 (değer -11%) _(İddaa oranına ayarlı)_
@@ -405,7 +405,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Saint Pauli – Nürnberg (D2, 01.11 15:30): **MS 1 & KG Var** — olasılık %24, adil oran 4.18, İddaa 3.66 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Karlsruhe – Heidenheim (D2, 31.10 22:30): **MS 1 & 2.5 Üst** — olasılık %24, adil oran 4.22, İddaa 3.73 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Coventry – Sunderland (E0, 31.10 18:00): **MS 2 & 2.5 Üst** — olasılık %24, adil oran 4.22, İddaa 3.53 (değer -16%) _(İddaa oranına ayarlı)_
-• ↳ St Johnstone – Motherwell (SC0, 28.10 22:45): **MS 1 & 2.5 Üst** — olasılık %24, adil oran 4.23, İddaa 3.81 (değer -10%), MBS 2
+• ↳ St Johnstone – Motherwell (SC0, 28.10 22:45): **MS 1 & 2.5 Üst** — olasılık %24, adil oran 4.23, İddaa 3.68 (değer -13%), MBS 2
 • ↳ Juve Stabia – Hellas Verona (I2, 28.10 22:00): **MS 2 & 2.5 Üst** — olasılık %23, adil oran 4.27, İddaa 3.53 (değer -17%)
 • ↳ Vallecano – Celta Vigo (SP1, 31.10 18:15): **İY/MS 1/1** — olasılık %23, adil oran 4.30, İddaa 3.52 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Greuther Furth – Holstein Kiel (D2, 01.11 15:30): **MS 1 & KG Var** — olasılık %23, adil oran 4.31, İddaa 3.84 (değer -11%) _(İddaa oranına ayarlı)_
@@ -513,7 +513,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Carlisle – Harrogate (EC, 28.10 22:45): **2-1** — olasılık %11, adil oran 9.26, İddaa 6.91 (değer -25%), MBS 3 _(İddaa oranına ayarlı)_
 • Albacete – CE Sabadell FC (SP2, 31.10 23:00): **1-0** — olasılık %11, adil oran 9.27, İddaa 6.76 (değer -27%) _(İddaa oranına ayarlı)_
 • Lincoln City – Birmingham (E1, 31.10 15:30): **1-2** — olasılık %11, adil oran 9.28, İddaa 7.89 (değer -15%) _(İddaa oranına ayarlı)_
-• Venezia – Inter (I1, 28.10 20:30): **1-2** — olasılık %11, adil oran 9.29, İddaa 7.65 (değer -18%)
+• Venezia – Inter (I1, 28.10 20:30): **1-2** — olasılık %11, adil oran 9.29, İddaa 7.62 (değer -18%)
 • Arminia Bielefeld – Braunschweig (D2, 30.10 20:30): **2-1** — olasılık %11, adil oran 9.32, İddaa 7.45 (değer -20%) _(İddaa oranına ayarlı)_
 • Red Star FC – AS Nancy (F2, 02.11 22:45): **1-0** — olasılık %11, adil oran 9.33, İddaa 6.75 (değer -28%) _(İddaa oranına ayarlı)_
 • AC Monza – Napoli (I1, 28.10 22:45): **1-2** — olasılık %11, adil oran 9.33, İddaa 7.42 (değer -20%)
@@ -532,7 +532,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Bologna – AC Monza (I1, 31.10 17:00): **2-1** — olasılık %10, adil oran 9.79, İddaa 7.45 (değer -24%) _(İddaa oranına ayarlı)_
 • Kocaelispor – Rizespor (T1, 31.10 16:00): **1-2** — olasılık %10, adil oran 9.81, İddaa 8.68 (değer -12%) _(İddaa oranına ayarlı)_
 • Aberdeen – Falkirk (SC0, 28.10 22:45): **2-1** — olasılık %10, adil oran 9.86, İddaa 7.73 (değer -22%), MBS 2
-• Barcelona – Alaves (SP1, 31.10 23:00): **2-1** — olasılık %10, adil oran 9.90, İddaa 12.45 (değer +26%) _(sadece model)_
+• Barcelona – Alaves (SP1, 31.10 23:00): **2-1** — olasılık %10, adil oran 9.90, İddaa 11.55 (değer +17%) _(sadece model)_
 • Wolfsburg – Osnabruck (D2, 31.10 15:00): **2-1** — olasılık %10, adil oran 9.91, İddaa 7.70 (değer -22%) _(İddaa oranına ayarlı)_
 • Monchengladbach – Paderborn (D1, 31.10 17:30): **2-1** — olasılık %10, adil oran 9.94, İddaa 7.84 (değer -21%) _(İddaa oranına ayarlı)_
 • Brentford – Nottingham Forest (E0, 31.10 18:00): **2-1** — olasılık %10, adil oran 9.94, İddaa 7.77 (değer -22%) _(İddaa oranına ayarlı)_
@@ -554,7 +554,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Lorient – Brest (F1, 02.11 22:45): **1-0** — olasılık %10, adil oran 10.49, İddaa 7.05 (değer -33%) _(İddaa oranına ayarlı)_
 • Lille – RC Lens (F1, 30.10 23:05): **2-1** — olasılık %10, adil oran 10.50, İddaa 8.47 (değer -19%) _(İddaa oranına ayarlı)_
 • Athletic Bilbao – Real Sociedad (SP1, 01.11 23:00): **2-1** — olasılık %9, adil oran 10.56, İddaa 7.87 (değer -25%) _(İddaa oranına ayarlı)_
-• St Johnstone – Motherwell (SC0, 28.10 22:45): **2-1** — olasılık %9, adil oran 10.61, İddaa 8.57 (değer -19%), MBS 2
+• St Johnstone – Motherwell (SC0, 28.10 22:45): **2-1** — olasılık %9, adil oran 10.61, İddaa 8.56 (değer -19%), MBS 2
 • Bolton – Bristol City (E1, 31.10 18:00): **1-2** — olasılık %9, adil oran 10.62, İddaa 8.29 (değer -22%) _(İddaa oranına ayarlı)_
 • Casa Pia AC – Sporting Lizbon (P1, 30.10 23:15): **1-2** — olasılık %9, adil oran 10.69, İddaa 7.81 (değer -27%) _(İddaa oranına ayarlı)_
 • Liverpool – Arsenal (E0, 01.11 19:30): **1-2** — olasılık %9, adil oran 10.70, İddaa 8.21 (değer -23%) _(İddaa oranına ayarlı)_
@@ -581,12 +581,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 • Genoa – Juventus (I1, 28.10 22:45): **ÇŞ 1-2** — olasılık %74, adil oran 1.35, İddaa 1.22 (değer -9%)
 • Aberdeen – Falkirk (SC0, 28.10 22:45): **ÇŞ 1-2** — olasılık %73, adil oran 1.37, İddaa 1.21 (değer -12%), MBS 2
-• Venezia – Inter (I1, 28.10 20:30): **MS 2** — olasılık %72, adil oran 1.38, İddaa 1.25 (değer -10%)
+• Venezia – Inter (I1, 28.10 20:30): **MS 2** — olasılık %72, adil oran 1.38, İddaa 1.26 (değer -9%)
 • Frosinone – Lecce (I1, 29.10 20:30): **En çok korner 2** — olasılık %34, adil oran 2.95, İddaa 3.17 (değer +8%) _(korner modeli)_
 • AC Milan – Bologna (I1, 28.10 20:30): **En çok korner 2** — olasılık %34, adil oran 2.96, İddaa 3.31 (değer +12%) _(korner modeli)_
 • Forest Green – Eastleigh (EC, 28.10 22:45): **MS 1 & KG Var** — olasılık %32, adil oran 3.14, İddaa 2.58 (değer -18%), MBS 3
 
-3 banko + 3 oran yükseltici, hepsi farklı maçlar; toplam oran **49,95**, tutma olasılığı yaklaşık %1.
+3 banko + 3 oran yükseltici, hepsi farklı maçlar; toplam oran **50,35**, tutma olasılığı yaklaşık %1.
 
 ## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)
 
@@ -601,8 +601,8 @@ Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle 
 
 • Genoa – Juventus (I1, 28.10 22:45): **İY/MS 1/2** — olasılık %4, adil oran 27.12, İddaa 30.50 (değer +12% 💎)
 • AC Milan – Bologna (I1, 28.10 20:30): **İY/MS 2/1** — olasılık %4, adil oran 25.27, İddaa 27.00 (değer +7% 💎)
-• Venezia – Inter (I1, 28.10 20:30): **İY/MS 1/2** — olasılık %5, adil oran 18.67, İddaa 19.30 (değer +3% 💎)
+• Venezia – Inter (I1, 28.10 20:30): **İY/MS 1/2** — olasılık %5, adil oran 18.67, İddaa 19.50 (değer +4% 💎)
 • Frosinone – Lecce (I1, 29.10 20:30): **İY/MS 2/1** — olasılık %5, adil oran 19.90, İddaa 20.35 (değer +2% 💎)
 • Hearts – Rangers (SC0, 28.10 23:00): **MS 1** — olasılık %30, adil oran 3.36, İddaa 3.44 (değer +2% 💎), MBS 2
 
-Toplam oran **1.112.612,07**, tutma olasılığı yaklaşık 1/855.616. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.
+Toplam oran **1.124.141,73**, tutma olasılığı yaklaşık 1/855.616. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.
