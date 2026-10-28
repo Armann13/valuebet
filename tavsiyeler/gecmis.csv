@@ -2236,3 +2236,28 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-28 21:59,2026-10-28,28.10,SC0,Aberdeen,Falkirk,Aberdeen – Falkirk,SC0,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),2-1,0.101399759917151,7.73,-0.21617985584042276,piyasa,,,,2026-10-28 22:45,,,,,,kadro
 2026-10-28 21:59,2026-10-28,28.10,SC0,Celtic,Dundee,Celtic – Dundee Utd,SC0,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),2-1,0.09717791472182329,8.47,-0.1769030623061567,oran,,,,2026-10-28 22:45,,,,,,kadro
 2026-10-28 21:59,2026-10-28,28.10,SC0,St Johnstone,Motherwell,St Johnstone – Motherwell,SC0,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),2-1,0.09426676606067724,8.56,-0.19307648252060272,piyasa,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7425811597046884,1.23,-0.0866251735632333,piyasa,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Carlisle,Harrogate,Carlisle – Harrogate,EC,🟡 Tier 2 — Orta risk,2.5 Üst,0.6251333943457749,1.42,-0.11231058002899974,oran,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Forest Green,Eastleigh,Forest Green – Eastleigh,EC,🟡 Tier 2 — Orta risk,MS 1,0.6193383825358161,1.4,-0.13292626444985756,piyasa,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🟡 Tier 2 — Orta risk,MS 2,0.5660467656032389,1.66,-0.06036236909862358,piyasa,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Monza,Napoli,AC Monza – Napoli,I1,🟡 Tier 2 — Orta risk,KG Var,0.550391094065118,1.58,-0.13038207137711355,piyasa,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Sutton,Aldershot,Sutton United – Aldershot,EC,🟡 Tier 2 — Orta risk,MS 1,0.5374459204231146,1.68,-0.09709085368916759,oran,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Forest Green,Eastleigh,Forest Green – Eastleigh,EC,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.44253589501189605,1.89,-0.1636071584275165,piyasa,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Sutton,Aldershot,Sutton United – Aldershot,EC,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3502552264257192,2.46,-0.1383721429927307,oran,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Carlisle,Harrogate,Carlisle – Harrogate,EC,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.34548597398259806,2.55,-0.11901076634437502,oran,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🔴 Tier 3 — Yüksek risk,İY/MS 2/2,0.3340390491868702,2.53,-0.1548812055572184,piyasa,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Monza,Napoli,AC Monza – Napoli,I1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.260681474955697,2.91,-0.24141690787892167,piyasa,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Forest Green,Eastleigh,Forest Green – Eastleigh,EC,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.31879045096833675,2.58,-0.17752063650169114,piyasa,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Sutton,Aldershot,Sutton United – Aldershot,EC,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.28070996455248154,3.23,-0.09330681449548461,oran,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Carlisle,Harrogate,Carlisle – Harrogate,EC,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.27137552707414353,3.19,-0.1343120686334821,oran,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Monza,Napoli,AC Monza – Napoli,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5982507048911979,1.64,-0.018868843978435468,korner,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5529313637236773,1.58,-0.12636844531658975,korner,False,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Monza,Napoli,AC Monza – Napoli,I1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.48947820566379996,2.08,0.01811466778070403,korner,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Üst,0.44449899362119594,1.99,-0.11544700269382013,korner,True,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.14375688118375166,4.67,-0.32865536487187974,piyasa,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Forest Green,Eastleigh,Forest Green – Eastleigh,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11241326328707454,6.46,-0.2738103191654985,piyasa,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Sutton,Aldershot,Sutton United – Aldershot,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11206383869673972,6.61,-0.2592580262145504,oran,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,EC,Carlisle,Harrogate,Carlisle – Harrogate,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10796386478819149,6.91,-0.2539696943135967,oran,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Monza,Napoli,AC Monza – Napoli,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.10715087448566117,7.28,-0.2199416337443867,piyasa,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,💎 Değeri pozitif olanlar,2.5 Üst,0.4492639017768792,2.27,0.019829057033515785,piyasa,,,,2026-10-28 22:45,,,,,,kadro
+2026-10-28 22:13,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,💎 Değeri pozitif olanlar,MS 2 & 2.5 Üst,0.3129367555473504,3.22,0.007656352862468241,piyasa,,,,2026-10-28 22:45,,,,,,kadro
