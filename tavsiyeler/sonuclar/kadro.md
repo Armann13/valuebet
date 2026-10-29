@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 234 | 231 | 123 | -1.36 |
-| sonra | 245 | 243 | 117 | -22.15 |
+| önce | 234 | 234 | 125 | +2.30 |
+| sonra | 245 | 245 | 119 | -19.30 |
 
-Değişen tahmin: 44 (41 sonuçlandı: eski 37, yeni 26 tuttu).
+Değişen tahmin: 44 (44 sonuçlandı: eski 39, yeni 28 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -100,7 +100,7 @@ Kadro mesajı: 28.10 21:35
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.24, ✅ ÇŞ 1-X @1.21, ❌ Korner 7.5 Üst @1.22 → ❌ Korner 7.5 Üst @1.22 (değişti)
 - 🟡 Tier 2: ✅ En çok korner 1 @1.87, ❌ Korner 8.5 Üst @1.43 → ❌ ÇŞ X-2 @1.72, ❌ Korner 8.5 Üst @1.43 (değişti)
 - 🔴 Tier 3: ✅ MS 1 @2.07 → ❌ MS X @3.21 (değişti)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.27 → ❌ MS X & KG Var @4.38 (değişti)
+- 🟣 Tier 4: ❌ İY/MS 1/1 @3.27 → ❌ MS X & KG Var @4.38 (değişti)
 
 ## 28.10 · Juve Stabia – Hellas Verona
 
@@ -175,7 +175,7 @@ Kadro mesajı: 27.10 22:07
 
 - 🟢 Tier 1: ✅ MS 1 @1.24 → ✅ MS 1 @1.27 (aynı)
 - 🟡 Tier 2: ✅ MS 1 & 2.5 Üst @1.79, ❌ Korner 9.5 Alt @1.65, ✅ 2.5 Üst @1.62 → ❌ Korner 9.5 Alt @1.61 (değişti)
-- 🔴 Tier 3: ✅ MS 1 & KG Var @2.92, ❌ Korner 8.5 Alt @2.10 → ⏳ İY/MS 1/1 @1.79, ❌ Korner 8.5 Alt @2.04 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & KG Var @2.92, ❌ Korner 8.5 Alt @2.10 → ✅ İY/MS 1/1 @1.79, ❌ Korner 8.5 Alt @2.04 (değişti)
 
 ## 27.10 · Altrincham – Kidderminster Harriers
 
@@ -280,7 +280,7 @@ Kadro mesajı: 27.10 21:30
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.22, ❌ Korner 11.5 Alt @1.23 → ✅ ÇŞ 1-2 @1.24, ❌ Korner 11.5 Alt @1.23 (aynı)
 - 🟡 Tier 2: ❌ Korner 10.5 Alt @1.42 → ❌ Korner 10.5 Alt @1.42 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @1.90 → ✅ MS 1 @1.89 (aynı)
-- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.01, ⏳ İY/MS 1/1 @3.05 → ✅ MS 1 & 2.5 Üst @3.00 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.01, ✅ İY/MS 1/1 @3.05 → ✅ MS 1 & 2.5 Üst @3.00 (değişti)
 
 ## 27.10 · Ascoli – Sampdoria
 
@@ -325,7 +325,7 @@ Kadro mesajı: 27.10 21:16
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.25, ✅ ÇŞ 1-X @1.20 → ✅ ÇŞ 1-2 @1.25 (değişti)
 - 🟡 Tier 2: ✅ Korner 9.5 Alt @1.57 → ✅ Korner 9.5 Alt @1.57 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @2.23, ❌ Korner 8.5 Alt @1.97 → ✅ MS 1 @1.97, ❌ Korner 8.5 Alt @1.97 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.61 → ⏳ İY/MS 1/1 @3.06 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 1/1 @3.61 → ✅ İY/MS 1/1 @3.06 (aynı)
 
 ## 27.10 · Sassuolo – Lazio
 

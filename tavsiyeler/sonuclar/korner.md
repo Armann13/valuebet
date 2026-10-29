@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**256/499 tuttu** (isabet %51, beklenen %60) · -94.49 birim · 40 tahmin sonuç bekliyor
+**257/500 tuttu** (isabet %51, beklenen %60) · -94.20 birim · 46 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -30,6 +30,8 @@
 
 - ⏳ 🟡 Korner 10.5 Alt · @1.54
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.91
+- ⏳ 🟡 Korner 9.5 Üst · @1.58
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @1.97
 
 **22:30 · Elversberg – Mainz**
 
@@ -40,11 +42,13 @@
 
 - ⏳ 🟡 Korner 10.5 Alt · @1.56
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.93
+- ⏳ 3 En çok korner 1 · @3.19
 
 **23:00 · Sheffield United – Wrexham**
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.23
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
+- ⏳ 2 En çok korner 1 · @1.81
 
 **23:00 · Villarreal – Espanyol**
 
@@ -55,6 +59,8 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.09
+- ⏳ 3 En çok korner 2 · @2.10
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 
@@ -68,6 +74,7 @@
 - ⏳ 🟡 Korner 10.5 Alt · @1.53
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.88
 - ⏳ 🎯 En çok korner 2 · @3.16
+- ⏳ 3 En çok korner 2 · @3.12
 
 **22:45 · Fiorentina – Atalanta**
 
@@ -78,7 +85,7 @@
 
 **20:30 · Venezia – Inter**
 
-- ⏳ 🟢 En çok korner 2 · @1.29
+- ✅ 🟢 En çok korner 2 · @1.29 · korner 3-6
 
 **20:30 · AC Milan – Bologna**
 

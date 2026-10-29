@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/60 tuttu** (isabet %50, beklenen %43) · +8.93 birim · 1 tahmin sonuç bekliyor
+**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,7 +18,7 @@
 
 **23:00 · Hearts – Rangers**
 
-- ⏳ MS 1 · @3.44
+- ❌ MS 1 · @3.44 · 2-2
 
 ## 26.10.2026 Pazartesi
 

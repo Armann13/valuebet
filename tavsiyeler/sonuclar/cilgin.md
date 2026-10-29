@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/29 tuttu** (isabet %14, beklenen %16) · +49.75 birim · 19 tahmin sonuç bekliyor
+**7/40 tuttu** (isabet %18, beklenen %13) · +106.30 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 29.10 14:13 gönderilen kupon · 4 maç, oran 202.924,93
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
+- ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
+- ⏳ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
+- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
 
 ## 29.10 13:11 gönderilen kupon · 4 maç, oran 202.924,93
 
@@ -19,48 +28,48 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.90
-- ❌ 28.10 22:45 Genoa – Juventus · İY/MS 1/2 · @30.00
-- ⏳ 28.10 23:00 Hearts – Rangers · İY/MS 1/2 · @23.45
+- ❌ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.90 · İY 0-0, MS 0-2
+- ❌ 28.10 22:45 Genoa – Juventus · İY/MS 1/2 · @30.00 · İY 2-0, MS 2-0
+- ❌ 28.10 23:00 Hearts – Rangers · İY/MS 1/2 · @23.45 · İY 0-1, MS 2-2
 - ⏳ 29.10 20:30 Frosinone – Lecce · İY/MS 2/1 · @20.35
 
 ## 27.10 18:28 gönderilen kupon · 4 maç, oran 263.729,47
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ❌ 27.10 21:00 Benevento – US Catanzaro 1929 · İY/MS 2/1 · @22.05
-- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @20.40
-- ⏳ 27.10 22:45 AS Roma – Cagliari · İY/MS 2/1 · @26.00
-- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @22.55
+- ❌ 27.10 21:00 Benevento – US Catanzaro 1929 · İY/MS 2/1 · @22.05 · İY 0-0, MS 1-1
+- ❌ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @20.40 · İY 1-1, MS 1-2
+- ❌ 27.10 22:45 AS Roma – Cagliari · İY/MS 2/1 · @26.00 · İY 2-1, MS 4-2
+- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @22.55 · İY 1-0, MS 1-0
 
 ## 27.10 12:10 gönderilen kupon · 4 maç, oran 208.708,67
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00
-- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.50
-- ⏳ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.45
-- ⏳ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.80
+- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00 · İY 1-0, MS 1-0
+- ❌ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.50 · İY 1-1, MS 1-2
+- ✅ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.45 · İY 1-0, MS 1-3
+- ❌ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.80 · İY 0-0, MS 0-2
 
 ## 26.10 23:36 gönderilen kupon · 4 maç, oran 248.179,21
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.55
-- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00
-- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.80
-- ❌ 27.10 22:45 Worthing – Southend · İY/MS 1/2 · @21.95
+- ✅ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.55 · İY 1-0, MS 1-3
+- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00 · İY 1-0, MS 1-0
+- ❌ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.80 · İY 1-1, MS 1-2
+- ❌ 27.10 22:45 Worthing – Southend · İY/MS 1/2 · @21.95 · İY 0-2, MS 3-3
 
 ## 26.10 16:17 gönderilen kupon · 6 maç, oran 908.825,38
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/6 maç tuttu
 
 - ❌ 26.10 19:00 Beşiktaş – Başakşehir · İY/MS 2/1 · @19.65 · İY 0-0, MS 2-0
 - ❌ 26.10 19:00 Rizespor – Trabzonspor · 2.5 Alt · @2.26 · 3-4
 - ❌ 26.10 22:30 FC Andorra – CF Burgos · KG Yok · @1.81 · 2-3
-- ⏳ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.55
-- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00
-- ⏳ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.80
+- ✅ 27.10 22:45 Torino – Como 1907 · İY/MS 1/2 · @22.55 · İY 1-0, MS 1-3
+- ❌ 27.10 22:45 Oxford – Stockport · İY/MS 1/2 · @23.00 · İY 1-0, MS 1-0
+- ❌ 27.10 22:45 Woking – Boreham Wood · İY/MS 1/2 · @21.80 · İY 1-1, MS 1-2
 
 ## 25.10 20:19 gönderilen kupon · 5 maç, oran 507.380,47
 

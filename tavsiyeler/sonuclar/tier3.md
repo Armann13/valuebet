@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/262 tuttu** (isabet %45, beklenen %44) · -11.19 birim · 45 tahmin sonuç bekliyor
+**119/265 tuttu** (isabet %45, beklenen %44) · -14.19 birim · 44 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,6 +29,7 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.13
 - ⏳ ↳ Korner 9.5 Alt · @1.91
+- ⏳ ↳ Korner 10.5 Üst · @1.97
 
 **22:00 · Metz – Pau**
 
@@ -83,6 +84,7 @@
 **23:05 · Lille – RC Lens**
 
 - ⏳ ↳ MS 1 · @2.31
+- ⏳ ↳ Korner 8.5 Alt · @2.09
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 
@@ -104,7 +106,7 @@
 
 **20:30 · Venezia – Inter**
 
-- ⏳ ↳ MS 2 & KG Var · @2.21
+- ❌ ↳ MS 2 & KG Var · @2.21 · 0-2
 
 **20:30 · AC Milan – Bologna**
 
@@ -158,7 +160,7 @@
 
 **22:45 · Genoa – Juventus**
 
-- ❌ ↳ İY/MS 2/2 · @2.30
+- ❌ ↳ İY/MS 2/2 · @2.30 · İY 2-0, MS 2-0
 - ❌ ↳ Korner 8.5 Alt · @1.92 · korner 6-9
 - ✅ ↳ Korner 9.5 Üst · @1.98 · korner 6-9
 
@@ -172,7 +174,7 @@
 
 **23:00 · Hearts – Rangers**
 
-- ⏳ ↳ MS 2 · @1.99
+- ❌ ↳ MS 2 · @1.99 · 2-2
 
 ## 27.10.2026 Salı
 
@@ -225,7 +227,7 @@
 
 **22:45 · Ross County – Hamilton**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+- ❌ ↳ MS 1 & 2.5 Üst · @2.04 · 1-1
 
 **22:45 · AFC Fylde – Hartlepool**
 

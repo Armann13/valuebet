@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**23/38 tuttu** (isabet %61, beklenen %59) · +1.02 birim · 12 tahmin sonuç bekliyor
+**26/43 tuttu** (isabet %60, beklenen %59) · -0.24 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,9 +19,9 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 28.10 08:54 gönderilen kupon · 6 maç, oran 48,29
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
-- ⏳ 28.10 20:30 Venezia – Inter · MS 2 · @1.24
+- ✅ 28.10 20:30 Venezia – Inter · MS 2 · @1.24 · 0-2
 - ✅ 28.10 20:30 AC Milan – Bologna · En çok korner 2 · @3.29 · korner 2-3
 - ✅ 28.10 22:45 Genoa – Juventus · ÇŞ 1-2 · @1.20 · 2-0
 - ❌ 28.10 22:45 Aberdeen – Falkirk · ÇŞ 1-X · @1.21 · 0-1
@@ -30,25 +30,25 @@ sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 ## 27.10 18:28 gönderilen kupon · 6 maç, oran 41,12
 
-sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+❌ 4/6 maç tuttu
 
 - ✅ 27.10 22:00 LR Vicenza Virtus – Modena FC · ÇŞ X-2 · @1.20 · 1-2
 - ✅ 27.10 22:45 Leicester City – Wigan Athletic · MS 1 · @1.25 · 3-0
 - ✅ 27.10 22:45 Woking – Boreham Wood · MS 2 & KG Var · @2.60 · 1-2
 - ❌ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.09 · korner 5-6
-- ⏳ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.73
-- ⏳ 28.10 20:30 Venezia – Inter · MS 2 · @1.25
+- ❌ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.73 · 1-1
+- ✅ 28.10 20:30 Venezia – Inter · MS 2 · @1.25 · 0-2
 
 ## 27.10 12:10 gönderilen kupon · 6 maç, oran 40,52
 
-sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+❌ 4/6 maç tuttu
 
 - ✅ 27.10 22:45 AS Roma – Cagliari · MS 1 · @1.21 · 4-2
 - ✅ 27.10 22:45 Leicester City – Wigan Athletic · MS 1 · @1.25 · 3-0
 - ❌ 27.10 22:45 Torino – Como 1907 · En çok korner 1 · @3.10 · korner 5-6
-- ⏳ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.69
+- ❌ 27.10 22:45 Ross County – Hamilton · MS 1 & KG Var · @2.69 · 1-1
 - ✅ 27.10 22:45 Luton Town – Doncaster · MS 1 & KG Var · @2.57 · 3-1
-- ⏳ 28.10 20:30 Venezia – Inter · MS 2 · @1.25
+- ✅ 28.10 20:30 Venezia – Inter · MS 2 · @1.25 · 0-2
 
 ## 26.10 23:36 gönderilen kupon · 6 maç, oran 40,01
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**162/279 tuttu** (isabet %58, beklenen %62) · -33.10 birim · 43 tahmin sonuç bekliyor
+**163/283 tuttu** (isabet %58, beklenen %62) · -35.51 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -31,6 +31,7 @@
 
 - ⏳ 2.5 Üst · @1.43
 - ⏳ Korner 10.5 Alt · @1.54
+- ⏳ Korner 9.5 Üst · @1.58
 
 **22:00 · Nantes – Clermont**
 
@@ -96,7 +97,7 @@
 
 **20:30 · Venezia – Inter**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.55
+- ❌ ↳ MS 2 & 2.5 Üst · @1.55 · 0-2
 
 **20:30 · Parma – Udinese**
 
@@ -194,9 +195,9 @@
 
 **22:45 · Ross County – Hamilton**
 
-- ⏳ MS 1 · @1.43
-- ⏳ 2.5 Üst · @1.43
-- ⏳ KG Var · @1.59
+- ❌ MS 1 · @1.43 · 1-1
+- ❌ 2.5 Üst · @1.43 · 1-1
+- ✅ KG Var · @1.59 · 1-1
 
 **22:45 · MK Dons – Bromley**
 

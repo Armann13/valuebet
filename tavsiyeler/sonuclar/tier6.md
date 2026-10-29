@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/403 tuttu** (isabet %11, beklenen %11) · -94.83 birim · 42 tahmin sonuç bekliyor
+**43/405 tuttu** (isabet %11, beklenen %11) · -96.83 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -98,7 +98,7 @@
 
 **20:30 · Venezia – Inter**
 
-- ⏳ 1-2 · @7.80
+- ❌ 1-2 · @7.80 · 0-2
 
 **20:30 · Parma – Udinese**
 
@@ -154,7 +154,7 @@
 
 **23:00 · Hearts – Rangers**
 
-- ⏳ 1-2 · @8.01
+- ❌ 1-2 · @8.01 · 2-2
 
 ## 27.10.2026 Salı
 

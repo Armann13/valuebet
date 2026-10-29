@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**63/184 tuttu** (isabet %34, beklenen %32) · -9.87 birim · 32 tahmin sonuç bekliyor
+**65/189 tuttu** (isabet %34, beklenen %32) · -8.21 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -86,7 +86,7 @@
 
 **20:30 · Parma – Udinese**
 
-- ❌ ↳ İY/MS 2/2 · @3.84
+- ❌ ↳ İY/MS 2/2 · @3.84 · İY 0-0, MS 0-0
 
 **21:00 · AC Pisa – US Palermo**
 
@@ -94,7 +94,7 @@
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
-- ⏳ ↳ İY/MS 1/1 · @3.27
+- ❌ ↳ İY/MS 1/1 · @3.27 · İY 0-0, MS 2-1
 
 **22:00 · Juve Stabia – Hellas Verona**
 
@@ -134,7 +134,7 @@
 
 **23:00 · Hearts – Rangers**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.82
+- ❌ ↳ MS 2 & 2.5 Üst · @2.82 · 2-2
 
 ## 27.10.2026 Salı
 
@@ -153,7 +153,7 @@
 **22:00 · AC Cesena – Empoli**
 
 - ✅ ↳ MS 1 & 2.5 Üst · @3.01 · 2-1
-- ⏳ ↳ İY/MS 1/1 · @3.05
+- ✅ ↳ İY/MS 1/1 · @3.05 · İY 1-0, MS 2-1
 
 **22:00 · Ascoli – Sampdoria**
 
@@ -161,7 +161,7 @@
 
 **22:00 · Virtus Entella – AS Avellino 1912**
 
-- ❌ ↳ İY/MS 1/1 · @3.04
+- ❌ ↳ İY/MS 1/1 · @3.04 · İY 1-0, MS 1-1
 
 **22:00 · Mantova 1911 – Cremonese**
 
@@ -169,7 +169,7 @@
 
 **22:00 · Padova – FC Sudtirol**
 
-- ⏳ ↳ İY/MS 1/1 · @3.61
+- ✅ ↳ İY/MS 1/1 · @3.61 · İY 1-0, MS 2-0
 
 **22:45 · Barnet – York City**
 
@@ -193,7 +193,7 @@
 
 **22:45 · Ross County – Hamilton**
 
-- ⏳ ↳ MS 1 & KG Var · @2.83
+- ❌ ↳ MS 1 & KG Var · @2.83 · 1-1
 
 **22:45 · Woking – Boreham Wood**
 
