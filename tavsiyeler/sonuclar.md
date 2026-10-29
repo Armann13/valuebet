@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 29.10.2026 10:11. Sadece Telegram'da gönderilen tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 29.10.2026 11:12. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,16 +8,16 @@ Son güncelleme: 29.10.2026 10:11. Sadece Telegram'da gönderilen tahminler (ilk
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| [🟢 Tier 1](sonuclar/tier1.md) | 212 | 198 | 142 | %72 | %76 | -24.08 | %-12 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 299 | 279 | 162 | %58 | %62 | -33.10 | %-12 |
-| [🔴 Tier 3](sonuclar/tier3.md) | 283 | 262 | 119 | %45 | %44 | -11.19 | %-4 |
-| [🟣 Tier 4](sonuclar/tier4.md) | 201 | 184 | 63 | %34 | %32 | -9.87 | %-5 |
+| [🟢 Tier 1](sonuclar/tier1.md) | 225 | 198 | 142 | %72 | %76 | -24.08 | %-12 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 322 | 279 | 162 | %58 | %62 | -33.10 | %-12 |
+| [🔴 Tier 3](sonuclar/tier3.md) | 307 | 262 | 119 | %45 | %44 | -11.19 | %-4 |
+| [🟣 Tier 4](sonuclar/tier4.md) | 216 | 184 | 63 | %34 | %32 | -9.87 | %-5 |
 | [⚡ Tier 5](sonuclar/tier5.md) | 65 | 64 | 11 | %17 | %16 | -4.01 | %-6 |
-| [🔥 Tier 6](sonuclar/tier6.md) | 426 | 403 | 43 | %11 | %11 | -94.83 | %-24 |
-| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 519 | 499 | 256 | %51 | %60 | -94.49 | %-19 |
+| [🔥 Tier 6](sonuclar/tier6.md) | 445 | 403 | 43 | %11 | %11 | -94.83 | %-24 |
+| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 539 | 499 | 256 | %51 | %60 | -94.49 | %-19 |
 | [🎰 Sistem ayakları](sonuclar/sistem.md) | 311 | 294 | 161 | %55 | %66 | -57.18 | %-19 |
-| [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 44 | 38 | 23 | %61 | %59 | +1.02 | %3 |
-| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 44 | 29 | 4 | %14 | %16 | +49.75 | %172 |
+| [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 50 | 38 | 23 | %61 | %59 | +1.02 | %3 |
+| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 48 | 29 | 4 | %14 | %16 | +49.75 | %172 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 61 | 60 | 30 | %50 | %43 | +8.93 | %15 |
 
 ## Sistem kuponları
@@ -81,22 +81,6 @@ Kadro güncellemesi gelen 64 maçta (Tier 1-4) ilk verilen tahmin ile kadrolar a
 
 Değişen tahmin: 44 (41 sonuçlandı: eski 37, yeni 26 tuttu).
 
-## İdeal kuponlar
-
-3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; 25.10'dan beri 2, 26.10'dan beri 2.50+ oranlı 2-3 tane); hepsi tutmalı (1 birim, dönen = toplam oran).
-
-| gönderildi | maç | toplam oran | tutan maç | sonuç |
-|---|---|---|---|---|
-| 25.10 14:44 | 5 | 10,35 | 3/5 | ❌ |
-| 25.10 18:55 | 5 | 11,95 | 2/5 | ❌ |
-| 25.10 20:19 | 5 | 12,38 | 3/5 | ❌ |
-| 26.10 16:17 | 5 | 11,52 | 2/5 | ❌ |
-| 26.10 23:36 | 6 | 40,01 | 5/6 | ❌ |
-| 27.10 12:10 | 6 | 40,52 | 3/6 | ⏳ |
-| 27.10 18:28 | 6 | 41,12 | 3/6 | ⏳ |
-| 28.10 08:54 | 6 | 48,29 | 2/6 | ⏳ |
-| **toplam** (5 kupon) | | | | 5 birim → 0,00 |
-
 ## Çılgın kuponlar
 
 İY/MS dönüşleri + 💎; hepsi tutmalı (1 birim, dönen = toplam oran).
@@ -112,7 +96,25 @@ Değişen tahmin: 44 (41 sonuçlandı: eski 37, yeni 26 tuttu).
 | 27.10 12:10 | 4 | 208.708,67 | 0/4 | ⏳ |
 | 27.10 18:28 | 4 | 263.729,47 | 0/4 | ⏳ |
 | 28.10 08:54 | 4 | 270.576,65 | 0/4 | ⏳ |
+| 29.10 13:11 | 4 | 202.924,93 | 0/4 | ⏳ |
 | **toplam** (1 kupon) | | | | 1 birim → 0,00 |
+
+## İdeal kuponlar
+
+3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; 25.10'dan beri 2, 26.10'dan beri 2.50+ oranlı 2-3 tane); 29.10'da yerini 2'li kupon aldı; hepsi tutmalı (1 birim, dönen = toplam oran).
+
+| gönderildi | maç | toplam oran | tutan maç | sonuç |
+|---|---|---|---|---|
+| 25.10 14:44 | 5 | 10,35 | 3/5 | ❌ |
+| 25.10 18:55 | 5 | 11,95 | 2/5 | ❌ |
+| 25.10 20:19 | 5 | 12,38 | 3/5 | ❌ |
+| 26.10 16:17 | 5 | 11,52 | 2/5 | ❌ |
+| 26.10 23:36 | 6 | 40,01 | 5/6 | ❌ |
+| 27.10 12:10 | 6 | 40,52 | 3/6 | ⏳ |
+| 27.10 18:28 | 6 | 41,12 | 3/6 | ⏳ |
+| 28.10 08:54 | 6 | 48,29 | 2/6 | ⏳ |
+| 29.10 13:11 | 6 | 30,16 | 0/6 | ⏳ |
+| **toplam** (5 kupon) | | | | 5 birim → 0,00 |
 
 ## Gün gün
 
@@ -146,3 +148,4 @@ Değişen tahmin: 44 (41 sonuçlandı: eski 37, yeni 26 tuttu).
 | 27.10.2026 | 166 | 149 | 80 | %54 | %42 | +31.49 |
 | 28.10.2026 | 104 | 87 | 31 | %36 | %43 | -31.70 |
 | 29.10.2026 | 14 | 0 | 0 | — | — | — |
+| 30.10.2026 | 104 | 0 | 0 | — | — | — |

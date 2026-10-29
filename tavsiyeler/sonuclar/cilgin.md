@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/29 tuttu** (isabet %14, beklenen %16) · +49.75 birim · 15 tahmin sonuç bekliyor
+**4/29 tuttu** (isabet %14, beklenen %16) · +49.75 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 29.10 13:11 gönderilen kupon · 4 maç, oran 202.924,93
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
+- ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
+- ⏳ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
+- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
 
 ## 28.10 08:54 gönderilen kupon · 4 maç, oran 270.576,65
 

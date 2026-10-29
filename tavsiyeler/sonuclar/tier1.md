@@ -2,9 +2,54 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**142/198 tuttu** (isabet %72, beklenen %76) · -24.08 birim · 14 tahmin sonuç bekliyor
+**142/198 tuttu** (isabet %72, beklenen %76) · -24.08 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10.2026 Cuma
+
+**20:30 · Arminia Bielefeld – Braunschweig**
+
+- ⏳ En çok korner 1 · @1.28
+
+**21:00 · Le Havre – Paris Saint Germain**
+
+- ⏳ 2.5 Üst · @1.23
+- ⏳ Korner 11.5 Alt · @1.22
+
+**22:00 · Metz – Pau**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:00 · Grenoble – Dijon**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**22:00 · Rodez AF – Dunkerque**
+
+- ⏳ ÇŞ 1-X · @1.24
+
+**22:00 · Stade Laval – US Boulogne**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**22:30 · Elversberg – Mainz**
+
+- ⏳ Korner 11.5 Alt · @1.25
+
+**23:00 · Sheffield United – Wrexham**
+
+- ⏳ ÇŞ 1-2 · @1.22
+- ⏳ Korner 12.5 Alt · @1.23
+
+**23:00 · Villarreal – Espanyol**
+
+- ⏳ MS 1 · @1.32
+
+**23:05 · Lille – RC Lens**
+
+- ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 11.5 Alt · @1.21
 
 ## 29.10.2026 Perşembe
 

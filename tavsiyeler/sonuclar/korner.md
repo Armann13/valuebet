@@ -2,9 +2,64 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**256/499 tuttu** (isabet %51, beklenen %60) · -94.49 birim · 20 tahmin sonuç bekliyor
+**256/499 tuttu** (isabet %51, beklenen %60) · -94.49 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10.2026 Cuma
+
+**20:00 · Konyaspor – Galatasaray**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.64
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
+
+**20:30 · Arminia Bielefeld – Braunschweig**
+
+- ⏳ 🟢 En çok korner 1 · @1.28
+
+**20:30 · E. Cottbus – Bochum**
+
+- ⏳ 🟡 En çok korner 1 · @1.92
+
+**21:00 · Le Havre – Paris Saint Germain**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+
+**21:00 · Nice – Rennes**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.54
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.91
+
+**22:30 · Elversberg – Mainz**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.45
+
+**22:45 · Zulte Waregem – Club Brugge**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.56
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.93
+
+**23:00 · Sheffield United – Wrexham**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.23
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
+
+**23:00 · Villarreal – Espanyol**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.72
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.22
+
+**23:05 · Lille – RC Lens**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+
+**23:15 · Casa Pia AC – Sporting Lizbon**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.77
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.28
 
 ## 29.10.2026 Perşembe
 

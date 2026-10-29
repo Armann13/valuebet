@@ -2,9 +2,92 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/262 tuttu** (isabet %45, beklenen %44) · -11.19 birim · 21 tahmin sonuç bekliyor
+**119/262 tuttu** (isabet %45, beklenen %44) · -11.19 birim · 45 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10.2026 Cuma
+
+**20:00 · Konyaspor – Galatasaray**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.20
+- ⏳ ↳ Korner 8.5 Alt · @2.08
+
+**20:30 · Arminia Bielefeld – Braunschweig**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.41
+
+**20:30 · E. Cottbus – Bochum**
+
+- ⏳ ↳ MS 1 · @2.56
+
+**21:00 · Le Havre – Paris Saint Germain**
+
+- ⏳ ↳ MS 2 & KG Var · @2.17
+
+**21:00 · Nice – Rennes**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.13
+- ⏳ ↳ Korner 9.5 Alt · @1.91
+
+**22:00 · Metz – Pau**
+
+- ⏳ ↳ MS 1 · @1.91
+
+**22:00 · Rodez AF – Dunkerque**
+
+- ⏳ ↳ MS 1 · @1.94
+
+**22:00 · Nantes – Clermont**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.11
+
+**22:00 · Grenoble – Dijon**
+
+- ⏳ ↳ MS 2 · @2.15
+
+**22:00 · Stade Laval – US Boulogne**
+
+- ⏳ ↳ MS 1 · @2.17
+
+**22:30 · Stenhousemuir – Livingston**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.44
+
+**22:30 · Elversberg – Mainz**
+
+- ⏳ ↳ MS 1 · @2.81
+
+**22:45 · AFC Fylde – Hornchurch**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+
+**22:45 · Zulte Waregem – Club Brugge**
+
+- ⏳ ↳ İY/MS 2/2 · @1.96
+- ⏳ ↳ Korner 9.5 Alt · @1.93
+
+**22:45 · Newport – Chesterfield**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.85
+
+**23:00 · Sheffield United – Wrexham**
+
+- ⏳ ↳ MS 1 · @2.27
+
+**23:00 · Villarreal – Espanyol**
+
+- ⏳ ↳ MS 1 & KG Var · @2.57
+- ⏳ ↳ Korner 8.5 Alt · @2.22
+
+**23:05 · Lille – RC Lens**
+
+- ⏳ ↳ MS 1 · @2.31
+
+**23:15 · Casa Pia AC – Sporting Lizbon**
+
+- ⏳ ↳ MS 2 & KG Var · @2.81
+- ⏳ ↳ Korner 8.5 Alt · @2.28
 
 ## 29.10.2026 Perşembe
 
