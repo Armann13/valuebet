@@ -6,12 +6,20 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 234 | 234 | 125 | +2.30 |
-| sonra | 245 | 245 | 119 | -19.30 |
+| önce | 239 | 234 | 125 | +2.30 |
+| sonra | 250 | 245 | 119 | -19.30 |
 
 Değişen tahmin: 44 (44 sonuçlandı: eski 39, yeni 28 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 29.10 · Frosinone – Lecce
+
+Kadro mesajı: 29.10 19:53
+
+- 🟡 Tier 2: ⏳ MS 1 @1.54, ⏳ Korner 10.5 Alt @1.53 → ⏳ MS 1 @1.61, ⏳ Korner 10.5 Alt @1.57 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.00, ⏳ Korner 9.5 Alt @1.88 → ⏳ MS 1 & 2.5 Üst @2.05, ⏳ Korner 9.5 Alt @1.96 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.64 → ⏳ MS 1 & KG Var @2.63 (aynı)
 
 ## 28.10 · AC Monza – Napoli
 
