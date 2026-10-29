@@ -2381,3 +2381,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-29 14:13,2026-10-30,30.10,B1,Waregem,Club Brugge,Zulte Waregem – Club Brugge,B1,🎲 Çılgın kupon,İY/MS 1/2,0.056733477516360487,19.9,0.12899620257557354,oran,,,,2026-10-30 22:45,,,,,,
 2026-10-29 14:13,2026-10-30,30.10,D2,Cottbus,Bochum,E. Cottbus – Bochum,D2,🎲 Çılgın kupon,İY/MS 1/2,0.046153106513597136,23.45,0.0822903477438528,oran,,,,2026-10-30 20:30,,,,,,
 2026-10-29 14:13,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🎲 Çılgın kupon,İY/MS 1/2,0.04787624436777898,22.3,0.06764024940147118,oran,,,,2026-10-30 22:30,,,,,,
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟡 Tier 2 — Orta risk,MS 1,0.575862946479332,1.61,-0.07286065616827542,piyasa,False,,,2026-10-29 20:30,,,,,,kadro
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.4379452066587273,2.05,-0.10221232634960908,piyasa,True,,,2026-10-29 20:30,,,,,,kadro
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.3397575787614696,2.63,-0.10643756785733494,piyasa,True,,,2026-10-29 20:30,,,,,,kadro
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5812797338175896,1.57,-0.08739081790638437,korner,False,,,2026-10-29 20:30,,,,,,kadro
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.47945282386336463,1.96,-0.06027246522780538,korner,True,,,2026-10-29 20:30,,,,,,kadro
+2026-10-29 19:53,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1575284668971138,7.85,0.2365984651423434,piyasa,,,,2026-10-29 20:30,,,,,,kadro
