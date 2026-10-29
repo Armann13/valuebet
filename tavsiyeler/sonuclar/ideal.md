@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/43 tuttu** (isabet %60, beklenen %59) · -0.24 birim · 7 tahmin sonuç bekliyor
+**26/44 tuttu** (isabet %59, beklenen %58) · -1.24 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,14 +19,14 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 28.10 08:54 gönderilen kupon · 6 maç, oran 48,29
 
-sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+❌ 3/6 maç tuttu
 
 - ✅ 28.10 20:30 Venezia – Inter · MS 2 · @1.24 · 0-2
 - ✅ 28.10 20:30 AC Milan – Bologna · En çok korner 2 · @3.29 · korner 2-3
 - ✅ 28.10 22:45 Genoa – Juventus · ÇŞ 1-2 · @1.20 · 2-0
 - ❌ 28.10 22:45 Aberdeen – Falkirk · ÇŞ 1-X · @1.21 · 0-1
 - ❌ 28.10 22:45 Forest Green – Eastleigh · MS 1 & KG Var · @2.58 · 2-0
-- ⏳ 29.10 20:30 Frosinone – Lecce · En çok korner 2 · @3.16
+- ❌ 29.10 20:30 Frosinone – Lecce · En çok korner 2 · @3.16 · korner 10-3
 
 ## 27.10 18:28 gönderilen kupon · 6 maç, oran 41,12
 

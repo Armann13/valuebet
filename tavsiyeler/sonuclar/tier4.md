@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**65/189 tuttu** (isabet %34, beklenen %32) · -8.21 birim · 27 tahmin sonuç bekliyor
+**66/190 tuttu** (isabet %35, beklenen %32) · -6.57 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -72,7 +72,7 @@
 
 **20:30 · Frosinone – Lecce**
 
-- ⏳ ↳ MS 1 & KG Var · @2.64
+- ✅ ↳ MS 1 & KG Var · @2.64 · 5-1
 
 **22:45 · Fiorentina – Atalanta**
 

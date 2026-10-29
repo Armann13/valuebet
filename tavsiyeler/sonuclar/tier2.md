@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**163/283 tuttu** (isabet %58, beklenen %62) · -35.51 birim · 40 tahmin sonuç bekliyor
+**164/285 tuttu** (isabet %58, beklenen %62) · -35.97 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,6 +26,7 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @1.40
 - ⏳ ↳ Korner 10.5 Alt · @1.41
+- ⏳ ↳ Korner 9.5 Alt · @1.69
 
 **21:00 · Nice – Rennes**
 
@@ -50,6 +51,7 @@
 
 - ⏳ MS 2 · @1.40
 - ⏳ Korner 10.5 Alt · @1.56
+- ⏳ MS 2 & 2.5 Üst · @1.82
 
 **22:45 · AFC Fylde – Hornchurch**
 
@@ -81,8 +83,8 @@
 
 **20:30 · Frosinone – Lecce**
 
-- ⏳ MS 1 · @1.54
-- ⏳ Korner 10.5 Alt · @1.53
+- ✅ MS 1 · @1.54 · 5-1
+- ❌ Korner 10.5 Alt · @1.53 · korner 10-3
 
 **22:45 · Fiorentina – Atalanta**
 

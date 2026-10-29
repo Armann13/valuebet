@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**119/265 tuttu** (isabet %45, beklenen %44) · -14.19 birim · 44 tahmin sonuç bekliyor
+**120/267 tuttu** (isabet %45, beklenen %44) · -14.19 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -67,6 +67,7 @@
 
 - ⏳ ↳ İY/MS 2/2 · @1.96
 - ⏳ ↳ Korner 9.5 Alt · @1.93
+- ⏳ ↳ MS 2 & KG Var · @2.53
 
 **22:45 · Newport – Chesterfield**
 
@@ -95,8 +96,8 @@
 
 **20:30 · Frosinone – Lecce**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.00
-- ⏳ ↳ Korner 9.5 Alt · @1.88
+- ✅ ↳ MS 1 & 2.5 Üst · @2.00 · 5-1
+- ❌ ↳ Korner 9.5 Alt · @1.88 · korner 10-3
 
 **22:45 · Fiorentina – Atalanta**
 

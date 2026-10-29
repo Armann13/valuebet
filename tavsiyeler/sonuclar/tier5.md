@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/64 tuttu** (isabet %17, beklenen %16) · -4.01 birim · 1 tahmin sonuç bekliyor
+**11/65 tuttu** (isabet %17, beklenen %16) · -5.01 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **20:30 · Frosinone – Lecce**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 5-1
 
 ## 28.10.2026 Çarşamba
 
