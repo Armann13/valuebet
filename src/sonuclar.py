@@ -23,7 +23,7 @@ import pandas as pd
 
 import config
 from src import korner, kupon
-from src.tavsiye import bet_won
+from src.tavsiye import KUPON_IKON, KUPON_TURLERI, bet_won
 
 LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "maç", "lig", "seviye", "tahmin", "p",
             "odd", "değer", "kaynak", "merdiven", "hg", "ag", "hk", "ak", "ihg", "iag",
@@ -34,14 +34,18 @@ LOG_COLS = ["gönderildi", "gün", "tarih", "baslama", "div", "home", "away", "m
 KADRO_TAM_KAYIT = "2026-10-25 00:00"
 SEVIYELER = [("🟢", "Tier 1"), ("🟡", "Tier 2"), ("🔴", "Tier 3"), ("🟣", "Tier 4"), ("⚡", "Tier 5"), ("🔥", "Tier 6"),
              ("🔀", "Tier 8 İY/MS"), ("🚩", "Korner (tüm seviyeler)"), ("🎫", "Kupon ayakları"),
-             ("🎰", "Sistem ayakları"), ("🎯", "İdeal kupon ayakları"), ("🎲", "Çılgın kupon ayakları"),
-             ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
-AYRI = ("💎", "🎫", "🎰", "🎯", "🎲")   # bu bölümlerdeki tahmin, aynı tahmin başka seviyede de gönderildiyse ayrı sayılır
-KUPONLAR = ("🎰", "🎯", "🎲")   # her gönderilen kupon ayrı (bir bütün olarak sonuçlanır)
-TEK_KOLON = {"🎯": "İdeal kupon", "🎲": "Çılgın kupon"}   # n'de n: hepsi tutmalı, dönen = oranların çarpımı
+             ("🎰", "Sistem ayakları"), ("🎯", "İdeal kupon ayakları"),
+             *[(i, f"{n.split(' ', 1)[1]} ayakları") for i, n in zip(KUPON_IKON, (t[0] for t in KUPON_TURLERI))],
+             ("🎲", "Çılgın kupon ayakları"), ("💎", "💎 Değerli")]   # 🚩: seviyeye değil bahis türüne göre (korner)
+AYRI = ("💎", "🎫", "🎰", "🎯", *KUPON_IKON, "🎲")   # bu bölümlerdeki tahmin başka seviyede de gönderildiyse ayrı sayılır
+KUPONLAR = ("🎰", "🎯", *KUPON_IKON, "🎲")   # her gönderilen kupon ayrı (bir bütün olarak sonuçlanır)
+# n'de n: hepsi tutmalı, dönen = oranların çarpımı. 2'li / 3'lü / 4'lü 2026-10-29'dan beri (ideal kuponun yerine)
+TEK_KOLON = {**{i: t[0].split(" ", 1)[1] for i, t in zip(KUPON_IKON, KUPON_TURLERI)}, "🎲": "Çılgın kupon",
+             "🎯": "İdeal kupon"}
 SAYFA = {"🟢": "tier1", "🟡": "tier2", "🔴": "tier3", "🟣": "tier4", "⚡": "tier5", "🔥": "tier6", "🔀": "iyms",
-         "🚩": "korner",
-         "🎫": "kupon", "🎰": "sistem", "🎯": "ideal", "🎲": "cilgin", "💎": "degerli"}   # tavsiyeler/sonuclar/<ad>.md
+         "🚩": "korner", "🎫": "kupon", "🎰": "sistem", "🎯": "ideal",
+         **{i: f"kupon{t[1]}" for i, t in zip(KUPON_IKON, KUPON_TURLERI)},
+         "🎲": "cilgin", "💎": "degerli"}   # tavsiyeler/sonuclar/<ad>.md
 GUNLER = ("Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar")
 RAPOR_SAATI = 8          # TR saati: bir günün raporu en geç ertesi gün bu saatten sonra gider (eksik sonuç ⏳)
 RAPOR_LINKI = "https://github.com/Armann13/valuebet/blob/main/tavsiyeler/sonuclar.md"
@@ -269,30 +273,40 @@ def _stat_line(s: dict) -> str:
     return txt
 
 
+def _detail(r, w, prefix: str = "") -> str:
+    """Sonuç mesajında bir tahmin: işaret, (önek), maç: tahmin (skor) @oran."""
+    mark = _mark(r, w)
+    score = _score_text(r)
+    score = f" ({score})" if score else (" (iptal)" if mark == "🚫" else " (sonuç yok)")
+    odd = f" @{r['odd']:.2f}" if pd.notna(r["odd"]) else ""
+    return f"{prefix}{mark} {html.escape(str(r['maç']))}: {html.escape(str(r['tahmin']))}{score}{odd}"
+
+
 def day_message(day: str, df: pd.DataFrame, allt: pd.DataFrame) -> str:
-    """Bir günün sonuç mesajı (Telegram HTML): seviye özeti, kuponlar, kadro öncesi / sonrası, tek tek tahminler,
-    başlangıçtan beri toplam."""
+    """Bir günün sonuç mesajı (Telegram HTML): önce kuponlar ayaklarıyla (2026-10-29'dan beri Telegram kupon
+    gönderiyor), 💎'ler, kadro öncesi / sonrası, seviye özeti (Tier listeleri tam raporda; ayrıntı GitHub
+    sayfalarında), başlangıçtan beri toplam."""
     df = df[~_kadro(df)]  # kadro güncellemesi tahminleri ayrı satırda (kadro_compare)
-    won = _won(df)
-    lines = [f"📊 <b>Sonuçlar — {pd.Timestamp(day):%d.%m.%Y}</b>",
-             f"<i>Telegram'da gönderilen {len(df)} tahmin; her biri tek başına 1 birim, İddaa oranıyla</i>", ""]
-    lines += [_stat_line(s) for s in stats(df)]
+    won, allw = _won(df), _won(allt)
+    lines = [f"📊 <b>Sonuçlar — {pd.Timestamp(day):%d.%m.%Y}</b>"]
+    for icon in TEK_KOLON:
+        for s in systems(allt, icon):
+            if s["gün"] != day:
+                continue
+            legs = allt[allt["seviye"].astype(str).str.startswith(icon) & (allt["gönderildi"] == s["gönderildi"])]
+            lines += ["", _coupon_line(s, icon)] + [_detail(r, allw[i], "   ") for i, r in legs.iterrows()]
     lines += [_system_line(s) for s in systems(allt) if s["gün"] == day]
-    lines += [_coupon_line(s, icon) for icon in TEK_KOLON for s in systems(allt, icon) if s["gün"] == day]
+    v = df[df["seviye"].astype(str).str.startswith("💎")]
+    if len(v):
+        lines += ["", "<b>💎 Değerli</b>"] + [_detail(r, won[i]) for i, r in v.iterrows()]
     cmp = kadro_compare(allt[allt["gün"] == day])
     if cmp:
         lines += ["", _kadro_line(cmp)]
-    lines += ["", "<b>Ayrıntı</b>"]
-    for icon, _ in SEVIYELER:
-        for (_, r), w in zip(df[df["seviye"].str.startswith(icon)].iterrows(), won[df["seviye"].str.startswith(icon)]):
-            mark = _mark(r, w)
-            score = _score_text(r)
-            score = f" ({score})" if score else (" (iptal)" if mark == "🚫" else " (sonuç yok)")
-            odd = f" @{r['odd']:.2f}" if pd.notna(r["odd"]) else ""
-            lines.append(f"{mark} {icon} {html.escape(str(r['maç']))}: {html.escape(str(r['tahmin']))}{score}{odd}")
+    lines += ["", "<b>Seviye özeti</b> <i>(her tahmin tek başına 1 birim, İddaa oranıyla)</i>"]
+    lines += [_stat_line(s) for s in stats(df)]
     done = _won(allt).notna().sum()
     lines += ["", f"<b>Başlangıçtan beri</b> ({done} sonuçlanan tahmin)"] + [_stat_line(s) for s in stats(allt)]
-    lines += ["", f'<a href="{RAPOR_LINKI}">Tüm sonuçlar</a>']
+    lines += ["", f'<a href="{RAPOR_LINKI}">Tüm sonuçlar (Tier Tier her maç)</a>']
     return "\n".join(lines)
 
 
@@ -473,8 +487,9 @@ def write_pages(log: pd.DataFrame) -> None:
 def summary_md(log: pd.DataFrame) -> str:
     """tavsiyeler/sonuclar.md: tüm zamanlar (seviyeler kendi sayfasına bağlantılı), sistem kuponları, gün gün özet."""
     md = ["# Tavsiye sonuçları", "",
-          f"Son güncelleme: {datetime.now():%d.%m.%Y %H:%M}. Sadece Telegram'da gönderilen tahminler (ilk "
-          "gönderildiği andaki olasılık ve İddaa oranıyla). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS "
+          f"Son güncelleme: {datetime.now():%d.%m.%Y %H:%M}. Telegram mesajına giren tahminler (ilk gönderildiği andaki "
+          "olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve "
+          "aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS "
           "hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar "
           "doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın "
           "altındadır, uzun vadede zarar beklenir.", "", "## Tüm zamanlar", "",
@@ -510,8 +525,10 @@ def summary_md(log: pd.DataFrame) -> str:
                f"| önce | {o['tahmin']} | {o['sonuçlanan']} | {o['tutan']} | {o['kâr']:+.2f} |",
                f"| sonra | {s['tahmin']} | {s['sonuçlanan']} | {s['tutan']} | {s['kâr']:+.2f} |", "",
                f"Değişen tahmin: {d['n']} ({d['bitti']} sonuçlandı: eski {d['eski']}, yeni {d['yeni']} tuttu)."]
-    notes = {"🎯": "3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; "
-                   "25.10'dan beri 2, 26.10'dan beri 2.50+ oranlı 2-3 tane)",
+    notes = {**{i: f"29.10'dan beri; {lo:.2f}-{hi:.2f} oranlı {n} ayak (MS, MS & 2.5 Üst, MS & KG Var, en çok korner; "
+                   "değere göre), hepsi farklı maç" for i, (_, n, lo, hi) in zip(KUPON_IKON, KUPON_TURLERI)},
+             "🎯": "3 banko (Tier 1 MS / çifte şans) + oran yükseltici (Tier 3-4 en çok korner / MS & KG Var; "
+                   "25.10'dan beri 2, 26.10'dan beri 2.50+ oranlı 2-3 tane); 29.10'da yerini 2'li kupon aldı",
              "🎲": "İY/MS dönüşleri + 💎"}
     for icon, name in TEK_KOLON.items():
         cr = systems(log, icon)

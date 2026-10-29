@@ -100,10 +100,10 @@ yaradığını gör.
 ### Telegram bildirimi
 
 GitHub Actions her tavsiye raporundan sonra `python main.py telegram` çalıştırır:
-- **Özet, günde iki kez** (TR 08:00'den ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından önce
-  güncel oranlarla): bugün ve yarının maçları için 💎 değerli bahisler,
-  Tier 1-4'ten öne çıkanlar, Tier 5-6'dan en olası kesin skorlar ve tam raporun linki. Bugün ve yarın maç yoksa
-  (ör. milli maç arası bitti, ligler hafta sonu) sabah kısa bir not ve sıradaki maç günleri gelir.
+- **Kupon mesajı, günde iki kez** (TR 08:00'den ve 18:00'den sonraki ilk çalıştırmada; akşamki, akşam maçlarından
+  önce güncel oranlarla): bugün ve yarının maçlarından 2'li, 3'lü, 4'lü ve çılgın kupon, kuponlarda olmayan 💎'ler
+  ve tam raporun linki (aşağıda "Telegram kuponları"). Bugün ve yarın maç yoksa (ör. milli maç arası bitti, ligler
+  hafta sonu) sabah kısa bir not ve sıradaki maç günleri gelir.
 - **Anlık uyarı:** yeni bir 💎 çıkınca. Aynı bahis iki kez gönderilmez (`tavsiyeler/telegram_durum.json`).
 - **Takım adları:** İddaa'daki ad veri setindekinden farklıysa (ör. "Marsilya", "Sporting Lizbon", "Başakşehir")
   `team_aliases.csv`'ye `alias,team` satırı eklenir; eşleşmeyen takımın maçı listeye giremez. Eşleşmeyenler
@@ -123,30 +123,45 @@ Kurulum (bir kez; bot anahtarı koda girmez, GitHub'ın gizli ayarlarında durur
    gh secret set TELEGRAM_CHAT_ID --body SOHBET_NUMARASI
    ```
 
-### Telegram Tier listesi ve maç analizi
+### Telegram kuponları ve maç analizi
 
-- **Gün → saat → maç** düzeninde, her gün ayrı mesaj (2026-10-25): bugün / yarın İddaa'da oranı olan **her maç**
-  (seviye sınırı yok; maç başına Tier 1-4'ten birer gol tahmini, en fazla 2 korner, 1 kesin skor), altında Tier simgesiyle
-  (🟢 Tier 1-3, 🟣 Tier 4 çok yüksek risk: oran 2.30+, ör. MS & KG Var, MS & 2.5 Üst, sürpriz MS, İY/MS, yüksek korner
-  barajı; ⚡🔥 Tier 5-6 kesin skor; 💎 değerli), en altta 🎯 ideal ve 🎲 çılgın kupon. Her satırda tahmin ve İddaa
-  oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis listeye girmez. Telegram'ın 4096 karakter
-  sınırı etiketsiz metne uygulanır; aşarsa mesaj satır sınırından bölünür.
-- **Merdiven (↳):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
+- **Kuponlar** (2026-10-29'dan beri Tier listeleri yerine; kullanıcı isteği: "tier tier değil kupon önersin, 1.20 gibi
+  düşük oran istemiyorum"): `tavsiye.KUPON_TURLERI`
+
+  | kupon | ayak | ayak oranı | toplam oran (yaklaşık) |
+  |---|---|---|---|
+  | 2️⃣ 2'li | 2 | 1.70-2.50 | 3-6 |
+  | 3️⃣ 3'lü | 3 | 2.00-3.20 | 10-30 |
+  | 4️⃣ 4'lü | 4 | 2.20-3.50 | 30-100 |
+
+  Ayaklar sadece MS, MS & 2.5 Üst, MS & KG Var ve en çok korner (01-28.10 kayıtlarında 1.60+ oranda beklenenin
+  üstünde tutan türler; korner alt / üst, KG Yok, kesin skor ve İY/MS girmez), olasılık en az İddaa oranına ayarlı,
+  değeri -%10 ile +%20 arasında (+%20 üstü genelde model hatası). Sıra: önce 💎, sonra değer (İddaa fiyatı adil
+  fiyata en yakın olan). Her kuponda ayaklar farklı maçlardan, kuponlar da birbirinden farklı maçlardan; MBS'si
+  kupondaki maç sayısından büyük olan girmez. Yeterli ayak yoksa o kupon o gün çıkmaz. Neden az ayak, yüksek oran:
+  İddaa her ayakta ~%13 pay alır ve kuponda bu pay ayak sayısınca çarpılır (10 oranı 8 x 1.33 ile kurmak uzun vadede
+  paranın ~%33'ünü, 3 x 2.15 ile ~%66'sını bırakır). Her kuponun altında toplam oran ve yaklaşık kaç kuponda bir
+  tuttuğu; aynı kupon akşam yine gelirse sonuç takibine bir kez girer.
+- **Tier listeleri** Telegram'da gösterilmez; tam raporda (`tavsiyeler/son.md`) durur ve aynı ölçütle sonuç
+  takibine kaydedilir (maç başına Tier 1-4'ten birer gol tahmini, en fazla 2 korner, 1 kesin skor; 🟢 Tier 1-3,
+  🟣 Tier 4 çok yüksek risk: oran 2.30+; ⚡🔥 Tier 5-6 kesin skor). Raporda ayrıca **📌 Kupon adayları**: kuponlara
+  girebilecek tüm ayaklar, kendi kuponunu kurmak için.
+- Her satırda tahmin ve İddaa oranı (olasılık yazılmaz); İddaa'da kapalı ya da oranı olmayan bahis girmez; bir ayağı
+  kapanan kupon gösterilmez. Telegram'ın 4096 karakter sınırı etiketsiz metne uygulanır; aşarsa mesaj satır
+  sınırından bölünür.
+- **Merdiven (↳, raporda):** bir maç üst seviyedeyse alt seviyede sadece onun aynı maçta daha dar devamı gelir (MS 1 →
   MS 1 & KG Var / MS 1 & 2.5 Üst → İY/MS 1/1); kesin skor da merdivenin son basamağıyla uyumludur (ör. MS 1 & KG Var →
   2-1). İY/MS (ilk yarı / maç sonu; her golün ilk yarıda atılma olasılığı %44.6) olasılığına göre Tier 1-4'e girer.
 - **🎲 Çılgın kupon:** bugün / yarının İY/MS "dönüşlerinden" (1/X, 2/X, 1/2, 2/1; oran ~12-30) olasılık x İddaa oranı
   en yüksek 4 tanesi (farklı maçlar) + başka maçlardan en fazla 2 💎; toplam oran ve sonuçta bir bütün olarak takip.
   Dönüş olasılıkları geçmiş maçlara göre düzeltilir (`kupon.IYMS_DUZELTME`: binom ayrımı 1/2'yi %36, 2/1'i %22 az
   veriyordu; 2016-22'de öğrenip 2022/23+'da test edildi). Tutma ihtimali yüz binlerde bir: piyango.
-- **🎯 İdeal kupon:** Tier 1'den en olası 3 banko (sadece tek MS / çifte şans) + Tier 3-4'ten en olası 2 oran
-  yükseltici (sadece en çok korner / MS & KG Var; biri en az 2.50, diğeri en az 1.80), hepsi farklı maçlar; toplam oran
-  ~12-30 (2026-10-26'dan beri yükselticilerin hepsi 2.50+, en az 2 en fazla 3: `IDEAL_YUKSELTICI_MIN`,
-  `IDEAL_YUKSELTICI`; tek yükseltici 1.80+ iken ~3.8'di). Türler 2026-10-24'e kadarki
-  sonuçlara göre seçildi (992 sonuçlanan tahmin): bankolar beklenen kadar ya da üstünde, bu iki yükseltici türü
-  beklenenden iyi; korner üst yükseltici olmaz (3/26). Sonuçta bir bütün olarak takip.
-- 🎰 Sistem kupon 2026-10-24'te kaldırıldı (31 kuponda 283 birim yatırıldı, 71 döndü); eski kuponlar sonuçlarda kalır.
+- 🎯 İdeal kupon (3 Tier 1 banko + 2-3 oran yükseltici, 2026-10-24 → 29) yerini 2'li kupona bıraktı: bankolar
+  ~1.20'ydi. 🎰 Sistem kupon 2026-10-24'te kaldırıldı (31 kuponda 283 birim yatırıldı, 71 döndü). Eski kuponlar
+  sonuçlarda kalır.
 - **Maç analizi:** `python main.py analiz --saat 21:45 [--gun YYYY-AA-GG] [--telegram]` ya da GitHub → Actions →
-  "Maç analizi" → Run workflow (saat gir): o saatte başlayan maçların aynı biçimde Tier listesi, güncel oranlarla.
+  "Maç analizi" → Run workflow (saat gir): o saatte başlayan her maçın kupona uygun en değerli 3 ayağı ve o
+  maçlardan kurulabilen kuponlar, güncel oranlarla.
 - Kart, şut, isabetli şut, faul (kulüplerde `src/istatistik.py` modeli) ve golcü oranları `src/analiz.py`'de
   ayrıştırılır; şimdilik listelere girmez.
 
@@ -167,15 +182,16 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 
 ### Sonuç takibi (tavsiyeler tuttu mu?)
 
-- Telegram'da gönderilen her tahmin, gönderildiği andaki olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye
-  kaydedilir (aynı maç ve tahmin bir kez).
+- Telegram mesajına giren her tahmin (kupon ayakları, 💎 ve mesajda gösterilmeyen Tier seçimleri), gönderildiği andaki
+  olasılık ve İddaa oranıyla `tavsiyeler/gecmis.csv`'ye kaydedilir (aynı maç ve tahmin bir kez; her gönderilen
+  kupon ayrı ve bir bütün olarak: hepsi tutmalı, 1 birim → toplam oran).
 - Sonuçlar geldikçe kayıtlar ✅ / ❌ ile kapanır: milli maçlar ve kulüp maçları ESPN'den birkaç saat içinde
   (`src/kulup_sonuc.py`, `data/raw/kulup/espn.csv`; ESPN'de olmayan İskoçya League One / Two football-data'dan 1-3
   gün içinde). İptal edilen kayıt (`iptal` sütunu, ör. yanlış eşleşmiş maç) 🚫: isabete / kâra girmez, sistem
   kuponda 1.00 oranla tutmuş sayılır. Bir günün **📊 Sonuçlar** mesajı tüm tahminleri sonuçlanınca, en geç ertesi sabah
-  (08:00'den sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: seviye bazında isabet, beklenen
-  isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her tahmin tek başına 1 birim), tek tek tahminler ve
-  başlangıçtan beri toplam. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;
+  (08:00'den sonraki ilk çalıştırmada, günün özetinden önce) Telegram'a gider: önce kuponlar ayaklarıyla (tuttu mu,
+  dönen), 💎'ler, sonra seviye bazında isabet, beklenen isabet (ortalama olasılık), İddaa oranıyla kâr/zarar (her
+  tahmin tek başına 1 birim) ve başlangıçtan beri toplam; Tier'ların tek tek tahminleri GitHub sayfalarında. O ana kadar sonucu gelmeyenler (ör. ESPN'de olmayan bir turnuva) ⏳ ile gösterilir;
   sonradan gelirse toplamlara eklenir.
 - Tüm zamanların özeti (paylaşılabilir): `tavsiyeler/sonuclar.md`; tablodaki seviyeye tıklayınca o seviyenin tüm
   maçları tek tek, gün gün (`tavsiyeler/sonuclar/tier1.md` ... `korner.md`, `sistem.md`). Elle:
@@ -186,11 +202,11 @@ Tier 4'te 2.30 (Tier 3'ün ~1.80-2.60 oranlarının üstü).
 - `.github/workflows/kadro.yml`, günde 3 uzun iş (TR 11:00 / 17:00 / 23:00, her biri ~5 saat 40 dakika; 15 dakikalık
   zamanlamayı GitHub saatlerce atlıyordu): maç saatlerini kendi takip eder (`kadro --bekle`), başlamasına 15-90
   dakika kalan maç varken 10 dakikada bir bakar; önümüzdeki 8 saatte maç yoksa erken kapanır. İlk 11'ler ESPN'de
-  açıklandıysa (`src/kadro.py`) o maçların Tier listesi son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
-  mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), önceden
-  gönderilen tahminlere göre değişenler (🔄 / ➖) ve güncel liste (kuponlar hariç). Gönderilen maçlar
-  `tavsiyeler/kadro_durum.json`.
-- Kadro mesajındaki tahminler sonuç takibine ilk verilenlerden **ayrı** girer (`mesaj=kadro`; seviye istatistikleri
+  açıklandıysa (`src/kadro.py`) o maçların tahminleri son İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek
+  mesaj gider: dizilişler, son 5 resmi maçın en az 3'ünde ilk 11'e çıkıp bu maçta olmayanlar (yedekte mi), maç
+  önceden gönderilen bir kupondaysa o ayağın gönderildiği ve şimdiki oranı, son oranlarla kupona uygun en değerli 3
+  ayak (📌). Gönderilen maçlar `tavsiyeler/kadro_durum.json`.
+- Kadro anındaki Tier tahminleri (mesajda gösterilmez) sonuç takibine ilk verilenlerden **ayrı** girer (`mesaj=kadro`; seviye istatistikleri
   ilk tahminlerle): sonuç mesajında "📋 Kadro güncellemesi" satırı ve `tavsiyeler/sonuclar/kadro.md`'de maç maç
   önce → sonra (aynı / değişti / yeni / kalktı), isabet ve kâr; değişen tahminlerde eskisi mi yenisi mi tuttu.
 - Kadro oyuncu bazında modele girmez (oyuncu verisi yok): etkisi İddaa oranları üzerinden gelir; eksik listesi bilgi
@@ -313,7 +329,7 @@ src/teams.py         takım adı eşleştirme (İddaa / Understat -> football-da
 src/iddaa.py         İddaa oranlarının otomatik toplanması (data/raw/iddaa/)
 src/milli.py         milli takımlar: sonuç verisi, Türkçe ülke adları, model, doğrulama
 src/tavsiye.py       risk seviyesine göre tavsiye raporu (piyasaya ayarlı skor tablosundan tüm marketler)
-src/telegram.py      Telegram bildirimi (günlük özet + yeni 💎 uyarısı)
+src/telegram.py      Telegram bildirimi (günlük kupon mesajı + yeni 💎 uyarısı)
 src/odds.py          marj temizleme (proportional / power)
 src/backtest.py      walk-forward backtest, metrikler, value simülasyonu, rapor
 src/tune.py          XI/ridge ayarı (paralel ızgara, ayar/test dönemi ayrımı)

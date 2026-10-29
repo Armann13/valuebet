@@ -1,11 +1,11 @@
 """İddaa maç detayındaki marketlerin ayrıştırılması ve olasılıkları (kart, şut, faul, korner, gol kombinasyonları)
-ile seçilen saatteki maçların Tier listesi.
+ile seçilen saatteki maçların kupon analizi.
 
     python main.py analiz --saat 21:45 [--gun 2026-10-02] [--telegram]
 
-Analiz, günlük özetle aynı Tier listesi biçimindedir (tavsiye.run, sadece o saatte başlayan maçlarla): Tier 1-4
-(merdiven: Tier 1'deki tahminin Tier 2'de aynı maçta devamı, ör. MS 1 -> MS 1 & KG Var), kesin skor, İY/MS, korner
-(kulüp maçları) ve kuponlar. Sadece İddaa'da oynanabilen (oranı olan, kapalı olmayan) tahminler.
+Analiz (tavsiye.run, sadece o saatte başlayan maçlarla): maç başına kupona uygun en değerli ayaklar (📌) ve o
+maçlardan kurulabilen kuponlar, günlük kupon mesajıyla aynı biçimde (2026-10-29'dan beri Tier listesi yerine; Tier'lar
+tam raporda). Sadece İddaa'da oynanabilen (oranı olan, kapalı olmayan) tahminler.
 """
 import re
 
@@ -157,13 +157,18 @@ def corner_probs(odds: dict, cmat: np.ndarray | None) -> dict:
 
 
 def run(saat: str, gun: str | None = None, log: list | None = None) -> list[str]:
-    """Seçilen saatteki maçların Tier listesi: Telegram mesajları (günlük özetle aynı biçim). log verilirse mesaja
-    giren tahmin satırları eklenir (sonuç takibi için kaydedilir, bkz. sonuclar.record)."""
+    """Seçilen saatteki maçlar: maç başına kupona uygun en değerli ayaklar ve o maçlardan kurulabilen kuponlar
+    (Telegram mesajı, günlük kupon mesajıyla aynı biçim; 2026-10-29'dan beri Tier listesi yerine). log verilirse sonuç
+    takibine girecek satırlar eklenir (bkz. sonuclar.record)."""
+    import html
     from src import tavsiye, telegram
     _, picks = tavsiye.run(config.RAW_DIR / "fixtures.csv", saat=saat, gun=gun)
     now_tr = telegram._tr_now()
     day = pd.Timestamp(gun).date() if gun else now_tr.date()
     if picks.empty:
         return [f"🔎 <b>{day:%d.%m} · {saat}</b>: sistemin takip ettiği maç yok"]
-    header = f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({picks['maç'].nunique()} maç)"
-    return telegram.digest_parts(picks, now_tr, header, [] if log is None else log)
+    lines = [f"🔎 <b>{day:%d.%m} · {saat} maçları</b> ({picks['maç'].nunique()} maç)"]
+    for label in dict.fromkeys(picks["maç"]):
+        lines += ["", f"⚽ <b>{html.escape(str(label))}</b>"] + telegram.coupon_lines(label, picks, picks.iloc[:0])
+    return telegram.digest_parts(picks, now_tr, "\n".join(lines + [""]), [] if log is None else log,
+                                 bos="Bu saatteki maçlardan kupon çıkmadı; yukarıdaki ayaklarla kendi kuponunu kurabilirsin.")

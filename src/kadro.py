@@ -1,8 +1,9 @@
 """Kadro açıklanınca güncelleme (kullanıcı isteği, 2026-10-24).
 
-Maçtan ~1 saat önce ilk 11'ler açıklanınca (ESPN'in skor servisi: maç özetindeki kadrolar) o maçların Tier listesi son
+Maçtan ~1 saat önce ilk 11'ler açıklanınca (ESPN'in skor servisi: maç özetindeki kadrolar) o maçların tahminleri son
 İddaa oranlarıyla yeniden hesaplanır ve Telegram'a tek mesaj gider: dizilişler, son resmi maçlarında düzenli ilk 11'e
-çıkıp bu maçta olmayanlar (yedekte mi), sabahki listeye göre değişen tahminler ve güncel Tier listesi.
+çıkıp bu maçta olmayanlar (yedekte mi), maç önceden gönderilen bir kupondaysa o ayağın son oranı ve son oranlarla
+kupona uygun en değerli ayaklar (2026-10-29'dan beri Tier listesi yerine; Tier'lar takip için kaydedilir).
 
 Kadro oyuncu bazında modele girmez (oyuncu verimiz yok): kadro haberini piyasa fiyatlar; İddaa oranı değişince
 olasılıklar (milli ve Avrupa maçlarında doğrudan İddaa'ya, kulüplerde keskin oran yoksa İddaa'ya ayarlı) ve liste de
@@ -10,8 +11,8 @@ değişir. Eksik oyuncu listesi bilgi içindir.
 
 GitHub'da 15 dakikada bir (.github/workflows/kadro.yml): başlamasına PENCERE dakika kalan, mesajı gitmemiş maçlar
 kontrol edilir; kadro açıklanmışsa güncelleme gönderilir. Gönderilen maçlar tavsiyeler/kadro_durum.json'da.
-Mesajdaki tahminler sonuç takibine ilk verilenlerden ayrı (mesaj="kadro") girer: sonuclar.kadro_compare kadro öncesi /
-sonrası isabeti ve kârı karşılaştırır.
+Son oranlarla hesaplanan Tier tahminleri sonuç takibine ilk verilenlerden ayrı (mesaj="kadro") girer:
+sonuclar.kadro_compare kadro öncesi / sonrası isabeti ve kârı karşılaştırır.
 """
 import html
 import json
@@ -27,7 +28,6 @@ from src import kulup_sonuc
 SUMMARY_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/summary"
 PENCERE = (15, 90)    # başlamasına bu kadar dakika kalan maçlar (kadrolar genelde ~60 dakika önce açıklanır)
 DUZENLI = 3           # son 5 resmi maçın en az bu kadarında ilk 11'de: düzenli oyuncu
-SEVIYE = ("🟢", "🟡", "🔴", "🟣", "⚡", "🔥")   # değişiklik karşılaştırmasına giren seviyeler
 
 
 def state_path():
@@ -175,30 +175,6 @@ def lineup_lines(label: str, lu: dict) -> list[str]:
     return out
 
 
-def changes(old: pd.DataFrame, new_rows: list) -> list[str]:
-    """Önceden gönderilen tahminlere göre değişenler: aynı maçta aynı seviyede önceden verilen tahmin şimdi farklıysa
-    "🔄 eski → yeni", kalktıysa "➖". Önceden o seviyede tahmin olmayan yeni satırlar sayılmaz (sabah mesajında her
-    maçın sadece bir kısmı vardı). Kesin skor tek grup (⚽): kısa listeye girip çıkması (Tier 5 / 6) değişiklik değil."""
-    def groups(rows) -> dict:
-        out = {}
-        for r in rows:
-            icon = str(r["seviye"])[:1]
-            if icon in SEVIYE:
-                out.setdefault((r["maç"], "⚽" if icon in ("⚡", "🔥") else icon), set()).add(r["tahmin"])
-        return out
-    before, after = groups(old.to_dict("records")), groups(new_rows)
-    out = []
-    for (maç, icon), bets in sorted(before.items()):
-        now = after.get((maç, icon), set())
-        gone, new = sorted(bets - now), sorted(now - bets)
-        name = f"{icon} {html.escape(maç)}"
-        if gone and new:
-            out.append(f"🔄 {name}: {html.escape(', '.join(gone))} → {html.escape(', '.join(new))}")
-        elif gone:
-            out.append(f"➖ {name}: {html.escape(', '.join(gone))} (artık listede yok)")
-    return out
-
-
 def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
     """Kadrosu açıklanan aday maçlar için güncelleme mesajları. Döner: {"satirlar": sonuç takibine girecek tahminler,
     "maclar": mesajı giden İddaa maç numaraları, "zaman": gönderim zamanı (TR)} (kayıt: kaydet)."""
@@ -218,36 +194,29 @@ def run(send: bool = True, now_utc: pd.Timestamp | None = None) -> dict:
     if not ready:
         return out
     log = sonuclar.load_log()
-    now_tr = telegram._tr_now()
+    kupon = (*tavsiye.KUPON_IKON, "🎲", "🎯", "🎰")
     slots = {}
     for r, lu in ready:
         slots.setdefault(pd.Timestamp(r["kickoff_utc"]) + pd.Timedelta(hours=3), []).append((r, lu))
     for ko, items in sorted(slots.items()):
         _, picks = tavsiye.run(config.RAW_DIR / "fixtures.csv", saat=f"{ko:%H:%M}", gun=f"{ko:%Y-%m-%d}")
         labels = [tavsiye._match_label(r) for r, _ in items]
-        if not picks.empty:  # ideal / çılgın kupon günlük özette; her kadro mesajında yeni kupon açılmasın
-            picks = picks[picks["maç"].isin(labels) & ~picks["seviye"].str.startswith(("🎰", "🎯", "🎲"))]
-        head = [f"📋 <b>Kadrolar açıklandı · {ko:%d.%m %H:%M}</b>", ""]
-        for label, (_, lu) in zip(labels, items):
-            head += lineup_lines(label, lu) + [""]
-        rows = []
-        if not picks.empty:
-            telegram.digest_parts(picks, now_tr, "", rows)  # önce yeni liste (değişiklikleri bulmak için)
+        if not picks.empty:  # kuponlar günlük özette; her kadro mesajında yeni kupon açılmasın
+            picks = picks[picks["maç"].isin(labels) & ~picks["seviye"].str.startswith(kupon)]
         days = {pd.Timestamp(r["kickoff_utc"]).strftime("%Y-%m-%d") for r, _ in items}  # kayıttaki gün: UTC tarihi
-        old = (log[log["maç"].isin(labels) & log["gün"].isin(days) & ~sonuclar._kadro(log)]  # ilk verilenler
-               if len(log) else log)
-        diff = changes(old, rows) if len(old) else []
-        head += ["🔄 <b>Sabahki listeye göre</b>"] + (diff or ["Değişiklik yok"]) if len(old) else []
-        rows = []
-        if picks.empty:
-            msgs = ["\n".join(head + ["", "Bu maçlar için tavsiye çıkmadı (oran yok ya da kapalı)."])]
-        else:
-            msgs = telegram.digest_parts(picks, now_tr, "\n".join(head).rstrip(), rows)
+        sent = (log[log["seviye"].astype(str).str.startswith(kupon) & log["gün"].isin(days) & ~sonuclar._kadro(log)]
+                if len(log) else log)  # bu maçların önceden gönderilen kupon ayakları
+        lines = [f"📋 <b>Kadrolar açıklandı · {ko:%d.%m %H:%M}</b>"]
+        for label, (_, lu) in zip(labels, items):
+            lines += [""] + lineup_lines(label, lu) + telegram.coupon_lines(label, picks, sent)
+        lines += ["", f'<a href="{telegram.RAPOR_LINKI}">Tam rapor</a>']
+        msgs = ["\n".join(lines)]
         if not send:
             print("\n\n".join(msgs))
         elif not all([telegram.send(m) for m in msgs]):
             continue  # gönderilemedi: bir sonraki çalıştırmada tekrar denenir
-        # mesajdaki tüm tahminler (aynı kalanlar da) "kadro" olarak ayrı kaydedilir: kadro öncesi / sonrası karşılaştırma
+        # Tier tahminleri (mesajda gösterilmez) "kadro" olarak ayrı kaydedilir: kadro öncesi / sonrası karşılaştırma
+        rows = telegram.tracked(picks) if not picks.empty else []
         out["satirlar"] += [{**r, "mesaj": "kadro"} for r in rows]
         out["maclar"] += [str(r["event_id"]) for r, _ in items]
     return out

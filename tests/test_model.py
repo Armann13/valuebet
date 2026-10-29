@@ -439,56 +439,52 @@ def test_telegram_messages():
          "değer": float("nan"), "gerçek_değer": False},  # İddaa'da kapalı: listeye girmez
         *[{**row, "maç": m, "seviye": t6, "tahmin": sc, "p": 0.12, "odd": 7.0, "değer": float("nan"),
            "gerçek_değer": False} for m, sc in [("A – B", "1-0"), ("E – F", "0-2"), ("M – N", "1-2"), ("G – H", "3-3")]]])
-    msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
+    # Telegram'da Tier listeleri yok (2026-10-29'dan beri kuponlar); Tier'lar sonuç takibi için yine kaydedilir
+    log = []
+    msgs, _ = build_messages(pd.concat([picks, extra], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0), log=log)
     allt = "\n".join(msgs)
-    assert "   🟣 MS 2 &amp; KG Var · <b>2.90</b>" in allt  # tahmin maçın altında, Tier simgesiyle
-    assert "   🔥 0-2 ·" in allt and "   🔥 1-2 ·" in allt and "K – L" not in allt  # oranı kapalı tahmin yok
-    assert "⚽ <b>G – H</b>" in allt and "   🔥 3-3 ·" in allt  # her maç görünür (sadece kesin skoru olan da)
-    assert allt.count("1-0 ·") == 1 and "%" not in allt  # maç başına tek kesin skor (Tier 5 varsa o); yüzde yok
+    assert len(msgs) == 1 and "ÇŞ 1-X" not in allt and "0-2" not in allt and "Tier 1" not in allt and "%" not in allt
+    assert "💎 <b>DEĞERLİ</b>" in allt and "➜ MS 1 · <b>2.00</b> 💎" in allt
+    assert "kupon kuracak kadar uygun ayak" in build_messages(extra, {}, datetime(2026, 10, 3, 10, 0))[0][0]
+    kept = {(r["maç"], r["tahmin"]) for r in log}
+    assert {("A – B", "ÇŞ 1-X"), ("M – N", "MS 2 & KG Var"), ("G – H", "3-3"), ("A – B", "MS 1")} <= kept
+    assert ("K – L", "MS 1") not in kept and sum(r["tahmin"] == "1-0" for r in log) == 1  # kapalı yok; tek kesin skor
+    from src.telegram import tracked
     kor = pd.DataFrame([{**row, "maç": "C – D", "seviye": s, "tahmin": t, "p": 0.6, "odd": 1.5, "değer": -0.1,
                          "gerçek_değer": False} for s, t in [("🟢 Tier 1", "Korner 11.5 Alt"), ("🟡 Tier 2", "Korner 10.5 Alt"),
                                                              ("🔴 Tier 3", "Korner 9.5 Alt"), ("🟢 Tier 1", "MS 1")]])
-    one = build_messages(kor, {}, datetime(2026, 10, 3, 10, 0))[0][0]
-    assert "Korner 11.5 Alt" in one and "Korner 10.5 Alt" in one and "Korner 9.5 Alt" not in one and "🟢 MS 1" in one
-    # gün -> saat -> maç: aynı maçın tüm tahminleri tek başlık altında, Tier sırasıyla; bugün yarından önce
-    timed = pd.DataFrame([{**row, "maç": m, "baslama": b, "seviye": s, "tahmin": t, "p": 0.6, "odd": o, "değer": -0.1,
-                           "gerçek_değer": False, "mbs": mbs}
-                          for m, b, s, t, o, mbs in [
-                              ("Y – Z", "2026-10-04 19:00", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 1),
-                              ("A – B", "2026-10-03 21:45", "🟡 Tier 2", "MS 1", 1.6, 3),
-                              ("A – B", "2026-10-03 21:45", "🟢 Tier 1", "ÇŞ 1-X", 1.2, 3)]])
-    days = build_messages(timed, {}, datetime(2026, 10, 3, 10, 0))[0]  # her gün ayrı mesaj
-    assert len(days) == 2 and "YARIN" not in days[0] and days[1].startswith("⚽ <b>Günün tavsiyeleri — 03.10</b> · devam")
-    assert "Tam rapor" in days[1] and "Tam rapor" not in days[0]  # açıklama ve bağlantı son mesajda
-    body = "\n".join(days)
-    assert body.count("⚽ <b>A – B</b> · MBS 3") == 1, body
-    i = body.index
-    assert i("📅 <b>BUGÜN · 03.10 Cumartesi</b>") < i("🕘 <b>21:45</b>") < i("⚽ <b>A – B</b>") < \
-        i("   🟢 ÇŞ 1-X · <b>1.20</b>") < i("   🟡 MS 1 · <b>1.60</b>") < i("📅 <b>YARIN · 04.10 Pazar</b>") < i("Y – Z")
-    # çılgın kupon bölümü: toplam oran Türkçe biçimde, en az 4 dönüş ayağı varsa
+    assert [r["tahmin"] for r in tracked(kor)] == ["MS 1", "Korner 11.5 Alt", "Korner 10.5 Alt"]  # maç başına 2 korner
+    # kupon bölümü: ayaklar, toplam oran Türkçe biçimde, yaklaşık kaç kuponda bir; ayak eksikse / kapandıysa yok
+    k2 = pd.DataFrame([{**row, "maç": m, "seviye": "2️⃣ 2'li kupon", "tahmin": t, "p": p, "odd": o, "değer": p * o - 1,
+                        "gerçek_değer": False} for m, t, p, o in [("P – Q", "MS 1 & KG Var", 0.45, 2.2),
+                                                                  ("R – S", "MS 1", 0.55, 1.8)]])
+    k2.loc[1, "gerçek_değer"] = True  # 💎 kuponda: ayrıca 💎 bölümünde tekrar yazılmaz
+    v2 = picks.iloc[[0]].assign(maç="R – S")
+    log = []
+    msgs, st = build_messages(pd.concat([picks, k2, v2], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0), log=log)
+    assert "2'Lİ KUPON" in msgs[0] and "🧾 <b>2 maç · toplam oran 3,96</b> · yaklaşık 4 kuponda 1 tutar" in msgs[0], msgs[0]
+    assert msgs[0].count("R – S") == 1 and "Günün kuponları — 03.10" in msgs[0]
+    assert sum(str(r["seviye"]).startswith("2️⃣") for r in log) == 2
+    log = []  # aynı kupon tekrar gönderilince gösterilir ama sonuç takibine ikinci kez girmez
+    msgs, _ = build_messages(pd.concat([picks, k2], ignore_index=True), st, datetime(2026, 10, 3, 11, 0), force=True, log=log)
+    assert "2'Lİ KUPON" in msgs[0] and not any(str(r["seviye"]).startswith("2️⃣") for r in log)
+    assert "2'Lİ KUPON" not in build_messages(pd.concat([picks, k2.head(1)], ignore_index=True), {},
+                                              datetime(2026, 10, 3, 10, 0))[0][0]  # ayak eksik
+    assert "2'Lİ KUPON" not in build_messages(pd.concat([picks, k2.assign(odd=[2.2, float("nan")])], ignore_index=True),
+                                              {}, datetime(2026, 10, 3, 10, 0))[0][0]  # bir ayak kapandı
+    # çılgın kupon bölümü: en az 4 dönüş ayağı varsa
     cz = pd.DataFrame([{**row, "maç": m, "seviye": "🎲 Çılgın kupon", "tahmin": t, "p": 0.05, "odd": o,
                         "değer": -0.3, "gerçek_değer": False}
                        for m, t, o in [("P – Q", "İY/MS 2/X", 12.1), ("R – S", "İY/MS 1/X", 12.3),
                                        ("T – U", "İY/MS 2/X", 12.7), ("V – W", "İY/MS 2/X", 12.6)]])
     msgs, _ = build_messages(pd.concat([picks, cz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
-    assert "ÇILGIN KUPON" in msgs[0] and "4 maç · toplam oran 23.815,78" in msgs[0], msgs[0]
+    assert "ÇILGIN KUPON" in msgs[0] and "4 maç · toplam oran 23.815,78</b> · yaklaşık 160.000 kuponda 1" in msgs[0], msgs[0]
     msgs, _ = build_messages(pd.concat([picks, cz.head(3)], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
     assert "ÇILGIN KUPON" not in msgs[0]  # dönüş eksik: kupon gösterilmez
-    iz = pd.DataFrame([{**row, "maç": m, "seviye": "🎯 İdeal kupon", "tahmin": t, "p": 0.8, "odd": o, "değer": -0.05,
-                        "gerçek_değer": False}
-                       for m, t, o in [("P – Q", "ÇŞ 1-X", 1.2), ("R – S", "MS 2", 1.25), ("T – U", "MS 1", 1.3),
-                                       ("V – W", "En çok korner 1", 2.0), ("X – Y", "MS 1 & KG Var", 2.5)]])
-    msgs, _ = build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))
-    assert "İDEAL KUPON" in msgs[0] and "5 maç · toplam oran 9,75" in msgs[0] and "SİSTEM KUPON" not in msgs[0]
-    assert "İDEAL KUPON" not in build_messages(pd.concat([picks, iz.head(4)], ignore_index=True), {},
-                                               datetime(2026, 10, 3, 10, 0))[0][0]  # ayak eksik
-    iz.loc[0, "odd"] = float("nan")  # bir ayak kapandı: kupon gösterilmez
-    assert "İDEAL KUPON" not in build_messages(pd.concat([picks, iz], ignore_index=True), {}, datetime(2026, 10, 3, 10, 0))[0][0]
     from src.telegram import _visible_len  # Telegram sınırı etiketsiz metne, UTF-16 birimiyle (🟣 = 2)
     assert _visible_len("<b>A &amp; B</b> 🟣") == len("A & B ") + 2
     msgs, st = build_messages(picks, {}, datetime(2026, 10, 3, 10, 0))  # 10:00: günlük özet (tek mesaj)
-    assert len(msgs) == 1 and "Günün tavsiyeleri" in msgs[0] and "   💎 MS 1 · <b>2.00</b>" in msgs[0]
-    assert "   🟢 ÇŞ 1-X" in msgs[0] and "   ⚡ 1-0 ·" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
+    assert len(msgs) == 1 and "Günün kuponları" in msgs[0] and "Tam rapor" in msgs[0] and "KUPON" not in msgs[0]
     # maç saati: bugün "21:45", yarın "Yarın 19:00"; tahmin satırı ayrı
     from src.telegram import _fmt
     r = {**row, "tahmin": "MS 1", "p": 0.7, "odd": 1.4, "değer": -0.02, "gerçek_değer": False, "mbs": 3}
@@ -502,15 +498,15 @@ def test_telegram_messages():
     msgs, st = build_messages(new, st, datetime(2026, 10, 3, 16, 0))  # yeni 💎: anlık uyarı
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0] and "C – D" in msgs[0] and "A – B" not in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 18, 30))  # akşam özeti (💎 tekrar uyarı olarak gelmez)
-    assert len(msgs) == 1 and "Akşam güncellemesi" in msgs[0]
+    assert len(msgs) == 1 and "Akşam kuponları" in msgs[0]
     msgs, st = build_messages(picks, st, datetime(2026, 10, 3, 21, 0))  # aynı akşam tekrar: hiçbir şey
     assert msgs == []
     msgs, st2 = build_messages(picks, st, datetime(2026, 10, 3, 21, 5), force=True)  # elle istenen güncel özet
-    assert len(msgs) == 1 and "Güncel tavsiyeler" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
+    assert len(msgs) == 1 and "Güncel kuponlar" in msgs[0] and st2["son_ozet"] == st["son_ozet"]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 7, 0))  # 07:00: özet yok ama 💎 uyarısı var
     assert len(msgs) == 1 and "Yeni değerli bahis" in msgs[0]
     msgs, _ = build_messages(picks, {}, datetime(2026, 10, 3, 8, 30))  # 08:30: sabah özeti (geç gelen sabah işi)
-    assert "Günün tavsiyeleri" in msgs[0]
+    assert "Günün kuponları" in msgs[0]
     # bugün ve yarın maç yoksa sabah kısa not (sıradaki maç günleriyle); akşam tekrar gelmez
     far = picks[~picks["seviye"].str.startswith("💎")].assign(gün="2026-10-10", maç="Y – Z")
     msgs, st3 = build_messages(far, {}, datetime(2026, 10, 7, 9, 0))
@@ -519,7 +515,7 @@ def test_telegram_messages():
     assert "maç yok" in build_messages(pd.DataFrame(), {}, datetime(2026, 10, 7, 9, 0))[0][0]
     assert build_messages(pd.DataFrame(), {}, datetime(2026, 10, 7, 7, 0))[0] == []  # 08:00'den önce: yok
     msgs, _ = build_messages(picks, {"son_ozet": "2026-10-03"}, datetime(2026, 10, 3, 12, 0))  # eski durum biçimi
-    assert "Günün tavsiyeleri" in msgs[0]
+    assert "Günün kuponları" in msgs[0]
 
 
 def test_kupon():
@@ -572,30 +568,34 @@ def test_kupon():
     assert legs.loc[legs["maç"] == "A", "tahmin"].item() == "İY/MS 1/2"  # A'da en değerli dönüş
     assert list(cr.loc[~cr["tahmin"].str.startswith("İY/MS"), "maç"]) == ["G", "H"]  # A zaten kuponda
     assert _crazy(c[c["maç"].isin(["A", "B", "C"])], pos, now).empty
-    # ideal kupon: Tier 1'den en olası 3 banko (tek MS / çifte şans, farklı maç) + Tier 3-4'ten en olası en çok korner /
-    # MS & KG Var (başka maç); korner / kombinasyon banko olmaz, korner üst yükseltici olmaz
-    from src.tavsiye import _ideal, is_banko, is_booster
-    assert is_banko("ÇŞ 1-X") and is_banko("MS 2") and not is_banko("MS 1 & 2.5 Üst") and not is_banko("Korner 9.5 Alt")
-    assert is_booster("En çok korner 1") and is_booster("MS 1 & KG Var") and not is_booster("Korner 10.5 Üst")
-    t1 = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": -0.05}
-                       for m, t, p, o in [("A", "ÇŞ 1-X", 0.85, 1.2), ("A", "MS 1", 0.75, 1.25), ("B", "MS 2", 0.80, 1.22),
-                                          ("C", "Korner 9.5 Alt", 0.90, 1.2), ("D", "ÇŞ X-2", 0.78, 1.21),
-                                          ("E", "MS 1", 0.72, 1.3)]])
-    up = pd.DataFrame([{**base, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": -0.05}
-                       for m, t, p, o in [("A", "En çok korner 1", 0.5, 1.9), ("F", "Korner 10.5 Üst", 0.48, 2.0),
-                                          ("G", "MS 2 & KG Var", 0.35, 2.7), ("H", "En çok korner 2", 0.42, 2.2),
-                                          ("I", "En çok korner 1", 0.38, 2.8), ("J", "MS 1 & KG Var", 0.30, 3.0)]])
-    pool = lambda u: pd.concat([t1, u], ignore_index=True)  # noqa: E731  (tüm adaylar; seviye bantlarıyla seçilir)
-    # yükselticiler 2.50+, en olası en fazla 3 (H 2.20'de kalır): I, G, J
-    idl = _ideal(pool(up), now)
-    assert list(idl["maç"]) == ["A", "B", "D", "I", "G", "J"], idl
-    assert list(idl["tahmin"]) == ["ÇŞ 1-X", "MS 2", "ÇŞ X-2", "En çok korner 1", "MS 2 & KG Var", "MS 1 & KG Var"]
-    assert list(_ideal(pool(up[up["maç"].isin(["G", "J"])]), now)["maç"]) == ["A", "B", "D", "G", "J"]  # 2 yeter
-    assert _ideal(pool(up[up["maç"].isin(["G", "H"])]), now).empty  # 2.50+ tek yükseltici var: kupon yok
-    assert _ideal(pool(up[up["maç"] == "F"]), now).empty  # uygun yükseltici yok
-    assert _ideal(pool(up.assign(odd=1.6)), now).empty  # yükseltici oranı çok düşük
-    assert _ideal(pool(up[up["maç"] == "Z"]), now).empty  # yükseltici adayı yok
-    assert _ideal(t1.iloc[0:0], now).empty  # hiç aday yok (boş tabloda filtre sütun seçimine dönmesin)
+    # kuponlar: uygun tür, oran 1.60+, değer -%10..+%20, olasılık sadece model değil; 💎 önce, sonra değer. 2'li, 3'lü,
+    # 4'lü sırayla kendi oran aralığından, birbirinden farklı maçlardan; MBS'si kupondan büyük olan girmez
+    from src.tavsiye import _kuponlar, is_kupon_ayagi, kupon_adaylari
+    assert all(map(is_kupon_ayagi, ("MS 1", "MS X", "MS 2 & KG Var", "MS 1 & 2.5 Üst", "En çok korner 1")))
+    assert not any(map(is_kupon_ayagi, ("ÇŞ 1-X", "KG Yok", "Korner 9.5 Alt", "İY/MS 1/1", "2-1", "2.5 Üst")))
+    pool = pd.DataFrame([{**base, "kaynak": src, "mbs": mbs, "maç": m, "tahmin": t, "p": p, "odd": o, "değer": p * o - 1}
+                         for m, t, p, o, src, mbs in [
+                             ("A", "MS 1", 0.46, 2.10, "oran", 1), ("B", "MS 2 & KG Var", 0.42, 2.40, "oran", 1),
+                             ("C", "En çok korner 1", 0.50, 1.90, "korner", 1), ("D", "MS 1 & 2.5 Üst", 0.32, 3.00, "oran", 1),
+                             ("E", "MS 2", 0.31, 3.10, "piyasa", 1), ("F", "MS 1 & KG Var", 0.30, 3.15, "oran", 1),
+                             ("G", "MS 2 & 2.5 Üst", 0.36, 2.60, "oran", 1), ("H", "En çok korner 2", 0.28, 3.40, "korner", 1),
+                             ("I", "MS X", 0.29, 3.30, "oran", 1), ("J", "MS 1", 0.57, 1.65, "oran", 1),
+                             ("K", "MS 1", 0.70, 1.40, "oran", 1),          # oran 1.60 altı
+                             ("L", "KG Yok", 0.45, 2.20, "oran", 1),        # tür kupona girmez
+                             ("M", "MS 1 & KG Var", 0.55, 2.50, "oran", 1),  # değer +%37: model hatası sayılır
+                             ("N", "MS 2", 0.30, 2.30, "oran", 1),          # değer -%31: fazla pahalı
+                             ("O", "MS 1", 0.45, 2.20, "model", 1),         # sadece model
+                             ("P", "MS 2", 0.43, 2.40, "oran", 3),          # MBS 3: 2'liye giremez
+                             ("Q", "MS 1", 0.52, 2.00, "piyasa", 1)]])
+    pool["gerçek_değer"] = pool["maç"].eq("Q")  # 💎
+    pool = pd.concat([pool, pool.iloc[[0]].assign(maç="R", baslama="2026-10-24 11:00")], ignore_index=True)  # başladı
+    ad = kupon_adaylari(pool, now)
+    assert list(ad["maç"]) == ["Q", "P", "B", "A", "E", "D", "I", "H", "C", "F", "J", "G"], list(ad["maç"])
+    k2, k3, k4 = _kuponlar(ad)
+    assert list(k2["maç"]) == ["Q", "B"] and list(k3["maç"]) == ["P", "A", "E"] and list(k4["maç"]) == ["D", "I", "H", "F"]
+    k2, k3, k4 = _kuponlar(ad[~ad["maç"].isin(["F", "H"])])  # 4'lü için yeterli maç yok: o kupon boş
+    assert len(k2) == 2 and len(k3) == 3 and k4.empty
+    assert kupon_adaylari(pool.iloc[0:0], now).empty  # hiç aday yok (boş tabloda filtre sütun seçimine dönmesin)
 
 
 def test_analiz():
@@ -724,13 +724,19 @@ def test_sonuclar():
     assert (s["🟢"]["tutan"], s["🟡"]["tutan"], s["🔥"]["tutan"], s["🚩"]["tutan"]) == (1, 0, 1, 1)  # 🚩: bahis türü
     assert s["🔀"]["tutan"] == 1 and s["🎫"]["tutan"] == 1  # İY 0-0, MS 1-1: X/X tuttu
     msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
-    assert "korner 7-4" in msg and "İY 0-0, MS 1-1" in msg, msg
     # sistem kupon bir bütün: 1-1 -> ÇŞ 1-X ve KG Var tuttu, MS 1 tutmadı; 3'de 2 = 3 kolon, dönen 1.5 x 1.5
     assert msg.count("2/3 maç tuttu · 3 birim yatırıldı, 2.25 döndü (-0.75) ❌") == 2, msg
     assert "01.10 09:20 gönderilen" in msg and "01.10 18:20 gönderilen" in msg
     assert abs(s["🟢"]["kâr_zarar"] - 0.25) < 1e-9 and s["🟡"]["kâr_zarar"] == -1 and s["🔴"]["sonuçlanan"] == 0
-    msg = sonuclar.day_message("2026-10-01", log[log["gün"] == "2026-10-01"], log)
-    assert "Sonuçlar — 01.10.2026" in msg and "✅ 🟢 Betis – Getafe: ÇŞ 1-X (1-1) @1.25" in msg and "❌" in msg
+    # gün mesajı: Tier'lar sadece özet satırıyla (tek tek tahminler GitHub sayfalarında); kuponlar ayaklarıyla
+    assert "Sonuçlar — 01.10.2026" in msg and "🟢 Tier 1: 1/1 tuttu (%100, beklenen %80), +0.25 birim" in msg, msg
+    assert "ÇŞ 1-X (1-1) @1.25" not in msg
+    iki = log[log["gönderildi"] == "2026-10-01 09:20"].head(2).assign(seviye="2️⃣ 2'li kupon")
+    iki["tahmin"], iki["odd"] = ["Korner 9.5 Üst", "İY/MS X/X"], [1.8, 4.5]  # 1-1, korner 7-4, ilk yarı 0-0
+    msg = sonuclar.day_message("2026-10-01", iki, iki)
+    assert "2️⃣ 2'li kupon (01.10 09:20 gönderilen, 2 maç, oran 8,10): ✅ TUTTU! 1 birim → 8,10 birim" in msg, msg
+    assert "   ✅ Betis – Getafe: Korner 9.5 Üst (korner 7-4) @1.80" in msg and "İY 0-0, MS 1-1" in msg
+    assert "## 2'li kuponlar" in sonuclar.summary_md(iki) and "kupon2" in sonuclar.tier_pages(iki)
     md = sonuclar.summary_md(log)
     assert "## Tüm zamanlar" in md and "| **toplam** (2 kupon) | | | 6 | 4.50 | -1.50 |" in md, md
     # her seviyenin kendi sayfası (tablodan bağlantı): maç maç, gün gün; merdiven ↳; sistem ayakları kupon kupon
@@ -797,7 +803,7 @@ def test_sonuclar():
 
 
 def test_kadro():
-    """Kadro güncellemesi: açıklanan ilk 11, eksik düzenli oyuncular, sabahki listeye göre değişenler, zaman penceresi."""
+    """Kadro güncellemesi: açıklanan ilk 11, eksik düzenli oyuncular, kupon satırları, zaman penceresi."""
     import tempfile
     from src import kadro
     pl = lambda i, start=True: {"starter": start, "athlete": {"id": i, "displayName": i.upper()}}  # noqa: E731
@@ -820,18 +826,18 @@ def test_kadro():
     assert kadro.lineup("N", fetch=pages.__getitem__) is None
     lines = kadro.lineup_lines("Ev – Dep", lu)
     assert lines[0] == "🏟 <b>Ev – Dep</b> · 4-3-3 / 4-4-2" and lines[1] == "• Ev: düzenli ilk 11'den yok: X1 (yedekte), X2"
-    old = pd.DataFrame([{"maç": "A – B", "seviye": "🟢 Tier 1", "tahmin": "MS 1"},
-                        {"maç": "A – B", "seviye": "🟡 Tier 2", "tahmin": "MS 1 & KG Var"},
-                        {"maç": "A – B", "seviye": "🔴 Tier 3", "tahmin": "İY/MS 1/1"},
-                        {"maç": "A – B", "seviye": "🔥 Tier 6", "tahmin": "2-1"},
-                        {"maç": "A – B", "seviye": "🎰 Sistem kupon · 7'de 6", "tahmin": "MS 1"}])
-    new = [{"maç": "A – B", "seviye": "🟢 Tier 1", "tahmin": "MS 1"}, {"maç": "A – B", "seviye": "🟡 Tier 2",
-            "tahmin": "MS 1 & 2.5 Üst"}, {"maç": "A – B", "seviye": "⚡ Tier 5", "tahmin": "2-1"},
-           {"maç": "A – B", "seviye": "🟣 Tier 4", "tahmin": "MS 1 & KG Var"},
-           {"maç": "C – D", "seviye": "🟢 Tier 1", "tahmin": "MS 2"}]
-    # aynı seviyede değişen (🔄), kalkan (➖); önceden olmayan seviye / maç sayılmaz; kesin skor Tier 5-6 aynı grup
-    assert kadro.changes(old, new) == ["➖ 🔴 A – B: İY/MS 1/1 (artık listede yok)",
-                                       "🔄 🟡 A – B: MS 1 &amp; KG Var → MS 1 &amp; 2.5 Üst"], kadro.changes(old, new)
+    # kupon satırları: önceden gönderilen kupondaki ayak (gönderildiği oran -> son oran), son oranlarla en değerli
+    # KADRO_ADAY kupon adayı (📌 sırasıyla); Tier satırları gösterilmez
+    picks = pd.DataFrame([{"maç": "A – B", "seviye": "📌 Kupon adayları", "tahmin": t, "odd": o, "gerçek_değer": g}
+                          for t, o, g in [("MS 1 & KG Var", 2.6, False), ("MS 1", 1.9, True), ("En çok korner 1", 2.1, False),
+                                          ("MS 1 & 2.5 Üst", 2.0, False)]] +
+                         [{"maç": "A – B", "seviye": "🟢 Tier 1", "tahmin": "ÇŞ 1-X", "odd": 1.2, "gerçek_değer": False}])
+    sent = pd.DataFrame([{"maç": "A – B", "seviye": "3️⃣ 3'lü kupon", "tahmin": "MS 1 & KG Var", "odd": 2.75}])
+    from src.telegram import coupon_lines
+    assert coupon_lines("A – B", picks, sent) == [
+        "🧾 3'lü kupondaki ayak: MS 1 &amp; KG Var · 2.75 → şimdi 2.60", "📌 Kupona uygun ayaklar (son oranlarla):",
+        "   ➜ MS 1 &amp; KG Var · <b>2.60</b>", "   ➜ MS 1 · <b>1.90</b> 💎", "   ➜ En çok korner 1 · <b>2.10</b>"]
+    assert coupon_lines("C – D", picks, sent) == ["📌 Kupona uygun ayak yok (oranı 1.60+, değeri yeterli)"]
     now = pd.Timestamp("2026-10-24 17:00")
     old_raw, old_tav = config.RAW_DIR, config.TAVSIYE_DIR
     with tempfile.TemporaryDirectory() as d:
@@ -1052,7 +1058,7 @@ def test_end_to_end():
     ms1 = nat.loc[nat["tahmin"] == "MS 1", "p"]
     assert ms1.empty or abs(ms1.iloc[0] - devig([1.35, 4.6, 8.0], config.DEVIG_METHOD)[0]) < 1e-4
     day9 = f"{kick_up + pd.Timedelta(days=1):%Y-%m-%d}"  # milli maç 18:45 UTC = 21:45 TR
-    r = run("main.py", "analiz", "--saat", "21:45", "--gun", day9)  # sadece o saatteki maçların Tier listesi
+    r = run("main.py", "analiz", "--saat", "21:45", "--gun", day9)  # sadece o saatteki maçların kupon analizi
     assert r.returncode == 0 and "21:45 maçları" in r.stdout and "İspanya – Çekya" in r.stdout, \
         r.stdout[-1500:] + r.stderr[-2000:]
     assert "%" not in r.stdout and up["HomeTeam"] not in r.stdout

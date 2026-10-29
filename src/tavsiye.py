@@ -16,11 +16,14 @@ Risk seviyesi = tahminin TUTMAMA olasılığı:
   Tier 1, 2 ve 4'te oranı MIN_ODDS'un altındaki tahminler (ör. 1.06'lık çifte şans) listelenmez.
 Değer: oran x olasılık - 1. Pozitifse fiyat adil fiyatın üstünde (uzun vadede kârlı olması beklenir); negatifse
 tahmin tutsa bile bu oranla uzun vadede kaybettirir. Risk seviyesi ile değer farklı şeylerdir.
+Kuponlar (2026-10-29'dan beri Telegram'da Tier listeleri yerine): 2'li, 3'lü, 4'lü kupon (KUPON_TURLERI: ayaklar
+1.70-3.50 oranlı, iyi giden türlerden, değere göre) ve çılgın kupon. Tier listeleri raporda kalır.
 
 Prova (as_of): model sadece o tarihten önceki maçlarla eğitilir; o tarihten itibaren `days` gündeki maçlar
 için tavsiye üretilir ve gerçekleşen sonuçlarla karşılaştırılır. Geçmiş İddaa oranı olmadığı için fiyat olarak
 Bet365 kullanılır; keskin olasılık açılış oranından (bahis anında bilinen), kapanıştan değil.
 """
+import re
 from datetime import date, datetime, timezone
 
 import numpy as np
@@ -49,17 +52,21 @@ ODD_COL = {"MS 1": "odd_1", "MS X": "odd_x", "MS 2": "odd_2", "ÇŞ 1-X": "odd_1
            "MS 1 & KG Var": "odd_ms1_kg", "MS X & KG Var": "odd_msx_kg", "MS 2 & KG Var": "odd_ms2_kg"}
 PRICE_COLS = ODD_COLS + ["mbs", SCORE_COL, KOR_LINES_COL]   # İddaa'dan gelen fiyat sütunları (eksikse boş)
 KORNER_PER_TIER = {0: 500, 1: 500, 2: 500, 3: 500}   # Tier 1-4'te korner tahmini sınırı (bkz. MAX_PER_TIER)
-# İdeal kupon (kullanıcı isteği, 2026-10-24; sistem kuponun yerine: 31 sistem kuponda 283 birim -> 71): Tier 1'in en
-# sağlam türlerinden 3 banko (MS / çifte şans: 2026-10-24'e kadar 28/35 ve 25/31, beklenenin üstü) + Tier 3-4'ten
-# beklenenden iyi tutan türden 2-3 oran yükseltici (en çok korner 20/35 ~16 beklenen, MS & KG Var 17/37 ~13). Hepsi
-# farklı maçlardan; hepsi tutmalı. Korner üst yükseltici olmaz (3/26).
-IDEAL_TIER = "🎯 İdeal kupon"
-IDEAL_BANKO = 3
-# Oran yükselticiler (kullanıcı, 2026-10-25 iki kez "toplam oran az"; 2026-10-26 "2.5 üstü 2-3 maç olsun"): oranı en
-# az IDEAL_YUKSELTICI_MIN, en az 2 en fazla 3 tane (uygun aday varsa). Bankolar yapıları gereği ~1.20-1.30: 2
-# yükselticiyle toplam ~12, 3 yükselticiyle ~30.
-IDEAL_YUKSELTICI_MIN = 2.50
-IDEAL_YUKSELTICI = (2, 3)   # (en az, en fazla)
+# Kuponlar (kullanıcı isteği, 2026-10-29: "tier tier değil kupon önersin, 1.20 gibi düşük oran istemiyorum"; ideal
+# kuponun yerine). İddaa her ayakta ~%13 pay alır ve kuponda bu pay ayak sayısınca çarpılır: aynı toplam orana az sayıda
+# yüksek oranlı ayakla ulaşmak daha ucuzdur (10 oran: 8 x 1.33 -> uzun vadede ~%33'ü kalır, 3 x 2.15 -> ~%66'sı).
+# 01-28.10 kayıtlarında (kesin skor, korner alt/üst, KG Yok hariç) 1.60 altı ayaklar -%9 / -%13, 1.60-3.50 arası +%6 /
+# +%16 getirdi (kısmen şans: ilk iki hafta -%9). O aralıkta iyi giden türler MS, MS & 2.5 Üst, MS & KG Var, en çok
+# korner (is_kupon_ayagi). Her kupon farklı maçlardan; kuponlar da birbirinden farklı maçlardan (sırayla).
+KUPON_TURLERI = (("2️⃣ 2'li kupon", 2, 1.70, 2.50),    # (seviye, ayak sayısı, ayak oranı en az, en çok)
+                 ("3️⃣ 3'lü kupon", 3, 2.00, 3.20),
+                 ("4️⃣ 4'lü kupon", 4, 2.20, 3.50))
+KUPON_IKON = tuple(t[0].split()[0] for t in KUPON_TURLERI)
+KUPON_MIN_ORAN = 1.60      # kupon adayı (📌) en düşük ayak oranı
+# Ayak değeri (oran x olasılık - 1) aralığı: altı fazla pahalı; +%20 üstü genelde model hatası (28.10'a kadar oranı 2.50+
+# ve değeri +%20 üstü görünen 12 tahminden 1'i tuttu)
+KUPON_DEGER = (-0.10, 0.20)
+ADAY_TIER = "📌 Kupon adayları"
 # Çılgın kupon (kullanıcı isteği, 2026-10-24): İY/MS "dönüşleri" (ilk yarıyı önde kapatan berabere kalır / kaybeder;
 # oran ~12-30) + günün 💎'leri. Piyango gibi: tutma ihtimali çok düşük, fiyat yine de en iyi olanlardan seçilir.
 CILGIN_TIER = "🎲 Çılgın kupon"
@@ -80,34 +87,35 @@ def _soon(d: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
              (d["odd"].astype(float) > 1)]
 
 
-def is_banko(bet: str) -> bool:
-    """İdeal kupon bankosu olabilecek tür: tek MS ya da çifte şans (kombinasyon değil)."""
-    return bet.startswith(("MS ", "ÇŞ ")) and "&" not in bet
+def is_kupon_ayagi(bet: str) -> bool:
+    """Kupona girebilecek tür: MS, MS & 2.5 Üst, MS & KG Var, en çok korner. Korner alt/üst ve KG Yok (olasılıkları
+    fazla iyimser çıktı), kesin skor ve İY/MS (1.60+ oranda 19'da 4) girmez."""
+    return bool(re.fullmatch(r"MS [12X]( & (2\.5 Üst|KG Var))?", bet)) or bet.startswith("En çok korner")
 
 
-def is_booster(bet: str) -> bool:
-    """İdeal kupon oran yükselticisi olabilecek tür: en çok korner ya da MS & KG Var."""
-    return bet.startswith("En çok korner") or (bet.startswith("MS ") and bet.endswith("& KG Var"))
-
-
-def _ideal(pool: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
-    """İdeal kupon, bugün / yarının tüm aday tahminlerinden (gol + korner; Tier listeleri günlere bölünmeden kısa
-    olduğu için onlardan değil, aynı ölçütlerle): Tier 1 ölçütündeki (olasılık >= %70, oran >= MIN_ODDS[0]) en olası
-    IDEAL_BANKO banko (is_banko, farklı maçlar) + Tier 3 ya da Tier 4 ölçütünde, oranı IDEAL_YUKSELTICI_MIN üstü en
-    olası IDEAL_YUKSELTICI[0]-[1] oran yükseltici (is_booster, hepsi başka maçlardan). Eksikse boş."""
+def kupon_adaylari(pool: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
+    """Bugün / yarının kupona girebilecek ayakları (gol + korner adaylarının hepsinden): uygun tür, oran KUPON_MIN_ORAN
+    ile en büyük kupon üst sınırı arasında, değer KUPON_DEGER aralığında, olasılık en az İddaa oranına ayarlı (sadece
+    model değil). Sıra: önce 💎, sonra değer (İddaa fiyatı adil fiyata en yakın olan önce)."""
     pool = _soon(pool, now)
-    p, odd = pool["p"].astype(float), pool["odd"].astype(float)
+    odd, value = pool["odd"].astype(float), pool["değer"].astype(float)
     # .astype(bool): boş tabloda map nesne tipi döner, pandas onu sütun seçimi sanar
-    banko = pool[pool["tahmin"].map(is_banko).astype(bool) & (p >= TIERS[0][1]) & (odd >= MIN_ODDS[0])]
-    banko = banko.sort_values("p", ascending=False).drop_duplicates("maç").head(IDEAL_BANKO)
-    t3 = (p >= TIERS[2][1]) & (p < TIERS[2][2])
-    t4 = (p >= TIERS[3][1]) & (p < TIERS[3][2]) & (odd >= MIN_ODDS[3])
-    boost = pool[pool["tahmin"].map(is_booster).astype(bool) & (t3 | t4) & (odd >= IDEAL_YUKSELTICI_MIN) &
-                 ~pool["maç"].isin(banko["maç"])]
-    boost = boost.sort_values("p", ascending=False).drop_duplicates("maç").head(IDEAL_YUKSELTICI[1])
-    if len(banko) < IDEAL_BANKO or len(boost) < IDEAL_YUKSELTICI[0]:
-        return banko.iloc[:0]
-    return pd.concat([banko, boost], ignore_index=True)
+    ok = (pool["tahmin"].map(is_kupon_ayagi).astype(bool) & (pool["kaynak"] != "model") &
+          odd.between(KUPON_MIN_ORAN, max(t[3] for t in KUPON_TURLERI)) & value.between(*KUPON_DEGER))
+    return pool[ok].sort_values(["gerçek_değer", "değer"], ascending=False, kind="stable")
+
+
+def _kuponlar(adaylar: pd.DataFrame) -> list[pd.DataFrame]:
+    """KUPON_TURLERI sırasıyla her kupon: oran aralığındaki en değerli adaylar (kupon_adaylari sırası), maç başına bir,
+    önceki kuponlarda olmayan maçlardan; MBS'si kupondaki maç sayısından büyük olan girmez. Ayak yetmezse o kupon boş."""
+    used, out = set(), []
+    odd, mbs = adaylar["odd"].astype(float), pd.to_numeric(adaylar["mbs"], errors="coerce").fillna(1)
+    for _, n, lo, hi in KUPON_TURLERI:
+        legs = adaylar[odd.between(lo, hi) & (mbs <= n) & ~adaylar["maç"].isin(used)].drop_duplicates("maç").head(n)
+        legs = legs if len(legs) == n else legs.iloc[:0]
+        used |= set(legs["maç"])
+        out.append(legs)
+    return out
 
 
 def _crazy(c: pd.DataFrame, pos: pd.DataFrame, now: pd.Timestamp) -> pd.DataFrame:
@@ -542,19 +550,25 @@ def run(fixtures_path=None, xi=config.XI, ridge=config.RIDGE, ridge_total=config
         md += [f"## {tname}", ""] + [line(x) for x in t.to_dict("records")] + [""]
     tl = lambda x, d=2: f"{x:,.{d}f}".replace(",", "#").replace(".", ",").replace("#", ".")  # noqa: E731
     if not as_of:
-        ideal = _ideal(pd.concat([c, k], ignore_index=True),
-                       pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None)) + pd.Timedelta(hours=3))
-        picked.append((IDEAL_TIER, ideal))
-        md += [f"## {IDEAL_TIER}", ""]
-        if ideal.empty:
-            md += [f"Bugün ve yarın için uygun {IDEAL_BANKO} banko (Tier 1 MS / çifte şans) ve en az "
-                   f"{IDEAL_YUKSELTICI[0]} oran yükseltici (Tier 3-4 en çok korner / MS & KG Var, oran "
-                   f"{IDEAL_YUKSELTICI_MIN:.2f}+) yok.", ""]
-        else:
-            md += [line(x) for x in ideal.to_dict("records")]
-            md += ["", f"{IDEAL_BANKO} banko + {len(ideal) - IDEAL_BANKO} oran yükseltici, hepsi farklı maçlar; toplam "
-                       f"oran **{tl(np.prod(ideal['odd'].astype(float)))}**, tutma olasılığı yaklaşık "
-                       f"%{100 * np.prod(ideal['p'].astype(float)):.0f}.", ""]
+        now_tr = pd.Timestamp(datetime.now(timezone.utc).replace(tzinfo=None)) + pd.Timedelta(hours=3)
+        adaylar = kupon_adaylari(pd.concat([c, k], ignore_index=True) if len(k) else c, now_tr)
+        for (name, n, lo, hi), legs in zip(KUPON_TURLERI, _kuponlar(adaylar)):
+            picked.append((name, legs))
+            md += [f"## {name}", ""]
+            if legs.empty:
+                md += [f"Bugün ve yarın {lo:.2f}-{hi:.2f} oranlı, değeri yeterli {n} farklı maç yok.", ""]
+            else:
+                md += [line(x) for x in legs.to_dict("records")]
+                md += ["", f"Ayak oranı {lo:.2f}-{hi:.2f}, hepsi farklı maçlar; toplam oran "
+                           f"**{tl(np.prod(legs['odd'].astype(float)))}**, tutma olasılığı yaklaşık "
+                           f"1/{tl(1 / np.prod(legs['p'].astype(float)), 0)}.", ""]
+        picked.append((ADAY_TIER, adaylar))
+        md += [f"## {ADAY_TIER}", "",
+               f"Kuponlara girebilecek tüm ayaklar (oran {KUPON_MIN_ORAN:.2f}+; MS, MS & 2.5 Üst, MS & KG Var, en çok "
+               f"korner; değer %{100 * KUPON_DEGER[0]:+.0f} ile %{100 * KUPON_DEGER[1]:+.0f} arası), en değerliden. "
+               "Kendi kuponunu kurmak için.", ""]
+        md += [line(x) for x in adaylar.to_dict("records")] or ["Uygun ayak yok."]
+        md += [""]
     pos = c[c["gerçek_değer"] & (c["p"] >= 0.25)].sort_values("değer", ascending=False).head(15)
     picked.append(("💎 Değeri pozitif olanlar", pos))
     md += ["## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)", "",
