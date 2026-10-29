@@ -2397,3 +2397,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-29 21:37,2026-10-30,30.10,F2,Nantes,Clermont,Nantes – Clermont,F2,4️⃣ 4'lü kupon,MS 1 & KG Var,0.2921728143299527,3.29,-0.0387514408544557,oran,,,,2026-10-30 22:00,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,4️⃣ 4'lü kupon,MS 1 & KG Var,0.36608216065565896,2.54,-0.0701513119346262,oran,,,,2026-10-30 23:00,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,D2,Cottbus,Bochum,E. Cottbus – Bochum,D2,4️⃣ 4'lü kupon,MS 2 & KG Var,0.2644629389747093,3.48,-0.07966897236801163,oran,,,,2026-10-30 20:30,,,,,,
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7040625586854641,1.34,-0.05655617136147806,piyasa,False,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.43990497218422,2.21,-0.027810011472873875,piyasa,True,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3023145489550893,2.95,-0.10817208058248651,piyasa,True,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7033974840865631,1.38,-0.029311471960542956,korner,False,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6063653265403302,1.66,0.0065664420569480075,korner,True,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12236182401662077,8.72,0.06699510542493314,piyasa,,,,2026-10-29 22:45,,,,,,kadro
