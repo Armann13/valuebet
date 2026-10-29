@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/175 tuttu** (isabet %35, beklenen %32) · -7.24 birim · 26 tahmin sonuç bekliyor
+**63/184 tuttu** (isabet %34, beklenen %32) · -9.87 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,39 +36,39 @@
 
 **22:00 · Juve Stabia – Hellas Verona**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.44
+- ❌ ↳ MS 2 & 2.5 Üst · @3.44 · 0-1
 
 **22:45 · Forest Green – Eastleigh**
 
-- ⏳ ↳ MS 1 & KG Var · @2.58
+- ❌ ↳ MS 1 & KG Var · @2.58 · 2-0
 
 **22:45 · St Mirren – Hibernian**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.78
+- ❌ ↳ MS 2 & 2.5 Üst · @2.78 · 1-1
 
 **22:45 · Aberdeen – Falkirk**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.98
+- ❌ ↳ MS 1 & 2.5 Üst · @2.98 · 0-1
 
 **22:45 · Dundee – Kilmarnock**
 
-- ⏳ ↳ MS 1 & KG Var · @3.16
+- ✅ ↳ MS 1 & KG Var · @3.16 · 3-1
 
 **22:45 · Sutton United – Aldershot**
 
-- ⏳ ↳ MS 1 & KG Var · @3.23
+- ❌ ↳ MS 1 & KG Var · @3.23 · 2-0
 
 **22:45 · AC Monza – Napoli**
 
-- ⏳ ↳ MS 2 & KG Var · @3.21
+- ✅ ↳ MS 2 & KG Var · @3.21 · 1-4
 
 **22:45 · Carlisle – Harrogate**
 
-- ⏳ ↳ MS 1 & KG Var · @3.19
+- ❌ ↳ MS 1 & KG Var · @3.19 · 3-0
 
 **22:45 · St Johnstone – Motherwell**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.63
+- ❌ ↳ MS 1 & 2.5 Üst · @3.63 · 2-2
 
 **23:00 · Hearts – Rangers**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**135/188 tuttu** (isabet %72, beklenen %76) · -22.66 birim · 24 tahmin sonuç bekliyor
+**142/198 tuttu** (isabet %72, beklenen %76) · -24.08 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,34 +32,34 @@
 
 **22:00 · Juve Stabia – Hellas Verona**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.24 · 0-1
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
-- ⏳ ÇŞ 1-2 · @1.24
-- ⏳ ÇŞ 1-X · @1.21
-- ⏳ Korner 7.5 Üst · @1.22
+- ✅ ÇŞ 1-2 · @1.24 · 2-1
+- ✅ ÇŞ 1-X · @1.21 · 2-1
+- ❌ Korner 7.5 Üst · @1.22 · korner 4-1
 
 **22:45 · Celtic – Dundee Utd**
 
-- ⏳ 2.5 Üst · @1.24
+- ✅ 2.5 Üst · @1.24 · 2-2
 
 **22:45 · Aberdeen – Falkirk**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 0-1
+- ❌ ÇŞ 1-X · @1.21 · 0-1
 
 **22:45 · St Johnstone – Motherwell**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ❌ ÇŞ 1-2 · @1.21 · 2-2
 
 **22:45 · St Mirren – Hibernian**
 
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ ÇŞ X-2 · @1.24 · 1-1
 
 **22:45 · Genoa – Juventus**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-0
 
 **23:00 · Hearts – Rangers**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**113/247 tuttu** (isabet %46, beklenen %45) · -9.81 birim · 36 tahmin sonuç bekliyor
+**119/262 tuttu** (isabet %45, beklenen %44) · -11.19 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -38,54 +38,54 @@
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
-- ⏳ ↳ MS 1 · @2.07
+- ✅ ↳ MS 1 · @2.07 · 2-1
 
 **22:00 · Juve Stabia – Hellas Verona**
 
-- ⏳ ↳ MS 2 · @2.16
-- ⏳ ↳ Korner 8.5 Alt · @1.97
+- ✅ ↳ MS 2 · @2.16 · 0-1
+- ❌ ↳ Korner 8.5 Alt · @1.97 · korner 5-8
 
 **22:45 · Forest Green – Eastleigh**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.89
+- ❌ ↳ MS 1 & 2.5 Üst · @1.89 · 2-0
 
 **22:45 · Aberdeen – Falkirk**
 
-- ⏳ ↳ MS 1 · @1.92
+- ❌ ↳ MS 1 · @1.92 · 0-1
 
 **22:45 · St Mirren – Hibernian**
 
-- ⏳ ↳ MS 2 · @1.93
+- ❌ ↳ MS 2 · @1.93 · 1-1
 
 **22:45 · Celtic – Dundee Utd**
 
-- ⏳ ↳ MS 1 & KG Var · @2.18
+- ❌ ↳ MS 1 & KG Var · @2.18 · 2-2
 
 **22:45 · AC Monza – Napoli**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.38
+- ✅ ↳ MS 2 & 2.5 Üst · @2.38 · 1-4
 
 **22:45 · St Johnstone – Motherwell**
 
-- ⏳ ↳ MS 1 · @2.33
+- ❌ ↳ MS 1 · @2.33 · 2-2
 
 **22:45 · Dundee – Kilmarnock**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.48
+- ✅ ↳ MS 1 & 2.5 Üst · @2.48 · 3-1
 
 **22:45 · Genoa – Juventus**
 
-- ⏳ ↳ İY/MS 2/2 · @2.30
-- ⏳ ↳ Korner 8.5 Alt · @1.92
-- ⏳ ↳ Korner 9.5 Üst · @1.98
+- ❌ ↳ İY/MS 2/2 · @2.30
+- ❌ ↳ Korner 8.5 Alt · @1.92 · korner 6-9
+- ✅ ↳ Korner 9.5 Üst · @1.98 · korner 6-9
 
 **22:45 · Sutton United – Aldershot**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.46
+- ❌ ↳ MS 1 & 2.5 Üst · @2.46 · 2-0
 
 **22:45 · Carlisle – Harrogate**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.55
+- ✅ ↳ MS 1 & 2.5 Üst · @2.55 · 3-0
 
 **23:00 · Hearts – Rangers**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**154/265 tuttu** (isabet %58, beklenen %62) · -31.93 birim · 34 tahmin sonuç bekliyor
+**162/279 tuttu** (isabet %58, beklenen %62) · -33.10 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -39,44 +39,44 @@
 
 **22:00 · Juve Stabia – Hellas Verona**
 
-- ⏳ Korner 9.5 Alt · @1.57
+- ❌ Korner 9.5 Alt · @1.57 · korner 5-8
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
-- ⏳ En çok korner 1 · @1.87
-- ⏳ ↳ Korner 8.5 Üst · @1.43
+- ✅ En çok korner 1 · @1.87 · korner 4-1
+- ❌ ↳ Korner 8.5 Üst · @1.43 · korner 4-1
 
 **22:45 · Celtic – Dundee Utd**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.44
+- ❌ ↳ MS 1 & 2.5 Üst · @1.44 · 2-2
 
 **22:45 · Forest Green – Eastleigh**
 
-- ⏳ MS 1 · @1.40
+- ✅ MS 1 · @1.40 · 2-0
 
 **22:45 · Carlisle – Harrogate**
 
-- ⏳ 2.5 Üst · @1.42
+- ✅ 2.5 Üst · @1.42 · 3-0
 
 **22:45 · Genoa – Juventus**
 
-- ⏳ MS 2 · @1.55
-- ⏳ Korner 9.5 Alt · @1.53
-- ⏳ Korner 8.5 Üst · @1.56
+- ❌ MS 2 · @1.55 · 2-0
+- ❌ Korner 9.5 Alt · @1.53 · korner 6-9
+- ✅ Korner 8.5 Üst · @1.56 · korner 6-9
 
 **22:45 · AC Monza – Napoli**
 
-- ⏳ MS 2 · @1.62
-- ⏳ En çok korner 2 · @1.51
+- ✅ MS 2 · @1.62 · 1-4
+- ❌ En çok korner 2 · @1.51 · korner 2-2
 
 **22:45 · Sutton United – Aldershot**
 
-- ⏳ MS 1 · @1.68
+- ✅ MS 1 · @1.68 · 2-0
 
 **22:45 · Dundee – Kilmarnock**
 
-- ⏳ MS 1 · @1.80
-- ⏳ 2.5 Üst · @1.48
+- ✅ MS 1 · @1.80 · 3-1
+- ✅ 2.5 Üst · @1.48 · 3-1
 
 ## 27.10.2026 Salı
 

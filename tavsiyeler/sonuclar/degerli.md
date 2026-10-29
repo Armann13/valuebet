@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/59 tuttu** (isabet %51, beklenen %43) · +9.93 birim · 2 tahmin sonuç bekliyor
+**30/60 tuttu** (isabet %50, beklenen %43) · +8.93 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,7 +14,7 @@
 
 **22:45 · Genoa – Juventus**
 
-- ⏳ 2.5 Üst · @2.23
+- ❌ 2.5 Üst · @2.23 · 2-0
 
 **23:00 · Hearts – Rangers**
 

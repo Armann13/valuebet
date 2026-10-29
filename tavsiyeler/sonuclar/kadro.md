@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 234 | 183 | 100 | +5.24 |
-| sonra | 245 | 201 | 100 | -12.48 |
+| önce | 234 | 231 | 123 | -1.36 |
+| sonra | 245 | 243 | 117 | -22.15 |
 
-Değişen tahmin: 44 (30 sonuçlandı: eski 26, yeni 20 tuttu).
+Değişen tahmin: 44 (41 sonuçlandı: eski 37, yeni 26 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,99 +17,99 @@ Değişen tahmin: 44 (30 sonuçlandı: eski 26, yeni 20 tuttu).
 
 Kadro mesajı: 28.10 22:13
 
-- 🟡 Tier 2: ⏳ MS 2 @1.62, ⏳ En çok korner 2 @1.51 → ⏳ KG Var @1.58, ⏳ Korner 9.5 Alt @1.64 (değişti)
-- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.38 → ⏳ MS 2 & KG Var @2.91, ⏳ Korner 8.5 Alt @2.08 (değişti)
-- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.21 → — (kalktı)
+- 🟡 Tier 2: ✅ MS 2 @1.62, ❌ En çok korner 2 @1.51 → ✅ KG Var @1.58, ✅ Korner 9.5 Alt @1.64 (değişti)
+- 🔴 Tier 3: ✅ MS 2 & 2.5 Üst @2.38 → ✅ MS 2 & KG Var @2.91, ✅ Korner 8.5 Alt @2.08 (değişti)
+- 🟣 Tier 4: ✅ MS 2 & KG Var @3.21 → — (kalktı)
 
 ## 28.10 · Carlisle – Harrogate
 
 Kadro mesajı: 28.10 22:13
 
-- 🟡 Tier 2: ⏳ 2.5 Üst @1.42 → ⏳ 2.5 Üst @1.42 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.55 → ⏳ MS 1 & 2.5 Üst @2.55 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.19 → ⏳ MS 1 & KG Var @3.19 (aynı)
+- 🟡 Tier 2: ✅ 2.5 Üst @1.42 → ✅ 2.5 Üst @1.42 (aynı)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.55 → ✅ MS 1 & 2.5 Üst @2.55 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.19 → ❌ MS 1 & KG Var @3.19 (aynı)
 
 ## 28.10 · Forest Green – Eastleigh
 
 Kadro mesajı: 28.10 22:13
 
-- 🟡 Tier 2: ⏳ MS 1 @1.40 → ⏳ MS 1 @1.40 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @1.89 → ⏳ MS 1 & 2.5 Üst @1.89 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.58 → ⏳ MS 1 & KG Var @2.58 (aynı)
+- 🟡 Tier 2: ✅ MS 1 @1.40 → ✅ MS 1 @1.40 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @1.89 → ❌ MS 1 & 2.5 Üst @1.89 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @2.58 → ❌ MS 1 & KG Var @2.58 (aynı)
 
 ## 28.10 · Genoa – Juventus
 
 Kadro mesajı: 28.10 22:13
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → ⏳ ÇŞ 1-2 @1.23 (aynı)
-- 🟡 Tier 2: ⏳ MS 2 @1.55, ⏳ Korner 9.5 Alt @1.53, ⏳ Korner 8.5 Üst @1.56 → ⏳ MS 2 @1.66, ⏳ Korner 8.5 Üst @1.58 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.30, ⏳ Korner 8.5 Alt @1.92, ⏳ Korner 9.5 Üst @1.98 → ⏳ İY/MS 2/2 @2.53, ⏳ Korner 9.5 Üst @1.99 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20 → ✅ ÇŞ 1-2 @1.23 (aynı)
+- 🟡 Tier 2: ❌ MS 2 @1.55, ❌ Korner 9.5 Alt @1.53, ✅ Korner 8.5 Üst @1.56 → ❌ MS 2 @1.66, ✅ Korner 8.5 Üst @1.58 (değişti)
+- 🔴 Tier 3: ❌ İY/MS 2/2 @2.30, ❌ Korner 8.5 Alt @1.92, ✅ Korner 9.5 Üst @1.98 → ❌ İY/MS 2/2 @2.53, ✅ Korner 9.5 Üst @1.99 (değişti)
 
 ## 28.10 · Sutton United – Aldershot
 
 Kadro mesajı: 28.10 22:13
 
-- 🟡 Tier 2: ⏳ MS 1 @1.68 → ⏳ MS 1 @1.68 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.46 → ⏳ MS 1 & 2.5 Üst @2.46 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.23 → ⏳ MS 1 & KG Var @3.23 (aynı)
+- 🟡 Tier 2: ✅ MS 1 @1.68 → ✅ MS 1 @1.68 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.46 → ❌ MS 1 & 2.5 Üst @2.46 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.23 → ❌ MS 1 & KG Var @3.23 (aynı)
 
 ## 28.10 · Aberdeen – Falkirk
 
 Kadro mesajı: 28.10 21:59
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21, ⏳ ÇŞ 1-X @1.21 → ⏳ ÇŞ 1-2 @1.21 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 @1.92 → ⏳ MS 1 @1.86 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @2.98 → ⏳ MS 1 & 2.5 Üst @2.87 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21, ❌ ÇŞ 1-X @1.21 → ✅ ÇŞ 1-2 @1.21 (değişti)
+- 🔴 Tier 3: ❌ MS 1 @1.92 → ❌ MS 1 @1.86 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @2.98 → ❌ MS 1 & 2.5 Üst @2.87 (aynı)
 
 ## 28.10 · Celtic – Dundee Utd
 
 Kadro mesajı: 28.10 21:59
 
-- 🟢 Tier 1: ⏳ 2.5 Üst @1.24 → ⏳ MS 1 & 2.5 Üst @1.39 (değişti)
-- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.44 → — (kalktı)
-- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.18 → ⏳ MS 1 & KG Var @2.04 (aynı)
+- 🟢 Tier 1: ✅ 2.5 Üst @1.24 → ❌ MS 1 & 2.5 Üst @1.39 (değişti)
+- 🟡 Tier 2: ❌ MS 1 & 2.5 Üst @1.44 → — (kalktı)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.18 → ❌ MS 1 & KG Var @2.04 (aynı)
 
 ## 28.10 · Dundee – Kilmarnock
 
 Kadro mesajı: 28.10 21:59
 
-- 🟡 Tier 2: ⏳ MS 1 @1.80, ⏳ 2.5 Üst @1.48 → ⏳ 2.5 Üst @1.56 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.48 → ⏳ MS 1 & 2.5 Üst @2.64 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.16 → ⏳ MS 1 & KG Var @3.40 (aynı)
+- 🟡 Tier 2: ✅ MS 1 @1.80, ✅ 2.5 Üst @1.48 → ✅ 2.5 Üst @1.56 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.48 → ✅ MS 1 & 2.5 Üst @2.64 (aynı)
+- 🟣 Tier 4: ✅ MS 1 & KG Var @3.16 → ✅ MS 1 & KG Var @3.40 (aynı)
 
 ## 28.10 · St Johnstone – Motherwell
 
 Kadro mesajı: 28.10 21:59
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21 → ⏳ ÇŞ 1-2 @1.21 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @2.33 → ⏳ MS 1 @2.33 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.63 → ⏳ MS 1 & 2.5 Üst @3.68 (aynı)
+- 🟢 Tier 1: ❌ ÇŞ 1-2 @1.21 → ❌ ÇŞ 1-2 @1.21 (aynı)
+- 🔴 Tier 3: ❌ MS 1 @2.33 → ❌ MS 1 @2.33 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @3.63 → ❌ MS 1 & 2.5 Üst @3.68 (aynı)
 
 ## 28.10 · St Mirren – Hibernian
 
 Kadro mesajı: 28.10 21:59
 
-- 🟢 Tier 1: ⏳ ÇŞ X-2 @1.24 → ⏳ ÇŞ 1-2 @1.22 (değişti)
-- 🔴 Tier 3: ⏳ MS 2 @1.93 → ⏳ MS 2 @2.00 (aynı)
-- 🟣 Tier 4: ⏳ MS 2 & 2.5 Üst @2.78 → ⏳ MS 2 & 2.5 Üst @3.12 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ X-2 @1.24 → ❌ ÇŞ 1-2 @1.22 (değişti)
+- 🔴 Tier 3: ❌ MS 2 @1.93 → ❌ MS 2 @2.00 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & 2.5 Üst @2.78 → ❌ MS 2 & 2.5 Üst @3.12 (aynı)
 
 ## 28.10 · Carrarese Calcio 1908 – SS Arezzo
 
 Kadro mesajı: 28.10 21:35
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.24, ⏳ ÇŞ 1-X @1.21, ⏳ Korner 7.5 Üst @1.22 → ⏳ Korner 7.5 Üst @1.22 (değişti)
-- 🟡 Tier 2: ⏳ En çok korner 1 @1.87, ⏳ Korner 8.5 Üst @1.43 → ⏳ ÇŞ X-2 @1.72, ⏳ Korner 8.5 Üst @1.43 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 @2.07 → ⏳ MS X @3.21 (değişti)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.27 → ⏳ MS X & KG Var @4.38 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.24, ✅ ÇŞ 1-X @1.21, ❌ Korner 7.5 Üst @1.22 → ❌ Korner 7.5 Üst @1.22 (değişti)
+- 🟡 Tier 2: ✅ En çok korner 1 @1.87, ❌ Korner 8.5 Üst @1.43 → ❌ ÇŞ X-2 @1.72, ❌ Korner 8.5 Üst @1.43 (değişti)
+- 🔴 Tier 3: ✅ MS 1 @2.07 → ❌ MS X @3.21 (değişti)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.27 → ❌ MS X & KG Var @4.38 (değişti)
 
 ## 28.10 · Juve Stabia – Hellas Verona
 
 Kadro mesajı: 28.10 21:22
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.24 → ⏳ ÇŞ 1-2 @1.25 (aynı)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.57 → ⏳ Korner 9.5 Alt @1.57 (aynı)
-- 🔴 Tier 3: ⏳ MS 2 @2.16, ⏳ Korner 8.5 Alt @1.97 → ⏳ MS 2 @2.21, ⏳ Korner 8.5 Alt @1.97 (aynı)
-- 🟣 Tier 4: ⏳ MS 2 & 2.5 Üst @3.44 → ⏳ MS 2 & 2.5 Üst @3.52 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.24 → ✅ ÇŞ 1-2 @1.25 (aynı)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.57 → ❌ Korner 9.5 Alt @1.57 (aynı)
+- 🔴 Tier 3: ✅ MS 2 @2.16, ❌ Korner 8.5 Alt @1.97 → ✅ MS 2 @2.21, ❌ Korner 8.5 Alt @1.97 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & 2.5 Üst @3.44 → ❌ MS 2 & 2.5 Üst @3.52 (aynı)
 
 ## 28.10 · AC Pisa – US Palermo
 

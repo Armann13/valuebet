@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**253/489 tuttu** (isabet %52, beklenen %60) · -89.90 birim · 30 tahmin sonuç bekliyor
+**256/499 tuttu** (isabet %51, beklenen %60) · -94.49 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,25 +42,25 @@
 
 **22:00 · Juve Stabia – Hellas Verona**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.57
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.97
+- ❌ 🟡 Korner 9.5 Alt · @1.57 · korner 5-8
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.97 · korner 5-8
 
 **22:00 · Carrarese Calcio 1908 – SS Arezzo**
 
-- ⏳ 🟡 En çok korner 1 · @1.87
-- ⏳ 🟢 Korner 7.5 Üst · @1.22
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
+- ✅ 🟡 En çok korner 1 · @1.87 · korner 4-1
+- ❌ 🟢 Korner 7.5 Üst · @1.22 · korner 4-1
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.43 · korner 4-1
 
 **22:45 · AC Monza – Napoli**
 
-- ⏳ 🟡 En çok korner 2 · @1.51
+- ❌ 🟡 En çok korner 2 · @1.51 · korner 2-2
 
 **22:45 · Genoa – Juventus**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.53
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.92
-- ⏳ 🟡 Korner 8.5 Üst · @1.56
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.98
+- ❌ 🟡 Korner 9.5 Alt · @1.53 · korner 6-9
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.92 · korner 6-9
+- ✅ 🟡 Korner 8.5 Üst · @1.56 · korner 6-9
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.98 · korner 6-9
 
 ## 27.10.2026 Salı
 
