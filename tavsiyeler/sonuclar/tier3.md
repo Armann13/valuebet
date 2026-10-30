@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**120/268 tuttu** (isabet %45, beklenen %44) · -15.19 birim · 172 tahmin sonuç bekliyor
+**123/273 tuttu** (isabet %45, beklenen %44) · -13.41 birim · 173 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,6 +24,7 @@
 **15:00 · Kaiserslautern – Hertha Berlin**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.94
+- ⏳ ↳ MS 2 · @2.15
 
 **15:30 · Norwich City – Watford**
 
@@ -154,6 +155,7 @@
 **18:00 · Bournemouth – Leeds United**
 
 - ⏳ ↳ MS 1 · @1.99
+- ⏳ ↳ Korner 10.5 Üst · @2.18
 
 **18:00 · Barrow – Eastleigh**
 
@@ -409,6 +411,7 @@
 **22:30 · Karlsruhe – Heidenheim**
 
 - ⏳ ↳ MS 1 · @2.82
+- ⏳ ↳ MS 2 · @1.95
 
 **22:45 · Anderlecht – Westerlo**
 
@@ -444,6 +447,7 @@
 **23:00 · Aston Villa – Fulham**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.61
+- ⏳ ↳ Korner 9.5 Alt · @1.87
 
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
@@ -457,20 +461,20 @@
 
 **20:00 · Konyaspor – Galatasaray**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.20
-- ⏳ ↳ Korner 8.5 Alt · @2.08
+- ✅ ↳ MS 2 & 2.5 Üst · @2.20 · 0-4
+- ❌ ↳ Korner 8.5 Alt · @2.08 · korner 3-9
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.41
+- ✅ ↳ MS 1 & 2.5 Üst · @2.41 · 3-1
 
 **20:30 · E. Cottbus – Bochum**
 
-- ⏳ ↳ MS 1 · @2.56
+- ❌ ↳ MS 1 · @2.56 · 1-2
 
 **21:00 · Le Havre – Paris Saint Germain**
 
-- ⏳ ↳ MS 2 & KG Var · @2.17
+- ✅ ↳ MS 2 & KG Var · @2.17 · 1-5
 
 **21:00 · Nice – Rennes**
 
@@ -490,6 +494,7 @@
 **22:00 · Nantes – Clermont**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.11
+- ⏳ ↳ İY/MS 1/1 · @1.90
 
 **22:00 · Grenoble – Dijon**
 
@@ -521,6 +526,7 @@
 **22:45 · Newport – Chesterfield**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.85
+- ⏳ ↳ İY/MS 2/2 · @2.33
 
 **23:00 · Sheffield United – Wrexham**
 

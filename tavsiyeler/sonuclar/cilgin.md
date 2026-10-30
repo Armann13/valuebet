@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/40 tuttu** (isabet %18, beklenen %13) · +106.30 birim · 16 tahmin sonuç bekliyor
+**7/40 tuttu** (isabet %18, beklenen %13) · +106.30 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10 21:09 gönderilen kupon · 4 maç, oran 184.432,44
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.65
+- ⏳ 31.10 16:00 Levante – Atletico Madrid · İY/MS 1/2 · @20.60
+- ⏳ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
+- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
 
 ## 30.10 13:14 gönderilen kupon · 4 maç, oran 188.939,47
 

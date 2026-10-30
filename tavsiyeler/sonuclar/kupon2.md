@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-Henüz sonuçlanan yok · 4 tahmin sonuç bekliyor
+**1/1 tuttu** (isabet %100, beklenen %45) · +1.17 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10 21:09 gönderilen kupon · 2 maç, oran 3,76
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 30.10 23:00 Sheffield United – Wrexham · En çok korner 1 · @1.78
+- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · MS 1 & KG Var · @2.11
 
 ## 30.10 13:14 gönderilen kupon · 2 maç, oran 3,76
 
@@ -15,7 +22,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 29.10 14:13 gönderilen kupon · 2 maç, oran 3,93
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · MS 2 & KG Var · @2.17
+- ✅ 30.10 21:00 Le Havre – Paris Saint Germain · MS 2 & KG Var · @2.17 · 1-5
 - ⏳ 30.10 23:00 Sheffield United – Wrexham · En çok korner 1 · @1.81

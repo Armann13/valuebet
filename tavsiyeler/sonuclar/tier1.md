@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**147/203 tuttu** (isabet %72, beklenen %76) · -22.74 birim · 97 tahmin sonuç bekliyor
+**151/208 tuttu** (isabet %73, beklenen %76) · -22.88 birim · 98 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,6 +21,7 @@
 **15:00 · Kaiserslautern – Hertha Berlin**
 
 - ⏳ Korner 12.5 Alt · @1.24
+- ⏳ ÇŞ 1-2 · @1.20
 
 **15:30 · Lincoln City – Birmingham**
 
@@ -35,6 +36,10 @@
 
 - ⏳ En çok korner 1 · @1.27
 
+**15:30 · Chelsea – Manchester United**
+
+- ⏳ ÇŞ 1-X · @1.20
+
 **16:00 · Kocaelispor – Rizespor**
 
 - ⏳ ÇŞ 1-2 · @1.22
@@ -47,6 +52,10 @@
 **16:00 · Real Sociedad B – Girona**
 
 - ⏳ ÇŞ X-2 · @1.23
+
+**16:00 · Levante – Atletico Madrid**
+
+- ⏳ Korner 7.5 Üst · @1.20
 
 **17:00 · FC Sudtirol – AC Cesena**
 
@@ -85,6 +94,7 @@
 **18:00 · Brentford – Nottingham Forest**
 
 - ⏳ ÇŞ 1-2 · @1.20
+- ⏳ ÇŞ 1-X · @1.22
 
 **18:00 · Kilmarnock – St Johnstone**
 
@@ -209,6 +219,7 @@
 **22:30 · Karlsruhe – Heidenheim**
 
 - ⏳ Korner 12.5 Alt · @1.25
+- ⏳ ÇŞ X-2 · @1.25
 
 **22:45 · AC Milan – Inter**
 
@@ -235,6 +246,7 @@
 **23:00 · Albacete – CE Sabadell FC**
 
 - ⏳ ÇŞ 1-2 · @1.25
+- ⏳ ÇŞ 1-X · @1.25
 
 **23:30 · Porto – Estoril Praia**
 
@@ -244,14 +256,14 @@
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ En çok korner 1 · @1.28
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ En çok korner 1 · @1.28 · korner 3-4
+- ✅ ÇŞ 1-2 · @1.20 · 3-1
 
 **21:00 · Le Havre – Paris Saint Germain**
 
-- ⏳ 2.5 Üst · @1.23
-- ⏳ Korner 11.5 Alt · @1.22
-- ⏳ MS 2 · @1.21
+- ✅ 2.5 Üst · @1.23 · 1-5
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-3
+- ✅ MS 2 · @1.21 · 1-5
 
 **21:00 · Nice – Rennes**
 

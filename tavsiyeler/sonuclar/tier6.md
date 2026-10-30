@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/406 tuttu** (isabet %11, beklenen %11) · -97.83 birim · 142 tahmin sonuç bekliyor
+**43/410 tuttu** (isabet %10, beklenen %11) · -101.83 birim · 141 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -363,6 +363,7 @@
 **22:30 · Karlsruhe – Heidenheim**
 
 - ⏳ 2-1 · @9.88
+- ⏳ 1-2 · @8.11
 
 **22:45 · Anderlecht – Westerlo**
 
@@ -408,19 +409,19 @@
 
 **20:00 · Konyaspor – Galatasaray**
 
-- ⏳ 1-2 · @7.27
+- ❌ 1-2 · @7.27 · 0-4
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ 2-1 · @7.53
+- ❌ 2-1 · @7.53 · 3-1
 
 **20:30 · E. Cottbus – Bochum**
 
-- ⏳ 2-1 · @9.34
+- ❌ 2-1 · @9.34 · 1-2
 
 **21:00 · Le Havre – Paris Saint Germain**
 
-- ⏳ 1-2 · @8.27
+- ❌ 1-2 · @8.27 · 1-5
 
 **21:00 · Nice – Rennes**
 
@@ -468,6 +469,7 @@
 **22:45 · Newport – Chesterfield**
 
 - ⏳ 1-2 · @6.84
+- ⏳ 0-1 · @5.39
 
 **23:00 · Villarreal – Espanyol**
 
@@ -481,6 +483,7 @@
 
 - ⏳ 2-1 · @8.54
 - ⏳ 1-2 · @8.62
+- ⏳ 1-0 · @7.49
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**66/191 tuttu** (isabet %35, beklenen %32) · -7.57 birim · 119 tahmin sonuç bekliyor
+**67/194 tuttu** (isabet %35, beklenen %32) · -7.42 birim · 120 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -323,6 +323,7 @@
 **20:30 · Celta Vigo B – Cordoba**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.65
+- ⏳ ↳ MS 2 & KG Var · @3.09
 
 **20:30 · Boston United – Scunthorpe**
 
@@ -343,6 +344,7 @@
 **22:30 · Karlsruhe – Heidenheim**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.88
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.61
 
 **22:45 · AC Milan – Inter**
 
@@ -372,15 +374,15 @@
 
 **20:00 · Konyaspor – Galatasaray**
 
-- ⏳ ↳ MS 2 & KG Var · @3.00
+- ❌ ↳ MS 2 & KG Var · @3.00 · 0-4
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ ↳ MS 1 & KG Var · @3.15
+- ✅ ↳ MS 1 & KG Var · @3.15 · 3-1
 
 **20:30 · E. Cottbus – Bochum**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.47
+- ❌ ↳ MS 1 & 2.5 Üst · @3.47 · 1-2
 
 **21:00 · Nice – Rennes**
 
@@ -395,6 +397,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.88
 - ⏳ ↳ İY/MS 1/1 · @3.01
+- ⏳ ↳ MS 1 & KG Var · @3.65
 
 **22:00 · Nantes – Clermont**
 
@@ -433,6 +436,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.43
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.80
+- ⏳ ↳ İY/MS 1/1 · @3.95
 
 ## 29.10.2026 Perşembe
 

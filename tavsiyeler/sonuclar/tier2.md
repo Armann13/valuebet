@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/286 tuttu** (isabet %57, beklenen %62) · -36.97 birim · 175 tahmin sonuç bekliyor
+**170/294 tuttu** (isabet %58, beklenen %62) · -35.31 birim · 171 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -68,6 +68,7 @@
 
 - ⏳ MS 2 · @1.42
 - ⏳ En çok korner 2 · @1.42
+- ⏳ ↳ Korner 8.5 Üst · @1.41
 
 **16:00 · Kocaelispor – Rizespor**
 
@@ -304,6 +305,7 @@
 **18:00 · Bournemouth – Leeds United**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.41
+- ⏳ Korner 9.5 Üst · @1.71
 
 **18:00 · Burnley – Portsmouth**
 
@@ -433,6 +435,8 @@
 
 - ⏳ MS 1 · @1.80
 - ⏳ En çok korner 1 · @1.60
+- ⏳ 2.5 Üst · @1.55
+- ⏳ Korner 10.5 Alt · @1.52
 
 **23:00 · Ajax – AZ Alkmaar**
 
@@ -452,23 +456,23 @@
 
 **20:00 · Konyaspor – Galatasaray**
 
-- ⏳ MS 2 · @1.53
-- ⏳ Korner 9.5 Alt · @1.64
+- ✅ MS 2 · @1.53 · 0-4
+- ❌ Korner 9.5 Alt · @1.64 · korner 3-9
 
 **20:30 · E. Cottbus – Bochum**
 
-- ⏳ ÇŞ 1-X · @1.46
-- ⏳ En çok korner 1 · @1.92
+- ❌ ÇŞ 1-X · @1.46 · 1-2
+- ✅ En çok korner 1 · @1.92 · korner 5-4
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ MS 1 · @1.71
+- ✅ MS 1 · @1.71 · 3-1
 
 **21:00 · Le Havre – Paris Saint Germain**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.40
-- ⏳ ↳ Korner 10.5 Alt · @1.41
-- ⏳ ↳ Korner 9.5 Alt · @1.69
+- ✅ ↳ MS 2 & 2.5 Üst · @1.40 · 1-5
+- ✅ ↳ Korner 10.5 Alt · @1.41 · korner 5-3
+- ✅ ↳ Korner 9.5 Alt · @1.69 · korner 5-3
 
 **21:00 · Nice – Rennes**
 

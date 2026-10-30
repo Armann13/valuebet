@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**258/506 tuttu** (isabet %51, beklenen %60) · -98.92 birim · 158 tahmin sonuç bekliyor
+**262/513 tuttu** (isabet %51, beklenen %60) · -99.68 birim · 160 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,6 +54,8 @@
 **16:00 · Levante – Atletico Madrid**
 
 - ⏳ 🟡 En çok korner 2 · @1.42
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
 
 **16:00 · Real Sociedad B – Girona**
 
@@ -137,11 +139,14 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ⏳ 🟡 Korner 9.5 Üst · @1.71
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.18
 
 **18:00 · Mechelen – KRC Genk**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.24
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+- ⏳ 4 En çok korner 1 · @2.41
 - ⏳ 4 En çok korner 1 · @2.41
 
 **18:00 · Southampton – Queens Park Rangers**
@@ -205,6 +210,7 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.57
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @1.99
+- ⏳ 4 En çok korner 1 · @3.08
 - ⏳ 4 En çok korner 1 · @3.08
 
 **20:15 · Standard Liege – Kortrijk**
@@ -294,6 +300,8 @@
 **23:00 · Aston Villa – Fulham**
 
 - ⏳ 🟡 En çok korner 1 · @1.60
+- ⏳ 🟡 Korner 10.5 Alt · @1.52
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.87
 
 **23:30 · Porto – Estoril Praia**
 
@@ -304,22 +312,22 @@
 
 **20:00 · Konyaspor – Galatasaray**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.64
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
+- ❌ 🟡 Korner 9.5 Alt · @1.64 · korner 3-9
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.08 · korner 3-9
 
 **20:30 · Arminia Bielefeld – Braunschweig**
 
-- ⏳ 🟢 En çok korner 1 · @1.28
+- ❌ 🟢 En çok korner 1 · @1.28 · korner 3-4
 
 **20:30 · E. Cottbus – Bochum**
 
-- ⏳ 🟡 En çok korner 1 · @1.92
+- ✅ 🟡 En çok korner 1 · @1.92 · korner 5-4
 
 **21:00 · Le Havre – Paris Saint Germain**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.69
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-3
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.69 · korner 5-3
 
 **21:00 · Nice – Rennes**
 
@@ -347,6 +355,7 @@
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
 - ⏳ 2 En çok korner 1 · @1.81
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
+- ⏳ 2 En çok korner 1 · @1.78
 - ⏳ 2 En çok korner 1 · @1.78
 
 **23:00 · Villarreal – Espanyol**
