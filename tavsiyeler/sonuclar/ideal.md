@@ -2,20 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/44 tuttu** (isabet %59, beklenen %58) · -1.24 birim · 6 tahmin sonuç bekliyor
+**31/50 tuttu** (isabet %62, beklenen %58) · +1.55 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 29.10 13:11 gönderilen kupon · 6 maç, oran 30,16
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 5/6 maç tuttu
 
-- ⏳ 30.10 22:00 Metz – Pau · ÇŞ 1-2 · @1.20
-- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · MS 2 & KG Var · @2.53
-- ⏳ 30.10 22:45 AFC Fylde – Hornchurch · MS 1 & KG Var · @2.64
-- ⏳ 30.10 23:00 Sheffield United – Wrexham · ÇŞ 1-2 · @1.22
-- ⏳ 30.10 23:00 Villarreal – Espanyol · MS 1 & KG Var · @2.57
-- ⏳ 30.10 23:05 Lille – RC Lens · ÇŞ 1-2 · @1.20
+- ✅ 30.10 22:00 Metz – Pau · ÇŞ 1-2 · @1.20 · 1-3
+- ✅ 30.10 22:45 Zulte Waregem – Club Brugge · MS 2 & KG Var · @2.53 · 2-4
+- ✅ 30.10 22:45 AFC Fylde – Hornchurch · MS 1 & KG Var · @2.64 · 3-1
+- ✅ 30.10 23:00 Sheffield United – Wrexham · ÇŞ 1-2 · @1.22 · 1-0
+- ❌ 30.10 23:00 Villarreal – Espanyol · MS 1 & KG Var · @2.57 · 0-1
+- ✅ 30.10 23:05 Lille – RC Lens · ÇŞ 1-2 · @1.20 · 1-0
 
 ## 28.10 08:54 gönderilen kupon · 6 maç, oran 48,29
 

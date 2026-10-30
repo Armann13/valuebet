@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**123/273 tuttu** (isabet %45, beklenen %44) · -13.41 birim · 173 tahmin sonuç bekliyor
+**132/293 tuttu** (isabet %45, beklenen %44) · -12.75 birim · 153 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -485,63 +485,63 @@
 
 **22:00 · Metz – Pau**
 
-- ⏳ ↳ MS 1 · @1.91
+- ❌ ↳ MS 1 · @1.91 · 1-3
 
 **22:00 · Rodez AF – Dunkerque**
 
-- ⏳ ↳ MS 1 · @1.94
+- ✅ ↳ MS 1 · @1.94 · 1-0
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.11
-- ⏳ ↳ İY/MS 1/1 · @1.90
+- ❌ ↳ MS 1 & 2.5 Üst · @2.11 · 1-1
+- ❌ ↳ İY/MS 1/1 · @1.90
 
 **22:00 · Grenoble – Dijon**
 
-- ⏳ ↳ MS 2 · @2.15
+- ✅ ↳ MS 2 · @2.15 · 1-3
 
 **22:00 · Stade Laval – US Boulogne**
 
-- ⏳ ↳ MS 1 · @2.17
+- ✅ ↳ MS 1 · @2.17 · 1-0
 
 **22:30 · Stenhousemuir – Livingston**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.44
+- ✅ ↳ MS 2 & 2.5 Üst · @2.44 · 0-3
 
 **22:30 · Elversberg – Mainz**
 
-- ⏳ ↳ MS 1 · @2.81
-- ⏳ ↳ MS 2 · @1.92
+- ✅ ↳ MS 1 · @2.81 · 4-1
+- ❌ ↳ MS 2 · @1.92 · 4-1
 
 **22:45 · AFC Fylde – Hornchurch**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+- ✅ ↳ MS 1 & 2.5 Üst · @2.04 · 3-1
 
 **22:45 · Zulte Waregem – Club Brugge**
 
 - ⏳ ↳ İY/MS 2/2 · @1.96
-- ⏳ ↳ Korner 9.5 Alt · @1.93
-- ⏳ ↳ MS 2 & KG Var · @2.53
+- ❌ ↳ Korner 9.5 Alt · @1.93 · korner 2-14
+- ✅ ↳ MS 2 & KG Var · @2.53 · 2-4
 
 **22:45 · Newport – Chesterfield**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.85
-- ⏳ ↳ İY/MS 2/2 · @2.33
+- ❌ ↳ MS 2 & 2.5 Üst · @2.85 · 4-1
+- ❌ ↳ İY/MS 2/2 · @2.33
 
 **23:00 · Sheffield United – Wrexham**
 
-- ⏳ ↳ MS 1 · @2.27
+- ✅ ↳ MS 1 · @2.27 · 1-0
 
 **23:00 · Villarreal – Espanyol**
 
-- ⏳ ↳ MS 1 & KG Var · @2.57
-- ⏳ ↳ Korner 8.5 Alt · @2.22
+- ❌ ↳ MS 1 & KG Var · @2.57 · 0-1
+- ❌ ↳ Korner 8.5 Alt · @2.22 · korner 7-3
 
 **23:05 · Lille – RC Lens**
 
-- ⏳ ↳ MS 1 · @2.31
-- ⏳ ↳ Korner 8.5 Alt · @2.09
-- ⏳ ↳ MS 2 · @2.33
+- ✅ ↳ MS 1 · @2.31 · 1-0
+- ❌ ↳ Korner 8.5 Alt · @2.09 · korner 10-2
+- ❌ ↳ MS 2 · @2.33 · 1-0
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 

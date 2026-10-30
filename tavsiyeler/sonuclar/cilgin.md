@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/40 tuttu** (isabet %18, beklenen %13) · +106.30 birim · 20 tahmin sonuç bekliyor
+**7/43 tuttu** (isabet %16, beklenen %13) · +103.30 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -30,7 +30,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
 - ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
-- ⏳ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
+- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
 - ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
 
 ## 29.10 13:11 gönderilen kupon · 4 maç, oran 202.924,93
@@ -39,17 +39,17 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
 - ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
-- ⏳ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
+- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
 - ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
 
 ## 28.10 08:54 gönderilen kupon · 4 maç, oran 270.576,65
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
 - ❌ 28.10 20:30 Venezia – Inter · İY/MS 1/2 · @18.90 · İY 0-0, MS 0-2
 - ❌ 28.10 22:45 Genoa – Juventus · İY/MS 1/2 · @30.00 · İY 2-0, MS 2-0
 - ❌ 28.10 23:00 Hearts – Rangers · İY/MS 1/2 · @23.45 · İY 0-1, MS 2-2
-- ⏳ 29.10 20:30 Frosinone – Lecce · İY/MS 2/1 · @20.35
+- ❌ 29.10 20:30 Frosinone – Lecce · İY/MS 2/1 · @20.35 · İY 2-0, MS 5-1
 
 ## 27.10 18:28 gönderilen kupon · 4 maç, oran 263.729,47
 

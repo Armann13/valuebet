@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**67/194 tuttu** (isabet %35, beklenen %32) · -7.42 birim · 120 tahmin sonuç bekliyor
+**69/207 tuttu** (isabet %33, beklenen %32) · -13.99 birim · 107 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -391,17 +391,17 @@
 
 **22:00 · Rodez AF – Dunkerque**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.65
+- ❌ ↳ MS 1 & 2.5 Üst · @2.65 · 1-0
 
 **22:00 · Metz – Pau**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.88
-- ⏳ ↳ İY/MS 1/1 · @3.01
-- ⏳ ↳ MS 1 & KG Var · @3.65
+- ❌ ↳ MS 1 & 2.5 Üst · @2.88 · 1-3
+- ❌ ↳ İY/MS 1/1 · @3.01
+- ❌ ↳ MS 1 & KG Var · @3.65 · 1-3
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ ↳ MS 1 & KG Var · @3.20
+- ❌ ↳ MS 1 & KG Var · @3.20 · 1-1
 
 **22:00 · Grenoble – Dijon**
 
@@ -413,29 +413,29 @@
 
 **22:30 · Stenhousemuir – Livingston**
 
-- ⏳ ↳ MS 2 & KG Var · @3.27
+- ❌ ↳ MS 2 & KG Var · @3.27 · 0-3
 
 **22:30 · Elversberg – Mainz**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.79
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.55
+- ✅ ↳ MS 1 & 2.5 Üst · @3.79 · 4-1
+- ❌ ↳ MS 2 & 2.5 Üst · @2.55 · 4-1
 
 **22:45 · AFC Fylde – Hornchurch**
 
-- ⏳ ↳ MS 1 & KG Var · @2.64
+- ✅ ↳ MS 1 & KG Var · @2.64 · 3-1
 
 **22:45 · Newport – Chesterfield**
 
-- ⏳ ↳ MS 2 & KG Var · @3.67
+- ❌ ↳ MS 2 & KG Var · @3.67 · 4-1
 
 **23:00 · Sheffield United – Wrexham**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.74
+- ❌ ↳ MS 1 & 2.5 Üst · @3.74 · 1-0
 
 **23:05 · Lille – RC Lens**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.43
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.80
+- ❌ ↳ MS 1 & 2.5 Üst · @3.43 · 1-0
+- ❌ ↳ MS 2 & 2.5 Üst · @3.80 · 1-0
 - ⏳ ↳ İY/MS 1/1 · @3.95
 
 ## 29.10.2026 Perşembe

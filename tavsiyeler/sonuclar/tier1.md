@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**151/208 tuttu** (isabet %73, beklenen %76) · -22.88 birim · 98 tahmin sonuç bekliyor
+**158/220 tuttu** (isabet %72, beklenen %76) · -26.30 birim · 86 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -271,42 +271,42 @@
 
 **22:00 · Metz – Pau**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 1-3
 
 **22:00 · Grenoble – Dijon**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.24 · 1-3
 
 **22:00 · Rodez AF – Dunkerque**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 1-0
 
 **22:00 · Stade Laval – US Boulogne**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ✅ ÇŞ 1-2 · @1.25 · 1-0
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ MS 1 · @1.32
+- ❌ MS 1 · @1.32 · 1-1
 
 **22:30 · Elversberg – Mainz**
 
-- ⏳ Korner 11.5 Alt · @1.25
-- ⏳ ÇŞ X-2 · @1.25
+- ❌ Korner 11.5 Alt · @1.25 · korner 5-11
+- ❌ ÇŞ X-2 · @1.25 · 4-1
 
 **23:00 · Sheffield United – Wrexham**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 12.5 Alt · @1.23
+- ✅ ÇŞ 1-2 · @1.22 · 1-0
+- ✅ Korner 12.5 Alt · @1.23 · korner 7-0
 
 **23:00 · Villarreal – Espanyol**
 
-- ⏳ MS 1 · @1.32
+- ❌ MS 1 · @1.32 · 0-1
 
 **23:05 · Lille – RC Lens**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ ÇŞ 1-2 · @1.20 · 1-0
+- ❌ Korner 11.5 Alt · @1.21 · korner 10-2
 
 ## 29.10.2026 Perşembe
 

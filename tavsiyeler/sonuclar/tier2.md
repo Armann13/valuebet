@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**170/294 tuttu** (isabet %58, beklenen %62) · -35.31 birim · 171 tahmin sonuç bekliyor
+**178/309 tuttu** (isabet %58, beklenen %61) · -37.70 birim · 156 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -482,45 +482,45 @@
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ 2.5 Üst · @1.66
+- ❌ 2.5 Üst · @1.66 · 1-1
 
 **22:30 · Stenhousemuir – Livingston**
 
-- ⏳ MS 2 · @1.62
+- ✅ MS 2 · @1.62 · 0-3
 
 **22:30 · Elversberg – Mainz**
 
-- ⏳ ÇŞ 1-X · @1.54
-- ⏳ ↳ Korner 10.5 Alt · @1.45
+- ✅ ÇŞ 1-X · @1.54 · 4-1
+- ❌ ↳ Korner 10.5 Alt · @1.45 · korner 5-11
 
 **22:45 · Zulte Waregem – Club Brugge**
 
-- ⏳ MS 2 · @1.40
-- ⏳ Korner 10.5 Alt · @1.56
-- ⏳ MS 2 & 2.5 Üst · @1.82
+- ✅ MS 2 · @1.40 · 2-4
+- ❌ Korner 10.5 Alt · @1.56 · korner 2-14
+- ✅ MS 2 & 2.5 Üst · @1.82 · 2-4
 
 **22:45 · AFC Fylde – Hornchurch**
 
-- ⏳ MS 1 · @1.56
+- ✅ MS 1 · @1.56 · 3-1
 
 **22:45 · Newport – Chesterfield**
 
-- ⏳ 2.5 Üst · @1.63
-- ⏳ MS 2 · @1.61
+- ✅ 2.5 Üst · @1.63 · 4-1
+- ❌ MS 2 · @1.61 · 4-1
 
 **23:00 · Villarreal – Espanyol**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.78
-- ⏳ Korner 9.5 Alt · @1.72
+- ❌ ↳ MS 1 & 2.5 Üst · @1.78 · 0-1
+- ❌ Korner 9.5 Alt · @1.72 · korner 7-3
 
 **23:00 · Sheffield United – Wrexham**
 
-- ⏳ ↳ Korner 11.5 Alt · @1.41
-- ⏳ ↳ Korner 10.5 Alt · @1.63
+- ✅ ↳ Korner 11.5 Alt · @1.41 · korner 7-0
+- ✅ ↳ Korner 10.5 Alt · @1.63 · korner 7-0
 
 **23:05 · Lille – RC Lens**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.68
+- ❌ ↳ Korner 9.5 Alt · @1.68 · korner 10-2
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 

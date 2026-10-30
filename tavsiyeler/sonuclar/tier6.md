@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/410 tuttu** (isabet %10, beklenen %11) · -101.83 birim · 141 tahmin sonuç bekliyor
+**45/428 tuttu** (isabet %11, beklenen %11) · -105.63 birim · 123 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -430,60 +430,60 @@
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 1-1
 
 **22:00 · Stade Laval – US Boulogne**
 
-- ⏳ 1-0 · @6.71
+- ✅ 1-0 · @6.71 · 1-0
 
 **22:00 · Rodez AF – Dunkerque**
 
-- ⏳ 2-1 · @8.01
+- ❌ 2-1 · @8.01 · 1-0
 
 **22:00 · Grenoble – Dijon**
 
-- ⏳ 0-1 · @7.05
+- ❌ 0-1 · @7.05 · 1-3
 
 **22:00 · Metz – Pau**
 
-- ⏳ 2-1 · @7.79
-- ⏳ 1-0 · @6.95
+- ❌ 2-1 · @7.79 · 1-3
+- ❌ 1-0 · @6.95 · 1-3
 
 **22:30 · Stenhousemuir – Livingston**
 
-- ⏳ 1-2 · @6.51
+- ❌ 1-2 · @6.51 · 0-3
 
 **22:30 · Elversberg – Mainz**
 
-- ⏳ 2-1 · @9.97
-- ⏳ 1-2 · @8.10
+- ❌ 2-1 · @9.97 · 4-1
+- ❌ 1-2 · @8.10 · 4-1
 
 **22:45 · AFC Fylde – Hornchurch**
 
-- ⏳ 2-1 · @6.73
+- ❌ 2-1 · @6.73 · 3-1
 
 **22:45 · Zulte Waregem – Club Brugge**
 
-- ⏳ 1-2 · @7.40
+- ❌ 1-2 · @7.40 · 2-4
 
 **22:45 · Newport – Chesterfield**
 
-- ⏳ 1-2 · @6.84
-- ⏳ 0-1 · @5.39
+- ❌ 1-2 · @6.84 · 4-1
+- ❌ 0-1 · @5.39 · 4-1
 
 **23:00 · Villarreal – Espanyol**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 0-1
 
 **23:00 · Sheffield United – Wrexham**
 
-- ⏳ 2-1 · @8.49
+- ❌ 2-1 · @8.49 · 1-0
 
 **23:05 · Lille – RC Lens**
 
-- ⏳ 2-1 · @8.54
-- ⏳ 1-2 · @8.62
-- ⏳ 1-0 · @7.49
+- ❌ 2-1 · @8.54 · 1-0
+- ❌ 1-2 · @8.62 · 1-0
+- ✅ 1-0 · @7.49 · 1-0
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 

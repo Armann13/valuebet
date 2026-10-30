@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/65 tuttu** (isabet %17, beklenen %16) · -5.01 birim · 4 tahmin sonuç bekliyor
+**11/66 tuttu** (isabet %17, beklenen %16) · -6.01 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **22:00 · Nantes – Clermont**
 
-- ⏳ 1-0 · @5.42
+- ❌ 1-0 · @5.42 · 1-1
 
 ## 29.10.2026 Perşembe
 
