@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/1 tuttu** (isabet %0, beklenen %34) · -1.00 birim · 5 tahmin sonuç bekliyor
+**0/2 tuttu** (isabet %0, beklenen %39) · -2.00 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 29.10 22:45 Fiorentina – Atalanta · MS 1 · @2.23
+- ❌ 29.10 22:45 Fiorentina – Atalanta · MS 1 · @2.23 · 2-2
 - ⏳ 30.10 21:00 Nice – Rennes · En çok korner 1 · @2.00
 - ⏳ 30.10 23:05 Lille – RC Lens · En çok korner 2 · @2.08
 

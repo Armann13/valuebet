@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/285 tuttu** (isabet %58, beklenen %62) · -35.97 birim · 40 tahmin sonuç bekliyor
+**164/286 tuttu** (isabet %57, beklenen %62) · -36.97 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -88,7 +88,7 @@
 
 **22:45 · Fiorentina – Atalanta**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.52
+- ❌ ↳ Korner 9.5 Alt · @1.52 · korner 8-2
 
 ## 28.10.2026 Çarşamba
 

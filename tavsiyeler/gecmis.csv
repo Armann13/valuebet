@@ -2153,18 +2153,18 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-28 08:54,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7425811597046884,1.2,-0.10890260835437393,piyasa,False,2.0,0.0,2026-10-28 22:45,6.0,9.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,SC0,Aberdeen,Falkirk,Aberdeen – Falkirk,SC0,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7283817349563378,1.21,-0.11865810070283123,piyasa,False,0.0,1.0,2026-10-28 22:45,5.0,4.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I2,Carrarese,Arezzo,Carrarese Calcio 1908 – SS Arezzo,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7128122988043054,1.21,-0.13749711844679047,piyasa,False,2.0,1.0,2026-10-28 22:00,4.0,1.0,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.704062558685464,1.27,-0.10584055046946073,piyasa,False,,,2026-10-29 22:45,,,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.704062558685464,1.27,-0.10584055046946073,piyasa,False,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I2,Pisa,Palermo,AC Pisa – US Palermo,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7025131112795068,1.31,-0.07970782422384604,piyasa,False,3.0,3.0,2026-10-28 21:00,5.0,3.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,SC0,Dundee,Kilmarnock,Dundee – Kilmarnock,SC0,🟡 Tier 2 — Orta risk,2.5 Üst,0.6080523872429208,1.48,-0.10008246688047728,piyasa,False,3.0,1.0,2026-10-28 22:45,7.0,5.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I1,Parma,Udinese,Parma – Udinese,I1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5774396578465261,1.59,-0.0818709440240235,piyasa,False,0.0,0.0,2026-10-28 20:30,3.0,6.0,,,,
 2026-10-28 08:54,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟡 Tier 2 — Orta risk,MS 1,0.5758629464793322,1.54,-0.1131710624218284,piyasa,False,5.0,1.0,2026-10-29 20:30,10.0,3.0,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.43990497218421987,2.05,-0.0981948070223494,piyasa,True,,,2026-10-29 22:45,,,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.43990497218421987,2.05,-0.0981948070223494,piyasa,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-28 08:54,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.4381530712418509,2.0,-0.12369385751629824,piyasa,True,5.0,1.0,2026-10-29 20:30,10.0,3.0,,,,
 2026-10-28 08:54,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.3382498367148222,2.64,-0.1070204310728693,piyasa,True,5.0,1.0,2026-10-29 20:30,10.0,3.0,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.30222105623187284,2.88,-0.12960335805220624,piyasa,True,,,2026-10-29 22:45,,,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.30222105623187284,2.88,-0.12960335805220624,piyasa,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I2,Carrarese,Arezzo,Carrarese Calcio 1908 – SS Arezzo,I2,🟢 Tier 1 — Düşük risk,Korner 7.5 Üst,0.7055493543735116,1.22,-0.13922978766431582,korner,False,2.0,1.0,2026-10-28 22:00,4.0,1.0,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7027116329099936,1.28,-0.10052910987520813,korner,False,,,2026-10-29 22:45,,,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6056225868599929,1.52,-0.07945366797281073,korner,True,,,2026-10-29 22:45,,,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7027116329099936,1.28,-0.10052910987520813,korner,False,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6056225868599929,1.52,-0.07945366797281073,korner,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I2,Carrarese,Arezzo,Carrarese Calcio 1908 – SS Arezzo,I2,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.6010700733664991,1.43,-0.1404697950859063,korner,True,2.0,1.0,2026-10-28 22:00,4.0,1.0,,,,
 2026-10-28 08:54,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5794688991582999,1.53,-0.1134125842878011,korner,False,5.0,1.0,2026-10-29 20:30,10.0,3.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5529313637234613,1.56,-0.1374270725914003,korner,False,2.0,0.0,2026-10-28 22:45,6.0,9.0,,,,
@@ -2172,7 +2172,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-28 08:54,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Üst,0.4444989936209703,1.98,-0.1198919926304789,korner,True,2.0,0.0,2026-10-28 22:45,6.0,9.0,,,,
 2026-10-28 08:54,2026-10-29,29.10,I1,Frosinone,Lecce,Frosinone – Lecce,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.15516234558421224,7.64,0.18544032026338142,piyasa,,5.0,1.0,2026-10-29 20:30,10.0,3.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I1,Parma,Udinese,Parma – Udinese,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.14836521808960965,5.04,-0.25223930082836743,piyasa,,0.0,0.0,2026-10-28 20:30,3.0,6.0,,,,
-2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),2-1,0.12147824605789942,8.14,-0.011167077088698685,piyasa,,,,2026-10-29 22:45,,,,,,
+2026-10-28 08:54,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),2-1,0.12147824605789942,8.14,-0.011167077088698685,piyasa,,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I1,Genoa,Juventus,Genoa – Juventus,I1,🎯 İdeal kupon,ÇŞ 1-2,0.7425811597046884,1.2,-0.10890260835437393,piyasa,,2.0,0.0,2026-10-28 22:45,6.0,9.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,SC0,Aberdeen,Falkirk,Aberdeen – Falkirk,SC0,🎯 İdeal kupon,ÇŞ 1-X,0.7283817349563378,1.21,-0.11865810070283123,piyasa,,0.0,1.0,2026-10-28 22:45,5.0,4.0,,,,
 2026-10-28 08:54,2026-10-28,28.10,I1,Venezia,Inter,Venezia – Inter,I1,🎯 İdeal kupon,MS 2,0.722362345576084,1.24,-0.10427069148565582,piyasa,,0.0,2.0,2026-10-28 20:30,3.0,6.0,0.0,0.0,,
@@ -2390,16 +2390,16 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-29 21:37,2026-10-30,30.10,B1,Waregem,Club Brugge,Zulte Waregem – Club Brugge,B1,🟡 Tier 2 — Orta risk,MS 2 & 2.5 Üst,0.51530014933793,1.82,-0.06215372820496734,oran,False,,,2026-10-30 22:45,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,B1,Waregem,Club Brugge,Zulte Waregem – Club Brugge,B1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.37453784428014786,2.53,-0.05241925397122604,oran,True,,,2026-10-30 22:45,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,F1,Le Havre,Paris SG,Le Havre – Paris Saint Germain,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5584001168767845,1.69,-0.0563038024782343,korner,True,,,2026-10-30 21:00,,,,,,
-2026-10-29 21:37,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,3️⃣ 3'lü kupon,MS 1,0.43990497218422,2.23,-0.019011912029189504,piyasa,,,,2026-10-29 22:45,,,,,,
+2026-10-29 21:37,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,3️⃣ 3'lü kupon,MS 1,0.43990497218422,2.23,-0.019011912029189504,piyasa,,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,
 2026-10-29 21:37,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,3️⃣ 3'lü kupon,En çok korner 2,0.46267374973669684,2.08,-0.03763860054767054,korner,,,,2026-10-30 23:05,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,F1,Nice,Rennes,Nice – Rennes,F1,3️⃣ 3'lü kupon,En çok korner 1,0.47436151204516724,2.0,-0.05127697590966551,korner,,,,2026-10-30 21:00,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,B1,Waregem,Club Brugge,Zulte Waregem – Club Brugge,B1,4️⃣ 4'lü kupon,En çok korner 1,0.3175920196974076,3.29,0.04487774480447104,korner,,,,2026-10-30 22:45,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,F2,Nantes,Clermont,Nantes – Clermont,F2,4️⃣ 4'lü kupon,MS 1 & KG Var,0.2921728143299527,3.29,-0.0387514408544557,oran,,,,2026-10-30 22:00,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,4️⃣ 4'lü kupon,MS 1 & KG Var,0.36608216065565896,2.54,-0.0701513119346262,oran,,,,2026-10-30 23:00,,,,,,
 2026-10-29 21:37,2026-10-30,30.10,D2,Cottbus,Bochum,E. Cottbus – Bochum,D2,4️⃣ 4'lü kupon,MS 2 & KG Var,0.2644629389747093,3.48,-0.07966897236801163,oran,,,,2026-10-30 20:30,,,,,,
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7040625586854641,1.34,-0.05655617136147806,piyasa,False,,,2026-10-29 22:45,,,,,,kadro
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.43990497218422,2.21,-0.027810011472873875,piyasa,True,,,2026-10-29 22:45,,,,,,kadro
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3023145489550893,2.95,-0.10817208058248651,piyasa,True,,,2026-10-29 22:45,,,,,,kadro
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7033974840865631,1.38,-0.029311471960542956,korner,False,,,2026-10-29 22:45,,,,,,kadro
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6063653265403302,1.66,0.0065664420569480075,korner,True,,,2026-10-29 22:45,,,,,,kadro
-2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12236182401662077,8.72,0.06699510542493314,piyasa,,,,2026-10-29 22:45,,,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7040625586854641,1.34,-0.05655617136147806,piyasa,False,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.43990497218422,2.21,-0.027810011472873875,piyasa,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3023145489550893,2.95,-0.10817208058248651,piyasa,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7033974840865631,1.38,-0.029311471960542956,korner,False,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6063653265403302,1.66,0.0065664420569480075,korner,True,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
+2026-10-29 22:18,2026-10-29,29.10,I1,Fiorentina,Atalanta,Fiorentina – Atalanta,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12236182401662077,8.72,0.06699510542493314,piyasa,,2.0,2.0,2026-10-29 22:45,8.0,2.0,,,,kadro
