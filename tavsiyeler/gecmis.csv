@@ -2957,3 +2957,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-30 13:14,2026-10-30,30.10,B1,Waregem,Club Brugge,Zulte Waregem – Club Brugge,B1,🎲 Çılgın kupon,İY/MS 1/2,0.0630648782927905,19.75,0.24553134628261253,oran,,,,2026-10-30 22:45,,,,,,
 2026-10-30 13:14,2026-10-31,31.10,SC1,Partick,Morton,P. Thistle – G. Morton,SC1,🎲 Çılgın kupon,İY/MS 2/1,0.054241531237064856,22.55,0.2231465293958126,oran,,,,2026-10-31 18:00,,,,,,
 2026-10-30 13:14,2026-10-31,31.10,E1,Middlesbrough,Charlton,Middlesbrough – Charlton,E1,🎲 Çılgın kupon,İY/MS 2/1,0.05776607597156022,20.95,0.2101992916041866,oran,,,,2026-10-31 18:00,,,,,,
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,🟡 Tier 2 — Orta risk,MS 2,0.6627874557954485,1.42,-0.05884181277046319,oran,False,,,2026-10-30 20:00,,,,,,kadro
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.47987436304104136,1.94,-0.0690437357003798,oran,True,,,2026-10-30 20:00,,,,,,kadro
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.3397965827748288,2.7,-0.08254922650796215,oran,True,,,2026-10-30 20:00,,,,,,kadro
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5213693326975153,1.64,-0.144954294376075,korner,False,,,2026-10-30 20:00,,,,,,kadro
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4144348319876916,2.08,-0.13797554946560142,korner,True,,,2026-10-30 20:00,,,,,,kadro
+2026-10-30 19:23,2026-10-30,30.10,T1,Konyaspor,Galatasaray,Konyaspor – Galatasaray,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.13104604476237372,7.28,-0.04598479412991929,oran,,,,2026-10-30 20:00,,,,,,kadro
