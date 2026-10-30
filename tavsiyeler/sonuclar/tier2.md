@@ -2,9 +2,451 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/286 tuttu** (isabet %57, beklenen %62) · -36.97 birim · 39 tahmin sonuç bekliyor
+**164/286 tuttu** (isabet %57, beklenen %62) · -36.97 birim · 175 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10.2026 Cumartesi
+
+**13:30 · Erzurumspor FK – Çorum FK**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.43
+
+**15:00 · Darmstadt 98 – Magdeburg**
+
+- ⏳ 2.5 Üst · @1.43
+- ⏳ Korner 10.5 Alt · @1.62
+
+**15:00 · Kaiserslautern – Hertha Berlin**
+
+- ⏳ 2.5 Üst · @1.46
+- ⏳ ↳ Korner 11.5 Alt · @1.43
+
+**15:00 · Wolfsburg – Osnabruck**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.79
+
+**15:30 · Norwich City – Watford**
+
+- ⏳ MS 1 · @1.41
+- ⏳ Korner 9.5 Üst · @1.71
+
+**15:30 · Grimsby Town – York City**
+
+- ⏳ 2.5 Üst · @1.42
+
+**15:30 · Forest Green – Harrogate**
+
+- ⏳ 2.5 Üst · @1.45
+
+**15:30 · Port Vale – Rochdale**
+
+- ⏳ MS 1 · @1.53
+
+**15:30 · Stoke City – Preston**
+
+- ⏳ MS 1 · @1.62
+
+**15:30 · Chelsea – Manchester United**
+
+- ⏳ MS 1 · @1.66
+- ⏳ En çok korner 1 · @1.43
+
+**15:30 · Leyton Orient – Cambridge**
+
+- ⏳ 2.5 Üst · @1.64
+
+**15:30 · Bradford – Huddersfield**
+
+- ⏳ 2.5 Üst · @1.67
+
+**15:30 · Lincoln City – Birmingham**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.42
+
+**16:00 · Levante – Atletico Madrid**
+
+- ⏳ MS 2 · @1.42
+- ⏳ En çok korner 2 · @1.42
+
+**16:00 · Kocaelispor – Rizespor**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.46
+
+**16:00 · Real Sociedad B – Girona**
+
+- ⏳ Korner 9.5 Alt · @1.65
+
+**17:00 · Bologna – AC Monza**
+
+- ⏳ MS 1 · @1.56
+- ⏳ ↳ Korner 9.5 Alt · @1.48
+
+**17:00 · Modena FC – Mantova 1911**
+
+- ⏳ MS 1 · @1.64
+- ⏳ Korner 9.5 Alt · @1.51
+
+**17:00 · FC Sudtirol – AC Cesena**
+
+- ⏳ Korner 9.5 Alt · @1.52
+
+**17:00 · Cremonese – Benevento**
+
+- ⏳ En çok korner 1 · @2.17
+
+**17:30 · Augsburg – Freiburg**
+
+- ⏳ ÇŞ 1-X · @1.53
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**17:30 · Schalke 04 – Leipzig**
+
+- ⏳ MS 2 · @1.70
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**17:30 · Monchengladbach – Paderborn**
+
+- ⏳ ↳ MS 1 · @1.82
+- ⏳ ↳ Korner 10.5 Alt · @1.40
+
+**17:30 · B. Leverkusen – Stuttgart**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.62
+
+**17:30 · Werder Bremen – Hoffenheim**
+
+- ⏳ Korner 9.5 Alt · @1.77
+
+**18:00 · East Kilbri – Ross County**
+
+- ⏳ MS 2 · @1.41
+
+**18:00 · Boreham Wood – Hartlepool**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.46
+
+**18:00 · Barrow – Eastleigh**
+
+- ⏳ MS 1 · @1.44
+
+**18:00 · Middlesbrough – Charlton**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.49
+- ⏳ ↳ Korner 11.5 Alt · @1.61
+
+**18:00 · Salford City – Exeter City**
+
+- ⏳ MS 1 · @1.46
+
+**18:00 · Stranraer – Clyde Bank**
+
+- ⏳ 2.5 Üst · @1.42
+
+**18:00 · West Ham – West Bromwich**
+
+- ⏳ MS 1 · @1.50
+- ⏳ Korner 10.5 Alt · @1.79
+
+**18:00 · Altrincham – Carlisle**
+
+- ⏳ 2.5 Üst · @1.43
+
+**18:00 · Crewe Alexandra – Barnet**
+
+- ⏳ 2.5 Üst · @1.43
+
+**18:00 · Stockport – Wimbledon**
+
+- ⏳ MS 1 & 2.5 Üst · @1.50
+
+**18:00 · P. Thistle – G. Morton**
+
+- ⏳ MS 1 & 2.5 Üst · @1.51
+
+**18:00 · Wolverhampton – Cardiff City**
+
+- ⏳ MS 1 · @1.53
+- ⏳ ↳ Korner 11.5 Alt · @1.42
+
+**18:00 · Millwall – Derby County**
+
+- ⏳ MS 1 · @1.54
+- ⏳ Korner 10.5 Alt · @1.86
+
+**18:00 · Oldham – Crawley Town**
+
+- ⏳ MS 1 · @1.53
+
+**18:00 · Leicester City – Stevenage**
+
+- ⏳ MS 1 · @1.54
+
+**18:00 · Wycombe – Burton Albion**
+
+- ⏳ 2.5 Üst · @1.48
+
+**18:00 · Aldershot – Gateshead**
+
+- ⏳ KG Var · @1.53
+
+**18:00 · MK Dons – Doncaster**
+
+- ⏳ 2.5 Üst · @1.50
+
+**18:00 · Ayr United – Queen's Park**
+
+- ⏳ MS 1 · @1.59
+
+**18:00 · Wealdstone – Southend**
+
+- ⏳ MS 2 · @1.59
+
+**18:00 · Solihull Moors – Kidderminster Harriers**
+
+- ⏳ 2.5 Üst · @1.53
+
+**18:00 · Swindon Town – Rotherham**
+
+- ⏳ 2.5 Üst · @1.53
+
+**18:00 · Mansfield – Notts County**
+
+- ⏳ MS 1 · @1.61
+
+**18:00 · Tamworth – Woking**
+
+- ⏳ ÇŞ X-2 · @1.43
+
+**18:00 · Edinburgh – Dumbarton**
+
+- ⏳ MS 1 · @1.62
+
+**18:00 · Motherwell – St Mirren**
+
+- ⏳ MS 1 · @1.66
+
+**18:00 · Southampton – Queens Park Rangers**
+
+- ⏳ MS 1 · @1.67
+- ⏳ En çok korner 1 · @1.41
+
+**18:00 · Airdrieonian – Cove Rangers**
+
+- ⏳ MS 1 · @1.64
+
+**18:00 · Dundee Utd – Hearts**
+
+- ⏳ ÇŞ 1-X · @1.54
+
+**18:00 · Swansea City – Blackburn Rovers**
+
+- ⏳ MS 1 · @1.69
+- ⏳ ↳ Korner 11.5 Alt · @1.41
+
+**18:00 · Spartans Edinburgh FC – Annan Athletic**
+
+- ⏳ MS 1 · @1.67
+
+**18:00 · Tranmere – Cheltenham**
+
+- ⏳ MS 1 · @1.68
+
+**18:00 · Colchester – Walsall**
+
+- ⏳ 2.5 Üst · @1.61
+
+**18:00 · Peterhead – Alloa**
+
+- ⏳ 2.5 Üst · @1.61
+
+**18:00 · Wigan Athletic – Bromley**
+
+- ⏳ MS 1 · @1.70
+
+**18:00 · Accrington – Northampton**
+
+- ⏳ KG Yok · @1.66
+
+**18:00 · East Fife – Queen of The South**
+
+- ⏳ MS 1 · @1.72
+
+**18:00 · Worthing – Sutton United**
+
+- ⏳ MS 1 · @1.72
+
+**18:00 · Fleetwood – Bristol Rovers**
+
+- ⏳ 2.5 Üst · @1.63
+
+**18:00 · Arbroath – Raith Rovers**
+
+- ⏳ MS 2 · @1.72
+
+**18:00 · Dunfermline – Inverness**
+
+- ⏳ KG Yok · @1.73
+
+**18:00 · Stirling Alb – Forfar**
+
+- ⏳ MS 1 · @1.75
+
+**18:00 · Mechelen – KRC Genk**
+
+- ⏳ MS 2 · @1.81
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**18:00 · Shrewsbury – Gillingham**
+
+- ⏳ MS 1 · @1.78
+
+**18:00 · Bournemouth – Leeds United**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.41
+
+**18:00 · Burnley – Portsmouth**
+
+- ⏳ En çok korner 1 · @1.66
+
+**18:00 · Coventry – Sunderland**
+
+- ⏳ Korner 9.5 Alt · @1.50
+
+**18:00 · Brentford – Nottingham Forest**
+
+- ⏳ Korner 10.5 Alt · @1.50
+
+**18:00 · Bolton – Bristol City**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.64
+
+**18:00 · Hull City – Ipswich Town**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.68
+
+**18:15 · Vallecano – Celta Vigo**
+
+- ⏳ En çok korner 1 · @1.60
+
+**18:15 · Eibar – Almeria**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.44
+
+**18:30 · Feyenoord – Fortuna Sittard**
+
+- ⏳ ↳ MS 1 & KG Var · @2.11
+- ⏳ Korner 10.5 Üst · @1.51
+
+**18:30 · Moreirense – CF Estrela**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.41
+
+**19:00 · Fenerbahçe – Göztepe**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.65
+- ⏳ Korner 10.5 Alt · @1.50
+
+**19:15 · US Catanzaro 1929 – Padova**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.50
+
+**20:00 · Udinese – AS Roma**
+
+- ⏳ MS 2 · @1.43
+- ⏳ Korner 9.5 Alt · @1.57
+
+**20:15 · Standard Liege – Kortrijk**
+
+- ⏳ MS 1 · @1.59
+- ⏳ ↳ Korner 10.5 Alt · @1.57
+
+**20:30 · Bayern Münih – B. Dortmund**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.43
+- ⏳ Korner 9.5 Alt · @1.85
+
+**20:30 · Tottenham – Crystal Palace**
+
+- ⏳ MS 1 · @1.43
+- ⏳ Korner 10.5 Alt · @1.59
+
+**20:30 · Real Betis – Malaga CF**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.65
+- ⏳ Korner 10.5 Alt · @1.50
+
+**20:30 · Celta Vigo B – Cordoba**
+
+- ⏳ Korner 10.5 Alt · @1.49
+
+**20:45 · PSV – Willem II**
+
+- ⏳ KG Var · @1.51
+- ⏳ Korner 11.5 Üst · @1.64
+
+**20:45 · Heerenveen – NEC Nijmegen**
+
+- ⏳ Korner 10.5 Alt · @1.59
+
+**21:30 · Sampdoria – Virtus Entella**
+
+- ⏳ En çok korner 1 · @1.70
+
+**22:00 · Guingamp – St Etienne**
+
+- ⏳ MS 2 · @1.78
+
+**22:30 · Karlsruhe – Heidenheim**
+
+- ⏳ ÇŞ 1-X · @1.56
+- ⏳ ↳ Korner 11.5 Alt · @1.44
+
+**22:45 · SK Beveren – Union Saint Gilloise**
+
+- ⏳ 2.5 Üst · @1.46
+- ⏳ ↳ Korner 10.5 Alt · @1.40
+
+**22:45 · Troyes – Le Mans**
+
+- ⏳ En çok korner 1 · @1.43
+
+**22:45 · AC Milan – Inter**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · Anderlecht – Westerlo**
+
+- ⏳ Korner 9.5 Üst · @1.56
+
+**23:00 · Barcelona – Alaves**
+
+- ⏳ KG Var · @1.75
+- ⏳ Korner 11.5 Alt · @1.53
+
+**23:00 · SC Cambuur – Go Ahead Eagles**
+
+- ⏳ ÇŞ 1-X · @1.51
+- ⏳ En çok korner 2 · @1.80
+
+**23:00 · Aston Villa – Fulham**
+
+- ⏳ MS 1 · @1.80
+- ⏳ En çok korner 1 · @1.60
+
+**23:00 · Ajax – AZ Alkmaar**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.90
+- ⏳ ↳ Korner 10.5 Alt · @1.49
+
+**23:00 · Albacete – CE Sabadell FC**
+
+- ⏳ Korner 8.5 Üst · @1.51
+
+**23:30 · Porto – Estoril Praia**
+
+- ⏳ MS 1 & 2.5 Üst · @1.60
+- ⏳ ↳ Korner 10.5 Alt · @1.42
 
 ## 30.10.2026 Cuma
 
@@ -60,6 +502,7 @@
 **22:45 · Newport – Chesterfield**
 
 - ⏳ 2.5 Üst · @1.63
+- ⏳ MS 2 · @1.61
 
 **23:00 · Villarreal – Espanyol**
 
@@ -69,6 +512,7 @@
 **23:00 · Sheffield United – Wrexham**
 
 - ⏳ ↳ Korner 11.5 Alt · @1.41
+- ⏳ ↳ Korner 10.5 Alt · @1.63
 
 **23:05 · Lille – RC Lens**
 

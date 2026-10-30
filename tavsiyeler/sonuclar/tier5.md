@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/65 tuttu** (isabet %17, beklenen %16) · -5.01 birim
+**11/65 tuttu** (isabet %17, beklenen %16) · -5.01 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10.2026 Cumartesi
+
+**18:00 · P. Thistle – G. Morton**
+
+- ⏳ 2-1 · @7.07
+
+**18:00 · Middlesbrough – Charlton**
+
+- ⏳ 2-1 · @7.98
+
+**18:00 · Salford City – Exeter City**
+
+- ⏳ 2-1 · @6.40
 
 ## 29.10.2026 Perşembe
 

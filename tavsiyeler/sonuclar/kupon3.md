@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/2 tuttu** (isabet %0, beklenen %39) · -2.00 birim · 4 tahmin sonuç bekliyor
+**0/2 tuttu** (isabet %0, beklenen %39) · -2.00 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10 13:14 gönderilen kupon · 3 maç, oran 24,24
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 20:15 Standard Liege – Kortrijk · En çok korner 2 · @2.62
+- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @2.90
+- ⏳ 31.10 23:30 Porto – Estoril Praia · MS 1 & KG Var · @3.19
 
 ## 29.10 21:37 gönderilen kupon · 3 maç, oran 9,28
 

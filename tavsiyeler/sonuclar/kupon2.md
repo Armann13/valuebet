@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-Henüz sonuçlanan yok · 2 tahmin sonuç bekliyor
+Henüz sonuçlanan yok · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10 13:14 gönderilen kupon · 2 maç, oran 3,76
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 30.10 23:00 Sheffield United – Wrexham · En çok korner 1 · @1.78
+- ⏳ 31.10 15:00 Kaiserslautern – Hertha Berlin · En çok korner 1 · @2.11
 
 ## 29.10 14:13 gönderilen kupon · 2 maç, oran 3,93
 

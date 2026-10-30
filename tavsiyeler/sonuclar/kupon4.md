@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-Henüz sonuçlanan yok · 8 tahmin sonuç bekliyor
+Henüz sonuçlanan yok · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.10 13:14 gönderilen kupon · 4 maç, oran 53,00
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 18:00 Mechelen – KRC Genk · En çok korner 1 · @2.41
+- ⏳ 31.10 18:00 P. Thistle – G. Morton · MS 1 & KG Var · @2.55
+- ⏳ 31.10 20:00 Udinese – AS Roma · En çok korner 1 · @3.08
+- ⏳ 31.10 20:30 Tottenham – Crystal Palace · MS 1 & KG Var · @2.80
 
 ## 29.10 21:37 gönderilen kupon · 4 maç, oran 95,68
 
