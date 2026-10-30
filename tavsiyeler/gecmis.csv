@@ -3022,3 +3022,16 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-30 21:23,2026-10-30,30.10,F2,Laval,Boulogne,Stade Laval – US Boulogne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.14506998395932807,5.02,-0.2717486805241731,oran,,,,2026-10-30 22:00,,,,,,kadro
 2026-10-30 21:23,2026-10-30,30.10,F2,Rodez,Dunkerque,Rodez AF – Dunkerque,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11703679156753126,7.9,-0.075409346616503,oran,,,,2026-10-30 22:00,,,,,,kadro
 2026-10-30 21:23,2026-10-30,30.10,F2,Grenoble,Dijon,Grenoble – Dijon,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1131741797264911,6.91,-0.21796641808994643,oran,,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Metz,Pau FC,Metz – Pau,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7269285944043049,1.23,-0.10587782888270503,oran,False,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Nantes,Clermont,Nantes – Clermont,F2,🟢 Tier 1 — Düşük risk,MS 1,0.7054996545961129,1.34,-0.05463046284120876,oran,False,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Metz,Pau FC,Metz – Pau,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.47697373968806994,1.91,-0.08898015719578645,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Nantes,Clermont,Nantes – Clermont,F2,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.418409445607573,1.91,-0.2008379588895356,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Metz,Pau FC,Metz – Pau,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.2870577181572805,2.99,-0.1416974227097313,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Nantes,Clermont,Nantes – Clermont,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.16834207237284352,5.46,-0.08085228484427442,oran,,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,F2,Metz,Pau FC,Metz – Pau,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.10547302364328112,6.32,-0.33341049057446326,oran,,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🟢 Tier 1 — Düşük risk,ÇŞ X-2,0.7356511566124369,1.21,-0.1098621004989514,oran,False,,,2026-10-30 22:30,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🔴 Tier 3 — Yüksek risk,MS 2,0.4978340270500562,1.84,-0.08398539022789653,oran,True,,,2026-10-30 22:30,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.3592690760757139,2.53,-0.09104923752844385,oran,True,,,2026-10-30 22:30,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7128268237929576,1.27,-0.0947099337829439,korner,False,,,2026-10-30 22:30,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6228473604323226,1.49,-0.07195743295583934,korner,True,,,2026-10-30 22:30,,,,,,kadro
+2026-10-30 21:38,2026-10-30,30.10,D1,Elversberg,Mainz,Elversberg – Mainz,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11064894634241554,7.82,-0.13472523960231042,oran,,,,2026-10-30 22:30,,,,,,kadro
