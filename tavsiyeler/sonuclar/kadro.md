@@ -6,12 +6,45 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 244 | 244 | 130 | +1.03 |
-| sonra | 255 | 255 | 124 | -20.29 |
+| önce | 265 | 244 | 130 | +1.03 |
+| sonra | 272 | 255 | 124 | -20.29 |
 
-Değişen tahmin: 44 (44 sonuçlandı: eski 39, yeni 28 tuttu).
+Değişen tahmin: 47 (44 sonuçlandı: eski 39, yeni 28 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 30.10 · Le Havre – Paris Saint Germain
+
+Kadro mesajı: 30.10 20:28
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.23, ⏳ Korner 11.5 Alt @1.22, ⏳ MS 2 @1.21 → — (kalktı)
+- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.40, ⏳ Korner 10.5 Alt @1.41, ⏳ Korner 9.5 Alt @1.69 → ⏳ MS 2 & 2.5 Üst @1.55, ⏳ Korner 9.5 Alt @1.65 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.17 → ⏳ MS 2 & KG Var @2.43, ⏳ Korner 8.5 Alt @2.10 (değişti)
+
+## 30.10 · Arminia Bielefeld – Braunschweig
+
+Kadro mesajı: 30.10 20:03
+
+- 🟢 Tier 1: ⏳ En çok korner 1 @1.28, ⏳ ÇŞ 1-2 @1.20 → ⏳ En çok korner 1 @1.37 (değişti)
+- 🟡 Tier 2: ⏳ MS 1 @1.71 → ⏳ MS 1 @1.83 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.41 → ⏳ MS 1 & 2.5 Üst @2.64 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.15 → ⏳ MS 1 & KG Var @3.39 (aynı)
+
+## 30.10 · E. Cottbus – Bochum
+
+Kadro mesajı: 30.10 19:48
+
+- 🟡 Tier 2: ⏳ ÇŞ 1-X @1.46, ⏳ En çok korner 1 @1.92 → ⏳ ÇŞ 1-X @1.53, ⏳ En çok korner 1 @1.92 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 @2.56 → ⏳ MS 1 @2.76 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.47 → ⏳ MS 1 & 2.5 Üst @3.75 (aynı)
+
+## 30.10 · Konyaspor – Galatasaray
+
+Kadro mesajı: 30.10 19:23
+
+- 🟡 Tier 2: ⏳ MS 2 @1.53, ⏳ Korner 9.5 Alt @1.64 → ⏳ MS 2 @1.42, ⏳ Korner 9.5 Alt @1.64 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.20, ⏳ Korner 8.5 Alt @2.08 → ⏳ MS 2 & 2.5 Üst @1.94, ⏳ Korner 8.5 Alt @2.08 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.00 → ⏳ MS 2 & KG Var @2.70 (aynı)
 
 ## 29.10 · Fiorentina – Atalanta
 
