@@ -3042,3 +3042,25 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-30 21:56,2026-10-30,30.10,E3,Newport County,Chesterfield,Newport – Chesterfield,E3,🟡 Tier 2 — Orta risk,MS 2,0.559668121285899,1.62,-0.09333764351684348,oran,False,,,2026-10-30 22:45,,,,,,kadro
 2026-10-30 21:56,2026-10-30,30.10,E3,Newport County,Chesterfield,Newport – Chesterfield,E3,🔴 Tier 3 — Yüksek risk,İY/MS 2/2,0.33050009994944185,2.49,-0.17705475112588975,oran,True,,,2026-10-30 22:45,,,,,,kadro
 2026-10-30 21:56,2026-10-30,30.10,E3,Newport County,Chesterfield,Newport – Chesterfield,E3,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.12865583750930268,5.5,-0.29239289369883525,oran,,,,2026-10-30 22:45,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,EC,Fylde,Hornchurch,AFC Fylde – Hornchurch,EC,🟡 Tier 2 — Orta risk,MS 1,0.6075041226034538,1.51,-0.08266877486878477,oran,False,,,2026-10-30 22:45,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,EC,Fylde,Hornchurch,AFC Fylde – Hornchurch,EC,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.46895793554502196,1.94,-0.09022160504265742,oran,True,,,2026-10-30 22:45,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,EC,Fylde,Hornchurch,AFC Fylde – Hornchurch,EC,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.36301857259549963,2.53,-0.08156301133338595,oran,True,,,2026-10-30 22:45,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,EC,Fylde,Hornchurch,AFC Fylde – Hornchurch,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.14193474311530185,6.71,-0.04761787369632453,oran,,,,2026-10-30 22:45,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,🟢 Tier 1 — Düşük risk,MS 1,0.7497156856195267,1.27,-0.047861079263201045,oran,False,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7267153640801647,1.23,-0.10614010218139747,oran,False,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5747807086681133,1.65,-0.051611830697613215,oran,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,🔴 Tier 3 — Yüksek risk,MS 1,0.42004501796045807,2.14,-0.1011036615646197,oran,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3920823351696149,2.39,-0.06292321894462038,oran,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2492749926733632,3.52,-0.12255202578976154,oran,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.7043232084391273,1.2,-0.15481214987304726,korner,False,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5250948733883398,1.63,-0.1440953563770061,korner,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5000810402883213,1.9,-0.04984602345218947,korner,False,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.3944109950167921,2.51,-0.010028402507851863,korner,True,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,SP1,Villarreal,Espanol,Villarreal – Espanyol,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1299629118730058,7.5,-0.025278160952456608,oran,,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,E1,Sheffield United,Wrexham,Sheffield United – Wrexham,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.07934664737041082,8.26,-0.3445966927204066,oran,,,,2026-10-30 23:00,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.715621582189327,1.24,-0.1126292380852345,oran,False,,,2026-10-30 23:05,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,🔴 Tier 3 — Yüksek risk,MS 1,0.369346588677422,2.4,-0.11356818717418726,oran,True,,,2026-10-30 23:05,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.21160294768576096,3.9,-0.17474850402553221,oran,True,,,2026-10-30 23:05,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5652416276799157,1.61,-0.08996097943533565,korner,False,,,2026-10-30 23:05,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4561665632833929,2.04,-0.06942021090187844,korner,True,,,2026-10-30 23:05,,,,,,kadro
+2026-10-30 22:13,2026-10-30,30.10,F1,Lille,Lens,Lille – RC Lens,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.09117540688104517,7.5,-0.3161844483921612,oran,,,,2026-10-30 23:05,,,,,,kadro
