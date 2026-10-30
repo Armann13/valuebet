@@ -3012,3 +3012,13 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-30 21:09,2026-10-31,31.10,N1,Feyenoord,For Sittard,Feyenoord – Fortuna Sittard,N1,🎲 Çılgın kupon,İY/MS 2/1,0.06316131795481256,20.25,0.2790166885849543,oran,,,,2026-10-31 18:30,,,,,,
 2026-10-30 21:09,2026-10-31,31.10,SC1,Partick,Morton,P. Thistle – G. Morton,SC1,🎲 Çılgın kupon,İY/MS 2/1,0.05479774966146398,22.5,0.23294936738293948,oran,,,,2026-10-31 18:00,,,,,,
 2026-10-30 21:09,2026-10-31,31.10,SP1,Levante,Ath Madrid,Levante – Atletico Madrid,SP1,🎲 Çılgın kupon,İY/MS 1/2,0.059113044319989684,20.6,0.21772871299178753,oran,,,,2026-10-31 16:00,,,,,,
+2026-10-30 21:23,2026-10-30,30.10,F2,Rodez,Dunkerque,Rodez AF – Dunkerque,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7349196402352646,1.21,-0.11074723531532993,oran,False,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Grenoble,Dijon,Grenoble – Dijon,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7141415382744647,1.25,-0.10732307715691913,oran,False,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Laval,Boulogne,Stade Laval – US Boulogne,F2,🟡 Tier 2 — Orta risk,2.5 Alt,0.6189278144427327,1.47,-0.09017611276918291,oran,False,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Rodez,Dunkerque,Rodez AF – Dunkerque,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.48849365688661045,1.87,-0.08651686162203842,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Grenoble,Dijon,Grenoble – Dijon,F2,🔴 Tier 3 — Yüksek risk,MS 2,0.4387700196766156,2.06,-0.09613375946617186,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Rodez,Dunkerque,Rodez AF – Dunkerque,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3517701894139525,2.57,-0.09595061320614218,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Grenoble,Dijon,Grenoble – Dijon,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 2/2,0.2493402565022533,3.22,-0.1971243740627443,oran,True,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Laval,Boulogne,Stade Laval – US Boulogne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.14506998395932807,5.02,-0.2717486805241731,oran,,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Rodez,Dunkerque,Rodez AF – Dunkerque,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11703679156753126,7.9,-0.075409346616503,oran,,,,2026-10-30 22:00,,,,,,kadro
+2026-10-30 21:23,2026-10-30,30.10,F2,Grenoble,Dijon,Grenoble – Dijon,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1131741797264911,6.91,-0.21796641808994643,oran,,,,2026-10-30 22:00,,,,,,kadro
