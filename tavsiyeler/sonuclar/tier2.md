@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**249/434 tuttu** (isabet %57, beklenen %60) · -53.18 birim · 143 tahmin sonuç bekliyor
+**252/439 tuttu** (isabet %57, beklenen %60) · -52.97 birim · 146 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -100,6 +100,7 @@
 **17:00 · Empoli – Juve Stabia**
 
 - ⏳ En çok korner 1 · @1.84
+- ⏳ ↳ Korner 9.5 Alt · @1.66
 
 **17:00 · SS Arezzo – Ascoli**
 
@@ -178,6 +179,7 @@
 
 - ⏳ 2.5 Alt · @1.84
 - ⏳ En çok korner 2 · @1.55
+- ⏳ Korner 9.5 Üst · @1.58
 
 **20:30 · Elche – Valencia**
 
@@ -191,6 +193,7 @@
 
 - ⏳ ↳ MS 1 · @1.77
 - ⏳ Korner 9.5 Alt · @1.63
+- ⏳ 2.5 Üst · @1.72
 
 **21:00 · Maritimo – Santa Clara**
 
@@ -633,8 +636,8 @@
 
 **20:30 · Bayern Münih – B. Dortmund**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.43
-- ⏳ Korner 9.5 Alt · @1.85
+- ❌ ↳ MS 1 & 2.5 Üst · @1.43 · 2-2
+- ✅ Korner 9.5 Alt · @1.85 · korner 5-2
 
 **20:30 · Tottenham – Crystal Palace**
 
@@ -644,9 +647,9 @@
 
 **20:30 · Real Betis – Malaga CF**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.65
-- ⏳ Korner 10.5 Alt · @1.50
-- ⏳ KG Var · @1.71
+- ✅ ↳ MS 1 & 2.5 Üst · @1.65 · 2-1
+- ❌ Korner 10.5 Alt · @1.50 · korner 10-3
+- ✅ KG Var · @1.71 · 2-1
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -694,6 +697,7 @@
 
 - ⏳ Korner 9.5 Üst · @1.56
 - ⏳ MS 1 · @1.46
+- ⏳ KG Var · @1.43
 
 **23:00 · Barcelona – Alaves**
 
@@ -704,6 +708,7 @@
 
 - ⏳ ÇŞ 1-X · @1.51
 - ⏳ En çok korner 2 · @1.80
+- ⏳ ÇŞ X-2 · @1.41
 
 **23:00 · Aston Villa – Fulham**
 
@@ -721,12 +726,15 @@
 
 - ⏳ Korner 8.5 Üst · @1.51
 - ⏳ ÇŞ X-2 · @1.47
+- ⏳ 2.5 Alt · @1.52
+- ⏳ Korner 9.5 Alt · @1.64
 
 **23:30 · Porto – Estoril Praia**
 
 - ⏳ MS 1 & 2.5 Üst · @1.60
 - ⏳ ↳ Korner 10.5 Alt · @1.42
 - ⏳ 2.5 Üst · @1.43
+- ⏳ KG Yok · @1.54
 
 ## 30.10.2026 Cuma
 

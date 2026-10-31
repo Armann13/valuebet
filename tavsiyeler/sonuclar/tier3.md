@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**167/383 tuttu** (isabet %44, beklenen %43) · -22.94 birim · 132 tahmin sonuç bekliyor
+**171/389 tuttu** (isabet %44, beklenen %43) · -18.70 birim · 129 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -165,6 +165,10 @@
 **20:30 · Elche – Valencia**
 
 - ⏳ ↳ MS 1 · @2.18
+
+**20:30 · Lommel SK – KAA Gent**
+
+- ⏳ ↳ Korner 10.5 Üst · @1.96
 
 **21:00 · Maritimo – Santa Clara**
 
@@ -577,8 +581,8 @@
 
 **20:30 · Bayern Münih – B. Dortmund**
 
-- ⏳ ↳ MS 1 & KG Var · @1.99
-- ⏳ ↳ Korner 8.5 Alt · @2.41
+- ❌ ↳ MS 1 & KG Var · @1.99 · 2-2
+- ✅ ↳ Korner 8.5 Alt · @2.41 · korner 5-2
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -593,13 +597,13 @@
 
 **20:30 · Real Betis – Malaga CF**
 
-- ⏳ ↳ MS 1 & KG Var · @2.55
-- ⏳ ↳ Korner 9.5 Alt · @1.84
+- ✅ ↳ MS 1 & KG Var · @2.55 · 2-1
+- ❌ ↳ Korner 9.5 Alt · @1.84 · korner 10-3
 
 **20:30 · Boston United – Scunthorpe**
 
-- ⏳ MS 1 & 2.5 Üst · @3.06
-- ⏳ MS 1 · @2.22
+- ✅ MS 1 & 2.5 Üst · @3.06 · 2-1
+- ✅ MS 1 · @2.22 · 2-1
 
 **20:45 · PSV – Willem II**
 
@@ -655,6 +659,7 @@
 - ⏳ ↳ MS 1 · @2.42
 - ⏳ ↳ Korner 9.5 Üst · @1.88
 - ⏳ ↳ MS 2 · @2.99
+- ⏳ ↳ Korner 8.5 Alt · @2.09
 
 **23:00 · Aston Villa – Fulham**
 
@@ -664,6 +669,7 @@
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
 - ⏳ ↳ MS 1 · @2.66
+- ⏳ ↳ MS 2 · @2.34
 
 **23:30 · Porto – Estoril Praia**
 

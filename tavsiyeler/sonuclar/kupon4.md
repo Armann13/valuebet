@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/16 tuttu** (isabet %25, beklenen %36) · -3.72 birim · 4 tahmin sonuç bekliyor
+**4/16 tuttu** (isabet %25, beklenen %36) · -3.72 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10 22:24 gönderilen kupon · 4 maç, oran 60,92
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 23:00 SC Cambuur – Go Ahead Eagles · MS 2 · @2.34
+- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · En çok korner 1 · @2.83
+- ⏳ 01.11 21:00 A. de Viseu  – Rio Ave · En çok korner 2 · @2.69
+- ⏳ 01.11 21:15 Charleroi – RAAL La Louviere · En çok korner 2 · @3.42
 
 ## 31.10 08:58 gönderilen kupon · 4 maç, oran 73,76
 

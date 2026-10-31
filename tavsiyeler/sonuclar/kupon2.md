@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/6 tuttu** (isabet %67, beklenen %58) · +1.54 birim · 2 tahmin sonuç bekliyor
+**4/6 tuttu** (isabet %67, beklenen %58) · +1.54 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10 22:24 gönderilen kupon · 2 maç, oran 5,12
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 23:00 Ajax – AZ Alkmaar · MS 1 & 2.5 Üst · @2.17
+- ⏳ 01.11 21:30 US Palermo – LR Vicenza Virtus · En çok korner 2 · @2.36
 
 ## 31.10 08:58 gönderilen kupon · 2 maç, oran 4,58
 

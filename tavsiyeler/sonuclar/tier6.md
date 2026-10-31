@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**50/517 tuttu** (isabet %10, beklenen %11) · -160.88 birim · 95 tahmin sonuç bekliyor
+**52/520 tuttu** (isabet %10, beklenen %11) · -148.49 birim · 94 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -535,7 +535,7 @@
 
 **20:30 · Bayern Münih – B. Dortmund**
 
-- ⏳ 2-1 · @8.48
+- ❌ 2-1 · @8.48 · 2-2
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -544,11 +544,11 @@
 
 **20:30 · Real Betis – Malaga CF**
 
-- ⏳ 2-1 · @7.54
+- ✅ 2-1 · @7.54 · 2-1
 
 **20:30 · Boston United – Scunthorpe**
 
-- ⏳ 2-1 · @7.85
+- ✅ 2-1 · @7.85 · 2-1
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
@@ -595,6 +595,7 @@
 
 - ⏳ 1-0 · @6.41
 - ⏳ 0-1 · @7.34
+- ⏳ 1-1 · @4.99
 
 **23:00 · Aston Villa – Fulham**
 
@@ -607,6 +608,7 @@
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
 - ⏳ 2-1 · @9.61
+- ⏳ 1-2 · @8.99
 
 **23:30 · Porto – Estoril Praia**
 

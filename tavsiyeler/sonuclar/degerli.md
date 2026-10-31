@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/66 tuttu** (isabet %47, beklenen %43) · +6.63 birim · 10 tahmin sonuç bekliyor
+**31/66 tuttu** (isabet %47, beklenen %43) · +6.63 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -57,6 +57,10 @@
 **23:00 · Aston Villa – Fulham**
 
 - ⏳ MS 1 & 2.5 Üst · @3.01
+
+**23:00 · Ajax – AZ Alkmaar**
+
+- ⏳ MS 1 & 2.5 Üst · @2.17
 
 **23:30 · Porto – Estoril Praia**
 

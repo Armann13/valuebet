@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/8 tuttu** (isabet %0, beklenen %40) · -8.00 birim · 4 tahmin sonuç bekliyor
+**0/8 tuttu** (isabet %0, beklenen %40) · -8.00 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10 22:24 gönderilen kupon · 3 maç, oran 24,19
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01
+- ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
+- ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.83
 
 ## 31.10 08:58 gönderilen kupon · 3 maç, oran 25,12
 

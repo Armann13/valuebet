@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**197/280 tuttu** (isabet %70, beklenen %75) · -38.08 birim · 75 tahmin sonuç bekliyor
+**198/282 tuttu** (isabet %70, beklenen %75) · -38.86 birim · 76 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -55,6 +55,7 @@
 **17:00 · Empoli – Juve Stabia**
 
 - ⏳ ÇŞ 1-2 · @1.25
+- ⏳ Korner 11.5 Alt · @1.20
 
 **17:00 · AS Avellino 1912 – AC Pisa**
 
@@ -110,6 +111,7 @@
 **20:30 · CF Burgos – Castellon**
 
 - ⏳ ÇŞ 1-2 · @1.21
+- ⏳ ÇŞ X-2 · @1.21
 
 **20:30 · Panathinaikos – AEK Athens**
 
@@ -345,11 +347,11 @@
 
 **20:30 · Real Betis – Malaga CF**
 
-- ⏳ MS 1 · @1.22
+- ✅ MS 1 · @1.22 · 2-1
 
 **20:30 · Bayern Münih – B. Dortmund**
 
-- ⏳ MS 1 · @1.23
+- ❌ MS 1 · @1.23 · 2-2
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -377,6 +379,7 @@
 
 - ⏳ ÇŞ X-2 · @1.20
 - ⏳ Korner 10.5 Alt · @1.22
+- ⏳ ÇŞ 1-2 · @1.21
 
 **22:45 · Troyes – Le Mans**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/280 tuttu** (isabet %31, beklenen %31) · -27.41 birim · 83 tahmin sonuç bekliyor
+**88/281 tuttu** (isabet %31, beklenen %31) · -24.80 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -494,7 +494,7 @@
 
 **20:30 · Boston United – Scunthorpe**
 
-- ⏳ ↳ MS 1 & KG Var · @3.61
+- ✅ ↳ MS 1 & KG Var · @3.61 · 2-1
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
@@ -536,6 +536,7 @@
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.57
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.09
 
 **23:00 · Albacete – CE Sabadell FC**
 

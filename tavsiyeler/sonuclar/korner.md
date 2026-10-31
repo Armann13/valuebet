@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**316/619 tuttu** (isabet %51, beklenen %59) · -121.47 birim · 139 tahmin sonuç bekliyor
+**318/623 tuttu** (isabet %51, beklenen %59) · -121.21 birim · 148 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -46,6 +46,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.23
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
 - ⏳ 4 En çok korner 2 · @2.84
+- ⏳ 3 En çok korner 2 · @2.84
 
 **16:00 · Getafe – Sevilla**
 
@@ -95,6 +96,8 @@
 **17:00 · Empoli – Juve Stabia**
 
 - ⏳ 🟡 En çok korner 1 · @1.84
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
 
 **17:00 · SS Arezzo – Ascoli**
 
@@ -132,6 +135,7 @@
 
 - ⏳ 🟡 Korner 10.5 Alt · @1.52
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.87
+- ⏳ 4 En çok korner 1 · @2.83
 
 **19:15 · Hellas Verona – Carrarese Calcio 1908**
 
@@ -172,11 +176,14 @@
 **20:30 · Lommel SK – KAA Gent**
 
 - ⏳ 🟡 En çok korner 2 · @1.55
+- ⏳ 🟡 Korner 9.5 Üst · @1.58
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @1.96
 
 **21:00 · A. de Viseu  – Rio Ave**
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.63
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
+- ⏳ 4 En çok korner 2 · @2.69
 
 **21:00 · Maritimo – Santa Clara**
 
@@ -188,11 +195,13 @@
 - ⏳ 🟡 Korner 10.5 Alt · @1.46
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.79
 - ⏳ 4 En çok korner 2 · @3.43
+- ⏳ 4 En çok korner 2 · @3.42
 
 **21:30 · US Palermo – LR Vicenza Virtus**
 
 - ⏳ 🟡 Korner 10.5 Alt · @1.43
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.74
+- ⏳ 2 En çok korner 2 · @2.36
 - ⏳ 2 En çok korner 2 · @2.36
 
 **22:45 · Marsilya – Toulouse**
@@ -205,6 +214,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.61
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.04
 - ⏳ 4 En çok korner 2 · @2.89
+- ⏳ 3 En çok korner 2 · @2.83
 
 **23:00 · Tenerife – FC Andorra**
 
@@ -443,8 +453,8 @@
 
 **20:30 · Real Betis – Malaga CF**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.50
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.84
+- ❌ 🟡 Korner 10.5 Alt · @1.50 · korner 10-3
+- ❌ 🔴 ↳ Korner 9.5 Alt · @1.84 · korner 10-3
 
 **20:30 · Tottenham – Crystal Palace**
 
@@ -454,8 +464,8 @@
 
 **20:30 · Bayern Münih – B. Dortmund**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.85
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.41
+- ✅ 🟡 Korner 9.5 Alt · @1.85 · korner 5-2
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.41 · korner 5-2
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
@@ -487,6 +497,7 @@
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
 - ⏳ 3 En çok korner 1 · @2.90
 - ⏳ 3 En çok korner 1 · @3.01
+- ⏳ 3 En çok korner 1 · @3.01
 
 **22:45 · Troyes – Le Mans**
 
@@ -511,6 +522,8 @@
 
 - ⏳ 🟡 Korner 8.5 Üst · @1.51
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @1.88
+- ⏳ 🟡 Korner 9.5 Alt · @1.64
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.09
 
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
