@@ -3702,3 +3702,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 21:04,2026-10-31,31.10,I2,Sampdoria,Virtus Entella,Sampdoria – Virtus Entella,I2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.23170066453276952,3.41,-0.20990073394325592,piyasa,True,,,2026-10-31 21:30,,,,,,kadro
 2026-10-31 21:04,2026-10-31,31.10,I2,Sampdoria,Virtus Entella,Sampdoria – Virtus Entella,I2,🟡 Tier 2 — Orta risk,En çok korner 1,0.5537879158128458,1.7,-0.05856054311816217,korner,False,,,2026-10-31 21:30,,,,,,kadro
 2026-10-31 21:04,2026-10-31,31.10,I2,Sampdoria,Virtus Entella,Sampdoria – Virtus Entella,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.11794444148512334,6.16,-0.27346224045164025,piyasa,,,,2026-10-31 21:30,,,,,,kadro
+2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7502861091697366,1.2,-0.09965666899631609,piyasa,False,,,2026-10-31 22:00,,,,,,kadro
+2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🟡 Tier 2 — Orta risk,MS 2,0.5104200643814165,1.71,-0.12718168990777778,piyasa,True,,,2026-10-31 22:00,,,,,,kadro
+2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.3359494231893793,2.61,-0.12317200547572005,piyasa,True,,,2026-10-31 22:00,,,,,,kadro
+2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.260284767991001,3.51,-0.08640046435158666,piyasa,True,,,2026-10-31 22:00,,,,,,kadro
+2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.10628410460691848,7.57,-0.19542932812562708,piyasa,,,,2026-10-31 22:00,,,,,,kadro
