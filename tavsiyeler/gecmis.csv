@@ -3644,3 +3644,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5719217143355835,1.51,-0.1363982113532689,korner,False,,,2026-10-31 19:00,,,,,,kadro
 2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.47178024554586573,1.85,-0.12720654574014834,korner,True,,,2026-10-31 19:00,,,,,,kadro
 2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10713486910389103,7.32,-0.21577275815951769,piyasa,,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7210361171246108,1.23,-0.11312557593672878,piyasa,False,,,2026-10-31 19:15,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.3920570454996063,2.14,-0.16099792263084245,piyasa,True,,,2026-10-31 19:15,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.254840044910248,3.29,-0.16157625224528416,piyasa,True,,,2026-10-31 19:15,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7176448568262879,1.28,-0.08141458326235151,korner,False,,,2026-10-31 19:15,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6285800823675249,1.5,-0.05712987644871259,korner,True,,,2026-10-31 19:15,,,,,,kadro
+2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08180341626481581,8.26,-0.3243037816526214,piyasa,,,,2026-10-31 19:15,,,,,,kadro
