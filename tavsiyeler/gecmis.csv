@@ -3632,3 +3632,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 17:31,2026-10-31,31.10,N1,Feyenoord,For Sittard,Feyenoord – Fortuna Sittard,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Üst,0.5831475102674375,1.51,-0.11944725949616941,korner,False,,,2026-10-31 18:30,,,,,,kadro
 2026-10-31 17:31,2026-10-31,31.10,N1,Feyenoord,For Sittard,Feyenoord – Fortuna Sittard,N1,🔴 Tier 3 — Yüksek risk,Korner 11.5 Üst,0.49350865188175286,1.83,-0.09687916705639221,korner,True,,,2026-10-31 18:30,,,,,,kadro
 2026-10-31 17:31,2026-10-31,31.10,N1,Feyenoord,For Sittard,Feyenoord – Fortuna Sittard,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11396868549652471,9.25,0.05421034084285359,piyasa,,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7136689073884287,1.24,-0.11505055483834847,piyasa,False,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🔴 Tier 3 — Yüksek risk,MS 2,0.38125945136079703,2.27,-0.13454104541099077,piyasa,True,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2112870521577187,3.9,-0.17598049658489712,piyasa,True,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7448966760490243,1.23,-0.08377708845970011,korner,False,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6523430150523988,1.43,-0.06714948847506974,korner,True,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.09648647103042249,8.6,-0.17021634913836658,piyasa,,,,2026-10-31 18:30,,,,,,kadro
