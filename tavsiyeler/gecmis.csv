@@ -3707,3 +3707,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.3359494231893793,2.61,-0.12317200547572005,piyasa,True,,,2026-10-31 22:00,,,,,,kadro
 2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.260284767991001,3.51,-0.08640046435158666,piyasa,True,,,2026-10-31 22:00,,,,,,kadro
 2026-10-31 21:27,2026-10-31,31.10,F2,Guingamp,St Etienne,Guingamp – St Etienne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.10628410460691848,7.57,-0.19542932812562708,piyasa,,,,2026-10-31 22:00,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,🟢 Tier 1 — Düşük risk,ÇŞ X-2,0.7008094672845782,1.22,-0.1450124499128147,piyasa,False,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,🔴 Tier 3 — Yüksek risk,MS 2,0.4589141368181801,1.84,-0.1555979882545485,piyasa,True,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.3362643795383238,2.4,-0.19296548910802291,piyasa,True,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.7425803229190561,1.22,-0.09405200603875163,korner,False,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,🟡 Tier 2 — Orta risk,Korner 11.5 Alt,0.660981598393771,1.4,-0.07462576224872064,korner,True,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,D2,Karlsruhe,Heidenheim,Karlsruhe – Heidenheim,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.09931916247201594,8.05,-0.20048074210027156,piyasa,,,,2026-10-31 22:30,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,F1,Troyes,Le Mans,Troyes – Le Mans,F1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7190896345213457,1.23,-0.11551974953874489,piyasa,False,,,2026-10-31 22:45,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,F1,Troyes,Le Mans,Troyes – Le Mans,F1,🔴 Tier 3 — Yüksek risk,MS 1,0.4024252953141135,2.03,-0.18307665051234978,piyasa,True,,,2026-10-31 22:45,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,F1,Troyes,Le Mans,Troyes – Le Mans,F1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2470816404105314,3.42,-0.15498078979598262,piyasa,True,,,2026-10-31 22:45,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,F1,Troyes,Le Mans,Troyes – Le Mans,F1,🟡 Tier 2 — Orta risk,En çok korner 1,0.6443363655368468,1.41,-0.09148572459304605,korner,False,,,2026-10-31 22:45,,,,,,kadro
+2026-10-31 21:51,2026-10-31,31.10,F1,Troyes,Le Mans,Troyes – Le Mans,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09010401045011078,8.12,-0.2683554351451005,piyasa,,,,2026-10-31 22:45,,,,,,kadro
