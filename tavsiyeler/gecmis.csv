@@ -3652,3 +3652,15 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 18:31,2026-10-31,31.10,I2,Catanzaro,Padova,US Catanzaro 1929 – Padova,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08180341626481581,8.26,-0.3243037816526214,piyasa,,,,2026-10-31 19:15,,,,,,kadro
 2026-10-31 19:15,2026-10-31,31.10,G1,Kifisia,Olympiakos,AE Kifisia FC – Olympiacos,G1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5026614142042428,1.72,-0.1354223675687024,piyasa,False,,,2026-10-31 20:00,,,,,,kadro
 2026-10-31 19:15,2026-10-31,31.10,G1,Kifisia,Olympiakos,AE Kifisia FC – Olympiacos,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1393909074692817,4.87,-0.32116628062459807,piyasa,,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,🟡 Tier 2 — Orta risk,MS 2,0.6306950520152181,1.42,-0.10441302613839032,piyasa,False,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.43744296691437196,1.94,-0.1513606441861184,piyasa,True,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.3114755870323684,2.72,-0.15278640327195792,piyasa,True,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5736099152665965,1.58,-0.0936963338787774,korner,False,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4646236784988629,1.99,-0.0753988797872629,korner,True,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,I1,Udinese,Roma,Udinese – AS Roma,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12742823657614516,7.3,-0.0697738729941404,piyasa,,,,2026-10-31 20:00,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5551208120041272,1.58,-0.12290911703347895,piyasa,False,,,2026-10-31 20:15,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.37526044148798665,2.19,-0.17817963314130925,piyasa,True,,,2026-10-31 20:15,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.25311285364202507,3.09,-0.21788128224614256,piyasa,True,,,2026-10-31 20:15,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7023098923460604,1.34,-0.058904744256278896,korner,False,,,2026-10-31 20:15,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6114070858551954,1.57,-0.04009087520734311,korner,True,,,2026-10-31 20:15,,,,,,kadro
+2026-10-31 19:28,2026-10-31,31.10,B1,Standard,Kortrijk,Standard Liege – Kortrijk,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10931886886081815,7.27,-0.2052518233818521,piyasa,,,,2026-10-31 20:15,,,,,,kadro
