@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/5 tuttu** (isabet %0, beklenen %40) · -5.00 birim · 4 tahmin sonuç bekliyor
+**0/5 tuttu** (isabet %0, beklenen %40) · -5.00 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10 08:58 gönderilen kupon · 3 maç, oran 25,12
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 17:30 Monchengladbach – Paderborn · MS 1 & 2.5 Üst · @2.81
+- ⏳ 31.10 20:30 Tottenham – Crystal Palace · MS 1 & KG Var · @2.97
+- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01
 
 ## 30.10 13:14 gönderilen kupon · 3 maç, oran 24,24
 

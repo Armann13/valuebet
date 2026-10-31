@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/7 tuttu** (isabet %29, beklenen %32) · -0.88 birim · 9 tahmin sonuç bekliyor
+**2/7 tuttu** (isabet %29, beklenen %32) · -0.88 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 31.10 08:58 gönderilen kupon · 4 maç, oran 73,76
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 31.10 20:15 Standard Liege – Kortrijk · En çok korner 2 · @2.62
+- ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
+- ⏳ 01.11 21:15 Charleroi – RAAL La Louviere · En çok korner 2 · @3.43
+- ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.89
 
 ## 30.10 21:09 gönderilen kupon · 4 maç, oran 44,16
 

@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/66 tuttu** (isabet %17, beklenen %16) · -6.01 birim · 3 tahmin sonuç bekliyor
+**11/66 tuttu** (isabet %17, beklenen %16) · -6.01 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 01.11.2026 Pazar
+
+**19:00 · Paneitolikos – Ofi Crete**
+
+- ⏳ 1-1 · @4.44
+
+**23:30 · Braga – Famalicao**
+
+- ⏳ 1-0 · @5.10
 
 ## 31.10.2026 Cumartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim · 4 tahmin sonuç bekliyor
+**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,12 +17,30 @@
 **17:00 · Empoli – Juve Stabia**
 
 - ⏳ KG Yok · @1.93
+- ⏳ 2.5 Alt · @1.71
 
 **17:00 · Sheffield Wednesday – Blackpool**
 
 - ⏳ 2.5 Alt · @2.11
 
 ## 31.10.2026 Cumartesi
+
+**17:30 · Monchengladbach – Paderborn**
+
+- ⏳ MS 1 & 2.5 Üst · @2.81
+
+**18:00 · Burnley – Portsmouth**
+
+- ⏳ MS 1 & 2.5 Üst · @3.63
+
+**20:30 · Celta Vigo B – Cordoba**
+
+- ⏳ MS 1 · @3.73
+- ⏳ ÇŞ 1-X · @1.84
+
+**20:30 · Tottenham – Crystal Palace**
+
+- ⏳ MS 1 & KG Var · @2.97
 
 **23:30 · Porto – Estoril Praia**
 
