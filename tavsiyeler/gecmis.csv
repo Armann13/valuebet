@@ -3790,3 +3790,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 22:22,2026-10-31,31.10,N1,Ajax,AZ Alkmaar,Ajax – AZ Alkmaar,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12641152597708766,7.62,-0.03674417205459202,piyasa,,,,2026-10-31 23:00,,,,,,kadro
 2026-10-31 22:22,2026-10-31,31.10,SP1,Barcelona,Alaves,Barcelona – Alaves,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09920512128682117,11.1,0.10117684628371504,piyasa,,,,2026-10-31 23:00,,,,,,kadro
 2026-10-31 22:22,2026-10-31,31.10,N1,Ajax,AZ Alkmaar,Ajax – AZ Alkmaar,N1,💎 Değeri pozitif olanlar,MS 1 & 2.5 Üst,0.4611376351929539,2.17,0.0006686683687100459,piyasa,,,,2026-10-31 23:00,,,,,,kadro
+2026-10-31 23:06,2026-10-31,31.10,P1,Porto,Estoril,Porto – Estoril Praia,P1,🟡 Tier 2 — Orta risk,KG Yok,0.5646229013854406,1.53,-0.13612696088027587,piyasa,False,,,2026-10-31 23:30,,,,,,kadro
+2026-10-31 23:06,2026-10-31,31.10,P1,Porto,Estoril,Porto – Estoril Praia,P1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7215864637518116,1.25,-0.09801692031023557,korner,False,,,2026-10-31 23:30,,,,,,kadro
+2026-10-31 23:06,2026-10-31,31.10,P1,Porto,Estoril,Porto – Estoril Praia,P1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.634569653717194,1.44,-0.08621969864724066,korner,True,,,2026-10-31 23:30,,,,,,kadro
+2026-10-31 23:06,2026-10-31,31.10,P1,Porto,Estoril,Porto – Estoril Praia,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-0,0.15268428806998235,5.56,-0.15107535833089814,piyasa,,,,2026-10-31 23:30,,,,,,kadro
+2026-10-31 23:06,2026-10-31,31.10,P1,Porto,Estoril,Porto – Estoril Praia,P1,💎 Değeri pozitif olanlar,2.5 Alt,0.416884686261122,2.65,0.10474441859197325,piyasa,,,,2026-10-31 23:30,,,,,,kadro
