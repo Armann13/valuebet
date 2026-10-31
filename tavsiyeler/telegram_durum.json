@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-10-30 18",
+ "son_ozet": "2026-10-31 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -62,7 +62,13 @@
   "2026-10-28|AC Milan – Bologna|MS 1 & KG Var",
   "2026-10-28|Genoa – Juventus|2.5 Üst",
   "2026-10-28|Hearts – Rangers|MS 1",
+  "2026-10-31|Burnley – Portsmouth|MS 1 & 2.5 Üst",
+  "2026-10-31|Celta Vigo B – Cordoba|MS 1",
+  "2026-10-31|Celta Vigo B – Cordoba|ÇŞ 1-X",
+  "2026-10-31|Monchengladbach – Paderborn|MS 1 & 2.5 Üst",
   "2026-10-31|Porto – Estoril Praia|KG Var",
+  "2026-10-31|Tottenham – Crystal Palace|MS 1 & KG Var",
+  "2026-11-01|Empoli – Juve Stabia|2.5 Alt",
   "2026-11-01|Empoli – Juve Stabia|KG Yok",
   "2026-11-01|Sheffield Wednesday – Blackpool|2.5 Alt",
   "2026-11-02|PAE PS Kalamata – POT Iraklis|MS 1 & 2.5 Üst"
@@ -95,7 +101,8 @@
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
  "kuponlar": [
   "2️⃣|Le Havre – Paris Saint Germain:MS 2 & KG Var|Sheffield United – Wrexham:En çok korner 1",
@@ -110,6 +117,10 @@
   "🎲|Feyenoord – Fortuna Sittard:İY/MS 2/1|Middlesbrough – Charlton:İY/MS 2/1|P. Thistle – G. Morton:İY/MS 2/1|Zulte Waregem – Club Brugge:İY/MS 1/2",
   "2️⃣|Feyenoord – Fortuna Sittard:MS 1 & KG Var|Sheffield United – Wrexham:En çok korner 1",
   "4️⃣|Mechelen – KRC Genk:En çok korner 1|Middlesbrough – Charlton:MS 1 & KG Var|P. Thistle – G. Morton:MS 1 & KG Var|Udinese – AS Roma:En çok korner 1",
-  "🎲|Feyenoord – Fortuna Sittard:İY/MS 2/1|Levante – Atletico Madrid:İY/MS 1/2|P. Thistle – G. Morton:İY/MS 2/1|Zulte Waregem – Club Brugge:İY/MS 1/2"
+  "🎲|Feyenoord – Fortuna Sittard:İY/MS 2/1|Levante – Atletico Madrid:İY/MS 1/2|P. Thistle – G. Morton:İY/MS 2/1|Zulte Waregem – Club Brugge:İY/MS 1/2",
+  "2️⃣|US Palermo – LR Vicenza Virtus:En çok korner 2|Union Berlin – Köln:En çok korner 1",
+  "3️⃣|Monchengladbach – Paderborn:MS 1 & 2.5 Üst|SK Beveren – Union Saint Gilloise:En çok korner 1|Tottenham – Crystal Palace:MS 1 & KG Var",
+  "4️⃣|Başakşehir – Samsunspor:En çok korner 2|Charleroi – RAAL La Louviere:En çok korner 2|Juventus – Napoli:En çok korner 2|Standard Liege – Kortrijk:En çok korner 2",
+  "🎲|Celta Vigo B – Cordoba:MS 1|Empoli – Juve Stabia:KG Yok|Feyenoord – Fortuna Sittard:İY/MS 2/1|Kasımpaşa – Beşiktaş:İY/MS 1/2|P. Thistle – G. Morton:İY/MS 2/1|Santander – Real Madrid:İY/MS 1/2"
  ]
 }

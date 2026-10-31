@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim
+**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**20:30 · PAE PS Kalamata – POT Iraklis**
+
+- ⏳ MS 1 & 2.5 Üst · @3.80
+
+## 01.11.2026 Pazar
+
+**17:00 · Empoli – Juve Stabia**
+
+- ⏳ KG Yok · @1.93
+
+**17:00 · Sheffield Wednesday – Blackpool**
+
+- ⏳ 2.5 Alt · @2.11
+
+## 31.10.2026 Cumartesi
+
+**23:30 · Porto – Estoril Praia**
+
+- ⏳ KG Var · @2.32
 
 ## 28.10.2026 Çarşamba
 
