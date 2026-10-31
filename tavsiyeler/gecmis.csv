@@ -3638,3 +3638,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7448966760490243,1.23,-0.08377708845970011,korner,False,,,2026-10-31 18:30,,,,,,kadro
 2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6523430150523988,1.43,-0.06714948847506974,korner,True,,,2026-10-31 18:30,,,,,,kadro
 2026-10-31 17:54,2026-10-31,31.10,P1,Moreirense,Estrela,Moreirense – CF Estrela,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.09648647103042249,8.6,-0.17021634913836658,piyasa,,,,2026-10-31 18:30,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🟢 Tier 1 — Düşük risk,MS 1,0.7243874256156947,1.38,-0.0003453526503414128,piyasa,False,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5326341436014137,1.87,-0.00397415146535629,piyasa,True,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3704619628262322,2.62,-0.02938965739527155,piyasa,True,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5719217143355835,1.51,-0.1363982113532689,korner,False,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.47178024554586573,1.85,-0.12720654574014834,korner,True,,,2026-10-31 19:00,,,,,,kadro
+2026-10-31 18:17,2026-10-31,31.10,T1,Fenerbahce,Goztep,Fenerbahçe – Göztepe,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10713486910389103,7.32,-0.21577275815951769,piyasa,,,,2026-10-31 19:00,,,,,,kadro
