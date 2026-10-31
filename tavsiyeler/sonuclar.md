@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 31.10.2026 12:47. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 31.10.2026 13:10. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -21,7 +21,7 @@ Son güncelleme: 31.10.2026 12:47. Telegram mesajına giren tahminler (ilk gönd
 | [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 12 | 5 | 0 | %0 | %40 | -5.00 | %-100 |
 | [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 20 | 7 | 2 | %29 | %32 | -0.88 | %-13 |
 | [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 66 | 43 | 7 | %16 | %13 | +103.30 | %240 |
-| [💎 💎 Değerli](sonuclar/degerli.md) | 71 | 61 | 30 | %49 | %43 | +7.93 | %13 |
+| [💎 💎 Değerli](sonuclar/degerli.md) | 75 | 61 | 30 | %49 | %43 | +7.93 | %13 |
 
 ## Sistem kuponları
 
@@ -193,6 +193,6 @@ Değişen tahmin: 58 (57 sonuçlandı: eski 49, yeni 33 tuttu).
 | 28.10.2026 | 104 | 104 | 37 | %36 | %43 | -41.17 |
 | 29.10.2026 | 16 | 16 | 5 | %31 | %41 | -7.27 |
 | 30.10.2026 | 157 | 126 | 53 | %42 | %41 | -16.62 |
-| 31.10.2026 | 650 | 0 | 0 | — | — | — |
-| 01.11.2026 | 275 | 0 | 0 | — | — | — |
+| 31.10.2026 | 653 | 0 | 0 | — | — | — |
+| 01.11.2026 | 276 | 0 | 0 | — | — | — |
 | 02.11.2026 | 1 | 0 | 0 | — | — | — |
