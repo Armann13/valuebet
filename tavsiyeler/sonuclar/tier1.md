@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**158/220 tuttu** (isabet %72, beklenen %76) · -26.30 birim · 135 tahmin sonuç bekliyor
+**197/280 tuttu** (isabet %70, beklenen %75) · -38.08 birim · 75 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -158,131 +158,131 @@
 
 **15:00 · Wolfsburg – Osnabruck**
 
-- ⏳ 2.5 Üst · @1.28
-- ⏳ En çok korner 1 · @1.45
+- ❌ 2.5 Üst · @1.28 · 2-0
+- ✅ En çok korner 1 · @1.45 · korner 9-3
 
 **15:00 · Kaiserslautern – Hertha Berlin**
 
-- ⏳ Korner 12.5 Alt · @1.24
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ Korner 12.5 Alt · @1.24 · korner 3-3
+- ✅ ÇŞ 1-2 · @1.20 · 0-3
 
 **15:30 · Lincoln City – Birmingham**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 11.5 Alt · @1.23
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.22 · 1-3
+- ✅ Korner 11.5 Alt · @1.23 · korner 3-3
+- ✅ ÇŞ X-2 · @1.24 · 1-3
 
 **15:30 · Halifax Town – Yeovil Town**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **15:30 · Stoke City – Preston**
 
-- ⏳ En çok korner 1 · @1.27
+- ✅ En çok korner 1 · @1.27 · korner 9-7
 
 **15:30 · Chelsea – Manchester United**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **16:00 · Kocaelispor – Rizespor**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 10.5 Alt · @1.25
+- ❌ ÇŞ 1-2 · @1.22 · 0-0
+- ❌ Korner 10.5 Alt · @1.25 · korner 7-4
 
 **16:00 · Annecy FC – Montpellier**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 0-3
 
 **16:00 · Real Sociedad B – Girona**
 
-- ⏳ ÇŞ X-2 · @1.23
+- ❌ ÇŞ X-2 · @1.23 · 1-0
 
 **16:00 · Levante – Atletico Madrid**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 5-3
 
 **17:00 · FC Sudtirol – AC Cesena**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ❌ ÇŞ 1-2 · @1.24 · 1-1
 
 **17:00 · Cremonese – Benevento**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ✅ ÇŞ 1-2 · @1.25 · 2-0
 
 **17:00 · Bologna – AC Monza**
 
-- ⏳ Korner 10.5 Alt · @1.25
+- ✅ Korner 10.5 Alt · @1.25 · korner 5-2
 
 **17:30 · B. Leverkusen – Stuttgart**
 
-- ⏳ 2.5 Üst · @1.21
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ 2.5 Üst · @1.21 · 2-4
+- ❌ Korner 12.5 Alt · @1.20 · korner 12-3
 
 **17:30 · Monchengladbach – Paderborn**
 
-- ⏳ ÇŞ 1-X · @1.21
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ ÇŞ 1-X · @1.21 · 0-0
+- ✅ Korner 11.5 Alt · @1.22 · korner 4-7
 
 **17:30 · Werder Bremen – Hoffenheim**
 
-- ⏳ 2.5 Üst · @1.30
+- ❌ 2.5 Üst · @1.30 · 2-0
 
 **17:30 · Augsburg – Freiburg**
 
-- ⏳ Korner 11.5 Alt · @1.24
+- ✅ Korner 11.5 Alt · @1.24 · korner 1-2
 
 **17:30 · Schalke 04 – Leipzig**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ Korner 11.5 Alt · @1.23 · korner 3-7
 
 **18:00 · Brentford – Nottingham Forest**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ ÇŞ 1-X · @1.22
+- ✅ ÇŞ 1-2 · @1.20 · 2-0
+- ✅ ÇŞ 1-X · @1.22 · 2-0
 
 **18:00 · Kilmarnock – St Johnstone**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 2-2
 
 **18:00 · Boreham Wood – Hartlepool**
 
-- ⏳ 2.5 Üst · @1.25
+- ✅ 2.5 Üst · @1.25 · 4-3
 
 **18:00 · Bolton – Bristol City**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 12.5 Alt · @1.21
+- ✅ ÇŞ 1-2 · @1.22 · 2-3
+- ❌ Korner 12.5 Alt · @1.21 · korner 11-4
 
 **18:00 · Burnley – Portsmouth**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ ÇŞ 1-X · @1.26
+- ❌ ÇŞ 1-2 · @1.22 · 0-0
+- ✅ ÇŞ 1-X · @1.26 · 0-0
 
 **18:00 · Bournemouth – Leeds United**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 7.5 Üst · @1.20
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-2 · @1.22 · 2-0
+- ✅ Korner 7.5 Üst · @1.20 · korner 4-4
+- ✅ ÇŞ 1-X · @1.21 · 2-0
 
 **18:00 · Hull City – Ipswich Town**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 11.5 Alt · @1.21
+- ❌ ÇŞ 1-2 · @1.22 · 2-2
+- ✅ Korner 11.5 Alt · @1.21 · korner 6-3
 
 **18:00 · Coventry – Sunderland**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ ÇŞ X-2 · @1.27
+- ✅ ÇŞ 1-2 · @1.23 · 3-1
+- ❌ ÇŞ X-2 · @1.27 · 3-1
 
 **18:00 · Manchester City – Brighton**
 
-- ⏳ 2.5 Üst · @1.30
-- ⏳ En çok korner 1 · @1.25
+- ❌ 2.5 Üst · @1.30 · 0-1
+- ✅ En çok korner 1 · @1.25 · korner 8-2
 
 **18:00 · Middlesbrough – Charlton**
 
-- ⏳ 2.5 Üst · @1.30
-- ⏳ Korner 13.5 Alt · @1.20
+- ✅ 2.5 Üst · @1.30 · 3-0
+- ✅ Korner 13.5 Alt · @1.20 · korner 8-4
 
 **18:00 · Kelty Hearts – Elgin City**
 
@@ -294,54 +294,54 @@
 
 **18:00 · Peterborough – Luton Town**
 
-- ⏳ 2.5 Üst · @1.28
+- ❌ 2.5 Üst · @1.28 · 0-2
 
 **18:00 · Swansea City – Blackburn Rovers**
 
-- ⏳ Korner 12.5 Alt · @1.23
+- ✅ Korner 12.5 Alt · @1.23 · korner 1-2
 
 **18:00 · Wolverhampton – Cardiff City**
 
-- ⏳ Korner 12.5 Alt · @1.24
+- ✅ Korner 12.5 Alt · @1.24 · korner 3-5
 
 **18:00 · Mechelen – KRC Genk**
 
-- ⏳ Korner 11.5 Alt · @1.24
+- ✅ Korner 11.5 Alt · @1.24 · korner 3-8
 
 **18:15 · Eibar – Almeria**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 11.5 Alt · @1.25
+- ❌ ÇŞ 1-2 · @1.21 · 1-1
+- ✅ Korner 11.5 Alt · @1.25 · korner 5-3
 
 **18:15 · Vallecano – Celta Vigo**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ✅ ÇŞ 1-2 · @1.25 · 3-0
 
 **18:30 · Feyenoord – Fortuna Sittard**
 
-- ⏳ MS 1 & 2.5 Üst · @1.29
+- ❌ MS 1 & 2.5 Üst · @1.29 · 1-1
 
 **18:30 · Moreirense – CF Estrela**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 10.5 Alt · @1.22
+- ✅ ÇŞ 1-2 · @1.23 · 2-1
+- ✅ Korner 10.5 Alt · @1.22 · korner 3-3
 
 **19:00 · Fenerbahçe – Göztepe**
 
-- ⏳ MS 1 · @1.25
+- ❌ MS 1 · @1.25 · 1-2
 
 **19:15 · US Catanzaro 1929 – Padova**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 11.5 Alt · @1.28
+- ❌ ÇŞ 1-2 · @1.23 · 1-1
+- ❌ Korner 11.5 Alt · @1.28 · korner 11-2
 
 **20:00 · AE Kifisia FC – Olympiacos**
 
-- ⏳ MS 2 · @1.31
+- ✅ MS 2 · @1.31 · 2-3
 
 **20:15 · Standard Liege – Kortrijk**
 
-- ⏳ Korner 11.5 Alt · @1.34
+- ❌ Korner 11.5 Alt · @1.34 · korner 10-4
 
 **20:30 · Real Betis – Malaga CF**
 
@@ -357,7 +357,7 @@
 
 **20:30 · Tottenham – Crystal Palace**
 
-- ⏳ Korner 12.5 Alt · @1.21
+- ❌ Korner 12.5 Alt · @1.21 · korner 19-0
 
 **20:45 · Heerenveen – NEC Nijmegen**
 

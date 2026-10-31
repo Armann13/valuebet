@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/4 tuttu** (isabet %100, beklenen %61) · +3.54 birim · 4 tahmin sonuç bekliyor
+**4/6 tuttu** (isabet %67, beklenen %58) · +1.54 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,17 +15,17 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 30.10 21:09 gönderilen kupon · 2 maç, oran 3,76
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 30.10 23:00 Sheffield United – Wrexham · En çok korner 1 · @1.78 · korner 7-0
-- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · MS 1 & KG Var · @2.11
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · MS 1 & KG Var · @2.11 · 1-1
 
 ## 30.10 13:14 gönderilen kupon · 2 maç, oran 3,76
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 30.10 23:00 Sheffield United – Wrexham · En çok korner 1 · @1.78 · korner 7-0
-- ⏳ 31.10 15:00 Kaiserslautern – Hertha Berlin · En çok korner 1 · @2.11
+- ❌ 31.10 15:00 Kaiserslautern – Hertha Berlin · En çok korner 1 · @2.11 · korner 3-3
 
 ## 29.10 14:13 gönderilen kupon · 2 maç, oran 3,93
 

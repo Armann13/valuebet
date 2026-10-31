@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/61 tuttu** (isabet %49, beklenen %43) · +7.93 birim · 14 tahmin sonuç bekliyor
+**31/66 tuttu** (isabet %47, beklenen %43) · +6.63 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -31,19 +31,19 @@
 
 **17:00 · Modena FC – Mantova 1911**
 
-- ⏳ MS 1 · @1.90
+- ❌ MS 1 · @1.90 · 1-1
 
 **17:30 · Monchengladbach – Paderborn**
 
-- ⏳ MS 1 & 2.5 Üst · @2.81
+- ❌ MS 1 & 2.5 Üst · @2.81 · 0-0
 
 **17:30 · Augsburg – Freiburg**
 
-- ⏳ MS 2 & KG Var · @3.70
+- ✅ MS 2 & KG Var · @3.70 · 1-2
 
 **18:00 · Burnley – Portsmouth**
 
-- ⏳ MS 1 & 2.5 Üst · @3.63
+- ❌ MS 1 & 2.5 Üst · @3.63 · 0-0
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -52,7 +52,7 @@
 
 **20:30 · Tottenham – Crystal Palace**
 
-- ⏳ MS 1 & KG Var · @2.97
+- ❌ MS 1 & KG Var · @2.97 · 2-0
 
 **23:00 · Aston Villa – Fulham**
 
@@ -61,6 +61,7 @@
 **23:30 · Porto – Estoril Praia**
 
 - ⏳ KG Var · @2.32
+- ⏳ 2.5 Alt · @2.47
 
 ## 28.10.2026 Çarşamba
 

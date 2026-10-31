@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/43 tuttu** (isabet %16, beklenen %13) · +103.30 birim · 23 tahmin sonuç bekliyor
+**7/49 tuttu** (isabet %14, beklenen %12) · +97.30 birim · 17 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
-- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.30
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.30
 - ⏳ 31.10 20:30 Celta Vigo B – Cordoba · MS 1 · @3.73
 - ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93
 - ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.70
@@ -23,17 +23,17 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.65
 - ⏳ 31.10 16:00 Levante – Atletico Madrid · İY/MS 1/2 · @20.60
-- ⏳ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
-- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
 
 ## 30.10 13:14 gönderilen kupon · 4 maç, oran 188.939,47
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.75
-- ⏳ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.55
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.55
 - ⏳ 31.10 18:00 Middlesbrough – Charlton · İY/MS 2/1 · @20.95
-- ⏳ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
 
 ## 29.10 14:13 gönderilen kupon · 4 maç, oran 202.924,93
 

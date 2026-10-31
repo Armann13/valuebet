@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/309 tuttu** (isabet %58, beklenen %61) · -37.70 birim · 268 tahmin sonuç bekliyor
+**249/434 tuttu** (isabet %57, beklenen %60) · -53.18 birim · 143 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -236,116 +236,116 @@
 
 **15:00 · Darmstadt 98 – Magdeburg**
 
-- ⏳ 2.5 Üst · @1.43
-- ⏳ Korner 10.5 Alt · @1.62
+- ❌ 2.5 Üst · @1.43 · 1-1
+- ❌ Korner 10.5 Alt · @1.62 · korner 7-5
 
 **15:00 · Kaiserslautern – Hertha Berlin**
 
-- ⏳ 2.5 Üst · @1.46
-- ⏳ ↳ Korner 11.5 Alt · @1.43
+- ✅ 2.5 Üst · @1.46 · 0-3
+- ✅ ↳ Korner 11.5 Alt · @1.43 · korner 3-3
 
 **15:00 · Wolfsburg – Osnabruck**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.79
-- ⏳ MS 1 · @1.43
+- ❌ ↳ MS 1 & 2.5 Üst · @1.79 · 2-0
+- ✅ MS 1 · @1.43 · 2-0
 
 **15:30 · Norwich City – Watford**
 
-- ⏳ MS 1 · @1.41
-- ⏳ Korner 9.5 Üst · @1.71
-- ⏳ KG Var · @1.55
+- ✅ MS 1 · @1.41 · 3-2
+- ✅ Korner 9.5 Üst · @1.71 · korner 9-2
+- ✅ KG Var · @1.55 · 3-2
 
 **15:30 · Grimsby Town – York City**
 
-- ⏳ 2.5 Üst · @1.42
+- ✅ 2.5 Üst · @1.42 · 5-2
 
 **15:30 · Forest Green – Harrogate**
 
-- ⏳ 2.5 Üst · @1.45
+- ✅ 2.5 Üst · @1.45 · 2-2
 
 **15:30 · Port Vale – Rochdale**
 
-- ⏳ MS 1 · @1.53
+- ✅ MS 1 · @1.53 · 4-2
 
 **15:30 · Stoke City – Preston**
 
-- ⏳ MS 1 · @1.62
+- ✅ MS 1 · @1.62 · 2-0
 
 **15:30 · Chelsea – Manchester United**
 
-- ⏳ MS 1 · @1.66
-- ⏳ En çok korner 1 · @1.43
+- ✅ MS 1 · @1.66 · 2-0
+- ✅ En çok korner 1 · @1.43 · korner 8-7
 
 **15:30 · Leyton Orient – Cambridge**
 
-- ⏳ 2.5 Üst · @1.64
+- ✅ 2.5 Üst · @1.64 · 3-0
 
 **15:30 · Bradford – Huddersfield**
 
-- ⏳ 2.5 Üst · @1.67
+- ✅ 2.5 Üst · @1.67 · 0-3
 
 **15:30 · Lincoln City – Birmingham**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.42
+- ✅ ↳ Korner 10.5 Alt · @1.42 · korner 3-3
 
 **16:00 · Levante – Atletico Madrid**
 
-- ⏳ MS 2 · @1.42
-- ⏳ En çok korner 2 · @1.42
-- ⏳ ↳ Korner 8.5 Üst · @1.41
-- ⏳ KG Var · @1.52
+- ✅ MS 2 · @1.42 · 0-2
+- ❌ En çok korner 2 · @1.42 · korner 5-3
+- ❌ ↳ Korner 8.5 Üst · @1.41 · korner 5-3
+- ❌ KG Var · @1.52 · 0-2
 
 **16:00 · Kocaelispor – Rizespor**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.46
+- ❌ ↳ Korner 9.5 Alt · @1.46 · korner 7-4
 
 **16:00 · Real Sociedad B – Girona**
 
-- ⏳ Korner 9.5 Alt · @1.65
+- ✅ Korner 9.5 Alt · @1.65 · korner 3-1
 
 **17:00 · Bologna – AC Monza**
 
-- ⏳ MS 1 · @1.56
-- ⏳ ↳ Korner 9.5 Alt · @1.48
-- ⏳ KG Var · @1.70
+- ✅ MS 1 · @1.56 · 2-1
+- ✅ ↳ Korner 9.5 Alt · @1.48 · korner 5-2
+- ✅ KG Var · @1.70 · 2-1
 
 **17:00 · Modena FC – Mantova 1911**
 
-- ⏳ MS 1 · @1.64
-- ⏳ Korner 9.5 Alt · @1.51
+- ❌ MS 1 · @1.64 · 1-1
+- ✅ Korner 9.5 Alt · @1.51 · korner 0-7
 
 **17:00 · FC Sudtirol – AC Cesena**
 
-- ⏳ Korner 9.5 Alt · @1.52
+- ✅ Korner 9.5 Alt · @1.52 · korner 2-4
 
 **17:00 · Cremonese – Benevento**
 
-- ⏳ En çok korner 1 · @2.17
-- ⏳ 2.5 Alt · @1.64
+- ❌ En çok korner 1 · @2.17 · korner 1-7
+- ✅ 2.5 Alt · @1.64 · 2-0
 
 **17:30 · Augsburg – Freiburg**
 
-- ⏳ ÇŞ 1-X · @1.53
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ❌ ÇŞ 1-X · @1.53 · 1-2
+- ✅ ↳ Korner 10.5 Alt · @1.43 · korner 1-2
 
 **17:30 · Schalke 04 – Leipzig**
 
-- ⏳ MS 2 · @1.70
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ✅ MS 2 · @1.70 · 0-2
+- ✅ ↳ Korner 10.5 Alt · @1.43 · korner 3-7
 
 **17:30 · Monchengladbach – Paderborn**
 
-- ⏳ ↳ MS 1 · @1.82
-- ⏳ ↳ Korner 10.5 Alt · @1.40
+- ❌ ↳ MS 1 · @1.82 · 0-0
+- ❌ ↳ Korner 10.5 Alt · @1.40 · korner 4-7
 
 **17:30 · B. Leverkusen – Stuttgart**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.62
+- ❌ ↳ Korner 10.5 Alt · @1.62 · korner 12-3
 
 **17:30 · Werder Bremen – Hoffenheim**
 
-- ⏳ Korner 9.5 Alt · @1.77
-- ⏳ ÇŞ 1-X · @1.42
+- ❌ Korner 9.5 Alt · @1.77 · korner 8-4
+- ✅ ÇŞ 1-X · @1.42 · 2-0
 
 **18:00 · East Kilbri – Ross County**
 
@@ -353,24 +353,24 @@
 
 **18:00 · Boreham Wood – Hartlepool**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.46
-- ⏳ KG Var · @1.56
+- ✅ ↳ MS 1 & 2.5 Üst · @1.46 · 4-3
+- ✅ KG Var · @1.56 · 4-3
 
 **18:00 · Barrow – Eastleigh**
 
-- ⏳ MS 1 · @1.44
-- ⏳ KG Var · @1.55
+- ❌ MS 1 · @1.44 · 1-1
+- ✅ KG Var · @1.55 · 1-1
 
 **18:00 · Middlesbrough – Charlton**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.49
-- ⏳ ↳ Korner 11.5 Alt · @1.61
-- ⏳ KG Var · @1.70
+- ✅ ↳ MS 1 & 2.5 Üst · @1.49 · 3-0
+- ❌ ↳ Korner 11.5 Alt · @1.61 · korner 8-4
+- ❌ KG Var · @1.70 · 3-0
 
 **18:00 · Salford City – Exeter City**
 
-- ⏳ MS 1 · @1.46
-- ⏳ KG Var · @1.66
+- ✅ MS 1 · @1.46 · 2-1
+- ✅ KG Var · @1.66 · 2-1
 
 **18:00 · Stranraer – Clyde Bank**
 
@@ -378,83 +378,83 @@
 
 **18:00 · West Ham – West Bromwich**
 
-- ⏳ MS 1 · @1.50
-- ⏳ Korner 10.5 Alt · @1.79
+- ❌ MS 1 · @1.50 · 1-3
+- ❌ Korner 10.5 Alt · @1.79 · korner 8-6
 
 **18:00 · Altrincham – Carlisle**
 
-- ⏳ 2.5 Üst · @1.43
+- ✅ 2.5 Üst · @1.43 · 2-4
 
 **18:00 · Crewe Alexandra – Barnet**
 
-- ⏳ 2.5 Üst · @1.43
+- ❌ 2.5 Üst · @1.43 · 1-1
 
 **18:00 · Stockport – Wimbledon**
 
-- ⏳ MS 1 & 2.5 Üst · @1.50
-- ⏳ KG Var · @1.68
+- ✅ MS 1 & 2.5 Üst · @1.50 · 2-1
+- ✅ KG Var · @1.68 · 2-1
 
 **18:00 · P. Thistle – G. Morton**
 
-- ⏳ MS 1 & 2.5 Üst · @1.51
+- ❌ MS 1 & 2.5 Üst · @1.51 · 2-3
 
 **18:00 · Wolverhampton – Cardiff City**
 
-- ⏳ MS 1 · @1.53
-- ⏳ ↳ Korner 11.5 Alt · @1.42
+- ✅ MS 1 · @1.53 · 3-0
+- ✅ ↳ Korner 11.5 Alt · @1.42 · korner 3-5
 
 **18:00 · Millwall – Derby County**
 
-- ⏳ MS 1 · @1.54
-- ⏳ Korner 10.5 Alt · @1.86
-- ⏳ KG Var · @1.69
+- ✅ MS 1 · @1.54 · 4-1
+- ✅ Korner 10.5 Alt · @1.86 · korner 4-5
+- ✅ KG Var · @1.69 · 4-1
 
 **18:00 · Oldham – Crawley Town**
 
-- ⏳ MS 1 · @1.53
+- ❌ MS 1 · @1.53 · 0-1
 
 **18:00 · Leicester City – Stevenage**
 
-- ⏳ MS 1 · @1.54
-- ⏳ 2.5 Üst · @1.49
+- ❌ MS 1 · @1.54 · 2-2
+- ✅ 2.5 Üst · @1.49 · 2-2
 
 **18:00 · Wycombe – Burton Albion**
 
-- ⏳ 2.5 Üst · @1.48
-- ⏳ MS 1 · @1.40
+- ❌ 2.5 Üst · @1.48 · 2-0
+- ✅ MS 1 · @1.40 · 2-0
 
 **18:00 · Aldershot – Gateshead**
 
-- ⏳ KG Var · @1.53
+- ❌ KG Var · @1.53 · 1-0
 
 **18:00 · MK Dons – Doncaster**
 
-- ⏳ 2.5 Üst · @1.50
+- ✅ 2.5 Üst · @1.50 · 6-1
 
 **18:00 · Ayr United – Queen's Park**
 
-- ⏳ MS 1 · @1.59
-- ⏳ 2.5 Alt · @1.60
+- ✅ MS 1 · @1.59 · 3-2
+- ❌ 2.5 Alt · @1.60 · 3-2
 
 **18:00 · Wealdstone – Southend**
 
-- ⏳ MS 2 · @1.59
+- ❌ MS 2 · @1.59 · 3-2
 
 **18:00 · Solihull Moors – Kidderminster Harriers**
 
-- ⏳ 2.5 Üst · @1.53
+- ✅ 2.5 Üst · @1.53 · 2-1
 
 **18:00 · Swindon Town – Rotherham**
 
-- ⏳ 2.5 Üst · @1.53
+- ✅ 2.5 Üst · @1.53 · 2-1
 
 **18:00 · Mansfield – Notts County**
 
-- ⏳ MS 1 · @1.61
+- ❌ MS 1 · @1.61 · 0-2
 
 **18:00 · Tamworth – Woking**
 
-- ⏳ ÇŞ X-2 · @1.43
+- ✅ ÇŞ X-2 · @1.43 · 0-1
 
 **18:00 · Edinburgh – Dumbarton**
 
@@ -462,12 +462,12 @@
 
 **18:00 · Motherwell – St Mirren**
 
-- ⏳ MS 1 · @1.66
+- ✅ MS 1 · @1.66 · 1-0
 
 **18:00 · Southampton – Queens Park Rangers**
 
-- ⏳ MS 1 · @1.67
-- ⏳ En çok korner 1 · @1.41
+- ✅ MS 1 · @1.67 · 4-1
+- ✅ En çok korner 1 · @1.41 · korner 9-4
 
 **18:00 · Airdrieonian – Cove Rangers**
 
@@ -480,9 +480,9 @@
 
 **18:00 · Swansea City – Blackburn Rovers**
 
-- ⏳ MS 1 · @1.69
-- ⏳ ↳ Korner 11.5 Alt · @1.41
-- ⏳ KG Var · @1.67
+- ✅ MS 1 · @1.69 · 4-0
+- ✅ ↳ Korner 11.5 Alt · @1.41 · korner 1-2
+- ❌ KG Var · @1.67 · 4-0
 
 **18:00 · Spartans Edinburgh FC – Annan Athletic**
 
@@ -490,12 +490,12 @@
 
 **18:00 · Tranmere – Cheltenham**
 
-- ⏳ MS 1 · @1.68
-- ⏳ KG Var · @1.50
+- ✅ MS 1 · @1.68 · 3-1
+- ✅ KG Var · @1.50 · 3-1
 
 **18:00 · Colchester – Walsall**
 
-- ⏳ 2.5 Üst · @1.61
+- ✅ 2.5 Üst · @1.61 · 1-3
 
 **18:00 · Peterhead – Alloa**
 
@@ -503,12 +503,12 @@
 
 **18:00 · Wigan Athletic – Bromley**
 
-- ⏳ MS 1 · @1.70
+- ✅ MS 1 · @1.70 · 3-2
 
 **18:00 · Accrington – Northampton**
 
-- ⏳ KG Yok · @1.66
-- ⏳ 2.5 Alt · @1.52
+- ❌ KG Yok · @1.66 · 1-1
+- ✅ 2.5 Alt · @1.52 · 1-1
 
 **18:00 · East Fife – Queen of The South**
 
@@ -517,21 +517,21 @@
 
 **18:00 · Worthing – Sutton United**
 
-- ⏳ MS 1 · @1.72
-- ⏳ 2.5 Üst · @1.42
+- ❌ MS 1 · @1.72 · 0-3
+- ✅ 2.5 Üst · @1.42 · 0-3
 
 **18:00 · Fleetwood – Bristol Rovers**
 
-- ⏳ 2.5 Üst · @1.63
+- ✅ 2.5 Üst · @1.63 · 3-1
 
 **18:00 · Arbroath – Raith Rovers**
 
-- ⏳ MS 2 · @1.72
-- ⏳ 2.5 Alt · @1.49
+- ✅ MS 2 · @1.72 · 0-4
+- ❌ 2.5 Alt · @1.49 · 0-4
 
 **18:00 · Dunfermline – Inverness**
 
-- ⏳ KG Yok · @1.73
+- ❌ KG Yok · @1.73 · 5-1
 
 **18:00 · Stirling Alb – Forfar**
 
@@ -540,42 +540,42 @@
 
 **18:00 · Mechelen – KRC Genk**
 
-- ⏳ MS 2 · @1.81
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ❌ MS 2 · @1.81 · 1-0
+- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 3-8
 
 **18:00 · Shrewsbury – Gillingham**
 
-- ⏳ MS 1 · @1.78
-- ⏳ 2.5 Alt · @1.56
+- ❌ MS 1 · @1.78 · 1-2
+- ❌ 2.5 Alt · @1.56 · 1-2
 
 **18:00 · Bournemouth – Leeds United**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.41
-- ⏳ Korner 9.5 Üst · @1.71
+- ❌ ↳ Korner 8.5 Üst · @1.41 · korner 4-4
+- ❌ Korner 9.5 Üst · @1.71 · korner 4-4
 
 **18:00 · Burnley – Portsmouth**
 
-- ⏳ En çok korner 1 · @1.66
+- ✅ En çok korner 1 · @1.66 · korner 5-2
 
 **18:00 · Coventry – Sunderland**
 
-- ⏳ Korner 9.5 Alt · @1.50
+- ✅ Korner 9.5 Alt · @1.50 · korner 4-4
 
 **18:00 · Brentford – Nottingham Forest**
 
-- ⏳ Korner 10.5 Alt · @1.50
+- ✅ Korner 10.5 Alt · @1.50 · korner 3-4
 
 **18:00 · Bolton – Bristol City**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.64
+- ❌ ↳ Korner 10.5 Alt · @1.64 · korner 11-4
 
 **18:00 · Hull City – Ipswich Town**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.68
+- ✅ ↳ Korner 9.5 Alt · @1.68 · korner 6-3
 
 **18:00 · Manchester City – Brighton**
 
-- ⏳ MS 1 · @1.54
+- ❌ MS 1 · @1.54 · 0-1
 
 **18:00 · Kelty Hearts – Elgin City**
 
@@ -587,49 +587,49 @@
 
 **18:00 · Peterborough – Luton Town**
 
-- ⏳ ÇŞ 1-X · @1.55
+- ❌ ÇŞ 1-X · @1.55 · 0-2
 
 **18:15 · Vallecano – Celta Vigo**
 
-- ⏳ En çok korner 1 · @1.60
-- ⏳ KG Var · @1.75
+- ✅ En çok korner 1 · @1.60 · korner 4-3
+- ❌ KG Var · @1.75 · 3-0
 
 **18:15 · Eibar – Almeria**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.44
+- ✅ ↳ Korner 10.5 Alt · @1.44 · korner 5-3
 
 **18:30 · Feyenoord – Fortuna Sittard**
 
-- ⏳ ↳ MS 1 & KG Var · @2.11
-- ⏳ Korner 10.5 Üst · @1.51
-- ⏳ KG Var · @1.66
+- ❌ ↳ MS 1 & KG Var · @2.11 · 1-1
+- ❌ Korner 10.5 Üst · @1.51 · korner 6-2
+- ✅ KG Var · @1.66 · 1-1
 
 **18:30 · Moreirense – CF Estrela**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.41
+- ✅ ↳ Korner 9.5 Alt · @1.41 · korner 3-3
 
 **19:00 · Fenerbahçe – Göztepe**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.65
-- ⏳ Korner 10.5 Alt · @1.50
+- ❌ ↳ MS 1 & 2.5 Üst · @1.65 · 1-2
+- ❌ Korner 10.5 Alt · @1.50 · korner 5-8
 
 **19:15 · US Catanzaro 1929 – Padova**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.50
+- ❌ ↳ Korner 10.5 Alt · @1.50 · korner 11-2
 
 **20:00 · Udinese – AS Roma**
 
-- ⏳ MS 2 · @1.43
-- ⏳ Korner 9.5 Alt · @1.57
+- ✅ MS 2 · @1.43 · 2-5
+- ❌ Korner 9.5 Alt · @1.57 · korner 7-4
 
 **20:00 · AE Kifisia FC – Olympiacos**
 
-- ⏳ 2.5 Alt · @1.70
+- ❌ 2.5 Alt · @1.70 · 2-3
 
 **20:15 · Standard Liege – Kortrijk**
 
-- ⏳ MS 1 · @1.59
-- ⏳ ↳ Korner 10.5 Alt · @1.57
+- ❌ MS 1 · @1.59 · 1-1
+- ❌ ↳ Korner 10.5 Alt · @1.57 · korner 10-4
 
 **20:30 · Bayern Münih – B. Dortmund**
 
@@ -638,9 +638,9 @@
 
 **20:30 · Tottenham – Crystal Palace**
 
-- ⏳ MS 1 · @1.43
-- ⏳ Korner 10.5 Alt · @1.59
-- ⏳ KG Var · @1.59
+- ✅ MS 1 · @1.43 · 2-0
+- ❌ Korner 10.5 Alt · @1.59 · korner 19-0
+- ❌ KG Var · @1.59 · 2-0
 
 **20:30 · Real Betis – Malaga CF**
 

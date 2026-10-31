@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**268/532 tuttu** (isabet %50, beklenen %59) · -109.04 birim · 226 tahmin sonuç bekliyor
+**316/619 tuttu** (isabet %51, beklenen %59) · -121.47 birim · 139 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -230,210 +230,210 @@
 
 **15:00 · Wolfsburg – Osnabruck**
 
-- ⏳ 🟢 En çok korner 1 · @1.45
+- ✅ 🟢 En çok korner 1 · @1.45 · korner 9-3
 
 **15:00 · Kaiserslautern – Hertha Berlin**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.43
-- ⏳ 2 En çok korner 1 · @2.11
+- ✅ 🟢 Korner 12.5 Alt · @1.24 · korner 3-3
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.43 · korner 3-3
+- ❌ 2 En çok korner 1 · @2.11 · korner 3-3
 
 **15:00 · Darmstadt 98 – Magdeburg**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.62
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.02
+- ❌ 🟡 Korner 10.5 Alt · @1.62 · korner 7-5
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.02 · korner 7-5
 
 **15:30 · Stoke City – Preston**
 
-- ⏳ 🟢 En çok korner 1 · @1.27
+- ✅ 🟢 En çok korner 1 · @1.27 · korner 9-7
 
 **15:30 · Lincoln City – Birmingham**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
+- ✅ 🟢 Korner 11.5 Alt · @1.23 · korner 3-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.42 · korner 3-3
 
 **15:30 · Chelsea – Manchester United**
 
-- ⏳ 🟡 En çok korner 1 · @1.43
+- ✅ 🟡 En çok korner 1 · @1.43 · korner 8-7
 
 **15:30 · Norwich City – Watford**
 
-- ⏳ 🟡 Korner 9.5 Üst · @1.71
-- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.18
+- ✅ 🟡 Korner 9.5 Üst · @1.71 · korner 9-2
+- ✅ 🔴 ↳ Korner 10.5 Üst · @2.18 · korner 9-2
 
 **16:00 · Kocaelispor – Rizespor**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.46
+- ❌ 🟢 Korner 10.5 Alt · @1.25 · korner 7-4
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.46 · korner 7-4
 
 **16:00 · Levante – Atletico Madrid**
 
-- ⏳ 🟡 En çok korner 2 · @1.42
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ❌ 🟡 En çok korner 2 · @1.42 · korner 5-3
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 5-3
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 5-3
 
 **16:00 · Real Sociedad B – Girona**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.65
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
+- ✅ 🟡 Korner 9.5 Alt · @1.65 · korner 3-1
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.10 · korner 3-1
 
 **17:00 · Bologna – AC Monza**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.48
+- ✅ 🟢 Korner 10.5 Alt · @1.25 · korner 5-2
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.48 · korner 5-2
 
 **17:00 · FC Sudtirol – AC Cesena**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.52
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.89
+- ✅ 🟡 Korner 9.5 Alt · @1.52 · korner 2-4
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.89 · korner 2-4
 
 **17:00 · Cremonese – Benevento**
 
-- ⏳ 🟡 En çok korner 1 · @2.17
+- ❌ 🟡 En çok korner 1 · @2.17 · korner 1-7
 
 **17:00 · Modena FC – Mantova 1911**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.51
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.88
+- ✅ 🟡 Korner 9.5 Alt · @1.51 · korner 0-7
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.88 · korner 0-7
 
 **17:30 · B. Leverkusen – Stuttgart**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.62
+- ❌ 🟢 Korner 12.5 Alt · @1.20 · korner 12-3
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.62 · korner 12-3
 
 **17:30 · Augsburg – Freiburg**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+- ✅ 🟢 Korner 11.5 Alt · @1.24 · korner 1-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.43 · korner 1-2
 
 **17:30 · Schalke 04 – Leipzig**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+- ✅ 🟢 Korner 11.5 Alt · @1.23 · korner 3-7
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.43 · korner 3-7
 
 **17:30 · Monchengladbach – Paderborn**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 4-7
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 4-7
 
 **17:30 · Werder Bremen – Hoffenheim**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.77
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.29
+- ❌ 🟡 Korner 9.5 Alt · @1.77 · korner 8-4
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.29 · korner 8-4
 
 **18:00 · Swansea City – Blackburn Rovers**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
+- ✅ 🟢 Korner 12.5 Alt · @1.23 · korner 1-2
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.41 · korner 1-2
 
 **18:00 · Bolton – Bristol City**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.64
+- ❌ 🟢 Korner 12.5 Alt · @1.21 · korner 11-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.64 · korner 11-4
 
 **18:00 · Hull City – Ipswich Town**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 6-3
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.68 · korner 6-3
 
 **18:00 · Manchester City – Brighton**
 
-- ⏳ 🟢 En çok korner 1 · @1.25
+- ✅ 🟢 En çok korner 1 · @1.25 · korner 8-2
 
 **18:00 · Middlesbrough – Charlton**
 
-- ⏳ 🟢 Korner 13.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.61
+- ✅ 🟢 Korner 13.5 Alt · @1.20 · korner 8-4
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.61 · korner 8-4
 
 **18:00 · Wolverhampton – Cardiff City**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.42
+- ✅ 🟢 Korner 12.5 Alt · @1.24 · korner 3-5
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.42 · korner 3-5
 
 **18:00 · Bournemouth – Leeds United**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
-- ⏳ 🟡 Korner 9.5 Üst · @1.71
-- ⏳ 🔴 ↳ Korner 10.5 Üst · @2.18
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 4-4
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 4-4
+- ❌ 🟡 Korner 9.5 Üst · @1.71 · korner 4-4
+- ❌ 🔴 ↳ Korner 10.5 Üst · @2.18 · korner 4-4
 
 **18:00 · Mechelen – KRC Genk**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
-- ⏳ 4 En çok korner 1 · @2.41
-- ⏳ 4 En çok korner 1 · @2.41
+- ✅ 🟢 Korner 11.5 Alt · @1.24 · korner 3-8
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.43 · korner 3-8
+- ❌ 4 En çok korner 1 · @2.41 · korner 3-8
+- ❌ 4 En çok korner 1 · @2.41 · korner 3-8
 
 **18:00 · Southampton – Queens Park Rangers**
 
-- ⏳ 🟡 En çok korner 1 · @1.41
+- ✅ 🟡 En çok korner 1 · @1.41 · korner 9-4
 
 **18:00 · Burnley – Portsmouth**
 
-- ⏳ 🟡 En çok korner 1 · @1.66
+- ✅ 🟡 En çok korner 1 · @1.66 · korner 5-2
 
 **18:00 · Coventry – Sunderland**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.50
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.86
+- ✅ 🟡 Korner 9.5 Alt · @1.50 · korner 4-4
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.86 · korner 4-4
 
 **18:00 · Brentford – Nottingham Forest**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.50
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.85
+- ✅ 🟡 Korner 10.5 Alt · @1.50 · korner 3-4
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.85 · korner 3-4
 
 **18:00 · West Ham – West Bromwich**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.79
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.28
+- ❌ 🟡 Korner 10.5 Alt · @1.79 · korner 8-6
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.28 · korner 8-6
 
 **18:00 · Millwall – Derby County**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.86
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.38
+- ✅ 🟡 Korner 10.5 Alt · @1.86 · korner 4-5
+- ✅ 🔴 ↳ Korner 9.5 Alt · @2.38 · korner 4-5
 
 **18:15 · Eibar – Almeria**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ✅ 🟢 Korner 11.5 Alt · @1.25 · korner 5-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 5-3
 
 **18:15 · Vallecano – Celta Vigo**
 
-- ⏳ 🟡 En çok korner 1 · @1.60
+- ✅ 🟡 En çok korner 1 · @1.60 · korner 4-3
 
 **18:30 · Moreirense – CF Estrela**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.41
+- ✅ 🟢 Korner 10.5 Alt · @1.22 · korner 3-3
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.41 · korner 3-3
 
 **18:30 · Feyenoord – Fortuna Sittard**
 
-- ⏳ 🟡 Korner 10.5 Üst · @1.51
-- ⏳ 🔴 ↳ Korner 11.5 Üst · @1.84
+- ❌ 🟡 Korner 10.5 Üst · @1.51 · korner 6-2
+- ❌ 🔴 ↳ Korner 11.5 Üst · @1.84 · korner 6-2
 
 **19:00 · Fenerbahçe – Göztepe**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.50
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.85
+- ❌ 🟡 Korner 10.5 Alt · @1.50 · korner 5-8
+- ❌ 🔴 ↳ Korner 9.5 Alt · @1.85 · korner 5-8
 
 **19:15 · US Catanzaro 1929 – Padova**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.28
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.50
+- ❌ 🟢 Korner 11.5 Alt · @1.28 · korner 11-2
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.50 · korner 11-2
 
 **20:00 · Udinese – AS Roma**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.57
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.99
-- ⏳ 4 En çok korner 1 · @3.08
-- ⏳ 4 En çok korner 1 · @3.08
+- ❌ 🟡 Korner 9.5 Alt · @1.57 · korner 7-4
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.99 · korner 7-4
+- ✅ 4 En çok korner 1 · @3.08 · korner 7-4
+- ✅ 4 En çok korner 1 · @3.08 · korner 7-4
 
 **20:15 · Standard Liege – Kortrijk**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.34
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.57
-- ⏳ 3 En çok korner 2 · @2.62
-- ⏳ 4 En çok korner 2 · @2.62
+- ❌ 🟢 Korner 11.5 Alt · @1.34 · korner 10-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.57 · korner 10-4
+- ❌ 3 En çok korner 2 · @2.62 · korner 10-4
+- ❌ 4 En çok korner 2 · @2.62 · korner 10-4
 
 **20:30 · Celta Vigo B – Cordoba**
 
@@ -448,9 +448,9 @@
 
 **20:30 · Tottenham – Crystal Palace**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.59
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.99
-- ⏳ 🟢 Korner 12.5 Alt · @1.21
+- ❌ 🟡 Korner 10.5 Alt · @1.59 · korner 19-0
+- ❌ 🔴 ↳ Korner 9.5 Alt · @1.99 · korner 19-0
+- ❌ 🟢 Korner 12.5 Alt · @1.21 · korner 19-0
 
 **20:30 · Bayern Münih – B. Dortmund**
 

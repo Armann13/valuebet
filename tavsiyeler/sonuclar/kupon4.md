@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**2/7 tuttu** (isabet %29, beklenen %32) · -0.88 birim · 13 tahmin sonuç bekliyor
+**4/16 tuttu** (isabet %25, beklenen %36) · -3.72 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,28 +10,28 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 31.10 20:15 Standard Liege – Kortrijk · En çok korner 2 · @2.62
+- ❌ 31.10 20:15 Standard Liege – Kortrijk · En çok korner 2 · @2.62 · korner 10-4
 - ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
 - ⏳ 01.11 21:15 Charleroi – RAAL La Louviere · En çok korner 2 · @3.43
 - ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.89
 
 ## 30.10 21:09 gönderilen kupon · 4 maç, oran 44,16
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 31.10 18:00 Mechelen – KRC Genk · En çok korner 1 · @2.41
-- ⏳ 31.10 18:00 P. Thistle – G. Morton · MS 1 & KG Var · @2.51
-- ⏳ 31.10 18:00 Middlesbrough – Charlton · MS 1 & KG Var · @2.37
-- ⏳ 31.10 20:00 Udinese – AS Roma · En çok korner 1 · @3.08
+- ❌ 31.10 18:00 Mechelen – KRC Genk · En çok korner 1 · @2.41 · korner 3-8
+- ❌ 31.10 18:00 P. Thistle – G. Morton · MS 1 & KG Var · @2.51 · 2-3
+- ❌ 31.10 18:00 Middlesbrough – Charlton · MS 1 & KG Var · @2.37 · 3-0
+- ✅ 31.10 20:00 Udinese – AS Roma · En çok korner 1 · @3.08 · korner 7-4
 
 ## 30.10 13:14 gönderilen kupon · 4 maç, oran 53,00
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 31.10 18:00 Mechelen – KRC Genk · En çok korner 1 · @2.41
-- ⏳ 31.10 18:00 P. Thistle – G. Morton · MS 1 & KG Var · @2.55
-- ⏳ 31.10 20:00 Udinese – AS Roma · En çok korner 1 · @3.08
-- ⏳ 31.10 20:30 Tottenham – Crystal Palace · MS 1 & KG Var · @2.80
+- ❌ 31.10 18:00 Mechelen – KRC Genk · En çok korner 1 · @2.41 · korner 3-8
+- ❌ 31.10 18:00 P. Thistle – G. Morton · MS 1 & KG Var · @2.55 · 2-3
+- ✅ 31.10 20:00 Udinese – AS Roma · En çok korner 1 · @3.08 · korner 7-4
+- ❌ 31.10 20:30 Tottenham – Crystal Palace · MS 1 & KG Var · @2.80 · 2-0
 
 ## 29.10 21:37 gönderilen kupon · 4 maç, oran 95,68
 
