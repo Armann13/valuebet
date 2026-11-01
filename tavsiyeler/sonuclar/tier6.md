@@ -2,9 +2,63 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**54/538 tuttu** (isabet %10, beklenen %11) · -149.35 birim · 76 tahmin sonuç bekliyor
+**54/540 tuttu** (isabet %10, beklenen %11) · -151.35 birim · 88 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**19:00 · Atromitos – Volos**
+
+- ⏳ 1-0 · @5.53
+
+**20:00 · Gençlerbirliği – Alanyaspor**
+
+- ⏳ 0-1 · @7.11
+
+**20:30 · Real Valladolid – Leganes**
+
+- ⏳ 1-0 · @6.01
+
+**20:30 · Sassuolo – Fiorentina**
+
+- ⏳ 1-2 · @8.44
+
+**20:30 · PAE PS Kalamata – POT Iraklis**
+
+- ⏳ 2-1 · @7.54
+
+**22:45 · Atalanta – Parma**
+
+- ⏳ 2-1 · @7.24
+
+**22:45 · Reims – Sochaux**
+
+- ⏳ 2-1 · @7.41
+
+**22:45 · Red Star FC – AS Nancy**
+
+- ⏳ 1-0 · @6.93
+
+**22:45 · Lorient – Brest**
+
+- ⏳ 1-0 · @6.93
+
+**23:00 · Deportivo La Coruna – Osasuna**
+
+- ⏳ 1-0 · @5.91
+
+**23:00 · Newcastle United – Everton**
+
+- ⏳ 2-1 · @8.30
+
+**23:15 · Gil Vicente – Vitoria Guimaraes**
+
+- ⏳ 1-1 · @5.14
+
+**23:15 · Benfica – Alverca FC**
+
+- ⏳ 2-0 · @6.05
 
 ## 01.11.2026 Pazar
 
@@ -14,11 +68,11 @@
 
 **14:15 · Zwolle – ADO Den Haag**
 
-- ⏳ 2-1 · @8.04
+- ❌ 2-1 · @8.04 · 1-0
 
 **14:30 · Como 1907 – Venezia**
 
-- ⏳ 2-1 · @7.82
+- ❌ 2-1 · @7.82 · 1-0
 
 **15:30 · Cercle Brugge – Antwerp**
 
@@ -83,6 +137,7 @@
 **17:00 · SS Arezzo – Ascoli**
 
 - ⏳ 0-1 · @6.78
+- ⏳ 1-2 · @8.01
 
 **17:00 · Frosinone – Torino**
 

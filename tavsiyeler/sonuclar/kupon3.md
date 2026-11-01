@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/12 tuttu** (isabet %25, beklenen %39) · -3.08 birim · 3 tahmin sonuç bekliyor
+**3/12 tuttu** (isabet %25, beklenen %39) · -3.08 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 01.11 09:20 gönderilen kupon · 3 maç, oran 21,01
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
+- ⏳ 01.11 21:00 A. de Viseu  – Rio Ave · En çok korner 2 · @2.69
+- ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.75
 
 ## 31.10 22:24 gönderilen kupon · 3 maç, oran 24,19
 

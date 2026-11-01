@@ -2,9 +2,56 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**209/296 tuttu** (isabet %71, beklenen %75) · -39.16 birim · 62 tahmin sonuç bekliyor
+**212/299 tuttu** (isabet %71, beklenen %75) · -38.39 birim · 75 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**18:15 · Real Oviedo – Las Palmas**
+
+- ⏳ Korner 11.5 Alt · @1.23
+
+**20:00 · Gençlerbirliği – Alanyaspor**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**20:30 · PAE PS Kalamata – POT Iraklis**
+
+- ⏳ ÇŞ 1-X · @1.23
+
+**20:30 · Real Valladolid – Leganes**
+
+- ⏳ En çok korner 1 · @1.32
+
+**20:30 · Sassuolo – Fiorentina**
+
+- ⏳ Korner 10.5 Alt · @1.28
+
+**22:45 · Red Star FC – AS Nancy**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**22:45 · Lorient – Brest**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**22:45 · Atalanta – Parma**
+
+- ⏳ Korner 11.5 Alt · @1.23
+
+**23:00 · Deportivo La Coruna – Osasuna**
+
+- ⏳ ÇŞ 1-X · @1.21
+
+**23:00 · Newcastle United – Everton**
+
+- ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 12.5 Alt · @1.20
+
+**23:00 · Mallorca – Cadiz**
+
+- ⏳ Korner 11.5 Alt · @1.25
 
 ## 01.11.2026 Pazar
 
@@ -14,7 +61,12 @@
 
 **14:15 · Zwolle – ADO Den Haag**
 
-- ⏳ Korner 11.5 Alt · @1.34
+- ✅ Korner 11.5 Alt · @1.34 · korner 8-2
+
+**14:30 · Como 1907 – Venezia**
+
+- ✅ MS 1 · @1.23 · 1-0
+- ✅ En çok korner 1 · @1.20 · korner 8-1
 
 **15:30 · Cercle Brugge – Antwerp**
 
@@ -142,10 +194,12 @@
 
 - ⏳ ÇŞ 1-X · @1.21
 - ⏳ Korner 10.5 Alt · @1.30
+- ⏳ ÇŞ 1-2 · @1.24
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
 - ⏳ ÇŞ 1-X · @1.25
+- ⏳ ÇŞ 1-2 · @1.20
 
 **23:30 · Braga – Famalicao**
 

@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/70 tuttu** (isabet %17, beklenen %16) · -3.61 birim · 2 tahmin sonuç bekliyor
+**12/70 tuttu** (isabet %17, beklenen %16) · -3.61 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**18:15 · Real Oviedo – Las Palmas**
+
+- ⏳ 1-0 · @5.96
+
+**23:00 · Mallorca – Cadiz**
+
+- ⏳ 1-0 · @5.41
 
 ## 01.11.2026 Pazar
 

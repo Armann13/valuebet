@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/17 tuttu** (isabet %24, beklenen %37) · -4.72 birim · 7 tahmin sonuç bekliyor
+**4/17 tuttu** (isabet %24, beklenen %37) · -4.72 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 01.11 09:20 gönderilen kupon · 4 maç, oran 98,07
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · En çok korner 1 · @2.83
+- ⏳ 01.11 23:30 Braga – Famalicao · MS X · @3.42
+- ⏳ 02.11 18:15 Real Oviedo – Las Palmas · MS X · @3.47
+- ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.92
 
 ## 31.10 22:24 gönderilen kupon · 4 maç, oran 60,92
 

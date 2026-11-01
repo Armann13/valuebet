@@ -2,9 +2,69 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**271/472 tuttu** (isabet %57, beklenen %60) · -57.02 birim · 113 tahmin sonuç bekliyor
+**273/477 tuttu** (isabet %57, beklenen %60) · -58.81 birim · 133 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**18:15 · Real Oviedo – Las Palmas**
+
+- ⏳ 2.5 Alt · @1.71
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**19:00 · Atromitos – Volos**
+
+- ⏳ MS 1 · @1.69
+
+**20:00 · Gençlerbirliği – Alanyaspor**
+
+- ⏳ En çok korner 2 · @1.78
+
+**20:30 · Sassuolo – Fiorentina**
+
+- ⏳ 2.5 Üst · @1.45
+- ⏳ ↳ Korner 9.5 Alt · @1.52
+
+**20:30 · Real Valladolid – Leganes**
+
+- ⏳ MS 1 · @1.71
+
+**22:45 · Atalanta – Parma**
+
+- ⏳ 2.5 Üst · @1.49
+- ⏳ ↳ Korner 10.5 Alt · @1.43
+
+**22:45 · Reims – Sochaux**
+
+- ⏳ MS 1 · @1.58
+
+**22:45 · Lorient – Brest**
+
+- ⏳ Korner 9.5 Alt · @1.54
+
+**23:00 · Mallorca – Cadiz**
+
+- ⏳ 2.5 Alt · @1.71
+- ⏳ ↳ Korner 10.5 Alt · @1.44
+
+**23:00 · Deportivo La Coruna – Osasuna**
+
+- ⏳ Korner 9.5 Alt · @1.62
+
+**23:00 · Newcastle United – Everton**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.63
+
+**23:15 · Gil Vicente – Vitoria Guimaraes**
+
+- ⏳ 2.5 Alt · @1.53
+- ⏳ Korner 9.5 Alt · @1.54
+
+**23:15 · Benfica – Alverca FC**
+
+- ⏳ KG Yok · @1.63
+- ⏳ Korner 9.5 Alt · @1.81
 
 ## 01.11.2026 Pazar
 
@@ -15,13 +75,14 @@
 
 **14:15 · Zwolle – ADO Den Haag**
 
-- ⏳ 2.5 Üst · @1.51
-- ⏳ ↳ Korner 10.5 Alt · @1.59
+- ❌ 2.5 Üst · @1.51 · 1-0
+- ✅ ↳ Korner 10.5 Alt · @1.59 · korner 8-2
 
 **14:30 · Como 1907 – Venezia**
 
-- ⏳ KG Var · @1.60
-- ⏳ Korner 9.5 Alt · @1.62
+- ❌ KG Var · @1.60 · 1-0
+- ✅ Korner 9.5 Alt · @1.62 · korner 8-1
+- ❌ ↳ MS 1 & 2.5 Üst · @1.55 · 1-0
 
 **15:30 · Hannover 96 – Dynamo Dresden**
 
@@ -50,6 +111,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.61
 - ⏳ ↳ Korner 10.5 Alt · @1.45
+- ⏳ KG Var · @1.58
 
 **16:00 · Başakşehir – Samsunspor**
 
@@ -78,6 +140,7 @@
 
 - ⏳ 2.5 Üst · @1.45
 - ⏳ ↳ Korner 9.5 Alt · @1.65
+- ⏳ MS 1 · @1.69
 
 **17:00 · Frosinone – Torino**
 
@@ -122,6 +185,7 @@
 
 - ⏳ İY/MS 2/2 · @1.45
 - ⏳ Korner 10.5 Alt · @1.79
+- ⏳ KG Var · @1.41
 
 **18:15 · AD Ceuta – S.Gijon**
 
@@ -149,6 +213,7 @@
 
 - ⏳ 2.5 Üst · @1.43
 - ⏳ Korner 10.5 Alt · @1.61
+- ⏳ KG Var · @1.67
 
 **19:15 · Hellas Verona – Carrarese Calcio 1908**
 
@@ -230,6 +295,7 @@
 
 - ⏳ ↳ MS 1 · @1.70
 - ⏳ Korner 8.5 Üst · @1.53
+- ⏳ 2.5 Alt · @1.64
 
 ## 31.10.2026 Cumartesi
 

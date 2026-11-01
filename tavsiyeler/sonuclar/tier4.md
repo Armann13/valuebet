@@ -2,15 +2,53 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**92/291 tuttu** (isabet %32, beklenen %31) · -22.06 birim · 73 tahmin sonuç bekliyor
+**92/292 tuttu** (isabet %32, beklenen %30) · -23.06 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11.2026 Pazartesi
+
+**20:00 · Gençlerbirliği – Alanyaspor**
+
+- ⏳ ↳ İY/MS 2/2 · @3.96
+
+**20:30 · PAE PS Kalamata – POT Iraklis**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.80
+
+**20:30 · Sassuolo – Fiorentina**
+
+- ⏳ ↳ MS 2 & KG Var · @3.70
+
+**22:45 · Atalanta – Parma**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**22:45 · Reims – Sochaux**
+
+- ⏳ ↳ MS 1 & KG Var · @3.36
+
+**22:45 · Red Star FC – AS Nancy**
+
+- ⏳ ↳ İY/MS 1/1 · @3.37
+
+**22:45 · Lorient – Brest**
+
+- ⏳ ↳ İY/MS 1/1 · @3.74
+
+**23:00 · Newcastle United – Everton**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.24
+
+**23:00 · Deportivo La Coruna – Osasuna**
+
+- ⏳ ↳ İY/MS 1/1 · @3.20
 
 ## 01.11.2026 Pazar
 
 **14:15 · Zwolle – ADO Den Haag**
 
-- ⏳ ↳ MS 1 & KG Var · @3.64
+- ❌ ↳ MS 1 & KG Var · @3.64 · 1-0
 
 **15:30 · Cercle Brugge – Antwerp**
 
@@ -55,6 +93,7 @@
 **17:00 · SS Arezzo – Ascoli**
 
 - ⏳ ↳ İY/MS 2/2 · @3.11
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.21
 
 **17:00 · Sheffield Wednesday – Blackpool**
 

@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/51 tuttu** (isabet %14, beklenen %12) · +95.30 birim · 21 tahmin sonuç bekliyor
+**7/51 tuttu** (isabet %14, beklenen %12) · +95.30 birim · 27 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 01.11 09:20 gönderilen kupon · 6 maç, oran 608.350,34
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 01.11 16:00 Falkirk – Celtic · İY/MS 1/2 · @20.25
+- ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.05
+- ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.90
+- ⏳ 01.11 17:00 Sheffield Wednesday – Blackpool · 2.5 Alt · @2.11
+- ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.95
+- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
 
 ## 31.10 22:24 gönderilen kupon · 6 maç, oran 876.309,71
 
