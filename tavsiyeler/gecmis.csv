@@ -3946,3 +3946,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 19:16,2026-11-01,01.11,I1,Lecce,Genoa,Lecce – Genoa,I1,🟡 Tier 2 — Orta risk,En çok korner 1,0.585011957268863,1.81,0.05887164265664202,korner,False,,,2026-11-01 20:00,,,,,,kadro
 2026-11-01 19:16,2026-11-01,01.11,I1,Lecce,Genoa,Lecce – Genoa,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.11695136972262404,6.31,-0.2620368570502424,piyasa,,,,2026-11-01 20:00,,,,,,kadro
 2026-11-01 19:16,2026-11-01,01.11,G1,PAOK,Asteras Tripolis,PAOK – Asteras Tripolis,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09419486794259145,6.84,-0.3557071032726745,piyasa,,,,2026-11-01 20:00,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7320694902128164,1.22,-0.10687522194036403,piyasa,False,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7004202764625822,1.26,-0.11747045165714642,piyasa,False,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,🔴 Tier 3 — Yüksek risk,MS 2,0.47176553211342387,1.91,-0.09892783366336044,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,🔴 Tier 3 — Yüksek risk,MS 1,0.40973497179402035,2.16,-0.11497246092491598,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2896668245319384,3.06,-0.11361951693226835,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2428219489264573,3.63,-0.11855632539696004,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7001281183546262,1.27,-0.1108372896896247,korner,False,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.602998822200662,1.5,-0.095501766699007,korner,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,🟡 Tier 2 — Orta risk,En çok korner 2,0.5771949011991117,1.76,0.01586302611043644,korner,False,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12578118217183906,7.87,-0.010102096307626596,piyasa,,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08384886021393749,8.36,-0.2990235286114826,piyasa,,,,2026-11-01 20:30,,,,,,kadro
