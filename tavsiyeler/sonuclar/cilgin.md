@@ -2,20 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/51 tuttu** (isabet %14, beklenen %12) · +95.30 birim · 27 tahmin sonuç bekliyor
+**8/59 tuttu** (isabet %14, beklenen %14) · +89.41 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 01.11 09:20 gönderilen kupon · 6 maç, oran 608.350,34
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 01.11 16:00 Falkirk – Celtic · İY/MS 1/2 · @20.25
+- ❌ 01.11 16:00 Falkirk – Celtic · İY/MS 1/2 · @20.25
 - ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.05
-- ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.90
-- ⏳ 01.11 17:00 Sheffield Wednesday – Blackpool · 2.5 Alt · @2.11
+- ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.90 · 2-2
+- ✅ 01.11 17:00 Sheffield Wednesday – Blackpool · 2.5 Alt · @2.11 · 1-1
 - ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.95
-- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
 
 ## 31.10 22:24 gönderilen kupon · 6 maç, oran 876.309,71
 
@@ -24,9 +24,9 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ❌ 31.10 23:00 SC Cambuur – Go Ahead Eagles · İY/MS 1/2 · @23.90
 - ❌ 31.10 23:30 Porto – Estoril Praia · 2.5 Alt · @2.59 · 4-0
 - ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.10
-- ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93
+- ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93 · 2-2
 - ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.55
-- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
 
 ## 31.10 08:58 gönderilen kupon · 6 maç, oran 1.210.792,61
 
@@ -35,9 +35,9 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
 - ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.30
 - ⏳ 31.10 20:30 Celta Vigo B – Cordoba · MS 1 · @3.73
-- ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93
+- ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93 · 2-2
 - ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.70
-- ⏳ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
 
 ## 30.10 21:09 gönderilen kupon · 4 maç, oran 184.432,44
 

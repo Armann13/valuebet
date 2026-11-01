@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/70 tuttu** (isabet %44, beklenen %43) · +2.63 birim · 8 tahmin sonuç bekliyor
+**32/74 tuttu** (isabet %43, beklenen %43) · +0.74 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,16 +16,16 @@
 
 **15:30 · Cercle Brugge – Antwerp**
 
-- ⏳ KG Yok · @2.35
+- ❌ KG Yok · @2.35 · 2-1
 
 **17:00 · Empoli – Juve Stabia**
 
-- ⏳ KG Yok · @1.93
-- ⏳ 2.5 Alt · @1.71
+- ❌ KG Yok · @1.93 · 2-2
+- ❌ 2.5 Alt · @1.71 · 2-2
 
 **17:00 · Sheffield Wednesday – Blackpool**
 
-- ⏳ 2.5 Alt · @2.11
+- ✅ 2.5 Alt · @2.11 · 1-1
 
 **23:30 · Braga – Famalicao**
 

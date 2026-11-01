@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-01 08",
+ "son_ozet": "2026-11-01 18",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -73,6 +73,7 @@
   "2026-10-31|Porto – Estoril Praia|2.5 Alt",
   "2026-10-31|Porto – Estoril Praia|KG Var",
   "2026-10-31|Tottenham – Crystal Palace|MS 1 & KG Var",
+  "2026-11-01|Athletic Bilbao – Real Sociedad|MS 2",
   "2026-11-01|Braga – Famalicao|MS X",
   "2026-11-01|Cercle Brugge – Antwerp|KG Yok",
   "2026-11-01|Empoli – Juve Stabia|2.5 Alt",
@@ -136,6 +137,10 @@
   "🎲|Empoli – Juve Stabia:KG Yok|Excelsior – Twente:İY/MS 1/2|Kasımpaşa – Beşiktaş:İY/MS 1/2|Porto – Estoril Praia:2.5 Alt|SC Cambuur – Go Ahead Eagles:İY/MS 1/2|Santander – Real Madrid:İY/MS 1/2",
   "3️⃣|A. de Viseu  – Rio Ave:En çok korner 2|Başakşehir – Samsunspor:En çok korner 2|Juventus – Napoli:En çok korner 2",
   "4️⃣|Braga – Famalicao:MS X|Deportivo La Coruna – Osasuna:En çok korner 2|Kasımpaşa – Beşiktaş:En çok korner 1|Real Oviedo – Las Palmas:MS X",
-  "🎲|Empoli – Juve Stabia:KG Yok|Excelsior – Twente:İY/MS 1/2|Falkirk – Celtic:İY/MS 1/2|Kasımpaşa – Beşiktaş:İY/MS 1/2|Santander – Real Madrid:İY/MS 1/2|Sheffield Wednesday – Blackpool:2.5 Alt"
+  "🎲|Empoli – Juve Stabia:KG Yok|Excelsior – Twente:İY/MS 1/2|Falkirk – Celtic:İY/MS 1/2|Kasımpaşa – Beşiktaş:İY/MS 1/2|Santander – Real Madrid:İY/MS 1/2|Sheffield Wednesday – Blackpool:2.5 Alt",
+  "2️⃣|Gençlerbirliği – Alanyaspor:En çok korner 2|Tenerife – FC Andorra:MS 1",
+  "3️⃣|Deportivo La Coruna – Osasuna:En çok korner 2|Real Oviedo – Las Palmas:En çok korner 2|Reims – Sochaux:MS 1 & 2.5 Üst",
+  "4️⃣|Athletic Bilbao – Real Sociedad:MS 2|Braga – Famalicao:MS X|Newcastle United – Everton:MS X|PAE PS Kalamata – POT Iraklis:MS X",
+  "🎲|Athletic Bilbao – Real Sociedad:İY/MS 1/2|Benfica – Alverca FC:İY/MS 2/1|PAE PS Kalamata – POT Iraklis:İY/MS 2/1|Sassuolo – Fiorentina:İY/MS 1/2"
  ]
 }

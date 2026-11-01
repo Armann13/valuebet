@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/12 tuttu** (isabet %25, beklenen %39) · -3.08 birim · 6 tahmin sonuç bekliyor
+**3/14 tuttu** (isabet %21, beklenen %39) · -5.08 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
+- ❌ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84 · korner 8-2
 - ⏳ 01.11 21:00 A. de Viseu  – Rio Ave · En çok korner 2 · @2.69
 - ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.75
 
@@ -19,7 +19,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01 · korner 6-3
-- ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
+- ❌ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84 · korner 8-2
 - ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.83
 
 ## 31.10 08:58 gönderilen kupon · 3 maç, oran 25,12

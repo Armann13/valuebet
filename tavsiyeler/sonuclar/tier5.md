@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/70 tuttu** (isabet %17, beklenen %16) · -3.61 birim · 4 tahmin sonuç bekliyor
+**12/71 tuttu** (isabet %17, beklenen %16) · -4.61 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **19:00 · Paneitolikos – Ofi Crete**
 
-- ⏳ 1-1 · @4.44
+- ❌ 1-1 · @4.44 · 0-1
 
 **23:30 · Braga – Famalicao**
 
