@@ -4004,3 +4004,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 22:08,2026-11-01,01.11,SP1,Ath Bilbao,Sociedad,Athletic Bilbao – Real Sociedad,SP1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5888233728050867,1.5,-0.11676494079236999,korner,False,,,2026-11-01 23:00,,,,,,kadro
 2026-11-01 22:08,2026-11-01,01.11,SP1,Ath Bilbao,Sociedad,Athletic Bilbao – Real Sociedad,SP1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.48727656422947996,1.85,-0.09853835617546203,korner,True,,,2026-11-01 23:00,,,,,,kadro
 2026-11-01 22:08,2026-11-01,01.11,SP1,Ath Bilbao,Sociedad,Athletic Bilbao – Real Sociedad,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09132561218704802,7.65,-0.30135906676908264,piyasa,,,,2026-11-01 23:00,,,,,,kadro
+2026-11-01 22:43,2026-11-01,01.11,P1,Sp Braga,Famalicao,Braga – Famalicao,P1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5835328984224344,1.71,-0.0021587436976372443,piyasa,False,,,2026-11-01 23:30,,,,,,kadro
+2026-11-01 22:43,2026-11-01,01.11,P1,Sp Braga,Famalicao,Braga – Famalicao,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5481480061949684,1.56,-0.14488911033584928,korner,False,,,2026-11-01 23:30,,,,,,kadro
+2026-11-01 22:43,2026-11-01,01.11,P1,Sp Braga,Famalicao,Braga – Famalicao,P1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4401820085200647,1.97,-0.13284144321547253,korner,True,,,2026-11-01 23:30,,,,,,kadro
+2026-11-01 22:43,2026-11-01,01.11,P1,Sp Braga,Famalicao,Braga – Famalicao,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.15565438069029855,5.97,-0.07074334727891773,piyasa,,,,2026-11-01 23:30,,,,,,kadro
