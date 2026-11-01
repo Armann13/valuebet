@@ -3986,3 +3986,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 20:43,2026-11-01,01.11,I2,Palermo,Vicenza,US Palermo – LR Vicenza Virtus,I2,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5936063210596212,1.43,-0.15114296088474177,korner,False,,,2026-11-01 21:30,,,,,,kadro
 2026-11-01 20:43,2026-11-01,01.11,I2,Palermo,Vicenza,US Palermo – LR Vicenza Virtus,I2,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4916468435252882,1.74,-0.14453449226599857,korner,True,,,2026-11-01 21:30,,,,,,kadro
 2026-11-01 20:43,2026-11-01,01.11,I2,Palermo,Vicenza,US Palermo – LR Vicenza Virtus,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1084340609751097,7.32,-0.20626267366219697,oran,,,,2026-11-01 21:30,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,🟡 Tier 2 — Orta risk,MS 1,0.5035003728232733,1.72,-0.13397935874396993,piyasa,False,,,2026-11-01 22:45,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3629812302548884,2.29,-0.1687729827163056,piyasa,True,,,2026-11-01 22:45,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.2814541971119827,2.91,-0.1809682864041302,piyasa,True,,,2026-11-01 22:45,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7808501266912652,1.2,-0.06297984797048184,korner,False,,,2026-11-01 22:45,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6033214310524002,1.65,-0.004519638763539668,korner,True,,,2026-11-01 22:45,,,,,,kadro
+2026-11-01 21:55,2026-11-01,01.11,F1,Marseille,Toulouse,Marsilya – Toulouse,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10122907838722886,7.73,-0.21749922406672084,piyasa,,,,2026-11-01 22:45,,,,,,kadro
