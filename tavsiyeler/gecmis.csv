@@ -3907,3 +3907,6 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 18:11,2026-11-01,01.11,T1,Kasimpasa,Besiktas,Kasımpaşa – Beşiktaş,T1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5954756305683726,1.53,-0.08892228523038992,korner,False,,,2026-11-01 19:00,,,,,,kadro
 2026-11-01 18:11,2026-11-01,01.11,T1,Kasimpasa,Besiktas,Kasımpaşa – Beşiktaş,T1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4936013101764771,1.89,-0.06709352376645827,korner,True,,,2026-11-01 19:00,,,,,,kadro
 2026-11-01 18:11,2026-11-01,01.11,T1,Kasimpasa,Besiktas,Kasımpaşa – Beşiktaş,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.14196636841287139,7.29,0.03493482572983231,piyasa,,,,2026-11-01 19:00,,,,,,kadro
+2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,🟡 Tier 2 — Orta risk,KG Var,0.5369443937527976,1.6,-0.1408889699955238,piyasa,False,,,2026-11-01 19:00,,,,,,kadro
+2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,🟣 Tier 4 — Çok yüksek risk,MS X & KG Var,0.21848050862125198,3.77,-0.17632848249788002,piyasa,True,,,2026-11-01 19:00,,,,,,kadro
+2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.15417800216855598,4.46,-0.31236611032824035,piyasa,,,,2026-11-01 19:00,,,,,,kadro
