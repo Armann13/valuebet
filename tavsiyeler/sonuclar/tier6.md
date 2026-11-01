@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**52/520 tuttu** (isabet %10, beklenen %11) · -148.49 birim · 94 tahmin sonuç bekliyor
+**54/538 tuttu** (isabet %10, beklenen %11) · -149.35 birim · 76 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -552,32 +552,32 @@
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
-- ⏳ 2-1 · @8.57
+- ❌ 2-1 · @8.57 · 1-0
 
 **20:45 · PSV – Willem II**
 
-- ⏳ 4-1 · @9.75
+- ❌ 4-1 · @9.75 · 7-0
 
 **21:30 · Sampdoria – Virtus Entella**
 
-- ⏳ 1-0 · @6.16
+- ❌ 1-0 · @6.16 · 2-0
 
 **22:00 · Guingamp – St Etienne**
 
-- ⏳ 1-2 · @7.64
+- ❌ 1-2 · @7.64 · 3-0
 
 **22:30 · Karlsruhe – Heidenheim**
 
-- ⏳ 2-1 · @9.88
-- ⏳ 1-2 · @8.11
+- ✅ 2-1 · @9.88 · 2-1
+- ❌ 1-2 · @8.11 · 2-1
 
 **22:45 · Anderlecht – Westerlo**
 
-- ⏳ 2-1 · @7.57
+- ❌ 2-1 · @7.57 · 4-1
 
 **22:45 · SK Beveren – Union Saint Gilloise**
 
-- ⏳ 1-2 · @7.26
+- ✅ 1-2 · @7.26 · 1-2
 
 **22:45 · AC Milan – Inter**
 
@@ -585,34 +585,34 @@
 
 **22:45 · Troyes – Le Mans**
 
-- ⏳ 2-1 · @8.28
+- ❌ 2-1 · @8.28 · 2-0
 
 **23:00 · Ajax – AZ Alkmaar**
 
-- ⏳ 2-1 · @7.75
+- ❌ 2-1 · @7.75 · 1-0
 
 **23:00 · Albacete – CE Sabadell FC**
 
-- ⏳ 1-0 · @6.41
-- ⏳ 0-1 · @7.34
-- ⏳ 1-1 · @4.99
+- ❌ 1-0 · @6.41 · 2-1
+- ❌ 0-1 · @7.34 · 2-1
+- ❌ 1-1 · @4.99 · 2-1
 
 **23:00 · Aston Villa – Fulham**
 
-- ⏳ 2-1 · @7.62
+- ❌ 2-1 · @7.62 · 1-1
 
 **23:00 · Barcelona – Alaves**
 
-- ⏳ 2-1 · @10.80
+- ❌ 2-1 · @10.80 · 6-1
 
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
-- ⏳ 2-1 · @9.61
-- ⏳ 1-2 · @8.99
+- ❌ 2-1 · @9.61 · 4-0
+- ❌ 1-2 · @8.99 · 4-0
 
 **23:30 · Porto – Estoril Praia**
 
-- ⏳ 2-1 · @8.91
+- ❌ 2-1 · @8.91 · 4-0
 
 ## 30.10.2026 Cuma
 

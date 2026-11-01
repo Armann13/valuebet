@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/69 tuttu** (isabet %17, beklenen %16) · -2.61 birim · 3 tahmin sonuç bekliyor
+**12/70 tuttu** (isabet %17, beklenen %16) · -3.61 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,7 +32,7 @@
 
 **23:30 · Porto – Estoril Praia**
 
-- ⏳ 2-0 · @5.56
+- ❌ 2-0 · @5.56 · 4-0
 
 ## 30.10.2026 Cuma
 

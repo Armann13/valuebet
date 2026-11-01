@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/49 tuttu** (isabet %14, beklenen %12) · +97.30 birim · 23 tahmin sonuç bekliyor
+**7/51 tuttu** (isabet %14, beklenen %12) · +95.30 birim · 21 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 31.10 23:00 SC Cambuur – Go Ahead Eagles · İY/MS 1/2 · @23.90
-- ⏳ 31.10 23:30 Porto – Estoril Praia · 2.5 Alt · @2.59
+- ❌ 31.10 23:00 SC Cambuur – Go Ahead Eagles · İY/MS 1/2 · @23.90
+- ❌ 31.10 23:30 Porto – Estoril Praia · 2.5 Alt · @2.59 · 4-0
 - ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.10
 - ⏳ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93
 - ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.55

@@ -2,33 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**0/8 tuttu** (isabet %0, beklenen %40) · -8.00 birim · 7 tahmin sonuç bekliyor
+**3/12 tuttu** (isabet %25, beklenen %39) · -3.08 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 31.10 22:24 gönderilen kupon · 3 maç, oran 24,19
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01
+- ✅ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01 · korner 6-3
 - ⏳ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84
 - ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.83
 
 ## 31.10 08:58 gönderilen kupon · 3 maç, oran 25,12
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 31.10 17:30 Monchengladbach – Paderborn · MS 1 & 2.5 Üst · @2.81 · 0-0
 - ❌ 31.10 20:30 Tottenham – Crystal Palace · MS 1 & KG Var · @2.97 · 2-0
-- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01
+- ✅ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01 · korner 6-3
 
 ## 30.10 13:14 gönderilen kupon · 3 maç, oran 24,24
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 31.10 20:15 Standard Liege – Kortrijk · En çok korner 2 · @2.62 · korner 10-4
-- ⏳ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @2.90
-- ⏳ 31.10 23:30 Porto – Estoril Praia · MS 1 & KG Var · @3.19
+- ✅ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @2.90 · korner 6-3
+- ❌ 31.10 23:30 Porto – Estoril Praia · MS 1 & KG Var · @3.19 · 4-0
 
 ## 29.10 21:37 gönderilen kupon · 3 maç, oran 9,28
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/66 tuttu** (isabet %47, beklenen %43) · +6.63 birim · 11 tahmin sonuç bekliyor
+**31/70 tuttu** (isabet %44, beklenen %43) · +2.63 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -56,16 +56,16 @@
 
 **23:00 · Aston Villa – Fulham**
 
-- ⏳ MS 1 & 2.5 Üst · @3.01
+- ❌ MS 1 & 2.5 Üst · @3.01 · 1-1
 
 **23:00 · Ajax – AZ Alkmaar**
 
-- ⏳ MS 1 & 2.5 Üst · @2.17
+- ❌ MS 1 & 2.5 Üst · @2.17 · 1-0
 
 **23:30 · Porto – Estoril Praia**
 
-- ⏳ KG Var · @2.32
-- ⏳ 2.5 Alt · @2.47
+- ❌ KG Var · @2.32 · 4-0
+- ❌ 2.5 Alt · @2.47 · 4-0
 
 ## 28.10.2026 Çarşamba
 

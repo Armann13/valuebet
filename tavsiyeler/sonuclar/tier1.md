@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**198/282 tuttu** (isabet %70, beklenen %75) · -38.86 birim · 76 tahmin sonuç bekliyor
+**209/296 tuttu** (isabet %71, beklenen %75) · -39.16 birim · 62 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -363,17 +363,17 @@
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
-- ⏳ 2.5 Üst · @1.26
+- ❌ 2.5 Üst · @1.26 · 1-0
 
 **21:30 · Sampdoria – Virtus Entella**
 
-- ⏳ ÇŞ 1-2 · @1.26
-- ⏳ ÇŞ 1-X · @1.23
+- ✅ ÇŞ 1-2 · @1.26 · 2-0
+- ✅ ÇŞ 1-X · @1.23 · 2-0
 
 **22:30 · Karlsruhe – Heidenheim**
 
-- ⏳ Korner 12.5 Alt · @1.25
-- ⏳ ÇŞ X-2 · @1.25
+- ✅ Korner 12.5 Alt · @1.25 · korner 4-6
+- ❌ ÇŞ X-2 · @1.25 · 2-1
 
 **22:45 · AC Milan – Inter**
 
@@ -383,33 +383,33 @@
 
 **22:45 · Troyes – Le Mans**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 2-0
 
 **22:45 · Anderlecht – Westerlo**
 
-- ⏳ 2.5 Üst · @1.32
+- ✅ 2.5 Üst · @1.32 · 4-1
 
 **22:45 · SK Beveren – Union Saint Gilloise**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 6-3
 
 **23:00 · Ajax – AZ Alkmaar**
 
-- ⏳ 2.5 Üst · @1.27
-- ⏳ Korner 11.5 Alt · @1.27
+- ❌ 2.5 Üst · @1.27 · 1-0
+- ✅ Korner 11.5 Alt · @1.27 · korner 1-8
 
 **23:00 · Albacete – CE Sabadell FC**
 
-- ⏳ ÇŞ 1-2 · @1.25
-- ⏳ ÇŞ 1-X · @1.25
+- ✅ ÇŞ 1-2 · @1.25 · 2-1
+- ✅ ÇŞ 1-X · @1.25 · 2-1
 
 **23:00 · Aston Villa – Fulham**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 1-1
 
 **23:30 · Porto – Estoril Praia**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ Korner 11.5 Alt · @1.23 · korner 8-0
 
 ## 30.10.2026 Cuma
 

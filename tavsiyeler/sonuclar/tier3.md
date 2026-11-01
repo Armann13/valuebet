@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**171/389 tuttu** (isabet %44, beklenen %43) · -18.70 birim · 129 tahmin sonuç bekliyor
+**181/413 tuttu** (isabet %44, beklenen %43) · -20.86 birim · 105 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -607,31 +607,31 @@
 
 **20:45 · PSV – Willem II**
 
-- ⏳ ↳ MS 1 & KG Var · @1.71
-- ⏳ ↳ Korner 12.5 Üst · @2.02
+- ❌ ↳ MS 1 & KG Var · @1.71 · 7-0
+- ❌ ↳ Korner 12.5 Üst · @2.02 · korner 11-1
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.43
-- ⏳ ↳ Korner 9.5 Alt · @1.98
+- ❌ ↳ MS 1 & 2.5 Üst · @2.43 · 1-0
+- ❌ ↳ Korner 9.5 Alt · @1.98 · korner 5-7
 
 **21:30 · Sampdoria – Virtus Entella**
 
-- ⏳ ↳ MS 1 · @2.13
+- ✅ ↳ MS 1 · @2.13 · 2-0
 
 **22:00 · Guingamp – St Etienne**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.62
+- ❌ ↳ MS 2 & 2.5 Üst · @2.62 · 3-0
 
 **22:30 · Karlsruhe – Heidenheim**
 
-- ⏳ ↳ MS 1 · @2.82
-- ⏳ ↳ MS 2 · @1.95
+- ✅ ↳ MS 1 · @2.82 · 2-1
+- ❌ ↳ MS 2 · @1.95 · 2-1
 
 **22:45 · Anderlecht – Westerlo**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.89
-- ⏳ ↳ Korner 10.5 Üst · @1.94
+- ✅ ↳ MS 1 & 2.5 Üst · @1.89 · 4-1
+- ❌ ↳ Korner 10.5 Üst · @1.94 · korner 4-5
 
 **22:45 · AC Milan – Inter**
 
@@ -639,41 +639,41 @@
 
 **22:45 · SK Beveren – Union Saint Gilloise**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.91
+- ✅ ↳ MS 2 & 2.5 Üst · @1.91 · 1-2
 
 **22:45 · Troyes – Le Mans**
 
-- ⏳ ↳ MS 1 · @2.18
+- ✅ ↳ MS 1 · @2.18 · 2-0
 
 **23:00 · Barcelona – Alaves**
 
-- ⏳ ↳ MS 1 & KG Var · @2.07
-- ⏳ ↳ Korner 10.5 Alt · @1.88
+- ✅ ↳ MS 1 & KG Var · @2.07 · 6-1
+- ✅ ↳ Korner 10.5 Alt · @1.88 · korner 4-3
 
 **23:00 · Ajax – AZ Alkmaar**
 
-- ⏳ ↳ MS 1 & KG Var · @2.45
+- ❌ ↳ MS 1 & KG Var · @2.45 · 1-0
 
 **23:00 · Albacete – CE Sabadell FC**
 
-- ⏳ ↳ MS 1 · @2.42
-- ⏳ ↳ Korner 9.5 Üst · @1.88
-- ⏳ ↳ MS 2 · @2.99
-- ⏳ ↳ Korner 8.5 Alt · @2.09
+- ✅ ↳ MS 1 · @2.42 · 2-1
+- ✅ ↳ Korner 9.5 Üst · @1.88 · korner 7-6
+- ❌ ↳ MS 2 · @2.99 · 2-1
+- ❌ ↳ Korner 8.5 Alt · @2.09 · korner 7-6
 
 **23:00 · Aston Villa – Fulham**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.61
-- ⏳ ↳ Korner 9.5 Alt · @1.87
+- ❌ ↳ MS 1 & 2.5 Üst · @2.61 · 1-1
+- ❌ ↳ Korner 9.5 Alt · @1.87 · korner 7-7
 
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
-- ⏳ ↳ MS 1 · @2.66
-- ⏳ ↳ MS 2 · @2.34
+- ✅ ↳ MS 1 · @2.66 · 4-0
+- ❌ ↳ MS 2 · @2.34 · 4-0
 
 **23:30 · Porto – Estoril Praia**
 
-- ⏳ ↳ MS 1 & KG Var · @3.19
+- ❌ ↳ MS 1 & KG Var · @3.19 · 4-0
 
 ## 30.10.2026 Cuma
 

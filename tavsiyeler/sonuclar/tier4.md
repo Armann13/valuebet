@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/281 tuttu** (isabet %31, beklenen %31) · -24.80 birim · 83 tahmin sonuç bekliyor
+**92/291 tuttu** (isabet %32, beklenen %31) · -22.06 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -498,7 +498,7 @@
 
 **20:45 · Heerenveen – NEC Nijmegen**
 
-- ⏳ ↳ MS 1 & KG Var · @2.93
+- ❌ ↳ MS 1 & KG Var · @2.93 · 1-0
 
 **21:30 · Sampdoria – Virtus Entella**
 
@@ -506,12 +506,12 @@
 
 **22:00 · Guingamp – St Etienne**
 
-- ⏳ ↳ MS 2 & KG Var · @3.42
+- ❌ ↳ MS 2 & KG Var · @3.42 · 3-0
 
 **22:30 · Karlsruhe – Heidenheim**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.88
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.61
+- ✅ ↳ MS 1 & 2.5 Üst · @3.88 · 2-1
+- ❌ ↳ MS 2 & 2.5 Üst · @2.61 · 2-1
 
 **22:45 · AC Milan – Inter**
 
@@ -519,24 +519,24 @@
 
 **22:45 · SK Beveren – Union Saint Gilloise**
 
-- ⏳ ↳ MS 2 & KG Var · @2.74
+- ✅ ↳ MS 2 & KG Var · @2.74 · 1-2
 
 **22:45 · Troyes – Le Mans**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.41
+- ❌ ↳ MS 1 & 2.5 Üst · @3.41 · 2-0
 
 **22:45 · Anderlecht – Westerlo**
 
-- ⏳ ↳ MS 1 & KG Var · @2.55
+- ✅ ↳ MS 1 & KG Var · @2.55 · 4-1
 
 **23:00 · Aston Villa – Fulham**
 
-- ⏳ ↳ MS 1 & KG Var · @3.37
+- ❌ ↳ MS 1 & KG Var · @3.37 · 1-1
 
 **23:00 · SC Cambuur – Go Ahead Eagles**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.57
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.09
+- ✅ ↳ MS 1 & 2.5 Üst · @3.57 · 4-0
+- ❌ ↳ MS 2 & 2.5 Üst · @3.09 · 4-0
 
 **23:00 · Albacete – CE Sabadell FC**
 
