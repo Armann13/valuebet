@@ -3892,3 +3892,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 09:20,2026-11-01,01.11,I2,Empoli,Juve Stabia,Empoli – Juve Stabia,I2,🎲 Çılgın kupon,KG Yok,0.5419890081415716,1.9,0.02977911546898593,piyasa,,,,2026-11-01 17:00,,,,,,
 2026-11-01 09:20,2026-11-01,01.11,E2,Sheffield Weds,Blackpool,Sheffield Wednesday – Blackpool,E2,🎲 Çılgın kupon,2.5 Alt,0.48730487897778707,2.11,0.028213294643130604,piyasa,,,,2026-11-01 17:00,,,,,,
 2026-11-01 16:41,2026-11-01,01.11,P1,Sp Braga,Famalicao,Braga – Famalicao,P1,💎 Değeri pozitif olanlar,MS X,0.2787496558835074,3.6,0.0034987611806267527,piyasa,,,,2026-11-01 23:30,,,,,,
+2026-11-01 17:57,2026-11-01,01.11,SP1,Santander,Real Madrid,Santander – Real Madrid,SP1,🟡 Tier 2 — Orta risk,KG Var,0.6478300631850832,1.5,-0.02825490522237528,piyasa,False,,,2026-11-01 18:15,,,,,,kadro
+2026-11-01 17:57,2026-11-01,01.11,SP1,Santander,Real Madrid,Santander – Real Madrid,SP1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.4933261601741526,1.96,-0.03308072605866097,piyasa,True,,,2026-11-01 18:15,,,,,,kadro
+2026-11-01 17:57,2026-11-01,01.11,SP1,Santander,Real Madrid,Santander – Real Madrid,SP1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5103622865143277,1.86,-0.05072614708335044,korner,False,,,2026-11-01 18:15,,,,,,kadro
+2026-11-01 17:57,2026-11-01,01.11,SP1,Santander,Real Madrid,Santander – Real Madrid,SP1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.41076912530144616,2.39,-0.018261790529543576,korner,True,,,2026-11-01 18:15,,,,,,kadro
+2026-11-01 17:57,2026-11-01,01.11,SP1,Santander,Real Madrid,Santander – Real Madrid,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1185762984232114,9.07,0.07548702669852747,piyasa,,,,2026-11-01 18:15,,,,,,kadro
