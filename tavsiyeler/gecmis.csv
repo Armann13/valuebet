@@ -3910,3 +3910,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,🟡 Tier 2 — Orta risk,KG Var,0.5369443937527976,1.6,-0.1408889699955238,piyasa,False,,,2026-11-01 19:00,,,,,,kadro
 2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,🟣 Tier 4 — Çok yüksek risk,MS X & KG Var,0.21848050862125198,3.77,-0.17632848249788002,piyasa,True,,,2026-11-01 19:00,,,,,,kadro
 2026-11-01 18:25,2026-11-01,01.11,G1,Panetolikos,OFI Crete,Paneitolikos – Ofi Crete,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.15417800216855598,4.46,-0.31236611032824035,piyasa,,,,2026-11-01 19:00,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7159670289374196,1.22,-0.12652022469634816,piyasa,False,,,2026-11-01 19:30,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,🔴 Tier 3 — Yüksek risk,MS 2,0.39510123901286315,2.12,-0.16238537329273006,piyasa,True,,,2026-11-01 19:30,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2398416564325176,3.18,-0.23730353254459402,piyasa,True,,,2026-11-01 19:30,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7430558233004669,1.22,-0.09347189557343039,korner,False,,,2026-11-01 19:30,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6562542110396512,1.41,-0.07468156243409185,korner,True,,,2026-11-01 19:30,,,,,,kadro
+2026-11-01 18:38,2026-11-01,01.11,E0,Liverpool,Arsenal,Liverpool – Arsenal,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.08525498896354787,8.2,-0.30090909049890757,piyasa,,,,2026-11-01 19:30,,,,,,kadro
