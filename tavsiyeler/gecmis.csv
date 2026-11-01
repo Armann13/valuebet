@@ -3961,3 +3961,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.27582289663820286,2.89,-0.20287182871559373,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
 2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.22551083507550038,3.68,-0.1701201269221586,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
 2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12013506853424602,6.99,-0.16025587094562033,piyasa,,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,🟢 Tier 1 — Düşük risk,ÇŞ X-2,0.7304014679077484,1.25,-0.08699816511531444,piyasa,False,,,2026-11-01 21:00,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,🔴 Tier 3 — Yüksek risk,MS 2,0.414952502536951,2.18,-0.09540354446944677,piyasa,True,,,2026-11-01 21:00,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,🟣 Tier 4 — Çok yüksek risk,İY/MS 2/2,0.23934736167258588,3.6,-0.13834949797869078,piyasa,True,,,2026-11-01 21:00,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,🟡 Tier 2 — Orta risk,Korner 8.5 Alt,0.5372601361519478,1.69,-0.09203036990320823,korner,False,,,2026-11-01 21:00,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,🔴 Tier 3 — Yüksek risk,Korner 7.5 Alt,0.4206048469180672,2.2,-0.07466933678025212,korner,True,,,2026-11-01 21:00,,,,,,kadro
+2026-11-01 20:05,2026-11-01,01.11,P1,Maritimo,Santa Clara,Maritimo – Santa Clara,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1214127626528503,5.43,-0.3407286987950229,piyasa,,,,2026-11-01 21:00,,,,,,kadro
