@@ -3957,3 +3957,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,🟡 Tier 2 — Orta risk,En çok korner 2,0.5771949011991117,1.76,0.01586302611043644,korner,False,,,2026-11-01 20:30,,,,,,kadro
 2026-11-01 19:39,2026-11-01,01.11,SP2,Burgos,Castellon,CF Burgos – Castellon,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12578118217183906,7.87,-0.010102096307626596,piyasa,,,,2026-11-01 20:30,,,,,,kadro
 2026-11-01 19:39,2026-11-01,01.11,SP1,Elche,Valencia,Elche – Valencia,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08384886021393749,8.36,-0.2990235286114826,piyasa,,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,🟡 Tier 2 — Orta risk,2.5 Üst,0.531787445685189,1.61,-0.14382221244684568,piyasa,False,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.27582289663820286,2.89,-0.20287182871559373,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.22551083507550038,3.68,-0.1701201269221586,piyasa,True,,,2026-11-01 20:30,,,,,,kadro
+2026-11-01 19:52,2026-11-01,01.11,G1,Panathinaikos,AEK,Panathinaikos – AEK Athens,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12013506853424602,6.99,-0.16025587094562033,piyasa,,,,2026-11-01 20:30,,,,,,kadro
