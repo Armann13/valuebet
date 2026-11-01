@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/70 tuttu** (isabet %44, beklenen %43) · +2.63 birim · 7 tahmin sonuç bekliyor
+**31/70 tuttu** (isabet %44, beklenen %43) · +2.63 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,6 +26,10 @@
 **17:00 · Sheffield Wednesday – Blackpool**
 
 - ⏳ 2.5 Alt · @2.11
+
+**23:30 · Braga – Famalicao**
+
+- ⏳ MS X · @3.60
 
 ## 31.10.2026 Cumartesi
 

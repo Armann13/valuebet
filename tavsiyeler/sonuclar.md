@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 01.11.2026 13:40. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 01.11.2026 13:52. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -21,7 +21,7 @@ Son güncelleme: 01.11.2026 13:40. Telegram mesajına giren tahminler (ilk gönd
 | [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 18 | 12 | 3 | %25 | %39 | -3.08 | %-26 |
 | [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 28 | 17 | 4 | %24 | %37 | -4.72 | %-28 |
 | [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 78 | 51 | 7 | %14 | %12 | +95.30 | %187 |
-| [💎 💎 Değerli](sonuclar/degerli.md) | 77 | 70 | 31 | %44 | %43 | +2.63 | %4 |
+| [💎 💎 Değerli](sonuclar/degerli.md) | 78 | 70 | 31 | %44 | %43 | +2.63 | %4 |
 
 ## Sistem kuponları
 
@@ -201,5 +201,5 @@ Değişen tahmin: 125 (123 sonuçlandı: eski 93, yeni 63 tuttu).
 | 29.10.2026 | 16 | 16 | 5 | %31 | %41 | -7.27 |
 | 30.10.2026 | 157 | 126 | 53 | %42 | %41 | -16.62 |
 | 31.10.2026 | 672 | 594 | 232 | %39 | %42 | -107.90 |
-| 01.11.2026 | 316 | 14 | 5 | %36 | %48 | -7.02 |
+| 01.11.2026 | 317 | 14 | 5 | %36 | %48 | -7.02 |
 | 02.11.2026 | 73 | 0 | 0 | — | — | — |
