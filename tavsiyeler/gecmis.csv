@@ -4209,3 +4209,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-02 19:38,2026-11-03,03.11,AVRUPA,Atletico Madrid,Bayern Münih,Atletico Madrid – Bayern Münih,UEFA Şampiyonlar Ligi,🎲 Çılgın kupon,İY/MS 1/2,0.04358974999671079,23.45,0.022179637422867993,oran,,,,2026-11-03 23:00,,,,,,
 2026-11-02 19:38,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,🎲 Çılgın kupon,2.5 Alt,0.34668532511793887,3.47,0.20299807815924797,piyasa,,,,2026-11-02 23:15,,,,,,
 2026-11-02 19:38,2026-11-02,02.11,SP2,Mallorca,Cadiz,Mallorca – Cadiz,SP2,🎲 Çılgın kupon,2.5 Alt,0.5584094726593694,1.81,0.010721145513458596,piyasa,,,,2026-11-02 23:00,,,,,,
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7063722354513104,1.26,-0.1099709833313488,piyasa,False,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,I1,Atalanta,Parma,Atalanta – Parma,I1,🟡 Tier 2 — Orta risk,KG Var,0.5378871021783131,1.54,-0.17165386264539773,piyasa,False,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,🔴 Tier 3 — Yüksek risk,MS 1,0.3887291230925196,2.35,-0.08648656073257888,piyasa,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,I1,Atalanta,Parma,Atalanta – Parma,I1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3049694725057378,2.45,-0.25282479236094235,piyasa,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.2268395058088754,3.84,-0.12893629769391846,piyasa,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,I1,Atalanta,Parma,Atalanta – Parma,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7103329464689688,1.24,-0.1191871463784786,korner,False,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,I1,Atalanta,Parma,Atalanta – Parma,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6216491771778514,1.43,-0.11104167663567255,korner,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5918798893441899,1.52,-0.1003425681968314,korner,False,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4827256186975445,1.89,-0.08764858066164094,korner,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,I1,Atalanta,Parma,Atalanta – Parma,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12072253645870912,7.43,-0.10303155411179132,piyasa,,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 21:56,2026-11-02,02.11,F1,Lorient,Brest,Lorient – Brest,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.09028965809836978,6.59,-0.40499115313174316,piyasa,,,,2026-11-02 22:45,,,,,,kadro
