@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-01 18",
+ "son_ozet": "2026-11-02 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -79,7 +79,10 @@
   "2026-11-01|Empoli – Juve Stabia|2.5 Alt",
   "2026-11-01|Empoli – Juve Stabia|KG Yok",
   "2026-11-01|Sheffield Wednesday – Blackpool|2.5 Alt",
-  "2026-11-02|PAE PS Kalamata – POT Iraklis|MS 1 & 2.5 Üst"
+  "2026-11-02|Benfica – Alverca FC|2.5 Alt",
+  "2026-11-02|Mallorca – Cadiz|2.5 Alt",
+  "2026-11-02|PAE PS Kalamata – POT Iraklis|MS 1 & 2.5 Üst",
+  "2026-11-02|Real Oviedo – Las Palmas|2.5 Alt"
  ],
  "sonuc_gonderilen": [
   "2026-10-01",
@@ -111,7 +114,8 @@
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
-  "2026-10-31"
+  "2026-10-31",
+  "2026-11-01"
  ],
  "kuponlar": [
   "2️⃣|Le Havre – Paris Saint Germain:MS 2 & KG Var|Sheffield United – Wrexham:En çok korner 1",
@@ -141,6 +145,10 @@
   "2️⃣|Gençlerbirliği – Alanyaspor:En çok korner 2|Tenerife – FC Andorra:MS 1",
   "3️⃣|Deportivo La Coruna – Osasuna:En çok korner 2|Real Oviedo – Las Palmas:En çok korner 2|Reims – Sochaux:MS 1 & 2.5 Üst",
   "4️⃣|Athletic Bilbao – Real Sociedad:MS 2|Braga – Famalicao:MS X|Newcastle United – Everton:MS X|PAE PS Kalamata – POT Iraklis:MS X",
-  "🎲|Athletic Bilbao – Real Sociedad:İY/MS 1/2|Benfica – Alverca FC:İY/MS 2/1|PAE PS Kalamata – POT Iraklis:İY/MS 2/1|Sassuolo – Fiorentina:İY/MS 1/2"
+  "🎲|Athletic Bilbao – Real Sociedad:İY/MS 1/2|Benfica – Alverca FC:İY/MS 2/1|PAE PS Kalamata – POT Iraklis:İY/MS 2/1|Sassuolo – Fiorentina:İY/MS 1/2",
+  "2️⃣|Derby County – Norwich City:En çok korner 1|Gençlerbirliği – Alanyaspor:En çok korner 2",
+  "3️⃣|Preston – Sheffield United:En çok korner 1|Queens Park Rangers – Burnley:En çok korner 2|Tenerife – FC Andorra:En çok korner 2",
+  "4️⃣|Deportivo La Coruna – Osasuna:En çok korner 2|LASK – Slovan Bratislava:MS 1 & KG Var|Newcastle United – Everton:MS 2|Villarreal – Paris Saint Germain:MS 2 & KG Var",
+  "🎲|Atletico Madrid – Bayern Münih:İY/MS 1/2|Benfica – Alverca FC:2.5 Alt|Derby County – Norwich City:İY/MS 1/2|Feyenoord – Inter:İY/MS 1/2|Real Oviedo – Las Palmas:2.5 Alt|Villarreal – Paris Saint Germain:İY/MS 1/2"
  ]
 }
