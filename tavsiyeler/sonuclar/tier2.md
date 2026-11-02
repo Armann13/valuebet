@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**331/578 tuttu** (isabet %57, beklenen %60) · -67.79 birim · 61 tahmin sonuç bekliyor
+**339/593 tuttu** (isabet %57, beklenen %60) · -70.26 birim · 51 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **20:45 · Shakhtar Donetsk – Sporting Lizbon**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.53
+
+**20:45 · Galatasaray – Stuttgart**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.46
 
 **22:45 · Huddersfield – Luton Town**
 
@@ -48,6 +52,7 @@
 
 - ⏳ 2.5 Üst · @1.40
 - ⏳ ↳ Korner 8.5 Üst · @1.49
+- ⏳ ÇŞ X-2 · @1.46
 
 **23:00 · LASK – Slovan Bratislava**
 
@@ -84,6 +89,7 @@
 **23:00 · Feyenoord – Inter**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.67
+- ⏳ ↳ Korner 8.5 Üst · @1.45
 
 ## 02.11.2026 Pazartesi
 
@@ -93,43 +99,45 @@
 
 **18:15 · Real Oviedo – Las Palmas**
 
-- ⏳ 2.5 Alt · @1.71
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ❌ 2.5 Alt · @1.71 · 2-3
+- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 7-4
 
 **19:00 · Atromitos – Volos**
 
-- ⏳ MS 1 · @1.69
+- ✅ MS 1 · @1.69 · 3-0
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
-- ⏳ En çok korner 2 · @1.78
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ En çok korner 2 · @1.78 · korner 3-1
+- ✅ ↳ Korner 10.5 Alt · @1.41 · korner 3-1
 
 **20:30 · Sassuolo – Fiorentina**
 
-- ⏳ 2.5 Üst · @1.45
-- ⏳ ↳ Korner 9.5 Alt · @1.52
+- ✅ 2.5 Üst · @1.45 · 2-4
+- ✅ ↳ Korner 9.5 Alt · @1.52 · korner 5-3
+- ❌ ÇŞ 1-X · @1.48 · 2-4
 
 **20:30 · Real Valladolid – Leganes**
 
-- ⏳ MS 1 · @1.71
+- ✅ MS 1 · @1.71 · 4-3
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ KG Var · @1.68
+- ✅ KG Var · @1.68 · 1-1
 
 **22:45 · Atalanta – Parma**
 
-- ⏳ 2.5 Üst · @1.49
-- ⏳ ↳ Korner 10.5 Alt · @1.43
+- ✅ 2.5 Üst · @1.49 · 0-3
+- ❌ ↳ Korner 10.5 Alt · @1.43 · korner 8-5
+- ❌ KG Var · @1.57 · 0-3
 
 **22:45 · Reims – Sochaux**
 
-- ⏳ MS 1 · @1.58
+- ✅ MS 1 · @1.58 · 2-0
 
 **22:45 · Lorient – Brest**
 
-- ⏳ Korner 9.5 Alt · @1.54
+- ❌ Korner 9.5 Alt · @1.54 · korner 8-2
 
 **23:00 · Mallorca – Cadiz**
 

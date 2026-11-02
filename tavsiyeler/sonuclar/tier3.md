@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**221/505 tuttu** (isabet %44, beklenen %42) · -22.29 birim · 55 tahmin sonuç bekliyor
+**223/515 tuttu** (isabet %43, beklenen %42) · -26.79 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -85,6 +85,7 @@
 **23:00 · Manchester United – AS Roma**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.89
+- ⏳ ↳ MS 2 · @2.50
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
@@ -102,12 +103,12 @@
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
-- ⏳ ↳ MS 2 · @2.41
-- ⏳ ↳ MS 1 · @2.45
+- ❌ ↳ MS 2 · @2.41 · 5-0
+- ✅ ↳ MS 1 · @2.45 · 5-0
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ ↳ MS 1 · @2.12
+- ❌ ↳ MS 1 · @2.12 · 1-1
 
 **20:30 · Real Valladolid – Leganes**
 
@@ -115,24 +116,25 @@
 
 **20:30 · Sassuolo – Fiorentina**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.05
+- ✅ ↳ MS 2 & 2.5 Üst · @3.05 · 2-4
+- ❌ ↳ MS 1 · @2.63 · 2-4
 
 **22:45 · Atalanta – Parma**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.98
+- ❌ ↳ MS 1 & 2.5 Üst · @1.98 · 0-3
 
 **22:45 · Red Star FC – AS Nancy**
 
-- ⏳ ↳ MS 1 · @2.11
+- ❌ ↳ MS 1 · @2.11 · 1-4
 
 **22:45 · Lorient – Brest**
 
-- ⏳ ↳ MS 1 · @2.30
-- ⏳ ↳ Korner 8.5 Alt · @1.93
+- ❌ ↳ MS 1 · @2.30 · 0-2
+- ❌ ↳ Korner 8.5 Alt · @1.93 · korner 8-2
 
 **22:45 · Reims – Sochaux**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.42
+- ❌ ↳ MS 1 & 2.5 Üst · @2.42 · 2-0
 
 **23:00 · Deportivo La Coruna – Osasuna**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/596 tuttu** (isabet %10, beklenen %11) · -161.77 birim · 57 tahmin sonuç bekliyor
+**60/609 tuttu** (isabet %10, beklenen %11) · -174.77 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -83,6 +83,7 @@
 **23:00 · Manchester United – AS Roma**
 
 - ⏳ 2-1 · @8.32
+- ⏳ 1-2 · @9.16
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
@@ -100,41 +101,43 @@
 
 **19:00 · Atromitos – Volos**
 
-- ⏳ 1-0 · @5.53
+- ❌ 1-0 · @5.53 · 3-0
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
-- ⏳ 0-1 · @7.11
-- ⏳ 2-1 · @8.92
+- ❌ 0-1 · @7.11 · 5-0
+- ❌ 2-1 · @8.92 · 5-0
+- ❌ 1-2 · @8.80 · 5-0
 
 **20:30 · Real Valladolid – Leganes**
 
-- ⏳ 1-0 · @6.01
+- ❌ 1-0 · @6.01 · 4-3
 
 **20:30 · Sassuolo – Fiorentina**
 
-- ⏳ 1-2 · @8.44
+- ❌ 1-2 · @8.44 · 2-4
+- ❌ 2-1 · @9.48 · 2-4
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ 2-1 · @7.54
+- ❌ 2-1 · @7.54 · 1-1
 
 **22:45 · Atalanta – Parma**
 
-- ⏳ 2-1 · @7.24
+- ❌ 2-1 · @7.24 · 0-3
 
 **22:45 · Reims – Sochaux**
 
-- ⏳ 2-1 · @7.41
+- ❌ 2-1 · @7.41 · 2-0
 
 **22:45 · Red Star FC – AS Nancy**
 
-- ⏳ 1-0 · @6.93
-- ⏳ 2-1 · @8.36
+- ❌ 1-0 · @6.93 · 1-4
+- ❌ 2-1 · @8.36 · 1-4
 
 **22:45 · Lorient – Brest**
 
-- ⏳ 1-0 · @6.93
+- ❌ 1-0 · @6.93 · 0-2
 
 **23:00 · Deportivo La Coruna – Osasuna**
 

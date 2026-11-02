@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**115/356 tuttu** (isabet %32, beklenen %30) · -10.55 birim · 41 tahmin sonuç bekliyor
+**118/368 tuttu** (isabet %32, beklenen %29) · -10.68 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -75,6 +75,7 @@
 **23:00 · Manchester United – AS Roma**
 
 - ⏳ ↳ MS 1 & KG Var · @3.49
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.41
 
 **23:00 · Birmingham – Millwall**
 
@@ -88,34 +89,36 @@
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
-- ⏳ ↳ İY/MS 2/2 · @3.96
-- ⏳ ↳ MS 1 & 2.5 Üst · @4.14
+- ❌ ↳ İY/MS 2/2 · @3.96
+- ✅ ↳ MS 1 & 2.5 Üst · @4.14 · 5-0
+- ❌ ↳ MS 2 & 2.5 Üst · @4.09 · 5-0
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.80
-- ⏳ ↳ MS X & KG Var · @4.03
+- ❌ ↳ MS 1 & 2.5 Üst · @3.80 · 1-1
+- ✅ ↳ MS X & KG Var · @4.03 · 1-1
 
 **20:30 · Sassuolo – Fiorentina**
 
-- ⏳ ↳ MS 2 & KG Var · @3.70
+- ✅ ↳ MS 2 & KG Var · @3.70 · 2-4
+- ❌ ↳ MS 1 & 2.5 Üst · @3.60 · 2-4
 
 **22:45 · Atalanta – Parma**
 
-- ⏳ ↳ MS 1 & KG Var · @2.83
+- ❌ ↳ MS 1 & KG Var · @2.83 · 0-3
 
 **22:45 · Reims – Sochaux**
 
-- ⏳ ↳ MS 1 & KG Var · @3.36
+- ❌ ↳ MS 1 & KG Var · @3.36 · 2-0
 
 **22:45 · Red Star FC – AS Nancy**
 
-- ⏳ ↳ İY/MS 1/1 · @3.37
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.63
+- ❌ ↳ İY/MS 1/1 · @3.37
+- ❌ ↳ MS 1 & 2.5 Üst · @3.63 · 1-4
 
 **22:45 · Lorient – Brest**
 
-- ⏳ ↳ İY/MS 1/1 · @3.74
+- ❌ ↳ İY/MS 1/1 · @3.74
 
 **23:00 · Newcastle United – Everton**
 

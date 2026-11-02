@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**253/354 tuttu** (isabet %71, beklenen %74) · -43.05 birim · 55 tahmin sonuç bekliyor
+**262/364 tuttu** (isabet %72, beklenen %74) · -41.83 birim · 49 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,6 +16,7 @@
 **20:45 · Galatasaray – Stuttgart**
 
 - ⏳ 2.5 Üst · @1.31
+- ⏳ Korner 11.5 Alt · @1.25
 
 **22:45 · Preston – Sheffield United**
 
@@ -77,11 +78,13 @@
 
 - ⏳ 2.5 Üst · @1.31
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ Korner 7.5 Üst · @1.23
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
 - ⏳ 2.5 Üst · @1.32
 - ⏳ Korner 11.5 Alt · @1.30
+- ⏳ KG Var · @1.30
 
 **23:00 · Manchester United – AS Roma**
 
@@ -104,41 +107,42 @@
 
 **18:15 · Real Oviedo – Las Palmas**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ Korner 11.5 Alt · @1.23 · korner 7-4
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
-- ⏳ ÇŞ 1-2 · @1.24
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ ÇŞ 1-2 · @1.24 · 5-0
+- ✅ Korner 11.5 Alt · @1.22 · korner 3-1
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ ÇŞ 1-X · @1.23
+- ✅ ÇŞ 1-X · @1.23 · 1-1
 
 **20:30 · Real Valladolid – Leganes**
 
-- ⏳ En çok korner 1 · @1.32
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ En çok korner 1 · @1.32 · korner 6-4
+- ✅ ÇŞ 1-2 · @1.22 · 4-3
 
 **20:30 · Sassuolo – Fiorentina**
 
-- ⏳ Korner 10.5 Alt · @1.28
+- ✅ Korner 10.5 Alt · @1.28 · korner 5-3
 
 **22:45 · Red Star FC – AS Nancy**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 1-4
 
 **22:45 · Lorient – Brest**
 
-- ⏳ ÇŞ 1-2 · @1.25
+- ✅ ÇŞ 1-2 · @1.25 · 0-2
 
 **22:45 · Atalanta – Parma**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ❌ Korner 11.5 Alt · @1.23 · korner 8-5
 
 **23:00 · Deportivo La Coruna – Osasuna**
 
 - ⏳ ÇŞ 1-X · @1.21
+- ⏳ ÇŞ 1-2 · @1.25
 
 **23:00 · Newcastle United – Everton**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/11 tuttu** (isabet %36, beklenen %54) · -3.46 birim · 3 tahmin sonuç bekliyor
+**4/13 tuttu** (isabet %31, beklenen %54) · -5.46 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78
+- ❌ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78 · korner 3-1
 - ⏳ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18
 
 ## 01.11 22:56 gönderilen kupon · 2 maç, oran 3,84
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
 - ❌ 02.11 16:00 Tenerife – FC Andorra · MS 1 · @2.16 · 2-2
-- ⏳ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78
+- ❌ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78 · korner 3-1
 
 ## 31.10 22:24 gönderilen kupon · 2 maç, oran 5,12
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/72 tuttu** (isabet %17, beklenen %16) · -5.61 birim · 3 tahmin sonuç bekliyor
+**13/74 tuttu** (isabet %18, beklenen %16) · -3.01 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **18:15 · Real Oviedo – Las Palmas**
 
-- ⏳ 1-0 · @5.96
+- ❌ 1-0 · @5.96 · 2-3
 
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
-- ⏳ 1-1 · @4.60
+- ✅ 1-1 · @4.60 · 1-1
 
 **23:00 · Mallorca – Cadiz**
 

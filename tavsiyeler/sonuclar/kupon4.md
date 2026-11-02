@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/28 tuttu** (isabet %32, beklenen %36) · -0.52 birim · 8 tahmin sonuç bekliyor
+**10/30 tuttu** (isabet %33, beklenen %35) · +0.36 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11 19:38 gönderilen kupon · 4 maç, oran 35,96
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 02.11 23:00 Newcastle United – Everton · MS 2 · @2.97
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.35
+- ⏳ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.27
+- ⏳ 03.11 23:00 Bodo Glimt – Lille · MS 1 & 2.5 Üst · @2.27
 
 ## 02.11 14:25 gönderilen kupon · 4 maç, oran 45,81
 
@@ -17,11 +26,11 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 01.11 22:56 gönderilen kupon · 4 maç, oran 114,05
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 01.11 23:00 Athletic Bilbao – Real Sociedad · MS 2 · @3.47 · 2-1
 - ❌ 01.11 23:30 Braga – Famalicao · MS X · @3.49 · 3-0
-- ⏳ 02.11 20:30 PAE PS Kalamata – POT Iraklis · MS X · @2.88
+- ✅ 02.11 20:30 PAE PS Kalamata – POT Iraklis · MS X · @2.88 · 1-1
 - ⏳ 02.11 23:00 Newcastle United – Everton · MS X · @3.27
 
 ## 01.11 09:20 gönderilen kupon · 4 maç, oran 98,07
@@ -30,7 +39,7 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 01.11 19:00 Kasımpaşa – Beşiktaş · En çok korner 1 · @2.83 · korner 5-2
 - ❌ 01.11 23:30 Braga – Famalicao · MS X · @3.42 · 3-0
-- ⏳ 02.11 18:15 Real Oviedo – Las Palmas · MS X · @3.47
+- ❌ 02.11 18:15 Real Oviedo – Las Palmas · MS X · @3.47 · 2-3
 - ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.92
 
 ## 31.10 22:24 gönderilen kupon · 4 maç, oran 60,92

@@ -2,15 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/76 tuttu** (isabet %13, beklenen %13) · +119.31 birim · 12 tahmin sonuç bekliyor
+**10/78 tuttu** (isabet %13, beklenen %13) · +117.31 birim · 16 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11 19:38 gönderilen kupon · 6 maç, oran 1.339.896,52
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 02.11 23:00 Mallorca – Cadiz · 2.5 Alt · @1.81
+- ⏳ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.47
+- ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.45
+- ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.25
+- ⏳ 03.11 23:00 Atletico Madrid – Bayern Münih · İY/MS 1/2 · @23.45
 
 ## 02.11 14:25 gönderilen kupon · 6 maç, oran 1.173.094,97
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 02.11 18:15 Real Oviedo – Las Palmas · 2.5 Alt · @1.79
+- ❌ 02.11 18:15 Real Oviedo – Las Palmas · 2.5 Alt · @1.79 · 2-3
 - ⏳ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.13
 - ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.60
@@ -23,7 +34,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 01.11 23:00 Athletic Bilbao – Real Sociedad · İY/MS 1/2 · @36.00 · İY 2-1, MS 2-1
 - ⏳ 02.11 20:30 Sassuolo – Fiorentina · İY/MS 1/2 · @24.35
-- ⏳ 02.11 20:30 PAE PS Kalamata – POT Iraklis · İY/MS 2/1 · @30.00
+- ❌ 02.11 20:30 PAE PS Kalamata – POT Iraklis · İY/MS 2/1 · @30.00
 - ⏳ 02.11 23:15 Benfica – Alverca FC · İY/MS 2/1 · @22.30
 
 ## 01.11 09:20 gönderilen kupon · 6 maç, oran 608.350,34
