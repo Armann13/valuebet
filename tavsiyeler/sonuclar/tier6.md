@@ -2,11 +2,101 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/583 tuttu** (isabet %10, beklenen %11) · -148.77 birim · 47 tahmin sonuç bekliyor
+**60/596 tuttu** (isabet %10, beklenen %11) · -161.77 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 03.11.2026 Salı
+
+**20:45 · Shakhtar Donetsk – Sporting Lizbon**
+
+- ⏳ 1-2 · @7.68
+
+**20:45 · Galatasaray – Stuttgart**
+
+- ⏳ 2-1 · @8.49
+
+**22:45 · Queens Park Rangers – Burnley**
+
+- ⏳ 2-1 · @7.70
+
+**22:45 · Wigan Athletic – Mansfield**
+
+- ⏳ 1-2 · @6.91
+
+**22:45 · Northampton – Oldham**
+
+- ⏳ 1-0 · @5.94
+
+**22:45 · Derby County – Norwich City**
+
+- ⏳ 1-2 · @7.84
+
+**22:45 · Huddersfield – Luton Town**
+
+- ⏳ 2-1 · @6.86
+
+**22:45 · Blackburn Rovers – Stoke City**
+
+- ⏳ 0-1 · @7.12
+
+**22:45 · Preston – Sheffield United**
+
+- ⏳ 1-2 · @7.85
+
+**22:45 · Charlton – Bolton**
+
+- ⏳ 2-1 · @8.10
+
+**22:45 · Portsmouth – Swansea City**
+
+- ⏳ 1-0 · @7.49
+
+**22:45 · Watford – Lincoln City**
+
+- ⏳ 2-1 · @8.40
+
+**23:00 · Birmingham – Millwall**
+
+- ⏳ 2-1 · @7.64
+
+**23:00 · West Bromwich – Southampton**
+
+- ⏳ 2-1 · @8.47
+
+**23:00 · Bodo Glimt – Lille**
+
+- ⏳ 2-1 · @7.75
+
+**23:00 · Feyenoord – Inter**
+
+- ⏳ 1-2 · @7.82
+
+**23:00 · LASK – Slovan Bratislava**
+
+- ⏳ 2-1 · @7.67
+
+**23:00 · Villarreal – Paris Saint Germain**
+
+- ⏳ 1-2 · @7.82
+
+**23:00 · Manchester United – AS Roma**
+
+- ⏳ 2-1 · @8.32
+
+**23:00 · Atletico Madrid – Bayern Münih**
+
+- ⏳ 1-2 · @8.84
+
+**23:00 · Barcelona – Aston Villa**
+
+- ⏳ 3-1 · @8.69
+
 ## 02.11.2026 Pazartesi
+
+**16:00 · Tenerife – FC Andorra**
+
+- ❌ 1-0 · @6.17 · 2-2
 
 **19:00 · Atromitos – Volos**
 
@@ -15,6 +105,7 @@
 **20:00 · Gençlerbirliği – Alanyaspor**
 
 - ⏳ 0-1 · @7.11
+- ⏳ 2-1 · @8.92
 
 **20:30 · Real Valladolid – Leganes**
 
@@ -65,7 +156,7 @@
 
 **13:30 · Amed Sportif Faaliyetler – Eyüpspor**
 
-- ⏳ 2-1 · @7.78
+- ❌ 2-1 · @7.78 · 5-1
 
 **14:15 · Zwolle – ADO Den Haag**
 
@@ -150,7 +241,7 @@
 
 **17:30 · Union Berlin – Köln**
 
-- ⏳ 1-2 · @8.60
+- ❌ 1-2 · @8.60 · 1-1
 
 **18:00 · St. Truidense – O.H. Leuven**
 
@@ -166,7 +257,7 @@
 
 **18:15 · AD Ceuta – S.Gijon**
 
-- ⏳ 2-1 · @8.64
+- ❌ 2-1 · @8.64 · 0-2
 
 **18:30 · FC Arouca – N. Madeira**
 
@@ -250,7 +341,7 @@
 
 **23:00 · Tenerife – FC Andorra**
 
-- ⏳ 1-0 · @6.29
+- ❌ 1-0 · @6.29 · 2-2
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
@@ -261,8 +352,8 @@
 
 **13:30 · Erzurumspor FK – Çorum FK**
 
-- ⏳ 2-1 · @8.84
-- ⏳ 1-2 · @8.82
+- ❌ 2-1 · @8.84 · 1-3
+- ❌ 1-2 · @8.82 · 1-3
 
 **15:00 · Kaiserslautern – Hertha Berlin**
 
@@ -596,8 +687,8 @@
 
 **20:30 · Celta Vigo B – Cordoba**
 
-- ⏳ 1-2 · @8.06
-- ⏳ 2-1 · @11.85
+- ❌ 1-2 · @8.06 · 2-2
+- ❌ 2-1 · @11.85 · 2-2
 
 **20:30 · Real Betis – Malaga CF**
 
@@ -638,7 +729,7 @@
 
 **22:45 · AC Milan – Inter**
 
-- ⏳ 1-2 · @7.73
+- ❌ 1-2 · @7.73 · 3-1
 
 **22:45 · Troyes – Le Mans**
 
@@ -691,8 +782,8 @@
 
 **21:00 · Nice – Rennes**
 
-- ⏳ 1-2 · @8.55
-- ⏳ 2-1 · @8.63
+- ❌ 1-2 · @8.55 · 5-2
+- ❌ 2-1 · @8.63 · 5-2
 
 **22:00 · Nantes – Clermont**
 
@@ -753,7 +844,7 @@
 
 **23:15 · Casa Pia AC – Sporting Lizbon**
 
-- ⏳ 1-2 · @7.81
+- ❌ 1-2 · @7.81 · 0-2
 
 ## 29.10.2026 Perşembe
 

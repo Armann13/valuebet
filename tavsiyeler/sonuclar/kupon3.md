@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/17 tuttu** (isabet %24, beklenen %39) · -5.39 birim · 4 tahmin sonuç bekliyor
+**5/19 tuttu** (isabet %26, beklenen %40) · -4.80 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11 14:25 gönderilen kupon · 3 maç, oran 15,22
+
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
+- ✅ 02.11 16:00 Tenerife – FC Andorra · En çok korner 2 · @2.59 · korner 0-3
+- ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.49
+- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.36
 
 ## 01.11 22:56 gönderilen kupon · 3 maç, oran 20,56
 
@@ -48,10 +56,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 29.10 21:37 gönderilen kupon · 3 maç, oran 9,28
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 29.10 22:45 Fiorentina – Atalanta · MS 1 · @2.23 · 2-2
-- ⏳ 30.10 21:00 Nice – Rennes · En çok korner 1 · @2.00
+- ❌ 30.10 21:00 Nice – Rennes · En çok korner 1 · @2.00 · korner 4-7
 - ❌ 30.10 23:05 Lille – RC Lens · En çok korner 2 · @2.08 · korner 10-2
 
 ## 29.10 14:13 gönderilen kupon · 3 maç, oran 20,90

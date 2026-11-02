@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/27 tuttu** (isabet %33, beklenen %36) · +0.48 birim · 5 tahmin sonuç bekliyor
+**9/28 tuttu** (isabet %32, beklenen %36) · -0.52 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11 14:25 gönderilen kupon · 4 maç, oran 45,81
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 02.11 23:00 Newcastle United – Everton · MS 2 · @2.98
+- ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.82
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.36
+- ⏳ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.31
 
 ## 01.11 22:56 gönderilen kupon · 4 maç, oran 114,05
 
@@ -71,9 +80,9 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 29.10 14:13 gönderilen kupon · 4 maç, oran 61,01
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 30.10 22:00 Nantes – Clermont · MS 1 & KG Var · @3.20 · 1-1
 - ✅ 30.10 22:45 AFC Fylde – Hornchurch · MS 1 & KG Var · @2.64 · 3-1
 - ❌ 30.10 23:00 Villarreal – Espanyol · MS 1 & KG Var · @2.57 · 0-1
-- ⏳ 30.10 23:15 Casa Pia AC – Sporting Lizbon · MS 2 & KG Var · @2.81
+- ❌ 30.10 23:15 Casa Pia AC – Sporting Lizbon · MS 2 & KG Var · @2.81 · 0-2

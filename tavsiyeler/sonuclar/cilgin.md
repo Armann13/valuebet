@@ -2,87 +2,98 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/60 tuttu** (isabet %13, beklenen %14) · +88.41 birim · 22 tahmin sonuç bekliyor
+**10/76 tuttu** (isabet %13, beklenen %13) · +119.31 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 02.11 14:25 gönderilen kupon · 6 maç, oran 1.173.094,97
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 02.11 18:15 Real Oviedo – Las Palmas · 2.5 Alt · @1.79
+- ⏳ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.13
+- ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.60
+- ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.10
+- ⏳ 03.11 23:00 Atletico Madrid – Bayern Münih · İY/MS 1/2 · @23.00
 
 ## 01.11 22:56 gönderilen kupon · 4 maç, oran 586.445,40
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ❌ 01.11 23:00 Athletic Bilbao – Real Sociedad · İY/MS 1/2 · @36.00
+- ❌ 01.11 23:00 Athletic Bilbao – Real Sociedad · İY/MS 1/2 · @36.00 · İY 2-1, MS 2-1
 - ⏳ 02.11 20:30 Sassuolo – Fiorentina · İY/MS 1/2 · @24.35
 - ⏳ 02.11 20:30 PAE PS Kalamata – POT Iraklis · İY/MS 2/1 · @30.00
 - ⏳ 02.11 23:15 Benfica – Alverca FC · İY/MS 2/1 · @22.30
 
 ## 01.11 09:20 gönderilen kupon · 6 maç, oran 608.350,34
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/6 maç tuttu
 
-- ❌ 01.11 16:00 Falkirk – Celtic · İY/MS 1/2 · @20.25
-- ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.05
+- ❌ 01.11 16:00 Falkirk – Celtic · İY/MS 1/2 · @20.25 · İY 2-0, MS 2-0
+- ❌ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.05 · İY 0-5, MS 0-9
 - ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.90 · 2-2
 - ✅ 01.11 17:00 Sheffield Wednesday – Blackpool · 2.5 Alt · @2.11 · 1-1
-- ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.95
-- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.95 · İY 0-3, MS 0-3
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05 · İY 0-1, MS 2-2
 
 ## 31.10 22:24 gönderilen kupon · 6 maç, oran 876.309,71
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/6 maç tuttu
 
-- ❌ 31.10 23:00 SC Cambuur – Go Ahead Eagles · İY/MS 1/2 · @23.90
+- ❌ 31.10 23:00 SC Cambuur – Go Ahead Eagles · İY/MS 1/2 · @23.90 · İY 3-0, MS 4-0
 - ❌ 31.10 23:30 Porto – Estoril Praia · 2.5 Alt · @2.59 · 4-0
-- ⏳ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.10
+- ❌ 01.11 16:30 Excelsior – Twente · İY/MS 1/2 · @20.10 · İY 0-5, MS 0-9
 - ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93 · 2-2
-- ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.55
-- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.55 · İY 0-3, MS 0-3
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05 · İY 0-1, MS 2-2
 
 ## 31.10 08:58 gönderilen kupon · 6 maç, oran 1.210.792,61
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/6 maç tuttu
 
-- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
-- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.30
-- ⏳ 31.10 20:30 Celta Vigo B – Cordoba · MS 1 · @3.73
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50 · İY 2-1, MS 2-3
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.30 · İY 0-0, MS 1-1
+- ❌ 31.10 20:30 Celta Vigo B – Cordoba · MS 1 · @3.73 · 2-2
 - ❌ 01.11 17:00 Empoli – Juve Stabia · KG Yok · @1.93 · 2-2
-- ⏳ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.70
-- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05
+- ❌ 01.11 18:15 Santander – Real Madrid · İY/MS 1/2 · @16.70 · İY 0-3, MS 0-3
+- ❌ 01.11 19:00 Kasımpaşa – Beşiktaş · İY/MS 1/2 · @22.05 · İY 0-1, MS 2-2
 
 ## 30.10 21:09 gönderilen kupon · 4 maç, oran 184.432,44
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.65
-- ⏳ 31.10 16:00 Levante – Atletico Madrid · İY/MS 1/2 · @20.60
-- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50
-- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
+- ❌ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.65 · İY 1-4, MS 2-4
+- ❌ 31.10 16:00 Levante – Atletico Madrid · İY/MS 1/2 · @20.60 · İY 0-1, MS 0-2
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.50 · İY 2-1, MS 2-3
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25 · İY 0-0, MS 1-1
 
 ## 30.10 13:14 gönderilen kupon · 4 maç, oran 188.939,47
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.75
-- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.55
-- ⏳ 31.10 18:00 Middlesbrough – Charlton · İY/MS 2/1 · @20.95
-- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25
+- ❌ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.75 · İY 1-4, MS 2-4
+- ❌ 31.10 18:00 P. Thistle – G. Morton · İY/MS 2/1 · @22.55 · İY 2-1, MS 2-3
+- ❌ 31.10 18:00 Middlesbrough – Charlton · İY/MS 2/1 · @20.95 · İY 2-0, MS 3-0
+- ❌ 31.10 18:30 Feyenoord – Fortuna Sittard · İY/MS 2/1 · @20.25 · İY 0-0, MS 1-1
 
 ## 29.10 14:13 gönderilen kupon · 4 maç, oran 202.924,93
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
-- ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
-- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
-- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
+- ✅ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45 · İY 1-0, MS 1-2
+- ❌ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50 · İY 1-2, MS 1-5
+- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30 · İY 3-0, MS 4-1
+- ❌ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90 · İY 1-4, MS 2-4
 
 ## 29.10 13:11 gönderilen kupon · 4 maç, oran 202.924,93
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45
-- ⏳ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50
-- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30
-- ⏳ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90
+- ✅ 30.10 20:30 E. Cottbus – Bochum · İY/MS 1/2 · @23.45 · İY 1-0, MS 1-2
+- ❌ 30.10 21:00 Le Havre – Paris Saint Germain · İY/MS 1/2 · @19.50 · İY 1-2, MS 1-5
+- ❌ 30.10 22:30 Elversberg – Mainz · İY/MS 1/2 · @22.30 · İY 3-0, MS 4-1
+- ❌ 30.10 22:45 Zulte Waregem – Club Brugge · İY/MS 1/2 · @19.90 · İY 1-4, MS 2-4
 
 ## 28.10 08:54 gönderilen kupon · 4 maç, oran 270.576,65
 

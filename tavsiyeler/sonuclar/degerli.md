@@ -2,15 +2,27 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/76 tuttu** (isabet %42, beklenen %43) · -1.26 birim · 3 tahmin sonuç bekliyor
+**33/78 tuttu** (isabet %42, beklenen %43) · -1.42 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 02.11.2026 Pazartesi
 
+**18:15 · Real Oviedo – Las Palmas**
+
+- ⏳ 2.5 Alt · @1.79
+
 **20:30 · PAE PS Kalamata – POT Iraklis**
 
 - ⏳ MS 1 & 2.5 Üst · @3.80
+
+**23:00 · Mallorca – Cadiz**
+
+- ⏳ 2.5 Alt · @1.81
+
+**23:15 · Benfica – Alverca FC**
+
+- ⏳ 2.5 Alt · @3.13
 
 ## 01.11.2026 Pazar
 
@@ -55,8 +67,8 @@
 
 **20:30 · Celta Vigo B – Cordoba**
 
-- ⏳ MS 1 · @3.73
-- ⏳ ÇŞ 1-X · @1.84
+- ❌ MS 1 · @3.73 · 2-2
+- ✅ ÇŞ 1-X · @1.84 · 2-2
 
 **20:30 · Tottenham – Crystal Palace**
 
