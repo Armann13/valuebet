@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**58/576 tuttu** (isabet %10, beklenen %11) · -157.32 birim · 52 tahmin sonuç bekliyor
+**60/583 tuttu** (isabet %10, beklenen %11) · -148.77 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -39,6 +39,7 @@
 **22:45 · Red Star FC – AS Nancy**
 
 - ⏳ 1-0 · @6.93
+- ⏳ 2-1 · @8.36
 
 **22:45 · Lorient – Brest**
 
@@ -229,23 +230,23 @@
 
 **21:00 · A. de Viseu  – Rio Ave**
 
-- ⏳ 2-1 · @7.60
+- ✅ 2-1 · @7.60 · 2-1
 
 **21:15 · Charleroi – RAAL La Louviere**
 
-- ⏳ 2-1 · @7.26
+- ❌ 2-1 · @7.26 · 5-2
 
 **21:30 · US Palermo – LR Vicenza Virtus**
 
-- ⏳ 2-1 · @7.33
+- ❌ 2-1 · @7.33 · 3-1
 
 **22:45 · Marsilya – Toulouse**
 
-- ⏳ 2-1 · @7.73
+- ❌ 2-1 · @7.73 · 2-0
 
 **22:45 · Juventus – Napoli**
 
-- ⏳ 2-1 · @8.32
+- ❌ 2-1 · @8.32 · 2-0
 
 **23:00 · Tenerife – FC Andorra**
 
@@ -253,7 +254,8 @@
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
-- ⏳ 2-1 · @7.95
+- ✅ 2-1 · @7.95 · 2-1
+- ❌ 1-2 · @11.15 · 2-1
 
 ## 31.10.2026 Cumartesi
 

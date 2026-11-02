@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 743 | 692 | 345 | -53.84 |
-| sonra | 653 | 615 | 286 | -84.37 |
+| önce | 748 | 735 | 373 | -44.42 |
+| sonra | 653 | 648 | 309 | -70.06 |
 
-Değişen tahmin: 141 (127 sonuçlandı: eski 96, yeni 64 tuttu).
+Değişen tahmin: 141 (137 sonuçlandı: eski 105, yeni 73 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,61 +17,61 @@ Değişen tahmin: 141 (127 sonuçlandı: eski 96, yeni 64 tuttu).
 
 Kadro mesajı: 01.11 22:43
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21 → — (kalktı)
-- 🟡 Tier 2: ⏳ MS 1 @1.70, ⏳ Korner 8.5 Üst @1.53, ⏳ 2.5 Alt @1.64 → ⏳ 2.5 Alt @1.71, ⏳ Korner 9.5 Alt @1.56 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.61, ⏳ Korner 9.5 Üst @1.92 → ⏳ Korner 8.5 Alt @1.97 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21 → — (kalktı)
+- 🟡 Tier 2: ✅ MS 1 @1.70, ❌ Korner 8.5 Üst @1.53, ❌ 2.5 Alt @1.64, ✅ Korner 9.5 Alt @1.56 → ❌ 2.5 Alt @1.71, ✅ Korner 9.5 Alt @1.56 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.61, ❌ Korner 9.5 Üst @1.92, ✅ Korner 8.5 Alt @1.97 → ✅ Korner 8.5 Alt @1.97 (değişti)
 
 ## 01.11 · Athletic Bilbao – Real Sociedad
 
 Kadro mesajı: 01.11 22:08
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.25, ⏳ ÇŞ 1-2 @1.20 → — (kalktı)
-- 🟡 Tier 2: ⏳ Korner 10.5 Alt @1.48 → ⏳ 2.5 Üst @1.65, ⏳ Korner 10.5 Alt @1.50 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 @1.99, ⏳ Korner 9.5 Alt @1.81 → ⏳ MS 1 & 2.5 Üst @2.82, ⏳ Korner 9.5 Alt @1.85 (değişti)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @2.91 → ⏳ MS 1 & KG Var @3.66 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.25, ✅ ÇŞ 1-2 @1.20 → — (kalktı)
+- 🟡 Tier 2: ❌ Korner 10.5 Alt @1.48, ❌ ÇŞ X-2 @1.70 → ✅ 2.5 Üst @1.65, ❌ Korner 10.5 Alt @1.50 (değişti)
+- 🔴 Tier 3: ✅ MS 1 @1.99, ❌ Korner 9.5 Alt @1.81, ❌ MS 2 @3.47 → ✅ MS 1 & 2.5 Üst @2.82, ❌ Korner 9.5 Alt @1.85 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @2.91, ❌ MS 2 & 2.5 Üst @5.69 → ✅ MS 1 & KG Var @3.66 (değişti)
 
 ## 01.11 · Juventus – Napoli
 
 Kadro mesajı: 01.11 22:08
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.25 → ⏳ ÇŞ 1-X @1.22 (aynı)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.61 → ⏳ Korner 9.5 Alt @1.62 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @2.13, ⏳ Korner 8.5 Alt @2.04 → ⏳ MS 1 @2.01, ⏳ Korner 8.5 Alt @2.05 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.54 → ⏳ MS 1 & 2.5 Üst @3.20 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.25 → ✅ ÇŞ 1-X @1.22 (aynı)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.61 → ❌ Korner 9.5 Alt @1.62 (aynı)
+- 🔴 Tier 3: ✅ MS 1 @2.13, ❌ Korner 8.5 Alt @2.04 → ✅ MS 1 @2.01, ❌ Korner 8.5 Alt @2.05 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @3.54 → ❌ MS 1 & 2.5 Üst @3.20 (aynı)
 
 ## 01.11 · Marsilya – Toulouse
 
 Kadro mesajı: 01.11 21:55
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.20 → ⏳ Korner 11.5 Alt @1.20 (değişti)
-- 🟡 Tier 2: ⏳ MS 1 @1.80, ⏳ Korner 9.5 Alt @1.64 → ⏳ MS 1 @1.72, ⏳ Korner 9.5 Alt @1.65 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.46, ⏳ Korner 8.5 Alt @2.09 → ⏳ MS 1 & 2.5 Üst @2.29 (değişti)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.12 → ⏳ MS 1 & KG Var @2.91 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.20 → ✅ Korner 11.5 Alt @1.20 (değişti)
+- 🟡 Tier 2: ✅ MS 1 @1.80, ✅ Korner 9.5 Alt @1.64 → ✅ MS 1 @1.72, ✅ Korner 9.5 Alt @1.65 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.46, ✅ Korner 8.5 Alt @2.09 → ❌ MS 1 & 2.5 Üst @2.29 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.12 → ❌ MS 1 & KG Var @2.91 (aynı)
 
 ## 01.11 · US Palermo – LR Vicenza Virtus
 
 Kadro mesajı: 01.11 20:43
 
-- 🟡 Tier 2: ⏳ MS 1 @1.43, ⏳ Korner 10.5 Alt @1.43 → ⏳ 2.5 Üst @1.44, ⏳ Korner 10.5 Alt @1.43 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @1.98, ⏳ Korner 9.5 Alt @1.74 → ⏳ MS 1 & 2.5 Üst @1.90, ⏳ Korner 9.5 Alt @1.74 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.78 → ⏳ MS 1 & KG Var @2.72 (aynı)
+- 🟡 Tier 2: ✅ MS 1 @1.43, ✅ Korner 10.5 Alt @1.43 → ✅ 2.5 Üst @1.44, ✅ Korner 10.5 Alt @1.43 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @1.98, ✅ Korner 9.5 Alt @1.74 → ✅ MS 1 & 2.5 Üst @1.90, ✅ Korner 9.5 Alt @1.74 (aynı)
+- 🟣 Tier 4: ✅ MS 1 & KG Var @2.78 → ✅ MS 1 & KG Var @2.72 (aynı)
 
 ## 01.11 · Charleroi – RAAL La Louviere
 
 Kadro mesajı: 01.11 20:30
 
-- 🟡 Tier 2: ⏳ KG Var @1.73, ⏳ Korner 10.5 Alt @1.46 → ⏳ MS 1 @1.48, ⏳ Korner 10.5 Alt @1.49 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & KG Var @3.01, ⏳ Korner 9.5 Alt @1.79 → ⏳ MS 1 & 2.5 Üst @2.34, ⏳ Korner 9.5 Alt @1.82 (değişti)
-- 🟣 Tier 4: — → ⏳ MS 1 & KG Var @3.38 (yeni)
+- 🟡 Tier 2: ✅ KG Var @1.73, ✅ Korner 10.5 Alt @1.46 → ✅ MS 1 @1.48, ✅ Korner 10.5 Alt @1.49 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & KG Var @3.01, ✅ Korner 9.5 Alt @1.79 → ✅ MS 1 & 2.5 Üst @2.34, ✅ Korner 9.5 Alt @1.82 (değişti)
+- 🟣 Tier 4: — → ✅ MS 1 & KG Var @3.38 (yeni)
 
 ## 01.11 · A. de Viseu  – Rio Ave
 
 Kadro mesajı: 01.11 20:18
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → — (kalktı)
-- 🟡 Tier 2: ⏳ MS 1 @1.77, ⏳ Korner 9.5 Alt @1.63, ⏳ 2.5 Üst @1.72 → ⏳ 2.5 Üst @1.78, ⏳ Korner 9.5 Alt @1.63 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.78, ⏳ Korner 8.5 Alt @2.08 → ⏳ MS 1 & 2.5 Üst @2.66, ⏳ Korner 8.5 Alt @2.07 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.70 → ⏳ MS 1 & KG Var @3.67 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20 → — (kalktı)
+- 🟡 Tier 2: ✅ MS 1 @1.77, ❌ Korner 9.5 Alt @1.63, ✅ 2.5 Üst @1.72 → ✅ 2.5 Üst @1.78, ❌ Korner 9.5 Alt @1.63 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.78, ❌ Korner 8.5 Alt @2.08 → ✅ MS 1 & 2.5 Üst @2.66, ❌ Korner 8.5 Alt @2.07 (aynı)
+- 🟣 Tier 4: ✅ MS 1 & KG Var @3.70 → ✅ MS 1 & KG Var @3.67 (aynı)
 
 ## 01.11 · Maritimo – Santa Clara
 

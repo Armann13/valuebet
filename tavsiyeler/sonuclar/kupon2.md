@@ -2,23 +2,30 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/7 tuttu** (isabet %57, beklenen %56) · +0.54 birim · 3 tahmin sonuç bekliyor
+**4/9 tuttu** (isabet %44, beklenen %54) · -1.46 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
-## 31.10 22:24 gönderilen kupon · 2 maç, oran 5,12
+## 01.11 22:56 gönderilen kupon · 2 maç, oran 3,84
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
+- ⏳ 02.11 16:00 Tenerife – FC Andorra · MS 1 · @2.16
+- ⏳ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78
+
+## 31.10 22:24 gönderilen kupon · 2 maç, oran 5,12
+
+❌ 0/2 maç tuttu
+
 - ❌ 31.10 23:00 Ajax – AZ Alkmaar · MS 1 & 2.5 Üst · @2.17 · 1-0
-- ⏳ 01.11 21:30 US Palermo – LR Vicenza Virtus · En çok korner 2 · @2.36
+- ❌ 01.11 21:30 US Palermo – LR Vicenza Virtus · En çok korner 2 · @2.36 · korner 4-4
 
 ## 31.10 08:58 gönderilen kupon · 2 maç, oran 4,58
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 01.11 17:30 Union Berlin – Köln · En çok korner 1 · @1.94
-- ⏳ 01.11 21:30 US Palermo – LR Vicenza Virtus · En çok korner 2 · @2.36
+- ❌ 01.11 21:30 US Palermo – LR Vicenza Virtus · En çok korner 2 · @2.36 · korner 4-4
 
 ## 30.10 21:09 gönderilen kupon · 2 maç, oran 3,76
 

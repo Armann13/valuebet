@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**301/532 tuttu** (isabet %57, beklenen %60) · -69.66 birim · 78 tahmin sonuç bekliyor
+**311/548 tuttu** (isabet %57, beklenen %60) · -69.42 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -256,9 +256,9 @@
 
 **21:00 · A. de Viseu  – Rio Ave**
 
-- ⏳ ↳ MS 1 · @1.77
-- ⏳ Korner 9.5 Alt · @1.63
-- ⏳ 2.5 Üst · @1.72
+- ✅ ↳ MS 1 · @1.77 · 2-1
+- ❌ Korner 9.5 Alt · @1.63 · korner 5-6
+- ✅ 2.5 Üst · @1.72 · 2-1
 
 **21:00 · Maritimo – Santa Clara**
 
@@ -266,22 +266,22 @@
 
 **21:15 · Charleroi – RAAL La Louviere**
 
-- ⏳ KG Var · @1.73
-- ⏳ Korner 10.5 Alt · @1.46
+- ✅ KG Var · @1.73 · 5-2
+- ✅ Korner 10.5 Alt · @1.46 · korner 4-5
 
 **21:30 · US Palermo – LR Vicenza Virtus**
 
-- ⏳ MS 1 · @1.43
-- ⏳ Korner 10.5 Alt · @1.43
+- ✅ MS 1 · @1.43 · 3-1
+- ✅ Korner 10.5 Alt · @1.43 · korner 4-4
 
 **22:45 · Marsilya – Toulouse**
 
-- ⏳ ↳ MS 1 · @1.80
-- ⏳ Korner 9.5 Alt · @1.64
+- ✅ ↳ MS 1 · @1.80 · 2-0
+- ✅ Korner 9.5 Alt · @1.64 · korner 4-3
 
 **22:45 · Juventus – Napoli**
 
-- ⏳ Korner 9.5 Alt · @1.61
+- ❌ Korner 9.5 Alt · @1.61 · korner 13-4
 
 **23:00 · Tenerife – FC Andorra**
 
@@ -289,13 +289,15 @@
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
-- ⏳ Korner 10.5 Alt · @1.48
+- ❌ Korner 10.5 Alt · @1.48 · korner 5-8
+- ❌ ÇŞ X-2 · @1.70 · 2-1
 
 **23:30 · Braga – Famalicao**
 
-- ⏳ ↳ MS 1 · @1.70
-- ⏳ Korner 8.5 Üst · @1.53
-- ⏳ 2.5 Alt · @1.64
+- ✅ ↳ MS 1 · @1.70 · 3-0
+- ❌ Korner 8.5 Üst · @1.53 · korner 7-1
+- ❌ 2.5 Alt · @1.64 · 3-0
+- ✅ Korner 9.5 Alt · @1.56 · korner 7-1
 
 ## 31.10.2026 Cumartesi
 

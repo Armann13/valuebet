@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/71 tuttu** (isabet %17, beklenen %16) · -4.61 birim · 3 tahmin sonuç bekliyor
+**12/72 tuttu** (isabet %17, beklenen %16) · -5.61 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **23:30 · Braga – Famalicao**
 
-- ⏳ 1-0 · @5.10
+- ❌ 1-0 · @5.10 · 3-0
 
 ## 31.10.2026 Cumartesi
 

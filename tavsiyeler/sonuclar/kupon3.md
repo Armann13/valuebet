@@ -2,25 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**3/14 tuttu** (isabet %21, beklenen %39) · -5.08 birim · 4 tahmin sonuç bekliyor
+**4/17 tuttu** (isabet %24, beklenen %39) · -5.39 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
-## 01.11 09:20 gönderilen kupon · 3 maç, oran 21,01
+## 01.11 22:56 gönderilen kupon · 3 maç, oran 20,56
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
+- ⏳ 02.11 18:15 Real Oviedo – Las Palmas · En çok korner 2 · @2.92
+- ⏳ 02.11 22:45 Reims – Sochaux · MS 1 & 2.5 Üst · @2.42
+- ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.91
+
+## 01.11 09:20 gönderilen kupon · 3 maç, oran 21,01
+
+❌ 1/3 maç tuttu
+
 - ❌ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84 · korner 8-2
-- ⏳ 01.11 21:00 A. de Viseu  – Rio Ave · En çok korner 2 · @2.69
-- ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.75
+- ✅ 01.11 21:00 A. de Viseu  – Rio Ave · En çok korner 2 · @2.69 · korner 5-6
+- ❌ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.75 · korner 13-4
 
 ## 31.10 22:24 gönderilen kupon · 3 maç, oran 24,19
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ✅ 31.10 22:45 SK Beveren – Union Saint Gilloise · En çok korner 1 · @3.01 · korner 6-3
 - ❌ 01.11 16:00 Başakşehir – Samsunspor · En çok korner 2 · @2.84 · korner 8-2
-- ⏳ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.83
+- ❌ 01.11 22:45 Juventus – Napoli · En çok korner 2 · @2.83 · korner 13-4
 
 ## 31.10 08:58 gönderilen kupon · 3 maç, oran 25,12
 

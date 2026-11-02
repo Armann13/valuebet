@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**98/319 tuttu** (isabet %31, beklenen %30) · -31.38 birim · 55 tahmin sonuç bekliyor
+**101/325 tuttu** (isabet %31, beklenen %30) · -27.99 birim · 51 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -31,6 +31,7 @@
 **22:45 · Red Star FC – AS Nancy**
 
 - ⏳ ↳ İY/MS 1/1 · @3.37
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.63
 
 **22:45 · Lorient – Brest**
 
@@ -177,23 +178,24 @@
 
 **21:00 · A. de Viseu  – Rio Ave**
 
-- ⏳ ↳ MS 1 & KG Var · @3.70
+- ✅ ↳ MS 1 & KG Var · @3.70 · 2-1
 
 **21:30 · US Palermo – LR Vicenza Virtus**
 
-- ⏳ ↳ MS 1 & KG Var · @2.78
+- ✅ ↳ MS 1 & KG Var · @2.78 · 3-1
 
 **22:45 · Marsilya – Toulouse**
 
-- ⏳ ↳ MS 1 & KG Var · @3.12
+- ❌ ↳ MS 1 & KG Var · @3.12 · 2-0
 
 **22:45 · Juventus – Napoli**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.54
+- ❌ ↳ MS 1 & 2.5 Üst · @3.54 · 2-0
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.91
+- ✅ ↳ MS 1 & 2.5 Üst · @2.91 · 2-1
+- ❌ ↳ MS 2 & 2.5 Üst · @5.69 · 2-1
 
 **23:00 · Tenerife – FC Andorra**
 

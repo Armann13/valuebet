@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/74 tuttu** (isabet %43, beklenen %43) · +0.74 birim · 4 tahmin sonuç bekliyor
+**32/76 tuttu** (isabet %42, beklenen %43) · -1.26 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,9 +27,13 @@
 
 - ✅ 2.5 Alt · @2.11 · 1-1
 
+**23:00 · Athletic Bilbao – Real Sociedad**
+
+- ❌ MS 2 · @3.47 · 2-1
+
 **23:30 · Braga – Famalicao**
 
-- ⏳ MS X · @3.60
+- ❌ MS X · @3.60 · 3-0
 
 ## 31.10.2026 Cumartesi
 

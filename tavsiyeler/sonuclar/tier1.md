@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**234/330 tuttu** (isabet %71, beklenen %75) · -42.42 birim · 44 tahmin sonuç bekliyor
+**240/336 tuttu** (isabet %71, beklenen %75) · -41.11 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,6 +23,7 @@
 **20:30 · Real Valladolid – Leganes**
 
 - ⏳ En çok korner 1 · @1.32
+- ⏳ ÇŞ 1-2 · @1.22
 
 **20:30 · Sassuolo – Fiorentina**
 
@@ -52,6 +53,10 @@
 **23:00 · Mallorca – Cadiz**
 
 - ⏳ Korner 11.5 Alt · @1.25
+
+**23:15 · Benfica – Alverca FC**
+
+- ⏳ En çok korner 1 · @1.24
 
 ## 01.11.2026 Pazar
 
@@ -176,7 +181,7 @@
 
 **21:00 · A. de Viseu  – Rio Ave**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-1
 
 **21:00 · Maritimo – Santa Clara**
 
@@ -184,11 +189,11 @@
 
 **22:45 · Marsilya – Toulouse**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **22:45 · Juventus – Napoli**
 
-- ⏳ ÇŞ 1-X · @1.25
+- ✅ ÇŞ 1-X · @1.25 · 2-0
 
 **23:00 · Tenerife – FC Andorra**
 
@@ -198,12 +203,12 @@
 
 **23:00 · Athletic Bilbao – Real Sociedad**
 
-- ⏳ ÇŞ 1-X · @1.25
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-X · @1.25 · 2-1
+- ✅ ÇŞ 1-2 · @1.20 · 2-1
 
 **23:30 · Braga – Famalicao**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 3-0
 
 ## 31.10.2026 Cumartesi
 
