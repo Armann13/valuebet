@@ -4249,3 +4249,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5865797664866598,1.54,-0.09666715961054395,korner,False,,,2026-11-02 23:15,,,,,,kadro
 2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4773371984833039,1.93,-0.07873920692722347,korner,True,,,2026-11-02 23:15,,,,,,kadro
 2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.1387546518656168,5.16,-0.2840259963734173,piyasa,,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:41,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,🟡 Tier 2 — Orta risk,KG Yok,0.5400144970069624,1.74,-0.06037477520788548,piyasa,False,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:41,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5056748628985253,1.86,-0.05944475500874302,korner,False,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:41,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4016335484444006,2.44,-0.020014141795662632,korner,True,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:41,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-0,0.13450469083291344,7.43,-0.0006301471114531498,piyasa,,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:41,2026-11-02,02.11,P1,Benfica,Alverca,Benfica – Alverca FC,P1,💎 Değeri pozitif olanlar,2.5 Alt,0.34668532511793887,3.72,0.28966940943873265,piyasa,,,,2026-11-02 23:15,,,,,,kadro
