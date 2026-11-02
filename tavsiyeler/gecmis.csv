@@ -4241,3 +4241,11 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-02 22:10,2026-11-02,02.11,SP1,La Coruna,Osasuna,Deportivo La Coruna – Osasuna,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12069043094040721,5.69,-0.3132714479490829,piyasa,,,,2026-11-02 23:00,,,,,,kadro
 2026-11-02 22:10,2026-11-02,02.11,E0,Newcastle,Everton,Newcastle United – Everton,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08870124615316693,7.93,-0.2965991180053862,piyasa,,,,2026-11-02 23:00,,,,,,kadro
 2026-11-02 22:10,2026-11-02,02.11,SP2,Mallorca,Cadiz,Mallorca – Cadiz,SP2,💎 Değeri pozitif olanlar,2.5 Alt,0.5584094726593694,1.83,0.021889334966646024,piyasa,,,,2026-11-02 23:00,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,F2,Reims,Sochaux,Reims – Sochaux,F2,🟡 Tier 2 — Orta risk,MS 1,0.5769302550667667,1.61,-0.07114228934250566,oran,False,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,F2,Reims,Sochaux,Reims – Sochaux,F2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3809202694150415,2.4,-0.08579135340390054,oran,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,F2,Reims,Sochaux,Reims – Sochaux,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.2585119295552838,3.29,-0.14949575176311636,oran,True,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,F2,Reims,Sochaux,Reims – Sochaux,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10845303825392173,7.42,-0.19527845615590078,oran,,,,2026-11-02 22:45,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,🟡 Tier 2 — Orta risk,2.5 Alt,0.6174673072869614,1.58,-0.02440165448660092,piyasa,False,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5865797664866598,1.54,-0.09666715961054395,korner,False,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4773371984833039,1.93,-0.07873920692722347,korner,True,,,2026-11-02 23:15,,,,,,kadro
+2026-11-02 22:25,2026-11-02,02.11,P1,Gil Vicente,Guimaraes,Gil Vicente – Vitoria Guimaraes,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.1387546518656168,5.16,-0.2840259963734173,piyasa,,,,2026-11-02 23:15,,,,,,kadro
