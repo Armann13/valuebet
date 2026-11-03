@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/74 tuttu** (isabet %18, beklenen %16) · -3.01 birim · 1 tahmin sonuç bekliyor
+**13/75 tuttu** (isabet %17, beklenen %16) · -4.01 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,7 +18,7 @@
 
 **23:00 · Mallorca – Cadiz**
 
-- ⏳ 1-0 · @5.41
+- ❌ 1-0 · @5.41 · 2-1
 
 ## 01.11.2026 Pazar
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**118/368 tuttu** (isabet %32, beklenen %29) · -10.68 birim · 32 tahmin sonuç bekliyor
+**118/369 tuttu** (isabet %32, beklenen %29) · -11.68 birim · 31 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -122,7 +122,7 @@
 
 **23:00 · Newcastle United – Everton**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.24
+- ❌ ↳ MS 1 & 2.5 Üst · @3.24 · 0-1
 
 **23:00 · Deportivo La Coruna – Osasuna**
 

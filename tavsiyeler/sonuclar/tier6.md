@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/609 tuttu** (isabet %10, beklenen %11) · -174.77 birim · 47 tahmin sonuç bekliyor
+**60/613 tuttu** (isabet %10, beklenen %11) · -178.77 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -141,19 +141,19 @@
 
 **23:00 · Deportivo La Coruna – Osasuna**
 
-- ⏳ 1-0 · @5.91
+- ❌ 1-0 · @5.91 · 2-1
 
 **23:00 · Newcastle United – Everton**
 
-- ⏳ 2-1 · @8.30
+- ❌ 2-1 · @8.30 · 0-1
 
 **23:15 · Gil Vicente – Vitoria Guimaraes**
 
-- ⏳ 1-1 · @5.14
+- ❌ 1-1 · @5.14 · 0-0
 
 **23:15 · Benfica – Alverca FC**
 
-- ⏳ 2-0 · @6.05
+- ❌ 2-0 · @6.05 · 1-0
 
 ## 01.11.2026 Pazar
 

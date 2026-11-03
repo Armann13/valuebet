@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**339/593 tuttu** (isabet %57, beklenen %60) · -70.26 birim · 51 tahmin sonuç bekliyor
+**344/602 tuttu** (isabet %57, beklenen %60) · -71.53 birim · 42 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -141,27 +141,27 @@
 
 **23:00 · Mallorca – Cadiz**
 
-- ⏳ 2.5 Alt · @1.71
-- ⏳ ↳ Korner 10.5 Alt · @1.44
+- ❌ 2.5 Alt · @1.71 · 2-1
+- ❌ ↳ Korner 10.5 Alt · @1.44 · korner 10-2
 
 **23:00 · Deportivo La Coruna – Osasuna**
 
-- ⏳ Korner 9.5 Alt · @1.62
+- ❌ Korner 9.5 Alt · @1.62 · korner 8-2
 
 **23:00 · Newcastle United – Everton**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.63
-- ⏳ ↳ Korner 11.5 Alt · @1.40
+- ✅ ↳ Korner 10.5 Alt · @1.63 · korner 4-5
+- ✅ ↳ Korner 11.5 Alt · @1.40 · korner 4-5
 
 **23:15 · Gil Vicente – Vitoria Guimaraes**
 
-- ⏳ 2.5 Alt · @1.53
-- ⏳ Korner 9.5 Alt · @1.54
+- ✅ 2.5 Alt · @1.53 · 0-0
+- ✅ Korner 9.5 Alt · @1.54 · korner 2-3
 
 **23:15 · Benfica – Alverca FC**
 
-- ⏳ KG Yok · @1.63
-- ⏳ Korner 9.5 Alt · @1.81
+- ✅ KG Yok · @1.63 · 1-0
+- ❌ Korner 9.5 Alt · @1.81 · korner 8-5
 
 ## 01.11.2026 Pazar
 

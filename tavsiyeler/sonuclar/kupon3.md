@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/21 tuttu** (isabet %24, beklenen %39) · -6.80 birim · 6 tahmin sonuç bekliyor
+**5/23 tuttu** (isabet %22, beklenen %39) · -8.80 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.89
+- ❌ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.89 · korner 8-2
 - ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.52
 - ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43
 
@@ -24,11 +24,11 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 01.11 22:56 gönderilen kupon · 3 maç, oran 20,56
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 02.11 18:15 Real Oviedo – Las Palmas · En çok korner 2 · @2.92 · korner 7-4
 - ❌ 02.11 22:45 Reims – Sochaux · MS 1 & 2.5 Üst · @2.42 · 2-0
-- ⏳ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.91
+- ❌ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.91 · korner 8-2
 
 ## 01.11 09:20 gönderilen kupon · 3 maç, oran 21,01
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**406/780 tuttu** (isabet %52, beklenen %59) · -131.05 birim · 72 tahmin sonuç bekliyor
+**412/796 tuttu** (isabet %52, beklenen %59) · -138.11 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -145,34 +145,34 @@
 
 **23:00 · Mallorca – Cadiz**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ❌ 🟢 Korner 11.5 Alt · @1.25 · korner 10-2
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 10-2
 
 **23:00 · Newcastle United – Everton**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.40
+- ✅ 🟢 Korner 12.5 Alt · @1.20 · korner 4-5
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.63 · korner 4-5
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.40 · korner 4-5
 
 **23:00 · Deportivo La Coruna – Osasuna**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.62
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
-- ⏳ 4 En çok korner 2 · @2.92
-- ⏳ 3 En çok korner 2 · @2.91
-- ⏳ 4 En çok korner 2 · @2.82
-- ⏳ 3 En çok korner 2 · @2.89
+- ❌ 🟡 Korner 9.5 Alt · @1.62 · korner 8-2
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.06 · korner 8-2
+- ❌ 4 En çok korner 2 · @2.92 · korner 8-2
+- ❌ 3 En çok korner 2 · @2.91 · korner 8-2
+- ❌ 4 En çok korner 2 · @2.82 · korner 8-2
+- ❌ 3 En çok korner 2 · @2.89 · korner 8-2
 
 **23:15 · Gil Vicente – Vitoria Guimaraes**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.54
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.93
+- ✅ 🟡 Korner 9.5 Alt · @1.54 · korner 2-3
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.93 · korner 2-3
 
 **23:15 · Benfica – Alverca FC**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.81
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.36
-- ⏳ 🟢 En çok korner 1 · @1.24
+- ❌ 🟡 Korner 9.5 Alt · @1.81 · korner 8-5
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.36 · korner 8-5
+- ✅ 🟢 En çok korner 1 · @1.24 · korner 8-5
 
 ## 01.11.2026 Pazar
 

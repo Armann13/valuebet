@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/78 tuttu** (isabet %13, beklenen %13) · +117.31 birim · 16 tahmin sonuç bekliyor
+**12/81 tuttu** (isabet %15, beklenen %14) · +120.91 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 02.11 19:38 gönderilen kupon · 6 maç, oran 1.339.896,52
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 02.11 23:00 Mallorca – Cadiz · 2.5 Alt · @1.81
-- ⏳ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.47
+- ❌ 02.11 23:00 Mallorca – Cadiz · 2.5 Alt · @1.81 · 2-1
+- ✅ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.47 · 1-0
 - ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.45
 - ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.25
@@ -19,10 +19,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 02.11 14:25 gönderilen kupon · 6 maç, oran 1.173.094,97
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 02.11 18:15 Real Oviedo – Las Palmas · 2.5 Alt · @1.79 · 2-3
-- ⏳ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.13
+- ✅ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.13 · 1-0
 - ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.60
 - ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.10

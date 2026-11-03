@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**262/364 tuttu** (isabet %72, beklenen %74) · -41.83 birim · 49 tahmin sonuç bekliyor
+**267/370 tuttu** (isabet %72, beklenen %74) · -41.73 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -141,21 +141,21 @@
 
 **23:00 · Deportivo La Coruna – Osasuna**
 
-- ⏳ ÇŞ 1-X · @1.21
-- ⏳ ÇŞ 1-2 · @1.25
+- ✅ ÇŞ 1-X · @1.21 · 2-1
+- ✅ ÇŞ 1-2 · @1.25 · 2-1
 
 **23:00 · Newcastle United – Everton**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
+- ✅ Korner 12.5 Alt · @1.20 · korner 4-5
 
 **23:00 · Mallorca – Cadiz**
 
-- ⏳ Korner 11.5 Alt · @1.25
+- ❌ Korner 11.5 Alt · @1.25 · korner 10-2
 
 **23:15 · Benfica – Alverca FC**
 
-- ⏳ En çok korner 1 · @1.24
+- ✅ En çok korner 1 · @1.24 · korner 8-5
 
 ## 01.11.2026 Pazar
 

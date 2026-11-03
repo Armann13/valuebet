@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/80 tuttu** (isabet %41, beklenen %43) · -3.42 birim · 2 tahmin sonuç bekliyor
+**34/82 tuttu** (isabet %41, beklenen %43) · -2.29 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,11 +18,11 @@
 
 **23:00 · Mallorca – Cadiz**
 
-- ⏳ 2.5 Alt · @1.81
+- ❌ 2.5 Alt · @1.81 · 2-1
 
 **23:15 · Benfica – Alverca FC**
 
-- ⏳ 2.5 Alt · @3.13
+- ✅ 2.5 Alt · @3.13 · 1-0
 
 ## 01.11.2026 Pazar
 
