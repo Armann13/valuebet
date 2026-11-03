@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/36 tuttu** (isabet %33, beklenen %35) · +0.31 birim · 12 tahmin sonuç bekliyor
+**12/43 tuttu** (isabet %28, beklenen %36) · -6.69 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,7 +11,7 @@
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 03.11 20:45 Galatasaray – Stuttgart · MS 1 & KG Var · @2.61 · 2-0
-- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.45
+- ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.45 · 0-6
 - ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
 - ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.26
 
@@ -19,28 +19,28 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.43
+- ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.43 · 0-6
 - ⏳ 03.11 23:00 Feyenoord – Inter · MS 2 & 2.5 Üst · @2.23
 - ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.32
 - ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.36
 
 ## 02.11 19:38 gönderilen kupon · 4 maç, oran 35,96
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ✅ 02.11 23:00 Newcastle United – Everton · MS 2 · @2.97 · 0-1
-- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.35
-- ⏳ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.27
-- ⏳ 03.11 23:00 Bodo Glimt – Lille · MS 1 & 2.5 Üst · @2.27
+- ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.35 · 0-6
+- ❌ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.27 · 4-0
+- ❌ 03.11 23:00 Bodo Glimt – Lille · MS 1 & 2.5 Üst · @2.27 · 0-0
 
 ## 02.11 14:25 gönderilen kupon · 4 maç, oran 45,81
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ✅ 02.11 23:00 Newcastle United – Everton · MS 2 · @2.98 · 0-1
 - ❌ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.82 · korner 8-2
-- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.36
-- ⏳ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.31
+- ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.36 · 0-6
+- ❌ 03.11 23:00 LASK – Slovan Bratislava · MS 1 & KG Var · @2.31 · 4-0
 
 ## 01.11 22:56 gönderilen kupon · 4 maç, oran 114,05
 

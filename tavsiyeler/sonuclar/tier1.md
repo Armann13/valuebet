@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**268/373 tuttu** (isabet %72, beklenen %74) · -43.48 birim · 66 tahmin sonuç bekliyor
+**291/402 tuttu** (isabet %72, beklenen %74) · -43.45 birim · 37 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,64 +87,64 @@
 
 **22:45 · Preston – Sheffield United**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-3
 
 **22:45 · Charlton – Bolton**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 12.5 Alt · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 0-1
+- ✅ Korner 12.5 Alt · @1.21 · korner 4-3
 
 **22:45 · Queens Park Rangers – Burnley**
 
-- ⏳ ÇŞ 1-X · @1.22
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ ÇŞ 1-X · @1.22 · 1-1
+- ✅ Korner 11.5 Alt · @1.22 · korner 8-1
 
 **22:45 · Watford – Lincoln City**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ En çok korner 1 · @1.77
+- ✅ ÇŞ 1-2 · @1.23 · 1-0
+- ✅ En çok korner 1 · @1.77 · korner 7-6
 
 **22:45 · Portsmouth – Swansea City**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 3-1
 
 **22:45 · Blackburn Rovers – Stoke City**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 12.5 Alt · @1.24
+- ✅ ÇŞ 1-2 · @1.23 · 1-2
+- ✅ Korner 12.5 Alt · @1.24 · korner 6-5
 
 **22:45 · Northampton – Oldham**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
 
 **22:45 · Derby County – Norwich City**
 
-- ⏳ ÇŞ X-2 · @1.24
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ X-2 · @1.24 · 0-4
+- ✅ ÇŞ 1-2 · @1.20 · 0-4
 
 **22:45 · Wigan Athletic – Mansfield**
 
-- ⏳ ÇŞ X-2 · @1.20
+- ✅ ÇŞ X-2 · @1.20 · 0-0
 
 **23:00 · Barcelona – Aston Villa**
 
-- ⏳ MS 1 & 2.5 Üst · @1.31
-- ⏳ Korner 8.5 Üst · @1.28
+- ✅ MS 1 & 2.5 Üst · @1.31 · 3-0
+- ✅ Korner 8.5 Üst · @1.28 · korner 4-8
 
 **23:00 · Villarreal – Paris Saint Germain**
 
-- ⏳ 2.5 Üst · @1.25
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ 2.5 Üst · @1.25 · 0-6
+- ❌ Korner 11.5 Alt · @1.25 · korner 4-8
 
 **23:00 · West Bromwich – Southampton**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 12.5 Alt · @1.27
+- ❌ ÇŞ 1-2 · @1.20 · 1-1
+- ✅ Korner 12.5 Alt · @1.27 · korner 3-5
 
 **23:00 · LASK – Slovan Bratislava**
 
-- ⏳ MS 1 · @1.31
-- ⏳ En çok korner 1 · @1.21
+- ✅ MS 1 · @1.31 · 4-0
+- ✅ En çok korner 1 · @1.21 · korner 8-2
 
 **23:00 · Feyenoord – Inter**
 
@@ -154,22 +154,22 @@
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
-- ⏳ 2.5 Üst · @1.32
-- ⏳ Korner 11.5 Alt · @1.30
-- ⏳ KG Var · @1.30
-- ⏳ Korner 8.5 Üst · @1.29
+- ❌ 2.5 Üst · @1.32 · 0-2
+- ✅ Korner 11.5 Alt · @1.30 · korner 4-4
+- ❌ KG Var · @1.30 · 0-2
+- ❌ Korner 8.5 Üst · @1.29 · korner 4-4
 
 **23:00 · Manchester United – AS Roma**
 
-- ⏳ Korner 7.5 Üst · @1.25
+- ❌ Korner 7.5 Üst · @1.25 · korner 3-1
 
 **23:00 · Birmingham – Millwall**
 
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ Korner 12.5 Alt · @1.20 · korner 6-2
 
 **23:00 · Bodo Glimt – Lille**
 
-- ⏳ Korner 11.5 Alt · @1.30
+- ✅ Korner 11.5 Alt · @1.30 · korner 3-4
 
 ## 02.11.2026 Pazartesi
 

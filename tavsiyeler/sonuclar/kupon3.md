@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/23 tuttu** (isabet %22, beklenen %39) · -8.80 birim · 10 tahmin sonuç bekliyor
+**5/30 tuttu** (isabet %17, beklenen %39) · -15.80 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,33 +10,33 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.46
-- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43
+- ❌ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.46 · korner 8-1
+- ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43 · korner 3-3
 - ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92
 
 ## 03.11 09:58 gönderilen kupon · 3 maç, oran 15,89
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43
+- ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43 · korner 3-3
 - ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92
 - ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
 
 ## 02.11 19:38 gönderilen kupon · 3 maç, oran 17,70
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 02.11 23:00 Deportivo La Coruna – Osasuna · En çok korner 2 · @2.89 · korner 8-2
-- ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.52
-- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43
+- ❌ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.52 · korner 8-1
+- ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43 · korner 3-3
 
 ## 02.11 14:25 gönderilen kupon · 3 maç, oran 15,22
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ✅ 02.11 16:00 Tenerife – FC Andorra · En çok korner 2 · @2.59 · korner 0-3
-- ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.49
-- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.36
+- ❌ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.49 · korner 8-1
+- ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.36 · korner 3-3
 
 ## 01.11 22:56 gönderilen kupon · 3 maç, oran 20,56
 

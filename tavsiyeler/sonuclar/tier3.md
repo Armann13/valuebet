@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**225/521 tuttu** (isabet %43, beklenen %42) · -28.85 birim · 60 tahmin sonuç bekliyor
+**235/547 tuttu** (isabet %43, beklenen %42) · -30.69 birim · 34 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -74,48 +74,48 @@
 
 **22:45 · Queens Park Rangers – Burnley**
 
-- ⏳ ↳ MS 1 · @1.87
+- ❌ ↳ MS 1 · @1.87 · 1-1
 
 **22:45 · Derby County – Norwich City**
 
-- ⏳ ↳ MS 2 · @1.95
-- ⏳ ↳ Korner 8.5 Alt · @2.20
+- ✅ ↳ MS 2 · @1.95 · 0-4
+- ❌ ↳ Korner 8.5 Alt · @2.20 · korner 4-5
 
 **22:45 · Preston – Sheffield United**
 
-- ⏳ ↳ MS 2 · @1.97
-- ⏳ ↳ Korner 9.5 Alt · @2.20
+- ✅ ↳ MS 2 · @1.97 · 2-3
+- ✅ ↳ Korner 9.5 Alt · @2.20 · korner 3-3
 
 **22:45 · Charlton – Bolton**
 
-- ⏳ ↳ MS 1 · @2.08
+- ❌ ↳ MS 1 · @2.08 · 0-1
 
 **22:45 · Northampton – Oldham**
 
-- ⏳ ↳ MS 1 · @2.12
+- ❌ ↳ MS 1 · @2.12 · 0-1
 
 **22:45 · Watford – Lincoln City**
 
-- ⏳ ↳ MS 1 · @2.23
-- ⏳ ↳ MS 2 · @2.38
+- ✅ ↳ MS 1 · @2.23 · 1-0
+- ❌ ↳ MS 2 · @2.38 · 1-0
 
 **22:45 · Blackburn Rovers – Stoke City**
 
-- ⏳ ↳ MS 2 · @2.44
+- ✅ ↳ MS 2 · @2.44 · 1-2
 
 **22:45 · Portsmouth – Swansea City**
 
-- ⏳ ↳ MS 1 · @2.44
-- ⏳ ↳ MS 2 · @2.45
+- ✅ ↳ MS 1 · @2.44 · 3-1
+- ❌ ↳ MS 2 · @2.45 · 3-1
 
 **22:45 · Huddersfield – Luton Town**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.56
+- ❌ ↳ MS 1 & 2.5 Üst · @2.56 · 1-1
 
 **22:45 · Wigan Athletic – Mansfield**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.86
-- ⏳ ↳ MS 2 · @1.93
+- ❌ ↳ MS 2 & 2.5 Üst · @2.86 · 0-0
+- ❌ ↳ MS 2 · @1.93 · 0-0
 
 **23:00 · Feyenoord – Inter**
 
@@ -123,33 +123,33 @@
 
 **23:00 · Bodo Glimt – Lille**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.27
+- ❌ ↳ MS 1 & 2.5 Üst · @2.27 · 0-0
 
 **23:00 · LASK – Slovan Bratislava**
 
-- ⏳ ↳ MS 1 & KG Var · @2.31
+- ❌ ↳ MS 1 & KG Var · @2.31 · 4-0
 
 **23:00 · Villarreal – Paris Saint Germain**
 
-- ⏳ ↳ MS 2 & KG Var · @2.36
+- ❌ ↳ MS 2 & KG Var · @2.36 · 0-6
 
 **23:00 · West Bromwich – Southampton**
 
-- ⏳ ↳ MS 1 · @2.27
+- ❌ ↳ MS 1 · @2.27 · 1-1
 
 **23:00 · Birmingham – Millwall**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.79
+- ✅ ↳ MS 1 & 2.5 Üst · @2.79 · 3-0
 
 **23:00 · Manchester United – AS Roma**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.89
-- ⏳ ↳ MS 2 · @2.50
+- ✅ ↳ MS 1 & 2.5 Üst · @2.89 · 3-2
+- ❌ ↳ MS 2 · @2.50 · 3-2
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.90
-- ⏳ ↳ MS 1 · @2.46
+- ❌ ↳ MS 2 & 2.5 Üst · @2.90 · 0-2
+- ❌ ↳ MS 1 · @2.46 · 0-2
 
 ## 02.11.2026 Pazartesi
 
@@ -159,7 +159,7 @@
 
 **19:00 · Atromitos – Volos**
 
-- ⏳ ↳ İY/MS 1/1 · @2.64
+- ✅ ↳ İY/MS 1/1 · @2.64 · İY 1-0, MS 3-0
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
@@ -172,7 +172,7 @@
 
 **20:30 · Real Valladolid – Leganes**
 
-- ⏳ ↳ İY/MS 1/1 · @2.61
+- ✅ ↳ İY/MS 1/1 · @2.61 · İY 3-1, MS 4-3
 
 **20:30 · Sassuolo – Fiorentina**
 

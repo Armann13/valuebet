@@ -2,30 +2,30 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/13 tuttu** (isabet %31, beklenen %54) · -5.46 birim · 5 tahmin sonuç bekliyor
+**4/18 tuttu** (isabet %22, beklenen %53) · -10.46 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 03.11 20:11 gönderilen kupon · 2 maç, oran 3,82
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
-- ⏳ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18
-- ⏳ 03.11 23:00 Barcelona – Aston Villa · MS 1 & KG Var · @1.75
+- ❌ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18 · korner 4-5
+- ❌ 03.11 23:00 Barcelona – Aston Villa · MS 1 & KG Var · @1.75 · 3-0
 
 ## 03.11 09:58 gönderilen kupon · 2 maç, oran 5,45
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
-- ⏳ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18
-- ⏳ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.50
+- ❌ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18 · korner 4-5
+- ❌ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.50 · korner 8-1
 
 ## 02.11 14:25 gönderilen kupon · 2 maç, oran 3,88
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
 - ❌ 02.11 20:00 Gençlerbirliği – Alanyaspor · En çok korner 2 · @1.78 · korner 3-1
-- ⏳ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18
+- ❌ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18 · korner 4-5
 
 ## 01.11 22:56 gönderilen kupon · 2 maç, oran 3,84
 

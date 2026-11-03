@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**414/798 tuttu** (isabet %52, beklenen %59) · -137.40 birim · 91 tahmin sonuç bekliyor
+**435/838 tuttu** (isabet %52, beklenen %59) · -146.59 birim · 51 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -93,51 +93,51 @@
 
 **22:45 · Charlton – Bolton**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.64
+- ✅ 🟢 Korner 12.5 Alt · @1.21 · korner 4-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.64 · korner 4-3
 
 **22:45 · Queens Park Rangers – Burnley**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
-- ⏳ 3 En çok korner 2 · @2.49
-- ⏳ 3 En çok korner 2 · @2.52
-- ⏳ 2 En çok korner 2 · @2.50
-- ⏳ 3 En çok korner 2 · @2.46
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 8-1
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 8-1
+- ❌ 3 En çok korner 2 · @2.49 · korner 8-1
+- ❌ 3 En çok korner 2 · @2.52 · korner 8-1
+- ❌ 2 En çok korner 2 · @2.50 · korner 8-1
+- ❌ 3 En çok korner 2 · @2.46 · korner 8-1
 
 **22:45 · Blackburn Rovers – Stoke City**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.43
+- ✅ 🟢 Korner 12.5 Alt · @1.24 · korner 6-5
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.43 · korner 6-5
 
 **22:45 · Watford – Lincoln City**
 
-- ⏳ 🟢 En çok korner 1 · @1.77
+- ✅ 🟢 En çok korner 1 · @1.77 · korner 7-6
 
 **22:45 · Portsmouth – Swansea City**
 
-- ⏳ 🟡 En çok korner 1 · @1.66
+- ❌ 🟡 En çok korner 1 · @1.66 · korner 5-5
 
 **22:45 · Preston – Sheffield United**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.73
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.20
-- ⏳ 3 En çok korner 1 · @2.36
-- ⏳ 3 En çok korner 1 · @2.43
-- ⏳ 3 En çok korner 1 · @2.43
-- ⏳ 3 En çok korner 1 · @2.43
+- ✅ 🟡 Korner 10.5 Alt · @1.73 · korner 3-3
+- ✅ 🔴 ↳ Korner 9.5 Alt · @2.20 · korner 3-3
+- ❌ 3 En çok korner 1 · @2.36 · korner 3-3
+- ❌ 3 En çok korner 1 · @2.43 · korner 3-3
+- ❌ 3 En çok korner 1 · @2.43 · korner 3-3
+- ❌ 3 En çok korner 1 · @2.43 · korner 3-3
 
 **22:45 · Derby County – Norwich City**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.71
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.20
-- ⏳ 2 En çok korner 1 · @2.18
-- ⏳ 2 En çok korner 1 · @2.18
-- ⏳ 2 En çok korner 1 · @2.18
+- ✅ 🟡 Korner 9.5 Alt · @1.71 · korner 4-5
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.20 · korner 4-5
+- ❌ 2 En çok korner 1 · @2.18 · korner 4-5
+- ❌ 2 En çok korner 1 · @2.18 · korner 4-5
+- ❌ 2 En çok korner 1 · @2.18 · korner 4-5
 
 **23:00 · LASK – Slovan Bratislava**
 
-- ⏳ 🟢 En çok korner 1 · @1.21
+- ✅ 🟢 En çok korner 1 · @1.21 · korner 8-2
 
 **23:00 · Feyenoord – Inter**
 
@@ -148,40 +148,40 @@
 
 **23:00 · Villarreal – Paris Saint Germain**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ❌ 🟢 Korner 11.5 Alt · @1.25 · korner 4-8
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 4-8
 
 **23:00 · Manchester United – AS Roma**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+- ❌ 🟢 Korner 7.5 Üst · @1.25 · korner 3-1
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.49 · korner 3-1
 
 **23:00 · West Bromwich – Southampton**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.27
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.48
+- ✅ 🟢 Korner 12.5 Alt · @1.27 · korner 3-5
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.48 · korner 3-5
 
 **23:00 · Barcelona – Aston Villa**
 
-- ⏳ 🟢 Korner 8.5 Üst · @1.28
-- ⏳ 🟡 ↳ Korner 9.5 Üst · @1.53
+- ✅ 🟢 Korner 8.5 Üst · @1.28 · korner 4-8
+- ✅ 🟡 ↳ Korner 9.5 Üst · @1.53 · korner 4-8
 
 **23:00 · Birmingham – Millwall**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.62
+- ✅ 🟢 Korner 12.5 Alt · @1.20 · korner 6-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.62 · korner 6-2
 
 **23:00 · Bodo Glimt – Lille**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.30
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.53
+- ✅ 🟢 Korner 11.5 Alt · @1.30 · korner 3-4
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.53 · korner 3-4
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.30
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.53
-- ⏳ 🟢 Korner 8.5 Üst · @1.29
-- ⏳ 🟡 ↳ Korner 9.5 Üst · @1.53
+- ✅ 🟢 Korner 11.5 Alt · @1.30 · korner 4-4
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.53 · korner 4-4
+- ❌ 🟢 Korner 8.5 Üst · @1.29 · korner 4-4
+- ❌ 🟡 ↳ Korner 9.5 Üst · @1.53 · korner 4-4
 
 ## 02.11.2026 Pazartesi
 

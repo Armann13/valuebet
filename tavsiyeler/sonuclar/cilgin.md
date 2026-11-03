@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/81 tuttu** (isabet %15, beklenen %14) · +120.91 birim · 17 tahmin sonuç bekliyor
+**12/83 tuttu** (isabet %14, beklenen %14) · +118.91 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -39,12 +39,12 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 01.11 22:56 gönderilen kupon · 4 maç, oran 586.445,40
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
 - ❌ 01.11 23:00 Athletic Bilbao – Real Sociedad · İY/MS 1/2 · @36.00 · İY 2-1, MS 2-1
-- ⏳ 02.11 20:30 Sassuolo – Fiorentina · İY/MS 1/2 · @24.35
-- ❌ 02.11 20:30 PAE PS Kalamata – POT Iraklis · İY/MS 2/1 · @30.00
-- ⏳ 02.11 23:15 Benfica – Alverca FC · İY/MS 2/1 · @22.30
+- ❌ 02.11 20:30 Sassuolo – Fiorentina · İY/MS 1/2 · @24.35 · İY 1-1, MS 2-4
+- ❌ 02.11 20:30 PAE PS Kalamata – POT Iraklis · İY/MS 2/1 · @30.00 · İY 0-0, MS 1-1
+- ❌ 02.11 23:15 Benfica – Alverca FC · İY/MS 2/1 · @22.30 · İY 0-0, MS 1-0
 
 ## 01.11 09:20 gönderilen kupon · 6 maç, oran 608.350,34
 

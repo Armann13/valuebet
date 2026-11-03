@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/614 tuttu** (isabet %10, beklenen %11) · -179.77 birim · 59 tahmin sonuç bekliyor
+**60/637 tuttu** (isabet %9, beklenen %11) · -202.77 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -72,57 +72,57 @@
 
 **22:45 · Queens Park Rangers – Burnley**
 
-- ⏳ 2-1 · @7.70
+- ❌ 2-1 · @7.70 · 1-1
 
 **22:45 · Wigan Athletic – Mansfield**
 
-- ⏳ 1-2 · @6.91
+- ❌ 1-2 · @6.91 · 0-0
 
 **22:45 · Northampton – Oldham**
 
-- ⏳ 1-0 · @5.94
+- ❌ 1-0 · @5.94 · 0-1
 
 **22:45 · Derby County – Norwich City**
 
-- ⏳ 1-2 · @7.84
+- ❌ 1-2 · @7.84 · 0-4
 
 **22:45 · Huddersfield – Luton Town**
 
-- ⏳ 2-1 · @6.86
+- ❌ 2-1 · @6.86 · 1-1
 
 **22:45 · Blackburn Rovers – Stoke City**
 
-- ⏳ 0-1 · @7.12
+- ❌ 0-1 · @7.12 · 1-2
 
 **22:45 · Preston – Sheffield United**
 
-- ⏳ 1-2 · @7.85
+- ❌ 1-2 · @7.85 · 2-3
 
 **22:45 · Charlton – Bolton**
 
-- ⏳ 2-1 · @8.10
+- ❌ 2-1 · @8.10 · 0-1
 
 **22:45 · Portsmouth – Swansea City**
 
-- ⏳ 1-0 · @7.49
-- ⏳ 0-1 · @6.78
+- ❌ 1-0 · @7.49 · 3-1
+- ❌ 0-1 · @6.78 · 3-1
 
 **22:45 · Watford – Lincoln City**
 
-- ⏳ 2-1 · @8.40
-- ⏳ 1-2 · @8.78
+- ❌ 2-1 · @8.40 · 1-0
+- ❌ 1-2 · @8.78 · 1-0
 
 **23:00 · Birmingham – Millwall**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 3-0
 
 **23:00 · West Bromwich – Southampton**
 
-- ⏳ 2-1 · @8.47
+- ❌ 2-1 · @8.47 · 1-1
 
 **23:00 · Bodo Glimt – Lille**
 
-- ⏳ 2-1 · @7.75
+- ❌ 2-1 · @7.75 · 0-0
 
 **23:00 · Feyenoord – Inter**
 
@@ -130,26 +130,26 @@
 
 **23:00 · LASK – Slovan Bratislava**
 
-- ⏳ 2-1 · @7.67
-- ⏳ 3-1 · @8.76
+- ❌ 2-1 · @7.67 · 4-0
+- ❌ 3-1 · @8.76 · 4-0
 
 **23:00 · Villarreal – Paris Saint Germain**
 
-- ⏳ 1-2 · @7.82
+- ❌ 1-2 · @7.82 · 0-6
 
 **23:00 · Manchester United – AS Roma**
 
-- ⏳ 2-1 · @8.32
-- ⏳ 1-2 · @9.16
+- ❌ 2-1 · @8.32 · 3-2
+- ❌ 1-2 · @9.16 · 3-2
 
 **23:00 · Atletico Madrid – Bayern Münih**
 
-- ⏳ 1-2 · @8.84
-- ⏳ 2-1 · @9.25
+- ❌ 1-2 · @8.84 · 0-2
+- ❌ 2-1 · @9.25 · 0-2
 
 **23:00 · Barcelona – Aston Villa**
 
-- ⏳ 3-1 · @8.69
+- ❌ 3-1 · @8.69 · 3-0
 
 ## 02.11.2026 Pazartesi
 
