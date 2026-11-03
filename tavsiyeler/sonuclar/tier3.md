@@ -2,9 +2,65 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**225/520 tuttu** (isabet %43, beklenen %42) · -27.85 birim · 42 tahmin sonuç bekliyor
+**225/520 tuttu** (isabet %43, beklenen %42) · -27.85 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 04.11.2026 Çarşamba
+
+**18:30 · Rennes – Olympiacos**
+
+- ⏳ ↳ MS 1 · @2.08
+
+**20:45 · AEK Athens – Real Madrid**
+
+- ⏳ ↳ MS 2 & KG Var · @2.12
+
+**20:45 · Fenerbahçe – Liverpool**
+
+- ⏳ ↳ MS 2 & KG Var · @2.54
+
+**22:30 · Kortrijk – Mechelen**
+
+- ⏳ ↳ MS 2 · @2.41
+- ⏳ ↳ Korner 8.5 Alt · @2.36
+
+**22:45 · Cardiff City – West Ham**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.38
+
+**22:45 · Wrexham – Middlesbrough**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.34
+
+**23:00 · Bristol City – Wolverhampton**
+
+- ⏳ ↳ MS 2 · @1.94
+- ⏳ ↳ Korner 9.5 Alt · @1.98
+
+**23:00 · B. Dortmund – Real Betis**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.14
+
+**23:00 · Leipzig – Manchester City**
+
+- ⏳ ↳ MS 2 & KG Var · @2.32
+
+**23:00 · Viking – Sabah**
+
+- ⏳ ↳ MS 1 & KG Var · @2.36
+
+**23:00 · PSV – Club Brugge**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.36
+
+**23:00 · Porto – Napoli**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.71
+
+**23:00 · RC Lens – Como 1907**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.82
 
 ## 03.11.2026 Salı
 
@@ -49,6 +105,7 @@
 **22:45 · Portsmouth – Swansea City**
 
 - ⏳ ↳ MS 1 · @2.44
+- ⏳ ↳ MS 2 · @2.45
 
 **22:45 · Huddersfield – Luton Town**
 
@@ -57,6 +114,7 @@
 **22:45 · Wigan Athletic – Mansfield**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.86
+- ⏳ ↳ MS 2 · @1.93
 
 **23:00 · Feyenoord – Inter**
 
@@ -90,6 +148,7 @@
 **23:00 · Atletico Madrid – Bayern Münih**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.90
+- ⏳ ↳ MS 1 · @2.46
 
 ## 02.11.2026 Pazartesi
 

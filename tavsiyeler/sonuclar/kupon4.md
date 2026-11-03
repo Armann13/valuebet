@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/35 tuttu** (isabet %34, beklenen %35) · +1.31 birim · 5 tahmin sonuç bekliyor
+**12/35 tuttu** (isabet %34, beklenen %35) · +1.31 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 03.11 09:58 gönderilen kupon · 4 maç, oran 29,67
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.43
+- ⏳ 03.11 23:00 Feyenoord – Inter · MS 2 & 2.5 Üst · @2.23
+- ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.32
+- ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.36
 
 ## 02.11 19:38 gönderilen kupon · 4 maç, oran 35,96
 

@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/23 tuttu** (isabet %22, beklenen %39) · -8.80 birim · 4 tahmin sonuç bekliyor
+**5/23 tuttu** (isabet %22, beklenen %39) · -8.80 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 03.11 09:58 gönderilen kupon · 3 maç, oran 15,89
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43
+- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92
+- ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
 
 ## 02.11 19:38 gönderilen kupon · 3 maç, oran 17,70
 

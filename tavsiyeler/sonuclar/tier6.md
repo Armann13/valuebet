@@ -2,9 +2,63 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/613 tuttu** (isabet %10, beklenen %11) · -178.77 birim · 43 tahmin sonuç bekliyor
+**60/613 tuttu** (isabet %10, beklenen %11) · -178.77 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 04.11.2026 Çarşamba
+
+**18:30 · Rennes – Olympiacos**
+
+- ⏳ 2-1 · @8.08
+
+**20:45 · Fenerbahçe – Liverpool**
+
+- ⏳ 1-2 · @7.42
+
+**20:45 · AEK Athens – Real Madrid**
+
+- ⏳ 1-3 · @8.64
+
+**22:30 · Kortrijk – Mechelen**
+
+- ⏳ 1-2 · @8.75
+
+**22:45 · Cardiff City – West Ham**
+
+- ⏳ 1-2 · @8.28
+
+**22:45 · Oxford – Reading**
+
+- ⏳ 2-1 · @7.74
+
+**23:00 · Bristol City – Wolverhampton**
+
+- ⏳ 1-2 · @7.84
+
+**23:00 · B. Dortmund – Real Betis**
+
+- ⏳ 2-1 · @7.50
+
+**23:00 · Porto – Napoli**
+
+- ⏳ 2-1 · @7.64
+
+**23:00 · Viking – Sabah**
+
+- ⏳ 2-1 · @7.65
+
+**23:00 · RC Lens – Como 1907**
+
+- ⏳ 1-2 · @8.15
+
+**23:00 · Leipzig – Manchester City**
+
+- ⏳ 1-2 · @7.81
+
+**23:00 · PSV – Club Brugge**
+
+- ⏳ 2-1 · @8.55
 
 ## 03.11.2026 Salı
 
@@ -51,6 +105,7 @@
 **22:45 · Portsmouth – Swansea City**
 
 - ⏳ 1-0 · @7.49
+- ⏳ 0-1 · @6.78
 
 **22:45 · Watford – Lincoln City**
 
@@ -75,6 +130,7 @@
 **23:00 · LASK – Slovan Bratislava**
 
 - ⏳ 2-1 · @7.67
+- ⏳ 3-1 · @8.76
 
 **23:00 · Villarreal – Paris Saint Germain**
 
@@ -88,6 +144,7 @@
 **23:00 · Atletico Madrid – Bayern Münih**
 
 - ⏳ 1-2 · @8.84
+- ⏳ 2-1 · @9.25
 
 **23:00 · Barcelona – Aston Villa**
 
