@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**118/369 tuttu** (isabet %32, beklenen %29) · -11.68 birim · 44 tahmin sonuç bekliyor
+**118/370 tuttu** (isabet %32, beklenen %29) · -12.68 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,6 +27,7 @@
 **22:45 · Oxford – Reading**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.52
+- ⏳ ↳ MS 1 & KG Var · @4.14
 
 **23:00 · PSV – Club Brugge**
 
@@ -57,11 +58,12 @@
 
 **20:45 · Galatasaray – Stuttgart**
 
-- ⏳ ↳ MS 1 & KG Var · @3.17
+- ❌ ↳ MS 1 & KG Var · @3.17 · 2-0
 
 **22:45 · Queens Park Rangers – Burnley**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.75
+- ⏳ ↳ MS 1 & KG Var · @3.49
 
 **22:45 · Derby County – Norwich City**
 
@@ -70,6 +72,7 @@
 **22:45 · Preston – Sheffield United**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.02
+- ⏳ ↳ MS 2 & KG Var · @3.74
 
 **22:45 · Charlton – Bolton**
 
@@ -82,6 +85,7 @@
 **22:45 · Watford – Lincoln City**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.58
+- ⏳ ↳ MS 2 & 2.5 Üst · @4.01
 
 **22:45 · Wigan Athletic – Mansfield**
 

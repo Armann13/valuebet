@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**344/602 tuttu** (isabet %57, beklenen %60) · -71.53 birim · 65 tahmin sonuç bekliyor
+**345/603 tuttu** (isabet %57, beklenen %60) · -71.07 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -82,11 +82,12 @@
 
 **20:45 · Galatasaray – Stuttgart**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.46
+- ✅ ↳ Korner 10.5 Alt · @1.46 · korner 6-4
 
 **22:45 · Huddersfield – Luton Town**
 
 - ⏳ 2.5 Üst · @1.44
+- ⏳ MS 1 · @1.75
 
 **22:45 · Wigan Athletic – Mansfield**
 
@@ -158,6 +159,7 @@
 
 - ⏳ ↳ Korner 10.5 Alt · @1.53
 - ⏳ ÇŞ 1-X · @1.45
+- ⏳ ↳ Korner 9.5 Üst · @1.53
 
 **23:00 · Feyenoord – Inter**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**225/520 tuttu** (isabet %43, beklenen %42) · -27.85 birim · 60 tahmin sonuç bekliyor
+**225/521 tuttu** (isabet %43, beklenen %42) · -28.85 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -70,7 +70,7 @@
 
 **20:45 · Galatasaray – Stuttgart**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.64
+- ❌ ↳ MS 1 & 2.5 Üst · @2.64 · 2-0
 
 **22:45 · Queens Park Rangers – Burnley**
 
@@ -97,6 +97,7 @@
 **22:45 · Watford – Lincoln City**
 
 - ⏳ ↳ MS 1 · @2.23
+- ⏳ ↳ MS 2 · @2.38
 
 **22:45 · Blackburn Rovers – Stoke City**
 

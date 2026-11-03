@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/13 tuttu** (isabet %31, beklenen %54) · -5.46 birim · 3 tahmin sonuç bekliyor
+**4/13 tuttu** (isabet %31, beklenen %54) · -5.46 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 03.11 20:11 gönderilen kupon · 2 maç, oran 3,82
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 03.11 22:45 Derby County – Norwich City · En çok korner 1 · @2.18
+- ⏳ 03.11 23:00 Barcelona – Aston Villa · MS 1 & KG Var · @1.75
 
 ## 03.11 09:58 gönderilen kupon · 2 maç, oran 5,45
 

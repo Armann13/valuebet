@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**412/796 tuttu** (isabet %52, beklenen %59) · -138.11 birim · 86 tahmin sonuç bekliyor
+**414/798 tuttu** (isabet %52, beklenen %59) · -137.40 birim · 91 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,6 +32,7 @@
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.20
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
+- ⏳ 3 En çok korner 1 · @2.92
 - ⏳ 3 En çok korner 1 · @2.92
 
 **22:45 · Cardiff City – West Ham**
@@ -76,6 +77,7 @@
 - ⏳ 🟡 Korner 10.5 Alt · @1.59
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
 - ⏳ 3 En çok korner 1 · @2.24
+- ⏳ 4 En çok korner 1 · @2.24
 
 ## 03.11.2026 Salı
 
@@ -86,8 +88,8 @@
 
 **20:45 · Galatasaray – Stuttgart**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.46
+- ✅ 🟢 Korner 11.5 Alt · @1.25 · korner 6-4
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.46 · korner 6-4
 
 **22:45 · Charlton – Bolton**
 
@@ -101,6 +103,7 @@
 - ⏳ 3 En çok korner 2 · @2.49
 - ⏳ 3 En çok korner 2 · @2.52
 - ⏳ 2 En çok korner 2 · @2.50
+- ⏳ 3 En çok korner 2 · @2.46
 
 **22:45 · Blackburn Rovers – Stoke City**
 
@@ -122,11 +125,13 @@
 - ⏳ 3 En çok korner 1 · @2.36
 - ⏳ 3 En çok korner 1 · @2.43
 - ⏳ 3 En çok korner 1 · @2.43
+- ⏳ 3 En çok korner 1 · @2.43
 
 **22:45 · Derby County – Norwich City**
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.71
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.20
+- ⏳ 2 En çok korner 1 · @2.18
 - ⏳ 2 En çok korner 1 · @2.18
 - ⏳ 2 En çok korner 1 · @2.18
 
@@ -175,6 +180,8 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.30
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.53
+- ⏳ 🟢 Korner 8.5 Üst · @1.29
+- ⏳ 🟡 ↳ Korner 9.5 Üst · @1.53
 
 ## 02.11.2026 Pazartesi
 

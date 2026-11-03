@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**267/370 tuttu** (isabet %72, beklenen %74) · -41.73 birim · 64 tahmin sonuç bekliyor
+**268/373 tuttu** (isabet %72, beklenen %74) · -43.48 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,6 +21,7 @@
 **20:45 · Fenerbahçe – Liverpool**
 
 - ⏳ Korner 11.5 Alt · @1.25
+- ⏳ 2.5 Üst · @1.31
 
 **22:30 · Kortrijk – Mechelen**
 
@@ -76,11 +77,13 @@
 
 - ⏳ ÇŞ X-2 · @1.20
 - ⏳ Korner 7.5 Üst · @1.28
+- ⏳ ÇŞ 1-2 · @1.20
 
 **20:45 · Galatasaray – Stuttgart**
 
-- ⏳ 2.5 Üst · @1.31
-- ⏳ Korner 11.5 Alt · @1.25
+- ❌ 2.5 Üst · @1.31 · 2-0
+- ✅ Korner 11.5 Alt · @1.25 · korner 6-4
+- ❌ KG Var · @1.20 · 2-0
 
 **22:45 · Preston – Sheffield United**
 
@@ -117,6 +120,7 @@
 **22:45 · Derby County – Norwich City**
 
 - ⏳ ÇŞ X-2 · @1.24
+- ⏳ ÇŞ 1-2 · @1.20
 
 **22:45 · Wigan Athletic – Mansfield**
 
@@ -153,6 +157,7 @@
 - ⏳ 2.5 Üst · @1.32
 - ⏳ Korner 11.5 Alt · @1.30
 - ⏳ KG Var · @1.30
+- ⏳ Korner 8.5 Üst · @1.29
 
 **23:00 · Manchester United – AS Roma**
 

@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/35 tuttu** (isabet %34, beklenen %35) · +1.31 birim · 9 tahmin sonuç bekliyor
+**12/36 tuttu** (isabet %33, beklenen %35) · +0.31 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 03.11 20:11 gönderilen kupon · 4 maç, oran 32,37
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 03.11 20:45 Galatasaray – Stuttgart · MS 1 & KG Var · @2.61 · 2-0
+- ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.45
+- ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
+- ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.26
 
 ## 03.11 09:58 gönderilen kupon · 4 maç, oran 29,67
 
