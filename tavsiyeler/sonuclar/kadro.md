@@ -6,12 +6,21 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 788 | 787 | 399 | -41.57 |
-| sonra | 687 | 686 | 325 | -76.18 |
+| önce | 793 | 787 | 399 | -41.57 |
+| sonra | 691 | 686 | 325 | -76.18 |
 
-Değişen tahmin: 146 (146 sonuçlandı: eski 111, yeni 77 tuttu).
+Değişen tahmin: 148 (146 sonuçlandı: eski 111, yeni 77 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 03.11 · Galatasaray – Stuttgart
+
+Kadro mesajı: 03.11 19:56
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.31, ⏳ Korner 11.5 Alt @1.25 → ⏳ KG Var @1.21, ⏳ Korner 11.5 Alt @1.29 (değişti)
+- 🟡 Tier 2: ⏳ Korner 10.5 Alt @1.46 → ⏳ Korner 10.5 Alt @1.51 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.64 → ⏳ MS 1 & KG Var @2.68 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.17 → — (kalktı)
 
 ## 02.11 · Benfica – Alverca FC
 
