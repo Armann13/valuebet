@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/30 tuttu** (isabet %17, beklenen %39) · -15.80 birim · 3 tahmin sonuç bekliyor
+**5/30 tuttu** (isabet %17, beklenen %39) · -15.80 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 04.11 17:55 gönderilen kupon · 3 maç, oran 13,17
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 04.11 20:45 Fenerbahçe – Liverpool · MS 2 & KG Var · @2.18
+- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.89
+- ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.09
 
 ## 03.11 20:11 gönderilen kupon · 3 maç, oran 17,46
 

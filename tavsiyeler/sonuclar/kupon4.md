@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/43 tuttu** (isabet %28, beklenen %36) · -6.69 birim · 5 tahmin sonuç bekliyor
+**12/43 tuttu** (isabet %28, beklenen %36) · -6.69 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 04.11 17:55 gönderilen kupon · 4 maç, oran 45,79
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20
+- ⏳ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.67
+- ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.30
+- ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33
 
 ## 03.11 20:11 gönderilen kupon · 4 maç, oran 32,37
 

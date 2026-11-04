@@ -6,12 +6,28 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 894 | 892 | 451 | -58.82 |
-| sonra | 767 | 766 | 367 | -83.47 |
+| önce | 905 | 892 | 451 | -58.82 |
+| sonra | 775 | 766 | 367 | -83.47 |
 
-Değişen tahmin: 177 (176 sonuçlandı: eski 131, yeni 91 tuttu).
+Değişen tahmin: 180 (176 sonuçlandı: eski 131, yeni 91 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 04.11 · AEK Athens – Real Madrid
+
+Kadro mesajı: 04.11 19:56
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.21, ⏳ Korner 11.5 Alt @1.21 → ⏳ MS 2 & 2.5 Üst @1.35, ⏳ Korner 11.5 Alt @1.22 (değişti)
+- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.41, ⏳ Korner 10.5 Alt @1.40 → ⏳ Korner 10.5 Alt @1.41 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.12 → ⏳ MS 2 & KG Var @2.11 (aynı)
+
+## 04.11 · Fenerbahçe – Liverpool
+
+Kadro mesajı: 04.11 19:56
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.25, ⏳ 2.5 Üst @1.31, ⏳ MS 2 @1.32 → ⏳ Korner 11.5 Alt @1.23 (değişti)
+- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.85, ⏳ Korner 10.5 Alt @1.46 → ⏳ MS 2 & 2.5 Üst @1.89, ⏳ Korner 10.5 Alt @1.42 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.54 → ⏳ MS 2 & KG Var @2.52 (aynı)
 
 ## 03.11 · Bodo Glimt – Lille
 

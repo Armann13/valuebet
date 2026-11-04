@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/75 tuttu** (isabet %17, beklenen %16) · -4.01 birim · 2 tahmin sonuç bekliyor
+**13/75 tuttu** (isabet %17, beklenen %16) · -4.01 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11.2026 Perşembe
+
+**20:45 · Lincoln Red – Hajduk Split**
+
+- ⏳ 0-2 · @5.52
+
+**23:00 · Kopenhag – FC Iberia 1999**
+
+- ⏳ 3-0 · @5.93
+
+**23:00 · Getafe – Brighton**
+
+- ⏳ 0-1 · @5.50
+
+**23:00 · Un. Craiova – KF Egnatia Rrogozhine**
+
+- ⏳ 2-0 · @5.91
+
+**23:00 · Torreense – Ararat**
+
+- ⏳ 1-0 · @5.80
 
 ## 04.11.2026 Çarşamba
 

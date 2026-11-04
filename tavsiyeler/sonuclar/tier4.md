@@ -2,9 +2,95 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**122/390 tuttu** (isabet %31, beklenen %29) · -19.54 birim · 27 tahmin sonuç bekliyor
+**122/390 tuttu** (isabet %31, beklenen %29) · -19.54 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11.2026 Perşembe
+
+**20:45 · Sparta Prag – Bournemouth**
+
+- ⏳ ↳ MS 2 & KG Var · @2.72
+
+**20:45 · Real Sociedad – Lyon**
+
+- ⏳ ↳ MS 1 & KG Var · @2.99
+
+**20:45 · Crystal Palace – Hoffenheim**
+
+- ⏳ ↳ MS 1 & KG Var · @3.03
+
+**20:45 · NEC Nijmegen – Omonia**
+
+- ⏳ ↳ MS 1 & KG Var · @3.03
+
+**20:45 · AGF Aarhus – Braga**
+
+- ⏳ ↳ İY/MS 2/2 · @2.86
+
+**20:45 · Anderlecht – Salzburg**
+
+- ⏳ ↳ MS 1 & KG Var · @3.20
+
+**20:45 · Midtjylland – Ajax**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.34
+
+**20:45 · Thun – Hearts**
+
+- ⏳ ↳ MS 1 & KG Var · @3.45
+
+**20:45 · Lillestrom – Viktoria Plzen**
+
+- ⏳ ↳ MS 2 & KG Var · @3.46
+
+**20:45 · Mjallby – Banja Luka**
+
+- ⏳ ↳ İY/MS 1/1 · @3.32
+
+**20:45 · Trabzonspor – Freiburg**
+
+- ⏳ ↳ MS 1 & KG Var · @3.66
+
+**20:45 · Levski Sofya – Jagiellonia Bialystok**
+
+- ⏳ ↳ MS 1 & KG Var · @3.69
+
+**23:00 · Sturm Graz – NK Celje**
+
+- ⏳ ↳ MS 1 & KG Var · @2.69
+
+**23:00 · Hapoel Beer Sheva – Ofi Crete**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.76
+
+**23:00 · St. Truidense – Brann**
+
+- ⏳ ↳ MS 1 & KG Var · @2.87
+
+**23:00 · Sunderland – Dinamo Zagreb**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**23:00 · Panathinaikos – CSKA Sofya**
+
+- ⏳ ↳ MS 1 & KG Var · @2.91
+
+**23:00 · Celtic – Beşiktaş**
+
+- ⏳ ↳ MS 2 & KG Var · @3.36
+
+**23:00 · Riga FC – Jablonec**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.48
+
+**23:00 · AZ Alkmaar – Juventus**
+
+- ⏳ ↳ MS 2 & KG Var · @3.66
+
+**23:00 · Celta Vigo – Union Saint Gilloise**
+
+- ⏳ ↳ MS 1 & KG Var · @3.82
 
 ## 04.11.2026 Çarşamba
 
@@ -15,6 +101,7 @@
 **22:30 · Kortrijk – Mechelen**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.79
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.22
 
 **22:45 · Wrexham – Middlesbrough**
 
@@ -23,6 +110,7 @@
 **22:45 · Cardiff City – West Ham**
 
 - ⏳ ↳ MS 2 & KG Var · @2.92
+- ⏳ ↳ MS 1 & 2.5 Üst · @4.12
 
 **22:45 · Oxford – Reading**
 

@@ -2,9 +2,123 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/637 tuttu** (isabet %9, beklenen %11) · -202.77 birim · 36 tahmin sonuç bekliyor
+**60/637 tuttu** (isabet %9, beklenen %11) · -202.77 birim · 67 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11.2026 Perşembe
+
+**20:45 · Kuopion – KAA Gent**
+
+- ⏳ 0-1 · @5.89
+
+**20:45 · AGF Aarhus – Braga**
+
+- ⏳ 0-1 · @6.52
+
+**20:45 · Mjallby – Banja Luka**
+
+- ⏳ 1-0 · @6.76
+
+**20:45 · Real Sociedad – Lyon**
+
+- ⏳ 2-1 · @7.50
+
+**20:45 · NEC Nijmegen – Omonia**
+
+- ⏳ 2-1 · @7.44
+
+**20:45 · Levski Sofya – Jagiellonia Bialystok**
+
+- ⏳ 2-1 · @7.63
+
+**20:45 · Sparta Prag – Bournemouth**
+
+- ⏳ 1-2 · @7.24
+
+**20:45 · Anderlecht – Salzburg**
+
+- ⏳ 2-1 · @7.71
+
+**20:45 · Crystal Palace – Hoffenheim**
+
+- ⏳ 2-1 · @7.64
+
+**20:45 · Lillestrom – Viktoria Plzen**
+
+- ⏳ 1-2 · @8.08
+
+**20:45 · Thun – Hearts**
+
+- ⏳ 2-1 · @8.20
+
+**20:45 · Trabzonspor – Freiburg**
+
+- ⏳ 2-1 · @8.51
+
+**20:45 · AC Milan – Ferencvaros**
+
+- ⏳ 2-1 · @7.46
+
+**20:45 · Midtjylland – Ajax**
+
+- ⏳ 2-1 · @9.08
+
+**20:45 · Atalanta – K Almaty**
+
+- ⏳ 3-1 · @9.13
+
+**23:00 · St. Truidense – Brann**
+
+- ⏳ 2-1 · @7.31
+
+**23:00 · Sturm Graz – NK Celje**
+
+- ⏳ 2-1 · @7.24
+
+**23:00 · Sunderland – Dinamo Zagreb**
+
+- ⏳ 2-1 · @7.20
+
+**23:00 · Panathinaikos – CSKA Sofya**
+
+- ⏳ 2-1 · @7.21
+
+**23:00 · Hapoel Beer Sheva – Ofi Crete**
+
+- ⏳ 2-1 · @7.78
+
+**23:00 · AZ Alkmaar – Juventus**
+
+- ⏳ 1-2 · @7.61
+
+**23:00 · Monaco – Nordsjælland**
+
+- ⏳ 2-1 · @7.43
+
+**23:00 · Celta Vigo – Union Saint Gilloise**
+
+- ⏳ 2-1 · @8.03
+
+**23:00 · Celtic – Beşiktaş**
+
+- ⏳ 1-2 · @8.04
+
+**23:00 · B. Leverkusen – Marsilya**
+
+- ⏳ 2-1 · @7.45
+
+**23:00 · Riga FC – Jablonec**
+
+- ⏳ 2-1 · @8.22
+
+**23:00 · Twente – Pafos FC**
+
+- ⏳ 2-1 · @7.63
+
+**23:00 · Lugano – Zalgiris Kaunas**
+
+- ⏳ 3-1 · @8.80
 
 ## 04.11.2026 Çarşamba
 
@@ -23,10 +137,12 @@
 **22:30 · Kortrijk – Mechelen**
 
 - ⏳ 1-2 · @8.75
+- ⏳ 2-1 · @8.23
 
 **22:45 · Cardiff City – West Ham**
 
 - ⏳ 1-2 · @8.28
+- ⏳ 2-1 · @11.25
 
 **22:45 · Oxford – Reading**
 
@@ -47,6 +163,7 @@
 **23:00 · Viking – Sabah**
 
 - ⏳ 2-1 · @7.65
+- ⏳ 3-1 · @8.67
 
 **23:00 · RC Lens – Como 1907**
 
