@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**360/629 tuttu** (isabet %57, beklenen %60) · -73.11 birim · 97 tahmin sonuç bekliyor
+**363/634 tuttu** (isabet %57, beklenen %60) · -73.48 birim · 94 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -167,21 +167,22 @@
 
 **20:45 · AEK Athens – Real Madrid**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.41
-- ⏳ ↳ Korner 10.5 Alt · @1.40
+- ✅ ↳ MS 2 & 2.5 Üst · @1.41 · 2-3
+- ✅ ↳ Korner 10.5 Alt · @1.40 · korner 0-7
 
 **20:45 · Fenerbahçe – Liverpool**
 
-- ⏳ MS 2 & 2.5 Üst · @1.85
-- ⏳ ↳ Korner 10.5 Alt · @1.46
+- ❌ MS 2 & 2.5 Üst · @1.85 · 3-2
+- ❌ ↳ Korner 10.5 Alt · @1.46 · korner 4-12
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ Korner 9.5 Alt · @1.82
+- ✅ Korner 9.5 Alt · @1.82 · korner 2-4
 
 **22:45 · Oxford – Reading**
 
 - ⏳ 2.5 Üst · @1.53
+- ⏳ KG Var · @1.52
 
 **22:45 · Wrexham – Middlesbrough**
 
@@ -203,6 +204,7 @@
 **23:00 · B. Dortmund – Real Betis**
 
 - ⏳ MS 1 · @1.59
+- ⏳ ↳ Korner 10.5 Alt · @1.50
 
 **23:00 · Slavia Prag – Arsenal**
 

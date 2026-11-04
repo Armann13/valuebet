@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**235/547 tuttu** (isabet %43, beklenen %42) · -30.69 birim · 68 tahmin sonuç bekliyor
+**238/552 tuttu** (isabet %43, beklenen %42) · -28.80 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -140,17 +140,17 @@
 
 **20:45 · AEK Athens – Real Madrid**
 
-- ⏳ ↳ MS 2 & KG Var · @2.12
+- ✅ ↳ MS 2 & KG Var · @2.12 · 2-3
 
 **20:45 · Fenerbahçe – Liverpool**
 
-- ⏳ ↳ MS 2 & KG Var · @2.54
+- ❌ ↳ MS 2 & KG Var · @2.54 · 3-2
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ ↳ MS 2 · @2.41
-- ⏳ ↳ Korner 8.5 Alt · @2.36
-- ⏳ ↳ MS 1 · @2.15
+- ✅ ↳ MS 2 · @2.41 · 1-3
+- ✅ ↳ Korner 8.5 Alt · @2.36 · korner 2-4
+- ❌ ↳ MS 1 · @2.15 · 1-3
 
 **22:45 · Cardiff City – West Ham**
 

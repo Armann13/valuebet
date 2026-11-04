@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**4/18 tuttu** (isabet %22, beklenen %53) · -10.46 birim · 2 tahmin sonuç bekliyor
+**4/18 tuttu** (isabet %22, beklenen %53) · -10.46 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 04.11 20:22 gönderilen kupon · 2 maç, oran 4,82
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.22
+- ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.17
 
 ## 04.11 17:55 gönderilen kupon · 2 maç, oran 4,73
 

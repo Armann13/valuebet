@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**122/390 tuttu** (isabet %31, beklenen %29) · -19.54 birim · 50 tahmin sonuç bekliyor
+**123/392 tuttu** (isabet %31, beklenen %29) · -17.75 birim · 49 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -100,8 +100,8 @@
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.79
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.22
+- ✅ ↳ MS 2 & 2.5 Üst · @3.79 · 1-3
+- ❌ ↳ MS 1 & 2.5 Üst · @3.22 · 1-3
 
 **22:45 · Wrexham – Middlesbrough**
 
@@ -116,6 +116,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.52
 - ⏳ ↳ MS 1 & KG Var · @4.14
+- ⏳ ↳ MS X & KG Var · @3.86
 
 **23:00 · PSV – Club Brugge**
 

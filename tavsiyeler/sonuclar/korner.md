@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**435/838 tuttu** (isabet %52, beklenen %59) · -146.59 birim · 119 tahmin sonuç bekliyor
+**439/844 tuttu** (isabet %52, beklenen %59) · -145.80 birim · 117 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -177,18 +177,18 @@
 
 **20:45 · AEK Athens – Real Madrid**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 0-7
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 0-7
 
 **20:45 · Fenerbahçe – Liverpool**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.46
+- ❌ 🟢 Korner 11.5 Alt · @1.25 · korner 4-12
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.46 · korner 4-12
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.82
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.36
+- ✅ 🟡 Korner 9.5 Alt · @1.82 · korner 2-4
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.36 · korner 2-4
 
 **22:45 · Wrexham – Middlesbrough**
 
@@ -198,6 +198,7 @@
 - ⏳ 3 En çok korner 1 · @2.92
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
 - ⏳ 3 En çok korner 1 · @2.89
+- ⏳ 3 En çok korner 1 · @2.81
 
 **22:45 · Cardiff City – West Ham**
 
@@ -239,6 +240,8 @@
 **23:00 · B. Dortmund – Real Betis**
 
 - ⏳ 🟢 En çok korner 1 · @1.32
+- ⏳ 🟢 Korner 11.5 Alt · @1.28
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.50
 
 **23:00 · Bristol City – Wolverhampton**
 
@@ -246,6 +249,7 @@
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
 - ⏳ 3 En çok korner 1 · @2.24
 - ⏳ 4 En çok korner 1 · @2.24
+- ⏳ 2 En çok korner 1 · @2.22
 - ⏳ 2 En çok korner 1 · @2.22
 
 ## 03.11.2026 Salı

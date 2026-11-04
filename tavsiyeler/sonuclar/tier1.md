@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**291/402 tuttu** (isabet %72, beklenen %74) · -43.45 birim · 90 tahmin sonuç bekliyor
+**295/408 tuttu** (isabet %72, beklenen %74) · -44.50 birim · 85 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -164,18 +164,18 @@
 
 **20:45 · AEK Athens – Real Madrid**
 
-- ⏳ 2.5 Üst · @1.21
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ 2.5 Üst · @1.21 · 2-3
+- ✅ Korner 11.5 Alt · @1.21 · korner 0-7
 
 **20:45 · Fenerbahçe – Liverpool**
 
-- ⏳ Korner 11.5 Alt · @1.25
-- ⏳ 2.5 Üst · @1.31
-- ⏳ MS 2 · @1.32
+- ❌ Korner 11.5 Alt · @1.25 · korner 4-12
+- ✅ 2.5 Üst · @1.31 · 3-2
+- ❌ MS 2 · @1.32 · 3-2
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 1-3
 
 **22:45 · Cardiff City – West Ham**
 
@@ -224,6 +224,7 @@
 **23:00 · B. Dortmund – Real Betis**
 
 - ⏳ En çok korner 1 · @1.32
+- ⏳ Korner 11.5 Alt · @1.28
 
 ## 03.11.2026 Salı
 

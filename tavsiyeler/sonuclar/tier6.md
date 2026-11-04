@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/637 tuttu** (isabet %9, beklenen %11) · -202.77 birim · 67 tahmin sonuç bekliyor
+**60/641 tuttu** (isabet %9, beklenen %11) · -206.77 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -128,16 +128,16 @@
 
 **20:45 · Fenerbahçe – Liverpool**
 
-- ⏳ 1-2 · @7.42
+- ❌ 1-2 · @7.42 · 3-2
 
 **20:45 · AEK Athens – Real Madrid**
 
-- ⏳ 1-3 · @8.64
+- ❌ 1-3 · @8.64 · 2-3
 
 **22:30 · Kortrijk – Mechelen**
 
-- ⏳ 1-2 · @8.75
-- ⏳ 2-1 · @8.23
+- ❌ 1-2 · @8.75 · 1-3
+- ❌ 2-1 · @8.23 · 1-3
 
 **22:45 · Cardiff City – West Ham**
 
@@ -147,6 +147,7 @@
 **22:45 · Oxford – Reading**
 
 - ⏳ 2-1 · @7.74
+- ⏳ 1-1 · @4.75
 
 **23:00 · Bristol City – Wolverhampton**
 
