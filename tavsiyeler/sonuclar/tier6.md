@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**60/641 tuttu** (isabet %9, beklenen %11) · -206.77 birim · 64 tahmin sonuç bekliyor
+**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -141,17 +141,17 @@
 
 **22:45 · Cardiff City – West Ham**
 
-- ⏳ 1-2 · @8.28
-- ⏳ 2-1 · @11.25
+- ❌ 1-2 · @8.28 · 3-3
+- ❌ 2-1 · @11.25 · 3-3
 
 **22:45 · Oxford – Reading**
 
-- ⏳ 2-1 · @7.74
-- ⏳ 1-1 · @4.75
+- ❌ 2-1 · @7.74 · 2-0
+- ❌ 1-1 · @4.75 · 2-0
 
 **23:00 · Bristol City – Wolverhampton**
 
-- ⏳ 1-2 · @7.84
+- ✅ 1-2 · @7.84 · 1-2
 
 **23:00 · B. Dortmund – Real Betis**
 
@@ -159,24 +159,24 @@
 
 **23:00 · Porto – Napoli**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 4-1
 
 **23:00 · Viking – Sabah**
 
-- ⏳ 2-1 · @7.65
-- ⏳ 3-1 · @8.67
+- ❌ 2-1 · @7.65 · 4-1
+- ❌ 3-1 · @8.67 · 4-1
 
 **23:00 · RC Lens – Como 1907**
 
-- ⏳ 1-2 · @8.15
+- ❌ 1-2 · @8.15 · 1-9
 
 **23:00 · Leipzig – Manchester City**
 
-- ⏳ 1-2 · @7.81
+- ❌ 1-2 · @7.81 · 2-3
 
 **23:00 · PSV – Club Brugge**
 
-- ⏳ 2-1 · @8.55
+- ❌ 2-1 · @8.55 · 1-2
 
 ## 03.11.2026 Salı
 

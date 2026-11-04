@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**439/844 tuttu** (isabet %52, beklenen %59) · -145.80 birim · 117 tahmin sonuç bekliyor
+**459/873 tuttu** (isabet %53, beklenen %59) · -139.95 birim · 88 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -192,50 +192,50 @@
 
 **22:45 · Wrexham – Middlesbrough**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
-- ⏳ 3 En çok korner 1 · @2.92
-- ⏳ 3 En çok korner 1 · @2.92
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
-- ⏳ 3 En çok korner 1 · @2.89
-- ⏳ 3 En çok korner 1 · @2.81
+- ✅ 🟢 Korner 12.5 Alt · @1.20 · korner 3-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.63 · korner 3-2
+- ✅ 3 En çok korner 1 · @2.92 · korner 3-2
+- ✅ 3 En çok korner 1 · @2.92 · korner 3-2
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.98 · korner 3-2
+- ✅ 3 En çok korner 1 · @2.89 · korner 3-2
+- ✅ 3 En çok korner 1 · @2.81 · korner 3-2
 
 **22:45 · Cardiff City – West Ham**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.27
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.48
+- ✅ 🟢 Korner 12.5 Alt · @1.27 · korner 4-6
+- ✅ 🟡 ↳ Korner 11.5 Alt · @1.48 · korner 4-6
 
 **23:00 · Slavia Prag – Arsenal**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.65
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 4-2
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.65 · korner 4-2
+- ❌ 🟢 Korner 7.5 Üst · @1.20 · korner 4-2
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.41 · korner 4-2
 
 **23:00 · RC Lens – Como 1907**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.21
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
+- ✅ 🟢 Korner 7.5 Üst · @1.21 · korner 5-5
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.43 · korner 5-5
 
 **23:00 · Porto – Napoli**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.24
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.46
+- ✅ 🟢 Korner 7.5 Üst · @1.24 · korner 6-5
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.46 · korner 6-5
 
 **23:00 · PSV – Club Brugge**
 
-- ⏳ 🟢 Korner 8.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 9.5 Üst · @1.47
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
+- ✅ 🟢 Korner 8.5 Üst · @1.25 · korner 8-5
+- ✅ 🟡 ↳ Korner 9.5 Üst · @1.47 · korner 8-5
+- ❌ 🟢 Korner 12.5 Alt · @1.20 · korner 8-5
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.63 · korner 8-5
 
 **23:00 · Viking – Sabah**
 
-- ⏳ 🟢 En çok korner 1 · @1.27
+- ✅ 🟢 En çok korner 1 · @1.27 · korner 10-6
 
 **23:00 · Leipzig – Manchester City**
 
-- ⏳ 🟢 En çok korner 2 · @1.30
+- ❌ 🟢 En çok korner 2 · @1.30 · korner 5-3
 
 **23:00 · B. Dortmund – Real Betis**
 
@@ -245,12 +245,12 @@
 
 **23:00 · Bristol City – Wolverhampton**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.59
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
-- ⏳ 3 En çok korner 1 · @2.24
-- ⏳ 4 En çok korner 1 · @2.24
-- ⏳ 2 En çok korner 1 · @2.22
-- ⏳ 2 En çok korner 1 · @2.22
+- ✅ 🟡 Korner 10.5 Alt · @1.59 · korner 2-5
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.98 · korner 2-5
+- ❌ 3 En çok korner 1 · @2.24 · korner 2-5
+- ❌ 4 En çok korner 1 · @2.24 · korner 2-5
+- ❌ 2 En çok korner 1 · @2.22 · korner 2-5
+- ❌ 2 En çok korner 1 · @2.22 · korner 2-5
 
 ## 03.11.2026 Salı
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/44 tuttu** (isabet %27, beklenen %36) · -7.69 birim · 12 tahmin sonuç bekliyor
+**15/51 tuttu** (isabet %29, beklenen %36) · -7.75 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,7 +11,7 @@
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 04.11 20:45 Fenerbahçe – Liverpool · MS 2 & KG Var · @2.51 · 3-2
-- ⏳ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20
+- ❌ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20 · 3-3
 - ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.24
 - ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33
 
@@ -19,28 +19,28 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20
-- ⏳ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.67
+- ❌ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20 · 3-3
+- ❌ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.67 · 1-2
 - ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.30
 - ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33
 
 ## 03.11 20:11 gönderilen kupon · 4 maç, oran 32,37
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 03.11 20:45 Galatasaray – Stuttgart · MS 1 & KG Var · @2.61 · 2-0
 - ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.45 · 0-6
-- ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
-- ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.26
+- ❌ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24 · korner 2-5
+- ✅ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.26 · 2-3
 
 ## 03.11 09:58 gönderilen kupon · 4 maç, oran 29,67
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ❌ 03.11 23:00 Villarreal – Paris Saint Germain · MS 2 & KG Var · @2.43 · 0-6
 - ⏳ 03.11 23:00 Feyenoord – Inter · MS 2 & 2.5 Üst · @2.23
-- ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.32
-- ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.36
+- ✅ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.32 · 2-3
+- ✅ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.36 · 4-1
 
 ## 02.11 19:38 gönderilen kupon · 4 maç, oran 35,96
 

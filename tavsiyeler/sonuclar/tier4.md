@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**123/392 tuttu** (isabet %31, beklenen %29) · -17.75 birim · 49 tahmin sonuç bekliyor
+**126/402 tuttu** (isabet %31, beklenen %29) · -17.66 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -105,22 +105,22 @@
 
 **22:45 · Wrexham – Middlesbrough**
 
-- ⏳ ↳ MS 2 & KG Var · @3.10
+- ❌ ↳ MS 2 & KG Var · @3.10 · 2-0
 
 **22:45 · Cardiff City – West Ham**
 
-- ⏳ ↳ MS 2 & KG Var · @2.92
-- ⏳ ↳ MS 1 & 2.5 Üst · @4.12
+- ❌ ↳ MS 2 & KG Var · @2.92 · 3-3
+- ❌ ↳ MS 1 & 2.5 Üst · @4.12 · 3-3
 
 **22:45 · Oxford – Reading**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.52
-- ⏳ ↳ MS 1 & KG Var · @4.14
-- ⏳ ↳ MS X & KG Var · @3.86
+- ❌ ↳ MS 1 & 2.5 Üst · @3.52 · 2-0
+- ❌ ↳ MS 1 & KG Var · @4.14 · 2-0
+- ❌ ↳ MS X & KG Var · @3.86 · 2-0
 
 **23:00 · PSV – Club Brugge**
 
-- ⏳ ↳ MS 1 & KG Var · @2.84
+- ❌ ↳ MS 1 & KG Var · @2.84 · 1-2
 
 **23:00 · B. Dortmund – Real Betis**
 
@@ -128,15 +128,15 @@
 
 **23:00 · Bristol City – Wolverhampton**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.12
+- ✅ ↳ MS 2 & 2.5 Üst · @3.12 · 1-2
 
 **23:00 · RC Lens – Como 1907**
 
-- ⏳ ↳ MS 2 & KG Var · @3.45
+- ✅ ↳ MS 2 & KG Var · @3.45 · 1-9
 
 **23:00 · Porto – Napoli**
 
-- ⏳ ↳ MS 1 & KG Var · @3.52
+- ✅ ↳ MS 1 & KG Var · @3.52 · 4-1
 
 ## 03.11.2026 Salı
 

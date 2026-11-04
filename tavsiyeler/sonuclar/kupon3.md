@@ -2,41 +2,41 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**5/31 tuttu** (isabet %16, beklenen %39) · -16.80 birim · 8 tahmin sonuç bekliyor
+**11/39 tuttu** (isabet %28, beklenen %39) · -9.04 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 04.11 20:22 gönderilen kupon · 3 maç, oran 15,86
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
-- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.81
-- ⏳ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.13
-- ⏳ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.65
+- ✅ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.81 · korner 3-2
+- ✅ 04.11 23:00 Leipzig – Manchester City · MS 2 & KG Var · @2.13 · 2-3
+- ❌ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.65 · 1-2
 
 ## 04.11 17:55 gönderilen kupon · 3 maç, oran 13,17
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
 - ❌ 04.11 20:45 Fenerbahçe – Liverpool · MS 2 & KG Var · @2.18 · 3-2
-- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.89
-- ⏳ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.09
+- ✅ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.89 · korner 3-2
+- ✅ 04.11 23:00 Viking – Sabah · MS 1 & KG Var · @2.09 · 4-1
 
 ## 03.11 20:11 gönderilen kupon · 3 maç, oran 17,46
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 03.11 22:45 Queens Park Rangers – Burnley · En çok korner 2 · @2.46 · korner 8-1
 - ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43 · korner 3-3
-- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92
+- ✅ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92 · korner 3-2
 
 ## 03.11 09:58 gönderilen kupon · 3 maç, oran 15,89
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 03.11 22:45 Preston – Sheffield United · En çok korner 1 · @2.43 · korner 3-3
-- ⏳ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92
-- ⏳ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24
+- ✅ 04.11 22:45 Wrexham – Middlesbrough · En çok korner 1 · @2.92 · korner 3-2
+- ❌ 04.11 23:00 Bristol City – Wolverhampton · En çok korner 1 · @2.24 · korner 2-5
 
 ## 02.11 19:38 gönderilen kupon · 3 maç, oran 17,70
 

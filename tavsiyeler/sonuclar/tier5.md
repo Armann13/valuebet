@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/75 tuttu** (isabet %17, beklenen %16) · -4.01 birim · 7 tahmin sonuç bekliyor
+**13/77 tuttu** (isabet %17, beklenen %16) · -6.01 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,11 +32,11 @@
 
 **22:45 · Wrexham – Middlesbrough**
 
-- ⏳ 1-2 · @7.38
+- ❌ 1-2 · @7.38 · 2-0
 
 **23:00 · Slavia Prag – Arsenal**
 
-- ⏳ 0-2 · @5.79
+- ❌ 0-2 · @5.79 · 1-2
 
 ## 02.11.2026 Pazartesi
 

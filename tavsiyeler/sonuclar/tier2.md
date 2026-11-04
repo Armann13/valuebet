@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**363/634 tuttu** (isabet %57, beklenen %60) · -73.48 birim · 94 tahmin sonuç bekliyor
+**376/654 tuttu** (isabet %57, beklenen %60) · -72.63 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -181,25 +181,25 @@
 
 **22:45 · Oxford – Reading**
 
-- ⏳ 2.5 Üst · @1.53
-- ⏳ KG Var · @1.52
+- ❌ 2.5 Üst · @1.53 · 2-0
+- ❌ KG Var · @1.52 · 2-0
 
 **22:45 · Wrexham – Middlesbrough**
 
-- ⏳ MS 2 · @1.63
-- ⏳ ↳ Korner 10.5 Alt · @1.63
-- ⏳ KG Var · @1.49
+- ❌ MS 2 · @1.63 · 2-0
+- ✅ ↳ Korner 10.5 Alt · @1.63 · korner 3-2
+- ❌ KG Var · @1.49 · 2-0
 
 **22:45 · Cardiff City – West Ham**
 
-- ⏳ ↳ Korner 11.5 Alt · @1.48
-- ⏳ ÇŞ 1-X · @1.71
+- ✅ ↳ Korner 11.5 Alt · @1.48 · korner 4-6
+- ✅ ÇŞ 1-X · @1.71 · 3-3
 
 **23:00 · RC Lens – Como 1907**
 
-- ⏳ 2.5 Üst · @1.43
-- ⏳ ↳ Korner 8.5 Üst · @1.43
-- ⏳ MS 2 · @1.74
+- ✅ 2.5 Üst · @1.43 · 1-9
+- ✅ ↳ Korner 8.5 Üst · @1.43 · korner 5-5
+- ✅ MS 2 · @1.74 · 1-9
 
 **23:00 · B. Dortmund – Real Betis**
 
@@ -208,31 +208,31 @@
 
 **23:00 · Slavia Prag – Arsenal**
 
-- ⏳ KG Yok · @1.67
-- ⏳ ↳ Korner 9.5 Alt · @1.65
-- ⏳ ↳ Korner 8.5 Üst · @1.41
+- ❌ KG Yok · @1.67 · 1-2
+- ✅ ↳ Korner 9.5 Alt · @1.65 · korner 4-2
+- ❌ ↳ Korner 8.5 Üst · @1.41 · korner 4-2
 
 **23:00 · Viking – Sabah**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.68
+- ✅ ↳ MS 1 & 2.5 Üst · @1.68 · 4-1
 
 **23:00 · Leipzig – Manchester City**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.77
+- ✅ ↳ MS 2 & 2.5 Üst · @1.77 · 2-3
 
 **23:00 · Porto – Napoli**
 
-- ⏳ MS 1 · @1.81
-- ⏳ ↳ Korner 8.5 Üst · @1.46
+- ✅ MS 1 · @1.81 · 4-1
+- ✅ ↳ Korner 8.5 Üst · @1.46 · korner 6-5
 
 **23:00 · PSV – Club Brugge**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.47
-- ⏳ ↳ Korner 10.5 Alt · @1.63
+- ✅ ↳ Korner 9.5 Üst · @1.47 · korner 8-5
+- ❌ ↳ Korner 10.5 Alt · @1.63 · korner 8-5
 
 **23:00 · Bristol City – Wolverhampton**
 
-- ⏳ Korner 10.5 Alt · @1.59
+- ✅ Korner 10.5 Alt · @1.59 · korner 2-5
 
 ## 03.11.2026 Salı
 

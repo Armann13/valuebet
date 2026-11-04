@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**295/408 tuttu** (isabet %72, beklenen %74) · -44.50 birim · 85 tahmin sonuç bekliyor
+**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 68 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -179,47 +179,47 @@
 
 **22:45 · Cardiff City – West Ham**
 
-- ⏳ 2.5 Üst · @1.30
-- ⏳ Korner 12.5 Alt · @1.27
+- ✅ 2.5 Üst · @1.30 · 3-3
+- ✅ Korner 12.5 Alt · @1.27 · korner 4-6
 
 **22:45 · Wrexham – Middlesbrough**
 
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ Korner 12.5 Alt · @1.20 · korner 3-2
 
 **23:00 · PSV – Club Brugge**
 
-- ⏳ 2.5 Üst · @1.25
-- ⏳ Korner 8.5 Üst · @1.25
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ 2.5 Üst · @1.25 · 1-2
+- ✅ Korner 8.5 Üst · @1.25 · korner 8-5
+- ❌ Korner 12.5 Alt · @1.20 · korner 8-5
 
 **23:00 · Leipzig – Manchester City**
 
-- ⏳ 2.5 Üst · @1.25
-- ⏳ En çok korner 2 · @1.30
-- ⏳ KG Var · @1.28
+- ✅ 2.5 Üst · @1.25 · 2-3
+- ❌ En çok korner 2 · @1.30 · korner 5-3
+- ✅ KG Var · @1.28 · 2-3
 
 **23:00 · Bristol City – Wolverhampton**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.21 · 1-2
+- ✅ ÇŞ X-2 · @1.24 · 1-2
 
 **23:00 · Viking – Sabah**
 
-- ⏳ MS 1 · @1.32
-- ⏳ En çok korner 1 · @1.27
+- ✅ MS 1 · @1.32 · 4-1
+- ✅ En çok korner 1 · @1.27 · korner 10-6
 
 **23:00 · Slavia Prag – Arsenal**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 4-2
+- ❌ Korner 7.5 Üst · @1.20 · korner 4-2
 
 **23:00 · RC Lens – Como 1907**
 
-- ⏳ Korner 7.5 Üst · @1.21
+- ✅ Korner 7.5 Üst · @1.21 · korner 5-5
 
 **23:00 · Porto – Napoli**
 
-- ⏳ Korner 7.5 Üst · @1.24
+- ✅ Korner 7.5 Üst · @1.24 · korner 6-5
 
 **23:00 · B. Dortmund – Real Betis**
 
