@@ -4725,3 +4725,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-04 20:22,2026-11-04,04.11,AVRUPA,Fenerbahçe,Liverpool,Fenerbahçe – Liverpool,UEFA Şampiyonlar Ligi,🎲 Çılgın kupon,İY/MS 1/2,0.05350502211143037,19.6,0.048698433384035456,oran,,,,2026-11-04 20:45,,,,,,
 2026-11-04 20:22,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🎲 Çılgın kupon,İY/MS 1/2,0.04834321387165833,21.5,0.03937909824065411,piyasa,,,,2026-11-04 22:45,,,,,,
 2026-11-04 20:22,2026-11-04,04.11,AVRUPA,RC Lens,Como 1907,RC Lens – Como 1907,UEFA Şampiyonlar Ligi,🎲 Çılgın kupon,İY/MS 1/2,0.047070107757635024,21.6,0.016714327564916642,oran,,,,2026-11-04 23:00,,,,,,
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7321918786005713,1.21,-0.11404782689330872,oran,False,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🔴 Tier 3 — Yüksek risk,MS 1,0.4152249423421658,2.15,-0.10726637396434358,oran,True,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.26777913953375476,3.22,-0.1377511707013096,oran,True,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5033757096875937,1.81,-0.08888996546545536,korner,False,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.39663953641683514,2.34,-0.0718634847846058,korner,True,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11390297925795646,8.23,-0.06257848070701821,oran,,,,2026-11-04 22:30,,,,,,kadro
