@@ -4731,3 +4731,17 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5033757096875937,1.81,-0.08888996546545536,korner,False,,,2026-11-04 22:30,,,,,,kadro
 2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.39663953641683514,2.34,-0.0718634847846058,korner,True,,,2026-11-04 22:30,,,,,,kadro
 2026-11-04 21:41,2026-11-04,04.11,B1,Kortrijk,Mechelen,Kortrijk – Mechelen,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11390297925795646,8.23,-0.06257848070701821,oran,,,,2026-11-04 22:30,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5881550537878149,1.6,-0.05895191393949617,piyasa,False,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.5171926100844566,1.75,-0.09491293235220088,piyasa,False,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E2,Oxford,Reading,Oxford – Reading,E2,🟡 Tier 2 — Orta risk,2.5 Alt,0.5040470855332737,1.66,-0.1632818380147657,oran,False,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.3670395503707553,2.39,-0.12277547461389482,piyasa,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,🔴 Tier 3 — Yüksek risk,MS 1,0.28716990375370655,3.26,-0.06382611376291669,piyasa,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.2911712863913465,3.26,-0.050781606364210474,piyasa,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.21457679119779033,4.21,-0.09663170905730267,piyasa,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.702550560688467,1.29,-0.09370977671187752,korner,False,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,🟡 Tier 2 — Orta risk,Korner 11.5 Alt,0.6170904108555194,1.5,-0.07436438371672094,korner,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5696110151403657,1.58,-0.10001459607822216,korner,False,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4678811945457001,1.98,-0.0735952347995138,korner,True,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Wrexham,Middlesbrough,Wrexham – Middlesbrough,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1276208446774537,7.31,-0.06709162540781355,piyasa,,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E2,Oxford,Reading,Oxford – Reading,E2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.1268288171952271,4.75,-0.3975631183226713,oran,,,,2026-11-04 22:45,,,,,,kadro
+2026-11-04 21:54,2026-11-04,04.11,E1,Cardiff,West Ham,Cardiff City – West Ham,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.0852878429179377,11.35,-0.03198298288140711,piyasa,,,,2026-11-04 22:45,,,,,,kadro
