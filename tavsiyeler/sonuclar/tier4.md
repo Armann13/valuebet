@@ -2,9 +2,75 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**128/404 tuttu** (isabet %32, beklenen %29) · -11.62 birim · 40 tahmin sonuç bekliyor
+**128/404 tuttu** (isabet %32, beklenen %29) · -11.62 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.11.2026 Cuma
+
+**20:00 · Gaziantep FK – Kasımpaşa**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.70
+
+**20:30 · Braunschweig – E. Cottbus**
+
+- ⏳ ↳ MS 1 & KG Var · @2.89
+
+**20:30 · Dynamo Dresden – Greuther Furth**
+
+- ⏳ ↳ MS 1 & KG Var · @3.12
+
+**22:00 · Montpellier – Metz**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.69
+
+**22:00 · Dijon – Red Star FC**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.45
+
+**22:00 · Willem II – Zwolle**
+
+- ⏳ ↳ MS 2 & KG Var · @3.56
+
+**22:00 · Dunkerque – Guingamp**
+
+- ⏳ ↳ MS 2 & KG Var · @4.03
+
+**22:30 · Castellon – Eibar**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**22:30 · Ascoli – US Palermo**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.91
+
+**22:30 · Hamburg – Monchengladbach**
+
+- ⏳ ↳ MS 1 & KG Var · @3.91
+
+**22:45 · Toulouse – Strasbourg**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.66
+
+**22:45 · Standard Liege – SK Beveren**
+
+- ⏳ ↳ MS 1 & KG Var · @3.20
+
+**22:45 · Venezia – Udinese**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.16
+
+**23:00 · Everton – Coventry**
+
+- ⏳ ↳ MS 1 & KG Var · @3.15
+
+**23:00 · Derby County – Bolton**
+
+- ⏳ ↳ MS 1 & KG Var · @4.04
+
+**23:45 · Famalicao – FC Arouca**
+
+- ⏳ ↳ İY/MS 1/1 · @3.12
 
 ## 05.11.2026 Perşembe
 
@@ -28,6 +94,7 @@
 
 - ⏳ ↳ İY/MS 2/2 · @2.86
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.91
+- ⏳ ↳ MS 2 & KG Var · @3.60
 
 **20:45 · Anderlecht – Salzburg**
 
@@ -36,6 +103,7 @@
 **20:45 · Midtjylland – Ajax**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.34
+- ⏳ ↳ MS 2 & KG Var · @3.05
 
 **20:45 · Thun – Hearts**
 
@@ -48,6 +116,7 @@
 **20:45 · Mjallby – Banja Luka**
 
 - ⏳ ↳ İY/MS 1/1 · @3.32
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.35
 
 **20:45 · Trabzonspor – Freiburg**
 
@@ -56,6 +125,7 @@
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
 - ⏳ ↳ MS 1 & KG Var · @3.69
+- ⏳ ↳ İY/MS 1/1 · @2.94
 
 **20:45 · Kuopion – KAA Gent**
 

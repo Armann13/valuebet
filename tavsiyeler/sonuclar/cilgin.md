@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/91 tuttu** (isabet %14, beklenen %13) · +137.91 birim · 19 tahmin sonuç bekliyor
+**13/91 tuttu** (isabet %14, beklenen %13) · +137.91 birim · 23 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11 18:03 gönderilen kupon · 4 maç, oran 230.054,16
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 05.11 20:45 Midtjylland – Ajax · İY/MS 1/2 · @21.45
+- ⏳ 06.11 20:30 Braunschweig – E. Cottbus · İY/MS 2/1 · @20.85
+- ⏳ 06.11 22:30 Ascoli – US Palermo · İY/MS 1/2 · @24.15
+- ⏳ 06.11 22:30 Castellon – Eibar · İY/MS 2/1 · @21.30
 
 ## 05.11 09:57 gönderilen kupon · 4 maç, oran 266.343,44
 

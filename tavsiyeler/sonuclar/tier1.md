@@ -2,9 +2,65 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 77 tahmin sonuç bekliyor
+**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 100 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.11.2026 Cuma
+
+**20:00 · Gaziantep FK – Kasımpaşa**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**20:30 · Braunschweig – E. Cottbus**
+
+- ⏳ ÇŞ 1-X · @1.20
+
+**22:00 · Montpellier – Metz**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:00 · Dijon – Red Star FC**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:00 · Willem II – Zwolle**
+
+- ⏳ Korner 12.5 Alt · @1.21
+
+**22:30 · Ascoli – US Palermo**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:30 · Castellon – Eibar**
+
+- ⏳ En çok korner 1 · @1.26
+
+**22:30 · Hamburg – Monchengladbach**
+
+- ⏳ Korner 11.5 Alt · @1.25
+
+**22:45 · Venezia – Udinese**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:45 · Toulouse – Strasbourg**
+
+- ⏳ ÇŞ 1-X · @1.23
+- ⏳ Korner 10.5 Alt · @1.23
+
+**23:00 · Sevilla – Alaves**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**23:00 · Everton – Coventry**
+
+- ⏳ Korner 11.5 Alt · @1.21
+
+**23:45 · Famalicao – FC Arouca**
+
+- ⏳ ÇŞ 1-2 · @1.22
+- ⏳ Korner 7.5 Üst · @1.22
 
 ## 05.11.2026 Perşembe
 
@@ -46,6 +102,7 @@
 **20:45 · Midtjylland – Ajax**
 
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ 2.5 Üst · @1.31
 
 **20:45 · Crystal Palace – Hoffenheim**
 
@@ -58,6 +115,7 @@
 **20:45 · Thun – Hearts**
 
 - ⏳ Korner 11.5 Alt · @1.25
+- ⏳ ÇŞ 1-X · @1.20
 
 **20:45 · Trabzonspor – Freiburg**
 
@@ -102,6 +160,7 @@
 - ⏳ MS 1 · @1.30
 - ⏳ Korner 8.5 Üst · @1.27
 - ⏳ Korner 11.5 Alt · @1.29
+- ⏳ 2.5 Üst · @1.31
 
 **23:00 · Hapoel Beer Sheva – Ofi Crete**
 
@@ -112,6 +171,8 @@
 
 - ⏳ MS 1 & 2.5 Üst · @1.36
 - ⏳ Korner 11.5 Alt · @1.22
+- ⏳ KG Yok · @1.53
+- ⏳ Korner 7.5 Üst · @1.21
 
 **23:00 · Kopenhag – FC Iberia 1999**
 
@@ -127,6 +188,7 @@
 
 - ⏳ MS 1 · @1.32
 - ⏳ Korner 7.5 Üst · @1.23
+- ⏳ Korner 11.5 Alt · @1.20
 
 **23:00 · Celtic – Beşiktaş**
 
@@ -135,6 +197,7 @@
 **23:00 · Sturm Graz – NK Celje**
 
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ Korner 7.5 Üst · @1.22
 
 **23:00 · AZ Alkmaar – Juventus**
 
@@ -152,6 +215,7 @@
 **23:00 · St. Truidense – Brann**
 
 - ⏳ Korner 8.5 Üst · @1.27
+- ⏳ 2.5 Üst · @1.22
 
 **23:00 · Getafe – Brighton**
 

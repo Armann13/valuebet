@@ -2,9 +2,95 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 58 tahmin sonuç bekliyor
+**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.11.2026 Cuma
+
+**20:00 · Gaziantep FK – Kasımpaşa**
+
+- ⏳ 2-1 · @8.49
+
+**20:30 · Braunschweig – E. Cottbus**
+
+- ⏳ 2-1 · @7.88
+
+**20:30 · Dynamo Dresden – Greuther Furth**
+
+- ⏳ 2-1 · @7.63
+
+**22:00 · AS Nancy – Sochaux**
+
+- ⏳ 1-0 · @5.76
+
+**22:00 · US Boulogne – Annecy FC**
+
+- ⏳ 1-1 · @4.94
+
+**22:00 · Montpellier – Metz**
+
+- ⏳ 2-1 · @7.70
+
+**22:00 · Grenoble – Reims**
+
+- ⏳ 0-1 · @6.42
+
+**22:00 · Dunkerque – Guingamp**
+
+- ⏳ 1-2 · @8.38
+
+**22:00 · Dijon – Red Star FC**
+
+- ⏳ 1-2 · @8.67
+
+**22:00 · Willem II – Zwolle**
+
+- ⏳ 1-2 · @8.19
+
+**22:30 · Castellon – Eibar**
+
+- ⏳ 2-1 · @7.23
+
+**22:30 · Ascoli – US Palermo**
+
+- ⏳ 1-2 · @8.08
+
+**22:30 · Raith Rovers – Dunfermline**
+
+- ⏳ 0-1 · @6.00
+
+**22:30 · Hamburg – Monchengladbach**
+
+- ⏳ 2-1 · @8.45
+
+**22:45 · Standard Liege – SK Beveren**
+
+- ⏳ 2-1 · @7.42
+
+**22:45 · Toulouse – Strasbourg**
+
+- ⏳ 2-1 · @7.86
+
+**22:45 · Venezia – Udinese**
+
+- ⏳ 2-1 · @8.03
+
+**23:00 · Sevilla – Alaves**
+
+- ⏳ 1-0 · @5.47
+
+**23:00 · Everton – Coventry**
+
+- ⏳ 2-1 · @7.27
+
+**23:00 · Derby County – Bolton**
+
+- ⏳ 2-1 · @8.35
+
+**23:45 · Famalicao – FC Arouca**
+
+- ⏳ 1-0 · @6.34
 
 ## 05.11.2026 Perşembe
 
@@ -33,6 +119,7 @@
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
 - ⏳ 2-1 · @7.63
+- ⏳ 1-0 · @5.80
 
 **20:45 · Sparta Prag – Bournemouth**
 
@@ -65,6 +152,7 @@
 **20:45 · Midtjylland – Ajax**
 
 - ⏳ 2-1 · @9.08
+- ⏳ 1-2 · @8.27
 
 **20:45 · Atalanta – K Almaty**
 
@@ -124,6 +212,7 @@
 **23:00 · Lugano – Zalgiris Kaunas**
 
 - ⏳ 3-1 · @8.80
+- ⏳ 3-0 · @5.87
 
 ## 04.11.2026 Çarşamba
 

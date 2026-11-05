@@ -6,12 +6,134 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 970 | 970 | 501 | -43.98 |
-| sonra | 821 | 821 | 405 | -68.83 |
+| önce | 1048 | 970 | 501 | -43.98 |
+| sonra | 887 | 821 | 405 | -68.83 |
 
-Değişen tahmin: 196 (196 sonuçlandı: eski 148, yeni 104 tuttu).
+Değişen tahmin: 212 (196 sonuçlandı: eski 148, yeni 104 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 05.11 · Trabzonspor – Freiburg
+
+Kadro mesajı: 05.11 20:21
+
+- 🟢 Tier 1: ⏳ Korner 7.5 Üst @1.26 → ⏳ Korner 7.5 Üst @1.26 (aynı)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.41, ⏳ Korner 8.5 Üst @1.51 → ⏳ 2.5 Üst @1.50, ⏳ Korner 8.5 Üst @1.51 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @3.05 → ⏳ MS 1 & 2.5 Üst @3.24 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.66 → ⏳ MS 1 & KG Var @3.93 (aynı)
+
+## 05.11 · AC Milan – Ferencvaros
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ MS 1 @1.20, ⏳ En çok korner 1 @1.27 → ⏳ MS 1 @1.27, ⏳ En çok korner 1 @1.28 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.66 → ⏳ MS 1 & 2.5 Üst @1.67 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.59 → ⏳ MS 1 & KG Var @2.44 (aynı)
+
+## 05.11 · AGF Aarhus – Braga
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21, ⏳ Korner 7.5 Üst @1.25 → ⏳ Korner 7.5 Üst @1.25 (değişti)
+- 🟡 Tier 2: ⏳ Korner 8.5 Üst @1.50 → ⏳ MS 2 @1.58, ⏳ Korner 8.5 Üst @1.50 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 @1.85 → ⏳ MS 2 & 2.5 Üst @2.43 (değişti)
+- 🟣 Tier 4: ⏳ İY/MS 2/2 @2.86, ⏳ MS 2 & 2.5 Üst @2.91, ⏳ MS 2 & KG Var @3.60 → ⏳ MS 2 & KG Var @3.37 (değişti)
+
+## 05.11 · Anderlecht – Salzburg
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.20, ⏳ ÇŞ 1-X @1.20 → ⏳ ÇŞ 1-X @1.21, ⏳ Korner 11.5 Alt @1.20 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.82, ⏳ Korner 9.5 Alt @1.67 → ⏳ MS 1 @1.82, ⏳ Korner 9.5 Alt @1.67 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.52 → ⏳ MS 1 & 2.5 Üst @2.42 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.20 → ⏳ MS 1 & KG Var @3.02 (aynı)
+
+## 05.11 · Atalanta – K Almaty
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ MS 1 & 2.5 Üst @1.38, ⏳ Korner 7.5 Üst @1.27 → ⏳ MS 1 & 2.5 Üst @1.27, ⏳ Korner 7.5 Üst @1.25 (aynı)
+- 🟡 Tier 2: ⏳ Korner 8.5 Üst @1.53 → ⏳ Korner 8.5 Üst @1.49 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.46 → ⏳ MS 1 & KG Var @2.13 (aynı)
+
+## 05.11 · Crystal Palace – Hoffenheim
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.22 → ⏳ Korner 11.5 Alt @1.24 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.75, ⏳ Korner 10.5 Alt @1.41 → ⏳ MS 1 @1.66, ⏳ Korner 10.5 Alt @1.43 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.38 → ⏳ MS 1 & 2.5 Üst @2.19 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.03 → ⏳ MS 1 & KG Var @2.81 (aynı)
+
+## 05.11 · Levski Sofya – Jagiellonia Bialystok
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.20, ⏳ ÇŞ 1-2 @1.20 → ⏳ ÇŞ 1-2 @1.23, ⏳ Korner 7.5 Üst @1.21 (değişti)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.66, ⏳ Korner 9.5 Alt @1.66 → ⏳ Korner 8.5 Üst @1.42 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.84, ⏳ MS 1 @1.87 → ⏳ MS 1 @1.84 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.69, ⏳ İY/MS 1/1 @2.94 → ⏳ İY/MS 1/1 @2.87 (değişti)
+
+## 05.11 · Lillestrom – Viktoria Plzen
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 8.5 Üst @1.29 → ⏳ Korner 8.5 Üst @1.29 (aynı)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.44, ⏳ Korner 9.5 Üst @1.54 → ⏳ 2.5 Üst @1.42, ⏳ Korner 9.5 Üst @1.54 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.82 → ⏳ MS 2 & 2.5 Üst @2.84 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.46 → ⏳ MS 2 & KG Var @3.46 (aynı)
+
+## 05.11 · Lincoln Red – Hajduk Split
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ MS 2 @1.25, ⏳ Korner 7.5 Üst @1.25 → ⏳ Korner 7.5 Üst @1.25 (değişti)
+- 🟡 Tier 2: ⏳ İY/MS 2/2 @1.74, ⏳ Korner 8.5 Üst @1.50, ⏳ KG Yok @1.61 → ⏳ KG Yok @1.61, ⏳ Korner 8.5 Üst @1.50 (değişti)
+
+## 05.11 · Midtjylland – Ajax
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.21, ⏳ 2.5 Üst @1.31 → ⏳ 2.5 Üst @1.32, ⏳ Korner 11.5 Alt @1.23 (aynı)
+- 🟡 Tier 2: ⏳ ÇŞ 1-X @1.42, ⏳ Korner 10.5 Alt @1.40 → ⏳ Korner 10.5 Alt @1.42 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 @2.46, ⏳ MS 2 & 2.5 Üst @2.51 → ⏳ MS 2 & 2.5 Üst @2.77 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.34, ⏳ MS 2 & KG Var @3.05 → ⏳ MS 2 & KG Var @3.31 (değişti)
+
+## 05.11 · Mjallby – Banja Luka
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.22, ⏳ Korner 10.5 Alt @1.28 → ⏳ ÇŞ 1-2 @1.21, ⏳ Korner 10.5 Alt @1.28 (aynı)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.51 → ⏳ Korner 9.5 Alt @1.51 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 @2.08 → ⏳ MS 1 @2.18 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.32, ⏳ MS 1 & 2.5 Üst @3.35 → ⏳ MS 1 & 2.5 Üst @3.56 (değişti)
+
+## 05.11 · NEC Nijmegen – Omonia
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ En çok korner 1 @1.28 → ⏳ En çok korner 1 @1.28 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.67 → ⏳ MS 1 @1.58 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.33 → ⏳ MS 1 & 2.5 Üst @2.21 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.03 → ⏳ MS 1 & KG Var @2.93 (aynı)
+
+## 05.11 · Real Sociedad – Lyon
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.28 → ⏳ Korner 11.5 Alt @1.26 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.66, ⏳ Korner 10.5 Alt @1.50 → ⏳ MS 1 @1.54, ⏳ Korner 10.5 Alt @1.47 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.30 → ⏳ MS 1 & 2.5 Üst @2.05 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.99 → ⏳ MS 1 & KG Var @2.70 (aynı)
+
+## 05.11 · Sparta Prag – Bournemouth
+
+Kadro mesajı: 05.11 19:57
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.27, ⏳ MS 2 @1.34 → ⏳ Korner 11.5 Alt @1.29 (değişti)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.44, ⏳ Korner 10.5 Alt @1.49 → ⏳ MS 2 @1.43, ⏳ Korner 10.5 Alt @1.51 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @1.89 → ⏳ MS 2 & 2.5 Üst @1.98 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @2.72 → ⏳ MS 2 & KG Var @2.74 (aynı)
 
 ## 04.11 · Bristol City – Wolverhampton
 
