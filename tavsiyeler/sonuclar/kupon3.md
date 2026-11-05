@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/39 tuttu** (isabet %28, beklenen %39) · -9.04 birim · 6 tahmin sonuç bekliyor
+**11/42 tuttu** (isabet %26, beklenen %39) · -12.04 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.11 20:45 Crystal Palace – Hoffenheim · MS 1 & 2.5 Üst · @2.14
+- ❌ 05.11 20:45 Crystal Palace – Hoffenheim · MS 1 & 2.5 Üst · @2.14 · 1-1
 - ⏳ 06.11 22:30 Castellon – Eibar · MS 1 & KG Var · @2.83
 - ⏳ 06.11 22:45 Venezia – Udinese · En çok korner 2 · @2.09
 
@@ -18,8 +18,8 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.10
-- ⏳ 05.11 20:45 Crystal Palace – Hoffenheim · MS 1 & 2.5 Üst · @2.30
+- ❌ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.10 · 1-1
+- ❌ 05.11 20:45 Crystal Palace – Hoffenheim · MS 1 & 2.5 Üst · @2.30 · 1-1
 - ⏳ 05.11 23:00 St. Truidense – Brann · MS 1 & 2.5 Üst · @2.07
 
 ## 04.11 20:22 gönderilen kupon · 3 maç, oran 15,86

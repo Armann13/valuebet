@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**128/404 tuttu** (isabet %32, beklenen %29) · -11.62 birim · 60 tahmin sonuç bekliyor
+**131/418 tuttu** (isabet %31, beklenen %29) · -16.82 birim · 46 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -76,34 +76,34 @@
 
 **20:45 · Sparta Prag – Bournemouth**
 
-- ⏳ ↳ MS 2 & KG Var · @2.72
+- ✅ ↳ MS 2 & KG Var · @2.72 · 1-3
 
 **20:45 · Real Sociedad – Lyon**
 
-- ⏳ ↳ MS 1 & KG Var · @2.99
+- ❌ ↳ MS 1 & KG Var · @2.99 · 1-1
 
 **20:45 · Crystal Palace – Hoffenheim**
 
-- ⏳ ↳ MS 1 & KG Var · @3.03
+- ❌ ↳ MS 1 & KG Var · @3.03 · 1-1
 
 **20:45 · NEC Nijmegen – Omonia**
 
-- ⏳ ↳ MS 1 & KG Var · @3.03
+- ✅ ↳ MS 1 & KG Var · @3.03 · 3-1
 
 **20:45 · AGF Aarhus – Braga**
 
-- ⏳ ↳ İY/MS 2/2 · @2.86
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.91
-- ⏳ ↳ MS 2 & KG Var · @3.60
+- ❌ ↳ İY/MS 2/2 · @2.86
+- ❌ ↳ MS 2 & 2.5 Üst · @2.91 · 0-0
+- ❌ ↳ MS 2 & KG Var · @3.60 · 0-0
 
 **20:45 · Anderlecht – Salzburg**
 
-- ⏳ ↳ MS 1 & KG Var · @3.20
+- ❌ ↳ MS 1 & KG Var · @3.20 · 2-0
 
 **20:45 · Midtjylland – Ajax**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.34
-- ⏳ ↳ MS 2 & KG Var · @3.05
+- ❌ ↳ MS 1 & 2.5 Üst · @3.34 · 1-6
+- ✅ ↳ MS 2 & KG Var · @3.05 · 1-6
 
 **20:45 · Thun – Hearts**
 
@@ -111,20 +111,20 @@
 
 **20:45 · Lillestrom – Viktoria Plzen**
 
-- ⏳ ↳ MS 2 & KG Var · @3.46
+- ❌ ↳ MS 2 & KG Var · @3.46 · 0-1
 
 **20:45 · Mjallby – Banja Luka**
 
 - ⏳ ↳ İY/MS 1/1 · @3.32
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.35
+- ❌ ↳ MS 1 & 2.5 Üst · @3.35 · 2-0
 
 **20:45 · Trabzonspor – Freiburg**
 
-- ⏳ ↳ MS 1 & KG Var · @3.66
+- ❌ ↳ MS 1 & KG Var · @3.66 · 0-1
 
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
-- ⏳ ↳ MS 1 & KG Var · @3.69
+- ❌ ↳ MS 1 & KG Var · @3.69 · 1-0
 - ⏳ ↳ İY/MS 1/1 · @2.94
 
 **20:45 · Kuopion – KAA Gent**

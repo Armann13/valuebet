@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 100 tahmin sonuç bekliyor
+**326/448 tuttu** (isabet %73, beklenen %74) · -45.75 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -66,47 +66,47 @@
 
 **20:45 · AC Milan – Ferencvaros**
 
-- ⏳ MS 1 · @1.20
-- ⏳ En çok korner 1 · @1.27
+- ❌ MS 1 · @1.20 · 0-2
+- ❌ En çok korner 1 · @1.27 · korner 2-4
 
 **20:45 · Lincoln Red – Hajduk Split**
 
-- ⏳ MS 2 · @1.25
-- ⏳ Korner 7.5 Üst · @1.25
+- ❌ MS 2 · @1.25 · 1-0
+- ✅ Korner 7.5 Üst · @1.25 · korner 0-8
 
 **20:45 · AGF Aarhus – Braga**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 7.5 Üst · @1.25
+- ❌ ÇŞ 1-2 · @1.21 · 0-0
+- ✅ Korner 7.5 Üst · @1.25 · korner 2-7
 
 **20:45 · Mjallby – Banja Luka**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 10.5 Alt · @1.28
+- ✅ ÇŞ 1-2 · @1.22 · 2-0
+- ✅ Korner 10.5 Alt · @1.28 · korner 4-6
 
 **20:45 · Atalanta – K Almaty**
 
-- ⏳ MS 1 & 2.5 Üst · @1.38
-- ⏳ Korner 7.5 Üst · @1.27
+- ❌ MS 1 & 2.5 Üst · @1.38 · 1-1
+- ✅ Korner 7.5 Üst · @1.27 · korner 9-2
 
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 4-5
+- ✅ ÇŞ 1-2 · @1.20 · 1-0
 
 **20:45 · Anderlecht – Salzburg**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 5-4
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **20:45 · Midtjylland – Ajax**
 
-- ⏳ Korner 11.5 Alt · @1.21
-- ⏳ 2.5 Üst · @1.31
+- ✅ Korner 11.5 Alt · @1.21 · korner 1-8
+- ✅ 2.5 Üst · @1.31 · 1-6
 
 **20:45 · Crystal Palace – Hoffenheim**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-5
 
 **20:45 · Kuopion – KAA Gent**
 
@@ -119,24 +119,24 @@
 
 **20:45 · Trabzonspor – Freiburg**
 
-- ⏳ Korner 7.5 Üst · @1.26
+- ✅ Korner 7.5 Üst · @1.26 · korner 7-4
 
 **20:45 · NEC Nijmegen – Omonia**
 
-- ⏳ En çok korner 1 · @1.28
+- ✅ En çok korner 1 · @1.28 · korner 5-2
 
 **20:45 · Sparta Prag – Bournemouth**
 
-- ⏳ Korner 11.5 Alt · @1.27
-- ⏳ MS 2 · @1.34
+- ❌ Korner 11.5 Alt · @1.27 · korner 3-10
+- ✅ MS 2 · @1.34 · 1-3
 
 **20:45 · Real Sociedad – Lyon**
 
-- ⏳ Korner 11.5 Alt · @1.28
+- ✅ Korner 11.5 Alt · @1.28 · korner 5-6
 
 **20:45 · Lillestrom – Viktoria Plzen**
 
-- ⏳ Korner 8.5 Üst · @1.29
+- ✅ Korner 8.5 Üst · @1.29 · korner 3-6
 
 **23:00 · Twente – Pafos FC**
 

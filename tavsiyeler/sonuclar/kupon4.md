@@ -2,45 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/51 tuttu** (isabet %29, beklenen %36) · -7.75 birim · 13 tahmin sonuç bekliyor
+**19/58 tuttu** (isabet %33, beklenen %36) · -5.57 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 05.11 18:03 gönderilen kupon · 4 maç, oran 41,85
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.25
+- ✅ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.25 · 3-1
 - ⏳ 05.11 23:00 Monaco – Nordsjælland · MS 1 & KG Var · @2.42
 - ⏳ 06.11 20:30 Dynamo Dresden – Greuther Furth · MS 1 & 2.5 Üst · @2.44
 - ⏳ 06.11 23:00 Everton – Coventry · MS 1 & KG Var · @3.15
 
 ## 05.11 09:57 gönderilen kupon · 4 maç, oran 46,11
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.27
-- ⏳ 05.11 20:45 Anderlecht – Salzburg · MS 1 & 2.5 Üst · @2.54
+- ✅ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.27 · 3-1
+- ❌ 05.11 20:45 Anderlecht – Salzburg · MS 1 & 2.5 Üst · @2.54 · 2-0
 - ⏳ 05.11 23:00 Monaco – Nordsjælland · MS 1 & KG Var · @2.38
 - ⏳ 05.11 23:00 Celtic – Beşiktaş · MS 2 & KG Var · @3.36
 
 ## 04.11 20:22 gönderilen kupon · 4 maç, oran 41,92
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 04.11 20:45 Fenerbahçe – Liverpool · MS 2 & KG Var · @2.51 · 3-2
 - ❌ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20 · 3-3
-- ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.24
-- ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33
+- ❌ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.24 · 1-1
+- ✅ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33 · 3-1
 
 ## 04.11 17:55 gönderilen kupon · 4 maç, oran 45,79
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 04.11 22:45 Cardiff City – West Ham · MS 1 · @3.20 · 3-3
 - ❌ 04.11 23:00 PSV – Club Brugge · MS 1 & KG Var · @2.67 · 1-2
-- ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.30
-- ⏳ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33
+- ❌ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.30 · 1-1
+- ✅ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.33 · 3-1
 
 ## 03.11 20:11 gönderilen kupon · 4 maç, oran 32,37
 

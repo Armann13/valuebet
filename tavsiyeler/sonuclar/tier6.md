@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 82 tahmin sonuç bekliyor
+**62/668 tuttu** (isabet %9, beklenen %11) · -220.13 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -101,41 +101,41 @@
 
 **20:45 · AGF Aarhus – Braga**
 
-- ⏳ 0-1 · @6.52
-- ⏳ 1-2 · @7.71
+- ❌ 0-1 · @6.52 · 0-0
+- ❌ 1-2 · @7.71 · 0-0
 
 **20:45 · Mjallby – Banja Luka**
 
-- ⏳ 1-0 · @6.76
+- ❌ 1-0 · @6.76 · 2-0
 
 **20:45 · Real Sociedad – Lyon**
 
-- ⏳ 2-1 · @7.50
+- ❌ 2-1 · @7.50 · 1-1
 
 **20:45 · NEC Nijmegen – Omonia**
 
-- ⏳ 2-1 · @7.44
+- ❌ 2-1 · @7.44 · 3-1
 
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
-- ⏳ 2-1 · @7.63
-- ⏳ 1-0 · @5.80
+- ❌ 2-1 · @7.63 · 1-0
+- ✅ 1-0 · @5.80 · 1-0
 
 **20:45 · Sparta Prag – Bournemouth**
 
-- ⏳ 1-2 · @7.24
+- ❌ 1-2 · @7.24 · 1-3
 
 **20:45 · Anderlecht – Salzburg**
 
-- ⏳ 2-1 · @7.71
+- ❌ 2-1 · @7.71 · 2-0
 
 **20:45 · Crystal Palace – Hoffenheim**
 
-- ⏳ 2-1 · @7.64
+- ❌ 2-1 · @7.64 · 1-1
 
 **20:45 · Lillestrom – Viktoria Plzen**
 
-- ⏳ 1-2 · @8.08
+- ❌ 1-2 · @8.08 · 0-1
 
 **20:45 · Thun – Hearts**
 
@@ -143,20 +143,20 @@
 
 **20:45 · Trabzonspor – Freiburg**
 
-- ⏳ 2-1 · @8.51
+- ❌ 2-1 · @8.51 · 0-1
 
 **20:45 · AC Milan – Ferencvaros**
 
-- ⏳ 2-1 · @7.46
+- ❌ 2-1 · @7.46 · 0-2
 
 **20:45 · Midtjylland – Ajax**
 
-- ⏳ 2-1 · @9.08
-- ⏳ 1-2 · @8.27
+- ❌ 2-1 · @9.08 · 1-6
+- ❌ 1-2 · @8.27 · 1-6
 
 **20:45 · Atalanta – K Almaty**
 
-- ⏳ 3-1 · @9.13
+- ❌ 3-1 · @9.13 · 1-1
 
 **23:00 · St. Truidense – Brann**
 

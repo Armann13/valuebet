@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/77 tuttu** (isabet %17, beklenen %16) · -6.01 birim · 5 tahmin sonuç bekliyor
+**13/78 tuttu** (isabet %17, beklenen %16) · -7.01 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **20:45 · Lincoln Red – Hajduk Split**
 
-- ⏳ 0-2 · @5.52
+- ❌ 0-2 · @5.52 · 1-0
 
 **23:00 · Kopenhag – FC Iberia 1999**
 
