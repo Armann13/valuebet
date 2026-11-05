@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/78 tuttu** (isabet %17, beklenen %16) · -7.01 birim · 4 tahmin sonuç bekliyor
+**15/81 tuttu** (isabet %19, beklenen %16) · +1.40 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,15 +18,15 @@
 
 **23:00 · Getafe – Brighton**
 
-- ⏳ 0-1 · @5.50
+- ✅ 0-1 · @5.50 · 0-1
 
 **23:00 · Un. Craiova – KF Egnatia Rrogozhine**
 
-- ⏳ 2-0 · @5.91
+- ✅ 2-0 · @5.91 · 2-0
 
 **23:00 · Torreense – Ararat**
 
-- ⏳ 1-0 · @5.80
+- ❌ 1-0 · @5.80 · 3-2
 
 ## 04.11.2026 Çarşamba
 

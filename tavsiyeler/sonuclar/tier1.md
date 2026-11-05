@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**326/448 tuttu** (isabet %73, beklenen %74) · -45.75 birim · 77 tahmin sonuç bekliyor
+**343/477 tuttu** (isabet %72, beklenen %74) · -53.52 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -140,9 +140,9 @@
 
 **23:00 · Twente – Pafos FC**
 
-- ⏳ MS 1 · @1.20
-- ⏳ Korner 11.5 Alt · @1.24
-- ⏳ 2.5 Üst · @1.25
+- ✅ MS 1 · @1.20 · 3-1
+- ❌ Korner 11.5 Alt · @1.24 · korner 12-1
+- ✅ 2.5 Üst · @1.25 · 3-1
 
 **23:00 · B. Leverkusen – Marsilya**
 
@@ -152,20 +152,20 @@
 
 **23:00 · Riga FC – Jablonec**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 11.5 Alt · @1.21
+- ❌ ÇŞ 1-2 · @1.21 · 1-1
+- ✅ Korner 11.5 Alt · @1.21 · korner 5-5
 
 **23:00 · Monaco – Nordsjælland**
 
-- ⏳ MS 1 · @1.30
-- ⏳ Korner 8.5 Üst · @1.27
-- ⏳ Korner 11.5 Alt · @1.29
-- ⏳ 2.5 Üst · @1.31
+- ✅ MS 1 · @1.30 · 2-0
+- ❌ Korner 8.5 Üst · @1.27 · korner 4-3
+- ✅ Korner 11.5 Alt · @1.29 · korner 4-3
+- ❌ 2.5 Üst · @1.31 · 2-0
 
 **23:00 · Hapoel Beer Sheva – Ofi Crete**
 
-- ⏳ ÇŞ 1-X · @1.22
-- ⏳ Korner 7.5 Üst · @1.22
+- ❌ ÇŞ 1-X · @1.22 · 0-2
+- ❌ Korner 7.5 Üst · @1.22 · korner 4-2
 
 **23:00 · Lugano – Zalgiris Kaunas**
 
@@ -181,51 +181,51 @@
 
 **23:00 · Un. Craiova – KF Egnatia Rrogozhine**
 
-- ⏳ MS 1 · @1.32
-- ⏳ Korner 7.5 Üst · @1.26
+- ✅ MS 1 · @1.32 · 2-0
+- ✅ Korner 7.5 Üst · @1.26 · korner 5-6
 
 **23:00 · Panathinaikos – CSKA Sofya**
 
-- ⏳ MS 1 · @1.32
-- ⏳ Korner 7.5 Üst · @1.23
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ MS 1 · @1.32 · 2-1
+- ✅ Korner 7.5 Üst · @1.23 · korner 12-4
+- ❌ Korner 11.5 Alt · @1.20 · korner 12-4
 
 **23:00 · Celtic – Beşiktaş**
 
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ Korner 12.5 Alt · @1.20 · korner 5-7
 
 **23:00 · Sturm Graz – NK Celje**
 
-- ⏳ Korner 11.5 Alt · @1.21
-- ⏳ Korner 7.5 Üst · @1.22
+- ❌ Korner 11.5 Alt · @1.21 · korner 12-2
+- ✅ Korner 7.5 Üst · @1.22 · korner 12-2
 
 **23:00 · AZ Alkmaar – Juventus**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 4-2
 
 **23:00 · Torreense – Ararat**
 
-- ⏳ Korner 7.5 Üst · @1.22
+- ✅ Korner 7.5 Üst · @1.22 · korner 4-6
 
 **23:00 · Celta Vigo – Union Saint Gilloise**
 
-- ⏳ Korner 10.5 Alt · @1.23
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ Korner 10.5 Alt · @1.23 · korner 11-1
+- ✅ ÇŞ 1-2 · @1.20 · 1-2
 
 **23:00 · St. Truidense – Brann**
 
-- ⏳ Korner 8.5 Üst · @1.27
-- ⏳ 2.5 Üst · @1.22
+- ✅ Korner 8.5 Üst · @1.27 · korner 4-7
+- ❌ 2.5 Üst · @1.22 · 1-1
 
 **23:00 · Getafe – Brighton**
 
-- ⏳ En çok korner 2 · @1.31
+- ❌ En çok korner 2 · @1.31 · korner 5-5
 
 **23:00 · Sunderland – Dinamo Zagreb**
 
-- ⏳ En çok korner 1 · @1.31
-- ⏳ MS 1 · @1.32
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ En çok korner 1 · @1.31 · korner 5-3
+- ❌ MS 1 · @1.32 · 0-2
+- ✅ Korner 11.5 Alt · @1.22 · korner 5-3
 
 ## 04.11.2026 Çarşamba
 

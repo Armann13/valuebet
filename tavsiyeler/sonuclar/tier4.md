@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**131/418 tuttu** (isabet %31, beklenen %29) · -16.82 birim · 46 tahmin sonuç bekliyor
+**134/428 tuttu** (isabet %31, beklenen %29) · -16.63 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -133,40 +133,40 @@
 
 **23:00 · Sturm Graz – NK Celje**
 
-- ⏳ ↳ MS 1 & KG Var · @2.69
+- ❌ ↳ MS 1 & KG Var · @2.69 · 2-3
 
 **23:00 · Hapoel Beer Sheva – Ofi Crete**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.76
+- ❌ ↳ MS 1 & 2.5 Üst · @2.76 · 0-2
 
 **23:00 · St. Truidense – Brann**
 
-- ⏳ ↳ MS 1 & KG Var · @2.87
+- ❌ ↳ MS 1 & KG Var · @2.87 · 1-1
 
 **23:00 · Sunderland – Dinamo Zagreb**
 
-- ⏳ ↳ MS 1 & KG Var · @2.83
+- ❌ ↳ MS 1 & KG Var · @2.83 · 0-2
 
 **23:00 · Panathinaikos – CSKA Sofya**
 
-- ⏳ ↳ MS 1 & KG Var · @2.91
+- ✅ ↳ MS 1 & KG Var · @2.91 · 2-1
 
 **23:00 · Celtic – Beşiktaş**
 
-- ⏳ ↳ MS 2 & KG Var · @3.36
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.62
+- ❌ ↳ MS 2 & KG Var · @3.36 · 3-2
+- ✅ ↳ MS 1 & 2.5 Üst · @3.62 · 3-2
 
 **23:00 · Riga FC – Jablonec**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.48
+- ❌ ↳ MS 1 & 2.5 Üst · @3.48 · 1-1
 
 **23:00 · AZ Alkmaar – Juventus**
 
-- ⏳ ↳ MS 2 & KG Var · @3.66
+- ✅ ↳ MS 2 & KG Var · @3.66 · 1-2
 
 **23:00 · Celta Vigo – Union Saint Gilloise**
 
-- ⏳ ↳ MS 1 & KG Var · @3.82
+- ❌ ↳ MS 1 & KG Var · @3.82 · 1-2
 
 ## 04.11.2026 Çarşamba
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/23 tuttu** (isabet %30, beklenen %51) · -9.29 birim · 3 tahmin sonuç bekliyor
+**7/25 tuttu** (isabet %28, beklenen %51) · -11.29 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 05.11 23:00 St. Truidense – Brann · MS 1 & 2.5 Üst · @1.80
+- ❌ 05.11 23:00 St. Truidense – Brann · MS 1 & 2.5 Üst · @1.80 · 1-1
 - ⏳ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30
 
 ## 05.11 09:57 gönderilen kupon · 2 maç, oran 3,55
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 05.11 20:45 Sparta Prag – Bournemouth · MS 2 & 2.5 Üst · @1.87 · 1-3
-- ⏳ 05.11 23:00 Sturm Graz – NK Celje · MS 1 & 2.5 Üst · @1.90
+- ❌ 05.11 23:00 Sturm Graz – NK Celje · MS 1 & 2.5 Üst · @1.90 · 2-3
 
 ## 04.11 20:22 gönderilen kupon · 2 maç, oran 4,82
 

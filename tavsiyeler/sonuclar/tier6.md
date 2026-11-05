@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**62/668 tuttu** (isabet %9, beklenen %11) · -220.13 birim · 66 tahmin sonuç bekliyor
+**65/681 tuttu** (isabet %10, beklenen %11) · -209.62 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -160,40 +160,40 @@
 
 **23:00 · St. Truidense – Brann**
 
-- ⏳ 2-1 · @7.31
+- ❌ 2-1 · @7.31 · 1-1
 
 **23:00 · Sturm Graz – NK Celje**
 
-- ⏳ 2-1 · @7.24
+- ❌ 2-1 · @7.24 · 2-3
 
 **23:00 · Sunderland – Dinamo Zagreb**
 
-- ⏳ 2-1 · @7.20
+- ❌ 2-1 · @7.20 · 0-2
 
 **23:00 · Panathinaikos – CSKA Sofya**
 
-- ⏳ 2-1 · @7.21
+- ✅ 2-1 · @7.21 · 2-1
 
 **23:00 · Hapoel Beer Sheva – Ofi Crete**
 
-- ⏳ 2-1 · @7.78
+- ❌ 2-1 · @7.78 · 0-2
 
 **23:00 · AZ Alkmaar – Juventus**
 
-- ⏳ 1-2 · @7.61
+- ✅ 1-2 · @7.61 · 1-2
 
 **23:00 · Monaco – Nordsjælland**
 
-- ⏳ 2-1 · @7.43
+- ❌ 2-1 · @7.43 · 2-0
 
 **23:00 · Celta Vigo – Union Saint Gilloise**
 
-- ⏳ 2-1 · @8.03
+- ❌ 2-1 · @8.03 · 1-2
 
 **23:00 · Celtic – Beşiktaş**
 
-- ⏳ 1-2 · @8.04
-- ⏳ 2-1 · @9.49
+- ❌ 1-2 · @8.04 · 3-2
+- ❌ 2-1 · @9.49 · 3-2
 
 **23:00 · B. Leverkusen – Marsilya**
 
@@ -202,12 +202,12 @@
 
 **23:00 · Riga FC – Jablonec**
 
-- ⏳ 2-1 · @8.22
+- ❌ 2-1 · @8.22 · 1-1
 
 **23:00 · Twente – Pafos FC**
 
-- ⏳ 2-1 · @7.63
-- ⏳ 3-1 · @8.69
+- ❌ 2-1 · @7.63 · 3-1
+- ✅ 3-1 · @8.69 · 3-1
 
 **23:00 · Lugano – Zalgiris Kaunas**
 

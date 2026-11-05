@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/91 tuttu** (isabet %14, beklenen %13) · +137.91 birim · 23 tahmin sonuç bekliyor
+**13/92 tuttu** (isabet %14, beklenen %13) · +136.91 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,7 +22,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ⏳ 05.11 20:45 Sparta Prag – Bournemouth · İY/MS 1/2 · @21.20
 - ⏳ 05.11 20:45 Midtjylland – Ajax · İY/MS 1/2 · @23.70
 - ⏳ 05.11 20:45 Lillestrom – Viktoria Plzen · İY/MS 1/2 · @23.25
-- ⏳ 05.11 23:00 Celtic – Beşiktaş · İY/MS 1/2 · @22.80
+- ❌ 05.11 23:00 Celtic – Beşiktaş · İY/MS 1/2 · @22.80
 
 ## 04.11 20:22 gönderilen kupon · 4 maç, oran 157.013,64
 
