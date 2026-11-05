@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 970 | 968 | 499 | -50.02 |
-| sonra | 821 | 820 | 404 | -71.76 |
+| önce | 970 | 970 | 501 | -43.98 |
+| sonra | 821 | 821 | 405 | -68.83 |
 
-Değişen tahmin: 196 (195 sonuçlandı: eski 147, yeni 104 tuttu).
+Değişen tahmin: 196 (196 sonuçlandı: eski 148, yeni 104 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -215,7 +215,7 @@ Kadro mesajı: 03.11 21:47
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23, ✅ Korner 12.5 Alt @1.24 → ✅ ÇŞ 1-2 @1.24, ✅ Korner 12.5 Alt @1.24 (aynı)
 - 🟡 Tier 2: ✅ Korner 11.5 Alt @1.43 → ✅ Korner 11.5 Alt @1.43 (aynı)
 - 🔴 Tier 3: ✅ MS 2 @2.44 → ✅ MS 2 @2.40 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @4.03 → ⏳ İY/MS 2/2 @3.93 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 2/2 @4.03 → ✅ İY/MS 2/2 @3.93 (aynı)
 
 ## 03.11 · Derby County – Norwich City
 
@@ -250,7 +250,7 @@ Kadro mesajı: 03.11 21:47
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23 → ✅ ÇŞ 1-2 @1.25 (aynı)
 - 🟡 Tier 2: ❌ En çok korner 1 @1.66 → ❌ En çok korner 1 @1.69 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @2.44, ❌ MS 2 @2.45 → ❌ MS 2 @2.45 (değişti)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @4.01, ❌ İY/MS 2/2 @4.06 → ❌ İY/MS 2/2 @4.21 (değişti)
+- 🟣 Tier 4: ✅ İY/MS 1/1 @4.01, ❌ İY/MS 2/2 @4.06 → ❌ İY/MS 2/2 @4.21 (değişti)
 
 ## 03.11 · Preston – Sheffield United
 

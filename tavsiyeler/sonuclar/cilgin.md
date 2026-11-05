@@ -2,27 +2,36 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/88 tuttu** (isabet %14, beklenen %14) · +113.91 birim · 18 tahmin sonuç bekliyor
+**13/91 tuttu** (isabet %14, beklenen %13) · +137.91 birim · 19 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11 09:57 gönderilen kupon · 4 maç, oran 266.343,44
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 05.11 20:45 Sparta Prag – Bournemouth · İY/MS 1/2 · @21.20
+- ⏳ 05.11 20:45 Midtjylland – Ajax · İY/MS 1/2 · @23.70
+- ⏳ 05.11 20:45 Lillestrom – Viktoria Plzen · İY/MS 1/2 · @23.25
+- ⏳ 05.11 23:00 Celtic – Beşiktaş · İY/MS 1/2 · @22.80
 
 ## 04.11 20:22 gönderilen kupon · 4 maç, oran 157.013,64
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 04.11 20:45 Fenerbahçe – Liverpool · İY/MS 1/2 · @19.60
-- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @21.50
+- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @21.50 · İY 0-0, MS 2-0
 - ⏳ 04.11 23:00 Leipzig – Manchester City · İY/MS 1/2 · @17.25
 - ⏳ 04.11 23:00 RC Lens – Como 1907 · İY/MS 1/2 · @21.60
 
 ## 04.11 17:55 gönderilen kupon · 4 maç, oran 181.246,61
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 04.11 20:45 Fenerbahçe – Liverpool · İY/MS 1/2 · @18.10
-- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @21.50
+- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @21.50 · İY 0-0, MS 2-0
 - ⏳ 04.11 23:00 Leipzig – Manchester City · İY/MS 1/2 · @17.25
-- ⏳ 04.11 23:00 Bristol City – Wolverhampton · İY/MS 1/2 · @27.00
+- ✅ 04.11 23:00 Bristol City – Wolverhampton · İY/MS 1/2 · @27.00 · İY 1-0, MS 1-2
 
 ## 03.11 09:58 gönderilen kupon · 4 maç, oran 155.491,22
 
@@ -30,7 +39,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.60
 - ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.30
-- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @22.20
+- ❌ 04.11 22:45 Wrexham – Middlesbrough · İY/MS 1/2 · @22.20 · İY 0-0, MS 2-0
 - ⏳ 04.11 23:00 Leipzig – Manchester City · İY/MS 1/2 · @18.55
 
 ## 02.11 19:38 gönderilen kupon · 6 maç, oran 1.339.896,52
@@ -39,7 +48,7 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 02.11 23:00 Mallorca – Cadiz · 2.5 Alt · @1.81 · 2-1
 - ✅ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.47 · 1-0
-- ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
+- ❌ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35 · İY 0-3, MS 0-4
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.45
 - ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.25
 - ⏳ 03.11 23:00 Atletico Madrid – Bayern Münih · İY/MS 1/2 · @23.45
@@ -50,7 +59,7 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 02.11 18:15 Real Oviedo – Las Palmas · 2.5 Alt · @1.79 · 2-3
 - ✅ 02.11 23:15 Benfica – Alverca FC · 2.5 Alt · @3.13 · 1-0
-- ⏳ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35
+- ❌ 03.11 22:45 Derby County – Norwich City · İY/MS 1/2 · @24.35 · İY 0-3, MS 0-4
 - ⏳ 03.11 23:00 Villarreal – Paris Saint Germain · İY/MS 1/2 · @18.60
 - ⏳ 03.11 23:00 Feyenoord – Inter · İY/MS 1/2 · @20.10
 - ⏳ 03.11 23:00 Atletico Madrid – Bayern Münih · İY/MS 1/2 · @23.00

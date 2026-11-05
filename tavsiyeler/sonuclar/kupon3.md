@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/39 tuttu** (isabet %28, beklenen %39) · -9.04 birim
+**11/39 tuttu** (isabet %28, beklenen %39) · -9.04 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 05.11 09:57 gönderilen kupon · 3 maç, oran 10,00
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 05.11 20:45 Real Sociedad – Lyon · MS 1 & 2.5 Üst · @2.10
+- ⏳ 05.11 20:45 Crystal Palace – Hoffenheim · MS 1 & 2.5 Üst · @2.30
+- ⏳ 05.11 23:00 St. Truidense – Brann · MS 1 & 2.5 Üst · @2.07
 
 ## 04.11 20:22 gönderilen kupon · 3 maç, oran 15,86
 

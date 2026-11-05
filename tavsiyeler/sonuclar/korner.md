@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**459/873 tuttu** (isabet %53, beklenen %59) · -139.95 birim · 88 tahmin sonuç bekliyor
+**459/873 tuttu** (isabet %53, beklenen %59) · -139.95 birim · 92 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -159,6 +159,8 @@
 
 - ⏳ 🟢 Korner 8.5 Üst · @1.27
 - ⏳ 🟡 ↳ Korner 9.5 Üst · @1.51
+- ⏳ 🟢 Korner 11.5 Alt · @1.29
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.51
 
 **23:00 · Getafe – Brighton**
 
@@ -167,6 +169,8 @@
 **23:00 · Sunderland – Dinamo Zagreb**
 
 - ⏳ 🟢 En çok korner 1 · @1.31
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
 
 ## 04.11.2026 Çarşamba
 

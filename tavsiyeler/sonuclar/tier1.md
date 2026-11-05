@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 68 tahmin sonuç bekliyor
+**309/425 tuttu** (isabet %73, beklenen %74) · -44.01 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,10 +36,12 @@
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ ÇŞ 1-2 · @1.20
 
 **20:45 · Anderlecht – Salzburg**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ ÇŞ 1-X · @1.20
 
 **20:45 · Midtjylland – Ajax**
 
@@ -68,6 +70,7 @@
 **20:45 · Sparta Prag – Bournemouth**
 
 - ⏳ Korner 11.5 Alt · @1.27
+- ⏳ MS 2 · @1.34
 
 **20:45 · Real Sociedad – Lyon**
 
@@ -81,11 +84,13 @@
 
 - ⏳ MS 1 · @1.20
 - ⏳ Korner 11.5 Alt · @1.24
+- ⏳ 2.5 Üst · @1.25
 
 **23:00 · B. Leverkusen – Marsilya**
 
 - ⏳ MS 1 · @1.24
 - ⏳ En çok korner 1 · @1.24
+- ⏳ 2.5 Üst · @1.25
 
 **23:00 · Riga FC – Jablonec**
 
@@ -96,6 +101,7 @@
 
 - ⏳ MS 1 · @1.30
 - ⏳ Korner 8.5 Üst · @1.27
+- ⏳ Korner 11.5 Alt · @1.29
 
 **23:00 · Hapoel Beer Sheva – Ofi Crete**
 
@@ -141,6 +147,7 @@
 **23:00 · Celta Vigo – Union Saint Gilloise**
 
 - ⏳ Korner 10.5 Alt · @1.23
+- ⏳ ÇŞ 1-2 · @1.20
 
 **23:00 · St. Truidense – Brann**
 
@@ -153,6 +160,8 @@
 **23:00 · Sunderland – Dinamo Zagreb**
 
 - ⏳ En çok korner 1 · @1.31
+- ⏳ MS 1 · @1.32
+- ⏳ Korner 11.5 Alt · @1.22
 
 ## 04.11.2026 Çarşamba
 

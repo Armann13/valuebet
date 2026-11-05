@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**126/402 tuttu** (isabet %31, beklenen %29) · -17.66 birim · 39 tahmin sonuç bekliyor
+**128/404 tuttu** (isabet %32, beklenen %29) · -11.62 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -27,6 +27,7 @@
 **20:45 · AGF Aarhus – Braga**
 
 - ⏳ ↳ İY/MS 2/2 · @2.86
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.91
 
 **20:45 · Anderlecht – Salzburg**
 
@@ -56,6 +57,10 @@
 
 - ⏳ ↳ MS 1 & KG Var · @3.69
 
+**20:45 · Kuopion – KAA Gent**
+
+- ⏳ ↳ MS 2 & KG Var · @3.54
+
 **23:00 · Sturm Graz – NK Celje**
 
 - ⏳ ↳ MS 1 & KG Var · @2.69
@@ -79,6 +84,7 @@
 **23:00 · Celtic – Beşiktaş**
 
 - ⏳ ↳ MS 2 & KG Var · @3.36
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.62
 
 **23:00 · Riga FC – Jablonec**
 
@@ -182,16 +188,16 @@
 
 **22:45 · Northampton – Oldham**
 
-- ❌ ↳ İY/MS 1/1 · @3.52
+- ❌ ↳ İY/MS 1/1 · @3.52 · İY 0-0, MS 0-1
 
 **22:45 · Portsmouth – Swansea City**
 
-- ⏳ ↳ İY/MS 1/1 · @4.01
-- ❌ ↳ İY/MS 2/2 · @4.06
+- ✅ ↳ İY/MS 1/1 · @4.01 · İY 1-0, MS 3-1
+- ❌ ↳ İY/MS 2/2 · @4.06 · İY 1-0, MS 3-1
 
 **22:45 · Blackburn Rovers – Stoke City**
 
-- ⏳ ↳ İY/MS 2/2 · @4.03
+- ✅ ↳ İY/MS 2/2 · @4.03 · İY 0-1, MS 1-2
 
 **23:00 · Feyenoord – Inter**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**376/654 tuttu** (isabet %57, beklenen %60) · -72.63 birim · 74 tahmin sonuç bekliyor
+**376/654 tuttu** (isabet %57, beklenen %60) · -72.63 birim · 78 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,6 +87,7 @@
 
 - ⏳ MS 1 · @1.40
 - ⏳ ↳ Korner 10.5 Alt · @1.40
+- ⏳ 2.5 Üst · @1.42
 
 **23:00 · Getafe – Brighton**
 
@@ -96,6 +97,7 @@
 
 - ⏳ 2.5 Üst · @1.41
 - ⏳ ↳ Korner 10.5 Alt · @1.65
+- ⏳ ÇŞ 1-X · @1.49
 
 **23:00 · Twente – Pafos FC**
 
@@ -105,6 +107,7 @@
 **23:00 · Sunderland – Dinamo Zagreb**
 
 - ⏳ 2.5 Üst · @1.49
+- ⏳ ↳ Korner 10.5 Alt · @1.41
 
 **23:00 · St. Truidense – Brann**
 
@@ -124,6 +127,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.68
 - ⏳ ↳ Korner 9.5 Üst · @1.51
+- ⏳ ↳ Korner 10.5 Alt · @1.51
 
 **23:00 · Torreense – Ararat**
 

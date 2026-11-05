@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 53 tahmin sonuç bekliyor
+**61/652 tuttu** (isabet %9, beklenen %11) · -209.93 birim · 58 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,10 +11,12 @@
 **20:45 · Kuopion – KAA Gent**
 
 - ⏳ 0-1 · @5.89
+- ⏳ 1-2 · @7.31
 
 **20:45 · AGF Aarhus – Braga**
 
 - ⏳ 0-1 · @6.52
+- ⏳ 1-2 · @7.71
 
 **20:45 · Mjallby – Banja Luka**
 
@@ -103,10 +105,12 @@
 **23:00 · Celtic – Beşiktaş**
 
 - ⏳ 1-2 · @8.04
+- ⏳ 2-1 · @9.49
 
 **23:00 · B. Leverkusen – Marsilya**
 
 - ⏳ 2-1 · @7.45
+- ⏳ 3-1 · @8.74
 
 **23:00 · Riga FC – Jablonec**
 
@@ -115,6 +119,7 @@
 **23:00 · Twente – Pafos FC**
 
 - ⏳ 2-1 · @7.63
+- ⏳ 3-1 · @8.69
 
 **23:00 · Lugano – Zalgiris Kaunas**
 

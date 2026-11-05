@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**245/563 tuttu** (isabet %44, beklenen %42) · -23.69 birim · 52 tahmin sonuç bekliyor
+**245/563 tuttu** (isabet %44, beklenen %42) · -23.69 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,6 +35,7 @@
 **20:45 · Kuopion – KAA Gent**
 
 - ⏳ ↳ İY/MS 2/2 · @2.26
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.44
 
 **20:45 · Anderlecht – Salzburg**
 
@@ -59,6 +60,7 @@
 **20:45 · Levski Sofya – Jagiellonia Bialystok**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.84
+- ⏳ ↳ MS 1 · @1.87
 
 **20:45 · Trabzonspor – Freiburg**
 
@@ -119,6 +121,7 @@
 **23:00 · Celtic – Beşiktaş**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.73
+- ⏳ ↳ MS 1 · @2.65
 
 **23:00 · Lugano – Zalgiris Kaunas**
 
@@ -131,6 +134,7 @@
 **23:00 · Celta Vigo – Union Saint Gilloise**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.08
+- ⏳ ↳ MS 1 · @2.10
 
 ## 04.11.2026 Çarşamba
 
