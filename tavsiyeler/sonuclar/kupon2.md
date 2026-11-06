@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/25 tuttu** (isabet %28, beklenen %51) · -11.29 birim · 3 tahmin sonuç bekliyor
+**7/26 tuttu** (isabet %27, beklenen %51) · -12.29 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,10 +15,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 05.11 18:03 gönderilen kupon · 2 maç, oran 4,14
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
 - ❌ 05.11 23:00 St. Truidense – Brann · MS 1 & 2.5 Üst · @1.80 · 1-1
-- ⏳ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30
+- ❌ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30 · korner 5-4
 
 ## 05.11 09:57 gönderilen kupon · 2 maç, oran 3,55
 

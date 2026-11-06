@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**11/43 tuttu** (isabet %26, beklenen %39) · -13.04 birim · 5 tahmin sonuç bekliyor
+**11/44 tuttu** (isabet %25, beklenen %40) · -14.04 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30
+- ❌ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30 · korner 5-4
 - ⏳ 07.11 15:30 Bristol City – Norwich City · En çok korner 1 · @2.21
 - ⏳ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19
 

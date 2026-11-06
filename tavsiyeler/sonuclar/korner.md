@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**499/934 tuttu** (isabet %53, beklenen %59) · -146.95 birim · 169 tahmin sonuç bekliyor
+**504/944 tuttu** (isabet %53, beklenen %59) · -149.19 birim · 159 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -288,25 +288,25 @@
 
 **20:00 · Gaziantep FK – Kasımpaşa**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.58
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.00
+- ✅ 🟡 Korner 9.5 Alt · @1.58 · korner 7-2
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.00 · korner 7-2
 
 **20:30 · Braunschweig – E. Cottbus**
 
-- ⏳ 🟡 Korner 11.5 Alt · @1.49
-- ⏳ 🔴 ↳ Korner 10.5 Alt · @1.82
-- ⏳ 2 En çok korner 2 · @2.30
-- ⏳ 3 En çok korner 2 · @2.30
+- ✅ 🟡 Korner 11.5 Alt · @1.49 · korner 5-4
+- ✅ 🔴 ↳ Korner 10.5 Alt · @1.82 · korner 5-4
+- ❌ 2 En çok korner 2 · @2.30 · korner 5-4
+- ❌ 3 En çok korner 2 · @2.30 · korner 5-4
 
 **20:30 · Dynamo Dresden – Greuther Furth**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.71
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.17
+- ❌ 🟡 Korner 10.5 Alt · @1.71 · korner 3-9
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.17 · korner 3-9
 
 **22:00 · Willem II – Zwolle**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.66
+- ✅ 🟢 Korner 12.5 Alt · @1.21 · korner 2-7
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.66 · korner 2-7
 
 **22:30 · Castellon – Eibar**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**343/477 tuttu** (isabet %72, beklenen %74) · -53.52 birim · 124 tahmin sonuç bekliyor
+**348/482 tuttu** (isabet %72, beklenen %74) · -52.50 birim · 119 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -254,23 +254,23 @@
 
 **20:00 · Gaziantep FK – Kasımpaşa**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 0-2
 
 **20:30 · Braunschweig – E. Cottbus**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 0-0
 
 **22:00 · Montpellier – Metz**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-3
 
 **22:00 · Dijon – Red Star FC**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 1-0
 
 **22:00 · Willem II – Zwolle**
 
-- ⏳ Korner 12.5 Alt · @1.21
+- ✅ Korner 12.5 Alt · @1.21 · korner 2-7
 
 **22:30 · Ascoli – US Palermo**
 

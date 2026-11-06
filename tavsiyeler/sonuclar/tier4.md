@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**134/428 tuttu** (isabet %31, beklenen %29) · -16.63 birim · 94 tahmin sonuç bekliyor
+**134/436 tuttu** (isabet %31, beklenen %29) · -24.63 birim · 86 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -236,32 +236,32 @@
 
 **20:00 · Gaziantep FK – Kasımpaşa**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.70
+- ❌ ↳ MS 1 & 2.5 Üst · @3.70 · 0-2
 
 **20:30 · Braunschweig – E. Cottbus**
 
-- ⏳ ↳ MS 1 & KG Var · @2.89
+- ❌ ↳ MS 1 & KG Var · @2.89 · 0-0
 
 **20:30 · Dynamo Dresden – Greuther Furth**
 
-- ⏳ ↳ MS 1 & KG Var · @3.12
+- ❌ ↳ MS 1 & KG Var · @3.12 · 3-0
 
 **22:00 · Montpellier – Metz**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.69
-- ⏳ ↳ MS 1 & KG Var · @3.52
+- ❌ ↳ MS 1 & 2.5 Üst · @2.69 · 2-3
+- ❌ ↳ MS 1 & KG Var · @3.52 · 2-3
 
 **22:00 · Dijon – Red Star FC**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.45
+- ❌ ↳ MS 2 & 2.5 Üst · @3.45 · 1-0
 
 **22:00 · Willem II – Zwolle**
 
-- ⏳ ↳ MS 2 & KG Var · @3.56
+- ❌ ↳ MS 2 & KG Var · @3.56 · 1-1
 
 **22:00 · Dunkerque – Guingamp**
 
-- ⏳ ↳ MS 2 & KG Var · @4.03
+- ❌ ↳ MS 2 & KG Var · @4.03 · 3-0
 
 **22:30 · Castellon – Eibar**
 
