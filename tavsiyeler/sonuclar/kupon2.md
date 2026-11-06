@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**7/25 tuttu** (isabet %28, beklenen %51) · -11.29 birim · 1 tahmin sonuç bekliyor
+**7/25 tuttu** (isabet %28, beklenen %51) · -11.29 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.11 10:00 gönderilen kupon · 2 maç, oran 3,57
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 06.11 22:30 Ascoli – US Palermo · En çok korner 1 · @1.76
+- ⏳ 07.11 15:00 Osnabruck – Kaiserslautern · En çok korner 2 · @2.03
 
 ## 05.11 18:03 gönderilen kupon · 2 maç, oran 4,14
 

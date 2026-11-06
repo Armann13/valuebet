@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/81 tuttu** (isabet %19, beklenen %16) · +1.40 birim · 1 tahmin sonuç bekliyor
+**15/81 tuttu** (isabet %19, beklenen %16) · +1.40 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.11.2026 Cumartesi
+
+**18:00 · Queen's Park – P. Thistle**
+
+- ⏳ 1-2 · @6.49
+
+**18:00 · Watford – Middlesbrough**
+
+- ⏳ 1-2 · @7.30
+
+**23:00 · Valencia – Real Madrid**
+
+- ⏳ 1-2 · @7.74
 
 ## 05.11.2026 Perşembe
 

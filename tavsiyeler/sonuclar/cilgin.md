@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/92 tuttu** (isabet %14, beklenen %13) · +136.91 birim · 22 tahmin sonuç bekliyor
+**13/92 tuttu** (isabet %14, beklenen %13) · +136.91 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 06.11 10:00 gönderilen kupon · 4 maç, oran 148.879,96
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 07.11 17:30 Mainz – Bayern Münih · İY/MS 1/2 · @16.35
+- ⏳ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10
+- ⏳ 07.11 18:00 Watford – Middlesbrough · İY/MS 1/2 · @20.05
+- ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @20.55
 
 ## 05.11 18:03 gönderilen kupon · 4 maç, oran 230.054,16
 

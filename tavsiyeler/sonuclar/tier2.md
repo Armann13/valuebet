@@ -2,9 +2,329 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**406/708 tuttu** (isabet %57, beklenen %60) · -80.82 birim · 58 tahmin sonuç bekliyor
+**406/708 tuttu** (isabet %57, beklenen %60) · -80.82 birim · 161 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.11.2026 Cumartesi
+
+**13:30 · Eyüpspor – Kocaelispor**
+
+- ⏳ ↳ MS 2 · @1.81
+- ⏳ ↳ Korner 9.5 Alt · @1.46
+
+**15:00 · Osnabruck – Kaiserslautern**
+
+- ⏳ 2.5 Üst · @1.51
+- ⏳ En çok korner 2 · @2.03
+
+**15:00 · Nürnberg – Darmstadt 98**
+
+- ⏳ MS 1 · @1.58
+- ⏳ ↳ Korner 11.5 Alt · @1.41
+
+**15:00 · Holstein Kiel – Arminia Bielefeld**
+
+- ⏳ 2.5 Üst · @1.65
+- ⏳ En çok korner 2 · @1.87
+
+**15:30 · Wrexham – Wolverhampton**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
+
+**15:30 · Bristol City – Norwich City**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.49
+
+**15:30 · Portsmouth – Stoke City**
+
+- ⏳ En çok korner 1 · @1.75
+
+**15:30 · Leeds United – Tottenham**
+
+- ⏳ En çok korner 2 · @1.76
+
+**16:00 · CF Burgos – Celta Vigo B**
+
+- ⏳ MS 1 · @1.51
+- ⏳ ↳ Korner 9.5 Alt · @1.42
+
+**16:00 · Malaga CF – Santander**
+
+- ⏳ 2.5 Üst · @1.52
+- ⏳ En çok korner 1 · @1.67
+
+**16:00 · Samsunspor – Konyaspor**
+
+- ⏳ En çok korner 1 · @1.62
+
+**17:00 · AC Pisa – FC Sudtirol**
+
+- ⏳ MS 1 · @1.43
+- ⏳ ↳ Korner 9.5 Alt · @1.57
+
+**17:00 · Cagliari – Frosinone**
+
+- ⏳ 2.5 Üst · @1.42
+- ⏳ En çok korner 1 · @2.08
+
+**17:00 · Juve Stabia – SS Arezzo**
+
+- ⏳ MS 1 · @1.62
+- ⏳ En çok korner 1 · @1.62
+
+**17:00 · Torino – Lecce**
+
+- ⏳ MS 1 · @1.65
+- ⏳ Korner 9.5 Alt · @1.55
+
+**17:00 · AC Cesena – US Catanzaro 1929**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.42
+
+**17:00 · Padova – Empoli**
+
+- ⏳ En çok korner 2 · @2.17
+
+**17:30 · B. Dortmund – Elversberg**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.49
+- ⏳ Korner 10.5 Alt · @1.58
+
+**17:30 · Leipzig – Augsburg**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.57
+- ⏳ ↳ Korner 10.5 Alt · @1.66
+
+**17:30 · Paderborn – Eintracht Frankfurt**
+
+- ⏳ ÇŞ 1-X · @1.52
+- ⏳ ↳ Korner 10.5 Alt · @1.49
+
+**17:30 · Mainz – Bayern Münih**
+
+- ⏳ ↳ MS 2 & KG Var · @1.91
+- ⏳ ↳ Korner 10.5 Alt · @1.61
+
+**18:00 · Watford – Middlesbrough**
+
+- ⏳ MS 2 · @1.40
+- ⏳ ↳ Korner 11.5 Alt · @1.40
+
+**18:00 · Cardiff City – Burnley**
+
+- ⏳ 2.5 Üst · @1.40
+- ⏳ Korner 9.5 Alt · @1.80
+
+**18:00 · Arsenal – Hull City**
+
+- ⏳ MS 1 & 2.5 Üst · @1.47
+- ⏳ ↳ Korner 9.5 Üst · @1.49
+
+**18:00 · Preston – Southampton**
+
+- ⏳ MS 2 · @1.50
+- ⏳ ↳ Korner 11.5 Alt · @1.56
+
+**18:00 · Blackburn Rovers – West Ham**
+
+- ⏳ MS 2 · @1.51
+- ⏳ Korner 10.5 Alt · @1.88
+
+**18:00 · Westerlo – Charleroi**
+
+- ⏳ 2.5 Üst · @1.47
+- ⏳ Korner 10.5 Alt · @1.55
+
+**18:00 · Queens Park Rangers – Lincoln City**
+
+- ⏳ MS 1 · @1.52
+
+**18:00 · Queen of The South – East Kilbri**
+
+- ⏳ MS 2 · @1.55
+
+**18:00 · Elgin City – Dumbarton**
+
+- ⏳ MS 1 · @1.56
+
+**18:00 · Cove Rangers – Hamilton**
+
+- ⏳ MS 2 · @1.56
+
+**18:00 · Annan Athletic – Kelty Hearts**
+
+- ⏳ 2.5 Üst · @1.49
+
+**18:00 · Stranraer – Stirling Alb**
+
+- ⏳ MS 1 · @1.58
+
+**18:00 · Arbroath – Ayr United**
+
+- ⏳ 2.5 Alt · @1.51
+
+**18:00 · Forfar – Edinburgh**
+
+- ⏳ 2.5 Üst · @1.52
+
+**18:00 · Birmingham – Swansea City**
+
+- ⏳ MS 1 · @1.68
+- ⏳ ↳ Korner 9.5 Alt · @1.66
+
+**18:00 · G. Morton – Stenhousemuir**
+
+- ⏳ KG Yok · @1.70
+
+**18:00 · Queen's Park – P. Thistle**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.75
+
+**18:00 · Inverness – Livingston**
+
+- ⏳ 2.5 Alt · @1.65
+
+**18:00 · Volos – AE Kifisia FC**
+
+- ⏳ 2.5 Alt · @1.66
+
+**18:00 · Montrose – East Fife**
+
+- ⏳ 2.5 Alt · @1.66
+
+**18:00 · Alloa – Airdrieonian**
+
+- ⏳ 2.5 Üst · @1.66
+
+**18:00 · West Bromwich – Millwall**
+
+- ⏳ En çok korner 1 · @1.47
+
+**18:00 · Fulham – Newcastle United**
+
+- ⏳ ↳ Korner 11.5 Alt · @1.41
+
+**18:00 · Charlton – Sheffield United**
+
+- ⏳ Korner 10.5 Alt · @1.59
+
+**18:15 · Cadiz – Real Oviedo**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
+
+**18:15 · Espanyol – Deportivo La Coruna**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.42
+
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ En çok korner 1 · @1.83
+
+**18:30 · Fortuna Sittard – Telstar**
+
+- ⏳ Korner 10.5 Alt · @1.61
+
+**19:00 · Galatasaray – Amed Sportif Faaliyetler**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.70
+
+**19:00 · Göztepe – Başakşehir**
+
+- ⏳ Korner 9.5 Alt · @1.60
+
+**19:15 · Mantova 1911 – Hellas Verona**
+
+- ⏳ Korner 9.5 Alt · @1.62
+
+**20:00 · Parma – Bologna**
+
+- ⏳ ↳ MS 2 · @1.69
+- ⏳ ↳ Korner 9.5 Alt · @1.41
+
+**20:15 · O.H. Leuven – Mechelen**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.64
+
+**20:30 · Nottingham Forest – Manchester City**
+
+- ⏳ MS 2 · @1.55
+- ⏳ Korner 9.5 Üst · @1.64
+
+**20:30 · Cordoba – AD Ceuta**
+
+- ⏳ MS 1 & 2.5 Üst · @1.78
+
+**20:30 · Stuttgart – Werder Bremen**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.83
+
+**20:30 · Leganes – Albacete**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.47
+
+**20:30 · Osasuna – Athletic Bilbao**
+
+- ⏳ En çok korner 2 · @1.66
+
+**20:45 · ADO Den Haag – Sparta Rotterdam**
+
+- ⏳ 2.5 Üst · @1.42
+- ⏳ Korner 10.5 Alt · @1.61
+
+**21:00 · Alverca FC – Casa Pia AC**
+
+- ⏳ MS 1 · @1.61
+
+**21:00 · AJ Auxerre – Paris**
+
+- ⏳ MS 2 · @1.61
+- ⏳ ↳ Korner 10.5 Alt · @1.42
+
+**21:30 · Benevento – AS Avellino 1912**
+
+- ⏳ MS 1 · @1.72
+- ⏳ Korner 8.5 Üst · @1.58
+
+**22:00 · St Etienne – Stade Laval**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.75
+
+**22:30 · Hertha Berlin – Wolfsburg**
+
+- ⏳ Korner 10.5 Üst · @1.58
+
+**22:45 · AS Roma – Sassuolo**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.47
+- ⏳ ↳ Korner 10.5 Alt · @1.41
+
+**22:45 · Antwerp – Lommel SK**
+
+- ⏳ MS 1 · @1.73
+
+**22:45 · RAAL La Louviere – Cercle Brugge**
+
+- ⏳ Korner 9.5 Üst · @1.69
+
+**23:00 · Valencia – Real Madrid**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.51
+- ⏳ ↳ Korner 10.5 Alt · @1.49
+
+**23:00 · Excelsior – Go Ahead Eagles**
+
+- ⏳ ÇŞ 1-X · @1.45
+- ⏳ Korner 10.5 Alt · @1.44
+
+**23:00 · St Mirren – Rangers**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.80
+
+**23:30 · Sporting Lizbon – Moreirense**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.40
+- ⏳ ↳ Korner 10.5 Alt · @1.40
 
 ## 06.11.2026 Cuma
 
@@ -42,6 +362,10 @@
 **22:00 · Grenoble – Reims**
 
 - ⏳ MS 2 · @1.77
+
+**22:00 · Montpellier – Metz**
+
+- ⏳ 2.5 Üst · @1.58
 
 **22:30 · Castellon – Eibar**
 
