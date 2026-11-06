@@ -5573,3 +5573,6 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 21:12,2026-11-06,06.11,F2,Dunkerque,Guingamp,Dunkerque – Guingamp,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1057771057314502,8.38,-0.11358785397044724,oran,,,,2026-11-06 22:00,,,,,,kadro
 2026-11-06 21:12,2026-11-06,06.11,F2,Dijon,Red Star,Dijon – Red Star FC,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.09765172066519275,8.55,-0.165077788312602,oran,,,,2026-11-06 22:00,,,,,,kadro
 2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),1-2,0.0875370926704123,8.06,-0.2944510330764768,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,🟡 Tier 2 — Orta risk,MS 1,0.6601531208501588,1.42,-0.06258256839277465,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.38309123748652774,2.05,-0.21466296315261824,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.1622146420890112,5.63,-0.08673156503886692,oran,,,,2026-11-06 22:00,,,,,,kadro
