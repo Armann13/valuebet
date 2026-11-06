@@ -5598,3 +5598,31 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,🟡 Tier 2 — Orta risk,En çok korner 2,0.5637393817930553,2.18,0.2289518523088605,korner,False,,,2026-11-06 22:45,,,,,,kadro
 2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11478477121568043,7.8,-0.10467878451769275,oran,,,,2026-11-06 22:45,,,,,,kadro
 2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10682700078147099,7.92,-0.15393015381074981,oran,,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SC1,Raith Rvs,Dunfermline,Raith Rovers – Dunfermline,SC1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.714096735879955,1.2,-0.14308391694405398,oran,False,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SC1,Raith Rvs,Dunfermline,Raith Rovers – Dunfermline,SC1,🔴 Tier 3 — Yüksek risk,MS 2,0.381300894666033,2.24,-0.14588599594808593,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SC1,Raith Rvs,Dunfermline,Raith Rovers – Dunfermline,SC1,🟣 Tier 4 — Çok yüksek risk,İY/MS 2/2,0.2081393741759719,3.78,-0.2132331656148263,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SC1,Raith Rvs,Dunfermline,Raith Rovers – Dunfermline,SC1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.12161348380276035,5.84,-0.28977725459187953,oran,,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7281109277572988,1.22,-0.11170466813609548,oran,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,🔴 Tier 3 — Yüksek risk,MS 1,0.4175794199294915,2.14,-0.10638004135088819,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2653922768350391,3.28,-0.12951333198107184,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5473022483259835,1.59,-0.12978942516168612,korner,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4386204986036284,2.01,-0.11837279780670706,korner,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,I1,Venezia,Udinese,Venezia – Udinese,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09774013772165367,8.2,-0.1985308706824399,oran,,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.731664628581312,1.21,-0.1146857994166125,oran,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7208315104978537,1.23,-0.11337724208764,oran,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,🟡 Tier 2 — Orta risk,MS 1,0.6115051848308214,1.52,-0.07051211905715149,oran,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,🟡 Tier 2 — Orta risk,MS 1,0.5073482815495636,1.8,-0.08677309321078552,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.4069492246178079,2.22,-0.0965727213484664,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,🔴 Tier 3 — Yüksek risk,MS 1,0.3876866292373687,2.28,-0.1160744853387995,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.28961713880045803,2.8,-0.18907201135871754,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.30640240662626056,3.06,-0.062408635723642636,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.25240661661729025,3.54,-0.10648057717479253,oran,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7152674226764909,1.2,-0.1416790927882109,korner,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5932868245693694,1.45,-0.13973410437441436,korner,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5747628500121409,1.58,-0.0918746969808174,korner,False,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5249414103978038,1.67,-0.12334784463566761,korner,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.48432874486698263,1.79,-0.13305154668810104,korner,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4728761403590228,1.98,-0.06370524208913486,korner,True,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.15241030710175016,5.22,-0.2044181969288642,oran,,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1311915566142439,7.24,-0.050173130112874165,oran,,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.07589461606060793,8.48,-0.35641365580604467,oran,,,,2026-11-06 23:00,,,,,,kadro
