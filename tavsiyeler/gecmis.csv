@@ -5587,3 +5587,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6439683885040794,1.42,-0.08556488832420728,korner,True,,,2026-11-06 22:30,,,,,,kadro
 2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1186436863191415,8.31,-0.014070966687934061,oran,,,,2026-11-06 22:30,,,,,,kadro
 2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08096479075074475,8.23,-0.33365977212137066,oran,,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7316183961589486,1.21,-0.11474174064767217,oran,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7059213908972871,1.24,-0.12465747528736393,oran,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,🔴 Tier 3 — Yüksek risk,MS 1,0.4910740943926655,1.85,-0.0915129253735687,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,🔴 Tier 3 — Yüksek risk,MS 1,0.46292829741348657,1.95,-0.09728982004370124,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3513591672957454,2.61,-0.08295257335810458,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.3304276219394244,2.73,-0.09793259210537142,oran,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.725982453767695,1.23,-0.1070415818657352,korner,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6314797442790112,1.43,-0.09698396568101397,korner,True,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,🟡 Tier 2 — Orta risk,En çok korner 2,0.5637393817930553,2.18,0.2289518523088605,korner,False,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,B1,Standard,Beveren,Standard Liege – SK Beveren,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11478477121568043,7.8,-0.10467878451769275,oran,,,,2026-11-06 22:45,,,,,,kadro
+2026-11-06 21:55,2026-11-06,06.11,F1,Toulouse,Strasbourg,Toulouse – Strasbourg,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10682700078147099,7.92,-0.15393015381074981,oran,,,,2026-11-06 22:45,,,,,,kadro
