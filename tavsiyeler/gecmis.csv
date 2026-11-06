@@ -5626,3 +5626,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 22:09,2026-11-06,06.11,SP1,Sevilla,Alaves,Sevilla – Alaves,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.15241030710175016,5.22,-0.2044181969288642,oran,,,,2026-11-06 23:00,,,,,,kadro
 2026-11-06 22:09,2026-11-06,06.11,E0,Everton,Coventry,Everton – Coventry,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1311915566142439,7.24,-0.050173130112874165,oran,,,,2026-11-06 23:00,,,,,,kadro
 2026-11-06 22:09,2026-11-06,06.11,E1,Derby,Bolton,Derby County – Bolton,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.07589461606060793,8.48,-0.35641365580604467,oran,,,,2026-11-06 23:00,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7087972741708337,1.24,-0.12109138002816622,oran,False,,,2026-11-06 23:45,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,🔴 Tier 3 — Yüksek risk,MS 1,0.39030482554307533,2.27,-0.11400804601721903,oran,True,,,2026-11-06 23:45,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.22374782014875885,3.72,-0.16765810904661704,oran,True,,,2026-11-06 23:45,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,🟢 Tier 1 — Düşük risk,Korner 7.5 Üst,0.7003217229625511,1.22,-0.14560749798568762,korner,False,,,2026-11-06 23:45,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.595552915159541,1.44,-0.14240380217026094,korner,True,,,2026-11-06 23:45,,,,,,kadro
+2026-11-06 23:06,2026-11-06,06.11,P1,Famalicao,Arouca,Famalicao – FC Arouca,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.1131452344330252,6.38,-0.27813340431729927,oran,,,,2026-11-06 23:45,,,,,,kadro
