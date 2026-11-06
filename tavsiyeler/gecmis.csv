@@ -5576,3 +5576,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,🟡 Tier 2 — Orta risk,MS 1,0.6601531208501588,1.42,-0.06258256839277465,oran,False,,,2026-11-06 22:00,,,,,,kadro
 2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.38309123748652774,2.05,-0.21466296315261824,oran,True,,,2026-11-06 22:00,,,,,,kadro
 2026-11-06 21:27,2026-11-06,06.11,F2,Nancy,Sochaux,AS Nancy – Sochaux,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.1622146420890112,5.63,-0.08673156503886692,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.735842403503415,1.2,-0.11698911579590199,oran,False,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7307598577296714,1.21,-0.11578057214709758,oran,False,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🔴 Tier 3 — Yüksek risk,MS 1,0.41322796031263326,2.16,-0.1074276057247121,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,🔴 Tier 3 — Yüksek risk,MS 2,0.4102815933897594,2.17,-0.1096889423442221,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2756448204122407,3.2,-0.11793657468082974,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.27353504979701065,3.23,-0.11648178915565555,oran,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7320013973605377,1.23,-0.09963828124653862,korner,False,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,🟡 Tier 2 — Orta risk,En çok korner 1,0.6688690478906706,1.76,0.1772095242875802,korner,False,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6439683885040794,1.42,-0.08556488832420728,korner,True,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,I2,Ascoli,Palermo,Ascoli – US Palermo,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1186436863191415,8.31,-0.014070966687934061,oran,,,,2026-11-06 22:30,,,,,,kadro
+2026-11-06 21:41,2026-11-06,06.11,D1,Hamburg,M'gladbach,Hamburg – Monchengladbach,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08096479075074475,8.23,-0.33365977212137066,oran,,,,2026-11-06 22:30,,,,,,kadro
