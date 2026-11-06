@@ -5548,3 +5548,28 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 19:48,2026-11-06,06.11,D2,Dresden,Greuther Furth,Dynamo Dresden – Greuther Furth,D2,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.41708201359924635,2.17,-0.0949320304896355,korner,True,,,2026-11-06 20:30,,,,,,kadro
 2026-11-06 19:48,2026-11-06,06.11,D2,Braunschweig,Cottbus,Braunschweig – E. Cottbus,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1278757020414121,7.78,-0.005127038117813787,oran,,,,2026-11-06 20:30,,,,,,kadro
 2026-11-06 19:48,2026-11-06,06.11,D2,Dresden,Greuther Furth,Dynamo Dresden – Greuther Furth,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08934096611250658,7.67,-0.3147547899170745,oran,,,,2026-11-06 20:30,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dijon,Red Star,Dijon – Red Star FC,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7308768091576279,1.21,-0.11563906091927034,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Boulogne,Annecy,US Boulogne – Annecy FC,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7076460256950546,1.24,-0.12251892813813225,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5889406199024054,1.52,-0.10481025774834374,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dunkerque,Guingamp,Dunkerque – Guingamp,F2,🟡 Tier 2 — Orta risk,2.5 Üst,0.5801237952409641,1.54,-0.10660935532891525,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Grenoble,Reims,Grenoble – Reims,F2,🟡 Tier 2 — Orta risk,MS 2,0.5505107962765371,1.67,-0.08064697021818312,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Montpellier,Metz,Montpellier – Metz,F2,🟡 Tier 2 — Orta risk,MS 1,0.5301709252381401,1.73,-0.08280429933801758,oran,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Boulogne,Annecy,US Boulogne – Annecy FC,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.4045970891797472,2.2,-0.10988640380455617,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dijon,Red Star,Dijon – Red Star FC,F2,🔴 Tier 3 — Yüksek risk,MS 2,0.3855348606596742,2.29,-0.11712516908934612,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Montpellier,Metz,Montpellier – Metz,F2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3741176202363365,2.43,-0.09089418282570227,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Grenoble,Reims,Grenoble – Reims,F2,🔴 Tier 3 — Yüksek risk,İY/MS 2/2,0.3278749962627683,2.54,-0.1671975094925685,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.29987166349712907,2.99,-0.10338372614358404,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dunkerque,Guingamp,Dunkerque – Guingamp,F2,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.2621455864659437,3.3,-0.13491956466238575,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Montpellier,Metz,Montpellier – Metz,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.2909153575733711,3.13,-0.08943493079534848,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dijon,Red Star,Dijon – Red Star FC,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2523990066564424,3.4,-0.14184337736809594,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.23971622692279065,3.7,-0.1130499603856745,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dunkerque,Guingamp,Dunkerque – Guingamp,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.22046783966763564,4.03,-0.11151460613942832,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Boulogne,Annecy,US Boulogne – Annecy FC,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.21996579168101754,3.58,-0.21252246578195721,oran,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.7549444038747042,1.21,-0.08651727131160791,korner,False,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5820784497620952,1.66,-0.03374977339492202,korner,True,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Montpellier,Metz,Montpellier – Metz,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.14107122146131812,7.54,0.06367700981833857,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Boulogne,Annecy,US Boulogne – Annecy FC,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.13859786884282296,5.97,-0.17257072300834697,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Grenoble,Reims,Grenoble – Reims,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.13154324849085186,6.01,-0.20942507656998033,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dunkerque,Guingamp,Dunkerque – Guingamp,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1057771057314502,8.38,-0.11358785397044724,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,F2,Dijon,Red Star,Dijon – Red Star FC,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.09765172066519275,8.55,-0.165077788312602,oran,,,,2026-11-06 22:00,,,,,,kadro
+2026-11-06 21:12,2026-11-06,06.11,N1,Willem II,Zwolle,Willem II – Zwolle,N1,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor),1-2,0.0875370926704123,8.06,-0.2944510330764768,oran,,,,2026-11-06 22:00,,,,,,kadro
