@@ -5531,3 +5531,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-06 10:00,2026-11-07,07.11,SC1,Queens Park,Partick,Queen's Park – P. Thistle,SC1,🎲 Çılgın kupon,İY/MS 1/2,0.058995553183151306,22.1,0.30380172534764394,oran,,,,2026-11-07 18:00,,,,,,
 2026-11-06 10:00,2026-11-07,07.11,E1,Watford,Middlesbrough,Watford – Middlesbrough,E1,🎲 Çılgın kupon,İY/MS 1/2,0.06222836484781246,20.05,0.24767871519863993,oran,,,,2026-11-07 18:00,,,,,,
 2026-11-06 10:00,2026-11-07,07.11,D1,Mainz,Bayern Munich,Mainz – Bayern Münih,D1,🎲 Çılgın kupon,İY/MS 1/2,0.07443794629990463,16.35,0.2170604220034409,oran,,,,2026-11-07 17:30,,,,,,
+2026-11-06 19:24,2026-11-06,06.11,T1,Gaziantep,Kasimpasa,Gaziantep FK – Kasımpaşa,T1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5939466898417568,1.51,-0.10314049833894723,oran,False,,,2026-11-06 20:00,,,,,,kadro
+2026-11-06 19:24,2026-11-06,06.11,T1,Gaziantep,Kasimpasa,Gaziantep FK – Kasımpaşa,T1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.2726395412278382,3.28,-0.10574230477269086,oran,True,,,2026-11-06 20:00,,,,,,kadro
+2026-11-06 19:24,2026-11-06,06.11,T1,Gaziantep,Kasimpasa,Gaziantep FK – Kasımpaşa,T1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.22073230722571735,3.97,-0.1236927403139021,oran,True,,,2026-11-06 20:00,,,,,,kadro
+2026-11-06 19:24,2026-11-06,06.11,T1,Gaziantep,Kasimpasa,Gaziantep FK – Kasımpaşa,T1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5125617847568181,1.65,-0.15427305515125012,korner,False,,,2026-11-06 20:00,,,,,,kadro
+2026-11-06 19:24,2026-11-06,06.11,T1,Gaziantep,Kasimpasa,Gaziantep FK – Kasımpaşa,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09935945459308598,8.42,-0.16339339232621608,oran,,,,2026-11-06 20:00,,,,,,kadro
