@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**504/944 tuttu** (isabet %53, beklenen %59) · -149.19 birim · 159 tahmin sonuç bekliyor
+**518/962 tuttu** (isabet %54, beklenen %59) · -145.20 birim · 141 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -314,48 +314,48 @@
 
 **22:30 · Hamburg – Monchengladbach**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.46
+- ✅ 🟢 Korner 11.5 Alt · @1.25 · korner 5-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.46 · korner 5-3
 
 **22:30 · Ascoli – US Palermo**
 
-- ⏳ 🟡 En çok korner 1 · @1.82
-- ⏳ 2 En çok korner 1 · @1.76
+- ✅ 🟡 En çok korner 1 · @1.82 · korner 5-2
+- ✅ 2 En çok korner 1 · @1.76 · korner 5-2
 
 **22:45 · Toulouse – Strasbourg**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
+- ✅ 🟢 Korner 10.5 Alt · @1.23 · korner 7-1
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.43 · korner 7-1
 
 **22:45 · Standard Liege – SK Beveren**
 
-- ⏳ 🟡 En çok korner 2 · @2.18
+- ✅ 🟡 En çok korner 2 · @2.18 · korner 3-5
 
 **22:45 · Venezia – Udinese**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.63
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
-- ⏳ 3 En çok korner 2 · @2.09
+- ❌ 🟡 Korner 9.5 Alt · @1.63 · korner 3-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.08 · korner 3-7
+- ✅ 3 En çok korner 2 · @2.09 · korner 3-7
 
 **23:00 · Everton – Coventry**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 2-2
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.68 · korner 2-2
 
 **23:00 · Derby County – Bolton**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.56
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.93
+- ✅ 🟡 Korner 10.5 Alt · @1.56 · korner 4-6
+- ❌ 🔴 ↳ Korner 9.5 Alt · @1.93 · korner 4-6
 
 **23:00 · Sevilla – Alaves**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.66
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @2.14
+- ✅ 🟡 Korner 8.5 Üst · @1.66 · korner 5-4
+- ❌ 🔴 ↳ Korner 9.5 Üst · @2.14 · korner 5-4
 
 **23:45 · Famalicao – FC Arouca**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.22
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.44
+- ✅ 🟢 Korner 7.5 Üst · @1.22 · korner 9-2
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.44 · korner 9-2
 
 ## 05.11.2026 Perşembe
 

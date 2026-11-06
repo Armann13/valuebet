@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**348/482 tuttu** (isabet %72, beklenen %74) · -52.50 birim · 119 tahmin sonuç bekliyor
+**356/493 tuttu** (isabet %72, beklenen %74) · -53.74 birim · 108 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -274,7 +274,7 @@
 
 **22:30 · Ascoli – US Palermo**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 1-1
 
 **22:30 · Castellon – Eibar**
 
@@ -282,37 +282,37 @@
 
 **22:30 · Hamburg – Monchengladbach**
 
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ Korner 11.5 Alt · @1.25 · korner 5-3
 
 **22:30 · Raith Rovers – Dunfermline**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 0-0
 
 **22:45 · Venezia – Udinese**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 2-1
 
 **22:45 · Toulouse – Strasbourg**
 
-- ⏳ ÇŞ 1-X · @1.23
-- ⏳ Korner 10.5 Alt · @1.23
+- ✅ ÇŞ 1-X · @1.23 · 3-1
+- ✅ Korner 10.5 Alt · @1.23 · korner 7-1
 
 **22:45 · Standard Liege – SK Beveren**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 3-0
 
 **23:00 · Sevilla – Alaves**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ❌ ÇŞ 1-2 · @1.21 · 0-0
 
 **23:00 · Everton – Coventry**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 2-2
 
 **23:45 · Famalicao – FC Arouca**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 7.5 Üst · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 1-0
+- ✅ Korner 7.5 Üst · @1.22 · korner 9-2
 
 ## 05.11.2026 Perşembe
 

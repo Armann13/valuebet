@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**134/436 tuttu** (isabet %31, beklenen %29) · -24.63 birim · 86 tahmin sonuç bekliyor
+**139/444 tuttu** (isabet %31, beklenen %29) · -15.71 birim · 78 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -269,35 +269,35 @@
 
 **22:30 · Ascoli – US Palermo**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.91
+- ❌ ↳ MS 2 & 2.5 Üst · @2.91 · 1-1
 
 **22:30 · Hamburg – Monchengladbach**
 
-- ⏳ ↳ MS 1 & KG Var · @3.91
+- ✅ ↳ MS 1 & KG Var · @3.91 · 3-1
 
 **22:30 · Raith Rovers – Dunfermline**
 
-- ⏳ ↳ İY/MS 2/2 · @3.89
+- ❌ ↳ İY/MS 2/2 · @3.89
 
 **22:45 · Toulouse – Strasbourg**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.66
+- ✅ ↳ MS 1 & 2.5 Üst · @2.66 · 3-1
 
 **22:45 · Standard Liege – SK Beveren**
 
-- ⏳ ↳ MS 1 & KG Var · @3.20
+- ❌ ↳ MS 1 & KG Var · @3.20 · 3-0
 
 **22:45 · Venezia – Udinese**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.16
+- ✅ ↳ MS 1 & 2.5 Üst · @3.16 · 2-1
 
 **23:00 · Everton – Coventry**
 
-- ⏳ ↳ MS 1 & KG Var · @3.15
+- ✅ ↳ MS 1 & KG Var · @3.15 · 3-1
 
 **23:00 · Derby County – Bolton**
 
-- ⏳ ↳ MS 1 & KG Var · @4.04
+- ✅ ↳ MS 1 & KG Var · @4.04 · 3-1
 
 **23:45 · Famalicao – FC Arouca**
 

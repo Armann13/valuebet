@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**413/720 tuttu** (isabet %57, beklenen %59) · -81.63 birim · 149 tahmin sonuç bekliyor
+**426/735 tuttu** (isabet %58, beklenen %59) · -75.44 birim · 134 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -373,48 +373,48 @@
 
 **22:30 · Hamburg – Monchengladbach**
 
-- ⏳ 2.5 Üst · @1.49
-- ⏳ ↳ Korner 10.5 Alt · @1.46
+- ✅ 2.5 Üst · @1.49 · 3-1
+- ✅ ↳ Korner 10.5 Alt · @1.46 · korner 5-3
 
 **22:30 · Raith Rovers – Dunfermline**
 
-- ⏳ KG Yok · @1.67
+- ✅ KG Yok · @1.67 · 0-0
 
 **22:30 · Ascoli – US Palermo**
 
-- ⏳ En çok korner 1 · @1.82
+- ✅ En çok korner 1 · @1.82 · korner 5-2
 
 **22:45 · Standard Liege – SK Beveren**
 
-- ⏳ MS 1 · @1.68
-- ⏳ En çok korner 2 · @2.18
+- ✅ MS 1 · @1.68 · 3-0
+- ✅ En çok korner 2 · @2.18 · korner 3-5
 
 **22:45 · Toulouse – Strasbourg**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.43
+- ✅ ↳ Korner 9.5 Alt · @1.43 · korner 7-1
 
 **22:45 · Venezia – Udinese**
 
-- ⏳ Korner 9.5 Alt · @1.63
+- ❌ Korner 9.5 Alt · @1.63 · korner 3-7
 
 **23:00 · Everton – Coventry**
 
-- ⏳ MS 1 · @1.57
-- ⏳ ↳ Korner 9.5 Alt · @1.68
+- ✅ MS 1 · @1.57 · 3-1
+- ✅ ↳ Korner 9.5 Alt · @1.68 · korner 2-2
 
 **23:00 · Derby County – Bolton**
 
-- ⏳ 2.5 Üst · @1.55
-- ⏳ Korner 10.5 Alt · @1.56
+- ✅ 2.5 Üst · @1.55 · 3-1
+- ✅ Korner 10.5 Alt · @1.56 · korner 4-6
 
 **23:00 · Sevilla – Alaves**
 
-- ⏳ ↳ MS 1 · @1.77
-- ⏳ Korner 8.5 Üst · @1.66
+- ❌ ↳ MS 1 · @1.77 · 0-0
+- ✅ Korner 8.5 Üst · @1.66 · korner 5-4
 
 **23:45 · Famalicao – FC Arouca**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.44
+- ✅ ↳ Korner 8.5 Üst · @1.44 · korner 9-2
 
 ## 05.11.2026 Perşembe
 

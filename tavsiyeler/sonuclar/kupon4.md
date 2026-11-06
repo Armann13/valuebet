@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/62 tuttu** (isabet %32, beklenen %36) · -7.13 birim · 6 tahmin sonuç bekliyor
+**21/63 tuttu** (isabet %33, beklenen %36) · -4.98 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,12 +17,12 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 05.11 18:03 gönderilen kupon · 4 maç, oran 41,85
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+❌ 3/4 maç tuttu
 
 - ✅ 05.11 20:45 NEC Nijmegen – Omonia · MS 1 & 2.5 Üst · @2.25 · 3-1
 - ❌ 05.11 23:00 Monaco – Nordsjælland · MS 1 & KG Var · @2.42 · 2-0
 - ✅ 06.11 20:30 Dynamo Dresden – Greuther Furth · MS 1 & 2.5 Üst · @2.44 · 3-0
-- ⏳ 06.11 23:00 Everton – Coventry · MS 1 & KG Var · @3.15
+- ✅ 06.11 23:00 Everton – Coventry · MS 1 & KG Var · @3.15 · 3-1
 
 ## 05.11 09:57 gönderilen kupon · 4 maç, oran 46,11
 
