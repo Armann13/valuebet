@@ -6080,3 +6080,13 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 19:39,2026-11-07,07.11,SP2,Cordoba,Ceuta,Cordoba – AD Ceuta,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1208189722517916,7.37,-0.1095641745042959,piyasa,,,,2026-11-07 20:30,,,,,,kadro
 2026-11-07 19:39,2026-11-07,07.11,E0,Nott'm Forest,Man City,Nottingham Forest – Manchester City,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11359616143271978,7.26,-0.17529186799845442,piyasa,,,,2026-11-07 20:30,,,,,,kadro
 2026-11-07 19:39,2026-11-07,07.11,D1,Stuttgart,Werder Bremen,Stuttgart – Werder Bremen,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09965912672490478,8.0,-0.2027269862007618,piyasa,,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7302135835494711,1.22,-0.10913942806964527,piyasa,False,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,🔴 Tier 3 — Yüksek risk,MS 1,0.46430097696362066,1.94,-0.099256104690576,piyasa,True,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2784147273571944,3.11,-0.1341301979191254,piyasa,True,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7036978288107807,1.25,-0.12037771398652408,korner,False,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6129299015148901,1.47,-0.09899304477311155,korner,True,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SP2,Leganes,Albacete,Leganes – Albacete,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10634173833155708,7.88,-0.16202710194733028,piyasa,,,,2026-11-07 20:30,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SC0,Aberdeen,Hibernian,Aberdeen – Hibernian,SC0,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7269281741529083,1.22,-0.11314762753345187,piyasa,False,,,2026-11-07 20:45,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SC0,Aberdeen,Hibernian,Aberdeen – Hibernian,SC0,🔴 Tier 3 — Yüksek risk,MS 1,0.37869103133692666,2.42,-0.08356770416463755,piyasa,True,,,2026-11-07 20:45,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SC0,Aberdeen,Hibernian,Aberdeen – Hibernian,SC0,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.24093567512819686,3.94,-0.05071343999490441,piyasa,True,,,2026-11-07 20:45,,,,,,kadro
+2026-11-07 19:55,2026-11-07,07.11,SC0,Aberdeen,Hibernian,Aberdeen – Hibernian,SC0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09927915449984315,8.77,-0.12932181503637563,piyasa,,,,2026-11-07 20:45,,,,,,kadro
