@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/82 tuttu** (isabet %41, beklenen %43) · -2.29 birim · 1 tahmin sonuç bekliyor
+**34/82 tuttu** (isabet %41, beklenen %43) · -2.29 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,24 @@
 **15:30 · Magdeburg – Saint Pauli**
 
 - ⏳ KG Yok · @2.26
+
+## 07.11.2026 Cumartesi
+
+**18:00 · Forfar – Edinburgh**
+
+- ⏳ MS 2 & KG Var · @4.46
+
+**20:30 · Stuttgart – Werder Bremen**
+
+- ⏳ MS 1 & 2.5 Üst · @2.17
+
+**23:00 · Valencia – Real Madrid**
+
+- ⏳ MS 2 & KG Var · @2.51
+
+**23:30 · Sporting Lizbon – Moreirense**
+
+- ⏳ KG Var · @2.24
 
 ## 02.11.2026 Pazartesi
 
