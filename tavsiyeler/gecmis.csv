@@ -6039,3 +6039,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 17:53,2026-11-07,07.11,N1,For Sittard,Telstar,Fortuna Sittard – Telstar,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5515663503525798,1.61,-0.11197817593234638,korner,False,,,2026-11-07 18:30,,,,,,kadro
 2026-11-07 17:53,2026-11-07,07.11,N1,For Sittard,Telstar,Fortuna Sittard – Telstar,N1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4499241679145388,2.02,-0.09115318081263157,korner,True,,,2026-11-07 18:30,,,,,,kadro
 2026-11-07 17:53,2026-11-07,07.11,N1,For Sittard,Telstar,Fortuna Sittard – Telstar,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10247414097009347,7.71,-0.20992437312057932,piyasa,,,,2026-11-07 18:30,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5887633567870604,1.56,-0.08152916341218575,piyasa,False,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.32422574983577274,2.54,-0.17646659541713727,piyasa,True,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.25854469237247113,3.32,-0.1416316213233959,piyasa,True,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5839574983537943,1.6,-0.06566800263392913,korner,False,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4748997605464311,2.02,-0.0407024836962091,korner,True,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10652244773390668,7.5,-0.2010816419956999,piyasa,,,,2026-11-07 19:00,,,,,,kadro
