@@ -6051,3 +6051,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5654576048432265,1.62,-0.08395868015397301,korner,False,,,2026-11-07 19:15,,,,,,kadro
 2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.45640395291103475,2.06,-0.059807857003268405,korner,True,,,2026-11-07 19:15,,,,,,kadro
 2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1016237429368298,8.77,-0.10875977444400275,piyasa,,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 19:26,2026-11-07,07.11,I1,Parma,Bologna,Parma – Bologna,I1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5576652440448339,1.53,-0.14677217661140418,piyasa,False,,,2026-11-07 20:00,,,,,,kadro
+2026-11-07 19:26,2026-11-07,07.11,I1,Parma,Bologna,Parma – Bologna,I1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7113794984064963,1.22,-0.13211701194407455,korner,False,,,2026-11-07 20:00,,,,,,kadro
+2026-11-07 19:26,2026-11-07,07.11,I1,Parma,Bologna,Parma – Bologna,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6151163294078614,1.41,-0.13268597553491546,korner,True,,,2026-11-07 20:00,,,,,,kadro
+2026-11-07 19:26,2026-11-07,07.11,I1,Parma,Bologna,Parma – Bologna,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.13655386219713778,5.07,-0.30767191866051147,piyasa,,,,2026-11-07 20:00,,,,,,kadro
