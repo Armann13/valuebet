@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/94 tuttu** (isabet %14, beklenen %13) · +134.91 birim · 24 tahmin sonuç bekliyor
+**13/94 tuttu** (isabet %14, beklenen %13) · +134.91 birim · 29 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.11 09:11 gönderilen kupon · 5 maç, oran 496.916,35
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10
+- ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.05
+- ⏳ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26
+- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40
+- ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10
 
 ## 06.11 10:00 gönderilen kupon · 4 maç, oran 148.879,96
 

@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/45 tuttu** (isabet %27, beklenen %40) · -12.95 birim · 3 tahmin sonuç bekliyor
+**12/45 tuttu** (isabet %27, beklenen %40) · -12.95 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.11 09:11 gönderilen kupon · 3 maç, oran 19,59
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 07.11 17:00 Cagliari – Frosinone · En çok korner 1 · @2.17
+- ⏳ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19
+- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83
 
 ## 06.11 10:00 gönderilen kupon · 3 maç, oran 16,21
 

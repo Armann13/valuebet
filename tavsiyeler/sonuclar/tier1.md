@@ -2,20 +2,179 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**356/493 tuttu** (isabet %72, beklenen %74) · -53.74 birim · 108 tahmin sonuç bekliyor
+**358/495 tuttu** (isabet %72, beklenen %74) · -53.29 birim · 162 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11.2026 Pazar
+
+**14:30 · Napoli – Lazio**
+
+- ⏳ En çok korner 1 · @1.42
+
+**15:30 · Club Brugge – Anderlecht**
+
+- ⏳ 2.5 Üst · @1.28
+- ⏳ Korner 12.5 Alt · @1.21
+
+**15:30 · Heidenheim – Hannover 96**
+
+- ⏳ ÇŞ 1-X · @1.24
+- ⏳ Korner 12.5 Alt · @1.29
+
+**15:30 · Bochum – Karlsruhe**
+
+- ⏳ Korner 12.5 Alt · @1.20
+
+**16:00 · Elche – Real Betis**
+
+- ⏳ ÇŞ X-2 · @1.22
+
+**16:00 · Çorum FK – Fenerbahçe**
+
+- ⏳ En çok korner 2 · @1.49
+
+**16:30 · Twente – Ajax**
+
+- ⏳ Korner 11.5 Alt · @1.22
+
+**17:00 · AC Monza – Atalanta**
+
+- ⏳ ÇŞ X-2 · @1.24
+
+**17:00 · Virtus Entella – Modena FC**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**17:00 · Rennes – Lille**
+
+- ⏳ ÇŞ 1-X · @1.24
+- ⏳ Korner 11.5 Alt · @1.24
+
+**17:00 · Genoa – AC Milan**
+
+- ⏳ Korner 10.5 Alt · @1.22
+
+**17:00 · Sunderland – Chelsea**
+
+- ⏳ Korner 11.5 Alt · @1.24
+
+**17:00 · Ipswich Town – Bournemouth**
+
+- ⏳ Korner 7.5 Üst · @1.26
+
+**18:15 · Girona – Almeria**
+
+- ⏳ ÇŞ 1-X · @1.20
+
+**18:30 · Santa Clara – Gil Vicente**
+
+- ⏳ ÇŞ 1-X · @1.20
+- ⏳ Korner 10.5 Alt · @1.24
+
+**18:30 · Estoril Praia – Maritimo**
+
+- ⏳ ÇŞ 1-2 · @1.21
+- ⏳ Korner 10.5 Alt · @1.27
+
+**18:30 · POT Iraklis – Panathinaikos**
+
+- ⏳ MS 2 · @1.23
+
+**18:45 · SC Cambuur – PSV**
+
+- ⏳ En çok korner 2 · @1.20
+
+**18:45 · AZ Alkmaar – Groningen**
+
+- ⏳ Korner 12.5 Alt · @1.21
+
+**19:15 · Angers – Nice**
+
+- ⏳ ÇŞ X-2 · @1.20
+- ⏳ Korner 11.5 Alt · @1.26
+
+**19:15 · Brest – Lyon**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**19:15 · Carrarese Calcio 1908 – Sampdoria**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 11.5 Alt · @1.22
+
+**19:15 · Le Havre – Lorient**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**19:30 · Manchester United – Aston Villa**
+
+- ⏳ ÇŞ 1-X · @1.24
+
+**19:30 · Freiburg – Union Berlin**
+
+- ⏳ Korner 10.5 Alt · @1.27
+
+**20:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ ÇŞ 1-2 · @1.21
+- ⏳ Korner 11.5 Alt · @1.22
+
+**20:30 · S.Gijon – Real Valladolid**
+
+- ⏳ ÇŞ 1-2 · @1.24
+
+**20:30 · Villarreal – Getafe**
+
+- ⏳ Korner 11.5 Alt · @1.27
+
+**20:30 · Union Saint Gilloise – KRC Genk**
+
+- ⏳ Korner 11.5 Alt · @1.23
+
+**21:00 · Beşiktaş – Gençlerbirliği**
+
+- ⏳ 2.5 Üst · @1.26
+
+**21:00 · Vitoria Guimaraes – Porto**
+
+- ⏳ Korner 10.5 Alt · @1.27
+
+**21:30 · Hoffenheim – Schalke 04**
+
+- ⏳ En çok korner 1 · @1.30
+
+**22:45 · Fiorentina – Juventus**
+
+- ⏳ ÇŞ X-2 · @1.22
+- ⏳ Korner 11.5 Alt · @1.21
+
+**22:45 · RC Lens – Marsilya**
+
+- ⏳ Korner 11.5 Alt · @1.21
+
+**23:00 · Atletico Madrid – Barcelona**
+
+- ⏳ 2.5 Üst · @1.20
+
+**23:30 · Rio Ave – Braga**
+
+- ⏳ En çok korner 2 · @1.24
 
 ## 07.11.2026 Cumartesi
 
 **13:30 · Eyüpspor – Kocaelispor**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 10.5 Alt · @1.24
+- ✅ ÇŞ 1-2 · @1.21 · 0-2
+- ✅ Korner 10.5 Alt · @1.24 · korner 4-1
 
 **15:00 · Nürnberg – Darmstadt 98**
 
 - ⏳ Korner 12.5 Alt · @1.22
+
+**15:00 · Holstein Kiel – Arminia Bielefeld**
+
+- ⏳ ÇŞ 1-2 · @1.21
 
 **15:30 · Bristol City – Norwich City**
 
@@ -34,14 +193,17 @@
 
 - ⏳ ÇŞ X-2 · @1.24
 - ⏳ Korner 11.5 Alt · @1.23
+- ⏳ ÇŞ 1-2 · @1.22
 
 **16:00 · Clermont – Rodez AF**
 
 - ⏳ ÇŞ 1-2 · @1.21
+- ⏳ ÇŞ X-2 · @1.26
 
 **16:00 · Samsunspor – Konyaspor**
 
 - ⏳ ÇŞ 1-2 · @1.22
+- ⏳ Korner 11.5 Alt · @1.21
 
 **16:00 · CF Burgos – Celta Vigo B**
 
@@ -55,6 +217,7 @@
 **17:00 · Padova – Empoli**
 
 - ⏳ ÇŞ 1-2 · @1.23
+- ⏳ ÇŞ 1-X · @1.22
 
 **17:00 · AC Pisa – FC Sudtirol**
 
@@ -63,6 +226,7 @@
 **17:30 · B. Dortmund – Elversberg**
 
 - ⏳ 2.5 Üst · @1.24
+- ⏳ MS 1 · @1.20
 
 **17:30 · Leipzig – Augsburg**
 
@@ -85,6 +249,7 @@
 **18:00 · West Bromwich – Millwall**
 
 - ⏳ ÇŞ 1-2 · @1.20
+- ⏳ ÇŞ 1-X · @1.20
 
 **18:00 · St Johnstone – Dundee**
 
@@ -131,10 +296,15 @@
 
 - ⏳ Korner 8.5 Üst · @1.26
 
+**18:00 · Forfar – Edinburgh**
+
+- ⏳ ÇŞ X-2 · @1.24
+
 **18:15 · Espanyol – Deportivo La Coruna**
 
 - ⏳ ÇŞ 1-2 · @1.23
 - ⏳ Korner 11.5 Alt · @1.23
+- ⏳ ÇŞ 1-X · @1.28
 
 **18:15 · Cadiz – Real Oviedo**
 
@@ -205,6 +375,11 @@
 **21:00 · Alverca FC – Casa Pia AC**
 
 - ⏳ En çok korner 1 · @1.29
+- ⏳ ÇŞ 1-2 · @1.20
+
+**21:30 · Benevento – AS Avellino 1912**
+
+- ⏳ ÇŞ 1-2 · @1.21
 
 **22:00 · St Etienne – Stade Laval**
 

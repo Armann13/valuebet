@@ -2,15 +2,237 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**68/701 tuttu** (isabet %10, beklenen %11) · -209.49 birim · 101 tahmin sonuç bekliyor
+**68/702 tuttu** (isabet %10, beklenen %11) · -210.49 birim · 166 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11.2026 Pazar
+
+**13:30 · Rizespor – Erzurumspor FK**
+
+- ⏳ 2-1 · @7.55
+
+**14:15 · Heerenveen – Feyenoord**
+
+- ⏳ 1-2 · @7.78
+
+**14:30 · Napoli – Lazio**
+
+- ⏳ 2-1 · @8.14
+
+**15:30 · Bochum – Karlsruhe**
+
+- ⏳ 2-1 · @7.50
+
+**15:30 · Club Brugge – Anderlecht**
+
+- ⏳ 2-1 · @7.53
+
+**15:30 · Heidenheim – Hannover 96**
+
+- ⏳ 2-1 · @8.08
+
+**15:30 · Magdeburg – Saint Pauli**
+
+- ⏳ 1-2 · @9.08
+
+**16:00 · Elche – Real Betis**
+
+- ⏳ 1-2 · @7.75
+
+**16:00 · Çorum FK – Fenerbahçe**
+
+- ⏳ 1-2 · @7.37
+
+**16:30 · Twente – Ajax**
+
+- ⏳ 1-2 · @9.49
+
+**17:00 · Genoa – AC Milan**
+
+- ⏳ 0-1 · @5.54
+
+**17:00 · Crystal Palace – Liverpool**
+
+- ⏳ 1-2 · @7.25
+
+**17:00 · Virtus Entella – Modena FC**
+
+- ⏳ 0-1 · @6.77
+
+**17:00 · Rennes – Lille**
+
+- ⏳ 2-1 · @7.94
+
+**17:00 · Brighton – Brentford**
+
+- ⏳ 2-1 · @7.58
+
+**17:00 · Sunderland – Chelsea**
+
+- ⏳ 1-2 · @7.59
+
+**17:00 · AC Monza – Atalanta**
+
+- ⏳ 1-2 · @7.93
+
+**17:00 · Ipswich Town – Bournemouth**
+
+- ⏳ 1-2 · @7.51
+
+**17:30 · Köln – B. Leverkusen**
+
+- ⏳ 1-2 · @7.88
+
+**18:00 · KAA Gent – Kortrijk**
+
+- ⏳ 2-0 · @6.02
+
+**18:00 · Hearts – Falkirk**
+
+- ⏳ 2-1 · @7.25
+
+**18:00 · AEK Athens – APO Levadeiakos FC**
+
+- ⏳ 2-1 · @7.59
+
+**18:00 · Asteras Tripolis – PAE PS Kalamata**
+
+- ⏳ 2-1 · @6.86
+
+**18:15 · Real Sociedad – Vallecano**
+
+- ⏳ 2-1 · @7.35
+
+**18:15 · Girona – Almeria**
+
+- ⏳ 2-1 · @7.72
+
+**18:30 · Alanyaspor – Trabzonspor**
+
+- ⏳ 1-2 · @7.24
+
+**18:30 · Estoril Praia – Maritimo**
+
+- ⏳ 2-1 · @7.81
+
+**18:45 · AZ Alkmaar – Groningen**
+
+- ⏳ 2-1 · @7.54
+
+**18:45 · SC Cambuur – PSV**
+
+- ⏳ 1-2 · @8.08
+
+**19:00 · Celtic – Kilmarnock**
+
+- ⏳ 3-1 · @8.65
+
+**19:15 · Le Mans – Monaco**
+
+- ⏳ 1-2 · @7.29
+
+**19:15 · Angers – Nice**
+
+- ⏳ 1-2 · @7.71
+
+**19:15 · Carrarese Calcio 1908 – Sampdoria**
+
+- ⏳ 2-1 · @8.51
+
+**19:15 · Le Havre – Lorient**
+
+- ⏳ 1-2 · @8.58
+
+**19:15 · Brest – Lyon**
+
+- ⏳ 1-2 · @8.48
+
+**19:30 · Freiburg – Union Berlin**
+
+- ⏳ 2-1 · @7.19
+
+**19:30 · Ofi Crete – Atromitos**
+
+- ⏳ 2-1 · @6.72
+
+**19:30 · Manchester United – Aston Villa**
+
+- ⏳ 2-1 · @8.00
+
+**20:00 · Inter – Como 1907**
+
+- ⏳ 2-1 · @7.69
+
+**20:30 · Villarreal – Getafe**
+
+- ⏳ 2-1 · @7.37
+
+**20:30 · Union Saint Gilloise – KRC Genk**
+
+- ⏳ 2-1 · @7.24
+
+**20:30 · S.Gijon – Real Valladolid**
+
+- ⏳ 1-0 · @6.44
+
+**20:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ 2-1 · @7.95
+
+**20:30 · Celta Vigo – Levante**
+
+- ⏳ 2-1 · @7.51
+
+**21:00 · Vitoria Guimaraes – Porto**
+
+- ⏳ 0-1 · @5.89
+
+**21:15 · St. Truidense – Zulte Waregem**
+
+- ⏳ 2-1 · @7.42
+
+**21:30 · LR Vicenza Virtus – Cremonese**
+
+- ⏳ 1-1 · @5.20
+
+**21:30 · Hoffenheim – Schalke 04**
+
+- ⏳ 2-1 · @7.36
+
+**22:00 · Olympiacos – PAOK**
+
+- ⏳ 2-1 · @6.37
+
+**22:00 · Utrecht – NEC Nijmegen**
+
+- ⏳ 1-2 · @8.99
+
+**22:45 · Fiorentina – Juventus**
+
+- ⏳ 1-2 · @7.85
+
+**22:45 · RC Lens – Marsilya**
+
+- ⏳ 1-2 · @9.31
+
+**23:00 · Atletico Madrid – Barcelona**
+
+- ⏳ 1-2 · @8.26
+
+**23:30 · Rio Ave – Braga**
+
+- ⏳ 1-2 · @7.22
+
+**23:30 · CF Estrela – Benfica**
+
+- ⏳ 1-2 · @7.92
 
 ## 07.11.2026 Cumartesi
 
 **13:30 · Eyüpspor – Kocaelispor**
 
-- ⏳ 0-1 · @5.50
+- ❌ 0-1 · @5.50 · 0-2
 
 **15:00 · Nürnberg – Darmstadt 98**
 
@@ -55,6 +277,7 @@
 **16:00 · Malaga CF – Santander**
 
 - ⏳ 2-1 · @8.27
+- ⏳ 1-1 · @5.80
 
 **17:00 · AC Pisa – FC Sudtirol**
 
@@ -67,6 +290,7 @@
 **17:00 · Cagliari – Frosinone**
 
 - ⏳ 1-2 · @8.57
+- ⏳ 2-1 · @9.62
 
 **17:00 · Torino – Lecce**
 
@@ -107,6 +331,7 @@
 **18:00 · Cardiff City – Burnley**
 
 - ⏳ 2-1 · @8.04
+- ⏳ 1-2 · @10.45
 
 **18:00 · Preston – Southampton**
 
@@ -115,6 +340,7 @@
 **18:00 · Volos – AE Kifisia FC**
 
 - ⏳ 1-1 · @4.79
+- ⏳ 2-1 · @8.59
 
 **18:00 · Dundee Utd – Motherwell**
 
@@ -135,6 +361,7 @@
 **18:00 · G. Morton – Stenhousemuir**
 
 - ⏳ 0-1 · @6.06
+- ⏳ 0-0 · @7.25
 
 **18:00 · Fulham – Newcastle United**
 
@@ -151,6 +378,7 @@
 **18:00 · Westerlo – Charleroi**
 
 - ⏳ 1-2 · @8.18
+- ⏳ 2-1 · @9.40
 
 **18:00 · Arsenal – Hull City**
 
@@ -167,6 +395,7 @@
 **18:15 · Espanyol – Deportivo La Coruna**
 
 - ⏳ 1-0 · @6.91
+- ⏳ 2-1 · @8.50
 
 **18:30 · N. Madeira – A. de Viseu **
 
@@ -247,10 +476,12 @@
 **22:00 · Pau – Nantes**
 
 - ⏳ 0-1 · @6.96
+- ⏳ 1-2 · @8.56
 
 **22:30 · Hertha Berlin – Wolfsburg**
 
 - ⏳ 2-1 · @8.64
+- ⏳ 1-2 · @10.10
 
 **22:45 · Antwerp – Lommel SK**
 
@@ -271,6 +502,7 @@
 **23:00 · Excelsior – Go Ahead Eagles**
 
 - ⏳ 2-1 · @9.26
+- ⏳ 1-2 · @8.49
 
 **23:05 · Paris Saint Germain – Troyes**
 
@@ -279,6 +511,7 @@
 **23:30 · Sporting Lizbon – Moreirense**
 
 - ⏳ 2-1 · @8.69
+- ⏳ 2-0 · @5.57
 
 ## 06.11.2026 Cuma
 
