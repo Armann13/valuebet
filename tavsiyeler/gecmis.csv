@@ -6130,3 +6130,11 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🟡 Tier 2 — Orta risk,Korner 10.5 Üst,0.5556086238935927,1.58,-0.12213837424812357,korner,False,,,2026-11-07 22:30,,,,,,kadro
 2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🔴 Tier 3 — Yüksek risk,Korner 11.5 Üst,0.46038866866535144,1.94,-0.1068459827892182,korner,True,,,2026-11-07 22:30,,,,,,kadro
 2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.08494105366908447,10.5,-0.10811893647461301,piyasa,,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,B1,Antwerp,Lommel SK,Antwerp – Lommel SK,B1,🟡 Tier 2 — Orta risk,2.5 Üst,0.6100709411348968,1.43,-0.12759855417709765,piyasa,False,,,2026-11-07 22:45,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,B1,Antwerp,Lommel SK,Antwerp – Lommel SK,B1,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3605168395763339,2.33,-0.15999576378714198,piyasa,True,,,2026-11-07 22:45,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,B1,Antwerp,Lommel SK,Antwerp – Lommel SK,B1,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.2895625407959751,3.01,-0.12841675220411497,piyasa,True,,,2026-11-07 22:45,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,B1,Antwerp,Lommel SK,Antwerp – Lommel SK,B1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7819513568422137,1.38,0.07909287244225482,korner,False,,,2026-11-07 22:45,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,B1,Antwerp,Lommel SK,Antwerp – Lommel SK,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1401742226526215,7.55,0.05831538102729228,piyasa,,,,2026-11-07 22:45,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,SC0,St Mirren,Rangers,St Mirren – Rangers,SC0,🟡 Tier 2 — Orta risk,KG Var,0.5460325710885154,1.67,-0.08812560628217925,piyasa,False,,,2026-11-07 23:00,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,SC0,St Mirren,Rangers,St Mirren – Rangers,SC0,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.3381507633594101,2.56,-0.13433404579991015,piyasa,True,,,2026-11-07 23:00,,,,,,kadro
+2026-11-07 22:01,2026-11-07,07.11,SC0,St Mirren,Rangers,St Mirren – Rangers,SC0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1305488525901807,7.44,-0.028716536729055497,piyasa,,,,2026-11-07 23:00,,,,,,kadro
