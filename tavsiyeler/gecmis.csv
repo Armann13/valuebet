@@ -6045,3 +6045,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5839574983537943,1.6,-0.06566800263392913,korner,False,,,2026-11-07 19:00,,,,,,kadro
 2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4748997605464311,2.02,-0.0407024836962091,korner,True,,,2026-11-07 19:00,,,,,,kadro
 2026-11-07 18:28,2026-11-07,07.11,T1,Goztep,Buyuksehyr,Göztepe – Başakşehir,T1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10652244773390668,7.5,-0.2010816419956999,piyasa,,,,2026-11-07 19:00,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7189760332607837,1.22,-0.12284923942184389,piyasa,False,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.3802781389987753,2.42,-0.07972690362296386,piyasa,True,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2373765000719926,3.79,-0.10034306472714805,piyasa,True,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5654576048432265,1.62,-0.08395868015397301,korner,False,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.45640395291103475,2.06,-0.059807857003268405,korner,True,,,2026-11-07 19:15,,,,,,kadro
+2026-11-07 18:42,2026-11-07,07.11,I2,Mantova,Verona,Mantova 1911 – Hellas Verona,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1016237429368298,8.77,-0.10875977444400275,piyasa,,,,2026-11-07 19:15,,,,,,kadro
