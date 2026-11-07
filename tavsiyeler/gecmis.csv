@@ -6109,3 +6109,10 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7273471295918232,1.22,-0.1126365018979757,korner,False,,,2026-11-07 21:00,,,,,,kadro
 2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6389866146428036,1.41,-0.09902887335364696,korner,True,,,2026-11-07 21:00,,,,,,kadro
 2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.13047823961978045,7.21,-0.05925189234138295,piyasa,,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7331750824774608,1.22,-0.10552639937749786,piyasa,False,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🟡 Tier 2 — Orta risk,MS 1,0.5092613398994001,1.88,-0.042588680989127825,piyasa,True,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.3071273686230064,3.09,-0.050976430954910334,piyasa,True,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.22698016173685626,4.06,-0.07846054334836372,piyasa,True,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5825930795146708,1.49,-0.13193631152314056,korner,False,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🔴 Tier 3 — Yüksek risk,Korner 9.5 Üst,0.47531203321715276,1.87,-0.1111664978839243,korner,True,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10399018362355557,7.83,-0.18575686222755994,piyasa,,,,2026-11-07 21:30,,,,,,kadro
