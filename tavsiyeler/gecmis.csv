@@ -6124,3 +6124,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.24176833425064703,3.88,-0.06193886310748953,piyasa,True,,,2026-11-07 22:00,,,,,,kadro
 2026-11-07 21:25,2026-11-07,07.11,F2,St Etienne,Laval,St Etienne – Stade Laval,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1211490365486133,7.55,-0.08532477405796968,piyasa,,,,2026-11-07 22:00,,,,,,kadro
 2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.088357832398288,8.48,-0.25072558126251776,piyasa,,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🟡 Tier 2 — Orta risk,ÇŞ X-2,0.5550917627231485,1.58,-0.12295501489742533,piyasa,False,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🔴 Tier 3 — Yüksek risk,MS 2,0.32224202353717013,2.86,-0.07838781268369344,piyasa,True,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.24902942874684,3.63,-0.09602317364897084,piyasa,True,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🟡 Tier 2 — Orta risk,Korner 10.5 Üst,0.5556086238935927,1.58,-0.12213837424812357,korner,False,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,🔴 Tier 3 — Yüksek risk,Korner 11.5 Üst,0.46038866866535144,1.94,-0.1068459827892182,korner,True,,,2026-11-07 22:30,,,,,,kadro
+2026-11-07 21:48,2026-11-07,07.11,D2,Hertha,Wolfsburg,Hertha Berlin – Wolfsburg,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.08494105366908447,10.5,-0.10811893647461301,piyasa,,,,2026-11-07 22:30,,,,,,kadro
