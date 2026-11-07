@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/81 tuttu** (isabet %19, beklenen %16) · +1.40 birim · 7 tahmin sonuç bekliyor
+**15/83 tuttu** (isabet %18, beklenen %16) · -0.60 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@
 
 **18:00 · Queen's Park – P. Thistle**
 
-- ⏳ 1-2 · @6.49
+- ❌ 1-2 · @6.49 · 0-1
 
 **18:00 · Watford – Middlesbrough**
 
-- ⏳ 1-2 · @7.30
+- ❌ 1-2 · @7.30 · 0-0
 
 **23:00 · Valencia – Real Madrid**
 

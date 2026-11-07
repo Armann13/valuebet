@@ -2,23 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**8/27 tuttu** (isabet %30, beklenen %52) · -11.53 birim · 3 tahmin sonuç bekliyor
+**9/30 tuttu** (isabet %30, beklenen %52) · -12.32 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 07.11 09:11 gönderilen kupon · 2 maç, oran 4,62
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
-- ⏳ 07.11 15:30 Bristol City – Norwich City · En çok korner 1 · @2.21
-- ⏳ 07.11 17:00 Padova – Empoli · En çok korner 2 · @2.09
+- ✅ 07.11 15:30 Bristol City – Norwich City · En çok korner 1 · @2.21 · korner 8-3
+- ❌ 07.11 17:00 Padova – Empoli · En çok korner 2 · @2.09 · korner 8-6
 
 ## 06.11 10:00 gönderilen kupon · 2 maç, oran 3,57
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 06.11 22:30 Ascoli – US Palermo · En çok korner 1 · @1.76 · korner 5-2
-- ⏳ 07.11 15:00 Osnabruck – Kaiserslautern · En çok korner 2 · @2.03
+- ❌ 07.11 15:00 Osnabruck – Kaiserslautern · En çok korner 2 · @2.03 · korner 5-3
 
 ## 05.11 18:03 gönderilen kupon · 2 maç, oran 4,14
 

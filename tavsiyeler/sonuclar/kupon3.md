@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/45 tuttu** (isabet %27, beklenen %40) · -12.95 birim · 6 tahmin sonuç bekliyor
+**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,17 +10,17 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 07.11 17:00 Cagliari – Frosinone · En çok korner 1 · @2.17
-- ⏳ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19
+- ❌ 07.11 17:00 Cagliari – Frosinone · En çok korner 1 · @2.17 · korner 3-13
+- ❌ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19 · korner 3-9
 - ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83
 
 ## 06.11 10:00 gönderilen kupon · 3 maç, oran 16,21
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 06.11 20:30 Braunschweig – E. Cottbus · En çok korner 2 · @2.30 · korner 5-4
-- ⏳ 07.11 15:30 Bristol City – Norwich City · En çok korner 1 · @2.21
-- ⏳ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19
+- ✅ 07.11 15:30 Bristol City – Norwich City · En çok korner 1 · @2.21 · korner 8-3
+- ❌ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19 · korner 3-9
 
 ## 05.11 18:03 gönderilen kupon · 3 maç, oran 12,66
 

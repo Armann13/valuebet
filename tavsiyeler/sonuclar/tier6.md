@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**68/702 tuttu** (isabet %10, beklenen %11) · -210.49 birim · 166 tahmin sonuç bekliyor
+**75/757 tuttu** (isabet %10, beklenen %11) · -215.06 birim · 111 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -236,31 +236,31 @@
 
 **15:00 · Nürnberg – Darmstadt 98**
 
-- ⏳ 2-1 · @7.42
+- ❌ 2-1 · @7.42 · 2-0
 
 **15:00 · Osnabruck – Kaiserslautern**
 
-- ⏳ 1-2 · @8.41
+- ❌ 1-2 · @8.41 · 0-1
 
 **15:00 · Holstein Kiel – Arminia Bielefeld**
 
-- ⏳ 2-1 · @8.31
+- ❌ 2-1 · @8.31 · 1-2
 
 **15:30 · Portsmouth – Stoke City**
 
-- ⏳ 1-0 · @6.14
+- ❌ 1-0 · @6.14 · 1-2
 
 **15:30 · Wrexham – Wolverhampton**
 
-- ⏳ 1-2 · @8.01
+- ❌ 1-2 · @8.01 · 1-1
 
 **15:30 · Leeds United – Tottenham**
 
-- ⏳ 1-2 · @8.65
+- ❌ 1-2 · @8.65 · 1-0
 
 **15:30 · Bristol City – Norwich City**
 
-- ⏳ 1-2 · @8.55
+- ❌ 1-2 · @8.55 · 0-5
 
 **16:00 · CF Burgos – Celta Vigo B**
 
@@ -268,134 +268,134 @@
 
 **16:00 · Clermont – Rodez AF**
 
-- ⏳ 1-2 · @8.12
+- ❌ 1-2 · @8.12 · 1-0
 
 **16:00 · Samsunspor – Konyaspor**
 
-- ⏳ 2-1 · @8.14
+- ❌ 2-1 · @8.14 · 1-0
 
 **16:00 · Malaga CF – Santander**
 
-- ⏳ 2-1 · @8.27
-- ⏳ 1-1 · @5.80
+- ❌ 2-1 · @8.27 · 1-2
+- ❌ 1-1 · @5.80 · 1-2
 
 **17:00 · AC Pisa – FC Sudtirol**
 
-- ⏳ 2-1 · @7.26
+- ❌ 2-1 · @7.26 · 2-2
 
 **17:00 · Juve Stabia – SS Arezzo**
 
-- ⏳ 1-0 · @6.17
+- ✅ 1-0 · @6.17 · 1-0
 
 **17:00 · Cagliari – Frosinone**
 
-- ⏳ 1-2 · @8.57
-- ⏳ 2-1 · @9.62
+- ❌ 1-2 · @8.57 · 1-0
+- ❌ 2-1 · @9.62 · 1-0
 
 **17:00 · Torino – Lecce**
 
-- ⏳ 2-1 · @7.45
+- ❌ 2-1 · @7.45 · 1-1
 
 **17:00 · AC Cesena – US Catanzaro 1929**
 
-- ⏳ 2-1 · @7.84
+- ❌ 2-1 · @7.84 · 1-0
 
 **17:00 · Padova – Empoli**
 
-- ⏳ 2-1 · @8.09
+- ❌ 2-1 · @8.09 · 2-2
 
 **17:30 · Leipzig – Augsburg**
 
-- ⏳ 2-1 · @8.21
+- ❌ 2-1 · @8.21 · 5-2
 
 **17:30 · Mainz – Bayern Münih**
 
-- ⏳ 1-2 · @8.58
+- ✅ 1-2 · @8.58 · 1-2
 
 **17:30 · B. Dortmund – Elversberg**
 
-- ⏳ 2-1 · @7.83
+- ✅ 2-1 · @7.83 · 2-1
 
 **17:30 · Paderborn – Eintracht Frankfurt**
 
-- ⏳ 2-1 · @9.80
+- ❌ 2-1 · @9.80 · 2-2
 
 **18:00 · Arbroath – Ayr United**
 
-- ⏳ 1-1 · @4.62
+- ❌ 1-1 · @4.62 · 4-1
 
 **18:00 · Blackburn Rovers – West Ham**
 
-- ⏳ 1-2 · @7.33
+- ❌ 1-2 · @7.33 · 2-1
 
 **18:00 · Cardiff City – Burnley**
 
-- ⏳ 2-1 · @8.04
-- ⏳ 1-2 · @10.45
+- ❌ 2-1 · @8.04 · 5-4
+- ❌ 1-2 · @10.45 · 5-4
 
 **18:00 · Preston – Southampton**
 
-- ⏳ 1-2 · @7.29
+- ❌ 1-2 · @7.29 · 1-0
 
 **18:00 · Volos – AE Kifisia FC**
 
-- ⏳ 1-1 · @4.79
-- ⏳ 2-1 · @8.59
+- ❌ 1-1 · @4.79 · 1-3
+- ❌ 2-1 · @8.59 · 1-3
 
 **18:00 · Dundee Utd – Motherwell**
 
-- ⏳ 2-1 · @7.82
+- ❌ 2-1 · @7.82 · 1-1
 
 **18:00 · Queens Park Rangers – Lincoln City**
 
-- ⏳ 2-1 · @7.24
+- ✅ 2-1 · @7.24 · 2-1
 
 **18:00 · West Bromwich – Millwall**
 
-- ⏳ 2-1 · @7.67
+- ❌ 2-1 · @7.67 · 3-0
 
 **18:00 · Inverness – Livingston**
 
-- ⏳ 1-1 · @4.77
+- ✅ 1-1 · @4.77 · 1-1
 
 **18:00 · G. Morton – Stenhousemuir**
 
-- ⏳ 0-1 · @6.06
-- ⏳ 0-0 · @7.25
+- ❌ 0-1 · @6.06 · 4-3
+- ❌ 0-0 · @7.25 · 4-3
 
 **18:00 · Fulham – Newcastle United**
 
-- ⏳ 2-1 · @7.80
+- ❌ 2-1 · @7.80 · 1-1
 
 **18:00 · Birmingham – Swansea City**
 
-- ⏳ 2-1 · @7.44
+- ✅ 2-1 · @7.44 · 2-1
 
 **18:00 · Charlton – Sheffield United**
 
-- ⏳ 1-2 · @7.72
+- ❌ 1-2 · @7.72 · 2-1
 
 **18:00 · Westerlo – Charleroi**
 
-- ⏳ 1-2 · @8.18
-- ⏳ 2-1 · @9.40
+- ❌ 1-2 · @8.18 · 1-5
+- ❌ 2-1 · @9.40 · 1-5
 
 **18:00 · Arsenal – Hull City**
 
-- ⏳ 2-1 · @8.99
+- ❌ 2-1 · @8.99 · 1-0
 
 **18:00 · St Johnstone – Dundee**
 
-- ⏳ 2-1 · @8.40
+- ✅ 2-1 · @8.40 · 2-1
 
 **18:15 · Cadiz – Real Oviedo**
 
-- ⏳ 0-1 · @7.04
+- ❌ 0-1 · @7.04 · 1-2
 
 **18:15 · Espanyol – Deportivo La Coruna**
 
-- ⏳ 1-0 · @6.91
-- ⏳ 2-1 · @8.50
+- ❌ 1-0 · @6.91 · 0-0
+- ❌ 2-1 · @8.50 · 0-0
 
 **18:30 · N. Madeira – A. de Viseu **
 
@@ -403,7 +403,7 @@
 
 **18:30 · Fortuna Sittard – Telstar**
 
-- ⏳ 2-1 · @7.84
+- ❌ 2-1 · @7.84 · 2-2
 
 **19:00 · Galatasaray – Amed Sportif Faaliyetler**
 
@@ -411,39 +411,39 @@
 
 **19:00 · Göztepe – Başakşehir**
 
-- ⏳ 2-1 · @7.73
+- ❌ 2-1 · @7.73 · 1-2
 
 **19:15 · Mantova 1911 – Hellas Verona**
 
-- ⏳ 2-1 · @8.55
+- ❌ 2-1 · @8.55 · 0-0
 
 **20:00 · Parma – Bologna**
 
-- ⏳ 0-1 · @5.47
+- ❌ 0-1 · @5.47 · 1-2
 
 **20:15 · O.H. Leuven – Mechelen**
 
-- ⏳ 2-1 · @8.10
+- ❌ 2-1 · @8.10 · 2-0
 
 **20:30 · Aris – Paneitolikos**
 
-- ⏳ 2-1 · @6.55
+- ❌ 2-1 · @6.55 · 3-0
 
 **20:30 · Osasuna – Athletic Bilbao**
 
-- ⏳ 0-1 · @6.00
+- ❌ 0-1 · @6.00 · 1-1
 
 **20:30 · Cordoba – AD Ceuta**
 
-- ⏳ 2-1 · @7.39
+- ❌ 2-1 · @7.39 · 3-0
 
 **20:30 · Nottingham Forest – Manchester City**
 
-- ⏳ 1-2 · @7.29
+- ❌ 1-2 · @7.29 · 3-1
 
 **20:30 · Stuttgart – Werder Bremen**
 
-- ⏳ 2-1 · @8.04
+- ❌ 2-1 · @8.04 · 1-0
 
 **20:30 · Leganes – Albacete**
 
