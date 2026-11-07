@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**146/485 tuttu** (isabet %30, beklenen %29) · -33.13 birim · 92 tahmin sonuç bekliyor
+**147/488 tuttu** (isabet %30, beklenen %29) · -32.38 birim · 90 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -99,6 +99,10 @@
 **18:30 · Santa Clara – Gil Vicente**
 
 - ⏳ ↳ İY/MS 1/1 · @3.36
+
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ ↳ İY/MS 2/2 · @3.66
 
 **19:15 · Angers – Nice**
 
@@ -382,7 +386,7 @@
 
 **20:30 · Leganes – Albacete**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.03
+- ❌ ↳ MS 1 & 2.5 Üst · @3.03 · 1-3
 
 **20:30 · Osasuna – Athletic Bilbao**
 
@@ -390,11 +394,11 @@
 
 **20:45 · Aberdeen – Hibernian**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.47
+- ❌ ↳ MS 1 & 2.5 Üst · @3.47 · 0-4
 
 **20:45 · ADO Den Haag – Sparta Rotterdam**
 
-- ⏳ ↳ MS 1 & KG Var · @3.75
+- ✅ ↳ MS 1 & KG Var · @3.75 · 3-1
 
 **21:00 · AJ Auxerre – Paris**
 

@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 2 tahmin sonuç bekliyor
+**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 07.11 22:32 gönderilen kupon · 3 maç, oran 16,58
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 07.11 23:30 Sporting Lizbon – Moreirense · MS 1 & KG Var · @2.79
+- ⏳ 08.11 20:30 S.Gijon – Real Valladolid · En çok korner 2 · @2.10
+- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83
 
 ## 07.11 09:11 gönderilen kupon · 3 maç, oran 19,59
 

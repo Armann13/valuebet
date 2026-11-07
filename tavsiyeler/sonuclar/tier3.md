@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**283/675 tuttu** (isabet %42, beklenen %42) · -48.95 birim · 140 tahmin sonuç bekliyor
+**284/679 tuttu** (isabet %42, beklenen %42) · -49.84 birim · 140 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -109,6 +109,7 @@
 **18:15 · Real Sociedad – Vallecano**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.16
+- ⏳ ↳ Korner 10.5 Üst · @1.79
 
 **18:30 · Estoril Praia – Maritimo**
 
@@ -125,6 +126,10 @@
 **18:30 · Alanyaspor – Trabzonspor**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.19
+
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ ↳ MS 2 · @2.26
 
 **18:45 · SC Cambuur – PSV**
 
@@ -192,6 +197,7 @@
 **20:30 · Celta Vigo – Levante**
 
 - ⏳ ↳ Korner 7.5 Alt · @2.15
+- ⏳ ↳ İY/MS 1/1 · @2.60
 
 **21:00 · Beşiktaş – Gençlerbirliği**
 
@@ -478,7 +484,7 @@
 
 **20:30 · Leganes – Albacete**
 
-- ⏳ ↳ MS 1 · @1.85
+- ❌ ↳ MS 1 · @1.85 · 1-3
 
 **20:30 · Aris – Paneitolikos**
 
@@ -503,12 +509,12 @@
 
 **20:45 · Aberdeen – Hibernian**
 
-- ⏳ ↳ MS 1 · @2.27
+- ❌ ↳ MS 1 · @2.27 · 0-4
 
 **20:45 · ADO Den Haag – Sparta Rotterdam**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.11
-- ⏳ ↳ Korner 9.5 Alt · @2.02
+- ✅ ↳ MS 1 & 2.5 Üst · @3.11 · 3-1
+- ❌ ↳ Korner 9.5 Alt · @2.02 · korner 5-9
 
 **21:00 · AJ Auxerre – Paris**
 
@@ -567,6 +573,7 @@
 **23:05 · Paris Saint Germain – Troyes**
 
 - ⏳ ↳ MS 1 & KG Var · @2.26
+- ⏳ ↳ Korner 8.5 Alt · @1.91
 
 **23:30 · Sporting Lizbon – Moreirense**
 

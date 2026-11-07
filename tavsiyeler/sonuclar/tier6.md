@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/757 tuttu** (isabet %10, beklenen %11) · -215.06 birim · 111 tahmin sonuç bekliyor
+**75/760 tuttu** (isabet %10, beklenen %11) · -218.06 birim · 110 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -116,6 +116,10 @@
 
 - ⏳ 2-1 · @7.81
 
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ 0-1 · @6.80
+
 **18:45 · AZ Alkmaar – Groningen**
 
 - ⏳ 2-1 · @7.54
@@ -183,6 +187,7 @@
 **20:30 · Celta Vigo – Levante**
 
 - ⏳ 2-1 · @7.51
+- ⏳ 1-0 · @6.43
 
 **21:00 · Vitoria Guimaraes – Porto**
 
@@ -447,15 +452,15 @@
 
 **20:30 · Leganes – Albacete**
 
-- ⏳ 2-1 · @7.73
+- ❌ 2-1 · @7.73 · 1-3
 
 **20:45 · Aberdeen – Hibernian**
 
-- ⏳ 2-1 · @8.42
+- ❌ 2-1 · @8.42 · 0-4
 
 **20:45 · ADO Den Haag – Sparta Rotterdam**
 
-- ⏳ 2-1 · @8.54
+- ❌ 2-1 · @8.54 · 3-1
 
 **21:00 · Alverca FC – Casa Pia AC**
 

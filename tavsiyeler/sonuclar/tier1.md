@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**395/550 tuttu** (isabet %72, beklenen %74) · -62.52 birim · 107 tahmin sonuç bekliyor
+**397/553 tuttu** (isabet %72, beklenen %74) · -63.12 birim · 108 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,6 +54,7 @@
 **17:00 · Genoa – AC Milan**
 
 - ⏳ Korner 10.5 Alt · @1.22
+- ⏳ ÇŞ 1-2 · @1.20
 
 **17:00 · Sunderland – Chelsea**
 
@@ -81,6 +82,10 @@
 
 - ⏳ MS 2 · @1.23
 
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ ÇŞ 1-2 · @1.24
+
 **18:45 · SC Cambuur – PSV**
 
 - ⏳ En çok korner 2 · @1.20
@@ -88,6 +93,7 @@
 **18:45 · AZ Alkmaar – Groningen**
 
 - ⏳ Korner 12.5 Alt · @1.21
+- ⏳ En çok korner 1 · @1.21
 
 **19:15 · Angers – Nice**
 
@@ -114,6 +120,10 @@
 **19:30 · Freiburg – Union Berlin**
 
 - ⏳ Korner 10.5 Alt · @1.27
+
+**20:00 · Inter – Como 1907**
+
+- ⏳ ÇŞ 1-X · @1.20
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -353,8 +363,8 @@
 
 **20:30 · Leganes – Albacete**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ ÇŞ 1-2 · @1.20 · 1-3
+- ❌ Korner 11.5 Alt · @1.25 · korner 9-5
 
 **20:30 · Osasuna – Athletic Bilbao**
 
@@ -366,7 +376,7 @@
 
 **20:45 · Aberdeen – Hibernian**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-4
 
 **21:00 · AJ Auxerre – Paris**
 

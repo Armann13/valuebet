@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**467/820 tuttu** (isabet %57, beklenen %59) · -95.78 birim · 159 tahmin sonuç bekliyor
+**468/823 tuttu** (isabet %57, beklenen %59) · -97.36 birim · 164 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -78,6 +78,7 @@
 
 - ⏳ MS 1 · @1.75
 - ⏳ Korner 10.5 Alt · @1.56
+- ⏳ 2.5 Üst · @1.44
 
 **17:00 · Rennes – Lille**
 
@@ -99,6 +100,7 @@
 **18:00 · Hearts – Falkirk**
 
 - ⏳ MS 1 · @1.47
+- ⏳ 2.5 Üst · @1.43
 
 **18:00 · AEK Athens – APO Levadeiakos FC**
 
@@ -117,6 +119,7 @@
 
 - ⏳ MS 1 · @1.57
 - ⏳ En çok korner 1 · @1.40
+- ⏳ Korner 9.5 Üst · @1.46
 
 **18:15 · Girona – Almeria**
 
@@ -134,6 +137,10 @@
 **18:30 · Estoril Praia – Maritimo**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.50
+
+**18:30 · N. Madeira – A. de Viseu **
+
+- ⏳ En çok korner 1 · @1.83
 
 **18:45 · AZ Alkmaar – Groningen**
 
@@ -201,6 +208,7 @@
 
 - ⏳ KG Var · @1.67
 - ⏳ Korner 8.5 Alt · @1.66
+- ⏳ MS 1 · @1.72
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -228,6 +236,7 @@
 **21:30 · Hoffenheim – Schalke 04**
 
 - ⏳ MS 1 · @1.47
+- ⏳ KG Var · @1.45
 
 **21:30 · LR Vicenza Virtus – Cremonese**
 
@@ -537,7 +546,7 @@
 
 **20:30 · Leganes – Albacete**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.47
+- ❌ ↳ Korner 10.5 Alt · @1.47 · korner 9-5
 
 **20:30 · Osasuna – Athletic Bilbao**
 
@@ -549,8 +558,8 @@
 
 **20:45 · ADO Den Haag – Sparta Rotterdam**
 
-- ⏳ 2.5 Üst · @1.42
-- ⏳ Korner 10.5 Alt · @1.61
+- ✅ 2.5 Üst · @1.42 · 3-1
+- ❌ Korner 10.5 Alt · @1.61 · korner 5-9
 
 **21:00 · Alverca FC – Casa Pia AC**
 
@@ -584,6 +593,7 @@
 **22:45 · Antwerp – Lommel SK**
 
 - ⏳ MS 1 · @1.73
+- ⏳ 2.5 Üst · @1.47
 
 **22:45 · RAAL La Louviere – Cercle Brugge**
 
@@ -605,6 +615,10 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @1.80
 - ⏳ KG Var · @1.66
+
+**23:05 · Paris Saint Germain – Troyes**
+
+- ⏳ Korner 9.5 Alt · @1.52
 
 **23:30 · Sporting Lizbon – Moreirense**
 

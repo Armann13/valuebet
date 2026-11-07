@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/83 tuttu** (isabet %41, beklenen %43) · -3.29 birim · 4 tahmin sonuç bekliyor
+**34/83 tuttu** (isabet %41, beklenen %43) · -3.29 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,6 +29,7 @@
 **23:30 · Sporting Lizbon – Moreirense**
 
 - ⏳ KG Var · @2.24
+- ⏳ MS 1 & KG Var · @2.79
 
 ## 02.11.2026 Pazartesi
 

@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1357 | 1269 | 646 | -98.26 |
-| sonra | 1151 | 1077 | 536 | -103.65 |
+| önce | 1360 | 1282 | 651 | -100.58 |
+| sonra | 1151 | 1090 | 541 | -107.10 |
 
-Değişen tahmin: 289 (267 sonuçlandı: eski 199, yeni 149 tuttu).
+Değişen tahmin: 288 (270 sonuçlandı: eski 202, yeni 152 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -34,8 +34,8 @@ Kadro mesajı: 07.11 22:17
 Kadro mesajı: 07.11 22:17
 
 - 🟢 Tier 1: ⏳ MS 1 & 2.5 Üst @1.21, ⏳ En çok korner 1 @1.24 → ⏳ 2.5 Üst @1.20 (değişti)
-- 🟡 Tier 2: — → ⏳ Korner 9.5 Alt @1.52 (yeni)
-- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.26 → ⏳ MS 1 & KG Var @2.30, ⏳ Korner 8.5 Alt @1.91 (değişti)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.52 → ⏳ Korner 9.5 Alt @1.52 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.26, ⏳ Korner 8.5 Alt @1.91 → ⏳ MS 1 & KG Var @2.30, ⏳ Korner 8.5 Alt @1.91 (aynı)
 
 ## 07.11 · RAAL La Louviere – Cercle Brugge
 
@@ -59,7 +59,7 @@ Kadro mesajı: 07.11 22:17
 Kadro mesajı: 07.11 22:01
 
 - 🟢 Tier 1: ⏳ En çok korner 1 @1.38 → ⏳ En çok korner 1 @1.38 (aynı)
-- 🟡 Tier 2: ⏳ MS 1 @1.73 → ⏳ 2.5 Üst @1.43 (değişti)
+- 🟡 Tier 2: ⏳ MS 1 @1.73, ⏳ 2.5 Üst @1.47 → ⏳ 2.5 Üst @1.43 (değişti)
 - 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.36 → ⏳ MS 1 & 2.5 Üst @2.33 (aynı)
 - 🟣 Tier 4: ⏳ MS 1 & KG Var @3.03 → ⏳ MS 1 & KG Var @3.01 (aynı)
 
@@ -119,9 +119,9 @@ Kadro mesajı: 07.11 20:28
 
 Kadro mesajı: 07.11 20:10
 
-- 🟡 Tier 2: ⏳ 2.5 Üst @1.42, ⏳ Korner 10.5 Alt @1.61 → ⏳ ÇŞ 1-X @1.40, ⏳ Korner 10.5 Alt @1.61 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @3.11, ⏳ Korner 9.5 Alt @2.02 → ⏳ MS 1 @2.40, ⏳ Korner 9.5 Alt @2.02 (değişti)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.75 → ⏳ MS 1 & 2.5 Üst @3.31 (değişti)
+- 🟡 Tier 2: ✅ 2.5 Üst @1.42, ❌ Korner 10.5 Alt @1.61 → ✅ ÇŞ 1-X @1.40, ❌ Korner 10.5 Alt @1.61 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @3.11, ❌ Korner 9.5 Alt @2.02 → ✅ MS 1 @2.40, ❌ Korner 9.5 Alt @2.02 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & KG Var @3.75 → ✅ MS 1 & 2.5 Üst @3.31 (değişti)
 
 ## 07.11 · Alverca FC – Casa Pia AC
 
@@ -144,18 +144,18 @@ Kadro mesajı: 07.11 20:10
 
 Kadro mesajı: 07.11 19:55
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → ⏳ ÇŞ 1-2 @1.22 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @2.27 → ⏳ MS 1 @2.42 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.47 → ⏳ MS 1 & 2.5 Üst @3.94 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20 → ✅ ÇŞ 1-2 @1.22 (aynı)
+- 🔴 Tier 3: ❌ MS 1 @2.27 → ❌ MS 1 @2.42 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @3.47 → ❌ MS 1 & 2.5 Üst @3.94 (aynı)
 
 ## 07.11 · Leganes – Albacete
 
 Kadro mesajı: 07.11 19:55
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20, ⏳ Korner 11.5 Alt @1.25 → ⏳ ÇŞ 1-2 @1.22, ⏳ Korner 11.5 Alt @1.25 (aynı)
-- 🟡 Tier 2: ⏳ Korner 10.5 Alt @1.47 → ⏳ Korner 10.5 Alt @1.47 (aynı)
-- 🔴 Tier 3: ⏳ MS 1 @1.85 → ⏳ MS 1 @1.94 (aynı)
-- 🟣 Tier 4: ⏳ MS 1 & 2.5 Üst @3.03 → ⏳ MS 1 & 2.5 Üst @3.11 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20, ❌ Korner 11.5 Alt @1.25 → ✅ ÇŞ 1-2 @1.22, ❌ Korner 11.5 Alt @1.25 (aynı)
+- 🟡 Tier 2: ❌ Korner 10.5 Alt @1.47 → ❌ Korner 10.5 Alt @1.47 (aynı)
+- 🔴 Tier 3: ❌ MS 1 @1.85 → ❌ MS 1 @1.94 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @3.03 → ❌ MS 1 & 2.5 Üst @3.11 (aynı)
 
 ## 07.11 · Cordoba – AD Ceuta
 
