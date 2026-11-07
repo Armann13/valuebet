@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 06.11.2026 23:19. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 07.11.2026 06:11. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -21,7 +21,7 @@ Son güncelleme: 06.11.2026 23:19. Telegram mesajına giren tahminler (ilk gönd
 | [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 48 | 45 | 12 | %27 | %40 | -12.95 | %-29 |
 | [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 68 | 63 | 21 | %33 | %36 | -4.98 | %-8 |
 | [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 118 | 94 | 13 | %14 | %13 | +134.91 | %144 |
-| [💎 💎 Değerli](sonuclar/degerli.md) | 82 | 82 | 34 | %41 | %43 | -2.29 | %-3 |
+| [💎 💎 Değerli](sonuclar/degerli.md) | 83 | 82 | 34 | %41 | %43 | -2.29 | %-3 |
 
 ## Sistem kuponları
 
@@ -246,3 +246,4 @@ Değişen tahmin: 256 (253 sonuçlandı: eski 192, yeni 144 tuttu).
 | 05.11.2026 | 254 | 209 | 90 | %43 | %47 | -29.50 |
 | 06.11.2026 | 120 | 111 | 54 | %49 | %41 | +5.13 |
 | 07.11.2026 | 403 | 0 | 0 | — | — | — |
+| 08.11.2026 | 1 | 0 | 0 | — | — | — |

@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/82 tuttu** (isabet %41, beklenen %43) · -2.29 birim
+**34/82 tuttu** (isabet %41, beklenen %43) · -2.29 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11.2026 Pazar
+
+**15:30 · Magdeburg – Saint Pauli**
+
+- ⏳ KG Yok · @2.26
 
 ## 02.11.2026 Pazartesi
 

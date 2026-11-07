@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-06 08",
+ "son_ozet": "2026-11-07 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -120,7 +120,8 @@
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "kuponlar": [
   "2️⃣|Le Havre – Paris Saint Germain:MS 2 & KG Var|Sheffield United – Wrexham:En çok korner 1",
@@ -184,6 +185,10 @@
   "2️⃣|Ascoli – US Palermo:En çok korner 1|Osnabruck – Kaiserslautern:En çok korner 2",
   "3️⃣|Braunschweig – E. Cottbus:En çok korner 2|Bristol City – Norwich City:En çok korner 1|Preston – Southampton:En çok korner 1",
   "4️⃣|Blackburn Rovers – West Ham:En çok korner 1|Galatasaray – Amed Sportif Faaliyetler:MS 1 & KG Var|Hertha Berlin – Wolfsburg:En çok korner 2|Valencia – Real Madrid:MS 2 & KG Var",
-  "🎲|Mainz – Bayern Münih:İY/MS 1/2|Queen's Park – P. Thistle:İY/MS 1/2|Valencia – Real Madrid:İY/MS 1/2|Watford – Middlesbrough:İY/MS 1/2"
+  "🎲|Mainz – Bayern Münih:İY/MS 1/2|Queen's Park – P. Thistle:İY/MS 1/2|Valencia – Real Madrid:İY/MS 1/2|Watford – Middlesbrough:İY/MS 1/2",
+  "2️⃣|Bristol City – Norwich City:En çok korner 1|Padova – Empoli:En çok korner 2",
+  "3️⃣|Cagliari – Frosinone:En çok korner 1|Preston – Southampton:En çok korner 1|Vitoria Guimaraes – Porto:En çok korner 1",
+  "4️⃣|Atletico Madrid – Barcelona:En çok korner 1|Genoa – AC Milan:En çok korner 1|Hertha Berlin – Wolfsburg:En çok korner 2|Mainz – Bayern Münih:En çok korner 1",
+  "🎲|Beşiktaş – Gençlerbirliği:İY/MS 2/1|Magdeburg – Saint Pauli:KG Yok|POT Iraklis – Panathinaikos:İY/MS 1/2|Queen's Park – P. Thistle:İY/MS 1/2|Valencia – Real Madrid:İY/MS 1/2"
  ]
 }
