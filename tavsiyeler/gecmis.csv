@@ -6104,3 +6104,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 20:10,2026-11-07,07.11,P1,Alverca,Casa Pia,Alverca FC – Casa Pia AC,P1,🔴 Tier 3 — Yüksek risk,İY/MS 1/1,0.32150722816653965,2.54,-0.18337164045698928,piyasa,True,,,2026-11-07 21:00,,,,,,kadro
 2026-11-07 20:10,2026-11-07,07.11,P1,Alverca,Casa Pia,Alverca FC – Casa Pia AC,P1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7006106935881196,1.3,-0.08920609833544457,korner,False,,,2026-11-07 21:00,,,,,,kadro
 2026-11-07 20:10,2026-11-07,07.11,P1,Alverca,Casa Pia,Alverca FC – Casa Pia AC,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.13154224904107503,6.0,-0.2107465057535498,piyasa,,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🟡 Tier 2 — Orta risk,KG Var,0.5819497364581211,1.62,-0.05724142693784373,piyasa,False,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.2868724054484605,3.11,-0.1078268190552879,piyasa,True,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7273471295918232,1.22,-0.1126365018979757,korner,False,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6389866146428036,1.41,-0.09902887335364696,korner,True,,,2026-11-07 21:00,,,,,,kadro
+2026-11-07 20:28,2026-11-07,07.11,F1,Auxerre,Paris FC,AJ Auxerre – Paris,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.13047823961978045,7.21,-0.05925189234138295,piyasa,,,,2026-11-07 21:00,,,,,,kadro
