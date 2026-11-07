@@ -6116,3 +6116,11 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5825930795146708,1.49,-0.13193631152314056,korner,False,,,2026-11-07 21:30,,,,,,kadro
 2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,🔴 Tier 3 — Yüksek risk,Korner 9.5 Üst,0.47531203321715276,1.87,-0.1111664978839243,korner,True,,,2026-11-07 21:30,,,,,,kadro
 2026-11-07 21:11,2026-11-07,07.11,I2,Benevento,Avellino,Benevento – AS Avellino 1912,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10399018362355557,7.83,-0.18575686222755994,piyasa,,,,2026-11-07 21:30,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,St Etienne,Laval,St Etienne – Stade Laval,F2,🟢 Tier 1 — Düşük risk,MS 1,0.7256174944285327,1.2,-0.12925900668576074,piyasa,False,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7124106014803122,1.24,-0.11661085416441286,piyasa,False,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,St Etienne,Laval,St Etienne – Stade Laval,F2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.49672209726016636,1.75,-0.13073632979470884,piyasa,True,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,🔴 Tier 3 — Yüksek risk,MS 2,0.41543399913267604,2.14,-0.11097124185607321,piyasa,True,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,St Etienne,Laval,St Etienne – Stade Laval,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.34047132518158635,2.86,-0.026252009980663127,piyasa,True,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.24176833425064703,3.88,-0.06193886310748953,piyasa,True,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,St Etienne,Laval,St Etienne – Stade Laval,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1211490365486133,7.55,-0.08532477405796968,piyasa,,,,2026-11-07 22:00,,,,,,kadro
+2026-11-07 21:25,2026-11-07,07.11,F2,Pau FC,Nantes,Pau – Nantes,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.088357832398288,8.48,-0.25072558126251776,piyasa,,,,2026-11-07 22:00,,,,,,kadro
