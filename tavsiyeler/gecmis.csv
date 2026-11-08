@@ -6422,3 +6422,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 22:01,2026-11-08,08.11,SP1,Ath Madrid,Barcelona,Atletico Madrid – Barcelona,SP1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5775699210261878,1.54,-0.11054232161967081,korner,False,,,2026-11-08 23:00,,,,,,kadro
 2026-11-08 22:01,2026-11-08,08.11,SP1,Ath Madrid,Barcelona,Atletico Madrid – Barcelona,SP1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4755855453251615,1.91,-0.09163160842894158,korner,True,,,2026-11-08 23:00,,,,,,kadro
 2026-11-08 22:01,2026-11-08,08.11,SP1,Ath Madrid,Barcelona,Atletico Madrid – Barcelona,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12244849443797609,8.19,0.002853169447024184,piyasa,,,,2026-11-08 23:00,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟢 Tier 1 — Düşük risk,ÇŞ X-2,0.728426379727611,1.24,-0.09675128913776232,piyasa,False,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🔴 Tier 3 — Yüksek risk,MS 2,0.46054743195584785,2.06,-0.05127229017095336,piyasa,True,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.29597222883859475,3.22,-0.04696942313972485,piyasa,True,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7609913209165927,1.2,-0.08681041490008878,korner,False,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5773654725201511,1.67,-0.03579966089134767,korner,True,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1031251786609569,8.06,-0.1688110599926873,piyasa,,,,2026-11-08 22:45,,,,,,kadro
