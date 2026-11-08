@@ -6323,3 +6323,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7043247031103932,1.26,-0.11255087408090458,korner,False,,,2026-11-08 19:15,,,,,,kadro
 2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6136059018941846,1.47,-0.09799932421554858,korner,True,,,2026-11-08 19:15,,,,,,kadro
 2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11061149496995518,7.63,-0.15603429337924202,piyasa,,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,F1,Le Havre,Lorient,Le Havre – Lorient,F1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7049940959115201,1.23,-0.1328572620288303,piyasa,False,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,F1,Le Havre,Lorient,Le Havre – Lorient,F1,🔴 Tier 3 — Yüksek risk,MS 2,0.3752158540337009,2.13,-0.20079023090821713,piyasa,True,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,F1,Le Havre,Lorient,Le Havre – Lorient,F1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.21701057532257848,3.73,-0.19055055404678234,piyasa,True,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,F1,Le Havre,Lorient,Le Havre – Lorient,F1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5804513166192512,1.64,-0.04805984074442804,korner,False,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,F1,Le Havre,Lorient,Le Havre – Lorient,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.07866428598980774,8.34,-0.34393985484500345,piyasa,,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7000733566638542,1.23,-0.13890977130345938,piyasa,False,,,2026-11-08 19:30,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,🔴 Tier 3 — Yüksek risk,MS 1,0.4433348608508495,1.89,-0.16209711299189444,piyasa,True,,,2026-11-08 19:30,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.30977628416833297,2.55,-0.21007047537075096,piyasa,True,,,2026-11-08 19:30,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5860275914170235,1.52,-0.10923806104612421,korner,False,,,2026-11-08 19:30,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.48406478414493725,1.88,-0.08995820580751801,korner,True,,,2026-11-08 19:30,,,,,,kadro
+2026-11-08 18:31,2026-11-08,08.11,E0,Man United,Aston Villa,Manchester United – Aston Villa,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09752207718252816,7.91,-0.22860036948620222,piyasa,,,,2026-11-08 19:30,,,,,,kadro
