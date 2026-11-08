@@ -6314,3 +6314,12 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 17:59,2026-11-08,08.11,N1,AZ Alkmaar,Groningen,AZ Alkmaar – Groningen,N1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7089578705241807,1.21,-0.14216097666574135,korner,False,,,2026-11-08 18:45,,,,,,kadro
 2026-11-08 17:59,2026-11-08,08.11,N1,AZ Alkmaar,Groningen,AZ Alkmaar – Groningen,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1297362584019761,7.44,-0.03476223748929763,piyasa,,,,2026-11-08 18:45,,,,,,kadro
 2026-11-08 17:59,2026-11-08,08.11,N1,Cambuur,PSV Eindhoven,SC Cambuur – PSV,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.08348475051649805,8.16,-0.31876443578537594,piyasa,,,,2026-11-08 18:45,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,SC0,Celtic,Kilmarnock,Celtic – Kilmarnock,SC0,🟡 Tier 2 — Orta risk,KG Var,0.5288930638737567,1.6,-0.15377109780198928,piyasa,False,,,2026-11-08 19:00,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,SC0,Celtic,Kilmarnock,Celtic – Kilmarnock,SC0,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.4042115179677837,2.01,-0.1875348488847548,piyasa,True,,,2026-11-08 19:00,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,SC0,Celtic,Kilmarnock,Celtic – Kilmarnock,SC0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),3-1,0.08505768778212171,8.68,-0.26169927005118365,piyasa,,,,2026-11-08 19:00,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5466912351917171,1.6,-0.1252940236932525,piyasa,False,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.304631136365965,2.76,-0.15921806362993662,piyasa,True,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.24168096427407063,3.55,-0.14203257682704928,piyasa,True,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7043247031103932,1.26,-0.11255087408090458,korner,False,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6136059018941846,1.47,-0.09799932421554858,korner,True,,,2026-11-08 19:15,,,,,,kadro
+2026-11-08 18:16,2026-11-08,08.11,F1,Angers,Nice,Angers – Nice,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11061149496995518,7.63,-0.15603429337924202,piyasa,,,,2026-11-08 19:15,,,,,,kadro
