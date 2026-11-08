@@ -6428,3 +6428,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7609913209165927,1.2,-0.08681041490008878,korner,False,,,2026-11-08 22:45,,,,,,kadro
 2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5773654725201511,1.67,-0.03579966089134767,korner,True,,,2026-11-08 22:45,,,,,,kadro
 2026-11-08 22:16,2026-11-08,08.11,I1,Fiorentina,Juventus,Fiorentina – Juventus,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1031251786609569,8.06,-0.1688110599926873,piyasa,,,,2026-11-08 22:45,,,,,,kadro
+2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🟡 Tier 2 — Orta risk,KG Var,0.5005242984078877,1.67,-0.16412442165882757,piyasa,False,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.3573338481403358,2.23,-0.2031455186470511,piyasa,True,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Üst,0.5375493046089652,1.58,-0.15067209871783493,korner,False,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🔴 Tier 3 — Yüksek risk,Korner 10.5 Üst,0.4390387382408533,1.97,-0.13509368566551894,korner,True,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1034754550140197,8.42,-0.12873666878195422,piyasa,,,,2026-11-08 23:30,,,,,,kadro
