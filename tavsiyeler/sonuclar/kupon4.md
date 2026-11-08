@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/76 tuttu** (isabet %33, beklenen %37) · -8.09 birim · 4 tahmin sonuç bekliyor
+**27/78 tuttu** (isabet %35, beklenen %37) · -5.65 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,21 +17,21 @@
 
 ## 07.11 22:32 gönderilen kupon · 4 maç, oran 34,39
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
 - ❌ 07.11 23:00 Valencia – Real Madrid · MS 2 & KG Var · @2.43 · 0-3
 - ❌ 08.11 15:30 Bochum – Karlsruhe · En çok korner 2 · @2.54 · korner 4-1
 - ✅ 08.11 17:00 Genoa – AC Milan · En çok korner 1 · @2.51 · korner 3-0
-- ⏳ 08.11 23:00 Atletico Madrid – Barcelona · En çok korner 1 · @2.22
+- ✅ 08.11 23:00 Atletico Madrid – Barcelona · En çok korner 1 · @2.22 · korner 4-2
 
 ## 07.11 09:11 gönderilen kupon · 4 maç, oran 43,83
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
 - ❌ 07.11 17:30 Mainz – Bayern Münih · En çok korner 1 · @3.45 · korner 7-8
 - ❌ 07.11 22:30 Hertha Berlin – Wolfsburg · En çok korner 2 · @2.28 · korner 10-3
 - ✅ 08.11 17:00 Genoa – AC Milan · En çok korner 1 · @2.51 · korner 3-0
-- ⏳ 08.11 23:00 Atletico Madrid – Barcelona · En çok korner 1 · @2.22
+- ✅ 08.11 23:00 Atletico Madrid – Barcelona · En çok korner 1 · @2.22 · korner 4-2
 
 ## 06.11 10:00 gönderilen kupon · 4 maç, oran 35,08
 

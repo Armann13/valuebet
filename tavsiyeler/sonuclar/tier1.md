@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**435/604 tuttu** (isabet %72, beklenen %74) · -66.95 birim · 61 tahmin sonuç bekliyor
+**440/610 tuttu** (isabet %72, beklenen %74) · -66.78 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **22:30 · CE Sabadell FC – Real Sociedad B**
 
 - ⏳ En çok korner 1 · @1.27
+
+**22:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ ÇŞ 1-X · @1.20
 
 ## 08.11.2026 Pazar
 
@@ -160,21 +164,21 @@
 
 **21:30 · Hoffenheim – Schalke 04**
 
-- ⏳ En çok korner 1 · @1.30
+- ✅ En çok korner 1 · @1.30 · korner 6-4
 
 **22:45 · Fiorentina – Juventus**
 
-- ⏳ ÇŞ X-2 · @1.22
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ ÇŞ X-2 · @1.22 · 2-2
+- ❌ Korner 11.5 Alt · @1.21 · korner 5-12
 
 **22:45 · RC Lens – Marsilya**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 4-6
 
 **23:00 · Atletico Madrid – Barcelona**
 
-- ⏳ 2.5 Üst · @1.20
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ 2.5 Üst · @1.20 · 1-2
+- ✅ ÇŞ X-2 · @1.24 · 1-2
 
 **23:30 · Rio Ave – Braga**
 

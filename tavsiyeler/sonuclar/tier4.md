@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**150/528 tuttu** (isabet %28, beklenen %29) · -63.66 birim · 56 tahmin sonuç bekliyor
+**155/537 tuttu** (isabet %29, beklenen %29) · -57.81 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -162,36 +162,36 @@
 
 **21:15 · St. Truidense – Zulte Waregem**
 
-- ⏳ ↳ MS 1 & KG Var · @2.98
+- ✅ ↳ MS 1 & KG Var · @2.98 · 4-1
 
 **21:30 · Hoffenheim – Schalke 04**
 
-- ⏳ ↳ MS 1 & KG Var · @2.62
+- ✅ ↳ MS 1 & KG Var · @2.62 · 2-1
 
 **21:30 · LR Vicenza Virtus – Cremonese**
 
-- ⏳ ↳ MS X & KG Var · @4.04
+- ❌ ↳ MS X & KG Var · @4.04 · 1-4
 
 **22:00 · Olympiacos – PAOK**
 
-- ⏳ ↳ MS 1 & KG Var · @3.07
+- ❌ ↳ MS 1 & KG Var · @3.07 · 1-1
 
 **22:00 · Utrecht – NEC Nijmegen**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.33
+- ✅ ↳ MS 2 & 2.5 Üst · @3.33 · 2-3
 
 **22:45 · Fiorentina – Juventus**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.98
+- ❌ ↳ MS 2 & 2.5 Üst · @2.98 · 2-2
 
 **22:45 · RC Lens – Marsilya**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.49
-- ⏳ ↳ MS 1 & KG Var · @3.74
+- ✅ ↳ MS 2 & 2.5 Üst · @3.49 · 1-2
+- ❌ ↳ MS 1 & KG Var · @3.74 · 1-2
 
 **23:00 · Atletico Madrid – Barcelona**
 
-- ⏳ ↳ MS 2 & KG Var · @2.43
+- ✅ ↳ MS 2 & KG Var · @2.43 · 1-2
 
 **23:30 · Rio Ave – Braga**
 

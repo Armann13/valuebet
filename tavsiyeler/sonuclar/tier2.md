@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**528/923 tuttu** (isabet %57, beklenen %59) · -102.35 birim · 87 tahmin sonuç bekliyor
+**540/940 tuttu** (isabet %57, beklenen %59) · -100.79 birim · 70 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -255,44 +255,44 @@
 
 **21:15 · St. Truidense – Zulte Waregem**
 
-- ⏳ MS 1 · @1.63
-- ⏳ Korner 10.5 Alt · @1.58
+- ✅ MS 1 · @1.63 · 4-1
+- ✅ Korner 10.5 Alt · @1.58 · korner 5-4
 
 **21:30 · Hoffenheim – Schalke 04**
 
-- ⏳ MS 1 · @1.47
-- ⏳ KG Var · @1.45
-- ⏳ 2.5 Üst · @1.41
+- ✅ MS 1 · @1.47 · 2-1
+- ✅ KG Var · @1.45 · 2-1
+- ✅ 2.5 Üst · @1.41 · 2-1
 
 **21:30 · LR Vicenza Virtus – Cremonese**
 
-- ⏳ 2.5 Alt · @1.68
-- ⏳ En çok korner 1 · @1.61
-- ⏳ KG Var · @1.62
+- ❌ 2.5 Alt · @1.68 · 1-4
+- ✅ En çok korner 1 · @1.61 · korner 4-3
+- ✅ KG Var · @1.62 · 1-4
 
 **22:00 · Olympiacos – PAOK**
 
-- ⏳ MS 1 · @1.46
+- ❌ MS 1 · @1.46 · 1-1
 
 **22:00 · Utrecht – NEC Nijmegen**
 
-- ⏳ ÇŞ X-2 · @1.42
-- ⏳ Korner 9.5 Alt · @1.91
+- ✅ ÇŞ X-2 · @1.42 · 2-3
+- ❌ Korner 9.5 Alt · @1.91 · korner 3-8
 
 **22:45 · RC Lens – Marsilya**
 
-- ⏳ ÇŞ X-2 · @1.47
-- ⏳ ↳ Korner 9.5 Alt · @1.68
-- ⏳ 2.5 Üst · @1.51
+- ✅ ÇŞ X-2 · @1.47 · 1-2
+- ❌ ↳ Korner 9.5 Alt · @1.68 · korner 4-6
+- ✅ 2.5 Üst · @1.51 · 1-2
 
 **22:45 · Fiorentina – Juventus**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.67
+- ❌ ↳ Korner 9.5 Alt · @1.67 · korner 5-12
 
 **23:00 · Atletico Madrid – Barcelona**
 
-- ⏳ Korner 10.5 Alt · @1.56
-- ⏳ ↳ MS 2 · @1.83
+- ✅ Korner 10.5 Alt · @1.56 · korner 4-2
+- ✅ ↳ MS 2 · @1.83 · 1-2
 
 **23:30 · Rio Ave – Braga**
 
