@@ -6393,3 +6393,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 20:31,2026-11-08,08.11,B1,St Truiden,Waregem,St. Truidense – Zulte Waregem,B1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.567194987108784,1.58,-0.10383192036812117,korner,False,,,2026-11-08 21:15,,,,,,kadro
 2026-11-08 20:31,2026-11-08,08.11,B1,St Truiden,Waregem,St. Truidense – Zulte Waregem,B1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.46600510037057163,1.98,-0.07730990126626813,korner,True,,,2026-11-08 21:15,,,,,,kadro
 2026-11-08 20:31,2026-11-08,08.11,B1,St Truiden,Waregem,St. Truidense – Zulte Waregem,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12341124996953183,7.41,-0.08552263772576907,oran,,,,2026-11-08 21:15,,,,,,kadro
+2026-11-08 20:44,2026-11-08,08.11,I2,Vicenza,Cremonese,LR Vicenza Virtus – Cremonese,I2,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.6073899457683194,1.49,-0.09498898080520413,piyasa,False,,,2026-11-08 21:30,,,,,,kadro
+2026-11-08 20:44,2026-11-08,08.11,I2,Vicenza,Cremonese,LR Vicenza Virtus – Cremonese,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.3036949728841597,3.09,-0.061582533787946536,piyasa,True,,,2026-11-08 21:30,,,,,,kadro
+2026-11-08 20:44,2026-11-08,08.11,I2,Vicenza,Cremonese,LR Vicenza Virtus – Cremonese,I2,🟡 Tier 2 — Orta risk,En çok korner 1,0.618565125135473,1.65,0.020632456473530514,korner,False,,,2026-11-08 21:30,,,,,,kadro
+2026-11-08 20:44,2026-11-08,08.11,I2,Vicenza,Cremonese,LR Vicenza Virtus – Cremonese,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.07954850850044455,8.9,-0.29201827434604344,piyasa,,,,2026-11-08 21:30,,,,,,kadro
