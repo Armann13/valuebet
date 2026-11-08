@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**468/823 tuttu** (isabet %57, beklenen %59) · -97.36 birim · 164 tahmin sonuç bekliyor
+**478/846 tuttu** (isabet %57, beklenen %59) · -105.27 birim · 141 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -563,62 +563,62 @@
 
 **21:00 · Alverca FC – Casa Pia AC**
 
-- ⏳ MS 1 · @1.61
+- ❌ MS 1 · @1.61 · 1-1
 
 **21:00 · AJ Auxerre – Paris**
 
-- ⏳ MS 2 · @1.61
-- ⏳ ↳ Korner 10.5 Alt · @1.42
-- ⏳ KG Var · @1.56
+- ✅ MS 2 · @1.61 · 0-1
+- ✅ ↳ Korner 10.5 Alt · @1.42 · korner 1-5
+- ❌ KG Var · @1.56 · 0-1
 
 **21:30 · Benevento – AS Avellino 1912**
 
-- ⏳ MS 1 · @1.72
-- ⏳ Korner 8.5 Üst · @1.58
+- ❌ MS 1 · @1.72 · 1-1
+- ✅ Korner 8.5 Üst · @1.58 · korner 9-3
 
 **22:00 · St Etienne – Stade Laval**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.75
+- ❌ ↳ MS 1 & 2.5 Üst · @1.75 · 2-0
 
 **22:30 · Hertha Berlin – Wolfsburg**
 
-- ⏳ Korner 10.5 Üst · @1.58
-- ⏳ ÇŞ X-2 · @1.53
+- ✅ Korner 10.5 Üst · @1.58 · korner 10-3
+- ❌ ÇŞ X-2 · @1.53 · 2-1
 
 **22:45 · AS Roma – Sassuolo**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.47
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ✅ ↳ MS 1 & 2.5 Üst · @1.47 · 3-0
+- ❌ ↳ Korner 10.5 Alt · @1.41 · korner 12-1
 
 **22:45 · Antwerp – Lommel SK**
 
-- ⏳ MS 1 · @1.73
-- ⏳ 2.5 Üst · @1.47
+- ❌ MS 1 · @1.73 · 2-2
+- ✅ 2.5 Üst · @1.47 · 2-2
 
 **22:45 · RAAL La Louviere – Cercle Brugge**
 
-- ⏳ Korner 9.5 Üst · @1.69
+- ❌ Korner 9.5 Üst · @1.69 · korner 6-2
 
 **23:00 · Valencia – Real Madrid**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.51
-- ⏳ ↳ Korner 10.5 Alt · @1.49
-- ⏳ KG Var · @1.72
+- ✅ ↳ MS 2 & 2.5 Üst · @1.51 · 0-3
+- ✅ ↳ Korner 10.5 Alt · @1.49 · korner 2-5
+- ❌ KG Var · @1.72 · 0-3
 
 **23:00 · Excelsior – Go Ahead Eagles**
 
-- ⏳ ÇŞ 1-X · @1.45
-- ⏳ Korner 10.5 Alt · @1.44
-- ⏳ 2.5 Üst · @1.41
+- ❌ ÇŞ 1-X · @1.45 · 0-1
+- ✅ Korner 10.5 Alt · @1.44 · korner 7-0
+- ❌ 2.5 Üst · @1.41 · 0-1
 
 **23:00 · St Mirren – Rangers**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.80
-- ⏳ KG Var · @1.66
+- ❌ ↳ MS 2 & 2.5 Üst · @1.80 · 0-2
+- ❌ KG Var · @1.66 · 0-2
 
 **23:05 · Paris Saint Germain – Troyes**
 
-- ⏳ Korner 9.5 Alt · @1.52
+- ✅ Korner 9.5 Alt · @1.52 · korner 6-1
 
 **23:30 · Sporting Lizbon – Moreirense**
 

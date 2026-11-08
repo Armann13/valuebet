@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/83 tuttu** (isabet %18, beklenen %16) · -0.60 birim · 5 tahmin sonuç bekliyor
+**15/84 tuttu** (isabet %18, beklenen %16) · -1.60 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,7 +32,7 @@
 
 **23:00 · Valencia – Real Madrid**
 
-- ⏳ 1-2 · @7.74
+- ❌ 1-2 · @7.74 · 0-3
 
 ## 05.11.2026 Perşembe
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**75/760 tuttu** (isabet %10, beklenen %11) · -218.06 birim · 110 tahmin sonuç bekliyor
+**76/775 tuttu** (isabet %10, beklenen %11) · -224.42 birim · 95 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -464,54 +464,54 @@
 
 **21:00 · Alverca FC – Casa Pia AC**
 
-- ⏳ 1-0 · @5.94
+- ❌ 1-0 · @5.94 · 1-1
 
 **21:00 · AJ Auxerre – Paris**
 
-- ⏳ 1-2 · @7.30
+- ❌ 1-2 · @7.30 · 0-1
 
 **21:30 · Benevento – AS Avellino 1912**
 
-- ⏳ 2-1 · @7.54
+- ❌ 2-1 · @7.54 · 1-1
 
 **22:00 · St Etienne – Stade Laval**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 2-0
 
 **22:00 · Pau – Nantes**
 
-- ⏳ 0-1 · @6.96
-- ⏳ 1-2 · @8.56
+- ❌ 0-1 · @6.96 · 0-2
+- ❌ 1-2 · @8.56 · 0-2
 
 **22:30 · Hertha Berlin – Wolfsburg**
 
-- ⏳ 2-1 · @8.64
-- ⏳ 1-2 · @10.10
+- ✅ 2-1 · @8.64 · 2-1
+- ❌ 1-2 · @10.10 · 2-1
 
 **22:45 · Antwerp – Lommel SK**
 
-- ⏳ 2-1 · @7.60
+- ❌ 2-1 · @7.60 · 2-2
 
 **22:45 · AS Roma – Sassuolo**
 
-- ⏳ 2-1 · @7.90
+- ❌ 2-1 · @7.90 · 3-0
 
 **22:45 · RAAL La Louviere – Cercle Brugge**
 
-- ⏳ 1-2 · @8.61
+- ❌ 1-2 · @8.61 · 0-1
 
 **23:00 · St Mirren – Rangers**
 
-- ⏳ 1-2 · @7.26
+- ❌ 1-2 · @7.26 · 0-2
 
 **23:00 · Excelsior – Go Ahead Eagles**
 
-- ⏳ 2-1 · @9.26
-- ⏳ 1-2 · @8.49
+- ❌ 2-1 · @9.26 · 0-1
+- ❌ 1-2 · @8.49 · 0-1
 
 **23:05 · Paris Saint Germain – Troyes**
 
-- ⏳ 2-1 · @10.35
+- ❌ 2-1 · @10.35 · 1-0
 
 **23:30 · Sporting Lizbon – Moreirense**
 

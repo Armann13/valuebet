@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**147/488 tuttu** (isabet %30, beklenen %29) · -32.38 birim · 90 tahmin sonuç bekliyor
+**148/497 tuttu** (isabet %30, beklenen %29) · -38.41 birim · 81 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -402,34 +402,34 @@
 
 **21:00 · AJ Auxerre – Paris**
 
-- ⏳ ↳ MS 2 & KG Var · @3.19
+- ❌ ↳ MS 2 & KG Var · @3.19 · 0-1
 
 **21:30 · Benevento – AS Avellino 1912**
 
-- ⏳ ↳ MS 1 & KG Var · @3.72
+- ❌ ↳ MS 1 & KG Var · @3.72 · 1-1
 
 **22:00 · Pau – Nantes**
 
 - ⏳ ↳ İY/MS 2/2 · @3.43
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.92
+- ❌ ↳ MS 2 & 2.5 Üst · @3.92 · 0-2
 
 **22:30 · Hertha Berlin – Wolfsburg**
 
-- ⏳ ↳ MS 1 & KG Var · @2.97
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.49
+- ✅ ↳ MS 1 & KG Var · @2.97 · 2-1
+- ❌ ↳ MS 2 & 2.5 Üst · @3.49 · 2-1
 
 **22:45 · Antwerp – Lommel SK**
 
-- ⏳ ↳ MS 1 & KG Var · @3.03
+- ❌ ↳ MS 1 & KG Var · @3.03 · 2-2
 
 **22:45 · RAAL La Louviere – Cercle Brugge**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.78
+- ❌ ↳ MS 2 & 2.5 Üst · @3.78 · 0-1
 
 **23:00 · Excelsior – Go Ahead Eagles**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.50
-- ⏳ ↳ MS 2 & KG Var · @3.62
+- ❌ ↳ MS 1 & 2.5 Üst · @3.50 · 0-1
+- ❌ ↳ MS 2 & KG Var · @3.62 · 0-1
 
 ## 06.11.2026 Cuma
 

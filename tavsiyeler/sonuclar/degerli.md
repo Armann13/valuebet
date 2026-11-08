@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/83 tuttu** (isabet %41, beklenen %43) · -3.29 birim · 5 tahmin sonuç bekliyor
+**34/84 tuttu** (isabet %40, beklenen %43) · -4.29 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **23:00 · Valencia – Real Madrid**
 
-- ⏳ MS 2 & KG Var · @2.51
+- ❌ MS 2 & KG Var · @2.51 · 0-3
 
 **23:30 · Sporting Lizbon – Moreirense**
 

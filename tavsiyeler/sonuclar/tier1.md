@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**397/553 tuttu** (isabet %72, beklenen %74) · -63.12 birim · 108 tahmin sonuç bekliyor
+**409/569 tuttu** (isabet %72, beklenen %74) · -63.92 birim · 92 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -380,55 +380,55 @@
 
 **21:00 · AJ Auxerre – Paris**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ✅ Korner 11.5 Alt · @1.23 · korner 1-5
 
 **21:00 · Alverca FC – Casa Pia AC**
 
-- ⏳ En çok korner 1 · @1.29
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ En çok korner 1 · @1.29 · korner 9-2
+- ❌ ÇŞ 1-2 · @1.20 · 1-1
 
 **21:30 · Benevento – AS Avellino 1912**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ❌ ÇŞ 1-2 · @1.21 · 1-1
 
 **22:00 · St Etienne – Stade Laval**
 
-- ⏳ MS 1 · @1.24
+- ✅ MS 1 · @1.24 · 2-0
 
 **22:00 · Pau – Nantes**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 0-2
 
 **22:30 · Hertha Berlin – Wolfsburg**
 
-- ⏳ 2.5 Üst · @1.25
+- ✅ 2.5 Üst · @1.25 · 2-1
 
 **22:45 · AS Roma – Sassuolo**
 
-- ⏳ 2.5 Üst · @1.24
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ 2.5 Üst · @1.24 · 3-0
+- ❌ Korner 11.5 Alt · @1.22 · korner 12-1
 
 **22:45 · RAAL La Louviere – Cercle Brugge**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 0-1
 
 **22:45 · Antwerp – Lommel SK**
 
-- ⏳ En çok korner 1 · @1.38
+- ✅ En çok korner 1 · @1.38 · korner 9-8
 
 **23:00 · St Mirren – Rangers**
 
-- ⏳ MS 2 · @1.31
+- ✅ MS 2 · @1.31 · 0-2
 
 **23:00 · Valencia – Real Madrid**
 
-- ⏳ 2.5 Üst · @1.31
-- ⏳ Korner 11.5 Alt · @1.27
+- ✅ 2.5 Üst · @1.31 · 0-3
+- ✅ Korner 11.5 Alt · @1.27 · korner 2-5
 
 **23:05 · Paris Saint Germain – Troyes**
 
-- ⏳ MS 1 & 2.5 Üst · @1.21
-- ⏳ En çok korner 1 · @1.24
+- ❌ MS 1 & 2.5 Üst · @1.21 · 1-0
+- ✅ En çok korner 1 · @1.24 · korner 6-1
 
 **23:30 · Sporting Lizbon – Moreirense**
 
