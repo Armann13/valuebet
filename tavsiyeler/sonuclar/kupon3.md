@@ -2,17 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 8 tahmin sonuç bekliyor
+**14/54 tuttu** (isabet %26, beklenen %40) · -16.82 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 08.11 13:34 gönderilen kupon · 3 maç, oran 25,53
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
-- ⏳ 08.11 16:30 Twente – Ajax · MS 2 · @3.10
-- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · MS 2 & KG Var · @2.92
-- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.82
+- ❌ 08.11 16:30 Twente – Ajax · MS 2 · @3.10 · 2-2
+- ✅ 08.11 18:30 POT Iraklis – Panathinaikos · MS 2 & KG Var · @2.92 · 1-2
+- ❌ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.82 · korner 4-5
 
 ## 07.11 22:32 gönderilen kupon · 3 maç, oran 16,58
 
@@ -20,15 +20,15 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 07.11 23:30 Sporting Lizbon – Moreirense · MS 1 & KG Var · @2.79
 - ⏳ 08.11 20:30 S.Gijon – Real Valladolid · En çok korner 2 · @2.10
-- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83
+- ❌ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83 · korner 4-5
 
 ## 07.11 09:11 gönderilen kupon · 3 maç, oran 19,59
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 07.11 17:00 Cagliari – Frosinone · En çok korner 1 · @2.17 · korner 3-13
 - ❌ 07.11 18:00 Preston – Southampton · En çok korner 1 · @3.19 · korner 3-9
-- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83
+- ❌ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.83 · korner 4-5
 
 ## 06.11 10:00 gönderilen kupon · 3 maç, oran 16,21
 

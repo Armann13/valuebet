@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/84 tuttu** (isabet %18, beklenen %16) · -1.60 birim · 5 tahmin sonuç bekliyor
+**16/87 tuttu** (isabet %18, beklenen %16) · +1.88 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,15 +16,15 @@
 
 **18:30 · POT Iraklis – Panathinaikos**
 
-- ⏳ 1-2 · @6.48
+- ✅ 1-2 · @6.48 · 1-2
 
 **18:30 · Santa Clara – Gil Vicente**
 
-- ⏳ 1-0 · @5.28
+- ❌ 1-0 · @5.28 · 1-2
 
 **21:00 · Beşiktaş – Gençlerbirliği**
 
-- ⏳ 2-1 · @8.25
+- ❌ 2-1 · @8.25 · 3-0
 
 ## 07.11.2026 Cumartesi
 

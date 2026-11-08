@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/84 tuttu** (isabet %40, beklenen %43) · -4.29 birim · 11 tahmin sonuç bekliyor
+**37/93 tuttu** (isabet %40, beklenen %43) · -6.67 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,23 @@
 
 **15:30 · Magdeburg – Saint Pauli**
 
-- ⏳ KG Yok · @2.26
+- ❌ KG Yok · @2.26 · 4-1
 
 **16:30 · Twente – Ajax**
 
-- ⏳ MS 2 · @3.10
+- ❌ MS 2 · @3.10 · 2-2
+
+**17:00 · Sunderland – Chelsea**
+
+- ❌ MS 2 & 2.5 Üst · @3.37 · 1-0
+
+**17:00 · AC Monza – Atalanta**
+
+- ❌ MS 1 · @3.70 · 0-1
+
+**17:00 · Rennes – Lille**
+
+- ⏳ MS 1 & 2.5 Üst · @3.47
 
 **18:00 · Hearts – Falkirk**
 
@@ -22,14 +34,14 @@
 
 **18:30 · POT Iraklis – Panathinaikos**
 
-- ⏳ KG Var · @1.97
-- ⏳ MS 2 & KG Var · @2.92
+- ✅ KG Var · @1.97 · 1-2
+- ✅ MS 2 & KG Var · @2.92 · 1-2
 
 **19:15 · Le Mans – Monaco**
 
-- ⏳ 2.5 Üst · @1.71
-- ⏳ MS 2 & KG Var · @3.40
-- ⏳ KG Var · @1.73
+- ❌ 2.5 Üst · @1.71 · 1-1
+- ❌ MS 2 & KG Var · @3.40 · 1-1
+- ✅ KG Var · @1.73 · 1-1
 
 ## 07.11.2026 Cumartesi
 

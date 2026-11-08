@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**9/30 tuttu** (isabet %30, beklenen %52) · -12.32 birim · 4 tahmin sonuç bekliyor
+**10/31 tuttu** (isabet %32, beklenen %52) · -11.20 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,9 +15,9 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 07.11 22:32 gönderilen kupon · 2 maç, oran 3,88
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 08.11 15:30 Magdeburg – Saint Pauli · En çok korner 2 · @2.12
+- ✅ 08.11 15:30 Magdeburg – Saint Pauli · En çok korner 2 · @2.12 · korner 3-7
 - ⏳ 08.11 18:30 N. Madeira – A. de Viseu  · En çok korner 1 · @1.83
 
 ## 07.11 09:11 gönderilen kupon · 2 maç, oran 4,62

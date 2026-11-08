@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/95 tuttu** (isabet %14, beklenen %13) · +133.91 birim · 39 tahmin sonuç bekliyor
+**13/99 tuttu** (isabet %13, beklenen %14) · +129.91 birim · 35 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 08.11 16:30 Twente – Ajax · MS 2 · @3.10
+- ❌ 08.11 16:30 Twente – Ajax · MS 2 · @3.10 · 2-2
 - ⏳ 08.11 18:00 AEK Athens – APO Levadeiakos FC · İY/MS 2/1 · @27.00
 - ⏳ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36
 - ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @24.60
-- ⏳ 08.11 19:15 Le Mans – Monaco · İY/MS 1/2 · @24.15
+- ❌ 08.11 19:15 Le Mans – Monaco · İY/MS 1/2 · @24.15
 - ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @20.50
 
 ## 07.11 22:32 gönderilen kupon · 5 maç, oran 609.976,42
@@ -23,7 +23,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.15
 - ⏳ 07.11 23:30 Sporting Lizbon – Moreirense · İY/MS 2/1 · @27.00
-- ⏳ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26
+- ❌ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26 · 4-1
 - ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40
 - ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10
 
@@ -33,7 +33,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10
 - ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.05
-- ⏳ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26
+- ❌ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26 · 4-1
 - ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40
 - ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10
 

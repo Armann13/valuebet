@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**409/570 tuttu** (isabet %72, beklenen %74) · -64.92 birim · 95 tahmin sonuç bekliyor
+**435/604 tuttu** (isabet %72, beklenen %74) · -66.95 birim · 61 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,37 +20,37 @@
 
 **15:30 · Club Brugge – Anderlecht**
 
-- ⏳ 2.5 Üst · @1.28
-- ⏳ Korner 12.5 Alt · @1.21
+- ❌ 2.5 Üst · @1.28 · 1-1
+- ✅ Korner 12.5 Alt · @1.21 · korner 9-1
 
 **15:30 · Heidenheim – Hannover 96**
 
-- ⏳ ÇŞ 1-X · @1.24
-- ⏳ Korner 12.5 Alt · @1.29
+- ✅ ÇŞ 1-X · @1.24 · 2-2
+- ❌ Korner 12.5 Alt · @1.29 · korner 7-9
 
 **15:30 · Bochum – Karlsruhe**
 
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ Korner 12.5 Alt · @1.20 · korner 4-1
 
 **16:00 · Elche – Real Betis**
 
-- ⏳ ÇŞ X-2 · @1.22
+- ✅ ÇŞ X-2 · @1.22 · 0-2
 
 **16:00 · Çorum FK – Fenerbahçe**
 
-- ⏳ En çok korner 2 · @1.49
+- ❌ En çok korner 2 · @1.49 · korner 7-1
 
 **16:30 · Twente – Ajax**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ Korner 11.5 Alt · @1.22 · korner 9-2
 
 **17:00 · AC Monza – Atalanta**
 
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ ÇŞ X-2 · @1.24 · 0-1
 
 **17:00 · Virtus Entella – Modena FC**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.24 · 0-2
 
 **17:00 · Rennes – Lille**
 
@@ -59,26 +59,26 @@
 
 **17:00 · Genoa – AC Milan**
 
-- ⏳ Korner 10.5 Alt · @1.22
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ Korner 10.5 Alt · @1.22 · korner 3-0
+- ✅ ÇŞ 1-2 · @1.20 · 1-2
 
 **17:00 · Sunderland – Chelsea**
 
-- ⏳ Korner 11.5 Alt · @1.24
+- ✅ Korner 11.5 Alt · @1.24 · korner 2-2
 
 **17:00 · Ipswich Town – Bournemouth**
 
-- ⏳ Korner 7.5 Üst · @1.26
+- ✅ Korner 7.5 Üst · @1.26 · korner 2-7
 
 **18:15 · Girona – Almeria**
 
-- ⏳ ÇŞ 1-X · @1.20
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-X · @1.20 · 0-1
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
 
 **18:30 · Santa Clara – Gil Vicente**
 
-- ⏳ ÇŞ 1-X · @1.20
-- ⏳ Korner 10.5 Alt · @1.24
+- ❌ ÇŞ 1-X · @1.20 · 1-2
+- ✅ Korner 10.5 Alt · @1.24 · korner 1-9
 
 **18:30 · Estoril Praia – Maritimo**
 
@@ -88,7 +88,7 @@
 
 **18:30 · POT Iraklis – Panathinaikos**
 
-- ⏳ MS 2 · @1.23
+- ✅ MS 2 · @1.23 · 1-2
 
 **18:30 · N. Madeira – A. de Viseu **
 
@@ -96,38 +96,38 @@
 
 **18:45 · SC Cambuur – PSV**
 
-- ⏳ En çok korner 2 · @1.20
+- ❌ En çok korner 2 · @1.20 · korner 1-1
 
 **18:45 · AZ Alkmaar – Groningen**
 
-- ⏳ Korner 12.5 Alt · @1.21
-- ⏳ En çok korner 1 · @1.21
+- ✅ Korner 12.5 Alt · @1.21 · korner 7-0
+- ✅ En çok korner 1 · @1.21 · korner 7-0
 
 **19:15 · Angers – Nice**
 
-- ⏳ ÇŞ X-2 · @1.20
-- ⏳ Korner 11.5 Alt · @1.26
+- ✅ ÇŞ X-2 · @1.20 · 0-2
+- ✅ Korner 11.5 Alt · @1.26 · korner 6-4
 
 **19:15 · Brest – Lyon**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 2-0
 
 **19:15 · Carrarese Calcio 1908 – Sampdoria**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 11.5 Alt · @1.22
+- ✅ ÇŞ 1-2 · @1.23 · 0-1
+- ✅ Korner 11.5 Alt · @1.22 · korner 6-2
 
 **19:15 · Le Havre – Lorient**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 0-2
 
 **19:30 · Manchester United – Aston Villa**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 4-4
 
 **19:30 · Freiburg – Union Berlin**
 
-- ⏳ Korner 10.5 Alt · @1.27
+- ✅ Korner 10.5 Alt · @1.27 · korner 5-1
 
 **20:00 · Inter – Como 1907**
 
@@ -144,19 +144,19 @@
 
 **20:30 · Villarreal – Getafe**
 
-- ⏳ Korner 11.5 Alt · @1.27
+- ❌ Korner 11.5 Alt · @1.27 · korner 9-4
 
 **20:30 · Union Saint Gilloise – KRC Genk**
 
-- ⏳ Korner 11.5 Alt · @1.23
+- ❌ Korner 11.5 Alt · @1.23 · korner 10-3
 
 **21:00 · Beşiktaş – Gençlerbirliği**
 
-- ⏳ 2.5 Üst · @1.26
+- ✅ 2.5 Üst · @1.26 · 3-0
 
 **21:00 · Vitoria Guimaraes – Porto**
 
-- ⏳ Korner 10.5 Alt · @1.27
+- ✅ Korner 10.5 Alt · @1.27 · korner 4-5
 
 **21:30 · Hoffenheim – Schalke 04**
 

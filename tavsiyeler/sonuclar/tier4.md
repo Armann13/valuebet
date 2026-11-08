@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**148/500 tuttu** (isabet %30, beklenen %29) · -41.41 birim · 84 tahmin sonuç bekliyor
+**150/528 tuttu** (isabet %28, beklenen %29) · -63.66 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,33 +23,33 @@
 
 **15:30 · Heidenheim – Hannover 96**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.53
-- ⏳ ↳ MS 2 & 2.5 Üst · @4.38
+- ❌ ↳ MS 1 & 2.5 Üst · @2.53 · 2-2
+- ❌ ↳ MS 2 & 2.5 Üst · @4.38 · 2-2
 
 **15:30 · Bochum – Karlsruhe**
 
-- ⏳ ↳ MS 1 & KG Var · @2.98
+- ✅ ↳ MS 1 & KG Var · @2.98 · 3-2
 
 **15:30 · Magdeburg – Saint Pauli**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.73
+- ❌ ↳ MS 2 & 2.5 Üst · @3.73 · 4-1
 
 **16:00 · Çorum FK – Fenerbahçe**
 
-- ⏳ ↳ MS 2 & KG Var · @2.97
+- ❌ ↳ MS 2 & KG Var · @2.97 · 0-5
 
 **16:00 · Elche – Real Betis**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.71
-- ⏳ ↳ MS 1 & 2.5 Üst · @4.93
+- ❌ ↳ MS 2 & 2.5 Üst · @2.71 · 0-2
+- ❌ ↳ MS 1 & 2.5 Üst · @4.93 · 0-2
 
 **16:30 · Twente – Ajax**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.45
+- ❌ ↳ MS 2 & 2.5 Üst · @3.45 · 2-2
 
 **17:00 · AC Monza – Atalanta**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.66
+- ❌ ↳ MS 2 & 2.5 Üst · @2.66 · 0-1
 
 **17:00 · Rennes – Lille**
 
@@ -57,11 +57,11 @@
 
 **17:00 · Brighton – Brentford**
 
-- ⏳ ↳ MS 1 & KG Var · @3.10
+- ❌ ↳ MS 1 & KG Var · @3.10 · 2-0
 
 **17:00 · Sunderland – Chelsea**
 
-- ⏳ ↳ MS 2 & KG Var · @3.62
+- ❌ ↳ MS 2 & KG Var · @3.62 · 1-0
 
 **17:00 · Virtus Entella – Modena FC**
 
@@ -77,23 +77,23 @@
 
 **18:00 · Asteras Tripolis – PAE PS Kalamata**
 
-- ⏳ ↳ MS 1 & KG Var · @3.96
+- ❌ ↳ MS 1 & KG Var · @3.96 · 1-1
 
 **18:15 · Girona – Almeria**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.91
+- ❌ ↳ MS 1 & 2.5 Üst · @2.91 · 0-1
 
 **18:15 · Real Sociedad – Vallecano**
 
-- ⏳ ↳ MS 1 & KG Var · @2.87
+- ❌ ↳ MS 1 & KG Var · @2.87 · 1-0
 
 **18:30 · POT Iraklis – Panathinaikos**
 
-- ⏳ ↳ MS 2 & KG Var · @2.77
+- ✅ ↳ MS 2 & KG Var · @2.77 · 1-2
 
 **18:30 · Alanyaspor – Trabzonspor**
 
-- ⏳ ↳ MS 2 & KG Var · @3.06
+- ❌ ↳ MS 2 & KG Var · @3.06 · 0-2
 
 **18:30 · Estoril Praia – Maritimo**
 
@@ -101,7 +101,7 @@
 
 **18:30 · Santa Clara – Gil Vicente**
 
-- ⏳ ↳ İY/MS 1/1 · @3.36
+- ❌ ↳ İY/MS 1/1 · @3.36
 
 **18:30 · N. Madeira – A. de Viseu **
 
@@ -109,32 +109,32 @@
 
 **19:15 · Angers – Nice**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.78
-- ⏳ ↳ MS 2 & KG Var · @3.55
+- ❌ ↳ MS 2 & 2.5 Üst · @2.78 · 0-2
+- ❌ ↳ MS 2 & KG Var · @3.55 · 0-2
 
 **19:15 · Le Mans – Monaco**
 
-- ⏳ ↳ MS 2 & KG Var · @2.90
+- ❌ ↳ MS 2 & KG Var · @2.90 · 1-1
 
 **19:15 · Carrarese Calcio 1908 – Sampdoria**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.74
+- ❌ ↳ MS 1 & 2.5 Üst · @3.74 · 0-1
 
 **19:15 · Brest – Lyon**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.70
+- ❌ ↳ MS 2 & 2.5 Üst · @3.70 · 2-0
 
 **19:15 · Le Havre – Lorient**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.88
+- ❌ ↳ MS 2 & 2.5 Üst · @3.88 · 0-2
 
 **19:30 · Manchester United – Aston Villa**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
+- ❌ ↳ MS 1 & 2.5 Üst · @2.70 · 4-4
 
 **19:30 · Ofi Crete – Atromitos**
 
-- ⏳ ↳ MS 1 & KG Var · @3.74
+- ❌ ↳ MS 1 & KG Var · @3.74 · 0-0
 
 **20:00 · Inter – Como 1907**
 
@@ -146,11 +146,11 @@
 
 **20:30 · Villarreal – Getafe**
 
-- ⏳ ↳ MS 1 & KG Var · @3.17
+- ❌ ↳ MS 1 & KG Var · @3.17 · 2-0
 
 **20:30 · Union Saint Gilloise – KRC Genk**
 
-- ⏳ ↳ MS 1 & KG Var · @2.84
+- ❌ ↳ MS 1 & KG Var · @2.84 · 1-0
 
 **20:30 · S.Gijon – Real Valladolid**
 
@@ -158,7 +158,7 @@
 
 **20:30 · Celta Vigo – Levante**
 
-- ⏳ ↳ MS 1 & KG Var · @3.74
+- ❌ ↳ MS 1 & KG Var · @3.74 · 0-0
 
 **21:15 · St. Truidense – Zulte Waregem**
 
