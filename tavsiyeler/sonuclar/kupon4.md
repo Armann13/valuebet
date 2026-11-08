@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/69 tuttu** (isabet %30, beklenen %37) · -10.98 birim · 7 tahmin sonuç bekliyor
+**21/69 tuttu** (isabet %30, beklenen %37) · -10.98 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11 13:34 gönderilen kupon · 4 maç, oran 51,17
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 08.11 15:30 Bochum – Karlsruhe · En çok korner 2 · @2.54
+- ⏳ 08.11 17:00 Genoa – AC Milan · En çok korner 1 · @2.50
+- ⏳ 08.11 19:15 Le Mans – Monaco · MS 2 & KG Var · @3.40
+- ⏳ 08.11 19:15 Angers – Nice · En çok korner 1 · @2.37
 
 ## 07.11 22:32 gönderilen kupon · 4 maç, oran 34,39
 

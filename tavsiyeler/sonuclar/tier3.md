@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**291/699 tuttu** (isabet %42, beklenen %42) · -55.23 birim · 120 tahmin sonuç bekliyor
+**292/703 tuttu** (isabet %42, beklenen %42) · -57.25 birim · 128 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · CE Sabadell FC – Real Sociedad B**
+
+- ⏳ ↳ İY/MS 1/1 · @2.40
 
 ## 08.11.2026 Pazar
 
@@ -14,16 +20,18 @@
 
 **14:15 · Heerenveen – Feyenoord**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.97
-- ⏳ ↳ Korner 9.5 Alt · @1.98
+- ❌ ↳ MS 2 & 2.5 Üst · @1.97 · 5-3
+- ✅ ↳ Korner 9.5 Alt · @1.98 · korner 4-1
 
 **14:30 · Napoli – Lazio**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.17
+- ❌ ↳ MS 1 & 2.5 Üst · @3.17 · 1-1
+- ❌ ↳ MS 2 · @2.75 · 1-1
 
 **15:30 · Heidenheim – Hannover 96**
 
 - ⏳ ↳ MS 1 · @1.92
+- ⏳ ↳ MS 2 · @3.22
 
 **15:30 · Bochum – Karlsruhe**
 
@@ -32,6 +40,7 @@
 **15:30 · Club Brugge – Anderlecht**
 
 - ⏳ ↳ MS 1 & KG Var · @2.36
+- ⏳ ↳ Korner 9.5 Alt · @2.01
 
 **15:30 · Magdeburg – Saint Pauli**
 
@@ -40,6 +49,7 @@
 **16:00 · Elche – Real Betis**
 
 - ⏳ ↳ MS 2 · @1.89
+- ⏳ ↳ MS 1 · @3.37
 
 **16:00 · Çorum FK – Fenerbahçe**
 
@@ -72,6 +82,7 @@
 
 - ⏳ ↳ MS 2 & KG Var · @2.72
 - ⏳ ↳ Korner 9.5 Alt · @1.83
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.87
 
 **17:00 · Sunderland – Chelsea**
 
@@ -101,10 +112,16 @@
 **18:00 · KAA Gent – Kortrijk**
 
 - ⏳ ↳ Korner 8.5 Alt · @2.51
+- ⏳ ↳ İY/MS 1/1 · @2.00
+
+**18:00 · Asteras Tripolis – PAE PS Kalamata**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.02
 
 **18:15 · Girona – Almeria**
 
 - ⏳ ↳ MS 1 · @1.90
+- ⏳ ↳ Korner 8.5 Alt · @1.96
 
 **18:15 · Real Sociedad – Vallecano**
 
@@ -225,10 +242,13 @@
 **22:45 · Fiorentina – Juventus**
 
 - ⏳ ↳ MS 2 · @1.96
+- ⏳ ↳ Korner 8.5 Alt · @2.10
 
 **22:45 · RC Lens – Marsilya**
 
 - ⏳ ↳ MS 2 · @2.57
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.03
+- ⏳ ↳ Korner 8.5 Alt · @2.10
 
 **23:00 · Atletico Madrid – Barcelona**
 

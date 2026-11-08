@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**569/1069 tuttu** (isabet %53, beklenen %59) · -173.86 birim · 146 tahmin sonuç bekliyor
+**571/1072 tuttu** (isabet %53, beklenen %59) · -173.30 birim · 155 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · CE Sabadell FC – Real Sociedad B**
+
+- ⏳ 🟢 En çok korner 1 · @1.27
 
 ## 08.11.2026 Pazar
 
@@ -14,23 +20,25 @@
 
 **14:15 · Heerenveen – Feyenoord**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.58
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.98
+- ✅ 🟡 Korner 10.5 Alt · @1.58 · korner 4-1
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.98 · korner 4-1
 
 **14:30 · Napoli – Lazio**
 
-- ⏳ 🟢 En çok korner 1 · @1.42
+- ❌ 🟢 En çok korner 1 · @1.42 · korner 6-6
 
 **15:30 · Bochum – Karlsruhe**
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.20
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.63
 - ⏳ 4 En çok korner 2 · @2.54
+- ⏳ 4 En çok korner 2 · @2.54
 
 **15:30 · Club Brugge – Anderlecht**
 
 - ⏳ 🟢 Korner 12.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.66
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.01
 
 **15:30 · Heidenheim – Hannover 96**
 
@@ -66,6 +74,7 @@
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
 - ⏳ 4 En çok korner 1 · @2.51
 - ⏳ 4 En çok korner 1 · @2.51
+- ⏳ 4 En çok korner 1 · @2.50
 
 **17:00 · Sunderland – Chelsea**
 
@@ -116,6 +125,8 @@
 **18:15 · Girona – Almeria**
 
 - ⏳ 🟡 En çok korner 1 · @1.49
+- ⏳ 🟡 Korner 9.5 Alt · @1.56
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.96
 
 **18:30 · Santa Clara – Gil Vicente**
 
@@ -134,6 +145,7 @@
 **18:30 · N. Madeira – A. de Viseu **
 
 - ⏳ 🟡 En çok korner 1 · @1.83
+- ⏳ 2 En çok korner 1 · @1.83
 - ⏳ 2 En çok korner 1 · @1.83
 
 **18:45 · SC Cambuur – PSV**
@@ -155,6 +167,7 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.26
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.48
+- ⏳ 4 En çok korner 1 · @2.37
 
 **19:15 · Le Havre – Lorient**
 
@@ -183,6 +196,7 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.62
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
+- ⏳ 🟡 En çok korner 1 · @1.42
 
 **20:30 · Villarreal – Getafe**
 
@@ -215,6 +229,7 @@
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.50
 - ⏳ 3 En çok korner 1 · @2.83
 - ⏳ 3 En çok korner 1 · @2.83
+- ⏳ 3 En çok korner 1 · @2.82
 
 **21:00 · Beşiktaş – Gençlerbirliği**
 
@@ -243,11 +258,13 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
 
 **22:45 · RC Lens – Marsilya**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
 
 **23:00 · Atletico Madrid – Barcelona**
 

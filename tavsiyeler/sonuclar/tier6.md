@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**76/775 tuttu** (isabet %10, beklenen %11) · -224.42 birim · 95 tahmin sonuç bekliyor
+**76/778 tuttu** (isabet %10, beklenen %11) · -227.42 birim · 97 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,11 +14,12 @@
 
 **14:15 · Heerenveen – Feyenoord**
 
-- ⏳ 1-2 · @7.78
+- ❌ 1-2 · @7.78 · 5-3
 
 **14:30 · Napoli – Lazio**
 
-- ⏳ 2-1 · @8.14
+- ❌ 2-1 · @8.14 · 1-1
+- ❌ 1-2 · @9.53 · 1-1
 
 **15:30 · Bochum – Karlsruhe**
 
@@ -31,6 +32,7 @@
 **15:30 · Heidenheim – Hannover 96**
 
 - ⏳ 2-1 · @8.08
+- ⏳ 1-2 · @10.85
 
 **15:30 · Magdeburg – Saint Pauli**
 
@@ -39,6 +41,7 @@
 **16:00 · Elche – Real Betis**
 
 - ⏳ 1-2 · @7.75
+- ⏳ 2-1 · @10.90
 
 **16:00 · Çorum FK – Fenerbahçe**
 
@@ -188,6 +191,7 @@
 
 - ⏳ 2-1 · @7.51
 - ⏳ 1-0 · @6.43
+- ⏳ 1-1 · @5.87
 
 **21:00 · Vitoria Guimaraes – Porto**
 
@@ -220,6 +224,7 @@
 **22:45 · RC Lens – Marsilya**
 
 - ⏳ 1-2 · @9.31
+- ⏳ 2-1 · @8.11
 
 **23:00 · Atletico Madrid – Barcelona**
 

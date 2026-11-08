@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**15/84 tuttu** (isabet %18, beklenen %16) · -1.60 birim · 4 tahmin sonuç bekliyor
+**15/84 tuttu** (isabet %18, beklenen %16) · -1.60 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · CE Sabadell FC – Real Sociedad B**
+
+- ⏳ 1-0 · @5.42
 
 ## 08.11.2026 Pazar
 

@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**478/846 tuttu** (isabet %57, beklenen %59) · -105.27 birim · 141 tahmin sonuç bekliyor
+**480/850 tuttu** (isabet %56, beklenen %59) · -106.20 birim · 160 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · CE Sabadell FC – Real Sociedad B**
+
+- ⏳ MS 1 · @1.60
 
 ## 08.11.2026 Pazar
 
@@ -15,12 +21,13 @@
 
 **14:15 · Heerenveen – Feyenoord**
 
-- ⏳ MS 2 · @1.57
-- ⏳ Korner 10.5 Alt · @1.58
+- ❌ MS 2 · @1.57 · 5-3
+- ✅ Korner 10.5 Alt · @1.58 · korner 4-1
 
 **14:30 · Napoli – Lazio**
 
-- ⏳ 2.5 Üst · @1.57
+- ❌ 2.5 Üst · @1.57 · 1-1
+- ✅ ÇŞ X-2 · @1.49 · 1-1
 
 **15:30 · Magdeburg – Saint Pauli**
 
@@ -31,6 +38,7 @@
 
 - ⏳ MS 1 · @1.67
 - ⏳ ↳ Korner 10.5 Alt · @1.63
+- ⏳ 2.5 Üst · @1.46
 
 **15:30 · Club Brugge – Anderlecht**
 
@@ -40,14 +48,17 @@
 **15:30 · Heidenheim – Hannover 96**
 
 - ⏳ ↳ Korner 11.5 Alt · @1.49
+- ⏳ ÇŞ X-2 · @1.68
 
 **16:00 · Çorum FK – Fenerbahçe**
 
 - ⏳ MS 2 · @1.60
+- ⏳ KG Var · @1.46
 
 **16:00 · Elche – Real Betis**
 
 - ⏳ En çok korner 1 · @1.92
+- ⏳ ÇŞ 1-X · @1.69
 
 **16:30 · Twente – Ajax**
 
@@ -58,6 +69,7 @@
 
 - ⏳ KG Var · @1.52
 - ⏳ Korner 10.5 Alt · @1.49
+- ⏳ MS 2 · @1.42
 
 **17:00 · Ipswich Town – Bournemouth**
 
@@ -68,6 +80,7 @@
 
 - ⏳ 2.5 Üst · @1.65
 - ⏳ ↳ Korner 10.5 Alt · @1.43
+- ⏳ KG Var · @1.57
 
 **17:00 · Genoa – AC Milan**
 
@@ -96,6 +109,7 @@
 
 - ⏳ MS 2 · @1.70
 - ⏳ Korner 10.5 Alt · @1.59
+- ⏳ 2.5 Üst · @1.41
 
 **18:00 · Hearts – Falkirk**
 
@@ -109,11 +123,13 @@
 **18:00 · Asteras Tripolis – PAE PS Kalamata**
 
 - ⏳ KG Var · @1.64
+- ⏳ 2.5 Üst · @1.76
 
 **18:00 · KAA Gent – Kortrijk**
 
 - ⏳ KG Yok · @1.70
 - ⏳ Korner 9.5 Alt · @1.91
+- ⏳ MS 1 · @1.41
 
 **18:15 · Real Sociedad – Vallecano**
 
@@ -124,6 +140,7 @@
 **18:15 · Girona – Almeria**
 
 - ⏳ En çok korner 1 · @1.49
+- ⏳ Korner 9.5 Alt · @1.56
 
 **18:30 · Alanyaspor – Trabzonspor**
 
@@ -142,6 +159,10 @@
 
 - ⏳ En çok korner 1 · @1.83
 
+**18:30 · POT Iraklis – Panathinaikos**
+
+- ⏳ KG Var · @1.97
+
 **18:45 · AZ Alkmaar – Groningen**
 
 - ⏳ KG Var · @1.40
@@ -159,6 +180,7 @@
 
 - ⏳ MS 2 · @1.55
 - ⏳ Korner 8.5 Üst · @1.69
+- ⏳ 2.5 Üst · @1.71
 
 **19:15 · Carrarese Calcio 1908 – Sampdoria**
 
@@ -167,6 +189,7 @@
 **19:15 · Angers – Nice**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.48
+- ⏳ 2.5 Üst · @1.59
 
 **19:15 · Le Havre – Lorient**
 
@@ -193,6 +216,7 @@
 
 - ⏳ MS 1 · @1.74
 - ⏳ Korner 9.5 Alt · @1.62
+- ⏳ En çok korner 1 · @1.42
 
 **20:30 · Union Saint Gilloise – KRC Genk**
 
@@ -209,6 +233,7 @@
 - ⏳ KG Var · @1.67
 - ⏳ Korner 8.5 Alt · @1.66
 - ⏳ MS 1 · @1.72
+- ⏳ 2.5 Alt · @1.79
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -237,11 +262,13 @@
 
 - ⏳ MS 1 · @1.47
 - ⏳ KG Var · @1.45
+- ⏳ 2.5 Üst · @1.41
 
 **21:30 · LR Vicenza Virtus – Cremonese**
 
 - ⏳ 2.5 Alt · @1.68
 - ⏳ En çok korner 1 · @1.61
+- ⏳ KG Var · @1.62
 
 **22:00 · Olympiacos – PAOK**
 
@@ -256,6 +283,7 @@
 
 - ⏳ ÇŞ X-2 · @1.47
 - ⏳ ↳ Korner 9.5 Alt · @1.68
+- ⏳ 2.5 Üst · @1.51
 
 **22:45 · Fiorentina – Juventus**
 
@@ -264,15 +292,18 @@
 **23:00 · Atletico Madrid – Barcelona**
 
 - ⏳ Korner 10.5 Alt · @1.56
+- ⏳ ↳ MS 2 · @1.83
 
 **23:30 · Rio Ave – Braga**
 
 - ⏳ MS 2 · @1.41
+- ⏳ KG Var · @1.77
 
 **23:30 · CF Estrela – Benfica**
 
 - ⏳ MS 2 & 2.5 Üst · @1.49
 - ⏳ Korner 9.5 Üst · @1.66
+- ⏳ KG Var · @1.66
 
 ## 07.11.2026 Cumartesi
 

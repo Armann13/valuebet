@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 5 tahmin sonuç bekliyor
+**13/49 tuttu** (isabet %27, beklenen %40) · -14.74 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11 13:34 gönderilen kupon · 3 maç, oran 25,53
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 08.11 16:30 Twente – Ajax · MS 2 · @3.10
+- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · MS 2 & KG Var · @2.92
+- ⏳ 08.11 21:00 Vitoria Guimaraes – Porto · En çok korner 1 · @2.82
 
 ## 07.11 22:32 gönderilen kupon · 3 maç, oran 16,58
 

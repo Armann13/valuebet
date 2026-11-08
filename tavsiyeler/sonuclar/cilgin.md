@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/95 tuttu** (isabet %14, beklenen %13) · +133.91 birim · 33 tahmin sonuç bekliyor
+**13/95 tuttu** (isabet %14, beklenen %13) · +133.91 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 08.11 13:34 gönderilen kupon · 6 maç, oran 2.405.711,61
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 08.11 16:30 Twente – Ajax · MS 2 · @3.10
+- ⏳ 08.11 18:00 AEK Athens – APO Levadeiakos FC · İY/MS 2/1 · @27.00
+- ⏳ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36
+- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @24.60
+- ⏳ 08.11 19:15 Le Mans – Monaco · İY/MS 1/2 · @24.15
+- ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @20.50
 
 ## 07.11 22:32 gönderilen kupon · 5 maç, oran 609.976,42
 

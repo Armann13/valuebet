@@ -2,15 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**409/569 tuttu** (isabet %72, beklenen %74) · -63.92 birim · 92 tahmin sonuç bekliyor
+**409/570 tuttu** (isabet %72, beklenen %74) · -64.92 birim · 95 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · CE Sabadell FC – Real Sociedad B**
+
+- ⏳ En çok korner 1 · @1.27
 
 ## 08.11.2026 Pazar
 
 **14:30 · Napoli – Lazio**
 
-- ⏳ En çok korner 1 · @1.42
+- ❌ En çok korner 1 · @1.42 · korner 6-6
 
 **15:30 · Club Brugge – Anderlecht**
 
@@ -67,6 +73,7 @@
 **18:15 · Girona – Almeria**
 
 - ⏳ ÇŞ 1-X · @1.20
+- ⏳ ÇŞ 1-2 · @1.20
 
 **18:30 · Santa Clara – Gil Vicente**
 
@@ -77,6 +84,7 @@
 
 - ⏳ ÇŞ 1-2 · @1.21
 - ⏳ Korner 10.5 Alt · @1.27
+- ⏳ ÇŞ 1-X · @1.21
 
 **18:30 · POT Iraklis – Panathinaikos**
 
@@ -166,6 +174,7 @@
 **23:00 · Atletico Madrid – Barcelona**
 
 - ⏳ 2.5 Üst · @1.20
+- ⏳ ÇŞ X-2 · @1.24
 
 **23:30 · Rio Ave – Braga**
 
