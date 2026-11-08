@@ -6401,3 +6401,12 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 20:56,2026-11-08,08.11,D1,Hoffenheim,Schalke 04,Hoffenheim – Schalke 04,D1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.326088865174939,2.6,-0.15216895054515855,piyasa,True,,,2026-11-08 21:30,,,,,,kadro
 2026-11-08 20:56,2026-11-08,08.11,D1,Hoffenheim,Schalke 04,Hoffenheim – Schalke 04,D1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7565953295025639,1.27,-0.03912393153174376,korner,False,,,2026-11-08 21:30,,,,,,kadro
 2026-11-08 20:56,2026-11-08,08.11,D1,Hoffenheim,Schalke 04,Hoffenheim – Schalke 04,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1098375190049079,7.26,-0.2025796120243687,piyasa,,,,2026-11-08 21:30,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.6343134970540153,1.42,-0.0992748341832983,piyasa,False,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,G1,Olympiakos,PAOK,Olympiacos – PAOK,G1,🟡 Tier 2 — Orta risk,KG Var,0.5235143808446796,1.7,-0.11002555256404467,piyasa,False,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,🔴 Tier 3 — Yüksek risk,MS 1,0.39345021481031406,2.42,-0.04785048015904003,piyasa,True,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,G1,Olympiakos,PAOK,Olympiacos – PAOK,G1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.2863369428391657,3.17,-0.09231189119984473,piyasa,True,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2876172956751642,3.23,-0.07099613496921964,piyasa,True,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5041937132533039,1.91,-0.03699000768618965,korner,False,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.39733376735248127,2.51,-0.0026922439452721214,korner,True,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,G1,Olympiakos,PAOK,Olympiacos – PAOK,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.13260496919324655,6.36,-0.1566323959309519,piyasa,,,,2026-11-08 22:00,,,,,,kadro
+2026-11-08 21:18,2026-11-08,08.11,N1,Utrecht,Nijmegen,Utrecht – NEC Nijmegen,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.0848645134330423,9.04,-0.2328247985652977,piyasa,,,,2026-11-08 22:00,,,,,,kadro
