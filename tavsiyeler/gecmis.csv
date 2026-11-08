@@ -6433,3 +6433,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Üst,0.5375493046089652,1.58,-0.15067209871783493,korner,False,,,2026-11-08 23:30,,,,,,kadro
 2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,🔴 Tier 3 — Yüksek risk,Korner 10.5 Üst,0.4390387382408533,1.97,-0.13509368566551894,korner,True,,,2026-11-08 23:30,,,,,,kadro
 2026-11-08 22:38,2026-11-08,08.11,P1,Estrela,Benfica,CF Estrela – Benfica,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1034754550140197,8.42,-0.12873666878195422,piyasa,,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:50,2026-11-08,08.11,P1,Rio Ave,Sp Braga,Rio Ave – Braga,P1,🟡 Tier 2 — Orta risk,KG Var,0.5078275368147467,1.66,-0.15700628888752055,piyasa,False,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:50,2026-11-08,08.11,P1,Rio Ave,Sp Braga,Rio Ave – Braga,P1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.2845702590688857,2.9,-0.17474624870023148,piyasa,True,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:50,2026-11-08,08.11,P1,Rio Ave,Sp Braga,Rio Ave – Braga,P1,🟢 Tier 1 — Düşük risk,En çok korner 2,0.7209016614778121,1.24,-0.10608193976751301,korner,False,,,2026-11-08 23:30,,,,,,kadro
+2026-11-08 22:50,2026-11-08,08.11,P1,Rio Ave,Sp Braga,Rio Ave – Braga,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.10925297475807566,7.19,-0.21447111148943598,piyasa,,,,2026-11-08 23:30,,,,,,kadro
