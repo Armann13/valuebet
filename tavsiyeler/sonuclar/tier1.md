@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**440/610 tuttu** (isabet %72, beklenen %74) · -66.78 birim · 56 tahmin sonuç bekliyor
+**441/611 tuttu** (isabet %72, beklenen %74) · -66.54 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -182,7 +182,7 @@
 
 **23:30 · Rio Ave – Braga**
 
-- ⏳ En çok korner 2 · @1.24
+- ✅ En çok korner 2 · @1.24 · korner 0-8
 
 ## 07.11.2026 Cumartesi
 

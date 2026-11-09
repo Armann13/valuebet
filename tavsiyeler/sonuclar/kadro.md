@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1513 | 1493 | 758 | -132.84 |
-| sonra | 1274 | 1259 | 622 | -142.77 |
+| önce | 1513 | 1503 | 765 | -130.87 |
+| sonra | 1274 | 1266 | 627 | -141.08 |
 
-Değişen tahmin: 322 (315 sonuçlandı: eski 235, yeni 179 tuttu).
+Değişen tahmin: 322 (318 sonuçlandı: eski 237, yeni 180 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,17 +17,17 @@ Değişen tahmin: 322 (315 sonuçlandı: eski 235, yeni 179 tuttu).
 
 Kadro mesajı: 08.11 22:50
 
-- 🟢 Tier 1: ⏳ En çok korner 2 @1.24 → ⏳ En çok korner 2 @1.24 (aynı)
-- 🟡 Tier 2: ⏳ MS 2 @1.41, ⏳ KG Var @1.77 → ⏳ KG Var @1.66 (değişti)
-- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.18 → ⏳ MS 2 & KG Var @2.90 (değişti)
-- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.22 → — (kalktı)
+- 🟢 Tier 1: ✅ En çok korner 2 @1.24 → ✅ En çok korner 2 @1.24 (aynı)
+- 🟡 Tier 2: ✅ MS 2 @1.41, ❌ KG Var @1.77 → ❌ KG Var @1.66 (değişti)
+- 🔴 Tier 3: ❌ MS 2 & 2.5 Üst @2.18 → ❌ MS 2 & KG Var @2.90 (değişti)
+- 🟣 Tier 4: ❌ MS 2 & KG Var @3.22 → — (kalktı)
 
 ## 08.11 · CF Estrela – Benfica
 
 Kadro mesajı: 08.11 22:38
 
-- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.49, ⏳ Korner 9.5 Üst @1.66, ⏳ KG Var @1.66 → ⏳ KG Var @1.67, ⏳ Korner 9.5 Üst @1.58 (değişti)
-- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.41, ⏳ Korner 10.5 Üst @2.10 → ⏳ MS 2 & KG Var @2.23, ⏳ Korner 10.5 Üst @1.97 (aynı)
+- 🟡 Tier 2: ✅ MS 2 & 2.5 Üst @1.49, ✅ Korner 9.5 Üst @1.66, ✅ KG Var @1.66 → ✅ KG Var @1.67, ✅ Korner 9.5 Üst @1.58 (değişti)
+- 🔴 Tier 3: ✅ MS 2 & KG Var @2.41, ✅ Korner 10.5 Üst @2.10 → ✅ MS 2 & KG Var @2.23, ✅ Korner 10.5 Üst @1.97 (aynı)
 
 ## 08.11 · Fiorentina – Juventus
 

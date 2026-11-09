@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**540/940 tuttu** (isabet %57, beklenen %59) · -100.79 birim · 70 tahmin sonuç bekliyor
+**544/945 tuttu** (isabet %58, beklenen %59) · -99.57 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -296,14 +296,14 @@
 
 **23:30 · Rio Ave – Braga**
 
-- ⏳ MS 2 · @1.41
-- ⏳ KG Var · @1.77
+- ✅ MS 2 · @1.41 · 0-1
+- ❌ KG Var · @1.77 · 0-1
 
 **23:30 · CF Estrela – Benfica**
 
-- ⏳ MS 2 & 2.5 Üst · @1.49
-- ⏳ Korner 9.5 Üst · @1.66
-- ⏳ KG Var · @1.66
+- ✅ MS 2 & 2.5 Üst · @1.49 · 2-3
+- ✅ Korner 9.5 Üst · @1.66 · korner 1-10
+- ✅ KG Var · @1.66 · 2-3
 
 ## 07.11.2026 Cumartesi
 

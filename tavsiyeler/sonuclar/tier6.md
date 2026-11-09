@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/826 tuttu** (isabet %10, beklenen %11) · -235.39 birim · 49 tahmin sonuç bekliyor
+**81/828 tuttu** (isabet %10, beklenen %11) · -237.39 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -232,11 +232,11 @@
 
 **23:30 · Rio Ave – Braga**
 
-- ⏳ 1-2 · @7.22
+- ❌ 1-2 · @7.22 · 0-1
 
 **23:30 · CF Estrela – Benfica**
 
-- ⏳ 1-2 · @7.92
+- ❌ 1-2 · @7.92 · 2-3
 
 ## 07.11.2026 Cumartesi
 

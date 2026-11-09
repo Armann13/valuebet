@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**155/537 tuttu** (isabet %29, beklenen %29) · -57.81 birim · 47 tahmin sonuç bekliyor
+**155/538 tuttu** (isabet %29, beklenen %29) · -58.81 birim · 46 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -195,7 +195,7 @@
 
 **23:30 · Rio Ave – Braga**
 
-- ⏳ ↳ MS 2 & KG Var · @3.22
+- ❌ ↳ MS 2 & KG Var · @3.22 · 0-1
 
 ## 07.11.2026 Cumartesi
 
