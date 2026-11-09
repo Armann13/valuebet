@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/78 tuttu** (isabet %35, beklenen %37) · -5.65 birim · 2 tahmin sonuç bekliyor
+**28/79 tuttu** (isabet %35, beklenen %37) · -4.22 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,10 +35,10 @@
 
 ## 06.11 10:00 gönderilen kupon · 4 maç, oran 35,08
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 07.11 18:00 Blackburn Rovers – West Ham · En çok korner 1 · @2.66 · korner 4-9
-- ⏳ 07.11 19:00 Galatasaray – Amed Sportif Faaliyetler · MS 1 & KG Var · @2.43
+- ✅ 07.11 19:00 Galatasaray – Amed Sportif Faaliyetler · MS 1 & KG Var · @2.43 · 4-3
 - ❌ 07.11 22:30 Hertha Berlin – Wolfsburg · En çok korner 2 · @2.28 · korner 10-3
 - ❌ 07.11 23:00 Valencia – Real Madrid · MS 2 & KG Var · @2.38 · 0-3
 

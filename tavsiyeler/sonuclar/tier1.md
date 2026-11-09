@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**441/611 tuttu** (isabet %72, beklenen %74) · -66.54 birim · 55 tahmin sonuç bekliyor
+**448/623 tuttu** (isabet %72, beklenen %74) · -69.79 birim · 44 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,7 @@
 **22:30 · Las Palmas – Club Deportivo Eldense**
 
 - ⏳ ÇŞ 1-X · @1.20
+- ⏳ Korner 11.5 Alt · @1.22
 
 ## 08.11.2026 Pazar
 
@@ -58,8 +59,8 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ ÇŞ 1-X · @1.24
-- ⏳ Korner 11.5 Alt · @1.24
+- ❌ ÇŞ 1-X · @1.24 · 1-2
+- ✅ Korner 11.5 Alt · @1.24 · korner 7-2
 
 **17:00 · Genoa – AC Milan**
 
@@ -135,7 +136,7 @@
 
 **20:00 · Inter – Como 1907**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -144,7 +145,7 @@
 
 **20:30 · S.Gijon – Real Valladolid**
 
-- ⏳ ÇŞ 1-2 · @1.24
+- ✅ ÇŞ 1-2 · @1.24 · 1-2
 
 **20:30 · Villarreal – Getafe**
 
@@ -230,7 +231,7 @@
 
 **16:00 · CF Burgos – Celta Vigo B**
 
-- ⏳ Korner 10.5 Alt · @1.22
+- ❌ Korner 10.5 Alt · @1.22 · korner 10-1
 
 **17:00 · AC Cesena – US Catanzaro 1929**
 
@@ -293,11 +294,11 @@
 
 **18:00 · Ross County – Peterhead**
 
-- ⏳ MS 1 & 2.5 Üst · @1.33
+- ✅ MS 1 & 2.5 Üst · @1.33 · 4-1
 
 **18:00 · Clyde Bank – Spartans Edinburgh FC**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 3-2
 
 **18:00 · Queens Park Rangers – Lincoln City**
 
@@ -321,7 +322,7 @@
 
 **18:00 · Forfar – Edinburgh**
 
-- ⏳ ÇŞ X-2 · @1.24
+- ✅ ÇŞ X-2 · @1.24 · 1-1
 
 **18:15 · Espanyol – Deportivo La Coruna**
 
@@ -348,8 +349,8 @@
 
 **19:00 · Galatasaray – Amed Sportif Faaliyetler**
 
-- ⏳ MS 1 · @1.30
-- ⏳ En çok korner 1 · @1.20
+- ✅ MS 1 · @1.30 · 4-3
+- ❌ En çok korner 1 · @1.20 · korner 3-6
 
 **19:15 · Mantova 1911 – Hellas Verona**
 
@@ -445,8 +446,8 @@
 
 **23:30 · Sporting Lizbon – Moreirense**
 
-- ⏳ 2.5 Üst · @1.30
-- ⏳ Korner 11.5 Alt · @1.21
+- ❌ 2.5 Üst · @1.30 · 1-0
+- ❌ Korner 11.5 Alt · @1.21 · korner 8-4
 
 ## 06.11.2026 Cuma
 

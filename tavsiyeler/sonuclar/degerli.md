@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/93 tuttu** (isabet %40, beklenen %43) · -6.67 birim · 5 tahmin sonuç bekliyor
+**37/98 tuttu** (isabet %38, beklenen %42) · -11.67 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -26,11 +26,11 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ MS 1 & 2.5 Üst · @3.47
+- ❌ MS 1 & 2.5 Üst · @3.47 · 1-2
 
 **18:00 · Hearts – Falkirk**
 
-- ⏳ MS 1 & 2.5 Üst · @2.36
+- ❌ MS 1 & 2.5 Üst · @2.36 · 2-5
 
 **18:30 · POT Iraklis – Panathinaikos**
 
@@ -47,7 +47,7 @@
 
 **18:00 · Forfar – Edinburgh**
 
-- ⏳ MS 2 & KG Var · @4.46
+- ❌ MS 2 & KG Var · @4.46 · 1-1
 
 **20:30 · Stuttgart – Werder Bremen**
 
@@ -59,8 +59,8 @@
 
 **23:30 · Sporting Lizbon – Moreirense**
 
-- ⏳ KG Var · @2.24
-- ⏳ MS 1 & KG Var · @2.79
+- ❌ KG Var · @2.24 · 1-0
+- ❌ MS 1 & KG Var · @2.79 · 1-0
 
 ## 02.11.2026 Pazartesi
 

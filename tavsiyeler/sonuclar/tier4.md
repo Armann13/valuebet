@@ -2,15 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**155/538 tuttu** (isabet %29, beklenen %29) · -58.81 birim · 46 tahmin sonuç bekliyor
+**164/559 tuttu** (isabet %29, beklenen %29) · -50.00 birim · 26 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ ↳ MS 1 & KG Var · @3.61
 
 ## 08.11.2026 Pazar
 
 **13:30 · Rizespor – Erzurumspor FK**
 
-- ⏳ ↳ MS 1 & KG Var · @3.65
+- ✅ ↳ MS 1 & KG Var · @3.65 · 2-1
 
 **14:15 · Heerenveen – Feyenoord**
 
@@ -53,7 +59,7 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.96
+- ❌ ↳ MS 1 & 2.5 Üst · @2.96 · 1-2
 
 **17:00 · Brighton – Brentford**
 
@@ -65,15 +71,15 @@
 
 **17:00 · Virtus Entella – Modena FC**
 
-- ⏳ ↳ İY/MS 2/2 · @3.67
+- ✅ ↳ İY/MS 2/2 · @3.67 · İY 0-2, MS 0-2
 
 **17:30 · Köln – B. Leverkusen**
 
-- ⏳ ↳ MS 2 & KG Var · @2.72
+- ✅ ↳ MS 2 & KG Var · @2.72 · 1-2
 
 **18:00 · Hearts – Falkirk**
 
-- ⏳ ↳ MS 1 & KG Var · @2.73
+- ❌ ↳ MS 1 & KG Var · @2.73 · 2-5
 
 **18:00 · Asteras Tripolis – PAE PS Kalamata**
 
@@ -101,7 +107,7 @@
 
 **18:30 · Santa Clara – Gil Vicente**
 
-- ❌ ↳ İY/MS 1/1 · @3.36
+- ❌ ↳ İY/MS 1/1 · @3.36 · İY 1-0, MS 1-2
 
 **18:30 · N. Madeira – A. de Viseu **
 
@@ -138,7 +144,7 @@
 
 **20:00 · Inter – Como 1907**
 
-- ⏳ ↳ MS 1 & KG Var · @2.90
+- ❌ ↳ MS 1 & KG Var · @2.90 · 2-0
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -154,7 +160,7 @@
 
 **20:30 · S.Gijon – Real Valladolid**
 
-- ⏳ ↳ İY/MS 1/1 · @3.52
+- ❌ ↳ İY/MS 1/1 · @3.52 · İY 0-2, MS 1-2
 
 **20:30 · Celta Vigo – Levante**
 
@@ -217,7 +223,7 @@
 
 **15:30 · Portsmouth – Stoke City**
 
-- ❌ ↳ İY/MS 1/1 · @3.42
+- ❌ ↳ İY/MS 1/1 · @3.42 · İY 1-0, MS 1-2
 
 **15:30 · Bristol City – Norwich City**
 
@@ -229,7 +235,7 @@
 
 **16:00 · CF Burgos – Celta Vigo B**
 
-- ⏳ ↳ MS 1 & KG Var · @3.35
+- ✅ ↳ MS 1 & KG Var · @3.35 · 2-1
 
 **16:00 · Clermont – Rodez AF**
 
@@ -271,7 +277,7 @@
 
 **18:00 · Queen of The South – East Kilbri**
 
-- ⏳ ↳ MS 2 & KG Var · @2.61
+- ✅ ↳ MS 2 & KG Var · @2.61 · 1-2
 
 **18:00 · Dundee Utd – Motherwell**
 
@@ -279,7 +285,7 @@
 
 **18:00 · Clyde Bank – Spartans Edinburgh FC**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.60
+- ✅ ↳ MS 1 & 2.5 Üst · @2.60 · 3-2
 
 **18:00 · Preston – Southampton**
 
@@ -299,11 +305,11 @@
 
 **18:00 · Elgin City – Dumbarton**
 
-- ⏳ ↳ MS 1 & KG Var · @2.86
+- ❌ ↳ MS 1 & KG Var · @2.86 · 0-2
 
 **18:00 · Stranraer – Stirling Alb**
 
-- ⏳ ↳ MS 1 & KG Var · @2.82
+- ❌ ↳ MS 1 & KG Var · @2.82 · 3-0
 
 **18:00 · Queens Park Rangers – Lincoln City**
 
@@ -315,7 +321,7 @@
 
 **18:00 · Cove Rangers – Hamilton**
 
-- ⏳ ↳ MS 2 & KG Var · @3.11
+- ❌ ↳ MS 2 & KG Var · @3.11 · 4-0
 
 **18:00 · Cardiff City – Burnley**
 
@@ -324,7 +330,7 @@
 
 **18:00 · Forfar – Edinburgh**
 
-- ⏳ ↳ MS 2 & KG Var · @3.44
+- ❌ ↳ MS 2 & KG Var · @3.44 · 1-1
 
 **18:00 · St Johnstone – Dundee**
 
@@ -341,16 +347,16 @@
 
 **18:00 · Alloa – Airdrieonian**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.61
-- ⏳ ↳ MS 2 & KG Var · @3.95
+- ❌ ↳ MS 1 & 2.5 Üst · @3.61 · 2-3
+- ✅ ↳ MS 2 & KG Var · @3.95 · 2-3
 
 **18:00 · Annan Athletic – Kelty Hearts**
 
-- ⏳ ↳ MS 1 & KG Var · @3.88
+- ❌ ↳ MS 1 & KG Var · @3.88 · 1-2
 
 **18:00 · Montrose – East Fife**
 
-- ⏳ ↳ MS 1 & KG Var · @3.65
+- ❌ ↳ MS 1 & KG Var · @3.65 · 1-2
 
 **18:00 · Volos – AE Kifisia FC**
 
@@ -358,12 +364,12 @@
 
 **18:15 · Espanyol – Deportivo La Coruna**
 
-- ❌ ↳ İY/MS 1/1 · @3.42
+- ❌ ↳ İY/MS 1/1 · @3.42 · İY 0-0, MS 0-0
 - ❌ ↳ MS 1 & 2.5 Üst · @3.84 · 0-0
 
 **18:15 · Cadiz – Real Oviedo**
 
-- ⏳ ↳ İY/MS 2/2 · @3.83
+- ✅ ↳ İY/MS 2/2 · @3.83 · İY 0-2, MS 1-2
 
 **18:30 · Fortuna Sittard – Telstar**
 
@@ -399,7 +405,7 @@
 
 **20:30 · Osasuna – Athletic Bilbao**
 
-- ❌ ↳ İY/MS 2/2 · @3.00
+- ❌ ↳ İY/MS 2/2 · @3.00 · İY 0-0, MS 1-1
 
 **20:45 · Aberdeen – Hibernian**
 
@@ -419,7 +425,7 @@
 
 **22:00 · Pau – Nantes**
 
-- ⏳ ↳ İY/MS 2/2 · @3.43
+- ✅ ↳ İY/MS 2/2 · @3.43 · İY 0-1, MS 0-2
 - ❌ ↳ MS 2 & 2.5 Üst · @3.92 · 0-2
 
 **22:30 · Hertha Berlin – Wolfsburg**
@@ -485,7 +491,7 @@
 
 **22:30 · Raith Rovers – Dunfermline**
 
-- ❌ ↳ İY/MS 2/2 · @3.89
+- ❌ ↳ İY/MS 2/2 · @3.89 · İY 0-0, MS 0-0
 
 **22:45 · Toulouse – Strasbourg**
 
@@ -509,7 +515,7 @@
 
 **23:45 · Famalicao – FC Arouca**
 
-- ⏳ ↳ İY/MS 1/1 · @3.12
+- ❌ ↳ İY/MS 1/1 · @3.12 · İY 0-0, MS 1-0
 
 ## 05.11.2026 Perşembe
 
@@ -738,7 +744,7 @@
 
 **16:00 · Tenerife – FC Andorra**
 
-- ❌ ↳ İY/MS 1/1 · @3.33
+- ❌ ↳ İY/MS 1/1 · @3.33 · İY 2-0, MS 2-2
 
 **20:00 · Gençlerbirliği – Alanyaspor**
 
@@ -935,7 +941,7 @@
 
 **23:00 · Tenerife – FC Andorra**
 
-- ❌ ↳ İY/MS 1/1 · @3.14
+- ❌ ↳ İY/MS 1/1 · @3.14 · İY 2-0, MS 2-2
 
 ## 31.10.2026 Cumartesi
 

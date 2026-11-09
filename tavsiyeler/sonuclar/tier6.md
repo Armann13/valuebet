@@ -2,15 +2,21 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**81/828 tuttu** (isabet %10, beklenen %11) · -237.39 birim · 47 tahmin sonuç bekliyor
+**84/838 tuttu** (isabet %10, beklenen %11) · -224.65 birim · 38 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 09.11.2026 Pazartesi
+
+**22:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ 2-1 · @7.69
 
 ## 08.11.2026 Pazar
 
 **13:30 · Rizespor – Erzurumspor FK**
 
-- ⏳ 2-1 · @7.55
+- ✅ 2-1 · @7.55 · 2-1
 
 **14:15 · Heerenveen – Feyenoord**
 
@@ -65,7 +71,7 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ 2-1 · @7.94
+- ❌ 2-1 · @7.94 · 1-2
 
 **17:00 · Brighton – Brentford**
 
@@ -85,7 +91,7 @@
 
 **17:30 · Köln – B. Leverkusen**
 
-- ⏳ 1-2 · @7.88
+- ✅ 1-2 · @7.88 · 1-2
 
 **18:00 · KAA Gent – Kortrijk**
 
@@ -93,7 +99,7 @@
 
 **18:00 · Hearts – Falkirk**
 
-- ⏳ 2-1 · @7.25
+- ❌ 2-1 · @7.25 · 2-5
 
 **18:00 · AEK Athens – APO Levadeiakos FC**
 
@@ -169,7 +175,7 @@
 
 **20:00 · Inter – Como 1907**
 
-- ⏳ 2-1 · @7.69
+- ❌ 2-1 · @7.69 · 2-0
 
 **20:30 · Villarreal – Getafe**
 
@@ -181,7 +187,7 @@
 
 **20:30 · S.Gijon – Real Valladolid**
 
-- ⏳ 1-0 · @6.44
+- ❌ 1-0 · @6.44 · 1-2
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
@@ -274,7 +280,7 @@
 
 **16:00 · CF Burgos – Celta Vigo B**
 
-- ⏳ 2-1 · @7.31
+- ✅ 2-1 · @7.31 · 2-1
 
 **16:00 · Clermont – Rodez AF**
 
@@ -417,7 +423,7 @@
 
 **19:00 · Galatasaray – Amed Sportif Faaliyetler**
 
-- ⏳ 2-1 · @7.42
+- ❌ 2-1 · @7.42 · 4-3
 
 **19:00 · Göztepe – Başakşehir**
 
@@ -520,8 +526,8 @@
 
 **23:30 · Sporting Lizbon – Moreirense**
 
-- ⏳ 2-1 · @8.69
-- ⏳ 2-0 · @5.57
+- ❌ 2-1 · @8.69 · 1-0
+- ❌ 2-0 · @5.57 · 1-0
 
 ## 06.11.2026 Cuma
 

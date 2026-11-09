@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1513 | 1503 | 765 | -130.87 |
-| sonra | 1274 | 1266 | 627 | -141.08 |
+| önce | 1513 | 1508 | 767 | -128.61 |
+| sonra | 1274 | 1270 | 629 | -138.11 |
 
-Değişen tahmin: 322 (318 sonuçlandı: eski 237, yeni 180 tuttu).
+Değişen tahmin: 322 (319 sonuçlandı: eski 238, yeni 180 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -347,7 +347,7 @@ Kadro mesajı: 07.11 21:25
 
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23 → ✅ ÇŞ 1-2 @1.24 (aynı)
 - 🔴 Tier 3: ✅ MS 2 @2.15 → ✅ MS 2 @2.14 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @3.43, ❌ MS 2 & 2.5 Üst @3.92 → ❌ MS 2 & 2.5 Üst @3.88 (değişti)
+- 🟣 Tier 4: ✅ İY/MS 2/2 @3.43, ❌ MS 2 & 2.5 Üst @3.92 → ❌ MS 2 & 2.5 Üst @3.88 (değişti)
 
 ## 07.11 · St Etienne – Stade Laval
 
@@ -467,7 +467,7 @@ Kadro mesajı: 07.11 19:26
 
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20, ❌ Korner 10.5 Alt @1.21 → ❌ Korner 10.5 Alt @1.22 (değişti)
 - 🟡 Tier 2: ✅ MS 2 @1.69, ❌ Korner 9.5 Alt @1.41, ❌ 2.5 Alt @1.64 → ❌ 2.5 Alt @1.53, ❌ Korner 9.5 Alt @1.41 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.59 → — (kalktı)
+- 🔴 Tier 3: ❌ İY/MS 2/2 @2.59 → — (kalktı)
 
 ## 07.11 · Mantova 1911 – Hellas Verona
 
@@ -494,7 +494,7 @@ Kadro mesajı: 07.11 17:53
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.24, ❌ Korner 11.5 Alt @1.22 → ✅ ÇŞ 1-2 @1.22, ❌ Korner 11.5 Alt @1.22 (aynı)
 - 🟡 Tier 2: ❌ Korner 10.5 Alt @1.41 → ❌ Korner 10.5 Alt @1.41 (aynı)
 - 🔴 Tier 3: ✅ MS 2 @2.34 → ✅ MS 2 @2.11 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @3.83 → ⏳ İY/MS 2/2 @3.39 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 2/2 @3.83 → ✅ İY/MS 2/2 @3.39 (aynı)
 
 ## 07.11 · Espanyol – Deportivo La Coruna
 
@@ -521,7 +521,7 @@ Kadro mesajı: 06.11 23:06
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.22, ✅ Korner 7.5 Üst @1.22 → ✅ ÇŞ 1-2 @1.24, ✅ Korner 7.5 Üst @1.22 (aynı)
 - 🟡 Tier 2: ✅ Korner 8.5 Üst @1.44 → ✅ Korner 8.5 Üst @1.44 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @1.98 → ✅ MS 1 @2.27 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.12 → ⏳ İY/MS 1/1 @3.72 (aynı)
+- 🟣 Tier 4: ❌ İY/MS 1/1 @3.12 → ❌ İY/MS 1/1 @3.72 (aynı)
 
 ## 06.11 · Derby County – Bolton
 
@@ -608,7 +608,7 @@ Kadro mesajı: 06.11 21:41
 Kadro mesajı: 06.11 21:27
 
 - 🟡 Tier 2: ✅ MS 1 @1.58 → ✅ MS 1 @1.42 (aynı)
-- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.34 → ⏳ İY/MS 1/1 @2.05 (aynı)
+- 🔴 Tier 3: ❌ İY/MS 1/1 @2.34 → ❌ İY/MS 1/1 @2.05 (aynı)
 
 ## 06.11 · Dijon – Red Star FC
 
@@ -649,7 +649,7 @@ Kadro mesajı: 06.11 21:12
 - 🟢 Tier 1: — → ✅ ÇŞ 1-X @1.24 (yeni)
 - 🟡 Tier 2: ❌ 2.5 Alt @1.48 → — (kalktı)
 - 🔴 Tier 3: — → ✅ MS 1 @2.20 (yeni)
-- 🟣 Tier 4: — → ⏳ İY/MS 1/1 @3.58 (yeni)
+- 🟣 Tier 4: — → ✅ İY/MS 1/1 @3.58 (yeni)
 
 ## 06.11 · Willem II – Zwolle
 

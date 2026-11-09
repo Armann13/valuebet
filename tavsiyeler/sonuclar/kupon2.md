@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/31 tuttu** (isabet %32, beklenen %52) · -11.20 birim · 3 tahmin sonuç bekliyor
+**10/32 tuttu** (isabet %31, beklenen %52) · -12.20 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36
+- ❌ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36 · 2-5
 - ⏳ 08.11 18:30 N. Madeira – A. de Viseu  · En çok korner 1 · @1.83
 
 ## 07.11 22:32 gönderilen kupon · 2 maç, oran 3,88

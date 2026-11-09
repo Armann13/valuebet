@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**13/99 tuttu** (isabet %13, beklenen %14) · +129.91 birim · 39 tahmin sonuç bekliyor
+**17/116 tuttu** (isabet %15, beklenen %13) · +209.31 birim · 22 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,58 +10,58 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 08.11 23:30 CF Estrela – Benfica · İY/MS 1/2 · @20.55
-- ⏳ 08.11 23:30 Rio Ave – Braga · İY/MS 1/2 · @22.00
+- ❌ 08.11 23:30 CF Estrela – Benfica · İY/MS 1/2 · @20.55 · İY 0-1, MS 2-3
+- ❌ 08.11 23:30 Rio Ave – Braga · İY/MS 1/2 · @22.00 · İY 0-0, MS 0-1
 - ⏳ 09.11 22:30 CE Sabadell FC – Real Sociedad B · İY/MS 2/1 · @27.00
 - ⏳ 09.11 22:30 Las Palmas – Club Deportivo Eldense · İY/MS 1/2 · @34.00
 
 ## 08.11 13:34 gönderilen kupon · 6 maç, oran 2.405.711,61
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/6 maç tuttu
 
 - ❌ 08.11 16:30 Twente – Ajax · MS 2 · @3.10 · 2-2
-- ⏳ 08.11 18:00 AEK Athens – APO Levadeiakos FC · İY/MS 2/1 · @27.00
-- ⏳ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36
-- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @24.60
-- ❌ 08.11 19:15 Le Mans – Monaco · İY/MS 1/2 · @24.15
-- ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @20.50
+- ✅ 08.11 18:00 AEK Athens – APO Levadeiakos FC · İY/MS 2/1 · @27.00 · İY 0-1, MS 2-1
+- ❌ 08.11 18:00 Hearts – Falkirk · MS 1 & 2.5 Üst · @2.36 · 2-5
+- ✅ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @24.60 · İY 1-0, MS 1-2
+- ❌ 08.11 19:15 Le Mans – Monaco · İY/MS 1/2 · @24.15 · İY 0-1, MS 1-1
+- ❌ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @20.50 · İY 2-0, MS 3-0
 
 ## 07.11 22:32 gönderilen kupon · 5 maç, oran 609.976,42
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/5 maç tuttu
 
-- ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.15
-- ⏳ 07.11 23:30 Sporting Lizbon – Moreirense · İY/MS 2/1 · @27.00
+- ❌ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.15 · İY 0-2, MS 0-3
+- ❌ 07.11 23:30 Sporting Lizbon – Moreirense · İY/MS 2/1 · @27.00 · İY 0-0, MS 1-0
 - ❌ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26 · 4-1
-- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40
-- ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10
+- ✅ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40 · İY 1-0, MS 1-2
+- ❌ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10 · İY 2-0, MS 3-0
 
 ## 07.11 09:11 gönderilen kupon · 5 maç, oran 496.916,35
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/5 maç tuttu
 
-- ⏳ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10
-- ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.05
+- ❌ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10 · İY 0-0, MS 0-1
+- ❌ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @21.05 · İY 0-2, MS 0-3
 - ❌ 08.11 15:30 Magdeburg – Saint Pauli · KG Yok · @2.26 · 4-1
-- ⏳ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40
-- ⏳ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10
+- ✅ 08.11 18:30 POT Iraklis – Panathinaikos · İY/MS 1/2 · @22.40 · İY 1-0, MS 1-2
+- ❌ 08.11 21:00 Beşiktaş – Gençlerbirliği · İY/MS 2/1 · @21.10 · İY 2-0, MS 3-0
 
 ## 06.11 10:00 gönderilen kupon · 4 maç, oran 148.879,96
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ⏳ 07.11 17:30 Mainz – Bayern Münih · İY/MS 1/2 · @16.35
-- ⏳ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10
-- ❌ 07.11 18:00 Watford – Middlesbrough · İY/MS 1/2 · @20.05
-- ⏳ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @20.55
+- ❌ 07.11 17:30 Mainz – Bayern Münih · İY/MS 1/2 · @16.35 · İY 0-1, MS 1-2
+- ❌ 07.11 18:00 Queen's Park – P. Thistle · İY/MS 1/2 · @22.10 · İY 0-0, MS 0-1
+- ❌ 07.11 18:00 Watford – Middlesbrough · İY/MS 1/2 · @20.05 · İY 0-0, MS 0-0
+- ❌ 07.11 23:00 Valencia – Real Madrid · İY/MS 1/2 · @20.55 · İY 0-2, MS 0-3
 
 ## 05.11 18:03 gönderilen kupon · 4 maç, oran 230.054,16
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 05.11 20:45 Midtjylland – Ajax · İY/MS 1/2 · @21.45
-- ❌ 06.11 20:30 Braunschweig – E. Cottbus · İY/MS 2/1 · @20.85
-- ❌ 06.11 22:30 Ascoli – US Palermo · İY/MS 1/2 · @24.15
+- ❌ 06.11 20:30 Braunschweig – E. Cottbus · İY/MS 2/1 · @20.85 · İY 0-0, MS 0-0
+- ❌ 06.11 22:30 Ascoli – US Palermo · İY/MS 1/2 · @24.15 · İY 1-0, MS 1-1
 - ⏳ 06.11 22:30 Castellon – Eibar · İY/MS 2/1 · @21.30
 
 ## 05.11 09:57 gönderilen kupon · 4 maç, oran 266.343,44

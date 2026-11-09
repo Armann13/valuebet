@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**633/1164 tuttu** (isabet %54, beklenen %59) · -162.04 birim · 63 tahmin sonuç bekliyor
+**641/1179 tuttu** (isabet %54, beklenen %59) · -164.14 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,11 +12,16 @@
 
 - ⏳ 🟢 En çok korner 1 · @1.27
 
+**22:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+
 ## 08.11.2026 Pazar
 
 **13:30 · Rizespor – Erzurumspor FK**
 
-- ⏳ 🟡 En çok korner 1 · @1.54
+- ✅ 🟡 En çok korner 1 · @1.54 · korner 8-2
 
 **14:15 · Heerenveen – Feyenoord**
 
@@ -65,8 +70,8 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ✅ 🟢 Korner 11.5 Alt · @1.24 · korner 7-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 7-2
 
 **17:00 · Genoa – AC Milan**
 
@@ -108,8 +113,8 @@
 
 **17:30 · Köln – B. Leverkusen**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.59
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.99
+- ✅ 🟡 Korner 10.5 Alt · @1.59 · korner 2-6
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.99 · korner 2-6
 
 **18:00 · KAA Gent – Kortrijk**
 
@@ -194,9 +199,9 @@
 
 **20:00 · Inter – Como 1907**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.62
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
-- ⏳ 🟡 En çok korner 1 · @1.42
+- ✅ 🟡 Korner 9.5 Alt · @1.62 · korner 4-2
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.06 · korner 4-2
+- ✅ 🟡 En çok korner 1 · @1.42 · korner 4-2
 
 **20:30 · Villarreal – Getafe**
 
@@ -220,8 +225,8 @@
 
 **20:30 · S.Gijon – Real Valladolid**
 
-- ⏳ 🟡 En çok korner 2 · @2.10
-- ⏳ 3 En çok korner 2 · @2.10
+- ❌ 🟡 En çok korner 2 · @2.10 · korner 9-6
+- ❌ 3 En çok korner 2 · @2.10 · korner 9-6
 
 **21:00 · Vitoria Guimaraes – Porto**
 
@@ -325,8 +330,8 @@
 
 **16:00 · CF Burgos – Celta Vigo B**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+- ❌ 🟢 Korner 10.5 Alt · @1.22 · korner 10-1
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.42 · korner 10-1
 
 **16:00 · Samsunspor – Konyaspor**
 
@@ -466,7 +471,7 @@
 
 **19:00 · Galatasaray – Amed Sportif Faaliyetler**
 
-- ⏳ 🟢 En çok korner 1 · @1.20
+- ❌ 🟢 En çok korner 1 · @1.20 · korner 3-6
 
 **19:00 · Göztepe – Başakşehir**
 
@@ -568,8 +573,8 @@
 
 **23:30 · Sporting Lizbon – Moreirense**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ❌ 🟢 Korner 11.5 Alt · @1.21 · korner 8-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 8-4
 
 ## 06.11.2026 Cuma
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**544/945 tuttu** (isabet %58, beklenen %59) · -99.57 birim · 65 tahmin sonuç bekliyor
+**562/973 tuttu** (isabet %58, beklenen %59) · -99.48 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,12 +12,17 @@
 
 - ⏳ MS 1 · @1.60
 
+**22:30 · Las Palmas – Club Deportivo Eldense**
+
+- ⏳ 2.5 Üst · @1.60
+- ⏳ ↳ Korner 10.5 Alt · @1.41
+
 ## 08.11.2026 Pazar
 
 **13:30 · Rizespor – Erzurumspor FK**
 
-- ⏳ 2.5 Üst · @1.69
-- ⏳ En çok korner 1 · @1.54
+- ✅ 2.5 Üst · @1.69 · 2-1
+- ✅ En çok korner 1 · @1.54 · korner 8-2
 
 **14:15 · Heerenveen – Feyenoord**
 
@@ -95,7 +100,7 @@
 
 **17:00 · Rennes – Lille**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.44
+- ✅ ↳ Korner 10.5 Alt · @1.44 · korner 7-2
 
 **17:00 · Virtus Entella – Modena FC**
 
@@ -107,14 +112,14 @@
 
 **17:30 · Köln – B. Leverkusen**
 
-- ⏳ MS 2 · @1.70
-- ⏳ Korner 10.5 Alt · @1.59
-- ⏳ 2.5 Üst · @1.41
+- ✅ MS 2 · @1.70 · 1-2
+- ✅ Korner 10.5 Alt · @1.59 · korner 2-6
+- ✅ 2.5 Üst · @1.41 · 1-2
 
 **18:00 · Hearts – Falkirk**
 
-- ⏳ MS 1 · @1.47
-- ⏳ 2.5 Üst · @1.43
+- ❌ MS 1 · @1.47 · 2-5
+- ✅ 2.5 Üst · @1.43 · 2-5
 
 **18:00 · AEK Athens – APO Levadeiakos FC**
 
@@ -214,9 +219,9 @@
 
 **20:00 · Inter – Como 1907**
 
-- ⏳ MS 1 · @1.74
-- ⏳ Korner 9.5 Alt · @1.62
-- ⏳ En çok korner 1 · @1.42
+- ✅ MS 1 · @1.74 · 2-0
+- ✅ Korner 9.5 Alt · @1.62 · korner 4-2
+- ✅ En çok korner 1 · @1.42 · korner 4-2
 
 **20:30 · Union Saint Gilloise – KRC Genk**
 
@@ -241,7 +246,7 @@
 
 **20:30 · S.Gijon – Real Valladolid**
 
-- ⏳ En çok korner 2 · @2.10
+- ❌ En çok korner 2 · @2.10 · korner 9-6
 
 **21:00 · Beşiktaş – Gençlerbirliği**
 
@@ -346,8 +351,8 @@
 
 **16:00 · CF Burgos – Celta Vigo B**
 
-- ⏳ MS 1 · @1.51
-- ⏳ ↳ Korner 9.5 Alt · @1.42
+- ✅ MS 1 · @1.51 · 2-1
+- ❌ ↳ Korner 9.5 Alt · @1.42 · korner 10-1
 
 **16:00 · Malaga CF – Santander**
 
@@ -452,23 +457,23 @@
 
 **18:00 · Queen of The South – East Kilbri**
 
-- ⏳ MS 2 · @1.55
+- ✅ MS 2 · @1.55 · 1-2
 
 **18:00 · Elgin City – Dumbarton**
 
-- ⏳ MS 1 · @1.56
+- ❌ MS 1 · @1.56 · 0-2
 
 **18:00 · Cove Rangers – Hamilton**
 
-- ⏳ MS 2 · @1.56
+- ❌ MS 2 · @1.56 · 4-0
 
 **18:00 · Annan Athletic – Kelty Hearts**
 
-- ⏳ 2.5 Üst · @1.49
+- ✅ 2.5 Üst · @1.49 · 1-2
 
 **18:00 · Stranraer – Stirling Alb**
 
-- ⏳ MS 1 · @1.58
+- ✅ MS 1 · @1.58 · 3-0
 
 **18:00 · Arbroath – Ayr United**
 
@@ -476,7 +481,7 @@
 
 **18:00 · Forfar – Edinburgh**
 
-- ⏳ 2.5 Üst · @1.52
+- ❌ 2.5 Üst · @1.52 · 1-1
 
 **18:00 · Birmingham – Swansea City**
 
@@ -502,12 +507,12 @@
 
 **18:00 · Montrose – East Fife**
 
-- ⏳ 2.5 Alt · @1.66
-- ⏳ MS 1 · @1.73
+- ❌ 2.5 Alt · @1.66 · 1-2
+- ❌ MS 1 · @1.73 · 1-2
 
 **18:00 · Alloa – Airdrieonian**
 
-- ⏳ 2.5 Üst · @1.66
+- ✅ 2.5 Üst · @1.66 · 2-3
 
 **18:00 · West Bromwich – Millwall**
 
@@ -539,8 +544,8 @@
 
 **19:00 · Galatasaray – Amed Sportif Faaliyetler**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.70
-- ⏳ KG Var · @1.49
+- ✅ ↳ MS 1 & 2.5 Üst · @1.70 · 4-3
+- ✅ KG Var · @1.49 · 4-3
 
 **19:00 · Göztepe – Başakşehir**
 
@@ -653,9 +658,9 @@
 
 **23:30 · Sporting Lizbon – Moreirense**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.40
-- ⏳ ↳ Korner 10.5 Alt · @1.40
-- ⏳ KG Yok · @1.53
+- ❌ ↳ MS 1 & 2.5 Üst · @1.40 · 1-0
+- ❌ ↳ Korner 10.5 Alt · @1.40 · korner 8-4
+- ✅ KG Yok · @1.53 · 1-0
 
 ## 06.11.2026 Cuma
 
