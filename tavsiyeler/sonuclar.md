@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 10.11.2026 15:00. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 10.11.2026 15:16. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -9,7 +9,7 @@ Son güncelleme: 10.11.2026 15:00. Telegram mesajına giren tahminler (ilk gönd
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
 | [🟢 Tier 1](sonuclar/tier1.md) | 667 | 628 | 453 | %72 | %74 | -68.67 | %-11 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 1012 | 977 | 564 | %58 | %59 | -100.66 | %-10 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 1013 | 977 | 564 | %58 | %59 | -100.66 | %-10 |
 | [🔴 Tier 3](sonuclar/tier3.md) | 832 | 799 | 337 | %42 | %41 | -52.42 | %-7 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 585 | 561 | 164 | %29 | %29 | -52.00 | %-9 |
 | [⚡ Tier 5](sonuclar/tier5.md) | 89 | 88 | 16 | %18 | %16 | +0.88 | %1 |
@@ -261,3 +261,4 @@ Değişen tahmin: 326 (323 sonuçlandı: eski 240, yeni 183 tuttu).
 | 07.11.2026 | 492 | 487 | 181 | %37 | %43 | -115.15 |
 | 08.11.2026 | 410 | 396 | 185 | %47 | %42 | +68.72 |
 | 09.11.2026 | 11 | 11 | 3 | %27 | %41 | -7.10 |
+| 11.11.2026 | 1 | 0 | 0 | — | — | — |

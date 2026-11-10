@@ -1,6 +1,6 @@
 # Tavsiyeler — 10.11.2026
 
-İddaa oranlarının son kaydı: 10.11 17:59 (TR saati)
+İddaa oranlarının son kaydı: 10.11 18:15 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -101,8 +101,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ San Marino – Belarus (UEFA Uluslar Ligi, 12.11 22:45): **MS 2 & KG Var** — olasılık %24, adil oran 4.12, İddaa 3.47 (değer -16%) _(sadece model)_
 • ↳ Gürcistan – Macaristan (UEFA Uluslar Ligi, 14.11 20:00): **İY/MS 2/2** — olasılık %23, adil oran 4.38, İddaa 3.54 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Kuzey İrlanda – Ukrayna (UEFA Uluslar Ligi, 14.11 22:45): **İY/MS 1/1** — olasılık %23, adil oran 4.44, İddaa 3.60 (değer -19%) _(İddaa oranına ayarlı)_
+• ↳ Barbados – Guadeloupe (CONCACAF Uluslar B Ligi, 12.11 22:00): **MS 1 & KG Var** — olasılık %21, adil oran 4.71, İddaa 4.13 (değer -12%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Benin – Orta Afrika Cumhuriyeti (Afrika Uluslar Kup., 12.11 22:00): **MS 1 & KG Var** — olasılık %20, adil oran 5.08, İddaa 4.05 (değer -20%), MBS 3 _(İddaa oranına ayarlı)_
-• ↳ Barbados – Guadeloupe (CONCACAF Uluslar B Ligi, 12.11 22:00): **MS 2 & KG Var** — olasılık %19, adil oran 5.20, İddaa 3.94 (değer -24%), MBS 3 _(İddaa oranına ayarlı)_
 • Cayman Adaları – Guyana (CONCACAF Uluslar B Ligi, 12.11 22:00): **2.5 Alt** — olasılık %19, adil oran 5.30, İddaa 3.05 (değer -42%), MBS 3 _(sadece model)_
 
 ## ⚡ Tier 5 — Aşırı risk (kısa kesin skor)

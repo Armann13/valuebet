@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**564/977 tuttu** (isabet %58, beklenen %59) · -100.66 birim · 35 tahmin sonuç bekliyor
+**564/977 tuttu** (isabet %58, beklenen %59) · -100.66 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.11.2026 Çarşamba
+
+**15:00 · Vietnam – Tayvan**
+
+- ⏳ KG Yok · @1.66
 
 ## 09.11.2026 Pazartesi
 
