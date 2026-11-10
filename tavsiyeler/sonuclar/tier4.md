@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/559 tuttu** (isabet %29, beklenen %29) · -50.00 birim · 26 tahmin sonuç bekliyor
+**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **22:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ ↳ MS 1 & KG Var · @3.61
+- ❌ ↳ MS 1 & KG Var · @3.61 · 2-0
 
 ## 08.11.2026 Pazar
 
@@ -148,7 +148,7 @@
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.06
+- ❌ ↳ MS 1 & 2.5 Üst · @3.06 · 2-0
 
 **20:30 · Villarreal – Getafe**
 

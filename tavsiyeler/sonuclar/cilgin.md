@@ -2,18 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/116 tuttu** (isabet %15, beklenen %13) · +209.31 birim · 22 tahmin sonuç bekliyor
+**17/118 tuttu** (isabet %14, beklenen %13) · +207.31 birim · 20 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 08.11 23:01 gönderilen kupon · 4 maç, oran 415.027,80
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
 - ❌ 08.11 23:30 CF Estrela – Benfica · İY/MS 1/2 · @20.55 · İY 0-1, MS 2-3
 - ❌ 08.11 23:30 Rio Ave – Braga · İY/MS 1/2 · @22.00 · İY 0-0, MS 0-1
-- ⏳ 09.11 22:30 CE Sabadell FC – Real Sociedad B · İY/MS 2/1 · @27.00
-- ⏳ 09.11 22:30 Las Palmas – Club Deportivo Eldense · İY/MS 1/2 · @34.00
+- ❌ 09.11 22:30 CE Sabadell FC – Real Sociedad B · İY/MS 2/1 · @27.00
+- ❌ 09.11 22:30 Las Palmas – Club Deportivo Eldense · İY/MS 1/2 · @34.00
 
 ## 08.11 13:34 gönderilen kupon · 6 maç, oran 2.405.711,61
 

@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1521 | 1508 | 767 | -128.61 |
-| sonra | 1282 | 1270 | 629 | -138.11 |
+| önce | 1521 | 1516 | 770 | -132.71 |
+| sonra | 1282 | 1278 | 634 | -139.11 |
 
-Değişen tahmin: 326 (319 sonuçlandı: eski 238, yeni 180 tuttu).
+Değişen tahmin: 326 (323 sonuçlandı: eski 240, yeni 183 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,18 +17,18 @@ Değişen tahmin: 326 (319 sonuçlandı: eski 238, yeni 180 tuttu).
 
 Kadro mesajı: 09.11 21:40
 
-- 🟢 Tier 1: ⏳ En çok korner 1 @1.27 → ⏳ En çok korner 1 @1.27 (aynı)
-- 🟡 Tier 2: ⏳ MS 1 @1.60 → ⏳ MS 1 @1.66 (aynı)
-- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.40 → ⏳ İY/MS 1/1 @2.48 (aynı)
+- 🟢 Tier 1: ✅ En çok korner 1 @1.27 → ✅ En çok korner 1 @1.27 (aynı)
+- 🟡 Tier 2: ❌ MS 1 @1.60 → ❌ MS 1 @1.66 (aynı)
+- 🔴 Tier 3: ❌ İY/MS 1/1 @2.40 → ❌ İY/MS 1/1 @2.48 (aynı)
 
 ## 09.11 · Las Palmas – Club Deportivo Eldense
 
 Kadro mesajı: 09.11 21:40
 
-- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.22 → ⏳ ÇŞ 1-X @1.20, ⏳ Korner 11.5 Alt @1.22 (değişti)
-- 🟡 Tier 2: ⏳ 2.5 Üst @1.60, ⏳ Korner 10.5 Alt @1.41 → ⏳ Korner 10.5 Alt @1.41 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.80 → ⏳ MS 1 @1.90 (değişti)
-- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.61 → ⏳ MS 1 & 2.5 Üst @2.85 (değişti)
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.22 → ✅ ÇŞ 1-X @1.20, ✅ Korner 11.5 Alt @1.22 (değişti)
+- 🟡 Tier 2: ❌ 2.5 Üst @1.60, ✅ Korner 10.5 Alt @1.41 → ✅ Korner 10.5 Alt @1.41 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.80 → ✅ MS 1 @1.90 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.61 → ❌ MS 1 & 2.5 Üst @2.85 (değişti)
 
 ## 08.11 · Rio Ave – Braga
 

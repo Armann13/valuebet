@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**84/838 tuttu** (isabet %10, beklenen %11) · -224.65 birim · 38 tahmin sonuç bekliyor
+**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **22:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ 2-1 · @7.69
+- ❌ 2-1 · @7.69 · 2-0
 
 ## 08.11.2026 Pazar
 
@@ -191,7 +191,7 @@
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ 2-1 · @7.95
+- ❌ 2-1 · @7.95 · 2-0
 
 **20:30 · Celta Vigo – Levante**
 

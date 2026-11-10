@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**641/1179 tuttu** (isabet %54, beklenen %59) · -164.14 birim · 50 tahmin sonuç bekliyor
+**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 45 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,12 +10,12 @@
 
 **22:30 · CE Sabadell FC – Real Sociedad B**
 
-- ⏳ 🟢 En çok korner 1 · @1.27
+- ✅ 🟢 En çok korner 1 · @1.27 · korner 5-3
 
 **22:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 
 ## 08.11.2026 Pazar
 
@@ -210,8 +210,8 @@
 
 **20:30 · Las Palmas – Club Deportivo Eldense**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 5-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 5-2
 
 **20:30 · Union Saint Gilloise – KRC Genk**
 
