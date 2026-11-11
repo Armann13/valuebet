@@ -10,7 +10,7 @@
 
 **22:30 · CE Sabadell FC – Real Sociedad B**
 
-- ❌ ↳ İY/MS 1/1 · @2.40
+- ❌ ↳ İY/MS 1/1 · @2.40 · İY 0-0, MS 0-0
 
 **22:30 · Las Palmas – Club Deportivo Eldense**
 

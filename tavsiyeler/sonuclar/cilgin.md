@@ -12,8 +12,8 @@
 
 - ❌ 08.11 23:30 CF Estrela – Benfica · İY/MS 1/2 · @20.55 · İY 0-1, MS 2-3
 - ❌ 08.11 23:30 Rio Ave – Braga · İY/MS 1/2 · @22.00 · İY 0-0, MS 0-1
-- ❌ 09.11 22:30 CE Sabadell FC – Real Sociedad B · İY/MS 2/1 · @27.00
-- ❌ 09.11 22:30 Las Palmas – Club Deportivo Eldense · İY/MS 1/2 · @34.00
+- ❌ 09.11 22:30 CE Sabadell FC – Real Sociedad B · İY/MS 2/1 · @27.00 · İY 0-0, MS 0-0
+- ❌ 09.11 22:30 Las Palmas – Club Deportivo Eldense · İY/MS 1/2 · @34.00 · İY 0-0, MS 2-0
 
 ## 08.11 13:34 gönderilen kupon · 6 maç, oran 2.405.711,61
 
