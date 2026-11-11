@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 53 tahmin sonuç bekliyor
+**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -13,6 +13,11 @@
 - ⏳ 🟢 Korner 7.5 Üst · @1.22
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.44
 
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.28
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.54
+
 **22:45 · İtalya – Fransa**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
@@ -22,6 +27,8 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
+- ⏳ 🟢 Korner 7.5 Üst · @1.21
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
 
 **22:45 · İngiltere – Hırvatistan**
 

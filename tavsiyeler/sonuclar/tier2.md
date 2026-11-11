@@ -2,15 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**565/978 tuttu** (isabet %58, beklenen %59) · -100.00 birim · 53 tahmin sonuç bekliyor
+**565/978 tuttu** (isabet %58, beklenen %59) · -100.00 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**02:00 · Antigua & Barbuda – Trinidad ve Tobago**
+
+- ⏳ KG Yok · @1.58
 
 ## 12.11.2026 Perşembe
 
 **09:00 · Yeni Zelanda – Hindistan**
 
 - ⏳ KG Yok · @1.60
+
+**18:00 · Özbekistan – Rusya**
+
+- ⏳ 2.5 Alt · @1.46
 
 **19:00 · Gine – Eritre**
 
@@ -24,6 +34,10 @@
 
 - ⏳ MS 2 · @1.68
 - ⏳ ↳ Korner 8.5 Üst · @1.44
+
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.54
 
 **22:00 · Benin – Orta Afrika Cumhuriyeti**
 
@@ -41,6 +55,7 @@
 
 - ⏳ MS 2 & 2.5 Üst · @1.46
 - ⏳ ↳ Korner 9.5 Alt · @1.66
+- ⏳ ↳ Korner 8.5 Üst · @1.43
 
 **22:45 · İngiltere – Hırvatistan**
 

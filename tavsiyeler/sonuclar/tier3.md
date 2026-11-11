@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 48 tahmin sonuç bekliyor
+**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**01:00 · Aruba – Martinik**
+
+- ⏳ ↳ MS 2 & KG Var · @2.55
 
 ## 12.11.2026 Perşembe
 
@@ -23,6 +29,10 @@
 **19:00 · Gine – Eritre**
 
 - ⏳ ↳ MS 1 & KG Var · @2.91
+
+**19:00 · Ekvator Ginesi – Zimbabve**
+
+- ⏳ ↳ MS 1 · @2.18
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 

@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/32 tuttu** (isabet %31, beklenen %52) · -12.20 birim · 4 tahmin sonuç bekliyor
+**10/32 tuttu** (isabet %31, beklenen %52) · -12.20 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.11 20:15 gönderilen kupon · 2 maç, oran 5,50
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 12.11 20:00 Türkiye – Belçika · MS 2 & 2.5 Üst · @2.20
+- ⏳ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.50
 
 ## 11.11 09:39 gönderilen kupon · 2 maç, oran 5,63
 

@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 48 tahmin sonuç bekliyor
+**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 52 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**01:00 · Aruba – Martinik**
+
+- ⏳ MS 2 · @1.27
 
 ## 12.11.2026 Perşembe
 
@@ -16,9 +22,14 @@
 
 - ⏳ ÇŞ 1-2 · @1.20
 
+**19:00 · Ekvator Ginesi – Zimbabve**
+
+- ⏳ ÇŞ 1-X · @1.21
+
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
 - ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 7.5 Üst · @1.28
 
 **20:00 · Türkiye – Belçika**
 
@@ -39,6 +50,7 @@
 **22:45 · Çekya – İspanya**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ Korner 7.5 Üst · @1.21
 
 **22:45 · İngiltere – Hırvatistan**
 
