@@ -2,15 +2,77 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**564/977 tuttu** (isabet %58, beklenen %59) · -100.66 birim · 36 tahmin sonuç bekliyor
+**565/978 tuttu** (isabet %58, beklenen %59) · -100.00 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**09:00 · Yeni Zelanda – Hindistan**
+
+- ⏳ KG Yok · @1.60
+
+**19:00 · Gine – Eritre**
+
+- ⏳ 2.5 Üst · @1.41
+
+**19:00 · Ekvator Ginesi – Zimbabve**
+
+- ⏳ KG Yok · @1.43
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ MS 2 · @1.68
+- ⏳ ↳ Korner 8.5 Üst · @1.44
+
+**22:00 · Benin – Orta Afrika Cumhuriyeti**
+
+- ⏳ MS 1 · @1.44
+
+**22:00 · Barbados – Guadeloupe**
+
+- ⏳ 2.5 Üst · @1.50
+
+**22:00 · Fildişi Sahili – Gambiya**
+
+- ⏳ MS 1 & 2.5 Üst · @1.63
+
+**22:45 · Çekya – İspanya**
+
+- ⏳ MS 2 & 2.5 Üst · @1.46
+- ⏳ ↳ Korner 9.5 Alt · @1.66
+
+**22:45 · İngiltere – Hırvatistan**
+
+- ⏳ MS 1 & 2.5 Üst · @1.52
+- ⏳ ↳ Korner 10.5 Alt · @1.40
+
+**22:45 · San Marino – Belarus**
+
+- ⏳ 2.5 Üst · @1.49
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ MS 2 · @1.61
+- ⏳ ↳ Korner 9.5 Alt · @1.66
+
+**22:45 · Karadağ – Letonya**
+
+- ⏳ 2.5 Üst · @1.66
+
+**22:45 · Arnavutluk – Finlandiya**
+
+- ⏳ ↳ MS 1 · @1.76
+
+**23:00 · Bonaire – Küba**
+
+- ⏳ KG Var · @2.00
 
 ## 11.11.2026 Çarşamba
 
 **15:00 · Vietnam – Tayvan**
 
-- ⏳ KG Yok · @1.66
+- ✅ KG Yok · @1.66 · 2-0
 
 ## 09.11.2026 Pazartesi
 

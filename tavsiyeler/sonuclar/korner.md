@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 45 tahmin sonuç bekliyor
+**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.22
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.44
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
+
+**22:45 · Çekya – İspanya**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
+
+**22:45 · İngiltere – Hırvatistan**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
 
 ## 09.11.2026 Pazartesi
 

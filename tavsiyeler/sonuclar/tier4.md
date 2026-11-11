@@ -2,9 +2,43 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 24 tahmin sonuç bekliyor
+**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ ↳ MS 2 & KG Var · @2.90
+
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ ↳ İY/MS 1/1 · @3.35
+
+**22:00 · Senegal – Sudan**
+
+- ⏳ ↳ MS 1 & KG Var · @2.75
+
+**22:00 · Barbados – Guadeloupe**
+
+- ⏳ ↳ MS 2 & KG Var · @3.67
+
+**22:00 · Benin – Orta Afrika Cumhuriyeti**
+
+- ⏳ ↳ MS 1 & KG Var · @4.05
+
+**22:45 · Karadağ – Letonya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.29
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ ↳ MS 2 & KG Var · @3.01
+
+**22:45 · San Marino – Belarus**
+
+- ⏳ ↳ MS 2 & KG Var · @3.53
 
 ## 09.11.2026 Pazartesi
 

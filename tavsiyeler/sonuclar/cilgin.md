@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/118 tuttu** (isabet %14, beklenen %13) · +207.31 birim · 20 tahmin sonuç bekliyor
+**17/118 tuttu** (isabet %14, beklenen %13) · +207.31 birim · 24 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 11.11 09:39 gönderilen kupon · 4 maç, oran 273.712,00
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 12.11 22:45 İngiltere – Hırvatistan · İY/MS 2/1 · @21.85
+- ⏳ 12.11 22:45 Karadağ – Letonya · İY/MS 2/1 · @26.00
+- ⏳ 12.11 22:45 Çekya – İspanya · İY/MS 1/2 · @21.95
+- ⏳ 12.11 22:45 İtalya – Fransa · İY/MS 1/2 · @21.95
 
 ## 08.11 23:01 gönderilen kupon · 4 maç, oran 415.027,80
 

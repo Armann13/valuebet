@@ -2,9 +2,71 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 33 tahmin sonuç bekliyor
+**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**18:00 · Özbekistan – Rusya**
+
+- ⏳ MS 2 · @1.92
+
+**18:00 · Gana – Somali**
+
+- ⏳ ↳ MS 1 & KG Var · @3.20
+
+**19:00 · Madagaskar – Gine Bissau**
+
+- ⏳ ↳ MS 2 · @2.07
+
+**19:00 · Gine – Eritre**
+
+- ⏳ ↳ MS 1 & KG Var · @2.91
+
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ ↳ MS 1 · @2.09
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+
+**22:00 · Senegal – Sudan**
+
+- ⏳ KG Var · @2.26
+
+**22:00 · Fildişi Sahili – Gambiya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.05
+
+**22:00 · Benin – Orta Afrika Cumhuriyeti**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.65
+
+**22:45 · Karadağ – Letonya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.85
+
+**22:45 · İngiltere – Hırvatistan**
+
+- ⏳ ↳ MS 1 & KG Var · @2.51
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+
+**22:45 · Çekya – İspanya**
+
+- ⏳ ↳ MS 2 & KG Var · @2.49
+
+**22:45 · Arnavutluk – Finlandiya**
+
+- ⏳ ↳ İY/MS 1/1 · @2.75
+
+**23:00 · Bonaire – Küba**
+
+- ⏳ ↳ MS 2 & KG Var · @2.38
 
 ## 09.11.2026 Pazartesi
 

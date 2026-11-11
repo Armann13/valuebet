@@ -2,9 +2,47 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 39 tahmin sonuç bekliyor
+**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**18:00 · Gana – Somali**
+
+- ⏳ 2.5 Üst · @1.29
+
+**19:00 · Madagaskar – Gine Bissau**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ Korner 7.5 Üst · @1.22
+
+**22:00 · Kamerun – Namibya**
+
+- ⏳ KG Yok · @1.21
+
+**22:45 · Arnavutluk – Finlandiya**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:45 · Çekya – İspanya**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:45 · İngiltere – Hırvatistan**
+
+- ⏳ Korner 11.5 Alt · @1.21
 
 ## 09.11.2026 Pazartesi
 

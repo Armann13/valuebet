@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 36 tahmin sonuç bekliyor
+**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11.2026 Perşembe
+
+**20:00 · Ermenistan – Kıbrıs Rum Kesimi**
+
+- ⏳ 1-0 · @6.53
+
+**20:00 · Türkiye – Belçika**
+
+- ⏳ 1-2 · @7.57
+
+**22:45 · Karadağ – Letonya**
+
+- ⏳ 2-1 · @7.88
+
+**22:45 · İngiltere – Hırvatistan**
+
+- ⏳ 2-1 · @7.88
+
+**22:45 · İtalya – Fransa**
+
+- ⏳ 1-2 · @7.40
+
+**22:45 · Çekya – İspanya**
+
+- ⏳ 1-2 · @8.13
+
+**22:45 · San Marino – Belarus**
+
+- ⏳ 1-2 · @10.05
 
 ## 09.11.2026 Pazartesi
 
