@@ -2,15 +2,111 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**566/979 tuttu** (isabet %58, beklenen %59) · -99.40 birim · 56 tahmin sonuç bekliyor
+**566/979 tuttu** (isabet %58, beklenen %59) · -99.40 birim · 87 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11.2026 Cumartesi
+
+**02:00 · Arjantin – Uruguay**
+
+- ⏳ KG Yok · @1.50
 
 ## 13.11.2026 Cuma
 
 **02:00 · Antigua & Barbuda – Trinidad ve Tobago**
 
 - ⏳ KG Yok · @1.58
+
+**16:00 · Mozambik – Etiyopya**
+
+- ⏳ MS 1 · @1.41
+
+**16:00 · Zambiya – Burundi**
+
+- ⏳ MS 1 · @1.51
+
+**16:00 · Komorlar – Kongo**
+
+- ⏳ MS 1 · @1.67
+
+**17:30 · Suudi Arabistan – Güney Kore**
+
+- ⏳ MS 2 · @1.66
+
+**17:45 · Katar – Avustralya**
+
+- ⏳ KG Yok · @1.66
+
+**19:00 · Burkina Faso – Moritanya**
+
+- ⏳ MS 1 · @1.40
+
+**19:00 · Nijerya – Tanzanya**
+
+- ⏳ 2.5 Üst · @1.41
+
+**19:00 · Güney Afrika – Kenya**
+
+- ⏳ 2.5 Alt · @1.52
+
+**19:00 · Yeşil Burun Adaları – Liberya**
+
+- ⏳ 2.5 Alt · @1.56
+
+**19:00 · Tunus – Libya**
+
+- ⏳ 2.5 Alt · @1.58
+
+**19:00 · Gabon – Lesotho**
+
+- ⏳ 2.5 Alt · @1.66
+
+**20:00 · Moldova – Kazakistan**
+
+- ⏳ 2.5 Alt · @1.41
+
+**22:00 · Mısır – Malavi**
+
+- ⏳ 2.5 Üst · @1.44
+
+**22:00 · Bermuda – Saint Lucia**
+
+- ⏳ ↳ MS 2 & KG Var · @2.07
+
+**22:00 · Mali – Ruanda**
+
+- ⏳ 2.5 Alt · @1.61
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.53
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ MS 1 · @1.41
+
+**22:45 · Sırbistan – Almanya**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.50
+- ⏳ ↳ Korner 8.5 Üst · @1.49
+
+**22:45 · Slovenya – İsviçre**
+
+- ⏳ MS 2 · @1.53
+
+**22:45 · İskoçya – Kuzey Makedonya**
+
+- ⏳ MS 1 & 2.5 Üst · @1.62
+- ⏳ ↳ Korner 8.5 Üst · @1.41
+
+**22:45 · Bulgaristan – İzlanda**
+
+- ⏳ MS 2 · @1.69
+
+**23:00 · Grenada – ST Kitts ve Nevis**
+
+- ⏳ MS 2 · @1.55
 
 ## 12.11.2026 Perşembe
 
@@ -25,6 +121,7 @@
 **19:00 · Gine – Eritre**
 
 - ⏳ 2.5 Üst · @1.41
+- ⏳ MS 1 & 2.5 Üst · @1.71
 
 **19:00 · Ekvator Ginesi – Zimbabve**
 
@@ -34,6 +131,7 @@
 
 - ⏳ MS 2 · @1.68
 - ⏳ ↳ Korner 8.5 Üst · @1.44
+- ⏳ ↳ Korner 9.5 Alt · @1.66
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
@@ -51,6 +149,10 @@
 
 - ⏳ MS 1 & 2.5 Üst · @1.63
 
+**22:00 · Kamerun – Namibya**
+
+- ⏳ 2.5 Alt · @1.45
+
 **22:45 · Çekya – İspanya**
 
 - ⏳ MS 2 & 2.5 Üst · @1.46
@@ -65,6 +167,7 @@
 **22:45 · San Marino – Belarus**
 
 - ⏳ 2.5 Üst · @1.49
+- ⏳ Korner 10.5 Alt · @1.40
 
 **22:45 · İtalya – Fransa**
 
@@ -74,10 +177,12 @@
 **22:45 · Karadağ – Letonya**
 
 - ⏳ 2.5 Üst · @1.66
+- ⏳ Korner 8.5 Üst · @1.46
 
 **22:45 · Arnavutluk – Finlandiya**
 
 - ⏳ ↳ MS 1 · @1.76
+- ⏳ En çok korner 1 · @1.53
 
 **23:00 · Bonaire – Küba**
 

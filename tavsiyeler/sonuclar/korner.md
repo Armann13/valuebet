@@ -2,9 +2,34 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 57 tahmin sonuç bekliyor
+**646/1184 tuttu** (isabet %55, beklenen %59) · -162.61 birim · 72 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.29
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.53
+
+**22:45 · İskoçya – Kuzey Makedonya**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.41
+
+**22:45 · Sırbistan – Almanya**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.25
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ 🟢 En çok korner 1 · @1.27
+
+**22:45 · Slovenya – İsviçre**
+
+- ⏳ 🟢 En çok korner 2 · @1.32
 
 ## 12.11.2026 Perşembe
 
@@ -12,6 +37,8 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.22
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.44
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
@@ -34,6 +61,20 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+
+**22:45 · San Marino – Belarus**
+
+- ⏳ 🟡 Korner 10.5 Alt · @1.40
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.69
+
+**22:45 · Karadağ – Letonya**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.46
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.81
+
+**22:45 · Arnavutluk – Finlandiya**
+
+- ⏳ 🟡 En çok korner 1 · @1.53
 
 ## 09.11.2026 Pazartesi
 

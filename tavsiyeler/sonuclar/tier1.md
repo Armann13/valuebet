@@ -2,15 +2,83 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 52 tahmin sonuç bekliyor
+**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11.2026 Cumartesi
+
+**02:00 · Saint Martin – El Salvador**
+
+- ⏳ 2.5 Üst · @1.26
 
 ## 13.11.2026 Cuma
 
 **01:00 · Aruba – Martinik**
 
 - ⏳ MS 2 · @1.27
+
+**02:00 · Antigua & Barbuda – Trinidad ve Tobago**
+
+- ⏳ MS 2 · @1.20
+
+**03:30 · Curaçao – Panama**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**15:00 · Singapur – Paraguay**
+
+- ⏳ KG Yok · @1.30
+
+**22:00 · Porto Riko – Dominika**
+
+- ⏳ 2.5 Üst · @1.21
+
+**22:00 · Bermuda – Saint Lucia**
+
+- ⏳ KG Var · @1.45
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ ÇŞ 1-2 · @1.24
+- ⏳ Korner 10.5 Alt · @1.29
+
+**22:45 · Slovakya – Faroe Adaları**
+
+- ⏳ MS 1 · @1.24
+
+**22:45 · Andorra – Cebelitarık**
+
+- ⏳ 2.5 Alt · @1.23
+
+**22:45 · Sırbistan – Almanya**
+
+- ⏳ 2.5 Üst · @1.30
+- ⏳ Korner 7.5 Üst · @1.25
+
+**22:45 · Lihtenştayn – Azerbaycan**
+
+- ⏳ KG Yok · @1.25
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**22:45 · İskoçya – Kuzey Makedonya**
+
+- ⏳ Korner 7.5 Üst · @1.20
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ En çok korner 1 · @1.27
+
+**22:45 · Slovenya – İsviçre**
+
+- ⏳ En çok korner 2 · @1.32
+
+**23:00 · Fas – Nijer**
+
+- ⏳ 2.5 Üst · @1.27
 
 ## 12.11.2026 Perşembe
 
@@ -34,6 +102,7 @@
 **20:00 · Türkiye – Belçika**
 
 - ⏳ Korner 7.5 Üst · @1.22
+- ⏳ Korner 11.5 Alt · @1.20
 
 **22:00 · Kamerun – Namibya**
 
@@ -42,10 +111,12 @@
 **22:45 · Arnavutluk – Finlandiya**
 
 - ⏳ ÇŞ 1-2 · @1.22
+- ⏳ 2.5 Alt · @1.31
 
 **22:45 · İtalya – Fransa**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ ÇŞ X-2 · @1.20
 
 **22:45 · Çekya – İspanya**
 
@@ -55,6 +126,7 @@
 **22:45 · İngiltere – Hırvatistan**
 
 - ⏳ Korner 11.5 Alt · @1.21
+- ⏳ 2.5 Üst · @1.30
 
 ## 09.11.2026 Pazartesi
 

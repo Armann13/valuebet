@@ -2,15 +2,42 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 43 tahmin sonuç bekliyor
+**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ 1-0 · @6.01
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ 1-0 · @5.18
+
+**22:45 · Slovakya – Faroe Adaları**
+
+- ⏳ 1-0 · @5.35
+
+**22:45 · Bulgaristan – İzlanda**
+
+- ⏳ 0-1 · @5.58
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ 2-1 · @7.19
+
+**22:45 · İskoçya – Kuzey Makedonya**
+
+- ⏳ 2-1 · @8.82
 
 ## 12.11.2026 Perşembe
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
 - ⏳ 1-0 · @6.53
+- ⏳ 0-1 · @7.20
 
 **20:00 · Türkiye – Belçika**
 

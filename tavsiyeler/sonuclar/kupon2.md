@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**10/32 tuttu** (isabet %31, beklenen %52) · -12.20 birim · 6 tahmin sonuç bekliyor
+**10/32 tuttu** (isabet %31, beklenen %52) · -12.20 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11 14:30 gönderilen kupon · 2 maç, oran 5,48
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.34
+- ⏳ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.34
 
 ## 11.11 20:15 gönderilen kupon · 2 maç, oran 5,50
 

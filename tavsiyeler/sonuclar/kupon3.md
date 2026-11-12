@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/56 tuttu** (isabet %25, beklenen %40) · -18.82 birim · 7 tahmin sonuç bekliyor
+**14/56 tuttu** (isabet %25, beklenen %40) · -18.82 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 12.11 14:30 gönderilen kupon · 3 maç, oran 20,20
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @2.91
+- ⏳ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.47
+- ⏳ 13.11 23:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.81
 
 ## 11.11 20:15 gönderilen kupon · 3 maç, oran 24,35
 

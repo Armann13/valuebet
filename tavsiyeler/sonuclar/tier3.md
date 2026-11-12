@@ -2,15 +2,93 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 50 tahmin sonuç bekliyor
+**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11.2026 Cumartesi
+
+**02:00 · Saint Martin – El Salvador**
+
+- ⏳ ↳ MS 2 & KG Var · @2.29
 
 ## 13.11.2026 Cuma
 
 **01:00 · Aruba – Martinik**
 
 - ⏳ ↳ MS 2 & KG Var · @2.55
+
+**02:00 · Antigua & Barbuda – Trinidad ve Tobago**
+
+- ⏳ ↳ MS 2 & KG Var · @2.54
+
+**03:30 · Curaçao – Panama**
+
+- ⏳ ↳ MS 2 · @2.12
+
+**16:00 · Mozambik – Etiyopya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.57
+
+**17:10 · Birleşik Arap Emirlikleri – Honduras**
+
+- ⏳ MS 1 · @1.92
+
+**17:30 · Suudi Arabistan – Güney Kore**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.93
+
+**19:00 · Burkina Faso – Moritanya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.60
+
+**19:00 · Nijerya – Tanzanya**
+
+- ⏳ ↳ MS 1 & KG Var · @2.96
+
+**22:00 · Porto Riko – Dominika**
+
+- ⏳ ↳ MS 1 & KG Var · @2.14
+
+**22:00 · Mısır – Malavi**
+
+- ⏳ ↳ MS 1 & KG Var · @3.71
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ ↳ MS 1 · @2.12
+
+**22:45 · Slovakya – Faroe Adaları**
+
+- ⏳ ↳ İY/MS 1/1 · @1.73
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.00
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ ↳ MS 1 · @2.00
+
+**22:45 · Sırbistan – Almanya**
+
+- ⏳ ↳ MS 2 & KG Var · @2.34
+
+**22:45 · Slovenya – İsviçre**
+
+- ⏳ ↳ İY/MS 2/2 · @2.27
+
+**22:45 · İskoçya – Kuzey Makedonya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.28
+
+**22:45 · Bulgaristan – İzlanda**
+
+- ⏳ ↳ İY/MS 2/2 · @2.59
+
+**23:00 · Grenada – ST Kitts ve Nevis**
+
+- ⏳ ↳ MS 2 & KG Var · @2.81
 
 ## 12.11.2026 Perşembe
 
@@ -37,6 +115,7 @@
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
 - ⏳ ↳ MS 1 · @2.09
+- ⏳ ↳ MS 2 · @2.44
 
 **20:00 · Türkiye – Belçika**
 
@@ -54,9 +133,14 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.65
 
+**22:00 · Cayman Adaları – Guyana**
+
+- ⏳ KG Var · @2.63
+
 **22:45 · Karadağ – Letonya**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.85
+- ⏳ ↳ Korner 9.5 Üst · @1.81
 
 **22:45 · İngiltere – Hırvatistan**
 
@@ -73,6 +157,10 @@
 **22:45 · Arnavutluk – Finlandiya**
 
 - ⏳ ↳ İY/MS 1/1 · @2.75
+
+**22:45 · San Marino – Belarus**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.69
 
 **23:00 · Bonaire – Küba**
 

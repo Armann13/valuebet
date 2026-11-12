@@ -2,9 +2,43 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 32 tahmin sonuç bekliyor
+**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 41 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**03:30 · Curaçao – Panama**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.84
+
+**16:00 · Mozambik – Etiyopya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.97
+
+**16:00 · Zambiya – Burundi**
+
+- ⏳ ↳ MS 1 & KG Var · @4.23
+
+**17:30 · Suudi Arabistan – Güney Kore**
+
+- ⏳ ↳ MS 2 & KG Var · @4.03
+
+**19:00 · Burkina Faso – Moritanya**
+
+- ⏳ ↳ MS 1 & KG Var · @4.14
+
+**22:30 · Leganes – CF Burgos**
+
+- ⏳ ↳ İY/MS 1/1 · @3.42
+
+**22:45 · Hollanda – Yunanistan**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ ↳ İY/MS 1/1 · @3.24
 
 ## 12.11.2026 Perşembe
 
@@ -15,6 +49,7 @@
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
 - ⏳ ↳ İY/MS 1/1 · @3.35
+- ⏳ ↳ İY/MS 2/2 · @4.03
 
 **22:00 · Senegal – Sudan**
 

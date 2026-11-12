@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/88 tuttu** (isabet %18, beklenen %16) · +0.88 birim · 2 tahmin sonuç bekliyor
+**16/88 tuttu** (isabet %18, beklenen %16) · +0.88 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11.2026 Cuma
+
+**20:00 · Moldova – Kazakistan**
+
+- ⏳ 1-1 · @4.91
+
+**22:45 · Andorra – Cebelitarık**
+
+- ⏳ 1-0 · @3.69
+
+**22:45 · Lihtenştayn – Azerbaycan**
+
+- ⏳ 0-1 · @4.03
+
+**22:45 · Sırbistan – Almanya**
+
+- ⏳ 1-2 · @7.75
+
+**22:45 · Slovenya – İsviçre**
+
+- ⏳ 0-1 · @5.02
 
 ## 12.11.2026 Perşembe
 
