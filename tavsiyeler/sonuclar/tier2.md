@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**565/978 tuttu** (isabet %58, beklenen %59) · -100.00 birim · 57 tahmin sonuç bekliyor
+**566/979 tuttu** (isabet %58, beklenen %59) · -99.40 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **09:00 · Yeni Zelanda – Hindistan**
 
-- ⏳ KG Yok · @1.60
+- ✅ KG Yok · @1.60 · 5-0
 
 **18:00 · Özbekistan – Rusya**
 
