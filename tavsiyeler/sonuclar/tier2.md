@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**566/979 tuttu** (isabet %58, beklenen %59) · -99.40 birim · 87 tahmin sonuç bekliyor
+**572/988 tuttu** (isabet %58, beklenen %59) · -98.97 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,10 @@
 **02:00 · Antigua & Barbuda – Trinidad ve Tobago**
 
 - ⏳ KG Yok · @1.58
+
+**03:30 · Curaçao – Panama**
+
+- ⏳ 2.5 Alt · @1.53
 
 **16:00 · Mozambik – Etiyopya**
 
@@ -78,6 +82,10 @@
 
 - ⏳ 2.5 Alt · @1.61
 
+**22:00 · Porto Riko – Dominika**
+
+- ⏳ KG Yok · @1.76
+
 **22:30 · Leganes – CF Burgos**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.53
@@ -116,30 +124,35 @@
 
 **18:00 · Özbekistan – Rusya**
 
-- ⏳ 2.5 Alt · @1.46
+- ❌ 2.5 Alt · @1.46 · 2-3
 
 **19:00 · Gine – Eritre**
 
-- ⏳ 2.5 Üst · @1.41
-- ⏳ MS 1 & 2.5 Üst · @1.71
+- ✅ 2.5 Üst · @1.41 · 2-1
+- ✅ MS 1 & 2.5 Üst · @1.71 · 2-1
 
 **19:00 · Ekvator Ginesi – Zimbabve**
 
-- ⏳ KG Yok · @1.43
+- ✅ KG Yok · @1.43 · 0-0
+
+**19:00 · Madagaskar – Gine Bissau**
+
+- ❌ KG Yok · @1.50 · 1-1
 
 **20:00 · Türkiye – Belçika**
 
-- ⏳ MS 2 · @1.68
-- ⏳ ↳ Korner 8.5 Üst · @1.44
-- ⏳ ↳ Korner 9.5 Alt · @1.66
+- ✅ MS 2 · @1.68 · 1-2
+- ❌ ↳ Korner 8.5 Üst · @1.44 · korner 2-3
+- ✅ ↳ Korner 9.5 Alt · @1.66 · korner 2-3
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.54
+- ✅ ↳ Korner 8.5 Üst · @1.54 · korner 11-4
 
 **22:00 · Benin – Orta Afrika Cumhuriyeti**
 
 - ⏳ MS 1 · @1.44
+- ⏳ 2.5 Alt · @1.49
 
 **22:00 · Barbados – Guadeloupe**
 

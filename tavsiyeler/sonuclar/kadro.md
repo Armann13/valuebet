@@ -6,12 +6,82 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1521 | 1516 | 770 | -132.71 |
-| sonra | 1282 | 1278 | 634 | -139.11 |
+| önce | 1556 | 1516 | 770 | -132.71 |
+| sonra | 1308 | 1278 | 634 | -139.11 |
 
-Değişen tahmin: 326 (323 sonuçlandı: eski 240, yeni 183 tuttu).
+Değişen tahmin: 332 (323 sonuçlandı: eski 240, yeni 183 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 12.11 · Bonaire – Küba
+
+Kadro mesajı: 12.11 22:01
+
+- 🟡 Tier 2: ⏳ KG Var @2.00 → ⏳ KG Var @2.19 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.38 → ⏳ MS 2 & KG Var @2.51 (aynı)
+
+## 12.11 · Arnavutluk – Finlandiya
+
+Kadro mesajı: 12.11 21:48
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.22, ⏳ 2.5 Alt @1.31 → ⏳ 2.5 Alt @1.31 (değişti)
+- 🟡 Tier 2: ⏳ MS 1 @1.76, ⏳ En çok korner 1 @1.53 → ⏳ En çok korner 1 @1.53 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.75 → — (kalktı)
+
+## 12.11 · Karadağ – Letonya
+
+Kadro mesajı: 12.11 21:48
+
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.66, ⏳ Korner 8.5 Üst @1.46 → ⏳ 2.5 Üst @1.66, ⏳ Korner 8.5 Üst @1.48 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @1.85, ⏳ Korner 9.5 Üst @1.81 → ⏳ MS 1 & 2.5 Üst @1.82, ⏳ Korner 9.5 Üst @1.84 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.29 → ⏳ MS 1 & KG Var @3.38 (aynı)
+
+## 12.11 · San Marino – Belarus
+
+Kadro mesajı: 12.11 21:48
+
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.49, ⏳ Korner 10.5 Alt @1.40 → ⏳ 2.5 Üst @1.49, ⏳ Korner 10.5 Alt @1.40 (aynı)
+- 🔴 Tier 3: ⏳ Korner 9.5 Alt @1.69 → ⏳ Korner 9.5 Alt @1.69 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.53 → ⏳ MS 2 & KG Var @4.03 (aynı)
+
+## 12.11 · İngiltere – Hırvatistan
+
+Kadro mesajı: 12.11 21:48
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.21, ⏳ 2.5 Üst @1.30 → ⏳ Korner 7.5 Üst @1.20 (değişti)
+- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.52, ⏳ Korner 10.5 Alt @1.40 → ⏳ MS 1 & 2.5 Üst @1.51, ⏳ Korner 8.5 Üst @1.41 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.51 → ⏳ MS 1 & KG Var @2.45 (aynı)
+
+## 12.11 · İtalya – Fransa
+
+Kadro mesajı: 12.11 21:48
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.20, ⏳ ÇŞ X-2 @1.20 → ⏳ Korner 11.5 Alt @1.20 (değişti)
+- 🟡 Tier 2: ⏳ MS 2 @1.61, ⏳ Korner 9.5 Alt @1.66 → ⏳ MS 2 @1.79, ⏳ Korner 9.5 Alt @1.66 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.26 → ⏳ MS 2 & 2.5 Üst @2.53 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.01 → ⏳ MS 2 & KG Var @3.25 (aynı)
+
+## 12.11 · Benin – Orta Afrika Cumhuriyeti
+
+Kadro mesajı: 12.11 21:35
+
+- 🟡 Tier 2: ⏳ MS 1 @1.44, ⏳ 2.5 Alt @1.49 → ⏳ 2.5 Alt @1.49 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.65 → — (kalktı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @4.05 → — (kalktı)
+
+## 12.11 · Fildişi Sahili – Gambiya
+
+Kadro mesajı: 12.11 21:35
+
+- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.63 → ⏳ MS 1 & 2.5 Üst @1.58 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @3.05 → ⏳ MS 1 & KG Var @2.98 (aynı)
+
+## 12.11 · Kamerun – Namibya
+
+Kadro mesajı: 12.11 21:23
+
+- 🟢 Tier 1: ⏳ KG Yok @1.21 → — (kalktı)
+- 🟡 Tier 2: ⏳ 2.5 Alt @1.45 → ⏳ 2.5 Alt @1.47 (aynı)
 
 ## 09.11 · CE Sabadell FC – Real Sociedad B
 

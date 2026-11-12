@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**84/840 tuttu** (isabet %10, beklenen %11) · -226.65 birim · 50 tahmin sonuç bekliyor
+**85/843 tuttu** (isabet %10, beklenen %11) · -222.08 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,12 +36,12 @@
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
-- ⏳ 1-0 · @6.53
-- ⏳ 0-1 · @7.20
+- ❌ 1-0 · @6.53 · 1-1
+- ❌ 0-1 · @7.20 · 1-1
 
 **20:00 · Türkiye – Belçika**
 
-- ⏳ 1-2 · @7.57
+- ✅ 1-2 · @7.57 · 1-2
 
 **22:45 · Karadağ – Letonya**
 

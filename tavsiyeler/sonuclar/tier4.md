@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**164/561 tuttu** (isabet %29, beklenen %29) · -52.00 birim · 41 tahmin sonuç bekliyor
+**165/564 tuttu** (isabet %29, beklenen %29) · -52.10 birim · 38 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -44,12 +44,12 @@
 
 **20:00 · Türkiye – Belçika**
 
-- ⏳ ↳ MS 2 & KG Var · @2.90
+- ✅ ↳ MS 2 & KG Var · @2.90 · 1-2
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
-- ⏳ ↳ İY/MS 1/1 · @3.35
-- ⏳ ↳ İY/MS 2/2 · @4.03
+- ❌ ↳ İY/MS 1/1 · @3.35
+- ❌ ↳ İY/MS 2/2 · @4.03
 
 **22:00 · Senegal – Sudan**
 

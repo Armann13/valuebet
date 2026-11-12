@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**337/799 tuttu** (isabet %42, beklenen %41) · -52.42 birim · 73 tahmin sonuç bekliyor
+**340/807 tuttu** (isabet %42, beklenen %41) · -53.33 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -94,32 +94,32 @@
 
 **18:00 · Özbekistan – Rusya**
 
-- ⏳ MS 2 · @1.92
+- ✅ MS 2 · @1.92 · 2-3
 
 **18:00 · Gana – Somali**
 
-- ⏳ ↳ MS 1 & KG Var · @3.20
+- ❌ ↳ MS 1 & KG Var · @3.20 · 2-0
 
 **19:00 · Madagaskar – Gine Bissau**
 
-- ⏳ ↳ MS 2 · @2.07
+- ❌ ↳ MS 2 · @2.07 · 1-1
 
 **19:00 · Gine – Eritre**
 
-- ⏳ ↳ MS 1 & KG Var · @2.91
+- ✅ ↳ MS 1 & KG Var · @2.91 · 2-1
 
 **19:00 · Ekvator Ginesi – Zimbabve**
 
-- ⏳ ↳ MS 1 · @2.18
+- ❌ ↳ MS 1 · @2.18 · 0-0
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
-- ⏳ ↳ MS 1 · @2.09
-- ⏳ ↳ MS 2 · @2.44
+- ❌ ↳ MS 1 · @2.09 · 1-1
+- ❌ ↳ MS 2 · @2.44 · 1-1
 
 **20:00 · Türkiye – Belçika**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+- ✅ ↳ MS 2 & 2.5 Üst · @2.26 · 1-2
 
 **22:00 · Senegal – Sudan**
 

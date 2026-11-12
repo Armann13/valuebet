@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**453/628 tuttu** (isabet %72, beklenen %74) · -68.67 birim · 74 tahmin sonuç bekliyor
+**456/635 tuttu** (isabet %72, beklenen %74) · -71.98 birim · 68 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -29,6 +29,10 @@
 **15:00 · Singapur – Paraguay**
 
 - ⏳ KG Yok · @1.30
+
+**16:00 · Komorlar – Kongo**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 **22:00 · Porto Riko – Dominika**
 
@@ -84,25 +88,25 @@
 
 **18:00 · Gana – Somali**
 
-- ⏳ 2.5 Üst · @1.29
+- ❌ 2.5 Üst · @1.29 · 2-0
 
 **19:00 · Madagaskar – Gine Bissau**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 1-1
 
 **19:00 · Ekvator Ginesi – Zimbabve**
 
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-X · @1.21 · 0-0
 
 **20:00 · Ermenistan – Kıbrıs Rum Kesimi**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 7.5 Üst · @1.28
+- ❌ ÇŞ 1-2 · @1.23 · 1-1
+- ✅ Korner 7.5 Üst · @1.28 · korner 11-4
 
 **20:00 · Türkiye – Belçika**
 
-- ⏳ Korner 7.5 Üst · @1.22
-- ⏳ Korner 11.5 Alt · @1.20
+- ❌ Korner 7.5 Üst · @1.22 · korner 2-3
+- ✅ Korner 11.5 Alt · @1.20 · korner 2-3
 
 **22:00 · Kamerun – Namibya**
 
