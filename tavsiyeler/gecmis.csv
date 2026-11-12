@@ -6697,3 +6697,5 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-12 21:48,2026-11-12,12.11,MILLI,England,Croatia,İngiltere – Hırvatistan,UEFA Uluslar Ligi,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.13979910545184523,7.86,0.0988209688515036,oran,,,,2026-11-12 22:45,,,,,,kadro
 2026-11-12 21:48,2026-11-12,12.11,MILLI,Italy,France,İtalya – Fransa,UEFA Uluslar Ligi,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1190676237123945,7.65,-0.08913267860018204,oran,,,,2026-11-12 22:45,,,,,,kadro
 2026-11-12 21:48,2026-11-12,12.11,MILLI,San Marino,Belarus,San Marino – Belarus,UEFA Uluslar Ligi,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.060024240917754414,11.75,-0.29471516921638563,model,,,,2026-11-12 22:45,,,,,,kadro
+2026-11-12 22:01,2026-11-12,12.11,MILLI,Bonaire,Cuba,Bonaire – Küba,CONCACAF Uluslar B Ligi,🟡 Tier 2 — Orta risk,KG Var,0.618306311088633,2.19,0.3540908212841063,model,False,,,2026-11-12 23:00,,,,,,kadro
+2026-11-12 22:01,2026-11-12,12.11,MILLI,Bonaire,Cuba,Bonaire – Küba,CONCACAF Uluslar B Ligi,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.4036661302460152,2.51,0.013201986917498187,model,True,,,2026-11-12 23:00,,,,,,kadro
