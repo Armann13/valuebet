@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**340/807 tuttu** (isabet %42, beklenen %41) · -53.33 birim · 65 tahmin sonuç bekliyor
+**348/818 tuttu** (isabet %43, beklenen %41) · -46.13 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -123,36 +123,36 @@
 
 **22:00 · Senegal – Sudan**
 
-- ⏳ KG Var · @2.26
+- ✅ KG Var · @2.26 · 4-1
 
 **22:00 · Fildişi Sahili – Gambiya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.05
+- ✅ ↳ MS 1 & KG Var · @3.05 · 2-1
 
 **22:00 · Benin – Orta Afrika Cumhuriyeti**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.65
+- ✅ ↳ MS 1 & 2.5 Üst · @2.65 · 4-1
 
 **22:00 · Cayman Adaları – Guyana**
 
-- ⏳ KG Var · @2.63
+- ❌ KG Var · @2.63 · 0-6
 
 **22:45 · Karadağ – Letonya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.85
-- ⏳ ↳ Korner 9.5 Üst · @1.81
+- ✅ ↳ MS 1 & 2.5 Üst · @1.85 · 2-1
+- ✅ ↳ Korner 9.5 Üst · @1.81 · korner 11-6
 
 **22:45 · İngiltere – Hırvatistan**
 
-- ⏳ ↳ MS 1 & KG Var · @2.51
+- ✅ ↳ MS 1 & KG Var · @2.51 · 2-1
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.26
+- ❌ ↳ MS 2 & 2.5 Üst · @2.26 · 3-1
 
 **22:45 · Çekya – İspanya**
 
-- ⏳ ↳ MS 2 & KG Var · @2.49
+- ❌ ↳ MS 2 & KG Var · @2.49 · 0-2
 
 **22:45 · Arnavutluk – Finlandiya**
 
@@ -160,11 +160,11 @@
 
 **22:45 · San Marino – Belarus**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.69
+- ✅ ↳ Korner 9.5 Alt · @1.69 · korner 2-6
 
 **23:00 · Bonaire – Küba**
 
-- ⏳ ↳ MS 2 & KG Var · @2.38
+- ✅ ↳ MS 2 & KG Var · @2.38 · 1-7
 
 ## 09.11.2026 Pazartesi
 

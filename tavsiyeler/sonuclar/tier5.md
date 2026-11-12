@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/88 tuttu** (isabet %18, beklenen %16) · +0.88 birim · 7 tahmin sonuç bekliyor
+**16/89 tuttu** (isabet %18, beklenen %16) · -0.12 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,7 +32,7 @@
 
 **22:45 · Arnavutluk – Finlandiya**
 
-- ⏳ 1-0 · @5.19
+- ❌ 1-0 · @5.19 · 2-0
 
 ## 09.11.2026 Pazartesi
 

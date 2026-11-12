@@ -2,33 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/56 tuttu** (isabet %25, beklenen %40) · -18.82 birim · 10 tahmin sonuç bekliyor
+**19/64 tuttu** (isabet %30, beklenen %39) · -12.12 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 12.11 14:30 gönderilen kupon · 3 maç, oran 20,20
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @2.91
-- ⏳ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.47
+- ✅ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @2.91 · 2-1
+- ❌ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.47 · 0-2
 - ⏳ 13.11 23:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.81
 
 ## 11.11 20:15 gönderilen kupon · 3 maç, oran 24,35
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
-- ⏳ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @3.07
-- ⏳ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.16
-- ⏳ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.51
+- ✅ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @3.07 · 2-1
+- ✅ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.16 · 2-1
+- ❌ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.51 · 0-2
 
 ## 11.11 09:39 gönderilen kupon · 3 maç, oran 23,04
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
-- ⏳ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @3.05
-- ⏳ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.51
-- ⏳ 12.11 22:45 İtalya – Fransa · MS 2 & KG Var · @3.01
+- ✅ 12.11 22:00 Fildişi Sahili – Gambiya · MS 1 & KG Var · @3.05 · 2-1
+- ✅ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.51 · 2-1
+- ❌ 12.11 22:45 İtalya – Fransa · MS 2 & KG Var · @3.01 · 3-1
 
 ## 08.11 13:34 gönderilen kupon · 3 maç, oran 25,53
 

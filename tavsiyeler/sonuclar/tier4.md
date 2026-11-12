@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**165/564 tuttu** (isabet %29, beklenen %29) · -52.10 birim · 38 tahmin sonuç bekliyor
+**168/570 tuttu** (isabet %29, beklenen %29) · -48.01 birim · 32 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -53,27 +53,27 @@
 
 **22:00 · Senegal – Sudan**
 
-- ⏳ ↳ MS 1 & KG Var · @2.75
+- ✅ ↳ MS 1 & KG Var · @2.75 · 4-1
 
 **22:00 · Barbados – Guadeloupe**
 
-- ⏳ ↳ MS 2 & KG Var · @3.67
+- ❌ ↳ MS 2 & KG Var · @3.67 · 0-3
 
 **22:00 · Benin – Orta Afrika Cumhuriyeti**
 
-- ⏳ ↳ MS 1 & KG Var · @4.05
+- ✅ ↳ MS 1 & KG Var · @4.05 · 4-1
 
 **22:45 · Karadağ – Letonya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.29
+- ✅ ↳ MS 1 & KG Var · @3.29 · 2-1
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ ↳ MS 2 & KG Var · @3.01
+- ❌ ↳ MS 2 & KG Var · @3.01 · 3-1
 
 **22:45 · San Marino – Belarus**
 
-- ⏳ ↳ MS 2 & KG Var · @3.53
+- ❌ ↳ MS 2 & KG Var · @3.53 · 0-2
 
 ## 09.11.2026 Pazartesi
 

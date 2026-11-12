@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**650/1190 tuttu** (isabet %55, beklenen %59) · -162.93 birim · 66 tahmin sonuç bekliyor
+**659/1203 tuttu** (isabet %55, beklenen %59) · -162.54 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -47,34 +47,34 @@
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
+- ✅ 🟢 Korner 11.5 Alt · @1.20 · korner 4-3
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.66 · korner 4-3
 
 **22:45 · Çekya – İspanya**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.66
-- ⏳ 🟢 Korner 7.5 Üst · @1.21
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
+- ❌ 🟢 Korner 11.5 Alt · @1.20 · korner 4-10
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.66 · korner 4-10
+- ✅ 🟢 Korner 7.5 Üst · @1.21 · korner 4-10
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.43 · korner 4-10
 
 **22:45 · İngiltere – Hırvatistan**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ❌ 🟢 Korner 11.5 Alt · @1.21 · korner 6-7
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 6-7
 
 **22:45 · San Marino – Belarus**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.40
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.69
+- ✅ 🟡 Korner 10.5 Alt · @1.40 · korner 2-6
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.69 · korner 2-6
 
 **22:45 · Karadağ – Letonya**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.46
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.81
+- ✅ 🟡 Korner 8.5 Üst · @1.46 · korner 11-6
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.81 · korner 11-6
 
 **22:45 · Arnavutluk – Finlandiya**
 
-- ⏳ 🟡 En çok korner 1 · @1.53
+- ✅ 🟡 En çok korner 1 · @1.53 · korner 5-0
 
 ## 09.11.2026 Pazartesi
 

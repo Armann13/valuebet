@@ -2,26 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/82 tuttu** (isabet %38, beklenen %37) · +1.30 birim · 6 tahmin sonuç bekliyor
+**33/84 tuttu** (isabet %39, beklenen %37) · +5.99 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 12.11 18:42 gönderilen kupon · 4 maç, oran 84,16
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 12.11 20:00 Gine – Eritre · MS 1 & KG Var · @3.07 · 2-1
-- ⏳ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.33
+- ✅ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.33 · 2-1
 - ⏳ 13.11 01:00 Aruba – Martinik · MS 2 & KG Var · @2.51
 - ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28
 
 ## 12.11 14:30 gönderilen kupon · 4 maç, oran 80,20
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
 
 - ✅ 12.11 19:00 Gine – Eritre · MS 1 & KG Var · @3.11 · 2-1
 - ✅ 12.11 20:00 Türkiye – Belçika · MS 2 & 2.5 Üst · @2.34 · 1-2
-- ⏳ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.36
+- ✅ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.36 · 2-1
 - ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28
 
 ## 08.11 13:34 gönderilen kupon · 4 maç, oran 51,17

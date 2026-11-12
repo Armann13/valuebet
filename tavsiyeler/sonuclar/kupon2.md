@@ -2,30 +2,30 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**12/34 tuttu** (isabet %35, beklenen %51) · -9.74 birim · 6 tahmin sonuç bekliyor
+**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 12.11 14:30 gönderilen kupon · 2 maç, oran 5,48
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.34
+- ✅ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.34 · 2-1
 - ⏳ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.34
 
 ## 11.11 20:15 gönderilen kupon · 2 maç, oran 5,50
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 5,50 birim
 
 - ✅ 12.11 20:00 Türkiye – Belçika · MS 2 & 2.5 Üst · @2.20 · 1-2
-- ⏳ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.50
+- ✅ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.50 · 2-1
 
 ## 11.11 09:39 gönderilen kupon · 2 maç, oran 5,63
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 12.11 20:00 Türkiye – Belçika · MS 2 & 2.5 Üst · @2.26 · 1-2
-- ⏳ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.49
+- ❌ 12.11 22:45 Çekya – İspanya · MS 2 & KG Var · @2.49 · 0-2
 
 ## 08.11 13:34 gönderilen kupon · 2 maç, oran 4,32
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**456/635 tuttu** (isabet %72, beklenen %74) · -71.98 birim · 68 tahmin sonuç bekliyor
+**462/644 tuttu** (isabet %72, beklenen %74) · -73.53 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -110,27 +110,27 @@
 
 **22:00 · Kamerun – Namibya**
 
-- ⏳ KG Yok · @1.21
+- ✅ KG Yok · @1.21 · 2-0
 
 **22:45 · Arnavutluk – Finlandiya**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ 2.5 Alt · @1.31
+- ✅ ÇŞ 1-2 · @1.22 · 2-0
+- ✅ 2.5 Alt · @1.31 · 2-0
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ ÇŞ X-2 · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 4-3
+- ❌ ÇŞ X-2 · @1.20 · 3-1
 
 **22:45 · Çekya – İspanya**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ Korner 7.5 Üst · @1.21
+- ❌ Korner 11.5 Alt · @1.20 · korner 4-10
+- ✅ Korner 7.5 Üst · @1.21 · korner 4-10
 
 **22:45 · İngiltere – Hırvatistan**
 
-- ⏳ Korner 11.5 Alt · @1.21
-- ⏳ 2.5 Üst · @1.30
+- ❌ Korner 11.5 Alt · @1.21 · korner 6-7
+- ✅ 2.5 Üst · @1.30 · 2-1
 
 ## 09.11.2026 Pazartesi
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**572/988 tuttu** (isabet %58, beklenen %59) · -98.97 birim · 82 tahmin sonuç bekliyor
+**585/1007 tuttu** (isabet %58, beklenen %59) · -97.53 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -151,55 +151,55 @@
 
 **22:00 · Benin – Orta Afrika Cumhuriyeti**
 
-- ⏳ MS 1 · @1.44
-- ⏳ 2.5 Alt · @1.49
+- ✅ MS 1 · @1.44 · 4-1
+- ❌ 2.5 Alt · @1.49 · 4-1
 
 **22:00 · Barbados – Guadeloupe**
 
-- ⏳ 2.5 Üst · @1.50
+- ✅ 2.5 Üst · @1.50 · 0-3
 
 **22:00 · Fildişi Sahili – Gambiya**
 
-- ⏳ MS 1 & 2.5 Üst · @1.63
+- ✅ MS 1 & 2.5 Üst · @1.63 · 2-1
 
 **22:00 · Kamerun – Namibya**
 
-- ⏳ 2.5 Alt · @1.45
+- ✅ 2.5 Alt · @1.45 · 2-0
 
 **22:45 · Çekya – İspanya**
 
-- ⏳ MS 2 & 2.5 Üst · @1.46
-- ⏳ ↳ Korner 9.5 Alt · @1.66
-- ⏳ ↳ Korner 8.5 Üst · @1.43
+- ❌ MS 2 & 2.5 Üst · @1.46 · 0-2
+- ❌ ↳ Korner 9.5 Alt · @1.66 · korner 4-10
+- ✅ ↳ Korner 8.5 Üst · @1.43 · korner 4-10
 
 **22:45 · İngiltere – Hırvatistan**
 
-- ⏳ MS 1 & 2.5 Üst · @1.52
-- ⏳ ↳ Korner 10.5 Alt · @1.40
+- ✅ MS 1 & 2.5 Üst · @1.52 · 2-1
+- ❌ ↳ Korner 10.5 Alt · @1.40 · korner 6-7
 
 **22:45 · San Marino – Belarus**
 
-- ⏳ 2.5 Üst · @1.49
-- ⏳ Korner 10.5 Alt · @1.40
+- ❌ 2.5 Üst · @1.49 · 0-2
+- ✅ Korner 10.5 Alt · @1.40 · korner 2-6
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ MS 2 · @1.61
-- ⏳ ↳ Korner 9.5 Alt · @1.66
+- ❌ MS 2 · @1.61 · 3-1
+- ✅ ↳ Korner 9.5 Alt · @1.66 · korner 4-3
 
 **22:45 · Karadağ – Letonya**
 
-- ⏳ 2.5 Üst · @1.66
-- ⏳ Korner 8.5 Üst · @1.46
+- ✅ 2.5 Üst · @1.66 · 2-1
+- ✅ Korner 8.5 Üst · @1.46 · korner 11-6
 
 **22:45 · Arnavutluk – Finlandiya**
 
-- ⏳ ↳ MS 1 · @1.76
-- ⏳ En çok korner 1 · @1.53
+- ✅ ↳ MS 1 · @1.76 · 2-0
+- ✅ En çok korner 1 · @1.53 · korner 5-0
 
 **23:00 · Bonaire – Küba**
 
-- ⏳ KG Var · @2.00
+- ✅ KG Var · @2.00 · 1-7
 
 ## 11.11.2026 Çarşamba
 

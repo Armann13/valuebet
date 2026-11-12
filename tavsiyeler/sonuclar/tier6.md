@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**85/843 tuttu** (isabet %10, beklenen %11) · -222.08 birim · 47 tahmin sonuç bekliyor
+**87/848 tuttu** (isabet %10, beklenen %11) · -211.32 birim · 42 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -45,23 +45,23 @@
 
 **22:45 · Karadağ – Letonya**
 
-- ⏳ 2-1 · @7.88
+- ✅ 2-1 · @7.88 · 2-1
 
 **22:45 · İngiltere – Hırvatistan**
 
-- ⏳ 2-1 · @7.88
+- ✅ 2-1 · @7.88 · 2-1
 
 **22:45 · İtalya – Fransa**
 
-- ⏳ 1-2 · @7.40
+- ❌ 1-2 · @7.40 · 3-1
 
 **22:45 · Çekya – İspanya**
 
-- ⏳ 1-2 · @8.13
+- ❌ 1-2 · @8.13 · 0-2
 
 **22:45 · San Marino – Belarus**
 
-- ⏳ 1-2 · @10.05
+- ❌ 1-2 · @10.05 · 0-2
 
 ## 09.11.2026 Pazartesi
 
