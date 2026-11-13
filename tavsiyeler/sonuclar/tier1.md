@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**463/647 tuttu** (isabet %72, beklenen %74) · -75.33 birim · 56 tahmin sonuç bekliyor
+**463/648 tuttu** (isabet %71, beklenen %74) · -76.33 birim · 79 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,66 @@
 **02:00 · Saint Martin – El Salvador**
 
 - ⏳ 2.5 Üst · @1.26
+- ⏳ MS 2 · @1.22
+
+**03:00 · Kolombiya – Şili**
+
+- ⏳ MS 1 · @1.25
+- ⏳ Korner 7.5 Üst · @1.24
+
+**15:00 · Çin – Malezya**
+
+- ⏳ MS 1 · @1.32
+
+**18:00 · Southend – Aldershot**
+
+- ⏳ MS 1 · @1.26
+
+**18:00 · Carlisle – Boston United**
+
+- ⏳ MS 1 · @1.31
+
+**18:00 · Wycombe – Huddersfield**
+
+- ⏳ ÇŞ X-2 · @1.20
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 11.5 Alt · @1.22
+
+**20:00 · Norveç – Galler**
+
+- ⏳ 2.5 Üst · @1.31
+- ⏳ En çok korner 1 · @1.28
+
+**20:00 · Gürcistan – Macaristan**
+
+- ⏳ Korner 10.5 Alt · @1.20
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ Korner 11.5 Alt · @1.26
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ Korner 10.5 Alt · @1.20
+
+**22:45 · Portekiz – Danimarka**
+
+- ⏳ En çok korner 1 · @1.25
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ Korner 10.5 Alt · @1.24
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ En çok korner 1 · @1.32
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ ÇŞ 1-2 · @1.23
 
 ## 13.11.2026 Cuma
 
@@ -28,11 +88,15 @@
 
 **15:00 · Singapur – Paraguay**
 
-- ⏳ KG Yok · @1.30
+- ❌ KG Yok · @1.30 · 1-4
 
 **16:00 · Komorlar – Kongo**
 
 - ⏳ ÇŞ 1-2 · @1.20
+
+**19:00 · Tunus – Libya**
+
+- ⏳ MS 1 · @1.23
 
 **22:00 · Porto Riko – Dominika**
 
@@ -41,6 +105,10 @@
 **22:00 · Bermuda – Saint Lucia**
 
 - ⏳ KG Var · @1.45
+
+**22:00 · Grenada – ST Kitts ve Nevis**
+
+- ⏳ 2.5 Üst · @1.24
 
 **22:30 · Leganes – CF Burgos**
 
@@ -54,6 +122,7 @@
 **22:45 · Andorra – Cebelitarık**
 
 - ⏳ 2.5 Alt · @1.23
+- ⏳ En çok korner 1 · @1.26
 
 **22:45 · Sırbistan – Almanya**
 
@@ -67,6 +136,7 @@
 **22:45 · Lüksemburg – Estonya**
 
 - ⏳ ÇŞ 1-2 · @1.25
+- ⏳ ÇŞ 1-X · @1.24
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
@@ -79,6 +149,11 @@
 **22:45 · Slovenya – İsviçre**
 
 - ⏳ En çok korner 2 · @1.32
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:45 · Bulgaristan – İzlanda**
+
+- ⏳ Korner 7.5 Üst · @1.28
 
 **23:00 · Fas – Nijer**
 

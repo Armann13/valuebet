@@ -2,11 +2,83 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**659/1203 tuttu** (isabet %55, beklenen %59) · -162.54 birim · 53 tahmin sonuç bekliyor
+**659/1203 tuttu** (isabet %55, beklenen %59) · -162.54 birim · 86 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 14.11.2026 Cumartesi
+
+**03:00 · Kolombiya – Şili**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.24
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+
+**13:15 · Japonya – Brezilya**
+
+- ⏳ 🟡 En çok korner 2 · @1.58
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ 🟡 En çok korner 1 · @2.02
+- ⏳ 2 En çok korner 1 · @2.02
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+
+**20:00 · Gürcistan – Macaristan**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
+
+**20:00 · Norveç – Galler**
+
+- ⏳ 🟢 En çok korner 1 · @1.28
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.26
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
+- ⏳ 3 En çok korner 2 · @2.64
+
+**20:30 · Mallorca – Cordoba**
+
+- ⏳ 🟡 En çok korner 2 · @2.26
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
+
+**22:45 · Portekiz – Danimarka**
+
+- ⏳ 🟢 En çok korner 1 · @1.25
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.45
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ 🟢 En çok korner 1 · @1.32
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ 🟡 Korner 7.5 Üst · @1.42
+- ⏳ 🔴 ↳ Korner 8.5 Üst · @1.77
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.64
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.09
+
 ## 13.11.2026 Cuma
+
+**20:00 · Moldova – Kazakistan**
+
+- ⏳ 🟡 En çok korner 1 · @1.72
 
 **22:30 · Leganes – CF Burgos**
 
@@ -30,6 +102,29 @@
 **22:45 · Slovenya – İsviçre**
 
 - ⏳ 🟢 En çok korner 2 · @1.32
+
+**22:45 · Andorra – Cebelitarık**
+
+- ⏳ 🟢 En çok korner 1 · @1.26
+
+**22:45 · Bulgaristan – İzlanda**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.28
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.55
+
+**22:45 · Slovakya – Faroe Adaları**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.40
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.71
+
+**22:45 · Lihtenştayn – Azerbaycan**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.44
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.78
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ 🟡 En çok korner 1 · @1.66
 
 ## 12.11.2026 Perşembe
 

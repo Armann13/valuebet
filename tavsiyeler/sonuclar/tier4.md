@@ -2,9 +2,167 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**168/571 tuttu** (isabet %29, beklenen %28) · -49.01 birim · 31 tahmin sonuç bekliyor
+**168/572 tuttu** (isabet %29, beklenen %28) · -50.01 birim · 72 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11.2026 Cumartesi
+
+**03:00 · Kolombiya – Şili**
+
+- ⏳ ↳ MS 1 & KG Var · @3.16
+
+**13:15 · Japonya – Brezilya**
+
+- ⏳ ↳ MS 2 & KG Var · @3.40
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ ↳ MS 2 & KG Var · @3.81
+
+**18:00 · East Kilbri – Alloa**
+
+- ⏳ ↳ MS 1 & KG Var · @2.61
+
+**18:00 · Yeovil Town – Boreham Wood**
+
+- ⏳ ↳ MS 2 & KG Var · @2.61
+
+**18:00 · Rochdale – York City**
+
+- ⏳ ↳ MS 2 & KG Var · @2.86
+
+**18:00 · Airdrieonian – Queen of The South**
+
+- ⏳ ↳ MS 1 & KG Var · @2.80
+
+**18:00 · Eastleigh – AFC Fylde**
+
+- ⏳ ↳ MS 2 & KG Var · @2.86
+
+**18:00 · MK Dons – Burton Albion**
+
+- ⏳ ↳ MS 1 & KG Var · @2.92
+
+**18:00 · Harrogate – Altrincham**
+
+- ⏳ ↳ MS 1 & KG Var · @2.83
+
+**18:00 · Wycombe – Huddersfield**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.86
+
+**18:00 · Stirling Alb – Elgin City**
+
+- ⏳ ↳ MS 2 & KG Var · @3.13
+
+**18:00 · Stockport – Reading**
+
+- ⏳ ↳ MS 1 & KG Var · @3.06
+
+**18:00 · Dumbarton – Annan Athletic**
+
+- ⏳ ↳ MS 1 & KG Var · @3.11
+
+**18:00 · Swindon Town – Grimsby Town**
+
+- ⏳ ↳ MS 2 & KG Var · @3.22
+
+**18:00 · Sutton United – Solihull Moors**
+
+- ⏳ ↳ MS 1 & KG Var · @3.26
+
+**18:00 · Forfar – Spartans Edinburgh FC**
+
+- ⏳ ↳ MS 2 & KG Var · @3.44
+
+**18:00 · Hartlepool – Wealdstone**
+
+- ⏳ ↳ MS 1 & KG Var · @3.36
+
+**18:00 · Scunthorpe – Worthing**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.37
+
+**18:00 · Wimbledon – Blackpool**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.45
+
+**18:00 · Sheffield Wednesday – Plymouth**
+
+- ⏳ ↳ MS 1 & KG Var · @3.45
+
+**18:00 · Walsall – Barnet**
+
+- ⏳ ↳ MS 2 & KG Var · @3.58
+
+**18:00 · Kidderminster Harriers – Halifax Town**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.51
+
+**18:00 · Wigan Athletic – Barnsley**
+
+- ⏳ ↳ MS 1 & KG Var · @3.54
+
+**18:00 · Hornchurch – Tamworth**
+
+- ⏳ ↳ MS 1 & KG Var · @3.64
+
+**18:00 · Kelty Hearts – Stranraer**
+
+- ⏳ ↳ MS 2 & KG Var · @3.61
+
+**18:00 · East Fife – Peterhead**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.67
+
+**18:00 · Bristol Rovers – Chesterfield**
+
+- ⏳ ↳ MS 2 & KG Var · @3.83
+
+**18:00 · Doncaster – Leyton Orient**
+
+- ⏳ ↳ MS 1 & KG Var · @3.96
+
+**18:00 · Cove Rangers – Montrose**
+
+- ⏳ ↳ MS 1 & KG Var · @4.07
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.73
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ ↳ MS 1 & KG Var · @2.86
+
+**20:30 · Hamilton – Ross County**
+
+- ⏳ ↳ MS 2 & KG Var · @3.07
+
+**20:30 · Mallorca – Cordoba**
+
+- ⏳ ↳ MS 1 & KG Var · @3.16
+
+**20:30 · Fleetwood – Tranmere**
+
+- ⏳ ↳ MS 1 & KG Var · @3.52
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ ↳ MS 1 & KG Var · @2.74
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ ↳ MS 2 & KG Var · @3.35
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ ↳ MS 1 & KG Var · @3.28
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.68
 
 ## 13.11.2026 Cuma
 
@@ -14,7 +172,7 @@
 
 **16:00 · Mozambik – Etiyopya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.97
+- ❌ ↳ MS 1 & KG Var · @3.97 · 0-1
 
 **16:00 · Zambiya – Burundi**
 
@@ -27,6 +185,18 @@
 **19:00 · Burkina Faso – Moritanya**
 
 - ⏳ ↳ MS 1 & KG Var · @4.14
+
+**19:00 · Gabon – Lesotho**
+
+- ⏳ ↳ MS 1 & KG Var · @3.47
+
+**19:00 · Yeşil Burun Adaları – Liberya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.42
+
+**19:00 · Tunus – Libya**
+
+- ⏳ ↳ MS 1 & KG Var · @4.05
 
 **22:30 · Leganes – CF Burgos**
 

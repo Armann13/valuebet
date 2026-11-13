@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/64 tuttu** (isabet %30, beklenen %39) · -12.12 birim · 2 tahmin sonuç bekliyor
+**19/64 tuttu** (isabet %30, beklenen %39) · -12.12 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 14:13 gönderilen kupon · 3 maç, oran 19,95
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.11
+- ⏳ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.43
+- ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.64
 
 ## 12.11 14:30 gönderilen kupon · 3 maç, oran 20,20
 

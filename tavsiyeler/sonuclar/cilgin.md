@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 35 tahmin sonuç bekliyor
+**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 39 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 14:13 gönderilen kupon · 4 maç, oran 266.851,59
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.11 22:45 Sırbistan – Almanya · İY/MS 1/2 · @20.85
+- ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · İY/MS 2/1 · @27.50
+- ⏳ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.85
+- ⏳ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.30
 
 ## 12.11 18:42 gönderilen kupon · 4 maç, oran 317.038,05
 

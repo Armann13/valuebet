@@ -2,11 +2,201 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/848 tuttu** (isabet %10, beklenen %11) · -211.32 birim · 42 tahmin sonuç bekliyor
+**87/848 tuttu** (isabet %10, beklenen %11) · -211.32 birim · 89 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
+## 14.11.2026 Cumartesi
+
+**13:15 · Japonya – Brezilya**
+
+- ⏳ 1-2 · @7.51
+
+**15:30 · Exeter City – Cheltenham**
+
+- ⏳ 1-0 · @5.56
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ 1-2 · @8.01
+
+**18:00 · Livingston – G. Morton**
+
+- ⏳ 2-1 · @6.77
+
+**18:00 · Rochdale – York City**
+
+- ⏳ 1-2 · @6.44
+
+**18:00 · Stenhousemuir – Queen's Park**
+
+- ⏳ 1-0 · @5.15
+
+**18:00 · Ayr United – Raith Rovers**
+
+- ⏳ 1-1 · @4.65
+
+**18:00 · Port Vale – Accrington**
+
+- ⏳ 1-0 · @5.31
+
+**18:00 · Carlisle – Boston United**
+
+- ⏳ 2-1 · @6.67
+
+**18:00 · MK Dons – Burton Albion**
+
+- ⏳ 2-1 · @6.39
+
+**18:00 · Eastleigh – AFC Fylde**
+
+- ⏳ 1-2 · @6.91
+
+**18:00 · Southend – Aldershot**
+
+- ⏳ 2-1 · @6.73
+
+**18:00 · Stevenage – Mansfield**
+
+- ⏳ 1-1 · @4.62
+
+**18:00 · Swindon Town – Grimsby Town**
+
+- ⏳ 1-2 · @6.85
+
+**18:00 · Yeovil Town – Boreham Wood**
+
+- ⏳ 1-2 · @6.47
+
+**18:00 · Harrogate – Altrincham**
+
+- ⏳ 2-1 · @6.54
+
+**18:00 · Gateshead – Barrow**
+
+- ⏳ 1-2 · @6.33
+
+**18:00 · Crewe Alexandra – Newport**
+
+- ⏳ 1-1 · @4.88
+
+**18:00 · Colchester – Gillingham**
+
+- ⏳ 1-1 · @4.86
+
+**18:00 · Stockport – Reading**
+
+- ⏳ 2-1 · @6.62
+
+**18:00 · Shrewsbury – Oldham**
+
+- ⏳ 1-1 · @4.80
+
+**18:00 · Walsall – Barnet**
+
+- ⏳ 1-2 · @7.17
+
+**18:00 · Wigan Athletic – Barnsley**
+
+- ⏳ 2-1 · @7.32
+
+**18:00 · Wycombe – Huddersfield**
+
+- ⏳ 1-2 · @7.03
+
+**18:00 · P. Thistle – Inverness**
+
+- ⏳ 1-0 · @6.01
+
+**18:00 · Hartlepool – Wealdstone**
+
+- ⏳ 2-1 · @6.86
+
+**18:00 · Sheffield Wednesday – Plymouth**
+
+- ⏳ 2-1 · @7.26
+
+**18:00 · Sutton United – Solihull Moors**
+
+- ⏳ 2-1 · @6.72
+
+**18:00 · Doncaster – Leyton Orient**
+
+- ⏳ 2-1 · @7.29
+
+**18:00 · Bristol Rovers – Chesterfield**
+
+- ⏳ 1-2 · @7.15
+
+**18:00 · Kidderminster Harriers – Halifax Town**
+
+- ⏳ 2-1 · @7.53
+
+**18:00 · Hornchurch – Tamworth**
+
+- ⏳ 2-1 · @7.13
+
+**18:00 · Wimbledon – Blackpool**
+
+- ⏳ 1-2 · @7.48
+
+**18:00 · Scunthorpe – Worthing**
+
+- ⏳ 1-2 · @8.34
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ 2-1 · @8.47
+
+**20:00 · Gürcistan – Macaristan**
+
+- ⏳ 1-1 · @5.05
+
+**20:00 · Norveç – Galler**
+
+- ⏳ 2-1 · @8.07
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ 2-1 · @7.24
+
+**20:30 · Fleetwood – Tranmere**
+
+- ⏳ 2-1 · @6.69
+
+**20:30 · Mallorca – Cordoba**
+
+- ⏳ 2-1 · @7.62
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ 1-0 · @5.35
+
+**22:45 · Portekiz – Danimarka**
+
+- ⏳ 2-1 · @7.29
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ 1-2 · @7.36
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ 2-1 · @7.23
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ 2-1 · @7.23
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ 2-1 · @8.34
+
 ## 13.11.2026 Cuma
+
+**20:00 · Moldova – Kazakistan**
+
+- ⏳ 1-0 · @5.94
 
 **22:30 · Leganes – CF Burgos**
 

@@ -2,15 +2,222 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**349/821 tuttu** (isabet %43, beklenen %41) · -46.59 birim · 51 tahmin sonuç bekliyor
+**349/822 tuttu** (isabet %42, beklenen %41) · -47.59 birim · 109 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**00:30 · Haiti – ABD**
+
+- ⏳ ↳ MS 2 & KG Var · @2.61
 
 ## 14.11.2026 Cumartesi
 
 **02:00 · Saint Martin – El Salvador**
 
 - ⏳ ↳ MS 2 & KG Var · @2.29
+
+**03:00 · Kolombiya – Şili**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.97
+
+**03:00 · Montserrat – Nikaragua**
+
+- ⏳ ↳ MS 2 & KG Var · @2.70
+
+**13:15 · Japonya – Brezilya**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.62
+
+**15:30 · Exeter City – Cheltenham**
+
+- ⏳ ↳ İY/MS 1/1 · @2.69
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.07
+
+**18:00 · East Kilbri – Alloa**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.94
+
+**18:00 · Yeovil Town – Boreham Wood**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.97
+
+**18:00 · Wycombe – Huddersfield**
+
+- ⏳ ↳ MS 2 · @1.95
+
+**18:00 · Airdrieonian – Queen of The South**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.08
+
+**18:00 · Southend – Aldershot**
+
+- ⏳ ↳ MS 1 & KG Var · @2.23
+
+**18:00 · Harrogate – Altrincham**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.18
+
+**18:00 · MK Dons – Burton Albion**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.15
+
+**18:00 · Rochdale – York City**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.16
+
+**18:00 · Carlisle – Boston United**
+
+- ⏳ ↳ MS 1 & KG Var · @2.24
+
+**18:00 · Livingston – G. Morton**
+
+- ⏳ ↳ MS 1 & KG Var · @2.50
+
+**18:00 · Eastleigh – AFC Fylde**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.30
+
+**18:00 · Salford City – Northampton**
+
+- ⏳ ↳ İY/MS 1/1 · @2.12
+
+**18:00 · Stockport – Reading**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.37
+
+**18:00 · Dumbarton – Annan Athletic**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.43
+
+**18:00 · Stirling Alb – Elgin City**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.49
+
+**18:00 · Sutton United – Solihull Moors**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.55
+
+**18:00 · Gateshead – Barrow**
+
+- ⏳ ↳ MS 2 & KG Var · @2.79
+
+**18:00 · Swindon Town – Grimsby Town**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.58
+
+**18:00 · Scunthorpe – Worthing**
+
+- ⏳ ↳ MS 2 · @2.51
+
+**18:00 · Hartlepool – Wealdstone**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.68
+
+**18:00 · Forfar – Spartans Edinburgh FC**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.66
+
+**18:00 · Stenhousemuir – Queen's Park**
+
+- ⏳ ↳ İY/MS 1/1 · @2.60
+
+**18:00 · Sheffield Wednesday – Plymouth**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.84
+
+**18:00 · Wigan Athletic – Barnsley**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.91
+
+**18:00 · Kelty Hearts – Stranraer**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.94
+
+**18:00 · Walsall – Barnet**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.93
+
+**18:00 · Hornchurch – Tamworth**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.97
+
+**18:00 · Bristol Rovers – Chesterfield**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.10
+
+**18:00 · Edinburgh – Clyde Bank**
+
+- ⏳ ↳ MS 2 & KG Var · @3.36
+
+**18:00 · Cove Rangers – Montrose**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
+
+**18:00 · Doncaster – Leyton Orient**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.21
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ ↳ MS 1 · @2.24
+
+**20:00 · Norveç – Galler**
+
+- ⏳ ↳ MS 1 & KG Var · @2.43
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.10
+
+**20:30 · Hamilton – Ross County**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.32
+
+**20:30 · Mallorca – Cordoba**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+
+**20:30 · Fleetwood – Tranmere**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
+
+**22:00 · Cezayir – Togo**
+
+- ⏳ ↳ MS 1 & KG Var · @3.16
+
+**22:00 · Angola – Güney Sudan**
+
+- ⏳ ↳ MS 1 & KG Var · @3.58
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.93
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.25
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.51
+
+**22:45 · Portekiz – Danimarka**
+
+- ⏳ ↳ MS 1 & KG Var · @2.60
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.77
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ ↳ MS 1 · @2.17
+- ⏳ ↳ Korner 8.5 Alt · @2.09
 
 ## 13.11.2026 Cuma
 
@@ -28,7 +235,11 @@
 
 **16:00 · Mozambik – Etiyopya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.57
+- ❌ ↳ MS 1 & 2.5 Üst · @2.57 · 0-1
+
+**16:00 · Zambiya – Burundi**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.86
 
 **17:10 · Birleşik Arap Emirlikleri – Honduras**
 
@@ -46,6 +257,18 @@
 
 - ⏳ ↳ MS 1 & KG Var · @2.96
 
+**19:00 · Gabon – Lesotho**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.77
+
+**19:00 · Yeşil Burun Adaları – Liberya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.81
+
+**19:00 · Tunus – Libya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.26
+
 **22:00 · Porto Riko – Dominika**
 
 - ⏳ ↳ MS 1 & KG Var · @2.14
@@ -61,6 +284,7 @@
 **22:45 · Slovakya – Faroe Adaları**
 
 - ⏳ ↳ İY/MS 1/1 · @1.73
+- ⏳ ↳ Korner 9.5 Üst · @1.71
 
 **22:45 · Hollanda – Yunanistan**
 
@@ -86,9 +310,17 @@
 
 - ⏳ ↳ İY/MS 2/2 · @2.59
 
+**22:45 · Lihtenştayn – Azerbaycan**
+
+- ⏳ ↳ Korner 8.5 Alt · @1.78
+
 **23:00 · Grenada – ST Kitts ve Nevis**
 
 - ⏳ ↳ MS 2 & KG Var · @2.81
+
+**23:00 · Fas – Nijer**
+
+- ⏳ KG Var · @2.69
 
 ## 12.11.2026 Perşembe
 

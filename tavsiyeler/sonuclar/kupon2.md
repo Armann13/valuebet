@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 3 tahmin sonuç bekliyor
+**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 14:13 gönderilen kupon · 2 maç, oran 4,79
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.37
+- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.02
 
 ## 12.11 14:30 gönderilen kupon · 2 maç, oran 5,48
 

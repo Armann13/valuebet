@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/85 tuttu** (isabet %39, beklenen %37) · +4.99 birim · 3 tahmin sonuç bekliyor
+**33/85 tuttu** (isabet %39, beklenen %37) · +4.99 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 14:13 gönderilen kupon · 4 maç, oran 49,55
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 13.11 19:00 Gabon – Lesotho · MS 1 & KG Var · @3.47
+- ⏳ 13.11 22:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.40
+- ⏳ 14.11 02:00 Saint Martin – El Salvador · MS 2 & KG Var · @2.38
+- ⏳ 14.11 18:00 Livingston – G. Morton · MS 1 & KG Var · @2.50
 
 ## 12.11 18:42 gönderilen kupon · 4 maç, oran 84,16
 

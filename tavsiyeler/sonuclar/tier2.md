@@ -2,15 +2,289 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**586/1009 tuttu** (isabet %58, beklenen %59) · -98.00 birim · 61 tahmin sonuç bekliyor
+**586/1010 tuttu** (isabet %58, beklenen %59) · -99.00 birim · 146 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**00:30 · Haiti – ABD**
+
+- ⏳ KG Var · @1.75
 
 ## 14.11.2026 Cumartesi
 
 **02:00 · Arjantin – Uruguay**
 
 - ⏳ KG Yok · @1.50
+
+**03:00 · Montserrat – Nikaragua**
+
+- ⏳ 2.5 Üst · @1.45
+
+**03:00 · Ekvador – Kosta Rika**
+
+- ⏳ 2.5 Üst · @1.52
+
+**03:00 · Kolombiya – Şili**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.49
+
+**04:00 · Peru – Bolivya**
+
+- ⏳ KG Yok · @1.47
+
+**05:00 · Guatemala – Kanada**
+
+- ⏳ KG Yok · @1.62
+
+**13:15 · Japonya – Brezilya**
+
+- ⏳ MS 2 · @1.78
+- ⏳ En çok korner 2 · @1.58
+
+**15:00 · Tayvan – Kırgızistan**
+
+- ⏳ KG Yok · @1.59
+
+**15:30 · Exeter City – Cheltenham**
+
+- ⏳ MS 1 · @1.71
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ 2.5 Üst · @1.57
+- ⏳ En çok korner 1 · @2.02
+
+**18:00 · Salford City – Northampton**
+
+- ⏳ MS 1 · @1.42
+
+**18:00 · East Kilbri – Alloa**
+
+- ⏳ MS 1 · @1.43
+
+**18:00 · Sheffield Wednesday – Plymouth**
+
+- ⏳ 2.5 Üst · @1.40
+
+**18:00 · Wigan Athletic – Barnsley**
+
+- ⏳ 2.5 Üst · @1.41
+
+**18:00 · Stirling Alb – Elgin City**
+
+- ⏳ 2.5 Üst · @1.41
+
+**18:00 · Yeovil Town – Boreham Wood**
+
+- ⏳ MS 2 · @1.48
+
+**18:00 · Airdrieonian – Queen of The South**
+
+- ⏳ MS 1 · @1.48
+
+**18:00 · Swindon Town – Grimsby Town**
+
+- ⏳ 2.5 Üst · @1.43
+
+**18:00 · MK Dons – Burton Albion**
+
+- ⏳ MS 1 · @1.49
+
+**18:00 · Edinburgh – Clyde Bank**
+
+- ⏳ KG Var · @1.44
+
+**18:00 · Walsall – Barnet**
+
+- ⏳ 2.5 Üst · @1.45
+
+**18:00 · Kelty Hearts – Stranraer**
+
+- ⏳ 2.5 Üst · @1.46
+
+**18:00 · Ayr United – Raith Rovers**
+
+- ⏳ 2.5 Alt · @1.47
+
+**18:00 · Hartlepool – Wealdstone**
+
+- ⏳ 2.5 Üst · @1.47
+
+**18:00 · Southend – Aldershot**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.59
+
+**18:00 · Livingston – G. Morton**
+
+- ⏳ MS 1 & 2.5 Üst · @1.56
+
+**18:00 · Hornchurch – Tamworth**
+
+- ⏳ 2.5 Üst · @1.48
+
+**18:00 · Rochdale – York City**
+
+- ⏳ MS 2 · @1.55
+
+**18:00 · Carlisle – Boston United**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.64
+
+**18:00 · Harrogate – Altrincham**
+
+- ⏳ MS 1 · @1.59
+
+**18:00 · Gateshead – Barrow**
+
+- ⏳ KG Var · @1.57
+
+**18:00 · Scunthorpe – Worthing**
+
+- ⏳ ÇŞ X-2 · @1.43
+
+**18:00 · Bristol Rovers – Chesterfield**
+
+- ⏳ 2.5 Üst · @1.56
+
+**18:00 · Stevenage – Mansfield**
+
+- ⏳ 2.5 Alt · @1.57
+
+**18:00 · Stenhousemuir – Queen's Park**
+
+- ⏳ MS 1 · @1.66
+
+**18:00 · Doncaster – Leyton Orient**
+
+- ⏳ 2.5 Üst · @1.58
+
+**18:00 · Wimbledon – Blackpool**
+
+- ⏳ 2.5 Üst · @1.58
+
+**18:00 · Stockport – Reading**
+
+- ⏳ MS 1 · @1.67
+
+**18:00 · Kidderminster Harriers – Halifax Town**
+
+- ⏳ 2.5 Üst · @1.59
+
+**18:00 · Port Vale – Accrington**
+
+- ⏳ KG Yok · @1.67
+
+**18:00 · Dumbarton – Annan Athletic**
+
+- ⏳ MS 1 · @1.71
+
+**18:00 · Colchester – Gillingham**
+
+- ⏳ 2.5 Alt · @1.63
+
+**18:00 · Cove Rangers – Montrose**
+
+- ⏳ 2.5 Üst · @1.64
+
+**18:00 · Crewe Alexandra – Newport**
+
+- ⏳ 2.5 Alt · @1.65
+
+**18:00 · Shrewsbury – Oldham**
+
+- ⏳ 2.5 Alt · @1.65
+
+**18:00 · Eastleigh – AFC Fylde**
+
+- ⏳ MS 2 · @1.75
+
+**18:00 · Forfar – Spartans Edinburgh FC**
+
+- ⏳ MS 2 · @1.76
+
+**18:00 · Sutton United – Solihull Moors**
+
+- ⏳ MS 1 · @1.76
+
+**18:00 · East Fife – Peterhead**
+
+- ⏳ 2.5 Üst · @1.66
+
+**18:00 · P. Thistle – Inverness**
+
+- ⏳ KG Yok · @1.81
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.41
+
+**19:00 · Uganda – Botsvana**
+
+- ⏳ 2.5 Alt · @1.40
+
+**20:00 · Norveç – Galler**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.46
+
+**20:00 · Gürcistan – Macaristan**
+
+- ⏳ 2.5 Alt · @1.41
+- ⏳ ↳ Korner 9.5 Alt · @1.40
+
+**20:30 · Almeria – FC Andorra**
+
+- ⏳ MS 1 · @1.49
+- ⏳ ↳ Korner 10.5 Alt · @1.47
+
+**20:30 · Hamilton – Ross County**
+
+- ⏳ MS 2 · @1.60
+
+**20:30 · Mallorca – Cordoba**
+
+- ⏳ MS 1 · @1.79
+- ⏳ En çok korner 2 · @2.26
+
+**20:30 · Fleetwood – Tranmere**
+
+- ⏳ MS 1 · @1.75
+
+**22:00 · Angola – Güney Sudan**
+
+- ⏳ 2.5 Üst · @1.45
+
+**22:00 · Cezayir – Togo**
+
+- ⏳ MS 1 & 2.5 Üst · @1.64
+
+**22:45 · Avusturya – İrlanda**
+
+- ⏳ MS 1 · @1.44
+- ⏳ ↳ Korner 9.5 Alt · @1.40
+
+**22:45 · İsveç – Bosna Hersek**
+
+- ⏳ 2.5 Üst · @1.45
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ KG Yok · @1.52
+- ⏳ Korner 7.5 Üst · @1.42
+
+**22:45 · Romanya – Polonya**
+
+- ⏳ MS 2 · @1.67
+- ⏳ ↳ Korner 9.5 Alt · @1.45
+
+**22:45 · Portekiz – Danimarka**
+
+- ⏳ MS 1 & 2.5 Üst · @1.86
+
+**23:00 · Real Oviedo – Girona**
+
+- ⏳ Korner 9.5 Alt · @1.64
 
 ## 13.11.2026 Cuma
 
@@ -24,7 +298,7 @@
 
 **16:00 · Mozambik – Etiyopya**
 
-- ⏳ MS 1 · @1.41
+- ❌ MS 1 · @1.41 · 0-1
 
 **16:00 · Zambiya – Burundi**
 
@@ -33,6 +307,10 @@
 **16:00 · Komorlar – Kongo**
 
 - ⏳ MS 1 · @1.67
+
+**17:10 · Birleşik Arap Emirlikleri – Honduras**
+
+- ⏳ KG Yok · @1.63
 
 **17:30 · Suudi Arabistan – Güney Kore**
 
@@ -45,10 +323,12 @@
 **19:00 · Burkina Faso – Moritanya**
 
 - ⏳ MS 1 · @1.40
+- ⏳ 2.5 Alt · @1.41
 
 **19:00 · Nijerya – Tanzanya**
 
 - ⏳ 2.5 Üst · @1.41
+- ⏳ MS 1 & 2.5 Üst · @1.62
 
 **19:00 · Güney Afrika – Kenya**
 
@@ -57,6 +337,7 @@
 **19:00 · Yeşil Burun Adaları – Liberya**
 
 - ⏳ 2.5 Alt · @1.56
+- ⏳ 2.5 Üst · @1.66
 
 **19:00 · Tunus – Libya**
 
@@ -65,10 +346,13 @@
 **19:00 · Gabon – Lesotho**
 
 - ⏳ 2.5 Alt · @1.66
+- ⏳ 2.5 Üst · @1.66
 
 **20:00 · Moldova – Kazakistan**
 
 - ⏳ 2.5 Alt · @1.41
+- ⏳ KG Yok · @1.59
+- ⏳ En çok korner 1 · @1.72
 
 **22:00 · Mısır – Malavi**
 
@@ -111,6 +395,20 @@
 **22:45 · Bulgaristan – İzlanda**
 
 - ⏳ MS 2 · @1.69
+- ⏳ ↳ Korner 8.5 Üst · @1.55
+
+**22:45 · Lihtenştayn – Azerbaycan**
+
+- ⏳ 2.5 Alt · @1.52
+- ⏳ Korner 9.5 Alt · @1.44
+
+**22:45 · Slovakya – Faroe Adaları**
+
+- ⏳ Korner 8.5 Üst · @1.40
+
+**22:45 · Lüksemburg – Estonya**
+
+- ⏳ En çok korner 1 · @1.66
 
 **23:00 · Grenada – ST Kitts ve Nevis**
 
