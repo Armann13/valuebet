@@ -6973,3 +6973,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-13 14:13,2026-11-13,13.11,MILLI,Scotland,North Macedonia,İskoçya – Kuzey Makedonya,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.04683225551495257,27.5,0.2878870266611957,oran,,,,2026-11-13 22:45,,,,,,
 2026-11-13 14:13,2026-11-14,14.11,SC1,Livingston,Morton,Livingston – G. Morton,SC1,🎲 Çılgın kupon,İY/MS 2/1,0.05379391150027625,21.85,0.17539696628103618,oran,,,,2026-11-14 18:00,,,,,,
 2026-11-13 14:13,2026-11-14,14.11,E3,Rochdale,York,Rochdale – York City,E3,🎲 Çılgın kupon,İY/MS 1/2,0.053867423478783455,21.3,0.14737612009808765,oran,,,,2026-11-14 18:00,,,,,,
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7029679648751623,1.25,-0.12129004390604714,oran,False,,,2026-11-13 20:00,,,,,,kadro
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🔴 Tier 3 — Yüksek risk,MS 1,0.4174975800841932,2.13,-0.11073015442066858,oran,True,,,2026-11-13 20:00,,,,,,kadro
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.22796184166053216,3.44,-0.21581126468776934,oran,True,,,2026-11-13 20:00,,,,,,kadro
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🟢 Tier 1 — Düşük risk,Korner 7.5 Üst,0.7019985912989627,1.29,-0.09442181722433807,oran,False,,,2026-11-13 20:00,,,,,,kadro
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5473690323225989,1.57,-0.1406306192535196,oran,True,,,2026-11-13 20:00,,,,,,kadro
+2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.13366559101824285,6.01,-0.19666979798036044,oran,,,,2026-11-13 20:00,,,,,,kadro
