@@ -6980,3 +6980,11 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,🟡 Tier 2 — Orta risk,Korner 8.5 Üst,0.5473690323225989,1.57,-0.1406306192535196,oran,True,,,2026-11-13 20:00,,,,,,kadro
 2026-11-13 19:08,2026-11-13,13.11,MILLI,Moldova,Kazakhstan,Moldova – Kazakistan,UEFA Uluslar Ligi,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.13366559101824285,6.01,-0.19666979798036044,oran,,,,2026-11-13 20:00,,,,,,kadro
 2026-11-13 21:23,2026-11-13,13.11,MILLI,Mali,Rwanda,Mali – Ruanda,Afrika Uluslar Kup.,🟡 Tier 2 — Orta risk,2.5 Alt,0.5846737392591445,1.48,-0.13468286589646616,oran,False,,,2026-11-13 22:00,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,MILLI,Egypt,Malawi,Mısır – Malavi,Afrika Uluslar Kup.,🟡 Tier 2 — Orta risk,2.5 Üst,0.6047380228267349,1.44,-0.12917724712950174,model,False,,,2026-11-13 22:00,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,MILLI,Egypt,Malawi,Mısır – Malavi,Afrika Uluslar Kup.,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.25397325152686734,3.68,-0.06537843438112811,model,True,,,2026-11-13 22:00,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7034033783845304,1.25,-0.12074577701933698,oran,False,,,2026-11-13 22:30,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,🔴 Tier 3 — Yüksek risk,MS 1,0.4103648663292203,2.16,-0.11361188872888406,oran,True,,,2026-11-13 22:30,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.22290993898267858,3.56,-0.2064406172216643,oran,True,,,2026-11-13 22:30,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7010576989709845,1.28,-0.10264614531713989,korner,False,,,2026-11-13 22:30,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6040600560644818,1.52,-0.08182871478198772,korner,True,,,2026-11-13 22:30,,,,,,kadro
+2026-11-13 21:35,2026-11-13,13.11,SP2,Leganes,Burgos,Leganes – CF Burgos,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.14852904381268203,5.62,-0.16526677377272692,oran,,,,2026-11-13 22:30,,,,,,kadro
