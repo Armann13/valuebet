@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 12.11.2026 21:59. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 13.11.2026 01:57. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,9 +8,9 @@ Son güncelleme: 12.11.2026 21:59. Telegram mesajına giren tahminler (ilk gönd
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| [🟢 Tier 1](sonuclar/tier1.md) | 703 | 644 | 462 | %72 | %74 | -73.53 | %-11 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 1070 | 1007 | 585 | %58 | %59 | -97.53 | %-10 |
-| [🔴 Tier 3](sonuclar/tier3.md) | 872 | 818 | 348 | %43 | %41 | -46.13 | %-6 |
+| [🟢 Tier 1](sonuclar/tier1.md) | 703 | 646 | 463 | %72 | %74 | -74.33 | %-12 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 1070 | 1008 | 585 | %58 | %59 | -98.53 | %-10 |
+| [🔴 Tier 3](sonuclar/tier3.md) | 872 | 820 | 349 | %43 | %41 | -45.59 | %-6 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 602 | 570 | 168 | %29 | %29 | -48.01 | %-8 |
 | [⚡ Tier 5](sonuclar/tier5.md) | 95 | 89 | 16 | %18 | %16 | -0.12 | %-0 |
 | [🔥 Tier 6](sonuclar/tier6.md) | 890 | 848 | 87 | %10 | %11 | -211.32 | %-25 |
@@ -19,7 +19,7 @@ Son güncelleme: 12.11.2026 21:59. Telegram mesajına giren tahminler (ilk gönd
 | [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 50 | 50 | 31 | %62 | %58 | +1.55 | %3 |
 | [2️⃣ 2'li kupon ayakları](sonuclar/kupon2.md) | 40 | 37 | 14 | %38 | %50 | -7.90 | %-21 |
 | [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 66 | 64 | 19 | %30 | %39 | -12.12 | %-19 |
-| [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 88 | 84 | 33 | %39 | %37 | +5.99 | %7 |
+| [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 88 | 85 | 33 | %39 | %37 | +4.99 | %6 |
 | [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 154 | 119 | 17 | %14 | %13 | +206.31 | %173 |
 | [💎 💎 Değerli](sonuclar/degerli.md) | 98 | 98 | 37 | %38 | %42 | -11.67 | %-12 |
 
@@ -75,12 +75,12 @@ Her gönderilen kupon bir bütün olarak, önerilen n'de k ile (kolon başına 1
 
 ## [📋 Kadro öncesi / sonrası](sonuclar/kadro.md)
 
-Kadro güncellemesi gelen 335 maçta (Tier 1-4) ilk verilen tahmin ile kadrolar açıklandıktan sonraki tahmin. Maç maç ayrıntı için başlığa tıkla.
+Kadro güncellemesi gelen 336 maçta (Tier 1-4) ilk verilen tahmin ile kadrolar açıklandıktan sonraki tahmin. Maç maç ayrıntı için başlığa tıkla.
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1556 | 1550 | 795 | -119.68 |
-| sonra | 1308 | 1304 | 654 | -128.84 |
+| önce | 1559 | 1553 | 797 | -118.94 |
+| sonra | 1310 | 1306 | 656 | -127.08 |
 
 Değişen tahmin: 332 (329 sonuçlandı: eski 246, yeni 188 tuttu).
 
@@ -274,5 +274,5 @@ Değişen tahmin: 332 (329 sonuçlandı: eski 246, yeni 188 tuttu).
 | 08.11.2026 | 410 | 396 | 185 | %47 | %42 | +68.72 |
 | 09.11.2026 | 11 | 11 | 3 | %27 | %41 | -7.10 |
 | 11.11.2026 | 1 | 1 | 1 | %100 | %59 | +0.66 |
-| 12.11.2026 | 119 | 101 | 61 | %60 | %46 | +42.43 |
+| 12.11.2026 | 119 | 107 | 63 | %59 | %46 | +40.17 |
 | 13.11.2026 | 90 | 0 | 0 | — | — | — |

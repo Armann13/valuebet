@@ -6,12 +6,20 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1556 | 1550 | 795 | -119.68 |
-| sonra | 1308 | 1304 | 654 | -128.84 |
+| önce | 1559 | 1553 | 797 | -118.94 |
+| sonra | 1310 | 1306 | 656 | -127.08 |
 
 Değişen tahmin: 332 (329 sonuçlandı: eski 246, yeni 188 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 12.11 · Antigua & Barbuda – Trinidad ve Tobago
+
+Kadro mesajı: 13.11 01:25
+
+- 🟢 Tier 1: ✅ MS 2 @1.20 → ✅ MS 2 @1.23 (aynı)
+- 🟡 Tier 2: ❌ KG Yok @1.58 → — (kalktı)
+- 🔴 Tier 3: ✅ MS 2 & KG Var @2.54 → ✅ MS 2 & KG Var @2.53 (aynı)
 
 ## 12.11 · Bonaire – Küba
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**348/818 tuttu** (isabet %43, beklenen %41) · -46.13 birim · 54 tahmin sonuç bekliyor
+**349/820 tuttu** (isabet %43, beklenen %41) · -45.59 birim · 52 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **01:00 · Aruba – Martinik**
 
-- ⏳ ↳ MS 2 & KG Var · @2.55
+- ❌ ↳ MS 2 & KG Var · @2.55 · 0-0
 
 **02:00 · Antigua & Barbuda – Trinidad ve Tobago**
 
-- ⏳ ↳ MS 2 & KG Var · @2.54
+- ✅ ↳ MS 2 & KG Var · @2.54 · 2-3
 
 **03:30 · Curaçao – Panama**
 
