@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**659/1203 tuttu** (isabet %55, beklenen %59) · -162.54 birim · 86 tahmin sonuç bekliyor
+**659/1204 tuttu** (isabet %55, beklenen %59) · -163.54 birim · 85 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -78,7 +78,7 @@
 
 **20:00 · Moldova – Kazakistan**
 
-- ⏳ 🟡 En çok korner 1 · @1.72
+- ❌ 🟡 En çok korner 1 · @1.72 · korner 2-3
 
 **22:30 · Leganes – CF Burgos**
 

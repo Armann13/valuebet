@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**586/1010 tuttu** (isabet %58, beklenen %59) · -99.00 birim · 146 tahmin sonuç bekliyor
+**594/1028 tuttu** (isabet %58, beklenen %59) · -104.60 birim · 128 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -302,57 +302,57 @@
 
 **16:00 · Zambiya – Burundi**
 
-- ⏳ MS 1 · @1.51
+- ❌ MS 1 · @1.51 · 1-1
 
 **16:00 · Komorlar – Kongo**
 
-- ⏳ MS 1 · @1.67
+- ❌ MS 1 · @1.67 · 0-0
 
 **17:10 · Birleşik Arap Emirlikleri – Honduras**
 
-- ⏳ KG Yok · @1.63
+- ❌ KG Yok · @1.63 · 3-1
 
 **17:30 · Suudi Arabistan – Güney Kore**
 
-- ⏳ MS 2 · @1.66
+- ❌ MS 2 · @1.66 · 3-2
 
 **17:45 · Katar – Avustralya**
 
-- ⏳ KG Yok · @1.66
+- ✅ KG Yok · @1.66 · 0-3
 
 **19:00 · Burkina Faso – Moritanya**
 
-- ⏳ MS 1 · @1.40
-- ⏳ 2.5 Alt · @1.41
+- ✅ MS 1 · @1.40 · 1-0
+- ✅ 2.5 Alt · @1.41 · 1-0
 
 **19:00 · Nijerya – Tanzanya**
 
-- ⏳ 2.5 Üst · @1.41
-- ⏳ MS 1 & 2.5 Üst · @1.62
+- ✅ 2.5 Üst · @1.41 · 3-1
+- ✅ MS 1 & 2.5 Üst · @1.62 · 3-1
 
 **19:00 · Güney Afrika – Kenya**
 
-- ⏳ 2.5 Alt · @1.52
+- ❌ 2.5 Alt · @1.52 · 2-2
 
 **19:00 · Yeşil Burun Adaları – Liberya**
 
-- ⏳ 2.5 Alt · @1.56
-- ⏳ 2.5 Üst · @1.66
+- ❌ 2.5 Alt · @1.56 · 4-2
+- ✅ 2.5 Üst · @1.66 · 4-2
 
 **19:00 · Tunus – Libya**
 
-- ⏳ 2.5 Alt · @1.58
+- ✅ 2.5 Alt · @1.58 · 0-2
 
 **19:00 · Gabon – Lesotho**
 
-- ⏳ 2.5 Alt · @1.66
-- ⏳ 2.5 Üst · @1.66
+- ✅ 2.5 Alt · @1.66 · 2-0
+- ❌ 2.5 Üst · @1.66 · 2-0
 
 **20:00 · Moldova – Kazakistan**
 
-- ⏳ 2.5 Alt · @1.41
-- ⏳ KG Yok · @1.59
-- ⏳ En çok korner 1 · @1.72
+- ❌ 2.5 Alt · @1.41 · 2-1
+- ❌ KG Yok · @1.59 · 2-1
+- ❌ En çok korner 1 · @1.72 · korner 2-3
 
 **22:00 · Mısır – Malavi**
 

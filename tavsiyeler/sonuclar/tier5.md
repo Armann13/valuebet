@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/89 tuttu** (isabet %18, beklenen %16) · -0.12 birim · 7 tahmin sonuç bekliyor
+**16/90 tuttu** (isabet %18, beklenen %16) · -1.12 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **20:00 · Moldova – Kazakistan**
 
-- ⏳ 1-1 · @4.91
+- ❌ 1-1 · @4.91 · 2-1
 
 **22:45 · Andorra – Cebelitarık**
 

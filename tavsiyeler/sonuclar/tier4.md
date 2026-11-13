@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**168/572 tuttu** (isabet %29, beklenen %28) · -50.01 birim · 72 tahmin sonuç bekliyor
+**169/578 tuttu** (isabet %29, beklenen %28) · -52.59 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -176,27 +176,27 @@
 
 **16:00 · Zambiya – Burundi**
 
-- ⏳ ↳ MS 1 & KG Var · @4.23
+- ❌ ↳ MS 1 & KG Var · @4.23 · 1-1
 
 **17:30 · Suudi Arabistan – Güney Kore**
 
-- ⏳ ↳ MS 2 & KG Var · @4.03
+- ❌ ↳ MS 2 & KG Var · @4.03 · 3-2
 
 **19:00 · Burkina Faso – Moritanya**
 
-- ⏳ ↳ MS 1 & KG Var · @4.14
+- ❌ ↳ MS 1 & KG Var · @4.14 · 1-0
 
 **19:00 · Gabon – Lesotho**
 
-- ⏳ ↳ MS 1 & KG Var · @3.47
+- ❌ ↳ MS 1 & KG Var · @3.47 · 2-0
 
 **19:00 · Yeşil Burun Adaları – Liberya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.42
+- ✅ ↳ MS 1 & KG Var · @3.42 · 4-2
 
 **19:00 · Tunus – Libya**
 
-- ⏳ ↳ MS 1 & KG Var · @4.05
+- ❌ ↳ MS 1 & KG Var · @4.05 · 0-2
 
 **22:30 · Leganes – CF Burgos**
 

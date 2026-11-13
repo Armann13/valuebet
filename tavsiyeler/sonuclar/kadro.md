@@ -6,12 +6,122 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1559 | 1553 | 797 | -118.94 |
-| sonra | 1310 | 1306 | 656 | -127.08 |
+| önce | 1608 | 1556 | 797 | -121.94 |
+| sonra | 1357 | 1310 | 658 | -127.70 |
 
-Değişen tahmin: 332 (329 sonuçlandı: eski 246, yeni 188 tuttu).
+Değişen tahmin: 342 (330 sonuçlandı: eski 246, yeni 188 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 13.11 · Fas – Nijer
+
+Kadro mesajı: 13.11 22:35
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.27 → — (kalktı)
+- 🔴 Tier 3: ⏳ KG Var @2.69 → ⏳ KG Var @3.12 (aynı)
+
+## 13.11 · Lihtenştayn – Azerbaycan
+
+Kadro mesajı: 13.11 22:02
+
+- 🟢 Tier 1: ⏳ KG Yok @1.25 → — (kalktı)
+- 🟡 Tier 2: ⏳ 2.5 Alt @1.52, ⏳ Korner 9.5 Alt @1.44 → ⏳ 2.5 Alt @1.44, ⏳ Korner 8.5 Alt @1.67 (değişti)
+- 🔴 Tier 3: ⏳ Korner 8.5 Alt @1.78 → ⏳ Korner 7.5 Alt @2.17 (değişti)
+
+## 13.11 · Lüksemburg – Estonya
+
+Kadro mesajı: 13.11 22:02
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.25, ⏳ ÇŞ 1-X @1.24 → — (kalktı)
+- 🟡 Tier 2: ⏳ En çok korner 1 @1.66 → ⏳ KG Yok @1.57, ⏳ En çok korner 1 @1.67 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 @2.00 → — (kalktı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.24 → — (kalktı)
+
+## 13.11 · İskoçya – Kuzey Makedonya
+
+Kadro mesajı: 13.11 22:02
+
+- 🟢 Tier 1: ⏳ Korner 7.5 Üst @1.20 → — (kalktı)
+- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.62, ⏳ Korner 8.5 Üst @1.41 → ⏳ MS 1 & 2.5 Üst @1.52, ⏳ Korner 8.5 Üst @1.41 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @3.28 → ⏳ MS 1 & KG Var @2.95, ⏳ Korner 9.5 Üst @1.73 (değişti)
+
+## 13.11 · Andorra – Cebelitarık
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ 2.5 Alt @1.23, ⏳ En çok korner 1 @1.26 → ⏳ 2.5 Alt @1.20, ⏳ En çok korner 1 @1.25 (aynı)
+
+## 13.11 · Bulgaristan – İzlanda
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ Korner 7.5 Üst @1.28 → ⏳ Korner 7.5 Üst @1.27 (aynı)
+- 🟡 Tier 2: ⏳ MS 2 @1.69, ⏳ Korner 8.5 Üst @1.55 → ⏳ MS 2 @1.57, ⏳ Korner 8.5 Üst @1.54 (aynı)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.59 → ⏳ İY/MS 2/2 @2.33 (aynı)
+
+## 13.11 · Hollanda – Yunanistan
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ En çok korner 1 @1.27 → ⏳ En çok korner 1 @1.25 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.41 → ⏳ MS 1 @1.40 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.00 → ⏳ MS 1 & 2.5 Üst @1.88 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.83 → ⏳ MS 1 & KG Var @2.60 (aynı)
+
+## 13.11 · Slovakya – Faroe Adaları
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ MS 1 @1.24 → ⏳ MS 1 @1.27 (aynı)
+- 🟡 Tier 2: ⏳ Korner 8.5 Üst @1.40 → ⏳ Korner 9.5 Alt @1.66 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 1/1 @1.73, ⏳ Korner 9.5 Üst @1.71 → ⏳ İY/MS 1/1 @1.79, ⏳ Korner 8.5 Alt @2.12 (değişti)
+
+## 13.11 · Slovenya – İsviçre
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ En çok korner 2 @1.32, ⏳ ÇŞ 1-2 @1.21 → ⏳ ÇŞ 1-2 @1.21 (değişti)
+- 🟡 Tier 2: ⏳ MS 2 @1.53 → ⏳ MS 2 @1.58, ⏳ Korner 8.5 Alt @1.67 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.27 → ⏳ İY/MS 2/2 @2.37, ⏳ Korner 7.5 Alt @2.18 (değişti)
+
+## 13.11 · Sırbistan – Almanya
+
+Kadro mesajı: 13.11 21:49
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.30, ⏳ Korner 7.5 Üst @1.25 → ⏳ 2.5 Üst @1.29, ⏳ Korner 7.5 Üst @1.22 (aynı)
+- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.50, ⏳ Korner 8.5 Üst @1.49 → ⏳ MS 2 & 2.5 Üst @1.42, ⏳ Korner 8.5 Üst @1.45 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.34 → ⏳ MS 2 & KG Var @2.43 (aynı)
+
+## 13.11 · Leganes – CF Burgos
+
+Kadro mesajı: 13.11 21:35
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.24, ⏳ Korner 10.5 Alt @1.29 → ⏳ ÇŞ 1-2 @1.25, ⏳ Korner 10.5 Alt @1.28 (aynı)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.53 → ⏳ Korner 9.5 Alt @1.52 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 @2.12 → ⏳ MS 1 @2.16 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.42 → ⏳ İY/MS 1/1 @3.56 (aynı)
+
+## 13.11 · Mısır – Malavi
+
+Kadro mesajı: 13.11 21:35
+
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.44 → ⏳ 2.5 Üst @1.44 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @3.71 → ⏳ MS 1 & KG Var @3.68 (aynı)
+
+## 13.11 · Mali – Ruanda
+
+Kadro mesajı: 13.11 21:23
+
+- 🟡 Tier 2: ⏳ 2.5 Alt @1.61 → ⏳ 2.5 Alt @1.48 (aynı)
+
+## 13.11 · Moldova – Kazakistan
+
+Kadro mesajı: 13.11 19:08
+
+- 🟢 Tier 1: — → ✅ ÇŞ 1-2 @1.25, ❌ Korner 7.5 Üst @1.29 (yeni)
+- 🟡 Tier 2: ❌ 2.5 Alt @1.41, ❌ KG Yok @1.59, ❌ En çok korner 1 @1.72 → ❌ Korner 8.5 Üst @1.57 (değişti)
+- 🔴 Tier 3: — → ✅ MS 1 @2.13 (yeni)
+- 🟣 Tier 4: — → ⏳ İY/MS 1/1 @3.44 (yeni)
 
 ## 12.11 · Antigua & Barbuda – Trinidad ve Tobago
 

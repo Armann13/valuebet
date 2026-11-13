@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**349/822 tuttu** (isabet %42, beklenen %41) · -47.59 birim · 109 tahmin sonuç bekliyor
+**352/830 tuttu** (isabet %42, beklenen %41) · -48.90 birim · 101 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -239,35 +239,35 @@
 
 **16:00 · Zambiya – Burundi**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.86
+- ❌ ↳ MS 1 & 2.5 Üst · @2.86 · 1-1
 
 **17:10 · Birleşik Arap Emirlikleri – Honduras**
 
-- ⏳ MS 1 · @1.92
+- ✅ MS 1 · @1.92 · 3-1
 
 **17:30 · Suudi Arabistan – Güney Kore**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.93
+- ❌ ↳ MS 2 & 2.5 Üst · @2.93 · 3-2
 
 **19:00 · Burkina Faso – Moritanya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.60
+- ❌ ↳ MS 1 & 2.5 Üst · @2.60 · 1-0
 
 **19:00 · Nijerya – Tanzanya**
 
-- ⏳ ↳ MS 1 & KG Var · @2.96
+- ✅ ↳ MS 1 & KG Var · @2.96 · 3-1
 
 **19:00 · Gabon – Lesotho**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.77
+- ❌ ↳ MS 1 & 2.5 Üst · @1.77 · 2-0
 
 **19:00 · Yeşil Burun Adaları – Liberya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.81
+- ✅ ↳ MS 1 & 2.5 Üst · @1.81 · 4-2
 
 **19:00 · Tunus – Libya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.26
+- ❌ ↳ MS 1 & 2.5 Üst · @2.26 · 0-2
 
 **22:00 · Porto Riko – Dominika**
 

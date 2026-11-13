@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**463/648 tuttu** (isabet %71, beklenen %74) · -76.33 birim · 79 tahmin sonuç bekliyor
+**463/650 tuttu** (isabet %71, beklenen %74) · -78.33 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -92,11 +92,11 @@
 
 **16:00 · Komorlar – Kongo**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 0-0
 
 **19:00 · Tunus – Libya**
 
-- ⏳ MS 1 · @1.23
+- ❌ MS 1 · @1.23 · 0-2
 
 **22:00 · Porto Riko – Dominika**
 
