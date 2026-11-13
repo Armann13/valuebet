@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**463/646 tuttu** (isabet %72, beklenen %74) · -74.33 birim · 57 tahmin sonuç bekliyor
+**463/647 tuttu** (isabet %72, beklenen %74) · -75.33 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **03:30 · Curaçao – Panama**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 0-0
 
 **15:00 · Singapur – Paraguay**
 

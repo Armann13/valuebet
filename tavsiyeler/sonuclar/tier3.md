@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**349/820 tuttu** (isabet %43, beklenen %41) · -45.59 birim · 52 tahmin sonuç bekliyor
+**349/821 tuttu** (isabet %43, beklenen %41) · -46.59 birim · 51 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **03:30 · Curaçao – Panama**
 
-- ⏳ ↳ MS 2 · @2.12
+- ❌ ↳ MS 2 · @2.12 · 0-0
 
 **16:00 · Mozambik – Etiyopya**
 
