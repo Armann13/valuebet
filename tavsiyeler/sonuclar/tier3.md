@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**352/830 tuttu** (isabet %42, beklenen %41) · -48.90 birim · 101 tahmin sonuç bekliyor
+**357/840 tuttu** (isabet %42, beklenen %41) · -47.65 birim · 97 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -25,6 +25,10 @@
 **03:00 · Montserrat – Nikaragua**
 
 - ⏳ ↳ MS 2 & KG Var · @2.70
+
+**05:00 · Guatemala – Kanada**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.96
 
 **13:15 · Japonya – Brezilya**
 
@@ -162,13 +166,29 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.21
 
+**18:00 · P. Thistle – Inverness**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.54
+
+**18:00 · Port Vale – Accrington**
+
+- ⏳ ↳ İY/MS 1/1 · @2.83
+
 **18:15 · Real Sociedad B – S.Gijon**
 
 - ⏳ ↳ MS 1 · @2.24
 
+**19:00 · Uganda – Botsvana**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.65
+
 **20:00 · Norveç – Galler**
 
 - ⏳ ↳ MS 1 & KG Var · @2.43
+
+**20:00 · Gürcistan – Macaristan**
+
+- ⏳ ↳ Korner 7.5 Alt · @2.16
 
 **20:30 · Almeria – FC Andorra**
 
@@ -201,6 +221,7 @@
 **22:45 · Avusturya – İrlanda**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.25
+- ⏳ ↳ Korner 9.5 Üst · @2.12
 
 **22:45 · Romanya – Polonya**
 
@@ -271,28 +292,28 @@
 
 **22:00 · Porto Riko – Dominika**
 
-- ⏳ ↳ MS 1 & KG Var · @2.14
+- ✅ ↳ MS 1 & KG Var · @2.14 · 4-2
 
 **22:00 · Mısır – Malavi**
 
-- ⏳ ↳ MS 1 & KG Var · @3.71
+- ❌ ↳ MS 1 & KG Var · @3.71 · 5-0
 
 **22:30 · Leganes – CF Burgos**
 
-- ⏳ ↳ MS 1 · @2.12
+- ✅ ↳ MS 1 · @2.12 · 3-1
 
 **22:45 · Slovakya – Faroe Adaları**
 
-- ⏳ ↳ İY/MS 1/1 · @1.73
-- ⏳ ↳ Korner 9.5 Üst · @1.71
+- ❌ ↳ İY/MS 1/1 · @1.73
+- ✅ ↳ Korner 9.5 Üst · @1.71 · korner 9-5
 
 **22:45 · Hollanda – Yunanistan**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.00
+- ✅ ↳ MS 1 & 2.5 Üst · @2.00 · 7-0
 
 **22:45 · Lüksemburg – Estonya**
 
-- ⏳ ↳ MS 1 · @2.00
+- ❌ ↳ MS 1 · @2.00 · 0-1
 
 **22:45 · Sırbistan – Almanya**
 
@@ -304,7 +325,7 @@
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.28
+- ✅ ↳ MS 1 & KG Var · @3.28 · 2-1
 
 **22:45 · Bulgaristan – İzlanda**
 
@@ -312,11 +333,11 @@
 
 **22:45 · Lihtenştayn – Azerbaycan**
 
-- ⏳ ↳ Korner 8.5 Alt · @1.78
+- ❌ ↳ Korner 8.5 Alt · @1.78 · korner 1-9
 
 **23:00 · Grenada – ST Kitts ve Nevis**
 
-- ⏳ ↳ MS 2 & KG Var · @2.81
+- ❌ ↳ MS 2 & KG Var · @2.81 · 3-2
 
 **23:00 · Fas – Nijer**
 

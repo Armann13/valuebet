@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**463/650 tuttu** (isabet %71, beklenen %74) · -78.33 birim · 77 tahmin sonuç bekliyor
+**473/663 tuttu** (isabet %71, beklenen %74) · -78.73 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -17,6 +17,10 @@
 
 - ⏳ MS 1 · @1.25
 - ⏳ Korner 7.5 Üst · @1.24
+
+**05:00 · Guatemala – Kanada**
+
+- ⏳ MS 2 · @1.29
 
 **15:00 · Çin – Malezya**
 
@@ -33,6 +37,10 @@
 **18:00 · Wycombe – Huddersfield**
 
 - ⏳ ÇŞ X-2 · @1.20
+
+**18:00 · Filistin – İran**
+
+- ⏳ MS 2 · @1.23
 
 **18:15 · Real Sociedad B – S.Gijon**
 
@@ -100,29 +108,29 @@
 
 **22:00 · Porto Riko – Dominika**
 
-- ⏳ 2.5 Üst · @1.21
+- ✅ 2.5 Üst · @1.21 · 4-2
 
 **22:00 · Bermuda – Saint Lucia**
 
-- ⏳ KG Var · @1.45
+- ✅ KG Var · @1.45 · 1-2
 
 **22:00 · Grenada – ST Kitts ve Nevis**
 
-- ⏳ 2.5 Üst · @1.24
+- ✅ 2.5 Üst · @1.24 · 3-2
 
 **22:30 · Leganes – CF Burgos**
 
-- ⏳ ÇŞ 1-2 · @1.24
-- ⏳ Korner 10.5 Alt · @1.29
+- ✅ ÇŞ 1-2 · @1.24 · 3-1
+- ❌ Korner 10.5 Alt · @1.29 · korner 4-9
 
 **22:45 · Slovakya – Faroe Adaları**
 
-- ⏳ MS 1 · @1.24
+- ❌ MS 1 · @1.24 · 2-2
 
 **22:45 · Andorra – Cebelitarık**
 
-- ⏳ 2.5 Alt · @1.23
-- ⏳ En çok korner 1 · @1.26
+- ✅ 2.5 Alt · @1.23 · 2-0
+- ✅ En çok korner 1 · @1.26 · korner 3-2
 
 **22:45 · Sırbistan – Almanya**
 
@@ -131,20 +139,20 @@
 
 **22:45 · Lihtenştayn – Azerbaycan**
 
-- ⏳ KG Yok · @1.25
+- ✅ KG Yok · @1.25 · 0-1
 
 **22:45 · Lüksemburg – Estonya**
 
-- ⏳ ÇŞ 1-2 · @1.25
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-2 · @1.25 · 0-1
+- ❌ ÇŞ 1-X · @1.24 · 0-1
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ Korner 7.5 Üst · @1.20 · korner 9-5
 
 **22:45 · Hollanda – Yunanistan**
 
-- ⏳ En çok korner 1 · @1.27
+- ✅ En çok korner 1 · @1.27 · korner 5-4
 
 **22:45 · Slovenya – İsviçre**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**169/578 tuttu** (isabet %29, beklenen %28) · -52.59 birim · 66 tahmin sonuç bekliyor
+**169/580 tuttu** (isabet %29, beklenen %28) · -54.59 birim · 68 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **03:00 · Kolombiya – Şili**
 
 - ⏳ ↳ MS 1 & KG Var · @3.16
+
+**05:00 · Guatemala – Kanada**
+
+- ⏳ ↳ MS 2 & KG Var · @2.96
 
 **13:15 · Japonya – Brezilya**
 
@@ -51,6 +55,7 @@
 **18:00 · Wycombe – Huddersfield**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.86
+- ⏳ ↳ MS 2 & KG Var · @3.58
 
 **18:00 · Stirling Alb – Elgin City**
 
@@ -128,9 +133,17 @@
 
 - ⏳ ↳ MS 1 & KG Var · @4.07
 
+**18:00 · P. Thistle – Inverness**
+
+- ⏳ ↳ MS 1 & KG Var · @3.37
+
 **18:15 · Real Sociedad B – S.Gijon**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.73
+
+**19:00 · Uganda – Botsvana**
+
+- ⏳ ↳ MS 1 & KG Var · @4.18
 
 **20:30 · Almeria – FC Andorra**
 
@@ -204,11 +217,11 @@
 
 **22:45 · Hollanda – Yunanistan**
 
-- ⏳ ↳ MS 1 & KG Var · @2.83
+- ❌ ↳ MS 1 & KG Var · @2.83 · 7-0
 
 **22:45 · Lüksemburg – Estonya**
 
-- ⏳ ↳ İY/MS 1/1 · @3.24
+- ❌ ↳ İY/MS 1/1 · @3.24
 
 ## 12.11.2026 Perşembe
 

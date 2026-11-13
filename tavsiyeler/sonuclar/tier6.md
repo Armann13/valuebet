@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**87/849 tuttu** (isabet %10, beklenen %11) · -212.32 birim · 88 tahmin sonuç bekliyor
+**88/854 tuttu** (isabet %10, beklenen %11) · -208.50 birim · 84 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -107,6 +107,7 @@
 **18:00 · P. Thistle – Inverness**
 
 - ⏳ 1-0 · @6.01
+- ⏳ 2-1 · @6.51
 
 **18:00 · Hartlepool – Wealdstone**
 
@@ -200,15 +201,15 @@
 
 **22:30 · Leganes – CF Burgos**
 
-- ⏳ 1-0 · @6.01
+- ❌ 1-0 · @6.01 · 3-1
 
 **22:45 · Lüksemburg – Estonya**
 
-- ⏳ 1-0 · @5.18
+- ❌ 1-0 · @5.18 · 0-1
 
 **22:45 · Slovakya – Faroe Adaları**
 
-- ⏳ 1-0 · @5.35
+- ❌ 1-0 · @5.35 · 2-2
 
 **22:45 · Bulgaristan – İzlanda**
 
@@ -216,11 +217,11 @@
 
 **22:45 · Hollanda – Yunanistan**
 
-- ⏳ 2-1 · @7.19
+- ❌ 2-1 · @7.19 · 7-0
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
-- ⏳ 2-1 · @8.82
+- ✅ 2-1 · @8.82 · 2-1
 
 ## 12.11.2026 Perşembe
 

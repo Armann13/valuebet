@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/90 tuttu** (isabet %18, beklenen %16) · -1.12 birim · 6 tahmin sonuç bekliyor
+**17/92 tuttu** (isabet %18, beklenen %16) · +0.91 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,11 +20,11 @@
 
 **22:45 · Andorra – Cebelitarık**
 
-- ⏳ 1-0 · @3.69
+- ❌ 1-0 · @3.69 · 2-0
 
 **22:45 · Lihtenştayn – Azerbaycan**
 
-- ⏳ 0-1 · @4.03
+- ✅ 0-1 · @4.03 · 0-1
 
 **22:45 · Sırbistan – Almanya**
 

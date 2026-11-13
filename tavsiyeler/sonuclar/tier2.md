@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**594/1028 tuttu** (isabet %58, beklenen %59) · -104.60 birim · 128 tahmin sonuç bekliyor
+**601/1041 tuttu** (isabet %58, beklenen %59) · -106.73 birim · 123 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -33,6 +33,7 @@
 **04:00 · Peru – Bolivya**
 
 - ⏳ KG Yok · @1.47
+- ⏳ MS 1 · @1.58
 
 **05:00 · Guatemala – Kanada**
 
@@ -46,6 +47,10 @@
 **15:00 · Tayvan – Kırgızistan**
 
 - ⏳ KG Yok · @1.59
+
+**15:00 · Çin – Malezya**
+
+- ⏳ 2.5 Üst · @1.56
 
 **15:30 · Exeter City – Cheltenham**
 
@@ -175,6 +180,7 @@
 **18:00 · Port Vale – Accrington**
 
 - ⏳ KG Yok · @1.67
+- ⏳ MS 1 · @1.77
 
 **18:00 · Dumbarton – Annan Athletic**
 
@@ -215,6 +221,11 @@
 **18:00 · P. Thistle – Inverness**
 
 - ⏳ KG Yok · @1.81
+- ⏳ MS 1 · @1.65
+
+**18:00 · Wycombe – Huddersfield**
+
+- ⏳ 2.5 Üst · @1.50
 
 **18:15 · Real Sociedad B – S.Gijon**
 
@@ -223,6 +234,7 @@
 **19:00 · Uganda – Botsvana**
 
 - ⏳ 2.5 Alt · @1.40
+- ⏳ MS 1 · @1.41
 
 **20:00 · Norveç – Galler**
 
@@ -232,6 +244,7 @@
 
 - ⏳ 2.5 Alt · @1.41
 - ⏳ ↳ Korner 9.5 Alt · @1.40
+- ⏳ Korner 8.5 Alt · @1.66
 
 **20:30 · Almeria – FC Andorra**
 
@@ -263,6 +276,7 @@
 
 - ⏳ MS 1 · @1.44
 - ⏳ ↳ Korner 9.5 Alt · @1.40
+- ⏳ Korner 8.5 Üst · @1.66
 
 **22:45 · İsveç – Bosna Hersek**
 
@@ -356,27 +370,27 @@
 
 **22:00 · Mısır – Malavi**
 
-- ⏳ 2.5 Üst · @1.44
+- ✅ 2.5 Üst · @1.44 · 5-0
 
 **22:00 · Bermuda – Saint Lucia**
 
-- ⏳ ↳ MS 2 & KG Var · @2.07
+- ✅ ↳ MS 2 & KG Var · @2.07 · 1-2
 
 **22:00 · Mali – Ruanda**
 
-- ⏳ 2.5 Alt · @1.61
+- ❌ 2.5 Alt · @1.61 · 3-2
 
 **22:00 · Porto Riko – Dominika**
 
-- ⏳ KG Yok · @1.76
+- ❌ KG Yok · @1.76 · 4-2
 
 **22:30 · Leganes – CF Burgos**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.53
+- ❌ ↳ Korner 9.5 Alt · @1.53 · korner 4-9
 
 **22:45 · Hollanda – Yunanistan**
 
-- ⏳ MS 1 · @1.41
+- ✅ MS 1 · @1.41 · 7-0
 
 **22:45 · Sırbistan – Almanya**
 
@@ -389,8 +403,8 @@
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
-- ⏳ MS 1 & 2.5 Üst · @1.62
-- ⏳ ↳ Korner 8.5 Üst · @1.41
+- ✅ MS 1 & 2.5 Üst · @1.62 · 2-1
+- ✅ ↳ Korner 8.5 Üst · @1.41 · korner 9-5
 
 **22:45 · Bulgaristan – İzlanda**
 
@@ -399,20 +413,20 @@
 
 **22:45 · Lihtenştayn – Azerbaycan**
 
-- ⏳ 2.5 Alt · @1.52
-- ⏳ Korner 9.5 Alt · @1.44
+- ✅ 2.5 Alt · @1.52 · 0-1
+- ❌ Korner 9.5 Alt · @1.44 · korner 1-9
 
 **22:45 · Slovakya – Faroe Adaları**
 
-- ⏳ Korner 8.5 Üst · @1.40
+- ✅ Korner 8.5 Üst · @1.40 · korner 9-5
 
 **22:45 · Lüksemburg – Estonya**
 
-- ⏳ En çok korner 1 · @1.66
+- ❌ En çok korner 1 · @1.66 · korner 2-2
 
 **23:00 · Grenada – ST Kitts ve Nevis**
 
-- ⏳ MS 2 · @1.55
+- ❌ MS 2 · @1.55 · 3-2
 
 ## 12.11.2026 Perşembe
 

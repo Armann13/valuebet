@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 5 tahmin sonuç bekliyor
+**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 22:51 gönderilen kupon · 2 maç, oran 4,70
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01
+- ⏳ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.34
 
 ## 13.11 14:13 gönderilen kupon · 2 maç, oran 4,79
 

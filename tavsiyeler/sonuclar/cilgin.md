@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 39 tahmin sonuç bekliyor
+**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 22:51 gönderilen kupon · 4 maç, oran 206.731,63
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.70
+- ⏳ 14.11 18:00 Gateshead – Barrow · İY/MS 1/2 · @21.45
+- ⏳ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.20
+- ⏳ 14.11 20:00 Norveç – Galler · İY/MS 2/1 · @20.95
 
 ## 13.11 14:13 gönderilen kupon · 4 maç, oran 266.851,59
 

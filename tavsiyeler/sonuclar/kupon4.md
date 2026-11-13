@@ -2,36 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/86 tuttu** (isabet %38, beklenen %37) · +3.99 birim · 6 tahmin sonuç bekliyor
+**35/89 tuttu** (isabet %39, beklenen %37) · +7.55 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 13.11 22:51 gönderilen kupon · 4 maç, oran 34,64
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 02:00 Saint Martin – El Salvador · MS 2 & KG Var · @2.42
+- ⏳ 14.11 18:00 Livingston – G. Morton · MS 1 & KG Var · @2.48
+- ⏳ 14.11 18:00 East Kilbri – Alloa · MS 1 & KG Var · @2.60
+- ⏳ 14.11 18:00 Southend – Aldershot · MS 1 & KG Var · @2.22
 
 ## 13.11 14:13 gönderilen kupon · 4 maç, oran 49,55
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ❌ 13.11 19:00 Gabon – Lesotho · MS 1 & KG Var · @3.47 · 2-0
-- ⏳ 13.11 22:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.40
+- ❌ 13.11 22:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.40 · 3-2
 - ⏳ 14.11 02:00 Saint Martin – El Salvador · MS 2 & KG Var · @2.38
 - ⏳ 14.11 18:00 Livingston – G. Morton · MS 1 & KG Var · @2.50
 
 ## 12.11 18:42 gönderilen kupon · 4 maç, oran 84,16
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+❌ 3/4 maç tuttu
 
 - ✅ 12.11 20:00 Gine – Eritre · MS 1 & KG Var · @3.07 · 2-1
 - ✅ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.33 · 2-1
 - ❌ 13.11 01:00 Aruba – Martinik · MS 2 & KG Var · @2.51 · 0-0
-- ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28
+- ✅ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28 · 2-1
 
 ## 12.11 14:30 gönderilen kupon · 4 maç, oran 80,20
 
-sonuç bekleniyor (3 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 80,20 birim
 
 - ✅ 12.11 19:00 Gine – Eritre · MS 1 & KG Var · @3.11 · 2-1
 - ✅ 12.11 20:00 Türkiye – Belçika · MS 2 & 2.5 Üst · @2.34 · 1-2
 - ✅ 12.11 22:45 Karadağ – Letonya · MS 1 & KG Var · @3.36 · 2-1
-- ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28
+- ✅ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.28 · 2-1
 
 ## 08.11 13:34 gönderilen kupon · 4 maç, oran 51,17
 
