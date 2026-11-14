@@ -7192,3 +7192,6 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-14 13:40,2026-11-14,14.11,MILLI,Norway,Wales,Norveç – Galler,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.054538598374402544,19.85,0.08259117773189062,oran,,,,2026-11-14 20:00,,,,,,
 2026-11-14 13:40,2026-11-14,14.11,SP2,Valladolid,Castellon,Real Valladolid – Castellon,SP2,🎲 Çılgın kupon,KG Yok,0.45709549335279087,2.19,0.0010391304426120573,piyasa,,,,2026-11-14 16:00,,,,,,
 2026-11-14 16:52,2026-11-14,14.11,SP2,Sociedad B,Sp Gijon,Real Sociedad B – S.Gijon,SP2,💎 Değeri pozitif olanlar,MS 2,0.3263216014680747,3.12,0.01812339658039308,piyasa,,,,2026-11-14 18:15,,,,,,
+2026-11-14 18:38,2026-11-14,14.11,MILLI,Uganda,Botswana,Uganda – Botsvana,Afrika Uluslar Kup.,🟡 Tier 2 — Orta risk,MS 1,0.6337527313344321,1.44,-0.08739606687841783,oran,False,,,2026-11-14 19:00,,,,,,kadro
+2026-11-14 18:38,2026-11-14,14.11,MILLI,Uganda,Botswana,Uganda – Botsvana,Afrika Uluslar Kup.,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.2623660571493749,2.87,-0.247009415981294,oran,True,,,2026-11-14 19:00,,,,,,kadro
+2026-11-14 18:38,2026-11-14,14.11,MILLI,Uganda,Botswana,Uganda – Botsvana,Afrika Uluslar Kup.,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.18158057699537994,4.51,-0.18107159775083648,oran,True,,,2026-11-14 19:00,,,,,,kadro
