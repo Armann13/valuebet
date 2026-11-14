@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/98 tuttu** (isabet %38, beklenen %42) · -11.67 birim
+**37/98 tuttu** (isabet %38, beklenen %42) · -11.67 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11.2026 Cumartesi
+
+**16:00 · Real Valladolid – Castellon**
+
+- ⏳ KG Yok · @2.19
 
 ## 08.11.2026 Pazar
 

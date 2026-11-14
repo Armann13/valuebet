@@ -2,9 +2,51 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**479/674 tuttu** (isabet %71, beklenen %74) · -82.08 birim · 55 tahmin sonuç bekliyor
+**479/674 tuttu** (isabet %71, beklenen %74) · -82.08 birim · 68 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**00:30 · Haiti – ABD**
+
+- ⏳ Korner 9.5 Alt · @1.26
+
+**04:00 · Jamaika – Meksika**
+
+- ⏳ En çok korner 2 · @1.24
+
+**17:00 · Kıbrıs Rum Kesimi – Karadağ**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ ÇŞ 1-2 · @1.25
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ Korner 10.5 Alt · @1.32
+
+**20:00 · Belarus – Arnavutluk**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ ÇŞ 1-X · @1.24
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ Korner 11.5 Alt · @1.21
+
+**22:45 · Fransa – Türkiye**
+
+- ⏳ MS 1 & 2.5 Üst · @1.37
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ Korner 7.5 Üst · @1.23
 
 ## 14.11.2026 Cumartesi
 
@@ -75,6 +117,12 @@
 **22:45 · İsveç – Bosna Hersek**
 
 - ⏳ En çok korner 1 · @1.32
+- ⏳ MS 1 · @1.31
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ 2.5 Alt · @1.30
+- ⏳ Korner 6.5 Üst · @1.21
 
 **23:00 · Real Oviedo – Girona**
 

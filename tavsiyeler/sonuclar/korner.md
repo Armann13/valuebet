@@ -2,9 +2,42 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**666/1222 tuttu** (isabet %55, beklenen %59) · -171.97 birim · 73 tahmin sonuç bekliyor
+**667/1223 tuttu** (isabet %55, beklenen %59) · -171.39 birim · 90 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**00:30 · Haiti – ABD**
+
+- ⏳ 🟢 Korner 9.5 Alt · @1.26
+- ⏳ 🟡 ↳ Korner 8.5 Alt · @1.51
+
+**04:00 · Jamaika – Meksika**
+
+- ⏳ 🟢 En çok korner 2 · @1.24
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.32
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.57
+- ⏳ 3 En çok korner 2 · @2.86
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ⏳ 4 En çok korner 2 · @2.90
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.62
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.23
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.46
 
 ## 14.11.2026 Cumartesi
 
@@ -15,12 +48,13 @@
 
 **13:15 · Japonya – Brezilya**
 
-- ⏳ 🟡 En çok korner 2 · @1.58
+- ✅ 🟡 En çok korner 2 · @1.58 · korner 1-9
 
 **16:00 · Real Valladolid – Castellon**
 
 - ⏳ 🟡 En çok korner 1 · @2.02
 - ⏳ 2 En çok korner 1 · @2.02
+- ⏳ 2 En çok korner 1 · @2.01
 - ⏳ 2 En çok korner 1 · @2.01
 
 **18:15 · Real Sociedad B – S.Gijon**
@@ -45,6 +79,7 @@
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
 - ⏳ 3 En çok korner 2 · @2.64
 - ⏳ 3 En çok korner 2 · @2.63
+- ⏳ 3 En çok korner 2 · @2.55
 
 **20:30 · Mallorca – Cordoba**
 
@@ -56,6 +91,8 @@
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
 - ⏳ 🟡 Korner 8.5 Üst · @1.66
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @2.12
+- ⏳ 🟡 Korner 8.5 Alt · @1.64
+- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.13
 
 **22:45 · Portekiz – Danimarka**
 
@@ -74,6 +111,7 @@
 
 - ⏳ 🟡 Korner 7.5 Üst · @1.42
 - ⏳ 🔴 ↳ Korner 8.5 Üst · @1.77
+- ⏳ 🟢 Korner 6.5 Üst · @1.21
 
 **23:00 · Real Oviedo – Girona**
 

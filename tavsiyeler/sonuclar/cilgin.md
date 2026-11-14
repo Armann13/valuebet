@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 43 tahmin sonuç bekliyor
+**17/119 tuttu** (isabet %14, beklenen %13) · +206.31 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11 13:40 gönderilen kupon · 5 maç, oran 405.620,46
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 16:00 Real Valladolid – Castellon · KG Yok · @2.19
+- ⏳ 14.11 18:00 Eastleigh – AFC Fylde · İY/MS 1/2 · @20.10
+- ⏳ 14.11 18:00 Yeovil Town – Boreham Wood · İY/MS 1/2 · @20.45
+- ⏳ 14.11 20:00 Norveç – Galler · İY/MS 2/1 · @19.85
+- ⏳ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @22.70
 
 ## 13.11 22:51 gönderilen kupon · 4 maç, oran 206.731,63
 

@@ -2,15 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/94 tuttu** (isabet %18, beklenen %16) · -1.09 birim · 2 tahmin sonuç bekliyor
+**17/94 tuttu** (isabet %18, beklenen %16) · -1.09 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**20:00 · Belarus – Arnavutluk**
+
+- ⏳ 0-1 · @5.05
 
 ## 14.11.2026 Cumartesi
 
 **18:00 · Salford City – Northampton**
 
 - ⏳ 1-0 · @5.08
+
+**22:45 · Kuzey İrlanda – Ukrayna**
+
+- ⏳ 1-1 · @4.92
 
 ## 13.11.2026 Cuma
 

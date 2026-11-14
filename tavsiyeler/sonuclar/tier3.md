@@ -2,15 +2,62 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**361/847 tuttu** (isabet %43, beklenen %41) · -44.96 birim · 90 tahmin sonuç bekliyor
+**361/848 tuttu** (isabet %43, beklenen %41) · -45.96 birim · 110 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11.2026 Pazartesi
+
+**02:00 · Panama – Curaçao**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.72
 
 ## 15.11.2026 Pazar
 
 **00:30 · Haiti – ABD**
 
 - ⏳ ↳ MS 2 & KG Var · @2.61
+
+**16:00 · Tenerife – AD Ceuta**
+
+- ⏳ ↳ İY/MS 1/1 · @2.52
+
+**17:00 · Kıbrıs Rum Kesimi – Karadağ**
+
+- ⏳ ↳ MS 2 · @2.08
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ ↳ MS 2 · @2.22
+
+**20:00 · Belarus – Arnavutluk**
+
+- ⏳ ↳ İY/MS 2/2 · @2.77
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ ↳ MS 1 · @2.23
+- ⏳ ↳ Korner 8.5 Alt · @2.06
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.24
+
+**22:45 · Fransa – Türkiye**
+
+- ⏳ ↳ MS 1 & KG Var · @2.15
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.07
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.23
+
+**22:45 · Belçika – İtalya**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.81
 
 ## 14.11.2026 Cumartesi
 
@@ -32,7 +79,7 @@
 
 **13:15 · Japonya – Brezilya**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.62
+- ❌ ↳ MS 2 & 2.5 Üst · @2.62 · 3-2
 
 **15:30 · Exeter City – Cheltenham**
 
@@ -41,6 +88,7 @@
 **16:00 · Real Valladolid – Castellon**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.07
+- ⏳ ↳ MS 1 · @2.67
 
 **18:00 · East Kilbri – Alloa**
 
@@ -89,6 +137,7 @@
 **18:00 · Salford City – Northampton**
 
 - ⏳ ↳ İY/MS 1/1 · @2.12
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.20
 
 **18:00 · Stockport – Reading**
 
@@ -109,6 +158,7 @@
 **18:00 · Gateshead – Barrow**
 
 - ⏳ ↳ MS 2 & KG Var · @2.79
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.02
 
 **18:00 · Swindon Town – Grimsby Town**
 
@@ -129,6 +179,7 @@
 **18:00 · Stenhousemuir – Queen's Park**
 
 - ⏳ ↳ İY/MS 1/1 · @2.60
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
 
 **18:00 · Sheffield Wednesday – Plymouth**
 
@@ -137,6 +188,7 @@
 **18:00 · Wigan Athletic – Barnsley**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.91
+- ⏳ ↳ MS 2 · @2.58
 
 **18:00 · Kelty Hearts – Stranraer**
 
@@ -153,6 +205,7 @@
 **18:00 · Bristol Rovers – Chesterfield**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.10
+- ⏳ ↳ MS 1 · @2.67
 
 **18:00 · Edinburgh – Clyde Bank**
 
@@ -201,6 +254,7 @@
 **20:30 · Mallorca – Cordoba**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+- ⏳ ↳ MS 2 · @3.83
 
 **20:30 · Fleetwood – Tranmere**
 
@@ -222,6 +276,8 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.25
 - ⏳ ↳ Korner 9.5 Üst · @2.12
+- ⏳ ↳ İY/MS 1/1 · @2.25
+- ⏳ ↳ Korner 7.5 Alt · @2.13
 
 **22:45 · Romanya – Polonya**
 

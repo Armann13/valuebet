@@ -2,15 +2,61 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/855 tuttu** (isabet %10, beklenen %11) · -209.50 birim · 83 tahmin sonuç bekliyor
+**88/856 tuttu** (isabet %10, beklenen %11) · -210.50 birim · 102 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11.2026 Pazar
+
+**16:00 · Tenerife – AD Ceuta**
+
+- ⏳ 1-0 · @6.07
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ 0-1 · @6.47
+
+**17:00 · Kıbrıs Rum Kesimi – Karadağ**
+
+- ⏳ 0-1 · @6.69
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ 1-0 · @6.87
+
+**20:00 · Finlandiya – San Marino**
+
+- ⏳ 4-0 · @5.19
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ 1-0 · @5.77
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ 2-1 · @7.19
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ 2-1 · @7.27
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ 2-1 · @7.14
+
+**22:45 · Fransa – Türkiye**
+
+- ⏳ 2-1 · @8.26
+
+**22:45 · Belçika – İtalya**
+
+- ⏳ 2-1 · @7.84
 
 ## 14.11.2026 Cumartesi
 
 **13:15 · Japonya – Brezilya**
 
-- ⏳ 1-2 · @7.51
+- ❌ 1-2 · @7.51 · 3-2
 
 **15:30 · Exeter City – Cheltenham**
 
@@ -19,6 +65,7 @@
 **16:00 · Real Valladolid – Castellon**
 
 - ⏳ 1-2 · @8.01
+- ⏳ 2-1 · @9.30
 
 **18:00 · Livingston – G. Morton**
 
@@ -31,6 +78,7 @@
 **18:00 · Stenhousemuir – Queen's Park**
 
 - ⏳ 1-0 · @5.15
+- ⏳ 2-1 · @6.57
 
 **18:00 · Ayr United – Raith Rovers**
 
@@ -83,6 +131,7 @@
 **18:00 · Colchester – Gillingham**
 
 - ⏳ 1-1 · @4.86
+- ⏳ 2-1 · @6.92
 
 **18:00 · Stockport – Reading**
 
@@ -99,6 +148,7 @@
 **18:00 · Wigan Athletic – Barnsley**
 
 - ⏳ 2-1 · @7.32
+- ⏳ 1-2 · @8.42
 
 **18:00 · Wycombe – Huddersfield**
 
@@ -128,10 +178,12 @@
 **18:00 · Bristol Rovers – Chesterfield**
 
 - ⏳ 1-2 · @7.15
+- ⏳ 2-1 · @8.37
 
 **18:00 · Kidderminster Harriers – Halifax Town**
 
 - ⏳ 2-1 · @7.53
+- ⏳ 1-2 · @7.57
 
 **18:00 · Hornchurch – Tamworth**
 
@@ -144,6 +196,10 @@
 **18:00 · Scunthorpe – Worthing**
 
 - ⏳ 1-2 · @8.34
+
+**18:00 · Salford City – Northampton**
+
+- ⏳ 2-1 · @6.40
 
 **18:15 · Real Sociedad B – S.Gijon**
 
@@ -168,6 +224,7 @@
 **20:30 · Mallorca – Cordoba**
 
 - ⏳ 2-1 · @7.62
+- ⏳ 1-2 · @12.00
 
 **22:45 · Kuzey İrlanda – Ukrayna**
 
@@ -184,6 +241,7 @@
 **22:45 · Avusturya – İrlanda**
 
 - ⏳ 2-1 · @7.23
+- ⏳ 1-0 · @5.88
 
 **22:45 · İsveç – Bosna Hersek**
 

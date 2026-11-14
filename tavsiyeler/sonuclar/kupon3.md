@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/68 tuttu** (isabet %31, beklenen %39) · -10.29 birim · 4 tahmin sonuç bekliyor
+**21/68 tuttu** (isabet %31, beklenen %39) · -10.29 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11 13:40 gönderilen kupon · 3 maç, oran 22,10
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 18:15 Real Sociedad B – S.Gijon · MS 2 · @3.03
+- ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.55
+- ⏳ 15.11 18:15 Granada – Las Palmas · En çok korner 2 · @2.86
 
 ## 13.11 22:51 gönderilen kupon · 3 maç, oran 17,67
 

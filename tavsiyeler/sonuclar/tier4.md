@@ -2,9 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**170/582 tuttu** (isabet %29, beklenen %28) · -53.63 birim · 66 tahmin sonuç bekliyor
+**170/583 tuttu** (isabet %29, beklenen %28) · -54.63 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11.2026 Pazartesi
+
+**02:00 · Panama – Curaçao**
+
+- ⏳ ↳ MS 1 & KG Var · @4.13
+
+## 15.11.2026 Pazar
+
+**17:00 · Kıbrıs Rum Kesimi – Karadağ**
+
+- ⏳ ↳ İY/MS 2/2 · @3.34
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ ↳ İY/MS 2/2 · @3.59
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ ↳ MS 1 & KG Var · @3.15
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ ↳ İY/MS 1/1 · @3.65
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ ↳ MS 1 & KG Var · @2.95
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ ↳ MS 1 & KG Var · @2.98
+
+**22:45 · Belçika – İtalya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.50
 
 ## 14.11.2026 Cumartesi
 
@@ -18,11 +54,12 @@
 
 **13:15 · Japonya – Brezilya**
 
-- ⏳ ↳ MS 2 & KG Var · @3.40
+- ❌ ↳ MS 2 & KG Var · @3.40 · 3-2
 
 **16:00 · Real Valladolid – Castellon**
 
 - ⏳ ↳ MS 2 & KG Var · @3.81
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.98
 
 **18:00 · East Kilbri – Alloa**
 
@@ -104,10 +141,12 @@
 **18:00 · Kidderminster Harriers – Halifax Town**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.51
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.60
 
 **18:00 · Wigan Athletic – Barnsley**
 
 - ⏳ ↳ MS 1 & KG Var · @3.54
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.51
 
 **18:00 · Hornchurch – Tamworth**
 
@@ -120,10 +159,12 @@
 **18:00 · East Fife – Peterhead**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.67
+- ⏳ ↳ MS X & KG Var · @3.84
 
 **18:00 · Bristol Rovers – Chesterfield**
 
 - ⏳ ↳ MS 2 & KG Var · @3.83
+- ⏳ ↳ MS 1 & 2.5 Üst · @4.07
 
 **18:00 · Doncaster – Leyton Orient**
 
@@ -132,10 +173,23 @@
 **18:00 · Cove Rangers – Montrose**
 
 - ⏳ ↳ MS 1 & KG Var · @4.07
+- ⏳ ↳ MS X & KG Var · @3.97
 
 **18:00 · P. Thistle – Inverness**
 
 - ⏳ ↳ MS 1 & KG Var · @3.37
+
+**18:00 · Salford City – Northampton**
+
+- ⏳ ↳ MS 1 & KG Var · @3.21
+
+**18:00 · Stenhousemuir – Queen's Park**
+
+- ⏳ ↳ MS 1 & KG Var · @3.71
+
+**18:00 · Colchester – Gillingham**
+
+- ⏳ ↳ MS 1 & KG Var · @4.01
 
 **18:15 · Real Sociedad B – S.Gijon**
 
@@ -160,6 +214,10 @@
 **20:30 · Fleetwood – Tranmere**
 
 - ⏳ ↳ MS 1 & KG Var · @3.52
+
+**22:00 · Sint Maarten – Fransız Guyanası**
+
+- ⏳ ↳ MS 2 & KG Var · @3.25
 
 **22:45 · İsveç – Bosna Hersek**
 

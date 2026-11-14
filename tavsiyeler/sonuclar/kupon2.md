@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/39 tuttu** (isabet %41, beklenen %50) · -5.19 birim · 5 tahmin sonuç bekliyor
+**16/39 tuttu** (isabet %41, beklenen %50) · -5.19 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11 13:40 gönderilen kupon · 2 maç, oran 5,02
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01
+- ⏳ 15.11 00:30 Haiti – ABD · MS 2 & KG Var · @2.50
 
 ## 13.11 22:51 gönderilen kupon · 2 maç, oran 4,70
 

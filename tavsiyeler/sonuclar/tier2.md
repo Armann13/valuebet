@@ -2,15 +2,65 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**606/1053 tuttu** (isabet %58, beklenen %59) · -111.04 birim · 111 tahmin sonuç bekliyor
+**607/1055 tuttu** (isabet %58, beklenen %59) · -111.46 birim · 146 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11.2026 Pazartesi
+
+**02:00 · Panama – Curaçao**
+
+- ⏳ MS 1 · @1.46
 
 ## 15.11.2026 Pazar
 
 **00:30 · Haiti – ABD**
 
 - ⏳ KG Var · @1.75
+- ⏳ ↳ Korner 8.5 Alt · @1.51
+
+**04:00 · Jamaika – Meksika**
+
+- ⏳ KG Yok · @1.48
+
+**06:00 · Yeni Zelanda – Hindistan**
+
+- ⏳ KG Yok · @1.47
+
+**16:00 · Tenerife – AD Ceuta**
+
+- ⏳ MS 1 · @1.66
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ 2.5 Alt · @1.81
+- ⏳ ↳ Korner 9.5 Alt · @1.57
+
+**20:00 · Belarus – Arnavutluk**
+
+- ⏳ ↳ MS 2 · @1.76
+
+**20:30 · Eibar – Cadiz**
+
+- ⏳ MS 1 · @1.50
+- ⏳ ↳ Korner 10.5 Alt · @1.40
+
+**20:30 · Club Deportivo Eldense – CE Sabadell FC**
+
+- ⏳ Korner 9.5 Alt · @1.62
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ MS 1 · @1.42
+
+**22:45 · Belçika – İtalya**
+
+- ⏳ 2.5 Üst · @1.49
+
+**22:45 · İspanya – İngiltere**
+
+- ⏳ MS 1 · @1.58
+- ⏳ ↳ Korner 8.5 Üst · @1.46
 
 ## 14.11.2026 Cumartesi
 
@@ -41,8 +91,8 @@
 
 **13:15 · Japonya – Brezilya**
 
-- ⏳ MS 2 · @1.78
-- ⏳ En çok korner 2 · @1.58
+- ❌ MS 2 · @1.78 · 3-2
+- ✅ En çok korner 2 · @1.58 · korner 1-9
 
 **15:00 · Tayvan – Kırgızistan**
 
@@ -60,6 +110,7 @@
 
 - ⏳ 2.5 Üst · @1.57
 - ⏳ En çok korner 1 · @2.02
+- ⏳ ÇŞ 1-X · @1.46
 
 **18:00 · Salford City – Northampton**
 
@@ -68,6 +119,7 @@
 **18:00 · East Kilbri – Alloa**
 
 - ⏳ MS 1 · @1.43
+- ⏳ KG Var · @1.43
 
 **18:00 · Sheffield Wednesday – Plymouth**
 
@@ -76,6 +128,7 @@
 **18:00 · Wigan Athletic – Barnsley**
 
 - ⏳ 2.5 Üst · @1.41
+- ⏳ ÇŞ X-2 · @1.43
 
 **18:00 · Stirling Alb – Elgin City**
 
@@ -84,6 +137,7 @@
 **18:00 · Yeovil Town – Boreham Wood**
 
 - ⏳ MS 2 · @1.48
+- ⏳ KG Var · @1.43
 
 **18:00 · Airdrieonian – Queen of The South**
 
@@ -96,6 +150,7 @@
 **18:00 · MK Dons – Burton Albion**
 
 - ⏳ MS 1 · @1.49
+- ⏳ KG Var · @1.43
 
 **18:00 · Edinburgh – Clyde Bank**
 
@@ -116,14 +171,17 @@
 **18:00 · Hartlepool – Wealdstone**
 
 - ⏳ 2.5 Üst · @1.47
+- ⏳ KG Var · @1.40
 
 **18:00 · Southend – Aldershot**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.59
+- ⏳ KG Var · @1.41
 
 **18:00 · Livingston – G. Morton**
 
 - ⏳ MS 1 & 2.5 Üst · @1.56
+- ⏳ KG Var · @1.72
 
 **18:00 · Hornchurch – Tamworth**
 
@@ -132,6 +190,7 @@
 **18:00 · Rochdale – York City**
 
 - ⏳ MS 2 · @1.55
+- ⏳ KG Var · @1.42
 
 **18:00 · Carlisle – Boston United**
 
@@ -144,6 +203,7 @@
 **18:00 · Gateshead – Barrow**
 
 - ⏳ KG Var · @1.57
+- ⏳ MS 2 · @1.42
 
 **18:00 · Scunthorpe – Worthing**
 
@@ -152,6 +212,7 @@
 **18:00 · Bristol Rovers – Chesterfield**
 
 - ⏳ 2.5 Üst · @1.56
+- ⏳ ÇŞ 1-X · @1.42
 
 **18:00 · Stevenage – Mansfield**
 
@@ -189,10 +250,12 @@
 **18:00 · Colchester – Gillingham**
 
 - ⏳ 2.5 Alt · @1.63
+- ⏳ KG Var · @1.58
 
 **18:00 · Cove Rangers – Montrose**
 
 - ⏳ 2.5 Üst · @1.64
+- ⏳ KG Var · @1.50
 
 **18:00 · Crewe Alexandra – Newport**
 
@@ -209,19 +272,23 @@
 **18:00 · Forfar – Spartans Edinburgh FC**
 
 - ⏳ MS 2 · @1.76
+- ⏳ 2.5 Üst · @1.56
 
 **18:00 · Sutton United – Solihull Moors**
 
 - ⏳ MS 1 · @1.76
+- ⏳ 2.5 Üst · @1.48
 
 **18:00 · East Fife – Peterhead**
 
 - ⏳ 2.5 Üst · @1.66
+- ⏳ KG Var · @1.50
 
 **18:00 · P. Thistle – Inverness**
 
 - ⏳ KG Yok · @1.81
 - ⏳ MS 1 · @1.65
+- ⏳ 2.5 Üst · @1.60
 
 **18:00 · Wycombe – Huddersfield**
 
@@ -259,10 +326,12 @@
 
 - ⏳ MS 1 · @1.79
 - ⏳ En çok korner 2 · @2.26
+- ⏳ ÇŞ X-2 · @1.84
 
 **20:30 · Fleetwood – Tranmere**
 
 - ⏳ MS 1 · @1.75
+- ⏳ 2.5 Üst · @1.60
 
 **22:00 · Angola – Güney Sudan**
 
@@ -272,11 +341,16 @@
 
 - ⏳ MS 1 & 2.5 Üst · @1.64
 
+**22:00 · Sint Maarten – Fransız Guyanası**
+
+- ⏳ MS 2 · @1.72
+
 **22:45 · Avusturya – İrlanda**
 
 - ⏳ MS 1 · @1.44
 - ⏳ ↳ Korner 9.5 Alt · @1.40
 - ⏳ Korner 8.5 Üst · @1.66
+- ⏳ Korner 8.5 Alt · @1.64
 
 **22:45 · İsveç – Bosna Hersek**
 
@@ -295,6 +369,7 @@
 **22:45 · Portekiz – Danimarka**
 
 - ⏳ MS 1 & 2.5 Üst · @1.86
+- ⏳ MS 1 · @1.42
 
 **23:00 · Real Oviedo – Girona**
 
