@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**631/1105 tuttu** (isabet %57, beklenen %59) · -124.57 birim · 96 tahmin sonuç bekliyor
+**637/1116 tuttu** (isabet %57, beklenen %59) · -126.15 birim · 89 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,6 +35,7 @@
 
 - ⏳ 2.5 Alt · @1.81
 - ⏳ ↳ Korner 9.5 Alt · @1.57
+- ⏳ MS 1 · @1.87
 
 **20:00 · Belarus – Arnavutluk**
 
@@ -52,15 +53,21 @@
 **22:45 · Hırvatistan – Çekya**
 
 - ⏳ MS 1 · @1.42
+- ⏳ ↳ Korner 9.5 Alt · @1.42
 
 **22:45 · Belçika – İtalya**
 
 - ⏳ 2.5 Üst · @1.49
+- ⏳ Korner 8.5 Üst · @1.41
 
 **22:45 · İspanya – İngiltere**
 
 - ⏳ MS 1 · @1.58
 - ⏳ ↳ Korner 8.5 Üst · @1.46
+
+**22:45 · Fransa – Türkiye**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.42
 
 ## 14.11.2026 Cumartesi
 
@@ -305,18 +312,18 @@
 
 **20:00 · Norveç – Galler**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.46
+- ✅ ↳ MS 1 & 2.5 Üst · @1.46 · 3-1
 
 **20:00 · Gürcistan – Macaristan**
 
-- ⏳ 2.5 Alt · @1.41
-- ⏳ ↳ Korner 9.5 Alt · @1.40
-- ⏳ Korner 8.5 Alt · @1.66
+- ✅ 2.5 Alt · @1.41 · 0-2
+- ❌ ↳ Korner 9.5 Alt · @1.40 · korner 8-6
+- ❌ Korner 8.5 Alt · @1.66 · korner 8-6
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ MS 1 · @1.49
-- ⏳ ↳ Korner 10.5 Alt · @1.47
+- ✅ MS 1 · @1.49 · 2-1
+- ✅ ↳ Korner 10.5 Alt · @1.47 · korner 0-6
 
 **20:30 · Hamilton – Ross County**
 
@@ -324,14 +331,14 @@
 
 **20:30 · Mallorca – Cordoba**
 
-- ⏳ MS 1 · @1.79
-- ⏳ En çok korner 2 · @2.26
-- ⏳ ÇŞ X-2 · @1.84
+- ❌ MS 1 · @1.79 · 3-3
+- ❌ En çok korner 2 · @2.26 · korner 8-3
+- ✅ ÇŞ X-2 · @1.84 · 3-3
 
 **20:30 · Fleetwood – Tranmere**
 
-- ⏳ MS 1 · @1.75
-- ⏳ 2.5 Üst · @1.60
+- ✅ MS 1 · @1.75 · 1-0
+- ❌ 2.5 Üst · @1.60 · 1-0
 
 **22:00 · Angola – Güney Sudan**
 

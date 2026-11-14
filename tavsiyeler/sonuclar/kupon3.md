@@ -2,33 +2,41 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/68 tuttu** (isabet %31, beklenen %39) · -10.29 birim · 7 tahmin sonuç bekliyor
+**25/72 tuttu** (isabet %35, beklenen %39) · -4.04 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
-## 14.11 13:40 gönderilen kupon · 3 maç, oran 22,10
+## 14.11 21:16 gönderilen kupon · 3 maç, oran 18,65
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
+- ⏳ 14.11 22:45 Romanya – Polonya · MS 2 & KG Var · @2.93
+- ⏳ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.96
+- ⏳ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.15
+
+## 14.11 13:40 gönderilen kupon · 3 maç, oran 22,10
+
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
 - ⏳ 14.11 18:15 Real Sociedad B – S.Gijon · MS 2 · @3.03
-- ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.55
+- ✅ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.55 · korner 0-6
 - ⏳ 15.11 18:15 Granada – Las Palmas · En çok korner 2 · @2.86
 
 ## 13.11 22:51 gönderilen kupon · 3 maç, oran 17,67
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
 - ❌ 13.11 23:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.47 · 3-2
 - ✅ 14.11 03:00 Montserrat – Nikaragua · MS 2 & KG Var · @2.72 · 1-2
-- ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.63
+- ✅ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.63 · korner 0-6
 
 ## 13.11 14:13 gönderilen kupon · 3 maç, oran 19,95
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 19,95 birim
 
 - ✅ 13.11 22:45 İskoçya – Kuzey Makedonya · MS 1 & KG Var · @3.11 · 2-1
-- ⏳ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.43
-- ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.64
+- ✅ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.43 · 3-1
+- ✅ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.64 · korner 0-6
 
 ## 12.11 14:30 gönderilen kupon · 3 maç, oran 20,20
 

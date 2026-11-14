@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**483/678 tuttu** (isabet %71, beklenen %74) · -80.96 birim · 64 tahmin sonuç bekliyor
+**486/682 tuttu** (isabet %71, beklenen %74) · -81.11 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,7 @@
 **04:00 · Jamaika – Meksika**
 
 - ⏳ En çok korner 2 · @1.24
+- ⏳ MS 2 · @1.25
 
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
@@ -43,10 +44,15 @@
 **22:45 · Fransa – Türkiye**
 
 - ⏳ MS 1 & 2.5 Üst · @1.37
+- ⏳ Korner 7.5 Üst · @1.20
 
 **22:45 · İspanya – İngiltere**
 
 - ⏳ Korner 7.5 Üst · @1.23
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ Korner 10.5 Alt · @1.21
 
 ## 14.11.2026 Cumartesi
 
@@ -91,16 +97,16 @@
 
 **20:00 · Norveç – Galler**
 
-- ⏳ 2.5 Üst · @1.31
-- ⏳ En çok korner 1 · @1.28
+- ✅ 2.5 Üst · @1.31 · 3-1
+- ✅ En çok korner 1 · @1.28 · korner 8-2
 
 **20:00 · Gürcistan – Macaristan**
 
-- ⏳ Korner 10.5 Alt · @1.20
+- ❌ Korner 10.5 Alt · @1.20 · korner 8-6
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ Korner 11.5 Alt · @1.26
+- ✅ Korner 11.5 Alt · @1.26 · korner 0-6
 
 **22:45 · Avusturya – İrlanda**
 

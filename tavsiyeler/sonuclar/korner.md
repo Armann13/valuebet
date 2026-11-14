@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**667/1227 tuttu** (isabet %54, beklenen %59) · -175.39 birim · 86 tahmin sonuç bekliyor
+**673/1238 tuttu** (isabet %54, beklenen %59) · -174.56 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,6 +28,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
 - ⏳ 4 En çok korner 2 · @2.90
+- ⏳ 3 En çok korner 2 · @2.96
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
@@ -38,6 +39,21 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.23
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.46
+
+**22:45 · Fransa – Türkiye**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
+
+**22:45 · Hırvatistan – Çekya**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · Belçika – İtalya**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.74
 
 ## 14.11.2026 Cumartesi
 
@@ -64,26 +80,26 @@
 
 **20:00 · Gürcistan – Macaristan**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.40
-- ⏳ 🟡 Korner 8.5 Alt · @1.66
-- ⏳ 🔴 ↳ Korner 7.5 Alt · @2.16
+- ❌ 🟢 Korner 10.5 Alt · @1.20 · korner 8-6
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.40 · korner 8-6
+- ❌ 🟡 Korner 8.5 Alt · @1.66 · korner 8-6
+- ❌ 🔴 ↳ Korner 7.5 Alt · @2.16 · korner 8-6
 
 **20:00 · Norveç – Galler**
 
-- ⏳ 🟢 En çok korner 1 · @1.28
+- ✅ 🟢 En çok korner 1 · @1.28 · korner 8-2
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.26
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
-- ⏳ 3 En çok korner 2 · @2.64
-- ⏳ 3 En çok korner 2 · @2.63
-- ⏳ 3 En çok korner 2 · @2.55
+- ✅ 🟢 Korner 11.5 Alt · @1.26 · korner 0-6
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.47 · korner 0-6
+- ✅ 3 En çok korner 2 · @2.64 · korner 0-6
+- ✅ 3 En çok korner 2 · @2.63 · korner 0-6
+- ✅ 3 En çok korner 2 · @2.55 · korner 0-6
 
 **20:30 · Mallorca – Cordoba**
 
-- ⏳ 🟡 En çok korner 2 · @2.26
+- ❌ 🟡 En çok korner 2 · @2.26 · korner 8-3
 
 **22:45 · Avusturya – İrlanda**
 

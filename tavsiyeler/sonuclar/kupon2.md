@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/42 tuttu** (isabet %38, beklenen %50) · -8.19 birim · 4 tahmin sonuç bekliyor
+**17/43 tuttu** (isabet %40, beklenen %50) · -6.85 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 14.11 21:16 gönderilen kupon · 2 maç, oran 4,51
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 15.11 00:30 Haiti – ABD · MS 2 & KG Var · @2.41
+- ⏳ 15.11 18:15 Granada – Las Palmas · MS 1 · @1.87
 
 ## 14.11 13:40 gönderilen kupon · 2 maç, oran 5,02
 
@@ -15,10 +22,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 13.11 22:51 gönderilen kupon · 2 maç, oran 4,70
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ❌ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01 · korner 3-9
-- ⏳ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.34
+- ✅ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.34 · 3-1
 
 ## 13.11 14:13 gönderilen kupon · 2 maç, oran 4,79
 

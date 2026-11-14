@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**372/876 tuttu** (isabet %42, beklenen %41) · -46.87 birim · 82 tahmin sonuç bekliyor
+**374/882 tuttu** (isabet %42, beklenen %41) · -48.34 birim · 79 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -18,6 +18,10 @@
 
 - ⏳ ↳ MS 2 & KG Var · @2.61
 
+**04:00 · Jamaika – Meksika**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.07
+
 **16:00 · Tenerife – AD Ceuta**
 
 - ⏳ ↳ İY/MS 1/1 · @2.52
@@ -29,6 +33,10 @@
 **17:00 · Letonya – Ermenistan**
 
 - ⏳ ↳ MS 2 · @2.22
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.93
 
 **20:00 · Belarus – Arnavutluk**
 
@@ -58,6 +66,7 @@
 **22:45 · Belçika – İtalya**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.81
+- ⏳ ↳ Korner 9.5 Üst · @1.74
 
 ## 14.11.2026 Cumartesi
 
@@ -237,15 +246,15 @@
 
 **20:00 · Norveç – Galler**
 
-- ⏳ ↳ MS 1 & KG Var · @2.43
+- ✅ ↳ MS 1 & KG Var · @2.43 · 3-1
 
 **20:00 · Gürcistan – Macaristan**
 
-- ⏳ ↳ Korner 7.5 Alt · @2.16
+- ❌ ↳ Korner 7.5 Alt · @2.16 · korner 8-6
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.10
+- ✅ ↳ MS 1 & 2.5 Üst · @2.10 · 2-1
 
 **20:30 · Hamilton – Ross County**
 
@@ -253,12 +262,12 @@
 
 **20:30 · Mallorca – Cordoba**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
-- ⏳ ↳ MS 2 · @3.83
+- ❌ ↳ MS 1 & 2.5 Üst · @2.49 · 3-3
+- ❌ ↳ MS 2 · @3.83 · 3-3
 
 **20:30 · Fleetwood – Tranmere**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
+- ❌ ↳ MS 1 & 2.5 Üst · @2.70 · 1-0
 
 **22:00 · Cezayir – Togo**
 

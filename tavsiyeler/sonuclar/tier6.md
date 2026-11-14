@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**93/893 tuttu** (isabet %10, beklenen %11) · -213.85 birim · 65 tahmin sonuç bekliyor
+**94/899 tuttu** (isabet %10, beklenen %11) · -212.61 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,6 +23,7 @@
 **18:15 · Granada – Las Palmas**
 
 - ⏳ 1-0 · @6.87
+- ⏳ 2-1 · @7.71
 
 **20:00 · Finlandiya – San Marino**
 
@@ -207,24 +208,24 @@
 
 **20:00 · Gürcistan – Macaristan**
 
-- ⏳ 1-1 · @5.05
+- ❌ 1-1 · @5.05 · 0-2
 
 **20:00 · Norveç – Galler**
 
-- ⏳ 2-1 · @8.07
+- ❌ 2-1 · @8.07 · 3-1
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ 2-1 · @7.24
+- ✅ 2-1 · @7.24 · 2-1
 
 **20:30 · Fleetwood – Tranmere**
 
-- ⏳ 2-1 · @6.69
+- ❌ 2-1 · @6.69 · 1-0
 
 **20:30 · Mallorca – Cordoba**
 
-- ⏳ 2-1 · @7.62
-- ⏳ 1-2 · @12.00
+- ❌ 2-1 · @7.62 · 3-3
+- ❌ 1-2 · @12.00 · 3-3
 
 **22:45 · Kuzey İrlanda – Ukrayna**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**177/609 tuttu** (isabet %29, beklenen %28) · -58.02 birim · 57 tahmin sonuç bekliyor
+**178/612 tuttu** (isabet %29, beklenen %28) · -58.16 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,6 +14,10 @@
 
 ## 15.11.2026 Pazar
 
+**04:00 · Jamaika – Meksika**
+
+- ⏳ ↳ MS 2 & KG Var · @3.38
+
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
 - ⏳ ↳ İY/MS 2/2 · @3.34
@@ -21,6 +25,10 @@
 **17:00 · Letonya – Ermenistan**
 
 - ⏳ ↳ İY/MS 2/2 · @3.59
+
+**18:15 · Granada – Las Palmas**
+
+- ⏳ ↳ MS 1 & KG Var · @3.79
 
 **20:30 · Eibar – Cadiz**
 
@@ -201,7 +209,7 @@
 
 **20:30 · Almeria – FC Andorra**
 
-- ⏳ ↳ MS 1 & KG Var · @2.86
+- ✅ ↳ MS 1 & KG Var · @2.86 · 2-1
 
 **20:30 · Hamilton – Ross County**
 
@@ -209,11 +217,11 @@
 
 **20:30 · Mallorca – Cordoba**
 
-- ⏳ ↳ MS 1 & KG Var · @3.16
+- ❌ ↳ MS 1 & KG Var · @3.16 · 3-3
 
 **20:30 · Fleetwood – Tranmere**
 
-- ⏳ ↳ MS 1 & KG Var · @3.52
+- ❌ ↳ MS 1 & KG Var · @3.52 · 1-0
 
 **22:00 · Sint Maarten – Fransız Guyanası**
 
