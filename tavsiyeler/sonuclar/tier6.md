@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/854 tuttu** (isabet %10, beklenen %11) · -208.50 birim · 84 tahmin sonuç bekliyor
+**88/855 tuttu** (isabet %10, beklenen %11) · -209.50 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -213,7 +213,7 @@
 
 **22:45 · Bulgaristan – İzlanda**
 
-- ⏳ 0-1 · @5.58
+- ❌ 0-1 · @5.58 · 0-5
 
 **22:45 · Hollanda – Yunanistan**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**14/37 tuttu** (isabet %38, beklenen %50) · -7.90 birim · 7 tahmin sonuç bekliyor
+**16/39 tuttu** (isabet %41, beklenen %50) · -5.19 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,17 +15,17 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 13.11 14:13 gönderilen kupon · 2 maç, oran 4,79
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.37
+- ✅ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.37 · 1-3
 - ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.02
 
 ## 12.11 14:30 gönderilen kupon · 2 maç, oran 5,48
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 5,48 birim
 
 - ✅ 12.11 22:45 İngiltere – Hırvatistan · MS 1 & KG Var · @2.34 · 2-1
-- ⏳ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.34
+- ✅ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.34 · 1-3
 
 ## 11.11 20:15 gönderilen kupon · 2 maç, oran 5,50
 

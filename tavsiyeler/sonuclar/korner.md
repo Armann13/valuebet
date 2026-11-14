@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**665/1215 tuttu** (isabet %55, beklenen %59) · -166.29 birim · 80 tahmin sonuç bekliyor
+**666/1220 tuttu** (isabet %55, beklenen %59) · -169.97 birim · 75 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -98,8 +98,8 @@
 
 **22:45 · Sırbistan – Almanya**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+- ❌ 🟢 Korner 7.5 Üst · @1.25 · korner 0-6
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.49 · korner 0-6
 
 **22:45 · Hollanda – Yunanistan**
 
@@ -107,7 +107,7 @@
 
 **22:45 · Slovenya – İsviçre**
 
-- ⏳ 🟢 En çok korner 2 · @1.32
+- ✅ 🟢 En çok korner 2 · @1.32 · korner 7-11
 
 **22:45 · Andorra – Cebelitarık**
 
@@ -115,8 +115,8 @@
 
 **22:45 · Bulgaristan – İzlanda**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.28
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.55
+- ❌ 🟢 Korner 7.5 Üst · @1.28 · korner 4-1
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.55 · korner 4-1
 
 **22:45 · Slovakya – Faroe Adaları**
 

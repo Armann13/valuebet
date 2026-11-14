@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1608 | 1586 | 814 | -125.33 |
-| sonra | 1357 | 1336 | 672 | -131.25 |
+| önce | 1608 | 1600 | 821 | -127.22 |
+| sonra | 1357 | 1350 | 677 | -135.42 |
 
-Değişen tahmin: 342 (336 sonuçlandı: eski 250, yeni 191 tuttu).
+Değişen tahmin: 342 (339 sonuçlandı: eski 251, yeni 191 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,8 +17,8 @@ Değişen tahmin: 342 (336 sonuçlandı: eski 250, yeni 191 tuttu).
 
 Kadro mesajı: 13.11 22:35
 
-- 🟢 Tier 1: ⏳ 2.5 Üst @1.27 → — (kalktı)
-- 🔴 Tier 3: ⏳ KG Var @2.69 → ⏳ KG Var @3.12 (aynı)
+- 🟢 Tier 1: ✅ 2.5 Üst @1.27 → — (kalktı)
+- 🔴 Tier 3: ✅ KG Var @2.69 → ✅ KG Var @3.12 (aynı)
 
 ## 13.11 · Lihtenştayn – Azerbaycan
 
@@ -55,8 +55,8 @@ Kadro mesajı: 13.11 21:49
 
 Kadro mesajı: 13.11 21:49
 
-- 🟢 Tier 1: ⏳ Korner 7.5 Üst @1.28 → ⏳ Korner 7.5 Üst @1.27 (aynı)
-- 🟡 Tier 2: ⏳ MS 2 @1.69, ⏳ Korner 8.5 Üst @1.55 → ⏳ MS 2 @1.57, ⏳ Korner 8.5 Üst @1.54 (aynı)
+- 🟢 Tier 1: ❌ Korner 7.5 Üst @1.28 → ❌ Korner 7.5 Üst @1.27 (aynı)
+- 🟡 Tier 2: ✅ MS 2 @1.69, ❌ Korner 8.5 Üst @1.55 → ✅ MS 2 @1.57, ❌ Korner 8.5 Üst @1.54 (aynı)
 - 🔴 Tier 3: ⏳ İY/MS 2/2 @2.59 → ⏳ İY/MS 2/2 @2.33 (aynı)
 
 ## 13.11 · Hollanda – Yunanistan
@@ -80,17 +80,17 @@ Kadro mesajı: 13.11 21:49
 
 Kadro mesajı: 13.11 21:49
 
-- 🟢 Tier 1: ⏳ En çok korner 2 @1.32, ⏳ ÇŞ 1-2 @1.21 → ⏳ ÇŞ 1-2 @1.21 (değişti)
-- 🟡 Tier 2: ⏳ MS 2 @1.53 → ⏳ MS 2 @1.58, ⏳ Korner 8.5 Alt @1.67 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.27 → ⏳ İY/MS 2/2 @2.37, ⏳ Korner 7.5 Alt @2.18 (değişti)
+- 🟢 Tier 1: ✅ En çok korner 2 @1.32, ❌ ÇŞ 1-2 @1.21 → ❌ ÇŞ 1-2 @1.21 (değişti)
+- 🟡 Tier 2: ❌ MS 2 @1.53 → ❌ MS 2 @1.58, ❌ Korner 8.5 Alt @1.67 (değişti)
+- 🔴 Tier 3: ❌ İY/MS 2/2 @2.27 → ❌ İY/MS 2/2 @2.37, ❌ Korner 7.5 Alt @2.18 (değişti)
 
 ## 13.11 · Sırbistan – Almanya
 
 Kadro mesajı: 13.11 21:49
 
-- 🟢 Tier 1: ⏳ 2.5 Üst @1.30, ⏳ Korner 7.5 Üst @1.25 → ⏳ 2.5 Üst @1.29, ⏳ Korner 7.5 Üst @1.22 (aynı)
-- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.50, ⏳ Korner 8.5 Üst @1.49 → ⏳ MS 2 & 2.5 Üst @1.42, ⏳ Korner 8.5 Üst @1.45 (aynı)
-- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.34 → ⏳ MS 2 & KG Var @2.43 (aynı)
+- 🟢 Tier 1: ✅ 2.5 Üst @1.30, ❌ Korner 7.5 Üst @1.25 → ✅ 2.5 Üst @1.29, ❌ Korner 7.5 Üst @1.22 (aynı)
+- 🟡 Tier 2: ✅ MS 2 & 2.5 Üst @1.50, ❌ Korner 8.5 Üst @1.49 → ✅ MS 2 & 2.5 Üst @1.42, ❌ Korner 8.5 Üst @1.45 (aynı)
+- 🔴 Tier 3: ✅ MS 2 & KG Var @2.34 → ✅ MS 2 & KG Var @2.43 (aynı)
 
 ## 13.11 · Leganes – CF Burgos
 

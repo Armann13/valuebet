@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/92 tuttu** (isabet %18, beklenen %16) · +0.91 birim · 4 tahmin sonuç bekliyor
+**17/94 tuttu** (isabet %18, beklenen %16) · -1.09 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,11 +28,11 @@
 
 **22:45 · Sırbistan – Almanya**
 
-- ⏳ 1-2 · @7.75
+- ❌ 1-2 · @7.75 · 1-3
 
 **22:45 · Slovenya – İsviçre**
 
-- ⏳ 0-1 · @5.02
+- ❌ 0-1 · @5.02 · 0-0
 
 ## 12.11.2026 Perşembe
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**357/840 tuttu** (isabet %42, beklenen %41) · -47.65 birim · 97 tahmin sonuç bekliyor
+**359/844 tuttu** (isabet %43, beklenen %41) · -46.62 birim · 93 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **02:00 · Saint Martin – El Salvador**
 
-- ⏳ ↳ MS 2 & KG Var · @2.29
+- ❌ ↳ MS 2 & KG Var · @2.29 · 0-2
 
 **03:00 · Kolombiya – Şili**
 
@@ -317,11 +317,11 @@
 
 **22:45 · Sırbistan – Almanya**
 
-- ⏳ ↳ MS 2 & KG Var · @2.34
+- ✅ ↳ MS 2 & KG Var · @2.34 · 1-3
 
 **22:45 · Slovenya – İsviçre**
 
-- ⏳ ↳ İY/MS 2/2 · @2.27
+- ❌ ↳ İY/MS 2/2 · @2.27
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
@@ -341,7 +341,7 @@
 
 **23:00 · Fas – Nijer**
 
-- ⏳ KG Var · @2.69
+- ✅ KG Var · @2.69 · 5-1
 
 ## 12.11.2026 Perşembe
 

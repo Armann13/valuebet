@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**601/1041 tuttu** (isabet %58, beklenen %59) · -106.73 birim · 123 tahmin sonuç bekliyor
+**603/1047 tuttu** (isabet %58, beklenen %59) · -109.54 birim · 117 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **02:00 · Arjantin – Uruguay**
 
-- ⏳ KG Yok · @1.50
+- ❌ KG Yok · @1.50 · 1-2
 
 **03:00 · Montserrat – Nikaragua**
 
@@ -394,12 +394,12 @@
 
 **22:45 · Sırbistan – Almanya**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.50
-- ⏳ ↳ Korner 8.5 Üst · @1.49
+- ✅ ↳ MS 2 & 2.5 Üst · @1.50 · 1-3
+- ❌ ↳ Korner 8.5 Üst · @1.49 · korner 0-6
 
 **22:45 · Slovenya – İsviçre**
 
-- ⏳ MS 2 · @1.53
+- ❌ MS 2 · @1.53 · 0-0
 
 **22:45 · İskoçya – Kuzey Makedonya**
 
@@ -408,8 +408,8 @@
 
 **22:45 · Bulgaristan – İzlanda**
 
-- ⏳ MS 2 · @1.69
-- ⏳ ↳ Korner 8.5 Üst · @1.55
+- ✅ MS 2 · @1.69 · 0-5
+- ❌ ↳ Korner 8.5 Üst · @1.55 · korner 4-1
 
 **22:45 · Lihtenştayn – Azerbaycan**
 
