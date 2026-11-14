@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/121 tuttu** (isabet %15, beklenen %13) · +206.50 birim · 51 tahmin sonuç bekliyor
+**18/124 tuttu** (isabet %15, beklenen %13) · +203.50 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @21.70
-- ⏳ 14.11 22:45 Portekiz – Danimarka · İY/MS 2/1 · @20.70
+- ❌ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @21.70
+- ❌ 14.11 22:45 Portekiz – Danimarka · İY/MS 2/1 · @20.70
 - ⏳ 15.11 18:15 Granada – Las Palmas · MS 1 · @1.87
 - ⏳ 15.11 22:45 Fransa – Türkiye · İY/MS 2/1 · @19.55
 - ⏳ 15.11 22:45 Hırvatistan – Çekya · İY/MS 2/1 · @21.95
@@ -24,7 +24,7 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 - ⏳ 14.11 18:00 Eastleigh – AFC Fylde · İY/MS 1/2 · @20.10
 - ❌ 14.11 18:00 Yeovil Town – Boreham Wood · İY/MS 1/2 · @20.45
 - ⏳ 14.11 20:00 Norveç – Galler · İY/MS 2/1 · @19.85
-- ⏳ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @22.70
+- ❌ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @22.70
 
 ## 13.11 22:51 gönderilen kupon · 4 maç, oran 206.731,63
 

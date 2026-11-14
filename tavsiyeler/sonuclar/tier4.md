@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**178/612 tuttu** (isabet %29, beklenen %28) · -58.16 birim · 56 tahmin sonuç bekliyor
+**180/617 tuttu** (isabet %29, beklenen %28) · -57.17 birim · 51 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -225,23 +225,23 @@
 
 **22:00 · Sint Maarten – Fransız Guyanası**
 
-- ⏳ ↳ MS 2 & KG Var · @3.25
+- ✅ ↳ MS 2 & KG Var · @3.25 · 1-5
 
 **22:45 · İsveç – Bosna Hersek**
 
-- ⏳ ↳ MS 1 & KG Var · @2.74
+- ✅ ↳ MS 1 & KG Var · @2.74 · 3-2
 
 **22:45 · Romanya – Polonya**
 
-- ⏳ ↳ MS 2 & KG Var · @3.35
+- ❌ ↳ MS 2 & KG Var · @3.35 · 2-1
 
 **22:45 · Avusturya – İrlanda**
 
-- ⏳ ↳ MS 1 & KG Var · @3.28
+- ❌ ↳ MS 1 & KG Var · @3.28 · 1-0
 
 **23:00 · Real Oviedo – Girona**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.68
+- ❌ ↳ MS 1 & 2.5 Üst · @3.68 · 1-2
 
 ## 13.11.2026 Cuma
 

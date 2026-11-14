@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/95 tuttu** (isabet %18, beklenen %16) · -2.09 birim · 3 tahmin sonuç bekliyor
+**17/96 tuttu** (isabet %18, beklenen %16) · -3.09 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **22:45 · Kuzey İrlanda – Ukrayna**
 
-- ⏳ 1-1 · @4.92
+- ❌ 1-1 · @4.92 · 1-0
 
 ## 13.11.2026 Cuma
 

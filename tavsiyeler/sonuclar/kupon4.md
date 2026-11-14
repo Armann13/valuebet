@@ -2,26 +2,26 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/95 tuttu** (isabet %39, beklenen %37) · +6.01 birim · 9 tahmin sonuç bekliyor
+**39/99 tuttu** (isabet %39, beklenen %37) · +7.86 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 14.11 21:16 gönderilen kupon · 4 maç, oran 58,68
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.11 22:00 Cezayir – Togo · MS 1 & KG Var · @3.13
-- ⏳ 14.11 22:45 İsveç – Bosna Hersek · MS 1 & KG Var · @2.85
+- ❌ 14.11 22:00 Cezayir – Togo · MS 1 & KG Var · @3.13 · 1-0
+- ✅ 14.11 22:45 İsveç – Bosna Hersek · MS 1 & KG Var · @2.85 · 3-2
 - ⏳ 15.11 22:45 Hırvatistan – Çekya · MS 1 & KG Var · @2.95
 - ⏳ 15.11 22:45 İspanya – İngiltere · MS 1 & 2.5 Üst · @2.23
 
 ## 14.11 13:40 gönderilen kupon · 4 maç, oran 61,78
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ✅ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.24 · 3-1
-- ⏳ 14.11 22:45 Romanya – Polonya · MS 2 & KG Var · @3.17
-- ⏳ 14.11 22:45 İsveç – Bosna Hersek · MS 1 & KG Var · @3.00
+- ❌ 14.11 22:45 Romanya – Polonya · MS 2 & KG Var · @3.17 · 2-1
+- ✅ 14.11 22:45 İsveç – Bosna Hersek · MS 1 & KG Var · @3.00 · 3-2
 - ⏳ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.90
 
 ## 13.11 22:51 gönderilen kupon · 4 maç, oran 34,64

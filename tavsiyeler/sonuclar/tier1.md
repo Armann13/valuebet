@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**486/682 tuttu** (isabet %71, beklenen %74) · -81.11 birim · 63 tahmin sonuç bekliyor
+**489/690 tuttu** (isabet %71, beklenen %74) · -85.27 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -110,29 +110,29 @@
 
 **22:45 · Avusturya – İrlanda**
 
-- ⏳ Korner 10.5 Alt · @1.20
+- ❌ Korner 10.5 Alt · @1.20 · korner 7-12
 
 **22:45 · Portekiz – Danimarka**
 
-- ⏳ En çok korner 1 · @1.25
+- ❌ En çok korner 1 · @1.25 · korner 6-7
 
 **22:45 · Romanya – Polonya**
 
-- ⏳ Korner 10.5 Alt · @1.24
+- ❌ Korner 10.5 Alt · @1.24 · korner 4-7
 
 **22:45 · İsveç – Bosna Hersek**
 
-- ⏳ En çok korner 1 · @1.32
-- ⏳ MS 1 · @1.31
+- ❌ En çok korner 1 · @1.32 · korner 3-7
+- ✅ MS 1 · @1.31 · 3-2
 
 **22:45 · Kuzey İrlanda – Ukrayna**
 
-- ⏳ 2.5 Alt · @1.30
-- ⏳ Korner 6.5 Üst · @1.21
+- ✅ 2.5 Alt · @1.30 · 1-0
+- ❌ Korner 6.5 Üst · @1.21 · korner 4-2
 
 **23:00 · Real Oviedo – Girona**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 1-2
 
 ## 13.11.2026 Cuma
 
