@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**88/856 tuttu** (isabet %10, beklenen %11) · -210.50 birim · 102 tahmin sonuç bekliyor
+**93/893 tuttu** (isabet %10, beklenen %11) · -213.85 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -60,49 +60,49 @@
 
 **15:30 · Exeter City – Cheltenham**
 
-- ⏳ 1-0 · @5.56
+- ✅ 1-0 · @5.56 · 1-0
 
 **16:00 · Real Valladolid – Castellon**
 
-- ⏳ 1-2 · @8.01
-- ⏳ 2-1 · @9.30
+- ❌ 1-2 · @8.01 · 0-1
+- ❌ 2-1 · @9.30 · 0-1
 
 **18:00 · Livingston – G. Morton**
 
-- ⏳ 2-1 · @6.77
+- ❌ 2-1 · @6.77 · 2-0
 
 **18:00 · Rochdale – York City**
 
-- ⏳ 1-2 · @6.44
+- ❌ 1-2 · @6.44 · 0-1
 
 **18:00 · Stenhousemuir – Queen's Park**
 
-- ⏳ 1-0 · @5.15
-- ⏳ 2-1 · @6.57
+- ❌ 1-0 · @5.15 · 2-0
+- ❌ 2-1 · @6.57 · 2-0
 
 **18:00 · Ayr United – Raith Rovers**
 
-- ⏳ 1-1 · @4.65
+- ❌ 1-1 · @4.65 · 3-1
 
 **18:00 · Port Vale – Accrington**
 
-- ⏳ 1-0 · @5.31
+- ❌ 1-0 · @5.31 · 4-2
 
 **18:00 · Carlisle – Boston United**
 
-- ⏳ 2-1 · @6.67
+- ❌ 2-1 · @6.67 · 2-0
 
 **18:00 · MK Dons – Burton Albion**
 
-- ⏳ 2-1 · @6.39
+- ❌ 2-1 · @6.39 · 6-2
 
 **18:00 · Eastleigh – AFC Fylde**
 
-- ⏳ 1-2 · @6.91
+- ✅ 1-2 · @6.91 · 1-2
 
 **18:00 · Southend – Aldershot**
 
-- ⏳ 2-1 · @6.73
+- ✅ 2-1 · @6.73 · 2-1
 
 **18:00 · Stevenage – Mansfield**
 
@@ -110,36 +110,36 @@
 
 **18:00 · Swindon Town – Grimsby Town**
 
-- ⏳ 1-2 · @6.85
+- ❌ 1-2 · @6.85 · 1-4
 
 **18:00 · Yeovil Town – Boreham Wood**
 
-- ⏳ 1-2 · @6.47
+- ❌ 1-2 · @6.47 · 2-2
 
 **18:00 · Harrogate – Altrincham**
 
-- ⏳ 2-1 · @6.54
+- ❌ 2-1 · @6.54 · 4-0
 
 **18:00 · Gateshead – Barrow**
 
-- ⏳ 1-2 · @6.33
+- ❌ 1-2 · @6.33 · 0-3
 
 **18:00 · Crewe Alexandra – Newport**
 
-- ⏳ 1-1 · @4.88
+- ❌ 1-1 · @4.88 · 2-2
 
 **18:00 · Colchester – Gillingham**
 
-- ⏳ 1-1 · @4.86
-- ⏳ 2-1 · @6.92
+- ❌ 1-1 · @4.86 · 2-0
+- ❌ 2-1 · @6.92 · 2-0
 
 **18:00 · Stockport – Reading**
 
-- ⏳ 2-1 · @6.62
+- ❌ 2-1 · @6.62 · 3-1
 
 **18:00 · Shrewsbury – Oldham**
 
-- ⏳ 1-1 · @4.80
+- ❌ 1-1 · @4.80 · 2-1
 
 **18:00 · Walsall – Barnet**
 
@@ -147,8 +147,8 @@
 
 **18:00 · Wigan Athletic – Barnsley**
 
-- ⏳ 2-1 · @7.32
-- ⏳ 1-2 · @8.42
+- ✅ 2-1 · @7.32 · 2-1
+- ❌ 1-2 · @8.42 · 2-1
 
 **18:00 · Wycombe – Huddersfield**
 
@@ -156,20 +156,20 @@
 
 **18:00 · P. Thistle – Inverness**
 
-- ⏳ 1-0 · @6.01
-- ⏳ 2-1 · @6.51
+- ❌ 1-0 · @6.01 · 3-2
+- ❌ 2-1 · @6.51 · 3-2
 
 **18:00 · Hartlepool – Wealdstone**
 
-- ⏳ 2-1 · @6.86
+- ❌ 2-1 · @6.86 · 1-1
 
 **18:00 · Sheffield Wednesday – Plymouth**
 
-- ⏳ 2-1 · @7.26
+- ❌ 2-1 · @7.26 · 3-0
 
 **18:00 · Sutton United – Solihull Moors**
 
-- ⏳ 2-1 · @6.72
+- ❌ 2-1 · @6.72 · 0-2
 
 **18:00 · Doncaster – Leyton Orient**
 
@@ -177,29 +177,29 @@
 
 **18:00 · Bristol Rovers – Chesterfield**
 
-- ⏳ 1-2 · @7.15
-- ⏳ 2-1 · @8.37
+- ❌ 1-2 · @7.15 · 0-2
+- ❌ 2-1 · @8.37 · 0-2
 
 **18:00 · Kidderminster Harriers – Halifax Town**
 
-- ⏳ 2-1 · @7.53
-- ⏳ 1-2 · @7.57
+- ❌ 2-1 · @7.53 · 1-1
+- ❌ 1-2 · @7.57 · 1-1
 
 **18:00 · Hornchurch – Tamworth**
 
-- ⏳ 2-1 · @7.13
+- ✅ 2-1 · @7.13 · 2-1
 
 **18:00 · Wimbledon – Blackpool**
 
-- ⏳ 1-2 · @7.48
+- ❌ 1-2 · @7.48 · 1-0
 
 **18:00 · Scunthorpe – Worthing**
 
-- ⏳ 1-2 · @8.34
+- ❌ 1-2 · @8.34 · 1-1
 
 **18:00 · Salford City – Northampton**
 
-- ⏳ 2-1 · @6.40
+- ❌ 2-1 · @6.40 · 1-1
 
 **18:15 · Real Sociedad B – S.Gijon**
 

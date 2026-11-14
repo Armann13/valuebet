@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**16/39 tuttu** (isabet %41, beklenen %50) · -5.19 birim · 7 tahmin sonuç bekliyor
+**16/42 tuttu** (isabet %38, beklenen %50) · -8.19 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,22 +10,22 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01
+- ❌ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01 · korner 3-9
 - ⏳ 15.11 00:30 Haiti – ABD · MS 2 & KG Var · @2.50
 
 ## 13.11 22:51 gönderilen kupon · 2 maç, oran 4,70
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01
+- ❌ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.01 · korner 3-9
 - ⏳ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.34
 
 ## 13.11 14:13 gönderilen kupon · 2 maç, oran 4,79
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 13.11 22:45 Sırbistan – Almanya · MS 2 & KG Var · @2.37 · 1-3
-- ⏳ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.02
+- ❌ 14.11 16:00 Real Valladolid – Castellon · En çok korner 1 · @2.02 · korner 3-9
 
 ## 12.11 14:30 gönderilen kupon · 2 maç, oran 5,48
 

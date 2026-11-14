@@ -6,12 +6,62 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1608 | 1600 | 821 | -127.22 |
-| sonra | 1357 | 1350 | 677 | -135.42 |
+| önce | 1636 | 1604 | 822 | -129.82 |
+| sonra | 1380 | 1353 | 677 | -138.42 |
 
-Değişen tahmin: 342 (339 sonuçlandı: eski 251, yeni 191 tuttu).
+Değişen tahmin: 350 (340 sonuçlandı: eski 252, yeni 191 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 14.11 · Almeria – FC Andorra
+
+Kadro mesajı: 14.11 19:41
+
+- 🟢 Tier 1: ⏳ Korner 11.5 Alt @1.26 → ⏳ Korner 11.5 Alt @1.20 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.49, ⏳ Korner 10.5 Alt @1.47 → ⏳ 2.5 Üst @1.60, ⏳ Korner 9.5 Alt @1.68 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.10 → ⏳ MS 1 & 2.5 Üst @2.45 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.86 → ⏳ MS 1 & KG Var @3.31 (aynı)
+
+## 14.11 · Fleetwood – Tranmere
+
+Kadro mesajı: 14.11 19:41
+
+- 🟡 Tier 2: ⏳ MS 1 @1.75, ⏳ 2.5 Üst @1.60 → ⏳ 2.5 Üst @1.60 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.70 → ⏳ MS 1 & 2.5 Üst @2.63 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.52 → ⏳ MS 1 & KG Var @3.46 (aynı)
+
+## 14.11 · Mallorca – Cordoba
+
+Kadro mesajı: 14.11 19:41
+
+- 🟡 Tier 2: ⏳ MS 1 @1.79, ⏳ En çok korner 2 @2.26, ⏳ ÇŞ X-2 @1.84 → ⏳ ÇŞ X-2 @1.90, ⏳ En çok korner 2 @2.25 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.49, ⏳ MS 2 @3.83 → ⏳ MS 2 @4.07 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.16 → — (kalktı)
+
+## 14.11 · Gürcistan – Macaristan
+
+Kadro mesajı: 14.11 19:09
+
+- 🟢 Tier 1: ⏳ Korner 10.5 Alt @1.20 → ⏳ ÇŞ 1-2 @1.24 (değişti)
+- 🟡 Tier 2: ⏳ 2.5 Alt @1.41, ⏳ Korner 9.5 Alt @1.40, ⏳ Korner 8.5 Alt @1.66 → ⏳ Korner 8.5 Alt @1.66 (değişti)
+- 🔴 Tier 3: ⏳ Korner 7.5 Alt @2.16 → ⏳ MS 2 @2.08, ⏳ Korner 7.5 Alt @2.16 (değişti)
+- 🟣 Tier 4: — → ⏳ İY/MS 2/2 @3.36 (yeni)
+
+## 14.11 · Norveç – Galler
+
+Kadro mesajı: 14.11 19:09
+
+- 🟢 Tier 1: ⏳ 2.5 Üst @1.31, ⏳ En çok korner 1 @1.28 → ⏳ 2.5 Üst @1.25, ⏳ En çok korner 1 @1.26 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 & 2.5 Üst @1.46 → ⏳ MS 1 & 2.5 Üst @1.47 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.43 → ⏳ MS 1 & KG Var @2.26 (aynı)
+
+## 14.11 · Uganda – Botsvana
+
+Kadro mesajı: 14.11 18:38
+
+- 🟡 Tier 2: ✅ 2.5 Alt @1.40, ❌ MS 1 @1.41 → ❌ MS 1 @1.44 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.65 → ❌ MS 1 & 2.5 Üst @2.87 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @4.18 → ❌ MS 1 & KG Var @4.51 (aynı)
 
 ## 13.11 · Fas – Nijer
 

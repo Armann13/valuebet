@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**37/98 tuttu** (isabet %38, beklenen %42) · -11.67 birim · 1 tahmin sonuç bekliyor
+**38/99 tuttu** (isabet %38, beklenen %42) · -10.48 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,11 @@
 
 **16:00 · Real Valladolid – Castellon**
 
-- ⏳ KG Yok · @2.19
+- ✅ KG Yok · @2.19 · 0-1
+
+**18:15 · Real Sociedad B – S.Gijon**
+
+- ⏳ MS 2 · @3.12
 
 ## 08.11.2026 Pazar
 

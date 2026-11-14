@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**479/674 tuttu** (isabet %71, beklenen %74) · -82.08 birim · 68 tahmin sonuç bekliyor
+**483/678 tuttu** (isabet %71, beklenen %74) · -80.96 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -66,15 +66,15 @@
 
 **15:00 · Çin – Malezya**
 
-- ⏳ MS 1 · @1.32
+- ✅ MS 1 · @1.32 · 2-0
 
 **18:00 · Southend – Aldershot**
 
-- ⏳ MS 1 · @1.26
+- ✅ MS 1 · @1.26 · 2-1
 
 **18:00 · Carlisle – Boston United**
 
-- ⏳ MS 1 · @1.31
+- ✅ MS 1 · @1.31 · 2-0
 
 **18:00 · Wycombe – Huddersfield**
 
@@ -82,7 +82,7 @@
 
 **18:00 · Filistin – İran**
 
-- ⏳ MS 2 · @1.23
+- ✅ MS 2 · @1.23 · 0-2
 
 **18:15 · Real Sociedad B – S.Gijon**
 

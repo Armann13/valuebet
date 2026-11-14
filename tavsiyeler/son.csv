@@ -1,385 +1,404 @@
 maç,lig,tarih,saat,baslama,gün,mbs,kaynak,hg,ag,div,home,away,tahmin,p,odd,değer,gerçek_değer,sıra,merdiven,seviye
-İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,MS 1,0.7953971644915867,1.2,-0.04552340261009602,False,0.0,False,🟢 Tier 1 — Düşük risk
+Southend – Aldershot,EC,14.11,,,2026-11-14,,piyasa,,,EC,Southend,Aldershot,ÇŞ 1-2,0.8261176213694655,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Carlisle – Boston Utd,EC,14.11,,,2026-11-14,,piyasa,,,EC,Carlisle,Boston Utd,ÇŞ 1-2,0.8136110704890087,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+East Kilbride – Alloa,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Kilbride,Alloa,ÇŞ 1-X,0.8129343295964627,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Milton Keynes Dons – Burton,E2,14.11,,,2026-11-14,,piyasa,,,E2,Milton Keynes Dons,Burton,ÇŞ 1-X,0.8097891649135733,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Stenhousemuir – Queens Park,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Stenhousemuir,Queens Park,ÇŞ 1-X,0.8082858901048867,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Airdrie Utd – Queen of Sth,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Airdrie Utd,Queen of Sth,ÇŞ 1-X,0.8070757430145715,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Almeria – Andorra,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Almeria,Andorra,ÇŞ 1-X,0.8068476491286045,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Yeovil – Boreham Wood,EC,14.11,,,2026-11-14,,piyasa,,,EC,Yeovil,Boreham Wood,ÇŞ X-2,0.8065241356121213,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Eastleigh – Fylde,EC,14.11,,,2026-11-14,,piyasa,,,EC,Eastleigh,Fylde,ÇŞ 1-2,0.7834904636184771,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Gateshead – Barrow,EC,14.11,,,2026-11-14,,piyasa,,,EC,Gateshead,Barrow,ÇŞ 1-2,0.7826600592141107,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Hamilton – Ross County,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Hamilton,Ross County,ÇŞ X-2,0.7812814477274251,,,False,0.0,False,🟢 Tier 1 — Düşük risk
 Eritre – Gine,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Eritrea,Guinea,MS 2,0.7773356930181966,1.21,-0.059423811447982144,False,0.0,False,🟢 Tier 1 — Düşük risk
+Partick – Inverness C,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Partick,Inverness C,ÇŞ 1-X,0.769762803329215,,,False,0.0,False,🟢 Tier 1 — Düşük risk
 Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,ÇŞ 1-X,0.7674127811429841,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,2.5 Üst,0.7437176915581061,1.25,-0.0703528855523674,False,0.0,False,🟢 Tier 1 — Düşük risk
-Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,ÇŞ 1-2,0.7428689696874372,,,False,0.0,False,🟢 Tier 1 — Düşük risk
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1,0.7325358679411236,1.29,-0.05502873035595057,False,0.0,False,🟢 Tier 1 — Düşük risk
-Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,ÇŞ 1-2,0.7306303528125611,1.2,-0.1232435766249268,False,0.0,False,🟢 Tier 1 — Düşük risk
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,ÇŞ 1-2,0.728480085123836,1.21,-0.11853909700015852,False,0.0,False,🟢 Tier 1 — Düşük risk
+Harrogate – Altrincham,EC,14.11,,,2026-11-14,,piyasa,,,EC,Harrogate,Altrincham,ÇŞ 1-2,0.7673881153875254,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Dumbarton – Annan Athletic,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Dumbarton,Annan Athletic,ÇŞ 1-2,0.7667848840672167,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Rochdale – York,E3,14.11,,,2026-11-14,,piyasa,,,E3,Rochdale,York,ÇŞ X-2,0.765680549751039,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Stockport – Reading,E2,14.11,,,2026-11-14,,piyasa,,,E2,Stockport,Reading,ÇŞ 1-X,0.7610096742701451,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Livingston – Morton,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Livingston,Morton,MS 1,0.7598731206627692,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Scunthorpe – Worthing,EC,14.11,,,2026-11-14,,piyasa,,,EC,Scunthorpe,Worthing,ÇŞ 1-2,0.7592707647869966,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Salford – Northampton,E3,14.11,,,2026-11-14,,piyasa,,,E3,Salford,Northampton,ÇŞ 1-2,0.7569936953803348,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Stirling – Elgin,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Stirling,Elgin,ÇŞ 1-2,0.7545126947562354,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Swindon – Grimsby,E3,14.11,,,2026-11-14,,piyasa,,,E3,Swindon,Grimsby,ÇŞ 1-2,0.7515927681772471,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Ayr – Raith Rvs,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Ayr,Raith Rvs,ÇŞ X-2,0.7515311794410535,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Mallorca – Cordoba,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Mallorca,Cordoba,ÇŞ 1-2,0.7511259726166337,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Sutton – Solihull,EC,14.11,,,2026-11-14,,piyasa,,,EC,Sutton,Solihull,ÇŞ 1-2,0.7510387665807449,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Port Vale – Accrington,E3,14.11,,,2026-11-14,,piyasa,,,E3,Port Vale,Accrington,ÇŞ 1-X,0.7501195831736976,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Kelty Hearts – Stranraer,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Kelty Hearts,Stranraer,ÇŞ 1-2,0.7476110679817559,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2,0.7468325194883676,1.25,-0.06645935063954056,False,0.0,False,🟢 Tier 1 — Düşük risk
+Hornchurch – Tamworth,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hornchurch,Tamworth,ÇŞ 1-2,0.7443292681525913,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,ÇŞ 1-2,0.742868969687437,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Wigan – Barnsley,E2,14.11,,,2026-11-14,,piyasa,,,E2,Wigan,Barnsley,ÇŞ 1-2,0.7428181842471692,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Edinburgh City – Clyde,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Edinburgh City,Clyde,ÇŞ 1-2,0.7425779617679146,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Fleetwood Town – Tranmere,E3,14.11,,,2026-11-14,,piyasa,,,E3,Fleetwood Town,Tranmere,ÇŞ 1-X,0.7421433082531017,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Forfar – Spartans,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Forfar,Spartans,ÇŞ 1-2,0.741230375418452,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Hartlepool – Wealdstone,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hartlepool,Wealdstone,ÇŞ 1-2,0.7406062870480895,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Namibya – Kamerun,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Namibia,Cameroon,MS 2,0.739977775584463,1.26,-0.06762800276357661,False,0.0,False,🟢 Tier 1 — Düşük risk
+Sheffield Weds – Plymouth,E2,14.11,,,2026-11-14,,piyasa,,,E2,Sheffield Weds,Plymouth,ÇŞ 1-2,0.738104147630678,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,ÇŞ 1-2,0.7306303528125612,1.2,-0.12324357662492658,False,0.0,False,🟢 Tier 1 — Düşük risk
+Crewe – Newport County,E3,14.11,,,2026-11-14,,piyasa,,,E3,Crewe,Newport County,ÇŞ 1-X,0.7297615525161084,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Bristol Rvs – Chesterfield,E3,14.11,,,2026-11-14,,piyasa,,,E3,Bristol Rvs,Chesterfield,ÇŞ 1-2,0.7295169531882378,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,ÇŞ 1-2,0.7281522647607915,1.21,-0.11893575963944225,False,0.0,False,🟢 Tier 1 — Düşük risk
 Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,MS 1,0.7273140252955167,1.3,-0.05449176711582826,False,0.0,False,🟢 Tier 1 — Düşük risk
+Kidderminster – Halifax,EC,14.11,,,2026-11-14,,piyasa,,,EC,Kidderminster,Halifax,ÇŞ 1-2,0.7258720479687226,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Cove Rangers – Montrose,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Cove Rangers,Montrose,ÇŞ 1-2,0.7249638266934865,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+East Fife – Peterhead,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Fife,Peterhead,ÇŞ 1-2,0.7240631660267322,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,2.5 Alt,0.7237242938109794,1.28,-0.07363290392194644,False,0.0,False,🟢 Tier 1 — Düşük risk
 Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,2.5 Üst,0.7231838361614261,1.28,-0.07432468971337458,False,0.0,False,🟢 Tier 1 — Düşük risk
-Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & 2.5 Üst,0.71830823021772,1.36,-0.023100806903900817,False,0.0,False,🟢 Tier 1 — Düşük risk
-Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,2.5 Alt,0.7159804318241416,1.29,-0.07638524294685733,False,0.0,False,🟢 Tier 1 — Düşük risk
+Colchester – Gillingham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Colchester,Gillingham,ÇŞ 1-2,0.7229237016179347,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+AFC Wimbledon – Blackpool,E2,14.11,,,2026-11-14,,piyasa,,,E2,AFC Wimbledon,Blackpool,ÇŞ 1-2,0.7221136198869353,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Cebelitarık – Malta,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Gibraltar,Malta,MS 2,0.7138140896561841,1.32,-0.05776540165383692,False,0.0,False,🟢 Tier 1 — Düşük risk
+Shrewsbury – Oldham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Shrewsbury,Oldham,ÇŞ 1-2,0.7132419057102258,,,False,0.0,False,🟢 Tier 1 — Düşük risk
 Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,ÇŞ 1-2,0.7130414815888294,1.23,-0.12295897764573982,False,0.0,False,🟢 Tier 1 — Düşük risk
-Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,ÇŞ 1-2,0.7104186729437454,1.24,-0.11908084554975573,False,0.0,False,🟢 Tier 1 — Düşük risk
-Filistin – İran,Uluslararası Hazırlık Maçları,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,oran,,,MILLI,Palestine,Iran,MS 2,0.7087868981500405,1.31,-0.07148916342344691,False,0.0,False,🟢 Tier 1 — Düşük risk
-Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,ÇŞ 1-2,0.706883822370733,1.24,-0.12346406026029111,False,0.0,False,🟢 Tier 1 — Düşük risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,ÇŞ 1-2,0.7038906398788968,1.2,-0.15533123214532385,False,0.0,False,🟢 Tier 1 — Düşük risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,ÇŞ 1-2,0.702933026082455,1.25,-0.12133371739693122,False,0.0,False,🟢 Tier 1 — Düşük risk
-Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2,0.7026861346956207,1.32,-0.07245430220178062,False,0.0,False,🟢 Tier 1 — Düşük risk
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,ÇŞ 1-X,0.7019371790855078,1.23,-0.13661726972482546,False,0.0,False,🟢 Tier 1 — Düşük risk
-Sudan – Senegal,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Sudan,Senegal,KG Yok,0.7018393187917445,1.23,-0.13673763788615423,False,0.0,False,🟢 Tier 1 — Düşük risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & 2.5 Üst,0.7129291798410257,1.37,-0.023287023617794778,False,0.0,False,🟢 Tier 1 — Düşük risk
+Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,ÇŞ 1-2,0.7104186729437453,1.24,-0.11908084554975584,False,0.0,False,🟢 Tier 1 — Düşük risk
+Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1,0.708573304818725,1.31,-0.07176897068747012,False,0.0,False,🟢 Tier 1 — Düşük risk
+Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,ÇŞ 1-2,0.7068838223707331,1.24,-0.123464060260291,False,0.0,False,🟢 Tier 1 — Düşük risk
+Sociedad B – Sp Gijon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Sociedad B,Sp Gijon,ÇŞ 1-2,0.7038906398788968,,,False,0.0,False,🟢 Tier 1 — Düşük risk
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,ÇŞ 1-X,0.701937179085508,1.23,-0.13661726972482513,False,0.0,False,🟢 Tier 1 — Düşük risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,Korner 7.5 Üst,0.7705410535910435,1.2,-0.0753507356907478,False,0.0,False,🟢 Tier 1 — Düşük risk
 Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,Korner 6.5 Üst,0.7630852008099079,1.21,-0.07666690702001144,False,0.0,False,🟢 Tier 1 — Düşük risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Almeria,Andorra,Korner 11.5 Alt,0.7601739105481152,1.24,-0.05738435092033711,False,0.0,False,🟢 Tier 1 — Düşük risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,Korner 10.5 Alt,0.7621596940047182,1.21,-0.07778677025429104,False,0.0,False,🟢 Tier 1 — Düşük risk
 İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,Korner 7.5 Üst,0.747913647407829,1.23,-0.08006621368837041,False,0.0,False,🟢 Tier 1 — Düşük risk
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 10.5 Alt,0.7468851509785381,1.23,-0.08133126429639814,False,0.0,False,🟢 Tier 1 — Düşük risk
-Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,En çok korner 2,0.7450742516860874,1.24,-0.07610792790925158,False,0.0,False,🟢 Tier 1 — Düşük risk
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,En çok korner 1,0.7435996803472614,1.25,-0.07050039956592324,False,0.0,False,🟢 Tier 1 — Düşük risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 11.5 Alt,0.7393768027667662,1.21,-0.10535406865221286,False,0.0,False,🟢 Tier 1 — Düşük risk
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,En çok korner 1,0.7366986598551808,1.26,-0.07175968858247217,False,0.0,False,🟢 Tier 1 — Düşük risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,korner,,,SP2,Sociedad B,Sp Gijon,Korner 11.5 Alt,0.7353303063163315,1.21,-0.110250329357239,False,0.0,False,🟢 Tier 1 — Düşük risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 10.5 Alt,0.7141592720090052,1.32,-0.05730976094811313,False,0.0,False,🟢 Tier 1 — Düşük risk
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,En çok korner 1,0.7133101769758327,1.3,-0.0726967699314175,False,0.0,False,🟢 Tier 1 — Düşük risk
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,Korner 9.5 Alt,0.705687768335669,1.26,-0.11083341189705698,False,0.0,False,🟢 Tier 1 — Düşük risk
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1,0.6580304150217077,1.42,-0.06559681066917511,False,0.0,False,🟡 Tier 2 — Orta risk
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,MS 1 & 2.5 Üst,0.6521971729138535,1.47,-0.0412701558166354,False,0.0,True,🟡 Tier 2 — Orta risk
-Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,MS 2,0.6521107527422161,1.43,-0.06748162357863108,False,0.0,False,🟡 Tier 2 — Orta risk
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1,0.643187131522337,1.45,-0.06737865929261144,False,0.0,False,🟡 Tier 2 — Orta risk
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 10.5 Alt,0.7463640122290135,1.23,-0.08197226495831345,False,0.0,False,🟢 Tier 1 — Düşük risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 11.5 Alt,0.7393768027750738,1.21,-0.10535406864216079,False,0.0,False,🟢 Tier 1 — Düşük risk
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,En çok korner 1,0.7366986598551808,1.26,-0.07175968858247217,False,0.0,False,🟢 Tier 1 — Düşük risk
+Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,En çok korner 2,0.7357842356670421,1.25,-0.08026970541619738,False,0.0,False,🟢 Tier 1 — Düşük risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 10.5 Alt,0.7141592720005885,1.32,-0.05730976095922313,False,0.0,False,🟢 Tier 1 — Düşük risk
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,Korner 9.5 Alt,0.7048822809918172,1.26,-0.11184832595031036,False,0.0,False,🟢 Tier 1 — Düşük risk
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,En çok korner 1,0.7007263978264331,1.32,-0.07504115486910823,False,0.0,False,🟢 Tier 1 — Düşük risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.538676302516292,1.87,0.007324685705466072,True,1.0,False,🟡 Tier 2 — Orta risk
+Southend – Aldershot,EC,14.11,,,2026-11-14,,piyasa,,,EC,Southend,Aldershot,MS 1,0.6922356056548575,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Yeni Zelanda – Hindistan,Uluslararası Hazırlık Maçları,15.11,06:00,2026-11-15 06:00,2026-11-15,3.0,model,,,MILLI,New Zealand,India,KG Yok,0.6701053554424533,1.42,-0.04845039527171635,False,0.0,False,🟡 Tier 2 — Orta risk
+Carlisle – Boston Utd,EC,14.11,,,2026-11-14,,piyasa,,,EC,Carlisle,Boston Utd,MS 1,0.6595221912450954,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1,0.6591347741076554,1.42,-0.06402862076712934,False,0.0,False,🟡 Tier 2 — Orta risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1,0.6580304150217076,1.42,-0.06559681066917533,False,0.0,False,🟡 Tier 2 — Orta risk
+Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,MS 2,0.6521107527422163,1.43,-0.06748162357863075,False,0.0,False,🟡 Tier 2 — Orta risk
+Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,MS 1,0.6480796314637847,1.44,-0.06676533069215007,False,0.0,False,🟡 Tier 2 — Orta risk
 Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,MS 1,0.6389368026437066,1.46,-0.06715226814018849,False,0.0,False,🟡 Tier 2 — Orta risk
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,ÇŞ X-2,0.6362794594340674,1.42,-0.09648316760362441,False,0.0,False,🟡 Tier 2 — Orta risk
-Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1,0.6349402514879615,1.44,-0.08568603785733542,False,0.0,False,🟡 Tier 2 — Orta risk
-Gateshead – Barrow,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Gateshead,Barrow,MS 2,0.6237504806280717,1.42,-0.11427431750813821,False,0.0,False,🟡 Tier 2 — Orta risk
-Yeovil Town – Boreham Wood,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Yeovil,Boreham Wood,KG Var,0.6211308881055906,1.43,-0.11178283000900546,False,0.0,False,🟡 Tier 2 — Orta risk
-Uganda – Botsvana,Afrika Uluslar Kup.,14.11,19:00,2026-11-14 19:00,2026-11-14,3.0,oran,,,MILLI,Uganda,Botswana,MS 1,0.6204006031279888,1.47,-0.08801111340185641,False,0.0,False,🟡 Tier 2 — Orta risk
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2,0.6146204464818349,1.51,-0.07192312581242932,False,0.0,False,🟡 Tier 2 — Orta risk
-Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,MS 1,0.6138955673745321,1.51,-0.0730176932644565,False,0.0,False,🟡 Tier 2 — Orta risk
-East Kilbri – Alloa,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,East Kilbride,Alloa,KG Var,0.6052772001747102,1.43,-0.13445360375016446,False,0.0,False,🟡 Tier 2 — Orta risk
-Zimbabve – Ekvator Ginesi,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Zimbabwe,Equatorial Guinea,KG Yok,0.6032025421820558,1.48,-0.10726023757055736,False,0.0,False,🟡 Tier 2 — Orta risk
-Wigan Athletic – Barnsley,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Wigan,Barnsley,ÇŞ X-2,0.6030268630744838,1.44,-0.1316413171727433,False,0.0,False,🟡 Tier 2 — Orta risk
-Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,2.5 Üst,0.6028303178291545,1.49,-0.10178282643455971,False,0.0,False,🟡 Tier 2 — Orta risk
-Stirling Alb – Elgin City,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Stirling,Elgin,2.5 Üst,0.6013960028458348,1.42,-0.14601767595891457,False,0.0,False,🟡 Tier 2 — Orta risk
-Hartlepool – Wealdstone,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hartlepool,Wealdstone,KG Var,0.6011311569416199,1.4,-0.15841638028173222,False,0.0,False,🟡 Tier 2 — Orta risk
-Sint Maarten – Fransız Guyanası,CONCACAF Uluslar B Ligi,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Sint Maarten,French Guiana,MS 2,0.6007640705275503,1.51,-0.09284625350339903,False,0.0,False,🟡 Tier 2 — Orta risk
-Edinburgh – Clyde Bank,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Edinburgh City,Clyde,KG Var,0.5958196210610992,1.43,-0.14797794188262814,False,0.0,False,🟡 Tier 2 — Orta risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1,0.5936965094320078,1.5,-0.10945523585198824,False,0.0,False,🟡 Tier 2 — Orta risk
-Sheffield Wednesday – Plymouth,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Sheffield Weds,Plymouth,2.5 Üst,0.5936929400508184,1.6,-0.05009129591869055,False,0.0,False,🟡 Tier 2 — Orta risk
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & 2.5 Üst,0.5932639828214155,1.55,-0.08044082662680596,False,0.0,False,🟡 Tier 2 — Orta risk
-Scunthorpe – Worthing,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Scunthorpe,Worthing,ÇŞ X-2,0.5931588994177093,1.4,-0.16957754081520704,False,0.0,False,🟡 Tier 2 — Orta risk
-Ayr United – Raith Rovers,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Ayr,Raith Rvs,2.5 Alt,0.5924529944574904,1.43,-0.15279221792578868,False,0.0,False,🟡 Tier 2 — Orta risk
-Kelty Hearts – Stranraer,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Kelty Hearts,Stranraer,2.5 Üst,0.591838245964717,1.47,-0.129997778431866,False,0.0,False,🟡 Tier 2 — Orta risk
-Orta Afrika Cumhuriyeti – Benin,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Central African Republic,Benin,MS 2,0.5915871610011614,1.53,-0.0948716436682231,False,0.0,False,🟡 Tier 2 — Orta risk
-Bristol Rovers – Chesterfield,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Bristol Rvs,Chesterfield,ÇŞ 1-X,0.5908432797915754,1.42,-0.16100254269596304,False,0.0,False,🟡 Tier 2 — Orta risk
-Southend – Aldershot,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Southend,Aldershot,KG Var,0.590472162274811,1.41,-0.16743425119251654,False,0.0,False,🟡 Tier 2 — Orta risk
-Walsall – Barnet,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E3,Walsall,Barnet,2.5 Üst,0.5903368067019736,1.47,-0.13220489414809877,False,0.0,False,🟡 Tier 2 — Orta risk
-İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,MS 1,0.5848916604326656,1.58,-0.0758711765163883,False,0.0,False,🟡 Tier 2 — Orta risk
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1,0.584151077656659,1.58,-0.07704129730247877,False,0.0,False,🟡 Tier 2 — Orta risk
-Airdrieonian – Queen of The South,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1,0.582773414610103,1.47,-0.14332308052314857,False,0.0,False,🟡 Tier 2 — Orta risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1,0.5815174490620768,1.68,-0.023050685575710994,False,0.0,False,🟡 Tier 2 — Orta risk
-Namibya – Kamerun,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Namibia,Cameroon,2.5 Alt,0.5804016377150107,1.49,-0.135201559804634,False,0.0,False,🟡 Tier 2 — Orta risk
-Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2,0.5796239898630757,1.59,-0.07839785611770955,False,0.0,False,🟡 Tier 2 — Orta risk
-Angola – Güney Sudan,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,model,,,MILLI,Angola,South Sudan,2.5 Üst,0.5761664791465635,1.5,-0.13575028128015476,False,0.0,False,🟡 Tier 2 — Orta risk
-Hornchurch – Tamworth,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hornchurch,Tamworth,2.5 Üst,0.5759062743547468,1.47,-0.1534177766985222,False,0.0,False,🟡 Tier 2 — Orta risk
-MK Dons – Burton Albion,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Milton Keynes Dons,Burton,KG Var,0.5751147147209227,1.45,-0.1660836636546621,False,0.0,False,🟡 Tier 2 — Orta risk
-Wycombe – Huddersfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Wycombe,Huddersfield,2.5 Üst,0.5732661564473082,1.5,-0.1401007653290378,False,0.0,False,🟡 Tier 2 — Orta risk
-Sutton United – Solihull Moors,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Sutton,Solihull,2.5 Üst,0.5701350541396633,1.48,-0.1562001198732984,False,0.0,False,🟡 Tier 2 — Orta risk
-Cove Rangers – Montrose,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,Cove Rangers,Montrose,KG Var,0.5660682721213877,1.5,-0.1508975918179185,False,0.0,False,🟡 Tier 2 — Orta risk
-Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,MS 1,0.5525302931738775,1.66,-0.08279971333136349,False,0.0,False,🟡 Tier 2 — Orta risk
-Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,MS 1,0.5521340416972014,1.66,-0.08345749078264575,False,0.0,False,🟡 Tier 2 — Orta risk
-Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & 2.5 Üst,0.5503660845237058,1.61,-0.11391060391683361,False,0.0,False,🟡 Tier 2 — Orta risk
-Stevenage – Mansfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Stevenage,Mansfield,2.5 Alt,0.5465719103331558,1.56,-0.147347819880277,False,0.0,False,🟡 Tier 2 — Orta risk
-East Fife – Peterhead,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,East Fife,Peterhead,KG Var,0.5458691633209082,1.5,-0.18119625501863768,False,0.0,False,🟡 Tier 2 — Orta risk
-Stenhousemuir – Queen's Park,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1,0.5448891273109241,1.62,-0.11727961375630291,False,0.0,False,🟡 Tier 2 — Orta risk
-Swindon Town – Grimsby Town,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Swindon,Grimsby,ÇŞ 1-X,0.5443287509399712,1.52,-0.17262029857124372,False,0.0,False,🟡 Tier 2 — Orta risk
-Hamilton – Ross County,SC2,14.11,20:30,2026-11-14 20:30,2026-11-14,3.0,piyasa,,,SC2,Hamilton,Ross County,MS 2,0.54390655905196,1.59,-0.1351885711073837,False,0.0,False,🟡 Tier 2 — Orta risk
-Doncaster – Leyton Orient,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Doncaster,Leyton Orient,2.5 Üst,0.5407637143577486,1.57,-0.15100096845833466,False,0.0,False,🟡 Tier 2 — Orta risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.5386763025162918,1.78,-0.041156181521000534,False,0.0,False,🟡 Tier 2 — Orta risk
-Eastleigh – AFC Fylde,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Eastleigh,Fylde,MS 2,0.5335549290825349,1.67,-0.10896326843216675,False,0.0,False,🟡 Tier 2 — Orta risk
-Forfar – Spartans Edinburgh FC,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Forfar,Spartans,2.5 Üst,0.5326487017623236,1.56,-0.16906802525077513,False,0.0,False,🟡 Tier 2 — Orta risk
-Dumbarton – Annan Athletic,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1,0.5269989853530729,1.64,-0.13572166402096053,False,0.0,False,🟡 Tier 2 — Orta risk
-Colchester – Gillingham,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Colchester,Gillingham,KG Var,0.525889361037684,1.58,-0.1690948095604592,False,0.0,False,🟡 Tier 2 — Orta risk
-P. Thistle – Inverness,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Partick,Inverness C,2.5 Üst,0.5256671637145678,1.6,-0.1589325380566915,False,0.0,False,🟡 Tier 2 — Orta risk
-Crewe Alexandra – Newport,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Crewe,Newport County,2.5 Alt,0.5255371400565583,1.59,-0.16439594731007234,False,0.0,False,🟡 Tier 2 — Orta risk
-Rochdale – York City,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Rochdale,York,MS 2,0.5253345789705456,1.59,-0.1647180194368325,False,0.0,False,🟡 Tier 2 — Orta risk
-Fleetwood – Tranmere,E3,14.11,20:30,2026-11-14 20:30,2026-11-14,2.0,piyasa,,,E3,Fleetwood Town,Tranmere,2.5 Üst,0.5216219117480398,1.6,-0.1654049412031362,False,0.0,False,🟡 Tier 2 — Orta risk
-Shrewsbury – Oldham,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Shrewsbury,Oldham,2.5 Alt,0.519409643026439,1.59,-0.17413866758796193,False,0.0,False,🟡 Tier 2 — Orta risk
-Kidderminster Harriers – Halifax Town,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Kidderminster,Halifax,2.5 Üst,0.5176668308536546,1.6,-0.17173307063415255,False,0.0,False,🟡 Tier 2 — Orta risk
-Stockport – Reading,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Stockport,Reading,MS 1,0.5159573559135152,1.53,-0.2105852454523217,False,0.0,False,🟡 Tier 2 — Orta risk
-Harrogate – Altrincham,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Harrogate,Altrincham,MS 1,0.5123023400909306,1.65,-0.15470113884996461,False,0.0,False,🟡 Tier 2 — Orta risk
-Livingston – G. Morton,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Livingston,Morton,KG Var,0.5108670857407713,1.72,-0.12130861252587333,False,0.0,False,🟡 Tier 2 — Orta risk
-Port Vale – Accrington,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Port Vale,Accrington,KG Yok,0.5103870655386911,1.67,-0.147653600550386,False,0.0,False,🟡 Tier 2 — Orta risk
-Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1,0.5099227369565535,,,False,0.0,True,🟡 Tier 2 — Orta risk
-İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,İY/MS 1/1,0.5056144304980432,1.65,-0.16573618967822878,False,0.0,True,🟡 Tier 2 — Orta risk
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,MS 2,0.5050078647256481,1.8,-0.09098584349383343,False,0.0,True,🟡 Tier 2 — Orta risk
-Mallorca – Cordoba,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Mallorca,Cordoba,ÇŞ X-2,0.5042937972719033,1.84,-0.07209941301969791,False,0.0,False,🟡 Tier 2 — Orta risk
-Salford City – Northampton,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Salford,Northampton,2.5 Alt,0.5026614142042428,1.71,-0.14044898171074482,False,0.0,False,🟡 Tier 2 — Orta risk
-Carlisle – Boston United,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Carlisle,Boston Utd,MS 1 & 2.5 Üst,0.5003008464605316,1.63,-0.18450962026933349,False,0.0,False,🟡 Tier 2 — Orta risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Almeria,Andorra,Korner 10.5 Alt,0.6755437399614297,1.43,-0.03397245185515563,False,0.0,True,🟡 Tier 2 — Orta risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 10.5 Alt,0.6523369825183598,1.4,-0.08672822447429629,False,0.0,True,🟡 Tier 2 — Orta risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,korner,,,SP2,Sociedad B,Sp Gijon,Korner 10.5 Alt,0.6477149634142123,1.4,-0.09319905122010286,False,0.0,True,🟡 Tier 2 — Orta risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 9.5 Alt,0.6182819305307361,1.57,-0.029297369066744294,False,0.0,True,🟡 Tier 2 — Orta risk
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2,0.6342675489860504,1.47,-0.06762670299050588,False,0.0,False,🟡 Tier 2 — Orta risk
+Gateshead – Barrow,EC,14.11,,,2026-11-14,,piyasa,,,EC,Gateshead,Barrow,MS 2,0.6237504806280716,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Sint Maarten – Fransız Guyanası,CONCACAF Uluslar B Ligi,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Sint Maarten,French Guiana,MS 2,0.6158463224212372,1.48,-0.08854744281656901,False,0.0,False,🟡 Tier 2 — Orta risk
+Salford – Northampton,E3,14.11,,,2026-11-14,,piyasa,,,E3,Salford,Northampton,MS 1,0.6112189421423728,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Orta Afrika Cumhuriyeti – Benin,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Central African Republic,Benin,2.5 Alt,0.6072255831884386,1.44,-0.12559516020864847,False,0.0,False,🟡 Tier 2 — Orta risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,2.5 Üst,0.6028303178291544,1.49,-0.10178282643455994,False,0.0,False,🟡 Tier 2 — Orta risk
+Yeovil – Boreham Wood,EC,14.11,,,2026-11-14,,piyasa,,,EC,Yeovil,Boreham Wood,MS 2,0.5995207043459564,,,False,0.0,True,🟡 Tier 2 — Orta risk
+East Kilbride – Alloa,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Kilbride,Alloa,MS 1,0.5971762974766364,,,False,0.0,True,🟡 Tier 2 — Orta risk
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,2.5 Üst,0.5966693301524247,1.5,-0.10499600477136295,False,0.0,False,🟡 Tier 2 — Orta risk
+Zimbabve – Ekvator Ginesi,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Zimbabwe,Equatorial Guinea,KG Yok,0.5953904856740447,1.5,-0.10691427148893284,False,0.0,False,🟡 Tier 2 — Orta risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1,0.5936965094320077,1.5,-0.10945523585198846,False,0.0,False,🟡 Tier 2 — Orta risk
+Angola – Güney Sudan,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,model,,,MILLI,Angola,South Sudan,2.5 Üst,0.5860473924789296,1.48,-0.1326498591311842,False,0.0,False,🟡 Tier 2 — Orta risk
+İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,MS 1,0.5848916604326657,1.58,-0.07587117651638808,False,0.0,False,🟡 Tier 2 — Orta risk
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1,0.5841510776566587,1.58,-0.0770412973024791,False,0.0,False,🟡 Tier 2 — Orta risk
+Airdrie Utd – Queen of Sth,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1,0.582773414610103,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Milton Keynes Dons – Burton,E2,14.11,,,2026-11-14,,piyasa,,,E2,Milton Keynes Dons,Burton,MS 1,0.5821132811266658,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Almeria – Andorra,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Almeria,Andorra,MS 1,0.5815174490620768,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Litvanya – Lihtenştayn,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,model,,,MILLI,Lithuania,Liechtenstein,2.5 Üst,0.568728872661211,1.56,-0.11278295864851084,False,0.0,False,🟡 Tier 2 — Orta risk
+Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,MS 1,0.5648297430986516,1.63,-0.07932751874919786,False,0.0,False,🟡 Tier 2 — Orta risk
+Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2,0.5538519164296882,1.66,-0.08060581872671757,False,0.0,False,🟡 Tier 2 — Orta risk
+Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,MS 1,0.5525302931738774,1.66,-0.0827997133313636,False,0.0,False,🟡 Tier 2 — Orta risk
+Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & 2.5 Üst,0.552015671055314,1.6,-0.11677492631149755,False,0.0,False,🟡 Tier 2 — Orta risk
+İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,2.5 Üst,0.5457580424984326,1.61,-0.12132955157752345,False,0.0,False,🟡 Tier 2 — Orta risk
+Stenhousemuir – Queens Park,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1,0.5448891273109241,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Hamilton – Ross County,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Hamilton,Ross County,MS 2,0.5439065590519601,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,KG Var,0.5428061329181898,1.76,-0.044661206063985937,False,0.0,False,🟡 Tier 2 — Orta risk
+Sudan – Senegal,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Sudan,Senegal,2.5 Alt,0.5407637143577486,1.57,-0.15100096845833466,False,0.0,False,🟡 Tier 2 — Orta risk
+Eastleigh – Fylde,EC,14.11,,,2026-11-14,,piyasa,,,EC,Eastleigh,Fylde,MS 2,0.5335549290825348,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Dumbarton – Annan Athletic,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1,0.5269989853530728,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Livingston – Morton,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Livingston,Morton,MS 1 & 2.5 Üst,0.5261942969556623,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Rochdale – York,E3,14.11,,,2026-11-14,,piyasa,,,E3,Rochdale,York,MS 2,0.5253345789705457,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Stockport – Reading,E2,14.11,,,2026-11-14,,piyasa,,,E2,Stockport,Reading,MS 1,0.5159573559135152,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,MS 2,0.5142907906806146,1.77,-0.08970530049531222,False,0.0,True,🟡 Tier 2 — Orta risk
+Partick – Inverness C,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Partick,Inverness C,MS 1,0.5123375563278729,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Harrogate – Altrincham,EC,14.11,,,2026-11-14,,piyasa,,,EC,Harrogate,Altrincham,MS 1,0.5123023400909306,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1,0.5099227369565537,,,False,0.0,True,🟡 Tier 2 — Orta risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 10.5 Alt,0.652336982527664,1.4,-0.08672822446127038,False,0.0,True,🟡 Tier 2 — Orta risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,Korner 8.5 Üst,0.6273775072420941,1.41,-0.11539771478864747,False,0.0,False,🟡 Tier 2 — Orta risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,Korner 9.5 Alt,0.6240547132229539,1.42,-0.11384230722340549,False,0.0,True,🟡 Tier 2 — Orta risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,Korner 8.5 Üst,0.6229624358815664,1.42,-0.11539334104817578,False,0.0,True,🟡 Tier 2 — Orta risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 9.5 Alt,0.618281930521551,1.57,-0.02929736908116487,False,0.0,True,🟡 Tier 2 — Orta risk
 Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 9.5 Alt,0.610833951070741,1.44,-0.12039911045813301,False,0.0,True,🟡 Tier 2 — Orta risk
 Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,Korner 7.5 Üst,0.605323387935567,1.45,-0.12228108749342792,False,0.0,True,🟡 Tier 2 — Orta risk
 İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,Korner 8.5 Üst,0.60104831981514,1.46,-0.12246945306989565,False,0.0,True,🟡 Tier 2 — Orta risk
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 9.5 Alt,0.5916315100379803,1.63,-0.03564063863809219,False,0.0,False,🟡 Tier 2 — Orta risk
-Mallorca – Cordoba,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Mallorca,Cordoba,En çok korner 2,0.5653075650339159,2.25,0.2719420213263106,False,0.0,False,🟡 Tier 2 — Orta risk
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 9.5 Alt,0.5537191364612806,1.62,-0.10297499893272544,False,0.0,False,🟡 Tier 2 — Orta risk
+Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 9.5 Alt,0.5916315100393039,1.63,-0.035640638635934696,False,0.0,False,🟡 Tier 2 — Orta risk
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 9.5 Alt,0.5537191364348455,1.62,-0.10297499897555029,False,0.0,False,🟡 Tier 2 — Orta risk
 Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,Korner 8.5 Alt,0.5510714057929524,1.51,-0.16788217725264176,False,0.0,True,🟡 Tier 2 — Orta risk
 Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,Korner 8.5 Alt,0.515923619638833,1.64,-0.15388526379231382,False,0.0,False,🟡 Tier 2 — Orta risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,Korner 8.5 Alt,0.5079550682196234,1.66,-0.15679458675542512,False,0.0,False,🟡 Tier 2 — Orta risk
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & 2.5 Üst,0.4764968759157985,1.91,-0.089890967000825,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,MS 1 & 2.5 Üst,0.4745452101719701,1.9,-0.09836410067325685,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & 2.5 Üst,0.47448563876749483,1.97,-0.06526329162803524,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Mallorca – Cordoba,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Mallorca,Cordoba,MS 1,0.49570620272809673,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,MS 1 & 2.5 Üst,0.49506992120720383,1.82,-0.09897274340288897,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Sutton – Solihull,EC,14.11,,,2026-11-14,,piyasa,,,EC,Sutton,Solihull,MS 1,0.48422592806221776,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Forfar – Spartans,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Forfar,Spartans,MS 2,0.4824607508369037,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & 2.5 Üst,0.4761930267816312,1.96,-0.06666166750800284,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,MS 1 & 2.5 Üst,0.4745495099065103,1.9,-0.09835593117763053,False,0.0,True,🔴 Tier 3 — Yüksek risk
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & 2.5 Üst,0.47404952516605325,1.95,-0.07560342592619618,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Fleetwood Town – Tranmere,E3,14.11,,,2026-11-14,,piyasa,,,E3,Fleetwood Town,Tranmere,MS 1,0.4729912537274593,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,MS 1,0.4691703258193749,1.92,-0.0991929744268002,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Somali – Gana,Afrika Uluslar Kup.,16.11,18:00,2026-11-16 18:00,2026-11-16,3.0,model,,,MILLI,Somalia,Ghana,KG Var,0.4629303608342543,3.43,0.5878511376614923,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & KG Var,0.45052428870662503,2.16,-0.026867536393689884,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,MS 1 & 2.5 Üst,0.44728051574433775,2.04,-0.08754774788155095,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & 2.5 Üst,0.43990068824187906,2.07,-0.08940557533931037,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,MS 2,0.4385859854550707,2.04,-0.10528458967165577,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,MS 2,0.42491959926647327,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.42349282860027593,2.46,0.04179235835667883,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,MS 1 & KG Var,0.41409542482517303,2.23,-0.07656720263986416,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,MS 1 & 2.5 Üst,0.41318944364185634,2.24,-0.07445564624224177,False,0.0,True,🔴 Tier 3 — Yüksek risk
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & 2.5 Üst,0.4131497603766722,2.23,-0.07867603436002091,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Port Vale – Accrington,E3,14.11,,,2026-11-14,,piyasa,,,E3,Port Vale,Accrington,MS 1,0.4661553046844563,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Somali – Gana,Afrika Uluslar Kup.,16.11,18:00,2026-11-16 18:00,2026-11-16,3.0,model,,,MILLI,Somalia,Ghana,KG Var,0.4654729651905299,2.73,0.2707411949701466,False,0.0,False,🔴 Tier 3 — Yüksek risk
+Stirling – Elgin,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Stirling,Elgin,MS 2,0.4639613183982858,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Edinburgh City – Clyde,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Edinburgh City,Clyde,MS 2,0.4602984034959743,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Ayr – Raith Rvs,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Ayr,Raith Rvs,MS 2,0.46017657165401127,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.4571257742084327,2.41,0.10167311584232297,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Swindon – Grimsby,E3,14.11,,,2026-11-14,,piyasa,,,E3,Swindon,Grimsby,MS 2,0.4556712490600287,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Crewe – Newport County,E3,14.11,,,2026-11-14,,piyasa,,,E3,Crewe,Newport County,MS 1,0.45142970614617234,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,MS 1 & 2.5 Üst,0.4472805157038983,2.04,-0.0875477479640474,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & KG Var,0.44717759679964125,2.15,-0.03856816688077136,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Colchester – Gillingham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Colchester,Gillingham,MS 1,0.4417326739297721,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & 2.5 Üst,0.4399022076488661,2.07,-0.08940243016684724,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hartlepool – Wealdstone,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hartlepool,Wealdstone,MS 1,0.4393121253873754,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,MS 2,0.43858598545507077,2.04,-0.10528458967165566,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Yeovil – Boreham Wood,EC,14.11,,,2026-11-14,,piyasa,,,EC,Yeovil,Boreham Wood,MS 2 & 2.5 Üst,0.4344127091189469,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & 2.5 Üst,0.427876568219143,2.11,-0.09718044105760837,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Cebelitarık – Malta,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Gibraltar,Malta,İY/MS 2/2,0.42636366923803054,1.89,-0.19417266514012232,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,MS 2,0.4249195992664731,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+East Kilbride – Alloa,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Kilbride,Alloa,MS 1 & 2.5 Üst,0.4237343414149805,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,MS 1 & 2.5 Üst,0.41318753460106716,2.24,-0.07445992249360944,False,0.0,True,🔴 Tier 3 — Yüksek risk
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & 2.5 Üst,0.4131469884561573,2.23,-0.07868221574276912,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,MS 2,0.4125957907889713,2.15,-0.1129190498037117,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Gateshead – Barrow,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Gateshead,Barrow,MS 2 & 2.5 Üst,0.4110660184067482,2.02,-0.1696466428183686,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & 2.5 Üst,0.40997683291759085,2.2,-0.09805096758130005,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Airdrieonian – Queen of The South,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1 & 2.5 Üst,0.4056293028164107,2.06,-0.16440363619819398,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1 & 2.5 Üst,0.4055459270296443,2.45,-0.006412478777371389,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,MS 2,0.40222554161653334,2.2,-0.11510380844362655,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Eastleigh – AFC Fylde,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Eastleigh,Fylde,MS 2 & 2.5 Üst,0.39354578874666335,2.14,-0.15781201208214035,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Cove Rangers – Montrose,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Cove Rangers,Montrose,MS 1,0.4122284215957185,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2 & 2.5 Üst,0.41176430991391283,2.07,-0.1476478784782005,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Gateshead – Barrow,EC,14.11,,,2026-11-14,,piyasa,,,EC,Gateshead,Barrow,MS 2 & 2.5 Üst,0.41106004732247053,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Bristol Rvs – Chesterfield,E3,14.11,,,2026-11-14,,piyasa,,,E3,Bristol Rvs,Chesterfield,MS 2,0.4091567202084246,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Scunthorpe – Worthing,EC,14.11,,,2026-11-14,,piyasa,,,EC,Scunthorpe,Worthing,MS 1,0.4068411005822906,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Airdrie Utd – Queen of Sth,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1 & 2.5 Üst,0.4056293028232999,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Almeria – Andorra,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Almeria,Andorra,MS 1 & 2.5 Üst,0.40554592694247216,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hornchurch – Tamworth,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hornchurch,Tamworth,MS 1,0.40498531368455465,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Kelty Hearts – Stranraer,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Kelty Hearts,Stranraer,MS 2,0.40101104310595637,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Sheffield Weds – Plymouth,E2,14.11,,,2026-11-14,,piyasa,,,E2,Sheffield Weds,Plymouth,MS 1,0.3982546939021069,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Wigan – Barnsley,E2,14.11,,,2026-11-14,,piyasa,,,E2,Wigan,Barnsley,MS 1,0.39697313692551617,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,İY/MS 1/1,0.3943812629918023,2.09,-0.17574316034713322,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Eastleigh – Fylde,EC,14.11,,,2026-11-14,,piyasa,,,EC,Eastleigh,Fylde,MS 2 & 2.5 Üst,0.3935471509396996,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,MS 1,0.39144834501163933,2.25,-0.11924122372381152,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Milton Keynes Dons – Burton,E2,14.11,,,2026-11-14,,piyasa,,,E2,Milton Keynes Dons,Burton,MS 1 & 2.5 Üst,0.3896389516225307,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,MS 1,0.3886044010352165,2.17,-0.15672844975358025,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1 & 2.5 Üst,0.3856452817334191,2.24,-0.13615456891714106,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2 & 2.5 Üst,0.38232675808421596,2.23,-0.14741132947219837,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,İY/MS 2/2,0.3823208355815734,2.11,-0.1933030369228801,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 1,0.3775690384108221,1.94,-0.2675160654830051,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,İY/MS 1/1,0.37358827021853,2.23,-0.166898157412678,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Southend – Aldershot,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Southend,Aldershot,MS 1 & KG Var,0.36853267399574346,2.21,-0.18554279046940692,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Harrogate – Altrincham,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Harrogate,Altrincham,MS 1 & 2.5 Üst,0.36802585557805595,2.25,-0.17194182494937416,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2 & 2.5 Üst,0.3654177733352902,2.47,-0.09741809986183314,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Hamilton – Ross County,SC2,14.11,20:30,2026-11-14 20:30,2026-11-14,3.0,piyasa,,,SC2,Hamilton,Ross County,MS 2 & 2.5 Üst,0.3635584190645653,2.23,-0.18926472548601936,False,0.0,True,🔴 Tier 3 — Yüksek risk
-İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,İY/MS 1/1,0.36338210339985516,2.37,-0.13878441494234328,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Dumbarton – Annan Athletic,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1 & 2.5 Üst,0.3617981202609687,2.3,-0.1678643233997721,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 2,0.3583930793210027,2.76,-0.010835101074032516,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Carlisle – Boston United,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Carlisle,Boston Utd,MS 1 & KG Var,0.35737476411045166,2.24,-0.19948052839258823,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Rochdale – York City,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Rochdale,York,MS 2 & 2.5 Üst,0.35499946153883283,2.23,-0.20835120076840286,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Stockport – Reading,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Stockport,Reading,MS 1 & 2.5 Üst,0.35252912074403614,2.02,-0.28789117609704695,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Scunthorpe – Worthing,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Scunthorpe,Worthing,MS 2,0.3524296642047058,2.45,-0.1365473226984708,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Livingston – G. Morton,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Livingston,Morton,MS 1 & KG Var,0.3524176428634897,2.51,-0.11543171641264094,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Wigan Athletic – Barnsley,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Wigan,Barnsley,MS 2,0.34584504732165305,2.65,-0.08351062459761949,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Yeovil Town – Boreham Wood,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Yeovil,Boreham Wood,MS 2 & KG Var,0.3371003906966006,2.71,-0.0864579412122124,False,0.0,True,🔴 Tier 3 — Yüksek risk
-P. Thistle – Inverness,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Partick,Inverness C,MS 1 & 2.5 Üst,0.33200593726193206,2.5,-0.1699851568451698,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Yeni Zelanda – Hindistan,Uluslararası Hazırlık Maçları,15.11,06:00,2026-11-15 06:00,2026-11-15,3.0,model,,,MILLI,New Zealand,India,KG Var,0.3298679298852783,2.06,-0.3204720644363267,False,0.0,False,🔴 Tier 3 — Yüksek risk
-Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,İY/MS 1/1,0.3298615811300214,2.57,-0.152255736495845,False,0.0,True,🔴 Tier 3 — Yüksek risk
-East Kilbri – Alloa,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,East Kilbride,Alloa,MS 1 & KG Var,0.32954271630991355,2.58,-0.149779791920423,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,İY/MS 1/1,0.32862864442782996,2.52,-0.1718558160418685,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Sutton United – Solihull Moors,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Sutton,Solihull,MS 1 & 2.5 Üst,0.3215843088020331,2.54,-0.1831758556428359,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Stirling Alb – Elgin City,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Stirling,Elgin,MS 2 & 2.5 Üst,0.32099783349826716,2.5,-0.19750541625433216,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Bristol Rovers – Chesterfield,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Bristol Rvs,Chesterfield,MS 1,0.32036023297981325,2.67,-0.14463817794389866,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Stenhousemuir – Queen's Park,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1 & 2.5 Üst,0.3169567947800287,2.7,-0.14421665409392248,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & 2.5 Üst,0.3143127102139086,2.88,-0.09477939458394324,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1 & 2.5 Üst,0.31195614392504556,2.77,-0.1358814813276238,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Eritre – Gine,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Eritrea,Guinea,MS 2 & KG Var,0.30652554744223653,3.22,-0.012987737235998331,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1 & 2.5 Üst,0.30532366003447897,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Forfar – Spartans Edinburgh FC,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Forfar,Spartans,MS 2 & 2.5 Üst,0.30411013884241855,2.78,-0.15457381401807646,False,0.0,True,🔴 Tier 3 — Yüksek risk
-MK Dons – Burton Albion,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Milton Keynes Dons,Burton,MS 1 & KG Var,0.29986365943406024,2.56,-0.23234903184880573,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Fleetwood – Tranmere,E3,14.11,20:30,2026-11-14 20:30,2026-11-14,2.0,piyasa,,,E3,Fleetwood Town,Tranmere,MS 1 & 2.5 Üst,0.29933592603017484,2.63,-0.2127465145406402,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Swindon Town – Grimsby Town,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Swindon,Grimsby,MS 1,0.2959215191172182,2.97,-0.12111308822186184,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Wycombe – Huddersfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Wycombe,Huddersfield,MS 2 & 2.5 Üst,0.29432071127384074,2.85,-0.16118597286955383,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & KG Var,0.29175549988109123,3.07,-0.10431061536504993,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1 & 2.5 Üst,0.28777083624378985,2.72,-0.21726332541689153,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,İY/MS 2/2,0.28598105171973204,2.84,-0.18781381311596101,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Walsall – Barnet,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E3,Walsall,Barnet,MS 2 & 2.5 Üst,0.27867039220823975,3.03,-0.15562871160903358,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Kelty Hearts – Stranraer,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Kelty Hearts,Stranraer,MS 2 & 2.5 Üst,0.27662852647265346,3.02,-0.16458185005258652,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Sheffield Wednesday – Plymouth,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Sheffield Weds,Plymouth,MS 1 & 2.5 Üst,0.27558940701705076,3.2,-0.11811389754543755,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Doncaster – Leyton Orient,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Doncaster,Leyton Orient,MS 1 & 2.5 Üst,0.2748590323624907,3.02,-0.16992572226527802,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Hornchurch – Tamworth,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hornchurch,Tamworth,MS 1 & 2.5 Üst,0.268232644716872,3.03,-0.1872550865078778,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Sint Maarten – Fransız Guyanası,CONCACAF Uluslar B Ligi,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Sint Maarten,French Guiana,MS 2 & KG Var,0.264320412405657,3.04,-0.1964659462868027,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Uganda – Botsvana,Afrika Uluslar Kup.,14.11,19:00,2026-11-14 19:00,2026-11-14,3.0,oran,,,MILLI,Uganda,Botswana,MS 1 & 2.5 Üst,0.2581816230253378,2.91,-0.24869147699626692,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Mallorca – Cordoba,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Mallorca,Cordoba,MS 2,0.2554197698885368,3.83,-0.021742281326903923,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 8.5 Alt,0.4824900294195178,2.07,-0.0012456391015982504,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Almeria,Andorra,Korner 8.5 Alt,0.4672498639673326,2.26,0.05598469256617156,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 8.5 Alt,0.4599526720398932,1.78,-0.1812842437689901,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1 & 2.5 Üst,0.3856452817482675,2.24,-0.13615456888388067,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,İY/MS 2/2,0.3823211710516556,2.11,-0.19330232908100675,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Sociedad B – Sp Gijon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 1,0.37756903841082207,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+East Fife – Peterhead,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Fife,Peterhead,MS 2,0.37686043821258025,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Shrewsbury – Oldham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Shrewsbury,Oldham,MS 1,0.37558499417208585,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Kidderminster – Halifax,EC,14.11,,,2026-11-14,,piyasa,,,EC,Kidderminster,Halifax,MS 2,0.37442919996921364,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Southend – Aldershot,EC,14.11,,,2026-11-14,,piyasa,,,EC,Southend,Aldershot,MS 1 & KG Var,0.36855009260317173,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Harrogate – Altrincham,EC,14.11,,,2026-11-14,,piyasa,,,EC,Harrogate,Altrincham,MS 1 & 2.5 Üst,0.3680203196490832,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+AFC Wimbledon – Blackpool,E2,14.11,,,2026-11-14,,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 1,0.36372054056593267,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Salford – Northampton,E3,14.11,,,2026-11-14,,piyasa,,,E3,Salford,Northampton,MS 1 & 2.5 Üst,0.36357049360995775,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hamilton – Ross County,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Hamilton,Ross County,MS 2 & 2.5 Üst,0.3635584190679146,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,İY/MS 1/1,0.363391893961116,2.37,-0.13876121131215502,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Dumbarton – Annan Athletic,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1 & 2.5 Üst,0.36179812026223906,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Carlisle – Boston Utd,EC,14.11,,,2026-11-14,,piyasa,,,EC,Carlisle,Boston Utd,MS 1 & KG Var,0.3573953330390876,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Rochdale – York,E3,14.11,,,2026-11-14,,piyasa,,,E3,Rochdale,York,MS 2 & 2.5 Üst,0.3550026453898781,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Stockport – Reading,E2,14.11,,,2026-11-14,,piyasa,,,E2,Stockport,Reading,MS 1 & 2.5 Üst,0.3525306059648674,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Livingston – Morton,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Livingston,Morton,MS 1 & KG Var,0.3524176428464732,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2 & 2.5 Üst,0.34413167978840065,2.61,-0.10181631575227434,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,İY/MS 1/1,0.3360782936973676,2.44,-0.17996896337842316,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Partick – Inverness C,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Partick,Inverness C,MS 1 & 2.5 Üst,0.3320059372645268,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,İY/MS 1/1,0.32987208025084525,2.57,-0.15222875375532774,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1 & 2.5 Üst,0.3279229852480677,2.39,-0.21626406525711817,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Stenhousemuir – Queens Park,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1 & 2.5 Üst,0.316956794778122,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & 2.5 Üst,0.31431364767612857,2.88,-0.09477669469274974,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1 & 2.5 Üst,0.3119561439321681,2.93,-0.08596849827874742,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1 & 2.5 Üst,0.30531777087166306,,,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Eritre – Gine,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Eritrea,Guinea,MS 2 & KG Var,0.3029431417040008,3.28,-0.00634649521087749,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & KG Var,0.2926366968158184,3.13,-0.08404713896648852,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,İY/MS 2/2,0.29122317894477207,2.78,-0.19039956253353374,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Sint Maarten – Fransız Guyanası,CONCACAF Uluslar B Ligi,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Sint Maarten,French Guiana,MS 2 & KG Var,0.2787009200809777,2.9,-0.1917673317651647,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Angola – Güney Sudan,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,model,,,MILLI,Angola,South Sudan,MS 1 & KG Var,0.2502987467230157,4.09,0.023721874097134332,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 8.5 Alt,0.4824900294208392,2.07,-0.001245639098862994,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,Korner 9.5 Üst,0.4782730311263277,1.74,-0.1678049258401898,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,Korner 9.5 Üst,0.47608075279421264,1.74,-0.17161949013806999,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,Korner 8.5 Alt,0.47608075279421264,1.74,-0.17161949013806999,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 8.5 Alt,0.45995267203989326,1.78,-0.18128424376899,False,0.0,True,🔴 Tier 3 — Yüksek risk
 İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,Korner 9.5 Üst,0.4526309676774011,1.81,-0.180737948503904,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,Korner 8.5 Üst,0.4485934678829752,1.82,-0.1835598884529851,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 8.5 Alt,0.44488731964398265,2.06,-0.08353212153339573,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 8.5 Alt,0.44349849398370433,2.17,-0.03760826805536166,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,korner,,,SP2,Sociedad B,Sp Gijon,Korner 8.5 Alt,0.43855035404584264,2.18,-0.043960228180062955,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 7.5 Alt,0.3944142398107162,2.67,0.05308602029461218,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,Korner 7.5 Alt,0.3884221972317176,1.91,-0.2581136032874194,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 8.5 Alt,0.444887319618414,2.06,-0.08353212158606715,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 8.5 Alt,0.4434984939933013,2.17,-0.03760826803453621,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,Korner 7.5 Alt,0.39441423980198087,2.67,0.053086020271288836,False,0.0,True,🔴 Tier 3 — Yüksek risk
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,Korner 7.5 Alt,0.3870939916383149,1.92,-0.2567795360544354,False,0.0,True,🔴 Tier 3 — Yüksek risk
 Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,Korner 7.5 Alt,0.35951634635300334,2.13,-0.23423018226810288,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,Korner 7.5 Alt,0.34939831829650503,2.16,-0.2452996324795491,False,0.0,True,🔴 Tier 3 — Yüksek risk
-Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,MS 1 & KG Var,0.34213809984863797,2.9,-0.007799510438949886,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,MS 1 & KG Var,0.33758901061491386,2.82,-0.04799899006594299,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,MS 1 & KG Var,0.3365583241800592,2.78,-0.06436785877943552,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & KG Var,0.3316190989521592,2.68,-0.11126081480821337,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Eastleigh – AFC Fylde,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Eastleigh,Fylde,MS 2 & KG Var,0.32487842704404796,2.68,-0.12932581552195144,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.32372001242879783,2.94,-0.048263163459334346,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.3209796362371748,3.02,-0.030641498563732106,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Somali – Gana,Afrika Uluslar Kup.,16.11,18:00,2026-11-16 18:00,2026-11-16,3.0,model,,,MILLI,Somalia,Ghana,MS 2 & KG Var,0.31539985714530827,3.97,0.25213743286687396,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149071699976071,2.95,-0.071023848507059,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Gateshead – Barrow,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Gateshead,Barrow,MS 2 & KG Var,0.30861632968921077,2.8,-0.13587427687020992,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Airdrieonian – Queen of The South,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1 & KG Var,0.300208278079356,2.79,-0.16241890415859672,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1 & KG Var,0.29664982086395947,3.23,-0.04182107860941098,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & KG Var,0.2963720082577092,2.98,-0.11681141539202655,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Dumbarton – Annan Athletic,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1 & KG Var,0.28292819790781704,2.98,-0.15687397023470528,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Rochdale – York City,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Rochdale,York,MS 2 & KG Var,0.2812014784630838,2.91,-0.1817036976724261,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Harrogate – Altrincham,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Harrogate,Altrincham,MS 1 & KG Var,0.2772328799522963,2.88,-0.20156930573738674,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Hamilton – Ross County,SC2,14.11,20:30,2026-11-14 20:30,2026-11-14,3.0,piyasa,,,SC2,Hamilton,Ross County,MS 2 & KG Var,0.2770618398925125,2.93,-0.18820880911493842,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Stockport – Reading,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Stockport,Reading,MS 1 & KG Var,0.269569097971428,2.63,-0.2910332723351444,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,İY/MS 1/1,0.26279372996023814,3.12,-0.180083562524057,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Stirling Alb – Elgin City,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Stirling,Elgin,MS 2 & KG Var,0.26278883678723436,3.15,-0.17221516412021176,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1 & KG Var,0.2625423085838954,3.15,-0.1729917279607296,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Scunthorpe – Worthing,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Scunthorpe,Worthing,MS 2 & 2.5 Üst,0.2605350481475532,3.26,-0.15065574303897666,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,MS 2 & 2.5 Üst,0.2560686981024805,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,İY/MS 2/2,0.2533140720183669,3.24,-0.1792624066604911,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Sutton United – Solihull Moors,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Sutton,Solihull,MS 1 & KG Var,0.25298709630042665,3.24,-0.18032180798661757,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2 & KG Var,0.2490704968574126,3.42,-0.14817890074764895,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Wycombe – Huddersfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Wycombe,Huddersfield,MS 2 & KG Var,0.2463752722736529,3.58,-0.11797652526032254,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Angola – Güney Sudan,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,model,,,MILLI,Angola,South Sudan,MS 1 & KG Var,0.24604802126351882,4.12,0.013717847605697608,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1 & KG Var,0.2438199480808725,3.66,-0.10761899002400654,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Forfar – Spartans Edinburgh FC,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Forfar,Spartans,MS 2 & KG Var,0.24349262791411094,3.54,-0.1380360971840473,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Edinburgh – Clyde Bank,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Edinburgh City,Clyde,MS 2 & KG Var,0.24132578796095722,3.34,-0.1939718682104029,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Wigan Athletic – Barnsley,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Wigan,Barnsley,MS 2 & 2.5 Üst,0.23859468537261988,3.61,-0.13867318580484223,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & KG Var,0.23801874110092341,3.56,-0.15265328168071268,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Hartlepool – Wealdstone,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hartlepool,Wealdstone,MS 1 & KG Var,0.23421998552119655,3.34,-0.21770524835920357,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Stenhousemuir – Queen's Park,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1 & KG Var,0.23360294451227936,3.71,-0.13333307585944354,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Walsall – Barnet,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E3,Walsall,Barnet,MS 2 & KG Var,0.2296898228600579,3.7,-0.15014765541778574,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,İY/MS 2/2,0.2288482851605008,3.48,-0.20360796764145728,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kidderminster Harriers – Halifax Town,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Kidderminster,Halifax,MS 2 & 2.5 Üst,0.22868925320103672,3.6,-0.17671868847626782,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-P. Thistle – Inverness,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Partick,Inverness C,MS 1 & KG Var,0.22749030223903136,3.35,-0.23790748749924495,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Doncaster – Leyton Orient,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Doncaster,Leyton Orient,MS 1 & KG Var,0.2257336949465117,3.77,-0.14898397005165098,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,MS 1 & 2.5 Üst,0.22556228101384984,4.15,-0.06391653379252304,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 2 & 2.5 Üst,0.2247463768314934,4.44,-0.0021260868681691747,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2 & KG Var,0.22384668602441118,3.5,-0.2165365989145609,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,İY/MS 2/2,0.2233297375605055,3.62,-0.1915463500309701,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Fleetwood – Tranmere,E3,14.11,20:30,2026-11-14 20:30,2026-11-14,2.0,piyasa,,,E3,Fleetwood Town,Tranmere,MS 1 & KG Var,0.22231990594301226,3.46,-0.23077312543717754,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kelty Hearts – Stranraer,SC3,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC3,Kelty Hearts,Stranraer,MS 2 & KG Var,0.22089327980990148,3.68,-0.18711273029956255,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Hornchurch – Tamworth,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hornchurch,Tamworth,MS 1 & KG Var,0.2204856812994216,3.69,-0.18640783600513433,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Sheffield Wednesday – Plymouth,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Sheffield Weds,Plymouth,MS 1 & KG Var,0.21749197994734915,3.97,-0.13655683960902387,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1 & KG Var,0.21692553083539323,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 1 & 2.5 Üst,0.21481340379453007,3.05,-0.34481911842668334,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,İY/MS 1/1,0.2134821409150352,3.55,-0.2421383997516251,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Bristol Rovers – Chesterfield,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Bristol Rvs,Chesterfield,MS 1 & 2.5 Üst,0.20421127547853135,4.07,-0.16886010880237734,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Cove Rangers – Montrose,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,Cove Rangers,Montrose,MS X & KG Var,0.20273504175689527,3.99,-0.19108718338998787,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Swindon Town – Grimsby Town,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Swindon,Grimsby,MS 1 & 2.5 Üst,0.2023155259390135,4.28,-0.1340895489810222,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Colchester – Gillingham,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Colchester,Gillingham,MS 1 & KG Var,0.20086475375204194,4.01,-0.19453233745431187,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1 & KG Var,0.19505398439632196,4.19,-0.1827238053794109,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Orta Afrika Cumhuriyeti – Benin,Afrika Uluslar Kup.,16.11,19:00,2026-11-16 19:00,2026-11-16,3.0,oran,,,MILLI,Central African Republic,Benin,MS 2 & KG Var,0.1937995926837563,4.24,-0.1782897270208733,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-East Fife – Peterhead,SC2,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC2,East Fife,Peterhead,MS X & KG Var,0.19332940257236197,3.84,-0.25761509412213,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 7.5 Alt,0.3692105565269751,2.82,0.04117376940606965,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Almeria,Andorra,Korner 7.5 Alt,0.3551459343688781,3.12,0.10805531523089962,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 7.5 Alt,0.33486963778555723,2.8,-0.06236501420043983,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 7.5 Alt,0.33379632486942634,2.97,-0.008624915137803724,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,korner,,,SP2,Sociedad B,Sp Gijon,Korner 7.5 Alt,0.3292509987948421,2.99,-0.015539513603422095,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,Korner 10.5 Üst,0.31113538858353784,2.33,-0.27505454460035683,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Mallorca – Cordoba,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Mallorca,Cordoba,MS 1 & 2.5 Üst,0.35501588717279414,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,MS 1 & KG Var,0.34211354548921746,2.9,-0.007870718081269379,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,MS 1 & KG Var,0.33758901073434816,2.82,-0.047998989729138186,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Yeovil – Boreham Wood,EC,14.11,,,2026-11-14,,piyasa,,,EC,Yeovil,Boreham Wood,MS 2 & KG Var,0.3371060566622636,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,MS 1 & KG Var,0.336563592275922,2.78,-0.06435321347293699,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.33500410870027436,2.93,-0.0184379615081961,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & KG Var,0.3328043752840186,2.72,-0.09477209922746932,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+East Kilbride – Alloa,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Kilbride,Alloa,MS 1 & KG Var,0.32954271630555315,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Eastleigh – Fylde,EC,14.11,,,2026-11-14,,piyasa,,,EC,Eastleigh,Fylde,MS 2 & KG Var,0.3248834025994779,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.3220526925364667,2.85,-0.08214982627106993,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Sutton – Solihull,EC,14.11,,,2026-11-14,,piyasa,,,EC,Sutton,Solihull,MS 1 & 2.5 Üst,0.32158392323827667,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Stirling – Elgin,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Stirling,Elgin,MS 2 & 2.5 Üst,0.320997833497137,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Somali – Gana,Afrika Uluslar Kup.,16.11,18:00,2026-11-16 18:00,2026-11-16,3.0,model,,,MILLI,Somalia,Ghana,MS 2 & KG Var,0.31812392583026794,3.23,0.027540280431765485,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149012295683037,2.95,-0.07104137277350409,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Gateshead – Barrow,EC,14.11,,,2026-11-14,,piyasa,,,EC,Gateshead,Barrow,MS 2 & KG Var,0.30863859473405597,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Swindon – Grimsby,E3,14.11,,,2026-11-14,,piyasa,,,E3,Swindon,Grimsby,MS 2 & 2.5 Üst,0.3075344074991631,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Forfar – Spartans,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Forfar,Spartans,MS 2 & 2.5 Üst,0.30411013884030325,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Airdrie Utd – Queen of Sth,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Airdrie Utd,Queen of Sth,MS 1 & KG Var,0.3002082780590535,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,MS 1 & KG Var,0.2999289016978959,3.18,-0.046226092600691104,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Milton Keynes Dons – Burton,E2,14.11,,,2026-11-14,,piyasa,,,E2,Milton Keynes Dons,Burton,MS 1 & KG Var,0.29985612316483223,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Scunthorpe – Worthing,EC,14.11,,,2026-11-14,,piyasa,,,EC,Scunthorpe,Worthing,MS 1 & 2.5 Üst,0.299774148139801,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Fleetwood Town – Tranmere,E3,14.11,,,2026-11-14,,piyasa,,,E3,Fleetwood Town,Tranmere,MS 1 & 2.5 Üst,0.29933607661717737,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Edinburgh City – Clyde,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Edinburgh City,Clyde,MS 2 & 2.5 Üst,0.2981295906977838,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Almeria – Andorra,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Almeria,Andorra,MS 1 & KG Var,0.2966498208057931,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & KG Var,0.2963787735989401,2.98,-0.1167912546751585,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Hartlepool – Wealdstone,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hartlepool,Wealdstone,MS 1 & 2.5 Üst,0.29514727477778224,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Dumbarton – Annan Athletic,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Dumbarton,Annan Athletic,MS 1 & KG Var,0.2829281979081297,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Rochdale – York,E3,14.11,,,2026-11-14,,piyasa,,,E3,Rochdale,York,MS 2 & KG Var,0.2811986168191966,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Wigan – Barnsley,E2,14.11,,,2026-11-14,,piyasa,,,E2,Wigan,Barnsley,MS 1 & 2.5 Üst,0.27891531002491315,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Harrogate – Altrincham,EC,14.11,,,2026-11-14,,piyasa,,,EC,Harrogate,Altrincham,MS 1 & KG Var,0.2772508489976064,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Hamilton – Ross County,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Hamilton,Ross County,MS 2 & KG Var,0.2770618398840154,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Kelty Hearts – Stranraer,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Kelty Hearts,Stranraer,MS 2 & 2.5 Üst,0.2766285264693763,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Sheffield Weds – Plymouth,E2,14.11,,,2026-11-14,,piyasa,,,E2,Sheffield Weds,Plymouth,MS 1 & 2.5 Üst,0.2755861410870818,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Colchester – Gillingham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Colchester,Gillingham,MS 1 & 2.5 Üst,0.2702332337638155,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Stockport – Reading,E2,14.11,,,2026-11-14,,piyasa,,,E2,Stockport,Reading,MS 1 & KG Var,0.26957046375766686,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Hornchurch – Tamworth,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hornchurch,Tamworth,MS 1 & 2.5 Üst,0.26823688112816285,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Crewe – Newport County,E3,14.11,,,2026-11-14,,piyasa,,,E3,Crewe,Newport County,MS 1 & 2.5 Üst,0.2665642038420525,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Salford – Northampton,E3,14.11,,,2026-11-14,,piyasa,,,E3,Salford,Northampton,MS 1 & KG Var,0.2660953989982073,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Bristol Rvs – Chesterfield,E3,14.11,,,2026-11-14,,piyasa,,,E3,Bristol Rvs,Chesterfield,MS 2 & 2.5 Üst,0.26334686687217007,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Port Vale – Accrington,E3,14.11,,,2026-11-14,,piyasa,,,E3,Port Vale,Accrington,MS 1 & 2.5 Üst,0.2629764110063073,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,İY/MS 1/1,0.26279303868472176,3.12,-0.18008571930366812,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,MS 1 & KG Var,0.2625423085403795,3.15,-0.1729917280978045,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Cove Rangers – Montrose,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Cove Rangers,Montrose,MS 1 & 2.5 Üst,0.26072362631958496,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,MS 2 & 2.5 Üst,0.2560686980703489,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,İY/MS 2/2,0.2533100561268341,3.24,-0.17927541814905745,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1 & KG Var,0.24381994806142504,3.79,-0.07592239684719904,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Jamaika – Meksika,CONCACAF Uluslar Ligi,15.11,04:00,2026-11-15 04:00,2026-11-15,1.0,oran,,,MILLI,Jamaica,Mexico,MS 2 & KG Var,0.24107095563456618,3.38,-0.18518016995516628,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & KG Var,0.2380165052943506,3.56,-0.15266124115211188,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,MS 2 & KG Var,0.23457415794387043,3.54,-0.1696074808786987,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Stenhousemuir – Queens Park,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Stenhousemuir,Queens Park,MS 1 & KG Var,0.23360294452234362,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Ayr – Raith Rvs,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Ayr,Raith Rvs,MS 2 & 2.5 Üst,0.23358279436675616,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,İY/MS 2/2,0.22885246710412924,3.48,-0.20359341447763024,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Kidderminster – Halifax,EC,14.11,,,2026-11-14,,piyasa,,,EC,Kidderminster,Halifax,MS 2 & 2.5 Üst,0.22868792996967635,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Partick – Inverness C,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Partick,Inverness C,MS 1 & KG Var,0.2274903022353229,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,MS 1 & 2.5 Üst,0.22556228101890496,4.11,-0.07293902501230054,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Litvanya – Lihtenştayn,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,model,,,MILLI,Lithuania,Liechtenstein,MS 1 & KG Var,0.22404835106678472,4.26,-0.045554024455497166,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+East Fife – Peterhead,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Fife,Peterhead,MS 2 & 2.5 Üst,0.22372663246359317,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+AFC Wimbledon – Blackpool,E2,14.11,,,2026-11-14,,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 1 & 2.5 Üst,0.2236975256655537,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Panama – Curaçao,CONCACAF Uluslar Ligi,16.11,02:00,2026-11-16 02:00,2026-11-15,1.0,oran,,,MILLI,Panama,Curaçao,MS 1 & KG Var,0.22225655002201375,3.95,-0.12208662741304566,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Shrewsbury – Oldham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Shrewsbury,Oldham,MS 1 & 2.5 Üst,0.21771756162949535,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,MS 1 & KG Var,0.21693718048804428,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Sociedad B – Sp Gijon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 1 & 2.5 Üst,0.21481340380730465,,,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,İY/MS 1/1,0.2134821408963981,3.55,-0.24213839981778673,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Namibya – Kamerun,Afrika Uluslar Kup.,16.11,16:00,2026-11-16 16:00,2026-11-16,3.0,oran,,,MILLI,Namibia,Cameroon,MS 2 & KG Var,0.1992621253242642,4.03,-0.19697363494321518,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,Korner 7.5 Alt,0.3692105565281897,2.82,0.04117376940949491,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eldense,Sabadell,Korner 7.5 Alt,0.33486963776279066,2.8,-0.06236501426418617,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,Korner 7.5 Alt,0.3337963248780882,2.97,-0.008624915112077969,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,Korner 10.5 Üst,0.3111353885835378,2.33,-0.27505454460035694,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
 Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,Korner 7.5 Alt,0.3088814335800414,2.36,-0.27103981675110234,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,Korner 9.5 Üst,0.2980014087010373,2.39,-0.28777663320452085,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,Korner 9.5 Üst,0.29800140870103736,2.39,-0.2877766332045206,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,Korner 11.5 Üst,0.2130517453814553,2.91,-0.3800194209399651,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,Korner 11.5 Üst,0.2056643750940464,2.94,-0.39534673722350366,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
 Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,Korner 6.5 Alt,0.2042100458465657,2.98,-0.3914540633772342,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,Korner 6.5 Alt,0.20245341388202945,3.03,-0.3865661559374508,False,0.0,True,🟣 Tier 4 — Çok yüksek risk
-Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,0-1,0.1941002478295348,4.61,-0.10519785750584454,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,1-0,0.16648862748770077,4.71,-0.21583856453292938,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,0-1,0.16212949244784058,5.14,-0.16665440881809945,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,1-1,0.1616774970372765,4.96,-0.1980796146951086,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,2-1,0.1565080871128674,7.19,0.12529314634151656,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,2-0,0.15509461545141703,5.04,-0.21832313812485815,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
-Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,0-1,0.1941002478295348,4.61,-0.10519785750584454,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,1-0,0.16648862748770077,4.71,-0.21583856453292938,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,0-1,0.16212949244784058,5.14,-0.16665440881809945,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,1-1,0.1616774970372765,4.96,-0.1980796146951086,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,2-1,0.1565080871128674,7.19,0.12529314634151656,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,2-0,0.15509461545141703,5.04,-0.21832313812485815,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Finlandiya – San Marino,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,model,,,MILLI,Finland,San Marino,4-0,0.15222723320155904,5.14,-0.21755202134398655,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,1-0,0.14936458360690158,4.96,-0.2591516653097682,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,1-2,0.1475676797723865,7.18,0.059535940765734985,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Salford City – Northampton,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Salford,Northampton,1-0,0.14386912159883275,4.96,-0.2864091568697895,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Ayr United – Raith Rovers,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Ayr,Raith Rvs,1-1,0.14245260631974785,4.65,-0.3375953806131724,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,1-0,0.13765573674152637,5.57,-0.23325754634969809,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,2-0,0.13704975507517986,6.4,-0.12288156751884882,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Gürcistan – Macaristan,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Georgia,Hungary,0-1,0.13642638786614708,5.73,-0.21827679752697715,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,2-1,0.13518489551414964,7.77,0.05038663814494271,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Livingston – G. Morton,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Livingston,Morton,2-1,0.13515921087499466,6.66,-0.09983965557253549,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Eastleigh – AFC Fylde,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Eastleigh,Fylde,1-2,0.13489455790918375,6.87,-0.07327438716390755,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Crewe Alexandra – Newport,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Crewe,Newport County,1-1,0.13121868597029318,4.73,-0.3793356153605132,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Rochdale – York City,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Rochdale,York,1-2,0.13008365938162364,6.51,-0.15315537742563012,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,2-1,0.12781096664223365,7.19,-0.08103914984233995,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stevenage – Mansfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Stevenage,Mansfield,1-1,0.12768038540035626,4.58,-0.4152238348663684,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,2-1,0.12733907365946362,7.99,0.017439198539114242,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,1-0,0.1272990523212119,6.07,-0.22729475241024377,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-MK Dons – Burton Albion,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Milton Keynes Dons,Burton,2-1,0.12720683234389274,6.38,-0.1884204096459643,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,2-1,0.12679522884921424,7.23,-0.08327049542018106,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,1-0,0.1263848242556896,5.67,-0.28339804647024003,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,0-1,0.1257038064207986,6.31,-0.2068089814847609,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stenhousemuir – Queen's Park,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Stenhousemuir,Queens Park,2-1,0.125380122018874,6.57,-0.17625259833599782,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,2-1,0.12402757972061848,7.27,-0.09831949543110374,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Shrewsbury – Oldham,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Shrewsbury,Oldham,1-1,0.12309955918753478,4.67,-0.42512505859421257,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Port Vale – Accrington,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Port Vale,Accrington,1-0,0.12210046431822477,5.46,-0.33333146482249276,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Yeovil Town – Boreham Wood,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Yeovil,Boreham Wood,1-2,0.1195463251052511,6.34,-0.2420762988327081,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,2-1,0.11828168520117147,7.19,-0.14955468340357714,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Carlisle – Boston United,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Carlisle,Boston Utd,2-1,0.11791979709269236,6.59,-0.22290853715915737,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,2-1,0.11541251710730256,7.14,-0.17595462785385974,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Gateshead – Barrow,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Gateshead,Barrow,1-2,0.11464232780223788,6.29,-0.27889975812392376,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Southend – Aldershot,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Southend,Aldershot,2-1,0.11389671651737295,6.65,-0.24258683515946988,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,2-1,0.11328296642981749,7.57,-0.1424479441262816,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-P. Thistle – Inverness,SC1,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,SC1,Partick,Inverness C,2-1,0.11199206347472797,6.5,-0.27205158741426816,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Harrogate – Altrincham,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Harrogate,Altrincham,2-1,0.1119005838710203,6.59,-0.2625751522899763,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Stockport – Reading,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Stockport,Reading,2-1,0.11056255285786719,6.59,-0.2713927766666553,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,2-1,0.110331861635128,8.32,-0.08203891119573503,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wycombe – Huddersfield,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Wycombe,Huddersfield,1-2,0.11005168324155502,7.03,-0.22633666681186815,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,2-1,0.10807146345852173,7.28,-0.21323974602196183,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,0-1,0.10800686482599367,6.72,-0.2741938683693226,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Walsall – Barnet,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E3,Walsall,Barnet,1-2,0.10745393408566246,7.22,-0.224182595901517,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Doncaster – Leyton Orient,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,oran,,,E2,Doncaster,Leyton Orient,2-1,0.10665856962512235,7.03,-0.25019025553538987,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,1-2,0.10579940403097646,7.31,-0.2266063565335621,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wigan Athletic – Barnsley,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Wigan,Barnsley,1-2,0.10066395166498744,8.57,-0.13730993423105764,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Kidderminster Harriers – Halifax Town,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Kidderminster,Halifax,1-2,0.09980581050789174,7.57,-0.2444700144552595,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,2-1,0.09939866147713429,7.91,-0.2137565877158678,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,2-1,0.09863344894985404,7.41,-0.2691261432815816,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Sutton United – Solihull Moors,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Sutton,Solihull,2-1,0.09809337318092722,6.68,-0.34473626715140626,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Colchester – Gillingham,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Colchester,Gillingham,2-1,0.09720180848352196,6.92,-0.32736348529402803,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hartlepool – Wealdstone,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hartlepool,Wealdstone,2-1,0.09695298932605428,6.83,-0.3378110829030493,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Fleetwood – Tranmere,E3,14.11,20:30,2026-11-14 20:30,2026-11-14,2.0,piyasa,,,E3,Fleetwood Town,Tranmere,2-1,0.09554190931440268,6.63,-0.3665571412455102,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,2-1,0.09480887552730034,8.65,-0.17990322668885195,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Sheffield Wednesday – Plymouth,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Sheffield Weds,Plymouth,2-1,0.09382707608726033,7.16,-0.328198135215216,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Hornchurch – Tamworth,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Hornchurch,Tamworth,2-1,0.09118779423280444,7.19,-0.34435975946613595,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,2-1,0.09095713761511465,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,1-2,0.08739859286508972,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,1-2,0.08675969528682358,8.53,-0.25993979920339494,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,2-1,0.0843663481038144,7.84,-0.3385678308660951,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Mallorca – Cordoba,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Mallorca,Cordoba,1-2,0.08346362283340107,12.0,0.0015634740008128034,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Scunthorpe – Worthing,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Scunthorpe,Worthing,1-2,0.07860412144773408,8.19,-0.35623224534305786,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Bristol Rovers – Chesterfield,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Bristol Rvs,Chesterfield,2-1,0.07773579148089506,8.37,-0.34935142530490837,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Swindon Town – Grimsby Town,E3,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E3,Swindon,Grimsby,2-1,0.07109565121074367,9.08,-0.35445148700644746,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.42349282860027593,2.46,0.04179235835667883,False,,,2️⃣ 2'li kupon
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1 & 2.5 Üst,0.4055459270296443,2.45,-0.006412478777371389,False,,,2️⃣ 2'li kupon
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 2,0.3263216014680747,3.12,0.01812339658039308,True,,,3️⃣ 3'lü kupon
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 2,0.3583930793210027,2.76,-0.010835101074032516,False,,,3️⃣ 3'lü kupon
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,En çok korner 2,0.3410962247672858,2.86,-0.024464797165562713,False,,,3️⃣ 3'lü kupon
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.3209796362371748,3.02,-0.030641498563732106,False,,,4️⃣ 4'lü kupon
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,En çok korner 2,0.33314707727919496,2.9,-0.033873475890334626,False,,,4️⃣ 4'lü kupon
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.32372001242879783,2.94,-0.048263163459334346,False,,,4️⃣ 4'lü kupon
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149071699976071,2.95,-0.071023848507059,False,,,4️⃣ 4'lü kupon
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 2,0.3263216014680747,3.12,0.01812339658039308,True,,,📌 Kupon adayları
-Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.42349282860027593,2.46,0.04179235835667883,False,,,📌 Kupon adayları
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,korner,,,SP2,Almeria,Andorra,En çok korner 2,0.3915477012175097,2.55,-0.0015533618953503803,False,,,📌 Kupon adayları
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1 & 2.5 Üst,0.4055459270296443,2.45,-0.006412478777371389,False,,,📌 Kupon adayları
-Wimbledon – Blackpool,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,AFC Wimbledon,Blackpool,MS 2,0.3583930793210027,2.76,-0.010835101074032516,False,,,📌 Kupon adayları
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1,0.5815174490620768,1.68,-0.023050685575710994,False,,,📌 Kupon adayları
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,En çok korner 2,0.3410962247672858,2.86,-0.024464797165562713,False,,,📌 Kupon adayları
-Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & KG Var,0.45052428870662503,2.16,-0.026867536393689884,False,,,📌 Kupon adayları
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.3209796362371748,3.02,-0.030641498563732106,False,,,📌 Kupon adayları
-Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,En çok korner 2,0.33314707727919496,2.9,-0.033873475890334626,False,,,📌 Kupon adayları
-Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.5386763025162918,1.78,-0.041156181521000534,False,,,📌 Kupon adayları
-Almeria – FC Andorra,SP2,14.11,20:30,2026-11-14 20:30,2026-11-14,1.0,piyasa,,,SP2,Almeria,Andorra,MS 1 & KG Var,0.29664982086395947,3.23,-0.04182107860941098,False,,,📌 Kupon adayları
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.32372001242879783,2.94,-0.048263163459334346,False,,,📌 Kupon adayları
-Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & 2.5 Üst,0.47448563876749483,1.97,-0.06526329162803524,False,,,📌 Kupon adayları
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149071699976071,2.95,-0.071023848507059,False,,,📌 Kupon adayları
-Norveç – Galler,UEFA Uluslar Ligi,14.11,20:00,2026-11-14 20:00,2026-11-14,1.0,oran,,,MILLI,Norway,Wales,MS 1 & KG Var,0.41409542482517303,2.23,-0.07656720263986416,False,,,📌 Kupon adayları
-İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & 2.5 Üst,0.4131497603766722,2.23,-0.07867603436002091,False,,,📌 Kupon adayları
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS X,0.2961093601211033,3.1,-0.08206098362457981,False,,,📌 Kupon adayları
-Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,MS 1,0.5521340416972014,1.66,-0.08345749078264575,False,,,📌 Kupon adayları
-Wigan Athletic – Barnsley,E2,14.11,18:00,2026-11-14 18:00,2026-11-14,2.0,piyasa,,,E2,Wigan,Barnsley,MS 2,0.34584504732165305,2.65,-0.08351062459761949,False,,,📌 Kupon adayları
-Yeovil Town – Boreham Wood,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Yeovil,Boreham Wood,MS 2 & KG Var,0.3371003906966006,2.71,-0.0864579412122124,False,,,📌 Kupon adayları
-Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & 2.5 Üst,0.43990068824187906,2.07,-0.08940557533931037,False,,,📌 Kupon adayları
-İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & 2.5 Üst,0.4764968759157985,1.91,-0.089890967000825,False,,,📌 Kupon adayları
-Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,MS 2,0.5050078647256481,1.8,-0.09098584349383343,False,,,📌 Kupon adayları
-Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & 2.5 Üst,0.3143127102139086,2.88,-0.09477939458394324,False,,,📌 Kupon adayları
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & 2.5 Üst,0.40997683291759085,2.2,-0.09805096758130005,False,,,📌 Kupon adayları
-Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,korner,,,SP2,Oviedo,Girona,En çok korner 1,0.5300926008434943,1.7,-0.09884257856605971,False,,,📌 Kupon adayları
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 2,0.3263216014680747,3.12,0.01812339658039308,True,,,💎 Değeri pozitif olanlar
-Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,İY/MS 1/2,0.05318241042558113,22.0,0.17001302936278484,False,,,🎲 Çılgın kupon
-Eastleigh – AFC Fylde,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Eastleigh,Fylde,İY/MS 1/2,0.054921181093453314,20.1,0.10391573997841164,True,,,🎲 Çılgın kupon
-Yeovil Town – Boreham Wood,EC,14.11,18:00,2026-11-14 18:00,2026-11-14,3.0,piyasa,,,EC,Yeovil,Boreham Wood,İY/MS 1/2,0.05390234772874785,20.45,0.10230301105289352,True,,,🎲 Çılgın kupon
-Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,İY/MS 2/1,0.05391996280860816,19.75,0.06491926547001126,False,,,🎲 Çılgın kupon
-Real Sociedad B – S.Gijon,SP2,14.11,18:15,2026-11-14 18:15,2026-11-14,1.0,piyasa,,,SP2,Sociedad B,Sp Gijon,MS 2,0.3263216014680747,3.12,0.01812339658039308,True,,,🎲 Çılgın kupon
+Cebelitarık – Malta,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Gibraltar,Malta,0-1,0.20806049605914798,4.33,-0.09909805206388922,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,0-1,0.19409758996003923,4.61,-0.10521011028421912,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,1-0,0.16649038589437368,4.71,-0.21583028243750002,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,0-1,0.16515013468180043,5.11,-0.1560828117759998,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,1-1,0.16236259163364355,4.99,-0.1898106677481186,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,2-1,0.15648186398589956,7.19,0.12510460205861795,False,,,⚡ Tier 5 — Aşırı risk (kısa kesin skor)
+Cebelitarık – Malta,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Gibraltar,Malta,0-1,0.20806049605914798,4.33,-0.09909805206388922,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kuzey Makedonya – Slovenya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,North Macedonia,Slovenia,0-1,0.19409758996003923,4.61,-0.10521011028421912,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Estonya – Bulgaristan,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Estonia,Bulgaria,1-0,0.16649038589437368,4.71,-0.21583028243750002,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,0-1,0.16515013468180043,5.11,-0.1560828117759998,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kuzey İrlanda – Ukrayna,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Northern Ireland,Ukraine,1-1,0.16236259163364355,4.99,-0.1898106677481186,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Yunanistan – Sırbistan,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Greece,Serbia,2-1,0.15648186398589956,7.19,0.12510460205861795,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,1-2,0.15402203462966835,7.16,0.10279776794842532,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Finlandiya – San Marino,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,model,,,MILLI,Finland,San Marino,4-0,0.15222669026881674,5.08,-0.22668841343441093,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Faroe Adaları – Moldova,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Faroe Islands,Moldova,1-0,0.14934789434888532,4.96,-0.2592344440295288,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Avusturya – İrlanda,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Austria,Republic of Ireland,1-0,0.14541235175720466,5.47,-0.20459443588809056,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+İsviçre – İskoçya,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Switzerland,Scotland,2-0,0.13705546865339047,6.4,-0.12284500061830095,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Livingston – Morton,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Livingston,Morton,2-1,0.13515921088191737,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Eastleigh – Fylde,EC,14.11,,,2026-11-14,,piyasa,,,EC,Eastleigh,Fylde,1-2,0.13486757067321364,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+East Kilbride – Alloa,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Kilbride,Alloa,2-1,0.13258919721799808,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,1-0,0.13092598427913493,5.96,-0.21968113369635578,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Rochdale – York,E3,14.11,,,2026-11-14,,piyasa,,,E3,Rochdale,York,1-2,0.13005276404296204,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Salford – Northampton,E3,14.11,,,2026-11-14,,piyasa,,,E3,Salford,Northampton,2-1,0.1292025768915609,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Albacete – Celta Vigo B,SP2,16.11,22:30,2026-11-16 22:30,2026-11-16,1.0,oran,,,SP2,Albacete,Celta B,2-1,0.12781096670377134,7.19,-0.08103914939988399,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Almanya – Hollanda,UEFA Uluslar Ligi,16.11,22:45,2026-11-16 22:45,2026-11-16,1.0,oran,,,MILLI,Germany,Netherlands,2-1,0.12731379265303672,7.99,0.01723720329776346,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,2-1,0.12723074563647296,7.17,-0.0877555537864888,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Milton Keynes Dons – Burton,E2,14.11,,,2026-11-14,,piyasa,,,E2,Milton Keynes Dons,Burton,2-1,0.12719682125093912,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Club Deportivo Eldense – CE Sabadell FC,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eldense,Sabadell,1-0,0.12638482428985823,5.67,-0.2833980462765039,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Letonya – Ermenistan,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Latvia,Armenia,0-1,0.12569765284071266,6.31,-0.20684781057510315,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stenhousemuir – Queens Park,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Stenhousemuir,Queens Park,2-1,0.12538012204133075,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,2-1,0.12401761238918554,7.27,-0.09839195793062117,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Yeovil – Boreham Wood,EC,14.11,,,2026-11-14,,piyasa,,,EC,Yeovil,Boreham Wood,1-2,0.11952240010144397,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,piyasa,,,SP2,Eibar,Cadiz,2-1,0.1182816851564364,7.19,-0.14955468372522218,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Carlisle – Boston Utd,EC,14.11,,,2026-11-14,,piyasa,,,EC,Carlisle,Boston Utd,2-1,0.1179122320079841,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+İzlanda – Lüksemburg,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,oran,,,MILLI,Iceland,Luxembourg,2-1,0.11769315906893296,7.76,-0.08670108562508028,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Swindon – Grimsby,E3,14.11,,,2026-11-14,,piyasa,,,E3,Swindon,Grimsby,1-2,0.11702725995954828,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,2-1,0.11539926493385051,7.14,-0.1760492483723074,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Gateshead – Barrow,EC,14.11,,,2026-11-14,,piyasa,,,EC,Gateshead,Barrow,1-2,0.11464952876506476,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Southend – Aldershot,EC,14.11,,,2026-11-14,,piyasa,,,EC,Southend,Aldershot,2-1,0.11390994173051093,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Airdrie Utd – Queen of Sth,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Airdrie Utd,Queen of Sth,2-1,0.11338304579372295,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,2-1,0.11328296639066378,7.71,-0.12658832912798224,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Partick – Inverness C,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Partick,Inverness C,2-1,0.11199206347986693,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Harrogate – Altrincham,EC,14.11,,,2026-11-14,,piyasa,,,EC,Harrogate,Altrincham,2-1,0.11189747118006971,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stockport – Reading,E2,14.11,,,2026-11-14,,piyasa,,,E2,Stockport,Reading,2-1,0.1105632550111893,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Forfar – Spartans,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Forfar,Spartans,1-2,0.1100611765258861,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,2-1,0.10949199562430273,8.25,-0.09669103609950247,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kelty Hearts – Stranraer,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Kelty Hearts,Stranraer,1-2,0.10904940803650053,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Dumbarton – Annan Athletic,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Dumbarton,Annan Athletic,2-1,0.10895508461900778,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kıbrıs Rum Kesimi – Karadağ,UEFA Uluslar Ligi,15.11,17:00,2026-11-15 17:00,2026-11-15,1.0,oran,,,MILLI,Cyprus,Montenegro,0-1,0.10801257234638635,6.72,-0.27415551383228376,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,2-1,0.10750964244455549,7.18,-0.22808076724809156,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hamilton – Ross County,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Hamilton,Ross County,1-2,0.10508785060094282,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Wigan – Barnsley,E2,14.11,,,2026-11-14,,piyasa,,,E2,Wigan,Barnsley,2-1,0.1047145362256612,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Stirling – Elgin,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Stirling,Elgin,1-2,0.10220373156338468,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Port Vale – Accrington,E3,14.11,,,2026-11-14,,piyasa,,,E3,Port Vale,Accrington,2-1,0.10093659552613053,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kidderminster – Halifax,EC,14.11,,,2026-11-14,,piyasa,,,EC,Kidderminster,Halifax,1-2,0.09980457977334573,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Kazakistan – Slovakya,UEFA Uluslar Ligi,16.11,18:00,2026-11-16 18:00,2026-11-16,1.0,oran,,,MILLI,Kazakhstan,Slovakia,1-2,0.0996544877795077,7.35,-0.26753951482061844,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,2-1,0.09937658601529148,7.91,-0.21393120461904436,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Almeria – Andorra,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Almeria,Andorra,2-1,0.09863344897138387,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sutton – Solihull,EC,14.11,,,2026-11-14,,piyasa,,,EC,Sutton,Solihull,2-1,0.0980874452723248,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Shrewsbury – Oldham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Shrewsbury,Oldham,2-1,0.09757243428930414,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Colchester – Gillingham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Colchester,Gillingham,2-1,0.09720345441750576,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hartlepool – Wealdstone,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hartlepool,Wealdstone,2-1,0.09694143305245657,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Fleetwood Town – Tranmere,E3,14.11,,,2026-11-14,,piyasa,,,E3,Fleetwood Town,Tranmere,2-1,0.09554400598690194,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+AFC Wimbledon – Blackpool,E2,14.11,,,2026-11-14,,piyasa,,,E2,AFC Wimbledon,Blackpool,2-1,0.09536098951528653,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Bristol Rvs – Chesterfield,E3,14.11,,,2026-11-14,,piyasa,,,E3,Bristol Rvs,Chesterfield,1-2,0.09506885867371186,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+East Fife – Peterhead,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,East Fife,Peterhead,1-2,0.09487643344002793,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Real Oviedo – Girona,SP2,14.11,23:00,2026-11-14 23:00,2026-11-14,1.0,piyasa,,,SP2,Oviedo,Girona,2-1,0.09480887549750207,8.63,-0.18179940445655707,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sheffield Weds – Plymouth,E2,14.11,,,2026-11-14,,piyasa,,,E2,Sheffield Weds,Plymouth,2-1,0.09383662755929435,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Mallorca – Cordoba,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Mallorca,Cordoba,2-1,0.09382464629278386,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Ayr – Raith Rvs,SC1,14.11,,,2026-11-14,,piyasa,,,SC1,Ayr,Raith Rvs,1-2,0.09333405116241449,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Scunthorpe – Worthing,EC,14.11,,,2026-11-14,,piyasa,,,EC,Scunthorpe,Worthing,2-1,0.09274015695550678,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Hornchurch – Tamworth,EC,14.11,,,2026-11-14,,piyasa,,,EC,Hornchurch,Tamworth,2-1,0.09116804582011262,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Exeter – Cheltenham,E3,14.11,,,2026-11-14,,piyasa,,,E3,Exeter,Cheltenham,2-1,0.09097067116211092,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Litvanya – Lihtenştayn,UEFA Uluslar Ligi,16.11,20:00,2026-11-16 20:00,2026-11-16,1.0,model,,,MILLI,Lithuania,Liechtenstein,2-1,0.08814112801388167,11.7,0.03125119776241547,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Valladolid – Castellon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Valladolid,Castellon,1-2,0.08739859281564524,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Edinburgh City – Clyde,SC3,14.11,,,2026-11-14,,piyasa,,,SC3,Edinburgh City,Clyde,1-2,0.08560860998631643,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Crewe – Newport County,E3,14.11,,,2026-11-14,,piyasa,,,E3,Crewe,Newport County,2-1,0.08489014038544751,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Sociedad B – Sp Gijon,SP2,14.11,,,2026-11-14,,piyasa,,,SP2,Sociedad B,Sp Gijon,2-1,0.08436634808017589,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Cove Rangers – Montrose,SC2,14.11,,,2026-11-14,,piyasa,,,SC2,Cove Rangers,Montrose,2-1,0.0809573760009007,,,False,,,🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.538676302516292,1.87,0.007324685705466072,True,,,2️⃣ 2'li kupon
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.4571257742084327,2.41,0.10167311584232297,False,,,2️⃣ 2'li kupon
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,En çok korner 2,0.3331470772668194,2.96,-0.013884651290214545,False,,,3️⃣ 3'lü kupon
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.33500410870027436,2.93,-0.0184379615081961,False,,,3️⃣ 3'lü kupon
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & KG Var,0.44717759679964125,2.15,-0.03856816688077136,False,,,3️⃣ 3'lü kupon
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149012295683037,2.95,-0.07104137277350409,False,,,4️⃣ 4'lü kupon
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & 2.5 Üst,0.4131469884561573,2.23,-0.07868221574276912,False,,,4️⃣ 4'lü kupon
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.3220526925364667,2.85,-0.08214982627106993,False,,,4️⃣ 4'lü kupon
+Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & KG Var,0.2926366968158184,3.13,-0.08404713896648852,False,,,4️⃣ 4'lü kupon
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.538676302516292,1.87,0.007324685705466072,True,,,📌 Kupon adayları
+Haiti – ABD,CONCACAF Uluslar Ligi,15.11,00:30,2026-11-15 00:30,2026-11-14,1.0,oran,,,MILLI,Haiti,United States,MS 2 & KG Var,0.4571257742084327,2.41,0.10167311584232297,False,,,📌 Kupon adayları
+Eibar – Cadiz,SP2,15.11,20:30,2026-11-15 20:30,2026-11-15,1.0,korner,,,SP2,Eibar,Cadiz,En çok korner 2,0.3331470772668194,2.96,-0.013884651290214545,False,,,📌 Kupon adayları
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & KG Var,0.33500410870027436,2.93,-0.0184379615081961,False,,,📌 Kupon adayları
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,MS 1 & KG Var,0.44717759679964125,2.15,-0.03856816688077136,False,,,📌 Kupon adayları
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & 2.5 Üst,0.4761930267816312,1.96,-0.06666166750800284,False,,,📌 Kupon adayları
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & KG Var,0.3149012295683037,2.95,-0.07104137277350409,False,,,📌 Kupon adayları
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & 2.5 Üst,0.47404952516605325,1.95,-0.07560342592619618,False,,,📌 Kupon adayları
+İspanya – İngiltere,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Spain,England,MS 1 & 2.5 Üst,0.4131469884561573,2.23,-0.07868221574276912,False,,,📌 Kupon adayları
+Tenerife – AD Ceuta,SP2,15.11,16:00,2026-11-15 16:00,2026-11-15,1.0,oran,,,SP2,Tenerife,Ceuta,MS 1,0.5648297430986516,1.63,-0.07932751874919786,False,,,📌 Kupon adayları
+İsveç – Bosna Hersek,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Sweden,Bosnia and Herzegovina,MS 1 & KG Var,0.3220526925364667,2.85,-0.08214982627106993,False,,,📌 Kupon adayları
+Cezayir – Togo,Afrika Uluslar Kup.,14.11,22:00,2026-11-14 22:00,2026-11-14,3.0,oran,,,MILLI,Algeria,Togo,MS 1 & KG Var,0.2926366968158184,3.13,-0.08404713896648852,False,,,📌 Kupon adayları
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,korner,,,SP2,Granada,Las Palmas,En çok korner 2,0.34109622475557705,2.68,-0.08586211765505347,False,,,📌 Kupon adayları
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1 & 2.5 Üst,0.3119561439321681,2.93,-0.08596849827874742,False,,,📌 Kupon adayları
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,MS 1 & 2.5 Üst,0.4399022076488661,2.07,-0.08940243016684724,False,,,📌 Kupon adayları
+Belarus – Arnavutluk,UEFA Uluslar Ligi,15.11,20:00,2026-11-15 20:00,2026-11-15,1.0,oran,,,MILLI,Belarus,Albania,MS 2,0.5142907906806146,1.77,-0.08970530049531222,False,,,📌 Kupon adayları
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,MS 1 & KG Var,0.3328043752840186,2.72,-0.09477209922746932,False,,,📌 Kupon adayları
+Belçika – İtalya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Belgium,Italy,MS 1 & 2.5 Üst,0.31431364767612857,2.88,-0.09477669469274974,False,,,📌 Kupon adayları
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,MS 2 & 2.5 Üst,0.427876568219143,2.11,-0.09718044105760837,False,,,📌 Kupon adayları
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.538676302516292,1.87,0.007324685705466072,True,,,💎 Değeri pozitif olanlar
+Romanya – Polonya,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Romania,Poland,İY/MS 1/2,0.0554918556770588,21.7,0.20417326819217596,False,,,🎲 Çılgın kupon
+Fransa – Türkiye,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,France,Turkey,İY/MS 2/1,0.053517687986966676,19.55,0.046270800145198576,False,,,🎲 Çılgın kupon
+Hırvatistan – Çekya,UEFA Uluslar Ligi,15.11,22:45,2026-11-15 22:45,2026-11-15,1.0,oran,,,MILLI,Croatia,Czech Republic,İY/MS 2/1,0.043811897838728804,21.95,-0.038328842439902755,False,,,🎲 Çılgın kupon
+Portekiz – Danimarka,UEFA Uluslar Ligi,14.11,22:45,2026-11-14 22:45,2026-11-14,1.0,oran,,,MILLI,Portugal,Denmark,İY/MS 2/1,0.04608414995144373,20.7,-0.0460580960051149,False,,,🎲 Çılgın kupon
+Granada – Las Palmas,SP2,15.11,18:15,2026-11-15 18:15,2026-11-15,1.0,piyasa,,,SP2,Granada,Las Palmas,MS 1,0.538676302516292,1.87,0.007324685705466072,True,,,🎲 Çılgın kupon

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**361/848 tuttu** (isabet %43, beklenen %41) · -45.96 birim · 110 tahmin sonuç bekliyor
+**372/876 tuttu** (isabet %42, beklenen %41) · -46.87 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,8 +87,8 @@
 
 **16:00 · Real Valladolid – Castellon**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.07
-- ⏳ ↳ MS 1 · @2.67
+- ❌ ↳ MS 2 & 2.5 Üst · @3.07 · 0-1
+- ❌ ↳ MS 1 · @2.67 · 0-1
 
 **18:00 · East Kilbri – Alloa**
 
@@ -96,7 +96,7 @@
 
 **18:00 · Yeovil Town – Boreham Wood**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.97
+- ❌ ↳ MS 2 & 2.5 Üst · @1.97 · 2-2
 
 **18:00 · Wycombe – Huddersfield**
 
@@ -108,40 +108,40 @@
 
 **18:00 · Southend – Aldershot**
 
-- ⏳ ↳ MS 1 & KG Var · @2.23
+- ✅ ↳ MS 1 & KG Var · @2.23 · 2-1
 
 **18:00 · Harrogate – Altrincham**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.18
+- ✅ ↳ MS 1 & 2.5 Üst · @2.18 · 4-0
 
 **18:00 · MK Dons – Burton Albion**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.15
+- ✅ ↳ MS 1 & 2.5 Üst · @2.15 · 6-2
 
 **18:00 · Rochdale – York City**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.16
+- ❌ ↳ MS 2 & 2.5 Üst · @2.16 · 0-1
 
 **18:00 · Carlisle – Boston United**
 
-- ⏳ ↳ MS 1 & KG Var · @2.24
+- ❌ ↳ MS 1 & KG Var · @2.24 · 2-0
 
 **18:00 · Livingston – G. Morton**
 
-- ⏳ ↳ MS 1 & KG Var · @2.50
+- ❌ ↳ MS 1 & KG Var · @2.50 · 2-0
 
 **18:00 · Eastleigh – AFC Fylde**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.30
+- ✅ ↳ MS 2 & 2.5 Üst · @2.30 · 1-2
 
 **18:00 · Salford City – Northampton**
 
-- ⏳ ↳ İY/MS 1/1 · @2.12
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.20
+- ❌ ↳ İY/MS 1/1 · @2.12
+- ❌ ↳ MS 1 & 2.5 Üst · @2.20 · 1-1
 
 **18:00 · Stockport – Reading**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.37
+- ✅ ↳ MS 1 & 2.5 Üst · @2.37 · 3-1
 
 **18:00 · Dumbarton – Annan Athletic**
 
@@ -153,24 +153,24 @@
 
 **18:00 · Sutton United – Solihull Moors**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.55
+- ❌ ↳ MS 1 & 2.5 Üst · @2.55 · 0-2
 
 **18:00 · Gateshead – Barrow**
 
-- ⏳ ↳ MS 2 & KG Var · @2.79
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.02
+- ❌ ↳ MS 2 & KG Var · @2.79 · 0-3
+- ✅ ↳ MS 2 & 2.5 Üst · @2.02 · 0-3
 
 **18:00 · Swindon Town – Grimsby Town**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.58
+- ✅ ↳ MS 2 & 2.5 Üst · @2.58 · 1-4
 
 **18:00 · Scunthorpe – Worthing**
 
-- ⏳ ↳ MS 2 · @2.51
+- ❌ ↳ MS 2 · @2.51 · 1-1
 
 **18:00 · Hartlepool – Wealdstone**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.68
+- ❌ ↳ MS 1 & 2.5 Üst · @2.68 · 1-1
 
 **18:00 · Forfar – Spartans Edinburgh FC**
 
@@ -179,16 +179,16 @@
 **18:00 · Stenhousemuir – Queen's Park**
 
 - ⏳ ↳ İY/MS 1/1 · @2.60
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
+- ❌ ↳ MS 1 & 2.5 Üst · @2.70 · 2-0
 
 **18:00 · Sheffield Wednesday – Plymouth**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.84
+- ✅ ↳ MS 1 & 2.5 Üst · @2.84 · 3-0
 
 **18:00 · Wigan Athletic – Barnsley**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.91
-- ⏳ ↳ MS 2 · @2.58
+- ✅ ↳ MS 1 & 2.5 Üst · @2.91 · 2-1
+- ❌ ↳ MS 2 · @2.58 · 2-1
 
 **18:00 · Kelty Hearts – Stranraer**
 
@@ -200,12 +200,12 @@
 
 **18:00 · Hornchurch – Tamworth**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.97
+- ✅ ↳ MS 1 & 2.5 Üst · @2.97 · 2-1
 
 **18:00 · Bristol Rovers – Chesterfield**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.10
-- ⏳ ↳ MS 1 · @2.67
+- ❌ ↳ MS 2 & 2.5 Üst · @3.10 · 0-2
+- ❌ ↳ MS 1 · @2.67 · 0-2
 
 **18:00 · Edinburgh – Clyde Bank**
 
@@ -221,7 +221,7 @@
 
 **18:00 · P. Thistle – Inverness**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.54
+- ✅ ↳ MS 1 & 2.5 Üst · @2.54 · 3-2
 
 **18:00 · Port Vale – Accrington**
 
@@ -233,7 +233,7 @@
 
 **19:00 · Uganda – Botsvana**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.65
+- ❌ ↳ MS 1 & 2.5 Üst · @2.65 · 1-1
 
 **20:00 · Norveç – Galler**
 

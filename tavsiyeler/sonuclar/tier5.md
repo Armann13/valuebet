@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/94 tuttu** (isabet %18, beklenen %16) · -1.09 birim · 4 tahmin sonuç bekliyor
+**17/95 tuttu** (isabet %18, beklenen %16) · -2.09 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **18:00 · Salford City – Northampton**
 
-- ⏳ 1-0 · @5.08
+- ❌ 1-0 · @5.08 · 1-1
 
 **22:45 · Kuzey İrlanda – Ukrayna**
 

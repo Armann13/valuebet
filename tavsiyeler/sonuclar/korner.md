@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**667/1223 tuttu** (isabet %55, beklenen %59) · -171.39 birim · 90 tahmin sonuç bekliyor
+**667/1227 tuttu** (isabet %54, beklenen %59) · -175.39 birim · 86 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -52,10 +52,10 @@
 
 **16:00 · Real Valladolid – Castellon**
 
-- ⏳ 🟡 En çok korner 1 · @2.02
-- ⏳ 2 En çok korner 1 · @2.02
-- ⏳ 2 En çok korner 1 · @2.01
-- ⏳ 2 En çok korner 1 · @2.01
+- ❌ 🟡 En çok korner 1 · @2.02 · korner 3-9
+- ❌ 2 En çok korner 1 · @2.02 · korner 3-9
+- ❌ 2 En çok korner 1 · @2.01 · korner 3-9
+- ❌ 2 En çok korner 1 · @2.01 · korner 3-9
 
 **18:15 · Real Sociedad B – S.Gijon**
 
