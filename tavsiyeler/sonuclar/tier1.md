@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**477/671 tuttu** (isabet %71, beklenen %74) · -81.62 birim · 58 tahmin sonuç bekliyor
+**479/674 tuttu** (isabet %71, beklenen %74) · -82.08 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,12 +15,12 @@
 
 **03:00 · Kolombiya – Şili**
 
-- ⏳ MS 1 · @1.25
-- ⏳ Korner 7.5 Üst · @1.24
+- ✅ MS 1 · @1.25 · 1-0
+- ❌ Korner 7.5 Üst · @1.24 · korner 2-3
 
 **05:00 · Guatemala – Kanada**
 
-- ⏳ MS 2 · @1.29
+- ✅ MS 2 · @1.29 · 2-3
 
 **15:00 · Çin – Malezya**
 

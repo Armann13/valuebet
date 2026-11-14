@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**603/1047 tuttu** (isabet %58, beklenen %59) · -109.54 birim · 117 tahmin sonuç bekliyor
+**606/1053 tuttu** (isabet %58, beklenen %59) · -111.04 birim · 111 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,24 +20,24 @@
 
 **03:00 · Montserrat – Nikaragua**
 
-- ⏳ 2.5 Üst · @1.45
+- ✅ 2.5 Üst · @1.45 · 1-2
 
 **03:00 · Ekvador – Kosta Rika**
 
-- ⏳ 2.5 Üst · @1.52
+- ❌ 2.5 Üst · @1.52 · 2-0
 
 **03:00 · Kolombiya – Şili**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.49
+- ❌ ↳ Korner 8.5 Üst · @1.49 · korner 2-3
 
 **04:00 · Peru – Bolivya**
 
-- ⏳ KG Yok · @1.47
-- ⏳ MS 1 · @1.58
+- ✅ KG Yok · @1.47 · 2-0
+- ✅ MS 1 · @1.58 · 2-0
 
 **05:00 · Guatemala – Kanada**
 
-- ⏳ KG Yok · @1.62
+- ❌ KG Yok · @1.62 · 2-3
 
 **13:15 · Japonya – Brezilya**
 

@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/67 tuttu** (isabet %30, beklenen %39) · -12.01 birim · 5 tahmin sonuç bekliyor
+**21/68 tuttu** (isabet %31, beklenen %39) · -10.29 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 13.11 22:51 gönderilen kupon · 3 maç, oran 17,67
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 13.11 23:00 Grenada – ST Kitts ve Nevis · MS 2 & KG Var · @2.47 · 3-2
-- ⏳ 14.11 03:00 Montserrat – Nikaragua · MS 2 & KG Var · @2.72
+- ✅ 14.11 03:00 Montserrat – Nikaragua · MS 2 & KG Var · @2.72 · 1-2
 - ⏳ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.63
 
 ## 13.11 14:13 gönderilen kupon · 3 maç, oran 19,95

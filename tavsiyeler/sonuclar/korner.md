@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**666/1220 tuttu** (isabet %55, beklenen %59) · -169.97 birim · 75 tahmin sonuç bekliyor
+**666/1222 tuttu** (isabet %55, beklenen %59) · -171.97 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 **03:00 · Kolombiya – Şili**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.24
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+- ❌ 🟢 Korner 7.5 Üst · @1.24 · korner 2-3
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.49 · korner 2-3
 
 **13:15 · Japonya – Brezilya**
 

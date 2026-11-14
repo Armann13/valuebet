@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**359/844 tuttu** (isabet %43, beklenen %41) · -46.62 birim · 93 tahmin sonuç bekliyor
+**361/847 tuttu** (isabet %43, beklenen %41) · -44.96 birim · 90 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,15 +20,15 @@
 
 **03:00 · Kolombiya – Şili**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.97
+- ❌ ↳ MS 1 & 2.5 Üst · @1.97 · 1-0
 
 **03:00 · Montserrat – Nikaragua**
 
-- ⏳ ↳ MS 2 & KG Var · @2.70
+- ✅ ↳ MS 2 & KG Var · @2.70 · 1-2
 
 **05:00 · Guatemala – Kanada**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.96
+- ✅ ↳ MS 2 & 2.5 Üst · @1.96 · 2-3
 
 **13:15 · Japonya – Brezilya**
 

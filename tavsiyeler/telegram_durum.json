@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-13 18",
+ "son_ozet": "2026-11-14 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -98,7 +98,8 @@
   "2026-11-08|POT Iraklis – Panathinaikos|MS 2 & KG Var",
   "2026-11-08|Rennes – Lille|MS 1 & 2.5 Üst",
   "2026-11-08|Sunderland – Chelsea|MS 2 & 2.5 Üst",
-  "2026-11-08|Twente – Ajax|MS 2"
+  "2026-11-08|Twente – Ajax|MS 2",
+  "2026-11-14|Real Valladolid – Castellon|KG Yok"
  ],
  "sonuc_gonderilen": [
   "2026-10-01",
@@ -141,7 +142,8 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "kuponlar": [
   "2️⃣|Le Havre – Paris Saint Germain:MS 2 & KG Var|Sheffield United – Wrexham:En çok korner 1",
@@ -238,6 +240,10 @@
   "2️⃣|Norveç – Galler:MS 1 & KG Var|Real Valladolid – Castellon:En çok korner 1",
   "3️⃣|Almeria – FC Andorra:En çok korner 2|Grenada – ST Kitts ve Nevis:MS 2 & KG Var|Montserrat – Nikaragua:MS 2 & KG Var",
   "4️⃣|East Kilbri – Alloa:MS 1 & KG Var|Livingston – G. Morton:MS 1 & KG Var|Saint Martin – El Salvador:MS 2 & KG Var|Southend – Aldershot:MS 1 & KG Var",
-  "🎲|Gateshead – Barrow:İY/MS 1/2|Livingston – G. Morton:İY/MS 2/1|Norveç – Galler:İY/MS 2/1|Rochdale – York City:İY/MS 1/2"
+  "🎲|Gateshead – Barrow:İY/MS 1/2|Livingston – G. Morton:İY/MS 2/1|Norveç – Galler:İY/MS 2/1|Rochdale – York City:İY/MS 1/2",
+  "2️⃣|Haiti – ABD:MS 2 & KG Var|Real Valladolid – Castellon:En çok korner 1",
+  "3️⃣|Almeria – FC Andorra:En çok korner 2|Granada – Las Palmas:En çok korner 2|Real Sociedad B – S.Gijon:MS 2",
+  "4️⃣|Eibar – Cadiz:En çok korner 2|Norveç – Galler:MS 1 & KG Var|Romanya – Polonya:MS 2 & KG Var|İsveç – Bosna Hersek:MS 1 & KG Var",
+  "🎲|Eastleigh – AFC Fylde:İY/MS 1/2|Norveç – Galler:İY/MS 2/1|Real Valladolid – Castellon:KG Yok|Romanya – Polonya:İY/MS 1/2|Yeovil Town – Boreham Wood:İY/MS 1/2"
  ]
 }
