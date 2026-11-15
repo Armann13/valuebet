@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**675/1253 tuttu** (isabet %54, beklenen %59) · -185.78 birim · 67 tahmin sonuç bekliyor
+**677/1256 tuttu** (isabet %54, beklenen %59) · -186.01 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,12 +10,12 @@
 
 **00:30 · Haiti – ABD**
 
-- ⏳ 🟢 Korner 9.5 Alt · @1.26
-- ⏳ 🟡 ↳ Korner 8.5 Alt · @1.51
+- ✅ 🟢 Korner 9.5 Alt · @1.26 · korner 1-6
+- ✅ 🟡 ↳ Korner 8.5 Alt · @1.51 · korner 1-6
 
 **04:00 · Jamaika – Meksika**
 
-- ⏳ 🟢 En çok korner 2 · @1.24
+- ❌ 🟢 En çok korner 2 · @1.24 · korner 4-3
 
 **18:15 · Granada – Las Palmas**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**376/893 tuttu** (isabet %42, beklenen %41) · -55.29 birim · 68 tahmin sonuç bekliyor
+**376/895 tuttu** (isabet %42, beklenen %41) · -57.29 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@
 
 **00:30 · Haiti – ABD**
 
-- ⏳ ↳ MS 2 & KG Var · @2.61
+- ❌ ↳ MS 2 & KG Var · @2.61 · 0-6
 
 **04:00 · Jamaika – Meksika**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.07
+- ❌ ↳ MS 2 & 2.5 Üst · @2.07 · 3-2
 
 **16:00 · Tenerife – AD Ceuta**
 

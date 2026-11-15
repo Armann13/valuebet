@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/617 tuttu** (isabet %29, beklenen %28) · -57.17 birim · 51 tahmin sonuç bekliyor
+**180/618 tuttu** (isabet %29, beklenen %28) · -58.17 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,7 +16,7 @@
 
 **04:00 · Jamaika – Meksika**
 
-- ⏳ ↳ MS 2 & KG Var · @3.38
+- ❌ ↳ MS 2 & KG Var · @3.38 · 3-2
 
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
