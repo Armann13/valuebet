@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**644/1135 tuttu** (isabet %57, beklenen %59) · -134.38 birim · 70 tahmin sonuç bekliyor
+**644/1135 tuttu** (isabet %57, beklenen %59) · -134.38 birim · 85 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,51 @@
 **02:00 · Panama – Curaçao**
 
 - ⏳ MS 1 · @1.46
+- ⏳ 2.5 Alt · @1.52
+
+**16:00 · Zimbabve – Ekvator Ginesi**
+
+- ⏳ KG Yok · @1.50
+
+**16:00 · Sudan – Senegal**
+
+- ⏳ 2.5 Alt · @1.57
+
+**18:00 · Kazakistan – Slovakya**
+
+- ⏳ MS 2 · @1.62
+
+**18:00 · Faroe Adaları – Moldova**
+
+- ⏳ MS 1 · @1.64
+
+**19:00 · Orta Afrika Cumhuriyeti – Benin**
+
+- ⏳ 2.5 Alt · @1.50
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ⏳ 2.5 Üst · @1.58
+
+**20:00 · İzlanda – Lüksemburg**
+
+- ⏳ MS 1 & 2.5 Üst · @1.78
+
+**22:30 · Albacete – Celta Vigo B**
+
+- ⏳ MS 1 · @1.46
+
+**22:45 · Kuzey Makedonya – Slovenya**
+
+- ⏳ MS 2 · @1.43
+
+**22:45 · İsviçre – İskoçya**
+
+- ⏳ MS 1 · @1.55
+
+**22:45 · Almanya – Hollanda**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.43
 
 ## 15.11.2026 Pazar
 
@@ -30,6 +75,11 @@
 **16:00 · Tenerife – AD Ceuta**
 
 - ⏳ MS 1 · @1.66
+- ⏳ ↳ Korner 9.5 Alt · @1.54
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ En çok korner 2 · @1.56
 
 **18:15 · Granada – Las Palmas**
 
@@ -59,6 +109,7 @@
 
 - ⏳ 2.5 Üst · @1.49
 - ⏳ Korner 8.5 Üst · @1.41
+- ⏳ ↳ Korner 10.5 Alt · @1.41
 
 **22:45 · İspanya – İngiltere**
 

@@ -2,9 +2,32 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**677/1256 tuttu** (isabet %54, beklenen %59) · -186.01 birim · 64 tahmin sonuç bekliyor
+**677/1256 tuttu** (isabet %54, beklenen %59) · -186.01 birim · 78 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11.2026 Pazartesi
+
+**22:30 · Albacete – Celta Vigo B**
+
+- ⏳ 🟢 En çok korner 1 · @1.31
+
+**22:45 · Kuzey Makedonya – Slovenya**
+
+- ⏳ 🟢 En çok korner 2 · @1.22
+
+**22:45 · Almanya – Hollanda**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.21
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
+
+**22:45 · İsviçre – İskoçya**
+
+- ⏳ 🟢 En çok korner 1 · @1.26
+
+**22:45 · Yunanistan – Sırbistan**
+
+- ⏳ 🟢 En çok korner 1 · @1.26
 
 ## 15.11.2026 Pazar
 
@@ -17,6 +40,16 @@
 
 - ❌ 🟢 En çok korner 2 · @1.24 · korner 4-3
 
+**16:00 · Tenerife – AD Ceuta**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.30
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.54
+- ⏳ 3 En çok korner 2 · @2.91
+
+**17:00 · Letonya – Ermenistan**
+
+- ⏳ 🟡 En çok korner 2 · @1.56
+
 **18:15 · Granada – Las Palmas**
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.32
@@ -28,6 +61,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
 - ⏳ 4 En çok korner 2 · @2.90
+- ⏳ 3 En çok korner 2 · @2.96
 - ⏳ 3 En çok korner 2 · @2.96
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
@@ -44,6 +78,7 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
 
 **22:45 · Hırvatistan – Çekya**
 
@@ -54,6 +89,8 @@
 
 - ⏳ 🟡 Korner 8.5 Üst · @1.41
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @1.74
+- ⏳ 🟢 Korner 11.5 Alt · @1.21
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
 
 ## 14.11.2026 Cumartesi
 

@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**25/73 tuttu** (isabet %34, beklenen %39) · -5.04 birim · 5 tahmin sonuç bekliyor
+**25/73 tuttu** (isabet %34, beklenen %39) · -5.04 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11 09:46 gönderilen kupon · 3 maç, oran 24,98
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 15.11 16:00 Tenerife – AD Ceuta · En çok korner 2 · @2.91
+- ⏳ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.96
+- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.90
 
 ## 14.11 21:16 gönderilen kupon · 3 maç, oran 18,65
 

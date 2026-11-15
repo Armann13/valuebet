@@ -2,15 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/96 tuttu** (isabet %18, beklenen %16) · -3.09 birim · 2 tahmin sonuç bekliyor
+**17/96 tuttu** (isabet %18, beklenen %16) · -3.09 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11.2026 Pazartesi
+
+**20:00 · Estonya – Bulgaristan**
+
+- ⏳ 1-0 · @4.90
+
+**22:45 · Cebelitarık – Malta**
+
+- ⏳ 0-1 · @4.01
+
+**22:45 · Kuzey Makedonya – Slovenya**
+
+- ⏳ 0-1 · @4.72
+
+**22:45 · Yunanistan – Sırbistan**
+
+- ⏳ 2-1 · @7.19
 
 ## 15.11.2026 Pazar
 
 **20:00 · Belarus – Arnavutluk**
 
 - ⏳ 0-1 · @5.05
+
+**20:00 · Finlandiya – San Marino**
+
+- ⏳ 3-0 · @4.68
 
 ## 14.11.2026 Cumartesi
 

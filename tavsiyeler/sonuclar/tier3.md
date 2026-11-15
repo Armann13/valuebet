@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**376/895 tuttu** (isabet %42, beklenen %41) · -57.29 birim · 66 tahmin sonuç bekliyor
+**376/895 tuttu** (isabet %42, beklenen %41) · -57.29 birim · 81 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,58 @@
 **02:00 · Panama – Curaçao**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.72
+
+**16:00 · Namibya – Kamerun**
+
+- ⏳ 2.5 Üst · @2.14
+
+**18:00 · Somali – Gana**
+
+- ⏳ KG Var · @2.86
+
+**18:00 · Kazakistan – Slovakya**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.55
+
+**18:00 · Faroe Adaları – Moldova**
+
+- ⏳ ↳ İY/MS 1/1 · @2.49
+
+**19:00 · Eritre – Gine**
+
+- ⏳ ↳ MS 2 & KG Var · @3.34
+
+**20:00 · Estonya – Bulgaristan**
+
+- ⏳ ↳ MS 1 · @1.92
+
+**20:00 · İzlanda – Lüksemburg**
+
+- ⏳ ↳ MS 1 & KG Var · @3.14
+
+**22:30 · Albacete – Celta Vigo B**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+
+**22:45 · Yunanistan – Sırbistan**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.90
+
+**22:45 · Cebelitarık – Malta**
+
+- ⏳ ↳ İY/MS 2/2 · @1.93
+
+**22:45 · Almanya – Hollanda**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.19
+
+**22:45 · Kuzey Makedonya – Slovenya**
+
+- ⏳ ↳ İY/MS 2/2 · @2.10
+
+**22:45 · İsviçre – İskoçya**
+
+- ⏳ ↳ İY/MS 1/1 · @2.31
 
 ## 15.11.2026 Pazar
 
@@ -54,6 +106,7 @@
 **22:45 · Fransa – Türkiye**
 
 - ⏳ ↳ MS 1 & KG Var · @2.15
+- ⏳ ↳ Korner 9.5 Üst · @1.72
 
 **22:45 · Hırvatistan – Çekya**
 
@@ -67,6 +120,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.81
 - ⏳ ↳ Korner 9.5 Üst · @1.74
+- ⏳ ↳ MS 1 · @1.96
 
 ## 14.11.2026 Cumartesi
 

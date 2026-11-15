@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/618 tuttu** (isabet %29, beklenen %28) · -58.17 birim · 50 tahmin sonuç bekliyor
+**180/618 tuttu** (isabet %29, beklenen %28) · -58.17 birim · 58 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,34 @@
 **02:00 · Panama – Curaçao**
 
 - ⏳ ↳ MS 1 & KG Var · @4.13
+
+**18:00 · Somali – Gana**
+
+- ⏳ ↳ MS 2 & KG Var · @3.41
+
+**18:00 · Kazakistan – Slovakya**
+
+- ⏳ ↳ MS 2 & KG Var · @3.51
+
+**20:00 · Estonya – Bulgaristan**
+
+- ⏳ ↳ İY/MS 1/1 · @3.10
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ⏳ ↳ MS 1 & KG Var · @4.21
+
+**22:30 · Albacete – Celta Vigo B**
+
+- ⏳ ↳ MS 1 & KG Var · @2.82
+
+**22:45 · Almanya – Hollanda**
+
+- ⏳ ↳ MS 1 & KG Var · @2.73
+
+**22:45 · Yunanistan – Sırbistan**
+
+- ⏳ ↳ MS 1 & KG Var · @2.90
 
 ## 15.11.2026 Pazar
 
@@ -21,6 +49,7 @@
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
 - ⏳ ↳ İY/MS 2/2 · @3.34
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.42
 
 **17:00 · Letonya – Ermenistan**
 
