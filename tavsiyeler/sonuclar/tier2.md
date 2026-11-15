@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**644/1135 tuttu** (isabet %57, beklenen %59) · -134.38 birim · 85 tahmin sonuç bekliyor
+**645/1138 tuttu** (isabet %57, beklenen %59) · -135.72 birim · 82 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -74,12 +74,12 @@
 
 **16:00 · Tenerife – AD Ceuta**
 
-- ⏳ MS 1 · @1.66
-- ⏳ ↳ Korner 9.5 Alt · @1.54
+- ✅ MS 1 · @1.66 · 2-0
+- ❌ ↳ Korner 9.5 Alt · @1.54 · korner 5-7
 
 **17:00 · Letonya – Ermenistan**
 
-- ⏳ En çok korner 2 · @1.56
+- ❌ En çok korner 2 · @1.56 · korner 13-7
 
 **18:15 · Granada – Las Palmas**
 

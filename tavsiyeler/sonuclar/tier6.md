@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**96/906 tuttu** (isabet %11, beklenen %11) · -208.38 birim · 61 tahmin sonuç bekliyor
+**96/910 tuttu** (isabet %11, beklenen %11) · -212.38 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -40,16 +40,16 @@
 
 **16:00 · Tenerife – AD Ceuta**
 
-- ⏳ 1-0 · @6.07
+- ❌ 1-0 · @6.07 · 2-0
 
 **17:00 · Letonya – Ermenistan**
 
-- ⏳ 0-1 · @6.47
+- ❌ 0-1 · @6.47 · 0-0
 
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
-- ⏳ 0-1 · @6.69
-- ⏳ 1-2 · @8.13
+- ❌ 0-1 · @6.69 · 1-4
+- ❌ 1-2 · @8.13 · 1-4
 
 **18:15 · Granada – Las Palmas**
 

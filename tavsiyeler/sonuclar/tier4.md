@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**180/618 tuttu** (isabet %29, beklenen %28) · -58.17 birim · 58 tahmin sonuç bekliyor
+**181/620 tuttu** (isabet %29, beklenen %28) · -56.75 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -49,11 +49,11 @@
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
 - ⏳ ↳ İY/MS 2/2 · @3.34
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.42
+- ✅ ↳ MS 2 & 2.5 Üst · @3.42 · 1-4
 
 **17:00 · Letonya – Ermenistan**
 
-- ⏳ ↳ İY/MS 2/2 · @3.59
+- ❌ ↳ İY/MS 2/2 · @3.59
 
 **18:15 · Granada – Las Palmas**
 

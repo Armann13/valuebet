@@ -6,12 +6,29 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1676 | 1667 | 846 | -150.49 |
-| sonra | 1411 | 1402 | 697 | -151.20 |
+| önce | 1679 | 1667 | 846 | -150.49 |
+| sonra | 1419 | 1402 | 697 | -151.20 |
 
-Değişen tahmin: 355 (351 sonuçlandı: eski 258, yeni 196 tuttu).
+Değişen tahmin: 356 (351 sonuçlandı: eski 258, yeni 196 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 15.11 · Belarus – Arnavutluk
+
+Kadro mesajı: 15.11 19:06
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → ⏳ ÇŞ 1-2 @1.23 (aynı)
+- 🟡 Tier 2: ⏳ MS 2 @1.76 → ⏳ MS 2 @1.77, ⏳ En çok korner 2 @1.55 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.77 → ⏳ İY/MS 2/2 @2.79 (aynı)
+
+## 15.11 · Finlandiya – San Marino
+
+Kadro mesajı: 15.11 19:06
+
+- 🟢 Tier 1: — → ⏳ Korner 10.5 Alt @1.28 (yeni)
+- 🟡 Tier 2: — → ⏳ Korner 9.5 Alt @1.51 (yeni)
+- 🔴 Tier 3: — → ⏳ KG Var @3.45 (yeni)
+- 🟣 Tier 4: — → ⏳ MS 1 & KG Var @3.51 (yeni)
 
 ## 14.11 · Real Oviedo – Girona
 
