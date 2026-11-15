@@ -7410,3 +7410,14 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-15 19:27,2026-11-16,16.11,MILLI,Greece,Serbia,Yunanistan – Sırbistan,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.04949036541291475,22.25,0.10116063043735335,oran,,,,2026-11-16 22:45,,,,,,
 2026-11-15 19:27,2026-11-15,15.11,MILLI,Croatia,Czech Republic,Hırvatistan – Çekya,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.04546993370198307,23.15,0.052628965200907984,oran,,,,2026-11-15 22:45,,,,,,
 2026-11-15 19:27,2026-11-16,16.11,SP2,Albacete,Celta B,Albacete – Celta Vigo B,SP2,🎲 Çılgın kupon,İY/MS 2/1,0.04983074171699596,21.1,0.05142865022861476,oran,,,,2026-11-16 22:30,,,,,,
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.701937179085508,1.25,-0.12257852614311493,piyasa,False,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eibar,Cadiz,Eibar – Cadiz,SP2,🟡 Tier 2 — Orta risk,KG Var,0.5069906807185811,1.7,-0.13811584277841216,piyasa,False,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,🔴 Tier 3 — Yüksek risk,MS 1,0.3886044010352167,2.3,-0.10620987761900169,piyasa,True,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eibar,Cadiz,Eibar – Cadiz,SP2,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.2625566357058484,2.96,-0.2228323583106887,piyasa,True,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.2134698461738709,3.81,-0.18667988607755182,piyasa,True,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eibar,Cadiz,Eibar – Cadiz,SP2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7393473413915856,1.25,-0.07581582326051794,korner,False,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eibar,Cadiz,Eibar – Cadiz,SP2,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6523040488534734,1.45,-0.05415912916246368,korner,True,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5537263479780657,1.62,-0.10296331627553346,korner,False,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.44489423776220505,2.06,-0.08351787020985757,korner,True,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eldense,Sabadell,Club Deportivo Eldense – CE Sabadell FC,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12640575854384156,5.51,-0.303504270423433,piyasa,,,,2026-11-15 20:30,,,,,,kadro
+2026-11-15 19:37,2026-11-15,15.11,SP2,Eibar,Cadiz,Eibar – Cadiz,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11829054521299734,7.17,-0.15185679082280912,piyasa,,,,2026-11-15 20:30,,,,,,kadro
