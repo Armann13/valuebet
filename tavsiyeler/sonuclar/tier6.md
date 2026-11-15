@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**97/915 tuttu** (isabet %11, beklenen %11) · -210.51 birim · 53 tahmin sonuç bekliyor
+**99/919 tuttu** (isabet %11, beklenen %11) · -199.11 birim · 49 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -71,19 +71,19 @@
 
 **22:45 · İspanya – İngiltere**
 
-- ⏳ 2-1 · @7.27
+- ❌ 2-1 · @7.27 · 2-3
 
 **22:45 · Hırvatistan – Çekya**
 
-- ⏳ 2-1 · @7.14
+- ✅ 2-1 · @7.14 · 2-1
 
 **22:45 · Fransa – Türkiye**
 
-- ⏳ 2-1 · @8.26
+- ✅ 2-1 · @8.26 · 2-1
 
 **22:45 · Belçika – İtalya**
 
-- ⏳ 2-1 · @7.84
+- ❌ 2-1 · @7.84 · 4-1
 
 ## 14.11.2026 Cumartesi
 

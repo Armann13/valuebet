@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**27/78 tuttu** (isabet %35, beklenen %39) · -4.27 birim · 6 tahmin sonuç bekliyor
+**28/79 tuttu** (isabet %35, beklenen %39) · -3.12 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 14.11 21:16 gönderilen kupon · 3 maç, oran 18,65
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 14.11 22:45 Romanya – Polonya · MS 2 & KG Var · @2.93 · 2-1
 - ❌ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.96 · korner 4-2
-- ⏳ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.15
+- ✅ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.15 · 2-1
 
 ## 14.11 13:40 gönderilen kupon · 3 maç, oran 22,10
 

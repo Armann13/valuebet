@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**688/1274 tuttu** (isabet %54, beklenen %59) · -184.69 birim · 71 tahmin sonuç bekliyor
+**699/1288 tuttu** (isabet %54, beklenen %59) · -183.37 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -94,29 +94,29 @@
 
 **22:45 · İspanya – İngiltere**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.23
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.46
+- ✅ 🟢 Korner 7.5 Üst · @1.23 · korner 4-6
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.46 · korner 4-6
 
 **22:45 · Fransa – Türkiye**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.20
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
+- ✅ 🟢 Korner 7.5 Üst · @1.20 · korner 8-5
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.42 · korner 8-5
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.72 · korner 8-5
+- ❌ 🟢 Korner 11.5 Alt · @1.20 · korner 8-5
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.67 · korner 8-5
 
 **22:45 · Hırvatistan – Çekya**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
-- ⏳ 🟢 En çok korner 1 · @1.30
+- ✅ 🟢 Korner 10.5 Alt · @1.21 · korner 5-1
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.42 · korner 5-1
+- ✅ 🟢 En çok korner 1 · @1.30 · korner 5-1
 
 **22:45 · Belçika – İtalya**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.41
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.74
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ✅ 🟡 Korner 8.5 Üst · @1.41 · korner 7-4
+- ✅ 🔴 ↳ Korner 9.5 Üst · @1.74 · korner 7-4
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 7-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 7-4
 
 ## 14.11.2026 Cumartesi
 

@@ -2,23 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/47 tuttu** (isabet %40, beklenen %50) · -7.12 birim · 5 tahmin sonuç bekliyor
+**21/49 tuttu** (isabet %43, beklenen %50) · -4.87 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 15.11 19:27 gönderilen kupon · 2 maç, oran 4,62
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.11
+- ✅ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.11 · 2-1
 - ⏳ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.19
 
 ## 15.11 09:46 gönderilen kupon · 2 maç, oran 3,98
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 3,98 birim
 
 - ✅ 15.11 18:15 Granada – Las Palmas · MS 1 · @1.86 · 1-0
-- ⏳ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.14
+- ✅ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.14 · 2-1
 
 ## 14.11 21:16 gönderilen kupon · 2 maç, oran 4,51
 
