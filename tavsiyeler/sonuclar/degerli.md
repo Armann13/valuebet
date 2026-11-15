@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/99 tuttu** (isabet %38, beklenen %42) · -10.48 birim · 2 tahmin sonuç bekliyor
+**39/100 tuttu** (isabet %39, beklenen %43) · -9.61 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ MS 1 · @1.87
+- ✅ MS 1 · @1.87 · 1-0
 
 ## 14.11.2026 Cumartesi
 

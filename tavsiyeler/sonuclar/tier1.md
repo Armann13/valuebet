@@ -2,11 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**491/696 tuttu** (isabet %71, beklenen %74) · -88.80 birim · 63 tahmin sonuç bekliyor
+**497/702 tuttu** (isabet %71, beklenen %74) · -87.34 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 16.11.2026 Pazartesi
+
+**02:00 · Panama – Curaçao**
+
+- ⏳ En çok korner 1 · @1.20
+
+**16:00 · Sudan – Senegal**
+
+- ⏳ KG Yok · @1.24
 
 **19:00 · Eritre – Gine**
 
@@ -15,6 +23,10 @@
 **20:00 · Estonya – Bulgaristan**
 
 - ⏳ ÇŞ 1-2 · @1.24
+
+**22:00 · Guadeloupe – Bermuda**
+
+- ⏳ 2.5 Üst · @1.21
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -67,33 +79,40 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ Korner 10.5 Alt · @1.32
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ Korner 10.5 Alt · @1.32 · korner 2-7
+- ✅ ÇŞ 1-2 · @1.20 · 1-0
 
 **20:00 · Belarus – Arnavutluk**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-2
+
+**20:00 · Finlandiya – San Marino**
+
+- ✅ Korner 10.5 Alt · @1.29 · korner 5-1
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 2-0
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 4-2
 
 **22:45 · Fransa – Türkiye**
 
 - ⏳ MS 1 & 2.5 Üst · @1.37
 - ⏳ Korner 7.5 Üst · @1.20
+- ⏳ Korner 11.5 Alt · @1.20
 
 **22:45 · İspanya – İngiltere**
 
 - ⏳ Korner 7.5 Üst · @1.23
+- ⏳ ÇŞ 1-X · @1.21
 
 **22:45 · Hırvatistan – Çekya**
 
 - ⏳ Korner 10.5 Alt · @1.21
+- ⏳ En çok korner 1 · @1.30
 
 **22:45 · Belçika – İtalya**
 

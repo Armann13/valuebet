@@ -6,29 +6,73 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1679 | 1667 | 846 | -150.49 |
-| sonra | 1419 | 1402 | 697 | -151.20 |
+| önce | 1715 | 1682 | 858 | -146.70 |
+| sonra | 1441 | 1417 | 711 | -140.27 |
 
-Değişen tahmin: 356 (351 sonuçlandı: eski 258, yeni 196 tuttu).
+Değişen tahmin: 367 (353 sonuçlandı: eski 259, yeni 197 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 15.11 · Belçika – İtalya
+
+Kadro mesajı: 15.11 21:56
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.24, ⏳ Korner 11.5 Alt @1.21 → ⏳ ÇŞ 1-X @1.24, ⏳ Korner 11.5 Alt @1.23 (aynı)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.49, ⏳ Korner 8.5 Üst @1.41, ⏳ Korner 10.5 Alt @1.41 → ⏳ Korner 10.5 Alt @1.43 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.81, ⏳ Korner 9.5 Üst @1.74, ⏳ MS 1 @1.96 → ⏳ MS 1 @1.96 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.50 → ⏳ MS 1 & 2.5 Üst @2.72 (değişti)
+
+## 15.11 · Fransa – Türkiye
+
+Kadro mesajı: 15.11 21:56
+
+- 🟢 Tier 1: ⏳ MS 1 & 2.5 Üst @1.37, ⏳ Korner 7.5 Üst @1.20, ⏳ Korner 11.5 Alt @1.20 → ⏳ MS 1 & 2.5 Üst @1.30, ⏳ Korner 11.5 Alt @1.20 (değişti)
+- 🟡 Tier 2: ⏳ Korner 8.5 Üst @1.42, ⏳ Korner 9.5 Alt @1.67 → ⏳ Korner 9.5 Alt @1.67 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.15, ⏳ Korner 9.5 Üst @1.72 → ⏳ MS 1 & KG Var @2.09 (değişti)
+
+## 15.11 · İspanya – İngiltere
+
+Kadro mesajı: 15.11 21:56
+
+- 🟢 Tier 1: ⏳ Korner 7.5 Üst @1.23, ⏳ ÇŞ 1-X @1.21 → ⏳ ÇŞ 1-X @1.20 (değişti)
+- 🟡 Tier 2: ⏳ MS 1 @1.58, ⏳ Korner 8.5 Üst @1.46 → ⏳ En çok korner 1 @1.49 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.23 → ⏳ MS 1 @1.82 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @2.98 → ⏳ MS 1 & 2.5 Üst @2.55 (değişti)
+
+## 15.11 · Club Deportivo Eldense – CE Sabadell FC
+
+Kadro mesajı: 15.11 19:37
+
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.24 → ✅ ÇŞ 1-X @1.25 (aynı)
+- 🟡 Tier 2: ✅ Korner 9.5 Alt @1.62 → ✅ Korner 9.5 Alt @1.62 (aynı)
+- 🔴 Tier 3: ✅ MS 1 @2.23, ✅ Korner 8.5 Alt @2.06 → ✅ MS 1 @2.30, ✅ Korner 8.5 Alt @2.06 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.65 → ⏳ İY/MS 1/1 @3.81 (aynı)
+
+## 15.11 · Eibar – Cadiz
+
+Kadro mesajı: 15.11 19:37
+
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.21 → ✅ Korner 11.5 Alt @1.25 (aynı)
+- 🟡 Tier 2: ❌ MS 1 @1.50, ✅ Korner 10.5 Alt @1.40, ✅ KG Var @1.70 → ✅ KG Var @1.70, ✅ Korner 10.5 Alt @1.45 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.24 → ❌ MS 1 & KG Var @2.96 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.15 → — (kalktı)
 
 ## 15.11 · Belarus – Arnavutluk
 
 Kadro mesajı: 15.11 19:06
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → ⏳ ÇŞ 1-2 @1.23 (aynı)
-- 🟡 Tier 2: ⏳ MS 2 @1.76 → ⏳ MS 2 @1.77, ⏳ En çok korner 2 @1.55 (değişti)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.20 → ✅ ÇŞ 1-2 @1.23 (aynı)
+- 🟡 Tier 2: ✅ MS 2 @1.76, ✅ En çok korner 2 @1.55 → ✅ MS 2 @1.77, ✅ En çok korner 2 @1.55 (aynı)
 - 🔴 Tier 3: ⏳ İY/MS 2/2 @2.77 → ⏳ İY/MS 2/2 @2.79 (aynı)
 
 ## 15.11 · Finlandiya – San Marino
 
 Kadro mesajı: 15.11 19:06
 
-- 🟢 Tier 1: — → ⏳ Korner 10.5 Alt @1.28 (yeni)
-- 🟡 Tier 2: — → ⏳ Korner 9.5 Alt @1.51 (yeni)
-- 🔴 Tier 3: — → ⏳ KG Var @3.45 (yeni)
-- 🟣 Tier 4: — → ⏳ MS 1 & KG Var @3.51 (yeni)
+- 🟢 Tier 1: ✅ Korner 10.5 Alt @1.29 → ✅ Korner 10.5 Alt @1.28 (aynı)
+- 🟡 Tier 2: ✅ Korner 9.5 Alt @1.53 → ✅ Korner 9.5 Alt @1.51 (aynı)
+- 🔴 Tier 3: — → ✅ KG Var @3.45 (yeni)
+- 🟣 Tier 4: — → ✅ MS 1 & KG Var @3.51 (yeni)
 
 ## 14.11 · Real Oviedo – Girona
 

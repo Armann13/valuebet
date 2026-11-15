@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**96/910 tuttu** (isabet %11, beklenen %11) · -212.38 birim · 57 tahmin sonuç bekliyor
+**97/915 tuttu** (isabet %11, beklenen %11) · -210.51 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,7 @@
 **18:00 · Kazakistan – Slovakya**
 
 - ⏳ 1-2 · @7.33
+- ⏳ 0-1 · @6.14
 
 **20:00 · İzlanda – Lüksemburg**
 
@@ -53,20 +54,20 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ 1-0 · @6.87
-- ⏳ 2-1 · @7.71
+- ✅ 1-0 · @6.87 · 1-0
+- ❌ 2-1 · @7.71 · 1-0
 
 **20:00 · Finlandiya – San Marino**
 
-- ⏳ 4-0 · @5.19
+- ❌ 4-0 · @5.19 · 7-2
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ 1-0 · @5.77
+- ❌ 1-0 · @5.77 · 2-0
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ 2-1 · @7.19
+- ❌ 2-1 · @7.19 · 1-1
 
 **22:45 · İspanya – İngiltere**
 

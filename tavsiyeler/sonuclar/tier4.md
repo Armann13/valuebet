@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**181/620 tuttu** (isabet %29, beklenen %28) · -56.75 birim · 56 tahmin sonuç bekliyor
+**181/622 tuttu** (isabet %29, beklenen %28) · -58.75 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -57,11 +57,11 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ ↳ MS 1 & KG Var · @3.79
+- ❌ ↳ MS 1 & KG Var · @3.79 · 1-0
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ ↳ MS 1 & KG Var · @3.15
+- ❌ ↳ MS 1 & KG Var · @3.15 · 1-1
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 

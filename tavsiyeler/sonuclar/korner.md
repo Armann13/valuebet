@@ -2,11 +2,24 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**678/1260 tuttu** (isabet %54, beklenen %59) · -187.10 birim · 74 tahmin sonuç bekliyor
+**688/1274 tuttu** (isabet %54, beklenen %59) · -184.69 birim · 71 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 16.11.2026 Pazartesi
+
+**02:00 · Panama – Curaçao**
+
+- ⏳ 🟢 En çok korner 1 · @1.20
+
+**18:00 · Kazakistan – Slovakya**
+
+- ⏳ 🟡 En çok korner 2 · @1.50
+
+**18:00 · Faroe Adaları – Moldova**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.68
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.15
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -52,22 +65,32 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.32
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.57
-- ⏳ 3 En çok korner 2 · @2.86
+- ✅ 🟢 Korner 10.5 Alt · @1.32 · korner 2-7
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.57 · korner 2-7
+- ✅ 3 En çok korner 2 · @2.86 · korner 2-7
+
+**20:00 · Finlandiya – San Marino**
+
+- ✅ 🟢 Korner 10.5 Alt · @1.29 · korner 5-1
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.53 · korner 5-1
+
+**20:00 · Belarus – Arnavutluk**
+
+- ✅ 🟡 En çok korner 2 · @1.55 · korner 1-7
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
-- ⏳ 4 En çok korner 2 · @2.90
-- ⏳ 3 En çok korner 2 · @2.96
-- ⏳ 3 En çok korner 2 · @2.96
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 4-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 4-2
+- ❌ 4 En çok korner 2 · @2.90 · korner 4-2
+- ❌ 3 En çok korner 2 · @2.96 · korner 4-2
+- ❌ 3 En çok korner 2 · @2.96 · korner 4-2
+- ❌ 3 En çok korner 2 · @2.96 · korner 4-2
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.62
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
+- ✅ 🟡 Korner 9.5 Alt · @1.62 · korner 1-2
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.06 · korner 1-2
 
 **22:45 · İspanya – İngiltere**
 
@@ -79,11 +102,14 @@
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @1.72
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
 
 **22:45 · Hırvatistan – Çekya**
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+- ⏳ 🟢 En çok korner 1 · @1.30
 
 **22:45 · Belçika – İtalya**
 

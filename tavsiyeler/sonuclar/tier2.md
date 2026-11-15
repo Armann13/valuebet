@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**645/1138 tuttu** (isabet %57, beklenen %59) · -135.72 birim · 82 tahmin sonuç bekliyor
+**654/1148 tuttu** (isabet %57, beklenen %59) · -130.91 birim · 81 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,10 +24,12 @@
 **18:00 · Kazakistan – Slovakya**
 
 - ⏳ MS 2 · @1.62
+- ⏳ En çok korner 2 · @1.50
 
 **18:00 · Faroe Adaları – Moldova**
 
 - ⏳ MS 1 · @1.64
+- ⏳ Korner 9.5 Alt · @1.68
 
 **19:00 · Orta Afrika Cumhuriyeti – Benin**
 
@@ -40,6 +42,18 @@
 **20:00 · İzlanda – Lüksemburg**
 
 - ⏳ MS 1 & 2.5 Üst · @1.78
+
+**21:00 · Andorra – Azerbaycan**
+
+- ⏳ MS 2 · @1.56
+
+**22:00 · Guyana – Porto Riko**
+
+- ⏳ MS 1 · @1.48
+
+**22:00 · Küba – Grenada**
+
+- ⏳ KG Var · @1.59
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -83,22 +97,28 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ 2.5 Alt · @1.81
-- ⏳ ↳ Korner 9.5 Alt · @1.57
-- ⏳ MS 1 · @1.87
+- ✅ 2.5 Alt · @1.81 · 1-0
+- ✅ ↳ Korner 9.5 Alt · @1.57 · korner 2-7
+- ✅ MS 1 · @1.87 · 1-0
 
 **20:00 · Belarus – Arnavutluk**
 
-- ⏳ ↳ MS 2 · @1.76
+- ✅ ↳ MS 2 · @1.76 · 0-2
+- ✅ En çok korner 2 · @1.55 · korner 1-7
+
+**20:00 · Finlandiya – San Marino**
+
+- ✅ ↳ Korner 9.5 Alt · @1.53 · korner 5-1
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ MS 1 · @1.50
-- ⏳ ↳ Korner 10.5 Alt · @1.40
+- ❌ MS 1 · @1.50 · 1-1
+- ✅ ↳ Korner 10.5 Alt · @1.40 · korner 4-2
+- ✅ KG Var · @1.70 · 1-1
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ Korner 9.5 Alt · @1.62
+- ✅ Korner 9.5 Alt · @1.62 · korner 1-2
 
 **22:45 · Hırvatistan – Çekya**
 
@@ -119,6 +139,7 @@
 **22:45 · Fransa – Türkiye**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.42
+- ⏳ ↳ Korner 9.5 Alt · @1.67
 
 ## 14.11.2026 Cumartesi
 

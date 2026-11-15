@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/96 tuttu** (isabet %18, beklenen %16) · -3.09 birim · 7 tahmin sonuç bekliyor
+**17/98 tuttu** (isabet %17, beklenen %16) · -5.09 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,11 +28,11 @@
 
 **20:00 · Belarus – Arnavutluk**
 
-- ⏳ 0-1 · @5.05
+- ❌ 0-1 · @5.05 · 0-2
 
 **20:00 · Finlandiya – San Marino**
 
-- ⏳ 3-0 · @4.68
+- ❌ 3-0 · @4.68 · 7-2
 
 ## 14.11.2026 Cumartesi
 

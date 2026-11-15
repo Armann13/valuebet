@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/99 tuttu** (isabet %39, beklenen %37) · +7.86 birim · 9 tahmin sonuç bekliyor
+**39/100 tuttu** (isabet %39, beklenen %37) · +6.86 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 15.11 19:27 gönderilen kupon · 4 maç, oran 83,75
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 15.11 22:45 Hırvatistan – Çekya · MS 1 & KG Var · @3.00
+- ⏳ 16.11 19:00 Eritre – Gine · MS 2 & KG Var · @3.25
+- ⏳ 16.11 20:00 İzlanda – Lüksemburg · MS 1 & KG Var · @3.09
+- ⏳ 16.11 22:30 Albacete – Celta Vigo B · MS 1 & KG Var · @2.78
 
 ## 15.11 09:46 gönderilen kupon · 4 maç, oran 80,74
 
@@ -26,12 +35,12 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 14.11 13:40 gönderilen kupon · 4 maç, oran 61,78
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
 - ✅ 14.11 20:00 Norveç – Galler · MS 1 & KG Var · @2.24 · 3-1
 - ❌ 14.11 22:45 Romanya – Polonya · MS 2 & KG Var · @3.17 · 2-1
 - ✅ 14.11 22:45 İsveç – Bosna Hersek · MS 1 & KG Var · @3.00 · 3-2
-- ⏳ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.90
+- ❌ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.90 · korner 4-2
 
 ## 13.11 22:51 gönderilen kupon · 4 maç, oran 34,64
 

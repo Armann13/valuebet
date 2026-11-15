@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**377/897 tuttu** (isabet %42, beklenen %41) · -57.21 birim · 79 tahmin sonuç bekliyor
+**379/901 tuttu** (isabet %42, beklenen %41) · -56.92 birim · 80 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,10 +23,12 @@
 **18:00 · Kazakistan – Slovakya**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.55
+- ⏳ ↳ İY/MS 2/2 · @2.50
 
 **18:00 · Faroe Adaları – Moldova**
 
 - ⏳ ↳ İY/MS 1/1 · @2.49
+- ⏳ ↳ Korner 8.5 Alt · @2.15
 
 **19:00 · Eritre – Gine**
 
@@ -39,6 +41,18 @@
 **20:00 · İzlanda – Lüksemburg**
 
 - ⏳ ↳ MS 1 & KG Var · @3.14
+
+**22:00 · Guadeloupe – Bermuda**
+
+- ⏳ ↳ MS 1 & KG Var · @2.14
+
+**22:00 · Küba – Grenada**
+
+- ⏳ ↳ MS 1 & KG Var · @2.38
+
+**22:00 · Guyana – Porto Riko**
+
+- ⏳ ↳ MS 1 & KG Var · @2.98
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -88,7 +102,7 @@
 
 **18:15 · Granada – Las Palmas**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.93
+- ❌ ↳ MS 1 & 2.5 Üst · @2.93 · 1-0
 
 **20:00 · Belarus – Arnavutluk**
 
@@ -96,12 +110,12 @@
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ ↳ MS 1 · @2.23
-- ⏳ ↳ Korner 8.5 Alt · @2.06
+- ✅ ↳ MS 1 · @2.23 · 2-0
+- ✅ ↳ Korner 8.5 Alt · @2.06 · korner 1-2
 
 **20:30 · Eibar – Cadiz**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.24
+- ❌ ↳ MS 1 & 2.5 Üst · @2.24 · 1-1
 
 **22:45 · Fransa – Türkiye**
 
