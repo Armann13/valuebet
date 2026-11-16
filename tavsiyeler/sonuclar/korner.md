@@ -2,9 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**700/1291 tuttu** (isabet %54, beklenen %59) · -185.17 birim · 61 tahmin sonuç bekliyor
+**703/1302 tuttu** (isabet %54, beklenen %59) · -191.88 birim · 67 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**22:45 · Galler – Portekiz**
+
+- ⏳ 🟢 En çok korner 2 · @1.22
+
+**22:45 · Bosna Hersek – Romanya**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · Polonya – İsveç**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.22
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · İrlanda – Kosova**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.23
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.44
+
+**22:45 · Macaristan – Kuzey İrlanda**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.45
+
+**22:45 · Danimarka – Norveç**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.25
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.50
+
+**22:45 · Ukrayna – Gürcistan**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.49
 
 ## 16.11.2026 Pazartesi
 
@@ -14,27 +50,29 @@
 
 **18:00 · Kazakistan – Slovakya**
 
-- ⏳ 🟡 En çok korner 2 · @1.50
+- ✅ 🟡 En çok korner 2 · @1.50 · korner 1-3
 
 **18:00 · Faroe Adaları – Moldova**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.68
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.15
+- ❌ 🟡 Korner 9.5 Alt · @1.68 · korner 9-3
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.15 · korner 9-3
 
 **20:00 · Estonya – Bulgaristan**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.28
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.56
+- ❌ 🟢 Korner 7.5 Üst · @1.28 · korner 2-3
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.56 · korner 2-3
 
 **20:00 · İzlanda – Lüksemburg**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.41
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.73
+- ❌ 🟡 Korner 9.5 Alt · @1.41 · korner 9-3
+- ❌ 🔴 ↳ Korner 8.5 Alt · @1.73 · korner 9-3
 
 **20:00 · Litvanya – Lihtenştayn**
 
-- ⏳ 🟡 Korner 8.5 Üst · @1.67
-- ⏳ 🔴 ↳ Korner 9.5 Üst · @2.15
+- ❌ 🟡 Korner 8.5 Üst · @1.67 · korner 6-2
+- ❌ 🔴 ↳ Korner 9.5 Üst · @2.15 · korner 6-2
+- ✅ 🟢 Korner 10.5 Alt · @1.28 · korner 6-2
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.51 · korner 6-2
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -48,6 +86,8 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.21
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
+- ⏳ 🟢 Korner 11.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
 
 **22:45 · İsviçre – İskoçya**
 

@@ -2,9 +2,59 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**187/641 tuttu** (isabet %29, beklenen %28) · -58.55 birim · 36 tahmin sonuç bekliyor
+**188/644 tuttu** (isabet %29, beklenen %28) · -57.34 birim · 46 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**16:00 · Tanzanya – Nijerya**
+
+- ⏳ ↳ MS 2 & KG Var · @3.73
+
+**16:00 · Lesotho – Gabon**
+
+- ⏳ ↳ MS 2 & KG Var · @3.95
+
+**19:00 · Gine Bissau – Madagaskar**
+
+- ⏳ ↳ MS 1 & KG Var · @3.74
+
+**19:00 · Gambiya – Fildişi Sahili**
+
+- ⏳ ↳ MS 2 & KG Var · @4.09
+
+**22:00 · Dominika – Cayman Adaları**
+
+- ⏳ ↳ MS 1 & KG Var · @3.15
+
+**22:45 · Macaristan – Kuzey İrlanda**
+
+- ⏳ ↳ İY/MS 1/1 · @2.89
+
+**22:45 · Danimarka – Norveç**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.37
+
+**22:45 · Bosna Hersek – Romanya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.55
+
+**22:45 · İrlanda – Kosova**
+
+- ⏳ ↳ İY/MS 1/1 · @3.16
+
+**22:45 · Ukrayna – Gürcistan**
+
+- ⏳ ↳ İY/MS 1/1 · @3.29
+
+**22:45 · Polonya – İsveç**
+
+- ⏳ ↳ MS 1 & KG Var · @3.77
+
+**23:00 · Nijer – Fas**
+
+- ⏳ ↳ MS 2 & KG Var · @3.15
 
 ## 16.11.2026 Pazartesi
 
@@ -18,11 +68,11 @@
 
 **18:00 · Somali – Gana**
 
-- ⏳ ↳ MS 2 & KG Var · @3.41
+- ❌ ↳ MS 2 & KG Var · @3.41 · 0-1
 
 **18:00 · Kazakistan – Slovakya**
 
-- ⏳ ↳ MS 2 & KG Var · @3.51
+- ❌ ↳ MS 2 & KG Var · @3.51 · 2-2
 
 **20:00 · Estonya – Bulgaristan**
 
@@ -30,7 +80,7 @@
 
 **20:00 · Litvanya – Lihtenştayn**
 
-- ⏳ ↳ MS 1 & KG Var · @4.21
+- ✅ ↳ MS 1 & KG Var · @4.21 · 2-1
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -43,6 +93,10 @@
 **22:45 · Yunanistan – Sırbistan**
 
 - ⏳ ↳ MS 1 & KG Var · @2.90
+
+**22:45 · İsviçre – İskoçya**
+
+- ⏳ ↳ MS 1 & KG Var · @3.36
 
 ## 15.11.2026 Pazar
 

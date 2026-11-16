@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**671/1176 tuttu** (isabet %57, beklenen %59) · -133.82 birim · 59 tahmin sonuç bekliyor
+**677/1189 tuttu** (isabet %57, beklenen %59) · -137.31 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 18.11.2026 Çarşamba
+
+**02:00 · Şili – Kolombiya**
+
+- ⏳ KG Yok · @1.57
+
+**02:30 · Ekvador – Bolivya**
+
+- ⏳ 2.5 Üst · @1.42
 
 ## 17.11.2026 Salı
 
@@ -12,9 +22,120 @@
 
 - ⏳ KG Yok · @1.73
 
+**03:00 · Trinidad ve Tobago – Antigua & Barbuda**
+
+- ⏳ KG Yok · @1.66
+
 **04:00 · Kanada – Guatemala**
 
 - ⏳ KG Yok · @1.41
+
+**15:00 · Kırgızistan – Vietnam**
+
+- ⏳ 2.5 Alt · @1.58
+
+**15:00 · Çin – Bahreyn**
+
+- ⏳ MS 1 · @1.71
+
+**16:00 · Etiyopya – Mozambik**
+
+- ⏳ KG Yok · @1.51
+
+**16:00 · Güney Sudan – Angola**
+
+- ⏳ 2.5 Alt · @1.54
+
+**16:00 · Malavi – Mısır**
+
+- ⏳ 2.5 Üst · @1.56
+
+**16:10 · Japonya – Paraguay**
+
+- ⏳ MS 1 · @1.46
+
+**19:00 · Togo – Cezayir**
+
+- ⏳ MS 2 · @1.46
+
+**19:00 · Gambiya – Fildişi Sahili**
+
+- ⏳ MS 2 · @1.51
+
+**19:00 · Libya – Tunus**
+
+- ⏳ KG Yok · @1.47
+
+**19:00 · Ürdün – Avustralya**
+
+- ⏳ MS 2 · @1.62
+
+**19:00 · Kenya – Güney Afrika**
+
+- ⏳ MS 2 · @1.62
+
+**19:00 · Rusya – Venezuela**
+
+- ⏳ KG Yok · @1.60
+
+**19:30 · Kuveyt – Honduras**
+
+- ⏳ MS 2 · @1.71
+
+**22:00 · Dominika – Cayman Adaları**
+
+- ⏳ MS 1 · @1.42
+
+**22:00 · Ruanda – Mali**
+
+- ⏳ KG Yok · @1.45
+
+**22:00 · Saint Lucia – Barbados**
+
+- ⏳ MS 1 · @1.50
+
+**22:00 · Kongo – Komorlar**
+
+- ⏳ KG Yok · @1.48
+
+**22:00 · Liberya – Yeşil Burun Adaları**
+
+- ⏳ MS 2 · @1.70
+
+**22:00 · Belize – Sint Maarten**
+
+- ⏳ MS 1 · @1.72
+
+**22:45 · Polonya – İsveç**
+
+- ⏳ 2.5 Üst · @1.50
+- ⏳ ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · Danimarka – Norveç**
+
+- ⏳ ÇŞ X-2 · @1.42
+- ⏳ ↳ Korner 8.5 Üst · @1.50
+
+**22:45 · Galler – Portekiz**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @1.75
+
+**22:45 · Bosna Hersek – Romanya**
+
+- ⏳ MS 1 · @1.74
+- ⏳ ↳ Korner 9.5 Alt · @1.42
+
+**22:45 · İrlanda – Kosova**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.44
+
+**22:45 · Macaristan – Kuzey İrlanda**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.45
+
+**22:45 · Ukrayna – Gürcistan**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.49
 
 ## 16.11.2026 Pazartesi
 
@@ -33,31 +154,34 @@
 
 **18:00 · Kazakistan – Slovakya**
 
-- ⏳ MS 2 · @1.62
-- ⏳ En çok korner 2 · @1.50
+- ❌ MS 2 · @1.62 · 2-2
+- ✅ En çok korner 2 · @1.50 · korner 1-3
 
 **18:00 · Faroe Adaları – Moldova**
 
-- ⏳ MS 1 · @1.64
-- ⏳ Korner 9.5 Alt · @1.68
+- ✅ MS 1 · @1.64 · 1-0
+- ❌ Korner 9.5 Alt · @1.68 · korner 9-3
 
 **19:00 · Orta Afrika Cumhuriyeti – Benin**
 
-- ⏳ 2.5 Alt · @1.50
+- ✅ 2.5 Alt · @1.50 · 0-1
 
 **20:00 · Litvanya – Lihtenştayn**
 
-- ⏳ 2.5 Üst · @1.58
-- ⏳ Korner 8.5 Üst · @1.67
+- ✅ 2.5 Üst · @1.58 · 2-1
+- ❌ Korner 8.5 Üst · @1.67 · korner 6-2
+- ❌ 2.5 Alt · @1.66 · 2-1
+- ✅ ↳ Korner 9.5 Alt · @1.51 · korner 6-2
 
 **20:00 · İzlanda – Lüksemburg**
 
-- ⏳ MS 1 & 2.5 Üst · @1.78
-- ⏳ Korner 9.5 Alt · @1.41
+- ✅ MS 1 & 2.5 Üst · @1.78 · 3-0
+- ❌ Korner 9.5 Alt · @1.41 · korner 9-3
+- ❌ 2.5 Alt · @1.72 · 3-0
 
 **20:00 · Estonya – Bulgaristan**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.56
+- ❌ ↳ Korner 8.5 Üst · @1.56 · korner 2-3
 
 **21:00 · Andorra – Azerbaycan**
 
@@ -70,6 +194,10 @@
 **22:00 · Küba – Grenada**
 
 - ⏳ KG Var · @1.59
+
+**22:00 · Guadeloupe – Bermuda**
+
+- ⏳ KG Var · @1.78
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -87,6 +215,7 @@
 **22:45 · Almanya – Hollanda**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.43
+- ⏳ ↳ Korner 10.5 Alt · @1.44
 
 ## 15.11.2026 Pazar
 

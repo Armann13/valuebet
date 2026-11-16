@@ -2,15 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/80 tuttu** (isabet %35, beklenen %39) · -4.12 birim · 7 tahmin sonuç bekliyor
+**28/81 tuttu** (isabet %35, beklenen %39) · -5.12 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11 19:30 gönderilen kupon · 3 maç, oran 17,11
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 16.11 22:00 Küba – Grenada · MS 1 & KG Var · @2.13
+- ⏳ 16.11 22:30 Albacete – Celta Vigo B · MS 1 & KG Var · @2.89
+- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.78
 
 ## 16.11 09:45 gönderilen kupon · 3 maç, oran 18,49
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 16.11 20:00 İzlanda – Lüksemburg · MS 1 & KG Var · @3.05
+- ❌ 16.11 20:00 İzlanda – Lüksemburg · MS 1 & KG Var · @3.05 · 3-0
 - ⏳ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.15
 - ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.82
 

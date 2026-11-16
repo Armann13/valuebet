@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**507/717 tuttu** (isabet %71, beklenen %74) · -89.89 birim · 54 tahmin sonuç bekliyor
+**510/722 tuttu** (isabet %71, beklenen %74) · -91.13 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,78 @@
 **03:00 · Trinidad ve Tobago – Antigua & Barbuda**
 
 - ⏳ 2.5 Üst · @1.21
+
+**03:00 · Martinik – Aruba**
+
+- ⏳ 2.5 Üst · @1.27
+
+**04:00 · Kanada – Guatemala**
+
+- ⏳ 2.5 Üst · @1.28
+
+**16:00 · Tanzanya – Nijerya**
+
+- ⏳ MS 2 · @1.25
+
+**16:00 · Lesotho – Gabon**
+
+- ⏳ MS 2 · @1.31
+
+**16:00 · Burundi – Zambiya**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**17:00 · Katar – Güney Kore**
+
+- ⏳ MS 2 · @1.32
+
+**17:10 · Birleşik Arap Emirlikleri – Suriye**
+
+- ⏳ MS 1 · @1.21
+
+**19:00 · Gine Bissau – Madagaskar**
+
+- ⏳ MS 1 · @1.27
+
+**22:00 · Moritanya – Burkina Faso**
+
+- ⏳ 2.5 Alt · @1.27
+
+**22:00 · Botsvana – Uganda**
+
+- ⏳ 2.5 Alt · @1.28
+
+**22:45 · Galler – Portekiz**
+
+- ⏳ MS 2 · @1.28
+- ⏳ En çok korner 2 · @1.22
+
+**22:45 · Ukrayna – Gürcistan**
+
+- ⏳ ÇŞ 1-X · @1.22
+- ⏳ Korner 10.5 Alt · @1.25
+
+**22:45 · Macaristan – Kuzey İrlanda**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 10.5 Alt · @1.24
+
+**22:45 · İrlanda – Kosova**
+
+- ⏳ ÇŞ 1-2 · @1.25
+- ⏳ Korner 10.5 Alt · @1.23
+
+**22:45 · Bosna Hersek – Romanya**
+
+- ⏳ Korner 10.5 Alt · @1.22
+
+**22:45 · Polonya – İsveç**
+
+- ⏳ Korner 10.5 Alt · @1.22
+
+**22:45 · Danimarka – Norveç**
+
+- ⏳ Korner 7.5 Üst · @1.25
 
 ## 16.11.2026 Pazartesi
 
@@ -32,14 +104,23 @@
 
 **19:00 · Eritre – Gine**
 
-- ⏳ MS 2 · @1.24
+- ✅ MS 2 · @1.24 · 1-3
 
 **20:00 · Estonya – Bulgaristan**
 
-- ⏳ ÇŞ 1-2 · @1.24
-- ⏳ Korner 7.5 Üst · @1.28
+- ✅ ÇŞ 1-2 · @1.24 · 2-1
+- ❌ Korner 7.5 Üst · @1.28 · korner 2-3
+- ❌ 2.5 Alt · @1.29 · 2-1
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ✅ Korner 10.5 Alt · @1.28 · korner 6-2
 
 **22:00 · Guadeloupe – Bermuda**
+
+- ⏳ 2.5 Üst · @1.21
+
+**22:00 · Küba – Grenada**
 
 - ⏳ 2.5 Üst · @1.21
 
@@ -56,6 +137,7 @@
 
 - ⏳ 2.5 Üst · @1.28
 - ⏳ Korner 7.5 Üst · @1.21
+- ⏳ Korner 11.5 Alt · @1.24
 
 **22:45 · Cebelitarık – Malta**
 

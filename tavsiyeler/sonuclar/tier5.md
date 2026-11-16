@@ -2,15 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/98 tuttu** (isabet %17, beklenen %16) · -5.09 birim · 5 tahmin sonuç bekliyor
+**17/101 tuttu** (isabet %17, beklenen %16) · -8.09 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**22:45 · Macaristan – Kuzey İrlanda**
+
+- ⏳ 1-0 · @4.82
 
 ## 16.11.2026 Pazartesi
 
 **20:00 · Estonya – Bulgaristan**
 
-- ⏳ 1-0 · @4.90
+- ❌ 1-0 · @4.90 · 2-1
+
+**20:00 · İzlanda – Lüksemburg**
+
+- ❌ 2-0 · @3.97 · 3-0
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ❌ 2-0 · @3.21 · 2-1
 
 **22:45 · Cebelitarık – Malta**
 
