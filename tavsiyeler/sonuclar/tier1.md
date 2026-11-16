@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**504/711 tuttu** (isabet %71, beklenen %74) · -87.58 birim · 55 tahmin sonuç bekliyor
+**505/712 tuttu** (isabet %71, beklenen %74) · -87.38 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:00 · Panama – Curaçao**
 
-- ⏳ En çok korner 1 · @1.20
+- ✅ En çok korner 1 · @1.20 · korner 6-2
 
 **16:00 · Sudan – Senegal**
 

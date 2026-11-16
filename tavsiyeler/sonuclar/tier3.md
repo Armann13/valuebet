@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**385/908 tuttu** (isabet %42, beklenen %41) · -51.47 birim · 73 tahmin sonuç bekliyor
+**385/909 tuttu** (isabet %42, beklenen %41) · -52.47 birim · 72 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:00 · Panama – Curaçao**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.72
+- ❌ ↳ MS 1 & 2.5 Üst · @2.72 · 2-0
 
 **16:00 · Namibya – Kamerun**
 

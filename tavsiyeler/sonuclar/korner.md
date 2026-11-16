@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**699/1288 tuttu** (isabet %54, beklenen %59) · -183.37 birim · 57 tahmin sonuç bekliyor
+**700/1289 tuttu** (isabet %54, beklenen %59) · -183.17 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:00 · Panama – Curaçao**
 
-- ⏳ 🟢 En çok korner 1 · @1.20
+- ✅ 🟢 En çok korner 1 · @1.20 · korner 6-2
 
 **18:00 · Kazakistan – Slovakya**
 

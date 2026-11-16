@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**660/1157 tuttu** (isabet %57, beklenen %59) · -131.29 birim · 72 tahmin sonuç bekliyor
+**662/1159 tuttu** (isabet %57, beklenen %59) · -130.31 birim · 70 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,8 +10,8 @@
 
 **02:00 · Panama – Curaçao**
 
-- ⏳ MS 1 · @1.46
-- ⏳ 2.5 Alt · @1.52
+- ✅ MS 1 · @1.46 · 2-0
+- ✅ 2.5 Alt · @1.52 · 2-0
 
 **16:00 · Zimbabve – Ekvator Ginesi**
 

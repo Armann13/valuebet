@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**183/625 tuttu** (isabet %29, beklenen %28) · -55.30 birim · 51 tahmin sonuç bekliyor
+**183/626 tuttu** (isabet %29, beklenen %28) · -56.30 birim · 50 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:00 · Panama – Curaçao**
 
-- ⏳ ↳ MS 1 & KG Var · @4.13
+- ❌ ↳ MS 1 & KG Var · @4.13 · 2-0
 
 **18:00 · Somali – Gana**
 
