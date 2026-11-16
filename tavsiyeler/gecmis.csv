@@ -7578,3 +7578,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-16 19:30,2026-11-16,16.11,MILLI,Switzerland,Scotland,İsviçre – İskoçya,UEFA Uluslar Ligi,4️⃣ 4'lü kupon,MS 1 & 2.5 Üst,0.3683859571413964,2.5,-0.07903510714650908,oran,,,,2026-11-16 22:45,,,,,,
 2026-11-16 19:30,2026-11-17,17.11,MILLI,Denmark,Norway,Danimarka – Norveç,UEFA Uluslar Ligi,4️⃣ 4'lü kupon,MS 1 & 2.5 Üst,0.31041408871776965,2.93,-0.09048672005693481,oran,,,,2026-11-17 22:45,,,,,,
 2026-11-16 19:30,2026-11-17,17.11,MILLI,Malawi,Egypt,Malavi – Mısır,Afrika Uluslar Kup.,4️⃣ 4'lü kupon,MS 2 & KG Var,0.2721389924020889,3.31,-0.09921993514908578,oran,,,,2026-11-17 16:00,,,,,,
+2026-11-16 21:20,2026-11-16,16.11,MILLI,Guadeloupe,Bermuda,Guadeloupe – Bermuda,CONCACAF Uluslar B Ligi,🟡 Tier 2 — Orta risk,KG Var,0.6574407050844332,1.66,0.09135157044015907,model,False,,,2026-11-16 22:00,,,,,,kadro
+2026-11-16 21:20,2026-11-16,16.11,MILLI,Guyana,Puerto Rico,Guyana – Porto Riko,CONCACAF Uluslar B Ligi,🟡 Tier 2 — Orta risk,MS 1,0.5972956527965199,1.52,-0.09211060774928981,oran,False,,,2026-11-16 22:00,,,,,,kadro
+2026-11-16 21:20,2026-11-16,16.11,MILLI,Guadeloupe,Bermuda,Guadeloupe – Bermuda,CONCACAF Uluslar B Ligi,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.43758882294437185,2.02,-0.11607057765236883,model,True,,,2026-11-16 22:00,,,,,,kadro
+2026-11-16 21:20,2026-11-16,16.11,MILLI,Guyana,Puerto Rico,Guyana – Porto Riko,CONCACAF Uluslar B Ligi,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.2998364776497902,2.91,-0.12747585003911044,oran,True,,,2026-11-16 22:00,,,,,,kadro
