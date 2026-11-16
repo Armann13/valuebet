@@ -6,8 +6,8 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1715 | 1704 | 873 | -142.79 |
-| sonra | 1441 | 1430 | 717 | -142.73 |
+| önce | 1715 | 1706 | 875 | -137.72 |
+| sonra | 1441 | 1432 | 719 | -137.36 |
 
 Değişen tahmin: 367 (363 sonuçlandı: eski 267, yeni 201 tuttu).
 
@@ -46,7 +46,7 @@ Kadro mesajı: 15.11 19:37
 - 🟢 Tier 1: ✅ ÇŞ 1-X @1.24 → ✅ ÇŞ 1-X @1.25 (aynı)
 - 🟡 Tier 2: ✅ Korner 9.5 Alt @1.62 → ✅ Korner 9.5 Alt @1.62 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @2.23, ✅ Korner 8.5 Alt @2.06 → ✅ MS 1 @2.30, ✅ Korner 8.5 Alt @2.06 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.65 → ⏳ İY/MS 1/1 @3.81 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 1/1 @3.65 → ✅ İY/MS 1/1 @3.81 (aynı)
 
 ## 15.11 · Eibar – Cadiz
 
@@ -285,7 +285,7 @@ Kadro mesajı: 13.11 21:35
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.24, ❌ Korner 10.5 Alt @1.29 → ✅ ÇŞ 1-2 @1.25, ❌ Korner 10.5 Alt @1.28 (aynı)
 - 🟡 Tier 2: ❌ Korner 9.5 Alt @1.53 → ❌ Korner 9.5 Alt @1.52 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @2.12 → ✅ MS 1 @2.16 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.42 → ⏳ İY/MS 1/1 @3.56 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 1/1 @3.42 → ✅ İY/MS 1/1 @3.56 (aynı)
 
 ## 13.11 · Mısır – Malavi
 

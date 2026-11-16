@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**505/712 tuttu** (isabet %71, beklenen %74) · -87.38 birim · 54 tahmin sonuç bekliyor
+**507/717 tuttu** (isabet %71, beklenen %74) · -89.89 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**03:00 · Trinidad ve Tobago – Antigua & Barbuda**
+
+- ⏳ 2.5 Üst · @1.21
 
 ## 16.11.2026 Pazartesi
 
@@ -14,7 +20,15 @@
 
 **16:00 · Sudan – Senegal**
 
-- ⏳ KG Yok · @1.24
+- ❌ KG Yok · @1.24 · 2-4
+
+**16:00 · Namibya – Kamerun**
+
+- ✅ MS 2 · @1.29 · 0-3
+
+**16:00 · Zimbabve – Ekvator Ginesi**
+
+- ✅ ÇŞ 1-2 · @1.20 · 3-0
 
 **19:00 · Eritre – Gine**
 
@@ -23,6 +37,7 @@
 **20:00 · Estonya – Bulgaristan**
 
 - ⏳ ÇŞ 1-2 · @1.24
+- ⏳ Korner 7.5 Üst · @1.28
 
 **22:00 · Guadeloupe – Bermuda**
 
@@ -45,6 +60,7 @@
 **22:45 · Cebelitarık – Malta**
 
 - ⏳ MS 2 · @1.32
+- ⏳ En çok korner 2 · @1.27
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
@@ -157,8 +173,8 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 11.5 Alt · @1.22
+- ❌ ÇŞ 1-2 · @1.23 · 2-2
+- ❌ Korner 11.5 Alt · @1.22 · korner 6-6
 
 **20:00 · Norveç – Galler**
 

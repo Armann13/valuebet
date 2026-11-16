@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/103 tuttu** (isabet %40, beklenen %37) · +9.81 birim · 9 tahmin sonuç bekliyor
+**42/104 tuttu** (isabet %40, beklenen %37) · +11.41 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -44,11 +44,11 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 13.11 22:51 gönderilen kupon · 4 maç, oran 34,64
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
 - ❌ 14.11 02:00 Saint Martin – El Salvador · MS 2 & KG Var · @2.42 · 0-2
 - ❌ 14.11 18:00 Livingston – G. Morton · MS 1 & KG Var · @2.48 · 2-0
-- ⏳ 14.11 18:00 East Kilbri – Alloa · MS 1 & KG Var · @2.60
+- ✅ 14.11 18:00 East Kilbri – Alloa · MS 1 & KG Var · @2.60 · 4-1
 - ✅ 14.11 18:00 Southend – Aldershot · MS 1 & KG Var · @2.22 · 2-1
 
 ## 13.11 14:13 gönderilen kupon · 4 maç, oran 49,55

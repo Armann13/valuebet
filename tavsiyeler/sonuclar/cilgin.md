@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/126 tuttu** (isabet %16, beklenen %13) · +205.23 birim · 55 tahmin sonuç bekliyor
+**20/132 tuttu** (isabet %15, beklenen %13) · +199.23 birim · 53 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11 09:45 gönderilen kupon · 4 maç, oran 309.738,00
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 16.11 20:00 İzlanda – Lüksemburg · İY/MS 2/1 · @26.00
+- ⏳ 16.11 22:45 Yunanistan – Sırbistan · İY/MS 2/1 · @22.00
+- ⏳ 16.11 22:45 Kuzey Makedonya – Slovenya · İY/MS 1/2 · @28.50
+- ⏳ 16.11 22:45 Almanya – Hollanda · İY/MS 2/1 · @19.00
 
 ## 15.11 19:27 gönderilen kupon · 4 maç, oran 215.736,67
 
@@ -40,8 +49,8 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 14.11 16:00 Real Valladolid – Castellon · KG Yok · @2.19 · 0-1
-- ⏳ 14.11 18:00 Eastleigh – AFC Fylde · İY/MS 1/2 · @20.10
-- ❌ 14.11 18:00 Yeovil Town – Boreham Wood · İY/MS 1/2 · @20.45
+- ❌ 14.11 18:00 Eastleigh – AFC Fylde · İY/MS 1/2 · @20.10 · İY 0-1, MS 1-2
+- ❌ 14.11 18:00 Yeovil Town – Boreham Wood · İY/MS 1/2 · @20.45 · İY 2-1, MS 2-2
 - ⏳ 14.11 20:00 Norveç – Galler · İY/MS 2/1 · @19.85
 - ❌ 14.11 22:45 Romanya – Polonya · İY/MS 1/2 · @22.70
 
@@ -49,9 +58,9 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.70
-- ⏳ 14.11 18:00 Gateshead – Barrow · İY/MS 1/2 · @21.45
-- ⏳ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.20
+- ❌ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.70 · İY 2-0, MS 2-0
+- ❌ 14.11 18:00 Gateshead – Barrow · İY/MS 1/2 · @21.45 · İY 0-1, MS 0-3
+- ❌ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.20 · İY 0-0, MS 0-1
 - ⏳ 14.11 20:00 Norveç – Galler · İY/MS 2/1 · @20.95
 
 ## 13.11 14:13 gönderilen kupon · 4 maç, oran 266.851,59
@@ -60,8 +69,8 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 13.11 22:45 Sırbistan – Almanya · İY/MS 1/2 · @20.85
 - ⏳ 13.11 22:45 İskoçya – Kuzey Makedonya · İY/MS 2/1 · @27.50
-- ⏳ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.85
-- ⏳ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.30
+- ❌ 14.11 18:00 Livingston – G. Morton · İY/MS 2/1 · @21.85 · İY 2-0, MS 2-0
+- ❌ 14.11 18:00 Rochdale – York City · İY/MS 1/2 · @21.30 · İY 0-0, MS 0-1
 
 ## 12.11 18:42 gönderilen kupon · 4 maç, oran 317.038,05
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**99/919 tuttu** (isabet %11, beklenen %11) · -199.11 birim · 49 tahmin sonuç bekliyor
+**99/920 tuttu** (isabet %11, beklenen %11) · -200.11 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -236,7 +236,7 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ 2-1 · @8.47
+- ❌ 2-1 · @8.47 · 2-2
 
 **20:00 · Gürcistan – Macaristan**
 

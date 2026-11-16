@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/100 tuttu** (isabet %39, beklenen %43) · -9.61 birim · 1 tahmin sonuç bekliyor
+**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,7 +20,7 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ MS 2 · @3.12
+- ❌ MS 2 · @3.12 · 2-2
 
 ## 08.11.2026 Pazar
 

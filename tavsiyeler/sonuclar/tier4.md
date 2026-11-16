@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**183/626 tuttu** (isabet %29, beklenen %28) · -56.30 birim · 50 tahmin sonuç bekliyor
+**187/641 tuttu** (isabet %29, beklenen %28) · -58.55 birim · 36 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,10 @@
 **02:00 · Panama – Curaçao**
 
 - ❌ ↳ MS 1 & KG Var · @4.13 · 2-0
+
+**16:00 · Namibya – Kamerun**
+
+- ❌ ↳ MS 2 & KG Var · @4.29 · 0-3
 
 **18:00 · Somali – Gana**
 
@@ -65,7 +69,7 @@
 
 **20:30 · Club Deportivo Eldense – CE Sabadell FC**
 
-- ⏳ ↳ İY/MS 1/1 · @3.65
+- ✅ ↳ İY/MS 1/1 · @3.65 · İY 2-0, MS 2-0
 
 **22:45 · Hırvatistan – Çekya**
 
@@ -100,7 +104,7 @@
 
 **18:00 · East Kilbri – Alloa**
 
-- ⏳ ↳ MS 1 & KG Var · @2.61
+- ✅ ↳ MS 1 & KG Var · @2.61 · 4-1
 
 **18:00 · Yeovil Town – Boreham Wood**
 
@@ -112,7 +116,7 @@
 
 **18:00 · Airdrieonian – Queen of The South**
 
-- ⏳ ↳ MS 1 & KG Var · @2.80
+- ❌ ↳ MS 1 & KG Var · @2.80 · 2-0
 
 **18:00 · Eastleigh – AFC Fylde**
 
@@ -133,7 +137,7 @@
 
 **18:00 · Stirling Alb – Elgin City**
 
-- ⏳ ↳ MS 2 & KG Var · @3.13
+- ❌ ↳ MS 2 & KG Var · @3.13 · 2-1
 
 **18:00 · Stockport – Reading**
 
@@ -141,7 +145,7 @@
 
 **18:00 · Dumbarton – Annan Athletic**
 
-- ⏳ ↳ MS 1 & KG Var · @3.11
+- ❌ ↳ MS 1 & KG Var · @3.11 · 0-5
 
 **18:00 · Swindon Town – Grimsby Town**
 
@@ -153,7 +157,7 @@
 
 **18:00 · Forfar – Spartans Edinburgh FC**
 
-- ⏳ ↳ MS 2 & KG Var · @3.44
+- ❌ ↳ MS 2 & KG Var · @3.44 · 2-1
 
 **18:00 · Hartlepool – Wealdstone**
 
@@ -191,12 +195,12 @@
 
 **18:00 · Kelty Hearts – Stranraer**
 
-- ⏳ ↳ MS 2 & KG Var · @3.61
+- ❌ ↳ MS 2 & KG Var · @3.61 · 0-1
 
 **18:00 · East Fife – Peterhead**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.67
-- ⏳ ↳ MS X & KG Var · @3.84
+- ❌ ↳ MS 1 & 2.5 Üst · @3.67 · 1-0
+- ❌ ↳ MS X & KG Var · @3.84 · 1-0
 
 **18:00 · Bristol Rovers – Chesterfield**
 
@@ -209,8 +213,8 @@
 
 **18:00 · Cove Rangers – Montrose**
 
-- ⏳ ↳ MS 1 & KG Var · @4.07
-- ⏳ ↳ MS X & KG Var · @3.97
+- ❌ ↳ MS 1 & KG Var · @4.07 · 3-0
+- ❌ ↳ MS X & KG Var · @3.97 · 3-0
 
 **18:00 · P. Thistle – Inverness**
 
@@ -230,7 +234,7 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.73
+- ❌ ↳ MS 1 & 2.5 Üst · @3.73 · 2-2
 
 **19:00 · Uganda – Botsvana**
 
@@ -242,7 +246,7 @@
 
 **20:30 · Hamilton – Ross County**
 
-- ⏳ ↳ MS 2 & KG Var · @3.07
+- ✅ ↳ MS 2 & KG Var · @3.07 · 1-2
 
 **20:30 · Mallorca – Cordoba**
 
@@ -308,7 +312,7 @@
 
 **22:30 · Leganes – CF Burgos**
 
-- ⏳ ↳ İY/MS 1/1 · @3.42
+- ✅ ↳ İY/MS 1/1 · @3.42 · İY 3-0, MS 3-1
 
 **22:45 · Hollanda – Yunanistan**
 

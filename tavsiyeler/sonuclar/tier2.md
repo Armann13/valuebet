@@ -2,9 +2,19 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**662/1159 tuttu** (isabet %57, beklenen %59) · -130.31 birim · 70 tahmin sonuç bekliyor
+**671/1176 tuttu** (isabet %57, beklenen %59) · -133.82 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**03:00 · Martinik – Aruba**
+
+- ⏳ KG Yok · @1.73
+
+**04:00 · Kanada – Guatemala**
+
+- ⏳ KG Yok · @1.41
 
 ## 16.11.2026 Pazartesi
 
@@ -15,11 +25,11 @@
 
 **16:00 · Zimbabve – Ekvator Ginesi**
 
-- ⏳ KG Yok · @1.50
+- ✅ KG Yok · @1.50 · 3-0
 
 **16:00 · Sudan – Senegal**
 
-- ⏳ 2.5 Alt · @1.57
+- ❌ 2.5 Alt · @1.57 · 2-4
 
 **18:00 · Kazakistan – Slovakya**
 
@@ -38,10 +48,16 @@
 **20:00 · Litvanya – Lihtenştayn**
 
 - ⏳ 2.5 Üst · @1.58
+- ⏳ Korner 8.5 Üst · @1.67
 
 **20:00 · İzlanda – Lüksemburg**
 
 - ⏳ MS 1 & 2.5 Üst · @1.78
+- ⏳ Korner 9.5 Alt · @1.41
+
+**20:00 · Estonya – Bulgaristan**
+
+- ⏳ ↳ Korner 8.5 Üst · @1.56
 
 **21:00 · Andorra – Azerbaycan**
 
@@ -62,6 +78,7 @@
 **22:45 · Kuzey Makedonya – Slovenya**
 
 - ⏳ MS 2 · @1.43
+- ⏳ 2.5 Alt · @1.50
 
 **22:45 · İsviçre – İskoçya**
 
@@ -197,8 +214,8 @@
 
 **18:00 · East Kilbri – Alloa**
 
-- ⏳ MS 1 · @1.43
-- ⏳ KG Var · @1.43
+- ✅ MS 1 · @1.43 · 4-1
+- ✅ KG Var · @1.43 · 4-1
 
 **18:00 · Sheffield Wednesday – Plymouth**
 
@@ -211,7 +228,7 @@
 
 **18:00 · Stirling Alb – Elgin City**
 
-- ⏳ 2.5 Üst · @1.41
+- ✅ 2.5 Üst · @1.41 · 2-1
 
 **18:00 · Yeovil Town – Boreham Wood**
 
@@ -220,7 +237,7 @@
 
 **18:00 · Airdrieonian – Queen of The South**
 
-- ⏳ MS 1 · @1.48
+- ✅ MS 1 · @1.48 · 2-0
 
 **18:00 · Swindon Town – Grimsby Town**
 
@@ -233,7 +250,7 @@
 
 **18:00 · Edinburgh – Clyde Bank**
 
-- ⏳ KG Var · @1.44
+- ✅ KG Var · @1.44 · 2-6
 
 **18:00 · Walsall – Barnet**
 
@@ -241,7 +258,7 @@
 
 **18:00 · Kelty Hearts – Stranraer**
 
-- ⏳ 2.5 Üst · @1.46
+- ❌ 2.5 Üst · @1.46 · 0-1
 
 **18:00 · Ayr United – Raith Rovers**
 
@@ -324,7 +341,7 @@
 
 **18:00 · Dumbarton – Annan Athletic**
 
-- ⏳ MS 1 · @1.71
+- ❌ MS 1 · @1.71 · 0-5
 
 **18:00 · Colchester – Gillingham**
 
@@ -333,8 +350,8 @@
 
 **18:00 · Cove Rangers – Montrose**
 
-- ⏳ 2.5 Üst · @1.64
-- ⏳ KG Var · @1.50
+- ✅ 2.5 Üst · @1.64 · 3-0
+- ❌ KG Var · @1.50 · 3-0
 
 **18:00 · Crewe Alexandra – Newport**
 
@@ -350,8 +367,8 @@
 
 **18:00 · Forfar – Spartans Edinburgh FC**
 
-- ⏳ MS 2 · @1.76
-- ⏳ 2.5 Üst · @1.56
+- ❌ MS 2 · @1.76 · 2-1
+- ✅ 2.5 Üst · @1.56 · 2-1
 
 **18:00 · Sutton United – Solihull Moors**
 
@@ -360,8 +377,8 @@
 
 **18:00 · East Fife – Peterhead**
 
-- ⏳ 2.5 Üst · @1.66
-- ⏳ KG Var · @1.50
+- ❌ 2.5 Üst · @1.66 · 1-0
+- ❌ KG Var · @1.50 · 1-0
 
 **18:00 · P. Thistle – Inverness**
 
@@ -375,7 +392,7 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ ↳ Korner 10.5 Alt · @1.41 · korner 6-6
 
 **19:00 · Uganda – Botsvana**
 
@@ -399,7 +416,7 @@
 
 **20:30 · Hamilton – Ross County**
 
-- ⏳ MS 2 · @1.60
+- ✅ MS 2 · @1.60 · 1-2
 
 **20:30 · Mallorca – Cordoba**
 

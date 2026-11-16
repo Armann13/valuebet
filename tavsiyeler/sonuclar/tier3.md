@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**385/909 tuttu** (isabet %42, beklenen %41) · -52.47 birim · 72 tahmin sonuç bekliyor
+**394/925 tuttu** (isabet %43, beklenen %41) · -45.60 birim · 62 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11.2026 Salı
+
+**03:00 · Trinidad ve Tobago – Antigua & Barbuda**
+
+- ⏳ ↳ MS 1 & KG Var · @2.17
 
 ## 16.11.2026 Pazartesi
 
@@ -14,7 +20,11 @@
 
 **16:00 · Namibya – Kamerun**
 
-- ⏳ 2.5 Üst · @2.14
+- ✅ 2.5 Üst · @2.14 · 0-3
+
+**16:00 · Zimbabve – Ekvator Ginesi**
+
+- ✅ ↳ MS 1 · @1.88 · 3-0
 
 **18:00 · Somali – Gana**
 
@@ -41,6 +51,12 @@
 **20:00 · İzlanda – Lüksemburg**
 
 - ⏳ ↳ MS 1 & KG Var · @3.14
+- ⏳ ↳ Korner 8.5 Alt · @1.73
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.68
+- ⏳ ↳ Korner 9.5 Üst · @2.15
 
 **22:00 · Guadeloupe – Bermuda**
 
@@ -53,6 +69,7 @@
 **22:00 · Guyana – Porto Riko**
 
 - ⏳ ↳ MS 1 & KG Var · @2.98
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.29
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -90,7 +107,7 @@
 
 **16:00 · Tenerife – AD Ceuta**
 
-- ⏳ ↳ İY/MS 1/1 · @2.52
+- ✅ ↳ İY/MS 1/1 · @2.52 · İY 1-0, MS 2-0
 
 **17:00 · Kıbrıs Rum Kesimi – Karadağ**
 
@@ -160,7 +177,7 @@
 
 **15:30 · Exeter City – Cheltenham**
 
-- ⏳ ↳ İY/MS 1/1 · @2.69
+- ❌ ↳ İY/MS 1/1 · @2.69 · İY 0-0, MS 1-0
 
 **16:00 · Real Valladolid – Castellon**
 
@@ -169,7 +186,7 @@
 
 **18:00 · East Kilbri – Alloa**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.94
+- ✅ ↳ MS 1 & 2.5 Üst · @1.94 · 4-1
 
 **18:00 · Yeovil Town – Boreham Wood**
 
@@ -181,7 +198,7 @@
 
 **18:00 · Airdrieonian – Queen of The South**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.08
+- ❌ ↳ MS 1 & 2.5 Üst · @2.08 · 2-0
 
 **18:00 · Southend – Aldershot**
 
@@ -213,7 +230,7 @@
 
 **18:00 · Salford City – Northampton**
 
-- ❌ ↳ İY/MS 1/1 · @2.12
+- ❌ ↳ İY/MS 1/1 · @2.12 · İY 0-1, MS 1-1
 - ❌ ↳ MS 1 & 2.5 Üst · @2.20 · 1-1
 
 **18:00 · Stockport – Reading**
@@ -222,11 +239,11 @@
 
 **18:00 · Dumbarton – Annan Athletic**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.43
+- ❌ ↳ MS 1 & 2.5 Üst · @2.43 · 0-5
 
 **18:00 · Stirling Alb – Elgin City**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.49
+- ❌ ↳ MS 2 & 2.5 Üst · @2.49 · 2-1
 
 **18:00 · Sutton United – Solihull Moors**
 
@@ -251,11 +268,11 @@
 
 **18:00 · Forfar – Spartans Edinburgh FC**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.66
+- ❌ ↳ MS 2 & 2.5 Üst · @2.66 · 2-1
 
 **18:00 · Stenhousemuir – Queen's Park**
 
-- ⏳ ↳ İY/MS 1/1 · @2.60
+- ✅ ↳ İY/MS 1/1 · @2.60 · İY 1-0, MS 2-0
 - ❌ ↳ MS 1 & 2.5 Üst · @2.70 · 2-0
 
 **18:00 · Sheffield Wednesday – Plymouth**
@@ -269,7 +286,7 @@
 
 **18:00 · Kelty Hearts – Stranraer**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.94
+- ❌ ↳ MS 2 & 2.5 Üst · @2.94 · 0-1
 
 **18:00 · Walsall – Barnet**
 
@@ -286,11 +303,11 @@
 
 **18:00 · Edinburgh – Clyde Bank**
 
-- ⏳ ↳ MS 2 & KG Var · @3.36
+- ✅ ↳ MS 2 & KG Var · @3.36 · 2-6
 
 **18:00 · Cove Rangers – Montrose**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
+- ✅ ↳ MS 1 & 2.5 Üst · @3.28 · 3-0
 
 **18:00 · Doncaster – Leyton Orient**
 
@@ -302,11 +319,11 @@
 
 **18:00 · Port Vale – Accrington**
 
-- ⏳ ↳ İY/MS 1/1 · @2.83
+- ✅ ↳ İY/MS 1/1 · @2.83 · İY 2-0, MS 4-2
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ ↳ MS 1 · @2.24
+- ❌ ↳ MS 1 · @2.24 · 2-2
 
 **19:00 · Uganda – Botsvana**
 
@@ -326,7 +343,7 @@
 
 **20:30 · Hamilton – Ross County**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.32
+- ✅ ↳ MS 2 & 2.5 Üst · @2.32 · 1-2
 
 **20:30 · Mallorca – Cordoba**
 

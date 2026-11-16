@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**700/1289 tuttu** (isabet %54, beklenen %59) · -183.17 birim · 56 tahmin sonuç bekliyor
+**700/1291 tuttu** (isabet %54, beklenen %59) · -185.17 birim · 61 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,6 +20,21 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.68
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.15
+
+**20:00 · Estonya – Bulgaristan**
+
+- ⏳ 🟢 Korner 7.5 Üst · @1.28
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.56
+
+**20:00 · İzlanda – Lüksemburg**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.41
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.73
+
+**20:00 · Litvanya – Lihtenştayn**
+
+- ⏳ 🟡 Korner 8.5 Üst · @1.67
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @2.15
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -41,6 +56,10 @@
 **22:45 · Yunanistan – Sırbistan**
 
 - ⏳ 🟢 En çok korner 1 · @1.26
+
+**22:45 · Cebelitarık – Malta**
+
+- ⏳ 🟢 En çok korner 2 · @1.27
 
 ## 15.11.2026 Pazar
 
@@ -138,8 +157,8 @@
 
 **18:15 · Real Sociedad B – S.Gijon**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ❌ 🟢 Korner 11.5 Alt · @1.22 · korner 6-6
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.41 · korner 6-6
 
 **20:00 · Gürcistan – Macaristan**
 

@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/79 tuttu** (isabet %35, beklenen %39) · -3.12 birim · 5 tahmin sonuç bekliyor
+**28/80 tuttu** (isabet %35, beklenen %39) · -4.12 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11 09:45 gönderilen kupon · 3 maç, oran 18,49
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 16.11 20:00 İzlanda – Lüksemburg · MS 1 & KG Var · @3.05
+- ⏳ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.15
+- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.82
 
 ## 15.11 19:27 gönderilen kupon · 3 maç, oran 18,37
 
@@ -32,9 +40,9 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 ## 14.11 13:40 gönderilen kupon · 3 maç, oran 22,10
 
-sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
+❌ 2/3 maç tuttu
 
-- ⏳ 14.11 18:15 Real Sociedad B – S.Gijon · MS 2 · @3.03
+- ❌ 14.11 18:15 Real Sociedad B – S.Gijon · MS 2 · @3.03 · 2-2
 - ✅ 14.11 20:30 Almeria – FC Andorra · En çok korner 2 · @2.55 · korner 0-6
 - ✅ 15.11 18:15 Granada – Las Palmas · En çok korner 2 · @2.86 · korner 2-7
 

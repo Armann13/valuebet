@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/49 tuttu** (isabet %43, beklenen %50) · -4.87 birim · 3 tahmin sonuç bekliyor
+**21/49 tuttu** (isabet %43, beklenen %50) · -4.87 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 16.11 09:45 gönderilen kupon · 2 maç, oran 3,61
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 16.11 18:00 Kazakistan – Slovakya · MS 2 · @1.72
+- ⏳ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.10
 
 ## 15.11 19:27 gönderilen kupon · 2 maç, oran 4,62
 
