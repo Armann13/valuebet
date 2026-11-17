@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/928 tuttu** (isabet %11, beklenen %11) · -191.76 birim · 47 tahmin sonuç bekliyor
+**101/928 tuttu** (isabet %11, beklenen %11) · -191.76 birim · 48 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -31,6 +31,7 @@
 **22:45 · Polonya – İsveç**
 
 - ⏳ 2-1 · @8.13
+- ⏳ 1-2 · @9.57
 
 ## 16.11.2026 Pazartesi
 

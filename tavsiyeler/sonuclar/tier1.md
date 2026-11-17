@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**522/741 tuttu** (isabet %70, beklenen %74) · -95.07 birim · 55 tahmin sonuç bekliyor
+**522/741 tuttu** (isabet %70, beklenen %74) · -95.07 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -61,6 +61,7 @@
 
 - ⏳ ÇŞ 1-X · @1.22
 - ⏳ Korner 10.5 Alt · @1.25
+- ⏳ ÇŞ 1-2 · @1.23
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
@@ -75,14 +76,18 @@
 **22:45 · Bosna Hersek – Romanya**
 
 - ⏳ Korner 10.5 Alt · @1.22
+- ⏳ ÇŞ 1-X · @1.22
 
 **22:45 · Polonya – İsveç**
 
 - ⏳ Korner 10.5 Alt · @1.22
+- ⏳ Korner 7.5 Üst · @1.25
 
 **22:45 · Danimarka – Norveç**
 
 - ⏳ Korner 7.5 Üst · @1.25
+- ⏳ 2.5 Üst · @1.30
+- ⏳ Korner 11.5 Alt · @1.21
 
 ## 16.11.2026 Pazartesi
 

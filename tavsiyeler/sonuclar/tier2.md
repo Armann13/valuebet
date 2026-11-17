@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**685/1207 tuttu** (isabet %57, beklenen %59) · -143.02 birim · 65 tahmin sonuç bekliyor
+**685/1207 tuttu** (isabet %57, beklenen %59) · -143.02 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,6 +15,22 @@
 **02:30 · Ekvador – Bolivya**
 
 - ⏳ 2.5 Üst · @1.42
+
+**03:00 · ABD – Haiti**
+
+- ⏳ KG Var · @1.89
+
+**04:00 · El Salvador – Saint Martin**
+
+- ⏳ 2.5 Üst · @1.44
+
+**05:30 · Meksika – Jamaika**
+
+- ⏳ KG Yok · @1.49
+
+**06:00 · Nikaragua – Montserrat**
+
+- ⏳ KG Yok · @1.55
 
 ## 17.11.2026 Salı
 
@@ -106,15 +122,22 @@
 
 - ⏳ MS 1 · @1.72
 
+**22:00 · ST Kitts ve Nevis – Bonaire**
+
+- ⏳ ÇŞ X-2 · @1.47
+
 **22:45 · Polonya – İsveç**
 
 - ⏳ 2.5 Üst · @1.50
 - ⏳ ↳ Korner 9.5 Alt · @1.42
+- ⏳ ÇŞ X-2 · @1.51
+- ⏳ ↳ Korner 8.5 Üst · @1.50
 
 **22:45 · Danimarka – Norveç**
 
 - ⏳ ÇŞ X-2 · @1.42
 - ⏳ ↳ Korner 8.5 Üst · @1.50
+- ⏳ ↳ Korner 10.5 Alt · @1.40
 
 **22:45 · Galler – Portekiz**
 

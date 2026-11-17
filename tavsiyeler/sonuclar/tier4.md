@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**188/649 tuttu** (isabet %29, beklenen %28) · -62.34 birim · 41 tahmin sonuç bekliyor
+**188/649 tuttu** (isabet %29, beklenen %28) · -62.34 birim · 45 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,6 +28,14 @@
 
 - ⏳ ↳ MS 1 & KG Var · @3.15
 
+**22:00 · ST Kitts ve Nevis – Bonaire**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.85
+
+**22:00 · Liberya – Yeşil Burun Adaları**
+
+- ⏳ ↳ MS 2 & KG Var · @4.22
+
 **22:45 · Macaristan – Kuzey İrlanda**
 
 - ⏳ ↳ İY/MS 1/1 · @2.89
@@ -35,6 +43,7 @@
 **22:45 · Danimarka – Norveç**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.37
+- ⏳ ↳ MS 2 & KG Var · @3.44
 
 **22:45 · Bosna Hersek – Romanya**
 
@@ -51,6 +60,7 @@
 **22:45 · Polonya – İsveç**
 
 - ⏳ ↳ MS 1 & KG Var · @3.77
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.83
 
 **23:00 · Nijer – Fas**
 

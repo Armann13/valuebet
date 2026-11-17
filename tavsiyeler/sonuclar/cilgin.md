@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/132 tuttu** (isabet %15, beklenen %13) · +199.23 birim · 53 tahmin sonuç bekliyor
+**20/132 tuttu** (isabet %15, beklenen %13) · +199.23 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 17.11 19:10 gönderilen kupon · 4 maç, oran 248.038,36
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 17.11 22:45 Danimarka – Norveç · İY/MS 1/2 · @23.15
+- ⏳ 17.11 22:45 Galler – Portekiz · İY/MS 1/2 · @20.00
+- ⏳ 17.11 22:45 Polonya – İsveç · İY/MS 2/1 · @22.70
+- ⏳ 17.11 22:45 Bosna Hersek – Romanya · İY/MS 2/1 · @23.60
 
 ## 16.11 09:45 gönderilen kupon · 4 maç, oran 309.738,00
 
