@@ -2,30 +2,30 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/50 tuttu** (isabet %42, beklenen %50) · -5.87 birim · 6 tahmin sonuç bekliyor
+**24/53 tuttu** (isabet %45, beklenen %49) · -2.40 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 16.11 19:30 gönderilen kupon · 2 maç, oran 3,82
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.18
+- ✅ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.18 · 5-0
 - ⏳ 17.11 22:45 Galler – Portekiz · MS 2 & 2.5 Üst · @1.75
 
 ## 16.11 09:45 gönderilen kupon · 2 maç, oran 3,61
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ❌ 16.11 18:00 Kazakistan – Slovakya · MS 2 · @1.72 · 2-2
-- ⏳ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.10
+- ✅ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.10 · 5-0
 
 ## 15.11 19:27 gönderilen kupon · 2 maç, oran 4,62
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 4,62 birim
 
 - ✅ 15.11 22:45 Fransa – Türkiye · MS 1 & KG Var · @2.11 · 2-1
-- ⏳ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.19
+- ✅ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.19 · 5-0
 
 ## 15.11 09:46 gönderilen kupon · 2 maç, oran 3,98
 

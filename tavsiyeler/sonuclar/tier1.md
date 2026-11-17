@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**510/722 tuttu** (isabet %71, beklenen %74) · -91.13 birim · 74 tahmin sonuç bekliyor
+**520/736 tuttu** (isabet %71, beklenen %74) · -92.60 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 **03:00 · Trinidad ve Tobago – Antigua & Barbuda**
 
-- ⏳ 2.5 Üst · @1.21
+- ❌ 2.5 Üst · @1.21 · 1-1
 
 **03:00 · Martinik – Aruba**
 
-- ⏳ 2.5 Üst · @1.27
+- ❌ 2.5 Üst · @1.27 · 1-1
 
 **04:00 · Kanada – Guatemala**
 
-- ⏳ 2.5 Üst · @1.28
+- ✅ 2.5 Üst · @1.28 · 4-1
 
 **16:00 · Tanzanya – Nijerya**
 
@@ -118,11 +118,11 @@
 
 **22:00 · Guadeloupe – Bermuda**
 
-- ⏳ 2.5 Üst · @1.21
+- ✅ 2.5 Üst · @1.21 · 4-1
 
 **22:00 · Küba – Grenada**
 
-- ⏳ 2.5 Üst · @1.21
+- ✅ 2.5 Üst · @1.21 · 9-0
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -130,27 +130,27 @@
 
 **22:45 · Yunanistan – Sırbistan**
 
-- ⏳ MS 1 · @1.30
-- ⏳ En çok korner 1 · @1.26
+- ✅ MS 1 · @1.30 · 1-0
+- ✅ En çok korner 1 · @1.26 · korner 10-0
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ 2.5 Üst · @1.28
-- ⏳ Korner 7.5 Üst · @1.21
-- ⏳ Korner 11.5 Alt · @1.24
+- ✅ 2.5 Üst · @1.28 · 5-0
+- ❌ Korner 7.5 Üst · @1.21 · korner 3-2
+- ✅ Korner 11.5 Alt · @1.24 · korner 3-2
 
 **22:45 · Cebelitarık – Malta**
 
-- ⏳ MS 2 · @1.32
-- ⏳ En çok korner 2 · @1.27
+- ❌ MS 2 · @1.32 · 1-1
+- ✅ En çok korner 2 · @1.27 · korner 2-5
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
-- ⏳ En çok korner 2 · @1.22
+- ✅ En çok korner 2 · @1.22 · korner 3-5
 
 **22:45 · İsviçre – İskoçya**
 
-- ⏳ En çok korner 1 · @1.26
+- ✅ En çok korner 1 · @1.26 · korner 7-4
 
 ## 15.11.2026 Pazar
 

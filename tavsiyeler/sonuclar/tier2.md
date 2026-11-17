@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**677/1189 tuttu** (isabet %57, beklenen %59) · -137.31 birim · 83 tahmin sonuç bekliyor
+**683/1201 tuttu** (isabet %57, beklenen %59) · -140.07 birim · 71 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,15 +20,15 @@
 
 **03:00 · Martinik – Aruba**
 
-- ⏳ KG Yok · @1.73
+- ❌ KG Yok · @1.73 · 1-1
 
 **03:00 · Trinidad ve Tobago – Antigua & Barbuda**
 
-- ⏳ KG Yok · @1.66
+- ❌ KG Yok · @1.66 · 1-1
 
 **04:00 · Kanada – Guatemala**
 
-- ⏳ KG Yok · @1.41
+- ❌ KG Yok · @1.41 · 4-1
 
 **15:00 · Kırgızistan – Vietnam**
 
@@ -185,19 +185,19 @@
 
 **21:00 · Andorra – Azerbaycan**
 
-- ⏳ MS 2 · @1.56
+- ✅ MS 2 · @1.56 · 1-3
 
 **22:00 · Guyana – Porto Riko**
 
-- ⏳ MS 1 · @1.48
+- ✅ MS 1 · @1.48 · 4-2
 
 **22:00 · Küba – Grenada**
 
-- ⏳ KG Var · @1.59
+- ❌ KG Var · @1.59 · 9-0
 
 **22:00 · Guadeloupe – Bermuda**
 
-- ⏳ KG Var · @1.78
+- ✅ KG Var · @1.78 · 4-1
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -205,17 +205,17 @@
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
-- ⏳ MS 2 · @1.43
-- ⏳ 2.5 Alt · @1.50
+- ✅ MS 2 · @1.43 · 0-3
+- ❌ 2.5 Alt · @1.50 · 0-3
 
 **22:45 · İsviçre – İskoçya**
 
-- ⏳ MS 1 · @1.55
+- ✅ MS 1 · @1.55 · 4-0
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.43
-- ⏳ ↳ Korner 10.5 Alt · @1.44
+- ❌ ↳ Korner 8.5 Üst · @1.43 · korner 3-2
+- ✅ ↳ Korner 10.5 Alt · @1.44 · korner 3-2
 
 ## 15.11.2026 Pazar
 

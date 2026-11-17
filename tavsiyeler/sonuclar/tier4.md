@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**188/644 tuttu** (isabet %29, beklenen %28) · -57.34 birim · 46 tahmin sonuç bekliyor
+**188/647 tuttu** (isabet %29, beklenen %28) · -60.34 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -88,15 +88,15 @@
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ ↳ MS 1 & KG Var · @2.73
+- ❌ ↳ MS 1 & KG Var · @2.73 · 5-0
 
 **22:45 · Yunanistan – Sırbistan**
 
-- ⏳ ↳ MS 1 & KG Var · @2.90
+- ❌ ↳ MS 1 & KG Var · @2.90 · 1-0
 
 **22:45 · İsviçre – İskoçya**
 
-- ⏳ ↳ MS 1 & KG Var · @3.36
+- ❌ ↳ MS 1 & KG Var · @3.36 · 4-0
 
 ## 15.11.2026 Pazar
 

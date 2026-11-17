@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/101 tuttu** (isabet %17, beklenen %16) · -8.09 birim · 5 tahmin sonuç bekliyor
+**17/104 tuttu** (isabet %16, beklenen %16) · -11.09 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -28,15 +28,15 @@
 
 **22:45 · Cebelitarık – Malta**
 
-- ⏳ 0-1 · @4.01
+- ❌ 0-1 · @4.01 · 1-1
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
-- ⏳ 0-1 · @4.72
+- ❌ 0-1 · @4.72 · 0-3
 
 **22:45 · Yunanistan – Sırbistan**
 
-- ⏳ 2-1 · @7.19
+- ❌ 2-1 · @7.19 · 1-0
 
 ## 15.11.2026 Pazar
 

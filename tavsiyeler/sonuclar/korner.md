@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**703/1302 tuttu** (isabet %54, beklenen %59) · -191.88 birim · 67 tahmin sonuç bekliyor
+**709/1310 tuttu** (isabet %54, beklenen %59) · -192.19 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -80,26 +80,26 @@
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
-- ⏳ 🟢 En çok korner 2 · @1.22
+- ✅ 🟢 En çok korner 2 · @1.22 · korner 3-5
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.21
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.43
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.44
+- ❌ 🟢 Korner 7.5 Üst · @1.21 · korner 3-2
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.43 · korner 3-2
+- ✅ 🟢 Korner 11.5 Alt · @1.24 · korner 3-2
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.44 · korner 3-2
 
 **22:45 · İsviçre – İskoçya**
 
-- ⏳ 🟢 En çok korner 1 · @1.26
+- ✅ 🟢 En çok korner 1 · @1.26 · korner 7-4
 
 **22:45 · Yunanistan – Sırbistan**
 
-- ⏳ 🟢 En çok korner 1 · @1.26
+- ✅ 🟢 En çok korner 1 · @1.26 · korner 10-0
 
 **22:45 · Cebelitarık – Malta**
 
-- ⏳ 🟢 En çok korner 2 · @1.27
+- ✅ 🟢 En çok korner 2 · @1.27 · korner 2-5
 
 ## 15.11.2026 Pazar
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**397/935 tuttu** (isabet %42, beklenen %41) · -48.66 birim · 72 tahmin sonuç bekliyor
+**403/946 tuttu** (isabet %43, beklenen %41) · -45.02 birim · 61 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -20,15 +20,15 @@
 
 **03:00 · Trinidad ve Tobago – Antigua & Barbuda**
 
-- ⏳ ↳ MS 1 & KG Var · @2.17
+- ❌ ↳ MS 1 & KG Var · @2.17 · 1-1
 
 **03:00 · Martinik – Aruba**
 
-- ⏳ ↳ MS 1 & KG Var · @2.34
+- ❌ ↳ MS 1 & KG Var · @2.34 · 1-1
 
 **04:00 · Kanada – Guatemala**
 
-- ⏳ ↳ MS 1 & KG Var · @2.54
+- ✅ ↳ MS 1 & KG Var · @2.54 · 4-1
 
 **16:00 · Burundi – Zambiya**
 
@@ -138,16 +138,16 @@
 
 **22:00 · Guadeloupe – Bermuda**
 
-- ⏳ ↳ MS 1 & KG Var · @2.14
+- ✅ ↳ MS 1 & KG Var · @2.14 · 4-1
 
 **22:00 · Küba – Grenada**
 
-- ⏳ ↳ MS 1 & KG Var · @2.38
+- ❌ ↳ MS 1 & KG Var · @2.38 · 9-0
 
 **22:00 · Guyana – Porto Riko**
 
-- ⏳ ↳ MS 1 & KG Var · @2.98
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.29
+- ✅ ↳ MS 1 & KG Var · @2.98 · 4-2
+- ✅ ↳ MS 1 & 2.5 Üst · @2.29 · 4-2
 
 **22:30 · Albacete – Celta Vigo B**
 
@@ -155,15 +155,15 @@
 
 **22:45 · Yunanistan – Sırbistan**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.90
+- ❌ ↳ MS 1 & 2.5 Üst · @1.90 · 1-0
 
 **22:45 · Cebelitarık – Malta**
 
-- ⏳ ↳ İY/MS 2/2 · @1.93
+- ❌ ↳ İY/MS 2/2 · @1.93
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.19
+- ✅ ↳ MS 1 & 2.5 Üst · @2.19 · 5-0
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
@@ -172,7 +172,7 @@
 **22:45 · İsviçre – İskoçya**
 
 - ⏳ ↳ İY/MS 1/1 · @2.31
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.50
+- ✅ ↳ MS 1 & 2.5 Üst · @2.50 · 4-0
 
 ## 15.11.2026 Pazar
 

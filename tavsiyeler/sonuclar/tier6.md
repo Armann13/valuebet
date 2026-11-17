@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/925 tuttu** (isabet %11, beklenen %11) · -188.76 birim · 50 tahmin sonuç bekliyor
+**101/928 tuttu** (isabet %11, beklenen %11) · -191.76 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -57,12 +57,12 @@
 
 **22:45 · İsviçre – İskoçya**
 
-- ⏳ 2-0 · @6.25
-- ⏳ 2-1 · @7.40
+- ❌ 2-0 · @6.25 · 4-0
+- ❌ 2-1 · @7.40 · 4-0
 
 **22:45 · Almanya – Hollanda**
 
-- ⏳ 2-1 · @7.92
+- ❌ 2-1 · @7.92 · 5-0
 
 ## 15.11.2026 Pazar
 

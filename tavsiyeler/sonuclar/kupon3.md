@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/81 tuttu** (isabet %35, beklenen %39) · -5.12 birim · 9 tahmin sonuç bekliyor
+**30/88 tuttu** (isabet %34, beklenen %39) · -7.83 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,33 +10,33 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 16.11 22:00 Küba – Grenada · MS 1 & KG Var · @2.13
+- ❌ 16.11 22:00 Küba – Grenada · MS 1 & KG Var · @2.13 · 9-0
 - ⏳ 16.11 22:30 Albacete – Celta Vigo B · MS 1 & KG Var · @2.89
-- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.78
+- ❌ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.78 · 1-0
 
 ## 16.11 09:45 gönderilen kupon · 3 maç, oran 18,49
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 16.11 20:00 İzlanda – Lüksemburg · MS 1 & KG Var · @3.05 · 3-0
-- ⏳ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.15
-- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.82
+- ✅ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.15 · 4-1
+- ❌ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.82 · 1-0
 
 ## 15.11 19:27 gönderilen kupon · 3 maç, oran 18,37
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.96 · korner 4-2
-- ⏳ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.14
-- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.90
+- ✅ 16.11 22:00 Guadeloupe – Bermuda · MS 1 & KG Var · @2.14 · 4-1
+- ❌ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.90 · 1-0
 
 ## 15.11 09:46 gönderilen kupon · 3 maç, oran 24,98
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ✅ 15.11 16:00 Tenerife – AD Ceuta · En çok korner 2 · @2.91 · korner 5-7
 - ❌ 15.11 20:30 Eibar – Cadiz · En çok korner 2 · @2.96 · korner 4-2
-- ⏳ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.90
+- ❌ 16.11 22:45 Yunanistan – Sırbistan · MS 1 & KG Var · @2.90 · 1-0
 
 ## 14.11 21:16 gönderilen kupon · 3 maç, oran 18,65
 
