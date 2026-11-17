@@ -7640,3 +7640,5 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-17 19:10,2026-11-17,17.11,MILLI,Wales,Portugal,Galler – Portekiz,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 1/2,0.05173960184252313,20.0,0.034792036850462615,oran,,,,2026-11-17 22:45,,,,,,
 2026-11-17 19:10,2026-11-17,17.11,MILLI,Poland,Sweden,Polonya – İsveç,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.041999037408242776,22.7,-0.046621850832889056,oran,,,,2026-11-17 22:45,,,,,,
 2026-11-17 19:10,2026-11-17,17.11,MILLI,Bosnia and Herzegovina,Romania,Bosna Hersek – Romanya,UEFA Uluslar Ligi,🎲 Çılgın kupon,İY/MS 2/1,0.038475829375497934,23.6,-0.09197042673824873,oran,,,,2026-11-17 22:45,,,,,,
+2026-11-17 21:13,2026-11-17,17.11,MILLI,Saint Lucia,Barbados,Saint Lucia – Barbados,CONCACAF Uluslar B Ligi,🟡 Tier 2 — Orta risk,MS 1,0.6017192286061743,1.51,-0.09140396480467672,oran,False,,,2026-11-17 22:00,,,,,,kadro
+2026-11-17 21:13,2026-11-17,17.11,MILLI,Saint Lucia,Barbados,Saint Lucia – Barbados,CONCACAF Uluslar B Ligi,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3330577752922902,2.68,-0.10740516221666219,oran,True,,,2026-11-17 22:00,,,,,,kadro
