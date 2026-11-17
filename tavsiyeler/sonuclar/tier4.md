@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**188/647 tuttu** (isabet %29, beklenen %28) · -60.34 birim · 43 tahmin sonuç bekliyor
+**188/649 tuttu** (isabet %29, beklenen %28) · -62.34 birim · 41 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **16:00 · Tanzanya – Nijerya**
 
-- ⏳ ↳ MS 2 & KG Var · @3.73
+- ❌ ↳ MS 2 & KG Var · @3.73 · 0-0
 
 **16:00 · Lesotho – Gabon**
 
-- ⏳ ↳ MS 2 & KG Var · @3.95
+- ❌ ↳ MS 2 & KG Var · @3.95 · 2-1
 
 **19:00 · Gine Bissau – Madagaskar**
 

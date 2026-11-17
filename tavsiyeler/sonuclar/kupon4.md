@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/111 tuttu** (isabet %41, beklenen %36) · +13.50 birim · 5 tahmin sonuç bekliyor
+**45/112 tuttu** (isabet %40, beklenen %36) · +12.50 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,7 +12,7 @@ sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ✅ 16.11 22:45 İsviçre – İskoçya · MS 1 & 2.5 Üst · @2.50 · 4-0
 - ❌ 17.11 03:00 Martinik – Aruba · MS 1 & KG Var · @2.34 · 1-1
-- ⏳ 17.11 16:00 Malavi – Mısır · MS 2 & KG Var · @3.31
+- ❌ 17.11 16:00 Malavi – Mısır · MS 2 & KG Var · @3.31 · 0-0
 - ⏳ 17.11 22:45 Danimarka – Norveç · MS 1 & 2.5 Üst · @2.93
 
 ## 15.11 19:27 gönderilen kupon · 4 maç, oran 83,75

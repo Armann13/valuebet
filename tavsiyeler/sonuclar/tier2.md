@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**683/1201 tuttu** (isabet %57, beklenen %59) · -140.07 birim · 71 tahmin sonuç bekliyor
+**685/1207 tuttu** (isabet %57, beklenen %59) · -143.02 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,27 +32,27 @@
 
 **15:00 · Kırgızistan – Vietnam**
 
-- ⏳ 2.5 Alt · @1.58
+- ❌ 2.5 Alt · @1.58 · 2-1
 
 **15:00 · Çin – Bahreyn**
 
-- ⏳ MS 1 · @1.71
+- ❌ MS 1 · @1.71 · 2-2
 
 **16:00 · Etiyopya – Mozambik**
 
-- ⏳ KG Yok · @1.51
+- ✅ KG Yok · @1.51 · 0-1
 
 **16:00 · Güney Sudan – Angola**
 
-- ⏳ 2.5 Alt · @1.54
+- ✅ 2.5 Alt · @1.54 · 0-1
 
 **16:00 · Malavi – Mısır**
 
-- ⏳ 2.5 Üst · @1.56
+- ❌ 2.5 Üst · @1.56 · 0-0
 
 **16:10 · Japonya – Paraguay**
 
-- ⏳ MS 1 · @1.46
+- ❌ MS 1 · @1.46 · 1-2
 
 **19:00 · Togo – Cezayir**
 

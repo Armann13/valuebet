@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**403/946 tuttu** (isabet %43, beklenen %41) · -45.02 birim · 61 tahmin sonuç bekliyor
+**403/948 tuttu** (isabet %43, beklenen %41) · -47.02 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -32,11 +32,11 @@
 
 **16:00 · Burundi – Zambiya**
 
-- ⏳ ↳ MS 1 · @1.95
+- ❌ ↳ MS 1 · @1.95 · 1-1
 
 **16:00 · Malavi – Mısır**
 
-- ⏳ ↳ MS 2 & KG Var · @3.31
+- ❌ ↳ MS 2 & KG Var · @3.31 · 0-0
 
 **19:00 · Gine Bissau – Madagaskar**
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**520/736 tuttu** (isabet %71, beklenen %74) · -92.60 birim · 60 tahmin sonuç bekliyor
+**522/741 tuttu** (isabet %70, beklenen %74) · -95.07 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,23 +22,23 @@
 
 **16:00 · Tanzanya – Nijerya**
 
-- ⏳ MS 2 · @1.25
+- ❌ MS 2 · @1.25 · 0-0
 
 **16:00 · Lesotho – Gabon**
 
-- ⏳ MS 2 · @1.31
+- ❌ MS 2 · @1.31 · 2-1
 
 **16:00 · Burundi – Zambiya**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ❌ ÇŞ 1-2 · @1.20 · 1-1
 
 **17:00 · Katar – Güney Kore**
 
-- ⏳ MS 2 · @1.32
+- ✅ MS 2 · @1.32 · 0-1
 
 **17:10 · Birleşik Arap Emirlikleri – Suriye**
 
-- ⏳ MS 1 · @1.21
+- ✅ MS 1 · @1.21 · 4-2
 
 **19:00 · Gine Bissau – Madagaskar**
 
