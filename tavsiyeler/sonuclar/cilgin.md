@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/132 tuttu** (isabet %15, beklenen %13) · +199.23 birim · 57 tahmin sonuç bekliyor
+**20/134 tuttu** (isabet %15, beklenen %13) · +197.23 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,7 +12,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 17.11 22:45 Danimarka – Norveç · İY/MS 1/2 · @23.15
 - ⏳ 17.11 22:45 Galler – Portekiz · İY/MS 1/2 · @20.00
-- ⏳ 17.11 22:45 Polonya – İsveç · İY/MS 2/1 · @22.70
+- ❌ 17.11 22:45 Polonya – İsveç · İY/MS 2/1 · @22.70
 - ⏳ 17.11 22:45 Bosna Hersek – Romanya · İY/MS 2/1 · @23.60
 
 ## 16.11 09:45 gönderilen kupon · 4 maç, oran 309.738,00
@@ -30,7 +30,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 15.11 22:45 Fransa – Türkiye · İY/MS 2/1 · @19.85
 - ⏳ 15.11 22:45 Hırvatistan – Çekya · İY/MS 2/1 · @23.15
-- ⏳ 16.11 22:30 Albacete – Celta Vigo B · İY/MS 2/1 · @21.10
+- ❌ 16.11 22:30 Albacete – Celta Vigo B · İY/MS 2/1 · @21.10 · İY 1-0, MS 1-0
 - ⏳ 16.11 22:45 Yunanistan – Sırbistan · İY/MS 2/1 · @22.25
 
 ## 15.11 09:46 gönderilen kupon · 5 maç, oran 425.298,23

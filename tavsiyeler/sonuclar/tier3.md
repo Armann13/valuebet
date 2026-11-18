@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**403/948 tuttu** (isabet %43, beklenen %41) · -47.02 birim · 65 tahmin sonuç bekliyor
+**410/966 tuttu** (isabet %42, beklenen %41) · -49.11 birim · 47 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **02:00 · Arjantin – Kosta Rika**
 
-- ⏳ KG Var · @2.47
+- ❌ KG Var · @2.47 · 7-0
 
 **02:30 · Uruguay – Dominik Cumhuriyeti**
 
@@ -52,58 +52,58 @@
 
 **19:00 · Gine Bissau – Madagaskar**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.24
+- ❌ ↳ MS 1 & 2.5 Üst · @2.24 · 2-0
 
 **22:00 · ST Kitts ve Nevis – Bonaire**
 
-- ⏳ MS 1 & KG Var · @1.95
-- ⏳ ↳ MS 2 · @2.47
+- ✅ MS 1 & KG Var · @1.95 · 3-2
+- ❌ ↳ MS 2 · @2.47 · 3-2
 
 **22:00 · Dominika – Cayman Adaları**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.19
+- ✅ ↳ MS 1 & 2.5 Üst · @2.19 · 5-0
 
 **22:00 · Saint Lucia – Barbados**
 
-- ⏳ ↳ MS 1 & KG Var · @2.70
+- ❌ ↳ MS 1 & KG Var · @2.70 · 2-0
 
 **22:00 · Belize – Sint Maarten**
 
-- ⏳ ↳ MS 1 & KG Var · @3.15
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.54
+- ❌ ↳ MS 1 & KG Var · @3.15 · 1-2
+- ❌ ↳ MS 1 & 2.5 Üst · @2.54 · 1-2
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
-- ⏳ ↳ MS 1 · @1.82
+- ❌ ↳ MS 1 · @1.82 · 1-1
 
 **22:45 · İrlanda – Kosova**
 
-- ⏳ ↳ MS 1 · @1.98
+- ✅ ↳ MS 1 · @1.98 · 3-0
 
 **22:45 · Ukrayna – Gürcistan**
 
-- ⏳ ↳ MS 1 · @2.06
+- ✅ ↳ MS 1 · @2.06 · 1-0
 
 **22:45 · Danimarka – Norveç**
 
-- ⏳ ↳ MS 2 · @2.47
+- ✅ ↳ MS 2 · @2.47 · 2-3
 
 **22:45 · Galler – Portekiz**
 
-- ⏳ ↳ MS 2 & KG Var · @2.58
+- ✅ ↳ MS 2 & KG Var · @2.58 · 2-3
 
 **22:45 · Bosna Hersek – Romanya**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.68
+- ✅ ↳ MS 1 & 2.5 Üst · @2.68 · 2-1
 
 **22:45 · Polonya – İsveç**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.08
-- ⏳ ↳ MS 2 · @2.74
+- ❌ ↳ MS 1 & 2.5 Üst · @3.08 · 1-1
+- ❌ ↳ MS 2 · @2.74 · 1-1
 
 **23:00 · Nijer – Fas**
 
-- ⏳ KG Var · @2.68
+- ❌ KG Var · @2.68 · 0-1
 
 ## 16.11.2026 Pazartesi
 
@@ -166,7 +166,7 @@
 
 **22:30 · Albacete – Celta Vigo B**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.04
+- ❌ ↳ MS 1 & 2.5 Üst · @2.04 · 1-0
 
 **22:45 · Yunanistan – Sırbistan**
 

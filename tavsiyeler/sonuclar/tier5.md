@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/104 tuttu** (isabet %16, beklenen %16) · -11.09 birim · 2 tahmin sonuç bekliyor
+**17/105 tuttu** (isabet %16, beklenen %16) · -12.09 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
-- ⏳ 1-0 · @4.82
+- ❌ 1-0 · @4.82 · 1-1
 
 ## 16.11.2026 Pazartesi
 

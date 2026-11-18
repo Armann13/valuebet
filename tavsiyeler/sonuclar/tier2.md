@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**685/1207 tuttu** (isabet %57, beklenen %59) · -143.02 birim · 73 tahmin sonuç bekliyor
+**701/1235 tuttu** (isabet %57, beklenen %59) · -146.59 birim · 45 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -72,93 +72,93 @@
 
 **19:00 · Togo – Cezayir**
 
-- ⏳ MS 2 · @1.46
+- ❌ MS 2 · @1.46 · 3-0
 
 **19:00 · Gambiya – Fildişi Sahili**
 
-- ⏳ MS 2 · @1.51
+- ❌ MS 2 · @1.51 · 2-2
 
 **19:00 · Libya – Tunus**
 
-- ⏳ KG Yok · @1.47
+- ❌ KG Yok · @1.47 · 1-1
 
 **19:00 · Ürdün – Avustralya**
 
-- ⏳ MS 2 · @1.62
+- ❌ MS 2 · @1.62 · 2-0
 
 **19:00 · Kenya – Güney Afrika**
 
-- ⏳ MS 2 · @1.62
+- ✅ MS 2 · @1.62 · 1-2
 
 **19:00 · Rusya – Venezuela**
 
-- ⏳ KG Yok · @1.60
+- ✅ KG Yok · @1.60 · 2-0
 
 **19:30 · Kuveyt – Honduras**
 
-- ⏳ MS 2 · @1.71
+- ✅ MS 2 · @1.71 · 0-2
 
 **22:00 · Dominika – Cayman Adaları**
 
-- ⏳ MS 1 · @1.42
+- ✅ MS 1 · @1.42 · 5-0
 
 **22:00 · Ruanda – Mali**
 
-- ⏳ KG Yok · @1.45
+- ✅ KG Yok · @1.45 · 0-2
 
 **22:00 · Saint Lucia – Barbados**
 
-- ⏳ MS 1 · @1.50
+- ✅ MS 1 · @1.50 · 2-0
 
 **22:00 · Kongo – Komorlar**
 
-- ⏳ KG Yok · @1.48
+- ✅ KG Yok · @1.48 · 0-1
 
 **22:00 · Liberya – Yeşil Burun Adaları**
 
-- ⏳ MS 2 · @1.70
+- ❌ MS 2 · @1.70 · 2-0
 
 **22:00 · Belize – Sint Maarten**
 
-- ⏳ MS 1 · @1.72
+- ❌ MS 1 · @1.72 · 1-2
 
 **22:00 · ST Kitts ve Nevis – Bonaire**
 
-- ⏳ ÇŞ X-2 · @1.47
+- ❌ ÇŞ X-2 · @1.47 · 3-2
 
 **22:45 · Polonya – İsveç**
 
-- ⏳ 2.5 Üst · @1.50
-- ⏳ ↳ Korner 9.5 Alt · @1.42
-- ⏳ ÇŞ X-2 · @1.51
-- ⏳ ↳ Korner 8.5 Üst · @1.50
+- ❌ 2.5 Üst · @1.50 · 1-1
+- ❌ ↳ Korner 9.5 Alt · @1.42 · korner 2-8
+- ✅ ÇŞ X-2 · @1.51 · 1-1
+- ✅ ↳ Korner 8.5 Üst · @1.50 · korner 2-8
 
 **22:45 · Danimarka – Norveç**
 
-- ⏳ ÇŞ X-2 · @1.42
-- ⏳ ↳ Korner 8.5 Üst · @1.50
-- ⏳ ↳ Korner 10.5 Alt · @1.40
+- ✅ ÇŞ X-2 · @1.42 · 2-3
+- ❌ ↳ Korner 8.5 Üst · @1.50 · korner 1-7
+- ✅ ↳ Korner 10.5 Alt · @1.40 · korner 1-7
 
 **22:45 · Galler – Portekiz**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.75
+- ✅ ↳ MS 2 & 2.5 Üst · @1.75 · 2-3
 
 **22:45 · Bosna Hersek – Romanya**
 
-- ⏳ MS 1 · @1.74
-- ⏳ ↳ Korner 9.5 Alt · @1.42
+- ✅ MS 1 · @1.74 · 2-1
+- ✅ ↳ Korner 9.5 Alt · @1.42 · korner 4-4
 
 **22:45 · İrlanda – Kosova**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.44
+- ❌ ↳ Korner 9.5 Alt · @1.44 · korner 9-4
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.45
+- ✅ ↳ Korner 9.5 Alt · @1.45 · korner 5-4
 
 **22:45 · Ukrayna – Gürcistan**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.49
+- ❌ ↳ Korner 9.5 Alt · @1.49 · korner 5-11
 
 ## 16.11.2026 Pazartesi
 
@@ -224,7 +224,7 @@
 
 **22:30 · Albacete – Celta Vigo B**
 
-- ⏳ MS 1 · @1.46
+- ✅ MS 1 · @1.46 · 1-0
 
 **22:45 · Kuzey Makedonya – Slovenya**
 

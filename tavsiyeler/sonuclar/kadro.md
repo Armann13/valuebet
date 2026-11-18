@@ -6,12 +6,157 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1747 | 1736 | 894 | -136.69 |
-| sonra | 1465 | 1456 | 733 | -137.41 |
+| önce | 1814 | 1797 | 928 | -138.69 |
+| sonra | 1516 | 1502 | 759 | -137.73 |
 
-Değişen tahmin: 375 (370 sonuçlandı: eski 273, yeni 206 tuttu).
+Değişen tahmin: 395 (389 sonuçlandı: eski 287, yeni 219 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 17.11 · Uruguay – Dominik Cumhuriyeti
+
+Kadro mesajı: 18.11 02:04
+
+- 🔴 Tier 3: ⏳ KG Var @2.07 → ⏳ KG Var @2.14 (aynı)
+
+## 17.11 · Ekvador – Bolivya
+
+Kadro mesajı: 18.11 01:53
+
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.42 → — (kalktı)
+- 🔴 Tier 3: ⏳ KG Var @2.14 → ⏳ KG Var @2.24 (aynı)
+
+## 17.11 · Arjantin – Kosta Rika
+
+Kadro mesajı: 18.11 01:21
+
+- 🔴 Tier 3: ❌ KG Var @2.47 → ❌ KG Var @2.61 (aynı)
+
+## 17.11 · Şili – Kolombiya
+
+Kadro mesajı: 18.11 01:21
+
+- 🟡 Tier 2: ⏳ KG Yok @1.57 → ⏳ KG Yok @1.55 (aynı)
+
+## 17.11 · Macaristan – Kuzey İrlanda
+
+Kadro mesajı: 17.11 21:58
+
+- 🟢 Tier 1: ❌ ÇŞ 1-2 @1.23, ✅ Korner 10.5 Alt @1.24 → ❌ ÇŞ 1-2 @1.23, ✅ Korner 10.5 Alt @1.24 (aynı)
+- 🟡 Tier 2: ✅ Korner 9.5 Alt @1.45 → ❌ MS 1 @1.81, ✅ Korner 9.5 Alt @1.45 (değişti)
+- 🔴 Tier 3: ❌ MS 1 @1.82 → ❌ İY/MS 1/1 @2.87 (değişti)
+- 🟣 Tier 4: ❌ İY/MS 1/1 @2.89 → — (kalktı)
+
+## 17.11 · Bosna Hersek – Romanya
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ Korner 10.5 Alt @1.22, ✅ ÇŞ 1-X @1.22 → ✅ ÇŞ 1-X @1.21, ✅ Korner 10.5 Alt @1.22 (aynı)
+- 🟡 Tier 2: ✅ MS 1 @1.74, ✅ Korner 9.5 Alt @1.42 → ✅ Korner 9.5 Alt @1.42 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.68 → ✅ MS 1 @1.89 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & KG Var @3.55 → ✅ MS 1 & 2.5 Üst @2.69 (değişti)
+
+## 17.11 · Danimarka – Norveç
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ Korner 7.5 Üst @1.25, ✅ 2.5 Üst @1.30, ✅ Korner 11.5 Alt @1.21 → ✅ 2.5 Üst @1.30, ❌ Korner 8.5 Üst @1.27 (değişti)
+- 🟡 Tier 2: ✅ ÇŞ X-2 @1.42, ❌ Korner 8.5 Üst @1.50, ✅ Korner 10.5 Alt @1.40 → ❌ Korner 9.5 Üst @1.52 (değişti)
+- 🔴 Tier 3: ✅ MS 2 @2.47 → ✅ MS 2 & 2.5 Üst @2.89 (değişti)
+- 🟣 Tier 4: ✅ MS 2 & 2.5 Üst @3.37, ✅ MS 2 & KG Var @3.44 → ✅ MS 2 & KG Var @3.42 (değişti)
+
+## 17.11 · Galler – Portekiz
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ MS 2 @1.28, ❌ En çok korner 2 @1.22 → ✅ MS 2 @1.26, ❌ En çok korner 2 @1.23 (aynı)
+- 🟡 Tier 2: ✅ MS 2 & 2.5 Üst @1.75 → ✅ MS 2 & 2.5 Üst @1.66 (aynı)
+- 🔴 Tier 3: ✅ MS 2 & KG Var @2.58 → ✅ MS 2 & KG Var @2.44 (aynı)
+
+## 17.11 · Polonya – İsveç
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ Korner 10.5 Alt @1.22, ✅ Korner 7.5 Üst @1.25 → ✅ Korner 7.5 Üst @1.25 (değişti)
+- 🟡 Tier 2: ❌ 2.5 Üst @1.50, ❌ Korner 9.5 Alt @1.42, ✅ ÇŞ X-2 @1.51, ✅ Korner 8.5 Üst @1.50 → ❌ 2.5 Üst @1.44, ✅ Korner 8.5 Üst @1.50 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @3.08, ❌ MS 2 @2.74 → ❌ MS 1 & 2.5 Üst @2.99 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.77, ❌ MS 2 & 2.5 Üst @3.83 → ❌ MS 1 & KG Var @3.63 (değişti)
+
+## 17.11 · Ukrayna – Gürcistan
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.22, ❌ Korner 10.5 Alt @1.25, ✅ ÇŞ 1-2 @1.23 → ✅ ÇŞ 1-2 @1.24, ❌ Korner 10.5 Alt @1.25 (değişti)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.49 → ❌ Korner 9.5 Alt @1.49 (aynı)
+- 🔴 Tier 3: ✅ MS 1 @2.06 → ✅ MS 1 @1.97 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.29 → ⏳ İY/MS 1/1 @3.15 (aynı)
+
+## 17.11 · İrlanda – Kosova
+
+Kadro mesajı: 17.11 21:47
+
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.25, ❌ Korner 10.5 Alt @1.23 → ✅ ÇŞ 1-2 @1.23, ❌ Korner 10.5 Alt @1.22 (aynı)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.44 → ✅ MS 1 @1.81, ❌ Korner 9.5 Alt @1.42 (değişti)
+- 🔴 Tier 3: ✅ MS 1 @1.98 → ⏳ İY/MS 1/1 @2.83 (değişti)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.16 → — (kalktı)
+
+## 17.11 · Belize – Sint Maarten
+
+Kadro mesajı: 17.11 21:35
+
+- 🟡 Tier 2: ❌ MS 1 @1.72 → ✅ 2.5 Üst @1.50 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @3.15, ❌ MS 1 & 2.5 Üst @2.54 → — (kalktı)
+- 🟣 Tier 4: — → ✅ MS 2 & KG Var @4.17 (yeni)
+
+## 17.11 · Liberya – Yeşil Burun Adaları
+
+Kadro mesajı: 17.11 21:35
+
+- 🟡 Tier 2: ❌ MS 2 @1.70 → ❌ MS 2 @1.59 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & KG Var @4.22 → ❌ MS 2 & KG Var @4.02 (aynı)
+
+## 17.11 · Moritanya – Burkina Faso
+
+Kadro mesajı: 17.11 21:35
+
+- 🟢 Tier 1: ❌ 2.5 Alt @1.27 → ❌ 2.5 Alt @1.25 (aynı)
+
+## 17.11 · Ruanda – Mali
+
+Kadro mesajı: 17.11 21:35
+
+- 🟢 Tier 1: — → ✅ ÇŞ 1-2 @1.20 (yeni)
+- 🟡 Tier 2: ✅ KG Yok @1.45 → ✅ MS 2 @1.72 (değişti)
+
+## 17.11 · ST Kitts ve Nevis – Bonaire
+
+Kadro mesajı: 17.11 21:35
+
+- 🟡 Tier 2: ❌ ÇŞ X-2 @1.47 → — (kalktı)
+- 🔴 Tier 3: ✅ MS 1 & KG Var @1.95, ❌ MS 2 @2.47 → ❌ KG Yok @3.33 (değişti)
+- 🟣 Tier 4: ❌ MS 2 & 2.5 Üst @2.85 → — (kalktı)
+
+## 17.11 · Botsvana – Uganda
+
+Kadro mesajı: 17.11 21:24
+
+- 🟢 Tier 1: ✅ 2.5 Alt @1.28 → ✅ 2.5 Alt @1.26 (aynı)
+
+## 17.11 · Dominika – Cayman Adaları
+
+Kadro mesajı: 17.11 21:24
+
+- 🟢 Tier 1: — → ✅ MS 1 @1.23 (yeni)
+- 🟡 Tier 2: ✅ MS 1 @1.42 → — (kalktı)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.19 → ❌ MS 1 & KG Var @2.53 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.15 → — (kalktı)
+
+## 17.11 · Saint Lucia – Barbados
+
+Kadro mesajı: 17.11 21:13
+
+- 🟡 Tier 2: ✅ MS 1 @1.50 → ✅ MS 1 @1.51 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.70 → ❌ MS 1 & KG Var @2.68 (aynı)
 
 ## 16.11 · Kuzey Makedonya – Slovenya
 

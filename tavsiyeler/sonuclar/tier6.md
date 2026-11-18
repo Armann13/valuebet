@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**101/928 tuttu** (isabet %11, beklenen %11) · -191.76 birim · 48 tahmin sonuç bekliyor
+**103/936 tuttu** (isabet %11, beklenen %11) · -186.20 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,28 +10,28 @@
 
 **22:45 · İrlanda – Kosova**
 
-- ⏳ 1-0 · @5.25
+- ❌ 1-0 · @5.25 · 3-0
 
 **22:45 · Bosna Hersek – Romanya**
 
-- ⏳ 2-1 · @7.46
+- ✅ 2-1 · @7.46 · 2-1
 
 **22:45 · Galler – Portekiz**
 
-- ⏳ 1-2 · @7.25
+- ❌ 1-2 · @7.25 · 2-3
 
 **22:45 · Ukrayna – Gürcistan**
 
-- ⏳ 1-0 · @6.10
+- ✅ 1-0 · @6.10 · 1-0
 
 **22:45 · Danimarka – Norveç**
 
-- ⏳ 1-2 · @9.08
+- ❌ 1-2 · @9.08 · 2-3
 
 **22:45 · Polonya – İsveç**
 
-- ⏳ 2-1 · @8.13
-- ⏳ 1-2 · @9.57
+- ❌ 2-1 · @8.13 · 1-1
+- ❌ 1-2 · @9.57 · 1-1
 
 ## 16.11.2026 Pazartesi
 
@@ -54,7 +54,7 @@
 
 **22:30 · Albacete – Celta Vigo B**
 
-- ⏳ 2-1 · @7.19
+- ❌ 2-1 · @7.19 · 1-0
 
 **22:45 · İsviçre – İskoçya**
 

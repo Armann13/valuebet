@@ -2,23 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**24/53 tuttu** (isabet %45, beklenen %49) · -2.40 birim · 5 tahmin sonuç bekliyor
+**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.11 19:10 gönderilen kupon · 2 maç, oran 2,96
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
-- ⏳ 17.11 22:45 Galler – Portekiz · MS 2 & 2.5 Üst · @1.72
-- ⏳ 17.11 22:45 Macaristan – Kuzey İrlanda · MS 1 · @1.72
+- ✅ 17.11 22:45 Galler – Portekiz · MS 2 & 2.5 Üst · @1.72 · 2-3
+- ❌ 17.11 22:45 Macaristan – Kuzey İrlanda · MS 1 · @1.72 · 1-1
 
 ## 16.11 19:30 gönderilen kupon · 2 maç, oran 3,82
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 3,82 birim
 
 - ✅ 16.11 22:45 Almanya – Hollanda · MS 1 & 2.5 Üst · @2.18 · 5-0
-- ⏳ 17.11 22:45 Galler – Portekiz · MS 2 & 2.5 Üst · @1.75
+- ✅ 17.11 22:45 Galler – Portekiz · MS 2 & 2.5 Üst · @1.75 · 2-3
 
 ## 16.11 09:45 gönderilen kupon · 2 maç, oran 3,61
 

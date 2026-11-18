@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**522/741 tuttu** (isabet %70, beklenen %74) · -95.07 birim · 60 tahmin sonuç bekliyor
+**537/761 tuttu** (isabet %71, beklenen %74) · -96.32 birim · 40 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -42,52 +42,52 @@
 
 **19:00 · Gine Bissau – Madagaskar**
 
-- ⏳ MS 1 · @1.27
+- ✅ MS 1 · @1.27 · 2-0
 
 **22:00 · Moritanya – Burkina Faso**
 
-- ⏳ 2.5 Alt · @1.27
+- ❌ 2.5 Alt · @1.27 · 1-3
 
 **22:00 · Botsvana – Uganda**
 
-- ⏳ 2.5 Alt · @1.28
+- ✅ 2.5 Alt · @1.28 · 1-1
 
 **22:45 · Galler – Portekiz**
 
-- ⏳ MS 2 · @1.28
-- ⏳ En çok korner 2 · @1.22
+- ✅ MS 2 · @1.28 · 2-3
+- ❌ En çok korner 2 · @1.22 · korner 6-1
 
 **22:45 · Ukrayna – Gürcistan**
 
-- ⏳ ÇŞ 1-X · @1.22
-- ⏳ Korner 10.5 Alt · @1.25
-- ⏳ ÇŞ 1-2 · @1.23
+- ✅ ÇŞ 1-X · @1.22 · 1-0
+- ❌ Korner 10.5 Alt · @1.25 · korner 5-11
+- ✅ ÇŞ 1-2 · @1.23 · 1-0
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 10.5 Alt · @1.24
+- ❌ ÇŞ 1-2 · @1.23 · 1-1
+- ✅ Korner 10.5 Alt · @1.24 · korner 5-4
 
 **22:45 · İrlanda – Kosova**
 
-- ⏳ ÇŞ 1-2 · @1.25
-- ⏳ Korner 10.5 Alt · @1.23
+- ✅ ÇŞ 1-2 · @1.25 · 3-0
+- ❌ Korner 10.5 Alt · @1.23 · korner 9-4
 
 **22:45 · Bosna Hersek – Romanya**
 
-- ⏳ Korner 10.5 Alt · @1.22
-- ⏳ ÇŞ 1-X · @1.22
+- ✅ Korner 10.5 Alt · @1.22 · korner 4-4
+- ✅ ÇŞ 1-X · @1.22 · 2-1
 
 **22:45 · Polonya – İsveç**
 
-- ⏳ Korner 10.5 Alt · @1.22
-- ⏳ Korner 7.5 Üst · @1.25
+- ✅ Korner 10.5 Alt · @1.22 · korner 2-8
+- ✅ Korner 7.5 Üst · @1.25 · korner 2-8
 
 **22:45 · Danimarka – Norveç**
 
-- ⏳ Korner 7.5 Üst · @1.25
-- ⏳ 2.5 Üst · @1.30
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 7.5 Üst · @1.25 · korner 1-7
+- ✅ 2.5 Üst · @1.30 · 2-3
+- ✅ Korner 11.5 Alt · @1.21 · korner 1-7
 
 ## 16.11.2026 Pazartesi
 
@@ -131,7 +131,7 @@
 
 **22:30 · Albacete – Celta Vigo B**
 
-- ⏳ En çok korner 1 · @1.31
+- ✅ En çok korner 1 · @1.31 · korner 9-5
 
 **22:45 · Yunanistan – Sırbistan**
 

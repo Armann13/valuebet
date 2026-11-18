@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**709/1310 tuttu** (isabet %54, beklenen %59) · -192.19 birim · 63 tahmin sonuç bekliyor
+**720/1328 tuttu** (isabet %54, beklenen %59) · -195.72 birim · 45 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,41 +10,41 @@
 
 **22:45 · Galler – Portekiz**
 
-- ⏳ 🟢 En çok korner 2 · @1.22
+- ❌ 🟢 En çok korner 2 · @1.22 · korner 6-1
 
 **22:45 · Bosna Hersek – Romanya**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
+- ✅ 🟢 Korner 10.5 Alt · @1.22 · korner 4-4
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.42 · korner 4-4
 
 **22:45 · Polonya – İsveç**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.42
-- ⏳ 🟢 Korner 7.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.50
+- ✅ 🟢 Korner 10.5 Alt · @1.22 · korner 2-8
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.42 · korner 2-8
+- ✅ 🟢 Korner 7.5 Üst · @1.25 · korner 2-8
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.50 · korner 2-8
 
 **22:45 · İrlanda – Kosova**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.44
+- ❌ 🟢 Korner 10.5 Alt · @1.23 · korner 9-4
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.44 · korner 9-4
 
 **22:45 · Macaristan – Kuzey İrlanda**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.45
+- ✅ 🟢 Korner 10.5 Alt · @1.24 · korner 5-4
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.45 · korner 5-4
 
 **22:45 · Danimarka – Norveç**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.50
-- ⏳ 🟢 Korner 11.5 Alt · @1.21
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ✅ 🟢 Korner 7.5 Üst · @1.25 · korner 1-7
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.50 · korner 1-7
+- ✅ 🟢 Korner 11.5 Alt · @1.21 · korner 1-7
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.40 · korner 1-7
 
 **22:45 · Ukrayna – Gürcistan**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.49
+- ❌ 🟢 Korner 10.5 Alt · @1.25 · korner 5-11
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.49 · korner 5-11
 
 ## 16.11.2026 Pazartesi
 
@@ -80,7 +80,7 @@
 
 **22:30 · Albacete – Celta Vigo B**
 
-- ⏳ 🟢 En çok korner 1 · @1.31
+- ✅ 🟢 En çok korner 1 · @1.31 · korner 9-5
 
 **22:45 · Kuzey Makedonya – Slovenya**
 
