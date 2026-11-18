@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**410/966 tuttu** (isabet %42, beklenen %41) · -49.11 birim · 47 tahmin sonuç bekliyor
+**411/970 tuttu** (isabet %42, beklenen %41) · -50.36 birim · 43 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -14,19 +14,19 @@
 
 **02:30 · Uruguay – Dominik Cumhuriyeti**
 
-- ⏳ KG Var · @2.07
+- ❌ KG Var · @2.07 · 5-0
 
 **02:30 · Ekvador – Bolivya**
 
-- ⏳ KG Var · @2.14
+- ❌ KG Var · @2.14 · 2-0
 
 **03:00 · ABD – Haiti**
 
-- ⏳ ↳ MS 1 & KG Var · @2.12
+- ❌ ↳ MS 1 & KG Var · @2.12 · 2-0
 
 **04:00 · El Salvador – Saint Martin**
 
-- ⏳ ↳ MS 1 & KG Var · @2.75
+- ✅ ↳ MS 1 & KG Var · @2.75 · 3-1
 
 ## 17.11.2026 Salı
 

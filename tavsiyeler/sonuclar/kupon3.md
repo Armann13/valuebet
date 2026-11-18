@@ -2,17 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/90 tuttu** (isabet %33, beklenen %39) · -9.83 birim · 3 tahmin sonuç bekliyor
+**31/92 tuttu** (isabet %34, beklenen %39) · -9.08 birim · 1 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 17.11 19:10 gönderilen kupon · 3 maç, oran 18,21
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 17.11 22:00 Dominika – Cayman Adaları · MS 1 & KG Var · @2.67 · 5-0
-- ⏳ 18.11 04:00 El Salvador – Saint Martin · MS 1 & KG Var · @2.75
-- ⏳ 18.11 06:00 Nikaragua – Montserrat · MS 1 & KG Var · @2.48
+- ✅ 18.11 04:00 El Salvador – Saint Martin · MS 1 & KG Var · @2.75 · 3-1
+- ❌ 18.11 06:00 Nikaragua – Montserrat · MS 1 & KG Var · @2.48 · 2-0
 
 ## 16.11 19:30 gönderilen kupon · 3 maç, oran 17,11
 

@@ -6,8 +6,8 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 1814 | 1797 | 928 | -138.69 |
-| sonra | 1516 | 1502 | 759 | -137.73 |
+| önce | 1814 | 1801 | 929 | -141.12 |
+| sonra | 1516 | 1505 | 760 | -139.18 |
 
 Değişen tahmin: 395 (389 sonuçlandı: eski 287, yeni 219 tuttu).
 
@@ -17,14 +17,14 @@ Değişen tahmin: 395 (389 sonuçlandı: eski 287, yeni 219 tuttu).
 
 Kadro mesajı: 18.11 02:04
 
-- 🔴 Tier 3: ⏳ KG Var @2.07 → ⏳ KG Var @2.14 (aynı)
+- 🔴 Tier 3: ❌ KG Var @2.07 → ❌ KG Var @2.14 (aynı)
 
 ## 17.11 · Ekvador – Bolivya
 
 Kadro mesajı: 18.11 01:53
 
-- 🟡 Tier 2: ⏳ 2.5 Üst @1.42 → — (kalktı)
-- 🔴 Tier 3: ⏳ KG Var @2.14 → ⏳ KG Var @2.24 (aynı)
+- 🟡 Tier 2: ❌ 2.5 Üst @1.42 → — (kalktı)
+- 🔴 Tier 3: ❌ KG Var @2.14 → ❌ KG Var @2.24 (aynı)
 
 ## 17.11 · Arjantin – Kosta Rika
 
@@ -36,7 +36,7 @@ Kadro mesajı: 18.11 01:21
 
 Kadro mesajı: 18.11 01:21
 
-- 🟡 Tier 2: ⏳ KG Yok @1.57 → ⏳ KG Yok @1.55 (aynı)
+- 🟡 Tier 2: ✅ KG Yok @1.57 → ✅ KG Yok @1.55 (aynı)
 
 ## 17.11 · Macaristan – Kuzey İrlanda
 
