@@ -26,14 +26,14 @@ Az veriyle sonuçlar çok gürültülüdür; asıl ölçüt birkaç yüz maçtan
 | SC2 | 35 | 34 | +0.0433 ± 0.0662 (n=34) | +0.0295 ± 0.0320 (n=34) |
 | SC3 | 30 | 30 | +0.0493 ± 0.0588 (n=30) | +0.0052 ± 0.0446 (n=30) |
 | SP1 | 46 | 45 | +0.0784 ± 0.0425 (n=45) | +0.0107 ± 0.0423 (n=45) |
-| SP2 | 70 | 69 | +0.0026 ± 0.0391 (n=69) | +0.0097 ± 0.0298 (n=69) |
+| SP2 | 70 | 70 | +0.0050 ± 0.0388 (n=70) | +0.0080 ± 0.0296 (n=70) |
 | T1 | 40 | 40 | +0.0821 ± 0.0559 (n=40) | -0.0495 ± 0.1090 (n=40) |
-| toplam | 951 | 943 | +0.0302 ± 0.0111 (n=943) | +0.0077 ± 0.0101 (n=943) |
+| toplam | 951 | 944 | +0.0304 ± 0.0111 (n=944) | +0.0076 ± 0.0101 (n=944) |
 
 ## Kağıt bahisler
 | kural | bahis | açık | sonuçlanan | ort. oran | ROI_% | CLV_ort_% | CLV ±GA_% | CLV>0_% |
 |---|---|---|---|---|---|---|---|---|
-| Model | 1047 | 9 | 1038 | 3.08 | -14.63 | -7.74 | 0.54 | 16.57 |
+| Model | 1047 | 8 | 1039 | 3.08 | -14.72 | -7.75 | 0.54 | 16.55 |
 | Keskin açılış adil fiyatı (model yok) | 8 | 0 | 8 | 3.48 | -64.00 | -3.18 | 4.81 | 37.50 |
 | Model + keskin piyasa onayı (predict'teki VALUE kuralı) | 11 | 0 | 11 | 4.36 | 25.45 | 0.43 | 5.81 | 63.64 |
 
@@ -43,9 +43,9 @@ Kurallar backtest'tekiyle aynı (bkz. reports/backtest_summary.md → Strateji k
 
 | grup | sonuç sayısı | maç | ort. oran | CLV ilk oran_% | ±GA_% | CLV son oran_% | CLV>0_% | ROI_% |
 |---|---|---|---|---|---|---|---|---|
-| Tüm İddaa fiyatları | 5491 | 1107 | 2.62 | -14.04 | 0.21 | -14.14 | 2.20 | -16.28 |
+| Tüm İddaa fiyatları | 5496 | 1108 | 2.62 | -14.05 | 0.21 | -14.15 | 2.20 | -16.29 |
 | İddaa > keskin açılış adil fiyatı | 7 | 6 | 2.97 | 0.43 | 7.27 | -13.38 | 42.86 | -63.71 |
-| Model edge ≥ %3 (onaysız) | 631 | 452 | 4.13 | -16.66 | 0.83 | -17.09 | 5.07 | -25.42 |
+| Model edge ≥ %3 (onaysız) | 632 | 453 | 4.13 | -16.66 | 0.83 | -17.09 | 5.06 | -25.54 |
 | Model edge + keskin onay (VALUE) | 3 | 3 | 2.95 | 7.46 | 9.06 | -9.95 | 66.67 | -15.33 |
 
-Sonuçlanmamış (açık) maç: 184. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
+Sonuçlanmamış (açık) maç: 183. 'İlk oran' = İddaa'da ilk görülen, 'son oran' = başlamadan önceki son kayıt. Oran = `odd` (ekrandaki; `wodd` ayrıca kayıtlı). Ayrıntı: tracking/iddaa_clv.csv
