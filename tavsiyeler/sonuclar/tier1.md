@@ -2,9 +2,53 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**537/761 tuttu** (isabet %71, beklenen %74) · -96.32 birim · 40 tahmin sonuç bekliyor
+**537/761 tuttu** (isabet %71, beklenen %74) · -96.32 birim · 52 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11.2026 Cuma
+
+**20:30 · Darmstadt 98 – Heidenheim**
+
+- ⏳ ÇŞ X-2 · @1.22
+
+**22:00 · Red Star FC – Pau**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:00 · Metz – US Boulogne**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:00 · Annecy FC – Clermont**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**22:30 · Hellas Verona – AC Cesena**
+
+- ⏳ Korner 11.5 Alt · @1.22
+
+**22:30 · Bayern Münih – Köln**
+
+- ⏳ Korner 8.5 Üst · @1.20
+
+**22:45 · Southend – Boreham Wood**
+
+- ⏳ 2.5 Üst · @1.21
+
+**22:45 · Troyes – Le Havre**
+
+- ⏳ ÇŞ 1-2 · @1.21
+- ⏳ Korner 10.5 Alt · @1.23
+
+**22:45 · Cercle Brugge – Westerlo**
+
+- ⏳ ÇŞ 1-X · @1.22
+
+**23:00 · Athletic Bilbao – Espanyol**
+
+- ⏳ MS 1 · @1.32
+- ⏳ En çok korner 1 · @1.20
 
 ## 17.11.2026 Salı
 

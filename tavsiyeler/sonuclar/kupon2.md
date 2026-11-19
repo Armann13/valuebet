@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 2 tahmin sonuç bekliyor
+**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.11 14:53 gönderilen kupon · 2 maç, oran 5,68
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 20.11 22:30 Hellas Verona – AC Cesena · MS 1 & 2.5 Üst · @2.30
+- ⏳ 20.11 22:45 Cercle Brugge – Westerlo · MS 1 & 2.5 Üst · @2.47
 
 ## 17.11 19:10 gönderilen kupon · 2 maç, oran 2,96
 

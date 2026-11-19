@@ -2,9 +2,59 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**705/1241 tuttu** (isabet %57, beklenen %59) · -146.54 birim · 39 tahmin sonuç bekliyor
+**705/1241 tuttu** (isabet %57, beklenen %59) · -146.54 birim · 54 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11.2026 Cuma
+
+**20:30 · Arminia Bielefeld – Magdeburg**
+
+- ⏳ 2.5 Üst · @1.52
+- ⏳ En çok korner 1 · @1.54
+
+**20:30 · Darmstadt 98 – Heidenheim**
+
+- ⏳ En çok korner 2 · @1.63
+
+**22:00 · Guingamp – Rodez AF**
+
+- ⏳ 2.5 Üst · @1.48
+
+**22:00 · AS Nancy – Dijon**
+
+- ⏳ MS 1 · @1.64
+
+**22:30 · Inverness – Ayr United**
+
+- ⏳ MS 1 · @1.43
+
+**22:30 · Hellas Verona – AC Cesena**
+
+- ⏳ MS 1 · @1.55
+- ⏳ ↳ Korner 10.5 Alt · @1.42
+
+**22:30 · Bayern Münih – Köln**
+
+- ⏳ KG Var · @1.74
+- ⏳ ↳ Korner 9.5 Üst · @1.41
+
+**22:30 · FC Andorra – Leganes**
+
+- ⏳ MS 1 · @1.74
+- ⏳ Korner 9.5 Alt · @1.65
+
+**22:45 · Troyes – Le Havre**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.43
+
+**22:45 · Cercle Brugge – Westerlo**
+
+- ⏳ En çok korner 1 · @1.54
+
+**23:00 · Barnsley – Sheffield Wednesday**
+
+- ⏳ ÇŞ 1-X · @1.42
 
 ## 18.11.2026 Çarşamba
 
