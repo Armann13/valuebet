@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/134 tuttu** (isabet %15, beklenen %13) · +197.23 birim · 59 tahmin sonuç bekliyor
+**20/134 tuttu** (isabet %15, beklenen %13) · +197.23 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 19.11 19:09 gönderilen kupon · 4 maç, oran 242.633,69
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 20.11 20:30 Darmstadt 98 – Heidenheim · İY/MS 1/2 · @22.15
+- ⏳ 20.11 22:00 AS Nancy – Dijon · İY/MS 2/1 · @23.15
+- ⏳ 20.11 22:30 Inverness – Ayr United · İY/MS 2/1 · @23.60
+- ⏳ 20.11 22:45 Southend – Boreham Wood · İY/MS 1/2 · @20.05
 
 ## 19.11 14:53 gönderilen kupon · 4 maç, oran 229.952,02
 

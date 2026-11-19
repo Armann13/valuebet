@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**705/1241 tuttu** (isabet %57, beklenen %59) · -146.54 birim · 54 tahmin sonuç bekliyor
+**705/1241 tuttu** (isabet %57, beklenen %59) · -146.54 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,7 @@
 
 - ⏳ 2.5 Üst · @1.52
 - ⏳ En çok korner 1 · @1.54
+- ⏳ KG Var · @1.45
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
