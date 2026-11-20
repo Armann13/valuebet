@@ -8422,3 +8422,19 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-20 19:56,2026-11-20,20.11,D2,Darmstadt,Heidenheim,Darmstadt 98 – Heidenheim,D2,🟡 Tier 2 — Orta risk,En çok korner 2,0.5854525923138685,1.63,-0.045712274528394437,korner,False,,,2026-11-20 20:30,,,,,,kadro
 2026-11-20 19:56,2026-11-20,20.11,D2,Darmstadt,Heidenheim,Darmstadt 98 – Heidenheim,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.13143949123661705,7.9,0.03837198076927484,oran,,,,2026-11-20 20:30,,,,,,kadro
 2026-11-20 19:56,2026-11-20,20.11,D2,Bielefeld,Magdeburg,Arminia Bielefeld – Magdeburg,D2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08153905611348718,7.82,-0.36236458119253023,oran,,,,2026-11-20 20:30,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Red Star,Pau FC,Red Star FC – Pau,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7295674501399483,1.2,-0.12451905983206213,oran,False,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Annecy,Clermont,Annecy FC – Clermont,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7208541322046992,1.22,-0.12055795871026698,oran,False,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Metz,Boulogne,Metz – US Boulogne,F2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7172851458520163,1.22,-0.12491212206054014,oran,False,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Nancy,Dijon,AS Nancy – Dijon,F2,🟡 Tier 2 — Orta risk,MS 1,0.5760466425169781,1.6,-0.07832537197283496,oran,False,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Red Star,Pau FC,Red Star FC – Pau,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.4762141512689133,1.9,-0.09519311258906471,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Annecy,Clermont,Annecy FC – Clermont,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.42824283487006376,2.08,-0.10925490347026734,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Metz,Boulogne,Metz – US Boulogne,F2,🔴 Tier 3 — Yüksek risk,MS 1,0.4146894636842051,2.14,-0.11256454771580104,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Nancy,Dijon,AS Nancy – Dijon,F2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.40107516737551535,2.24,-0.10159162507884556,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Nancy,Dijon,AS Nancy – Dijon,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.3271328205690655,2.96,-0.03168685111556613,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Red Star,Pau FC,Red Star FC – Pau,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.2748504516129003,2.97,-0.18369415870968608,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Annecy,Clermont,Annecy FC – Clermont,F2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.24940196226446504,3.31,-0.17447950490462072,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Metz,Boulogne,Metz – US Boulogne,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.24787522811538282,3.53,-0.12500044475269867,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Nancy,Dijon,AS Nancy – Dijon,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.14862074666375924,7.31,0.08641765811207991,oran,,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Red Star,Pau FC,Red Star FC – Pau,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12243474307490787,6.12,-0.2506993723815638,oran,,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Annecy,Clermont,Annecy FC – Clermont,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.10395680187371652,6.87,-0.28581677112756754,oran,,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:23,2026-11-20,20.11,F2,Metz,Boulogne,Metz – US Boulogne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08052186207891208,8.26,-0.33488941922818616,oran,,,,2026-11-20 22:00,,,,,,kadro
