@@ -8438,3 +8438,13 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-20 21:23,2026-11-20,20.11,F2,Red Star,Pau FC,Red Star FC – Pau,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12243474307490787,6.12,-0.2506993723815638,oran,,,,2026-11-20 22:00,,,,,,kadro
 2026-11-20 21:23,2026-11-20,20.11,F2,Annecy,Clermont,Annecy FC – Clermont,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.10395680187371652,6.87,-0.28581677112756754,oran,,,,2026-11-20 22:00,,,,,,kadro
 2026-11-20 21:23,2026-11-20,20.11,F2,Metz,Boulogne,Metz – US Boulogne,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08052186207891208,8.26,-0.33488941922818616,oran,,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,F2,Guingamp,Rodez,Guingamp – Rodez AF,F2,🟡 Tier 2 — Orta risk,2.5 Üst,0.60566359056486,1.48,-0.10361788596400723,oran,False,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,F2,Guingamp,Rodez,Guingamp – Rodez AF,F2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.34065880593408604,2.61,-0.11088051651203545,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,F2,Guingamp,Rodez,Guingamp – Rodez AF,F2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.2759780988278538,3.31,-0.08651249287980389,oran,True,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,F2,Guingamp,Rodez,Guingamp – Rodez AF,F2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11852429434780001,7.7,-0.08736293352193991,oran,,,,2026-11-20 22:00,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,🟡 Tier 2 — Orta risk,MS 1,0.5486342116785582,1.67,-0.08378086649680783,oran,False,,,2026-11-20 22:30,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.35239967649524284,2.54,-0.10490482170208315,oran,True,,,2026-11-20 22:30,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.26353354497655457,3.38,-0.10925661797924557,oran,True,,,2026-11-20 22:30,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.553070189714939,1.65,-0.08743418697035066,korner,False,,,2026-11-20 22:30,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4453278193500452,2.1,-0.06481157936490511,korner,True,,,2026-11-20 22:30,,,,,,kadro
+2026-11-20 21:38,2026-11-20,20.11,SP2,Andorra,Leganes,FC Andorra – Leganes,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11833914633856599,7.37,-0.12784049148476861,oran,,,,2026-11-20 22:30,,,,,,kadro
