@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/105 tuttu** (isabet %16, beklenen %16) · -12.09 birim · 1 tahmin sonuç bekliyor
+**17/105 tuttu** (isabet %16, beklenen %16) · -12.09 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.11.2026 Cumartesi
+
+**17:00 · Como 1907 – Cagliari**
+
+- ⏳ 2-1 · @7.54
+
+**18:00 · Dunfermline – G. Morton**
+
+- ⏳ 2-1 · @6.74
+
+**20:00 · Parma – AS Roma**
+
+- ⏳ 1-2 · @7.65
 
 ## 17.11.2026 Salı
 

@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/115 tuttu** (isabet %39, beklenen %36) · +9.50 birim · 1 tahmin sonuç bekliyor
+**45/115 tuttu** (isabet %39, beklenen %36) · +9.50 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11 14:54 gönderilen kupon · 4 maç, oran 52,37
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 17:00 Como 1907 – Cagliari · MS 1 & KG Var · @2.56
+- ⏳ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82
+- ⏳ 21.11 18:00 Dunfermline – G. Morton · MS 1 & KG Var · @2.79
+- ⏳ 21.11 20:00 Parma – AS Roma · MS 2 & KG Var · @2.60
 
 ## 16.11 19:30 gönderilen kupon · 4 maç, oran 56,74
 

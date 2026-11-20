@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 6 tahmin sonuç bekliyor
+**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11 14:54 gönderilen kupon · 2 maç, oran 4,63
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 17:00 Carrarese Calcio 1908 – Virtus Entella · En çok korner 1 · @1.98
+- ⏳ 21.11 19:15 US Catanzaro 1929 – US Palermo · En çok korner 1 · @2.34
 
 ## 19.11 19:09 gönderilen kupon · 2 maç, oran 3,86
 

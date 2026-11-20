@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/92 tuttu** (isabet %34, beklenen %39) · -9.08 birim · 4 tahmin sonuç bekliyor
+**31/92 tuttu** (isabet %34, beklenen %39) · -9.08 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11 14:54 gönderilen kupon · 3 maç, oran 12,79
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
+- ⏳ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.43
+- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.35
 
 ## 19.11 14:53 gönderilen kupon · 3 maç, oran 31,75
 

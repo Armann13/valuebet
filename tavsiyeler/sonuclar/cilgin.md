@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/134 tuttu** (isabet %15, beklenen %13) · +197.23 birim · 63 tahmin sonuç bekliyor
+**20/134 tuttu** (isabet %15, beklenen %13) · +197.23 birim · 67 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11 14:54 gönderilen kupon · 4 maç, oran 221.802,24
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 17:30 Union Berlin – Leipzig · İY/MS 1/2 · @19.20
+- ⏳ 21.11 18:00 Dunfermline – G. Morton · İY/MS 2/1 · @23.60
+- ⏳ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @22.00
+- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · İY/MS 2/1 · @22.25
 
 ## 19.11 19:09 gönderilen kupon · 4 maç, oran 242.633,69
 
