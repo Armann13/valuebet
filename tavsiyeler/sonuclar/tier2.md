@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**705/1241 tuttu** (isabet %57, beklenen %59) · -146.54 birim · 209 tahmin sonuç bekliyor
+**708/1245 tuttu** (isabet %57, beklenen %59) · -146.03 birim · 208 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -138,6 +138,7 @@
 
 - ⏳ MS 2 · @1.81
 - ⏳ Korner 9.5 Alt · @1.62
+- ⏳ 2.5 Üst · @1.43
 
 **17:30 · Eintracht Frankfurt – Hoffenheim**
 
@@ -187,6 +188,7 @@
 **18:00 · Tottenham – Ipswich Town**
 
 - ⏳ KG Var · @1.55
+- ⏳ Korner 9.5 Üst · @1.50
 
 **18:00 · Barrow – Carlisle**
 
@@ -509,13 +511,13 @@
 
 **20:30 · Arminia Bielefeld – Magdeburg**
 
-- ⏳ 2.5 Üst · @1.52
-- ⏳ En çok korner 1 · @1.54
-- ⏳ KG Var · @1.45
+- ✅ 2.5 Üst · @1.52 · 1-2
+- ✅ En çok korner 1 · @1.54 · korner 7-1
+- ✅ KG Var · @1.45 · 1-2
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
-- ⏳ En çok korner 2 · @1.63
+- ❌ En çok korner 2 · @1.63 · korner 5-4
 
 **22:00 · Guingamp – Rodez AF**
 
@@ -553,6 +555,7 @@
 
 - ⏳ En çok korner 1 · @1.54
 - ⏳ KG Var · @1.42
+- ⏳ ÇŞ X-2 · @1.53
 
 **23:00 · Barnsley – Sheffield Wednesday**
 

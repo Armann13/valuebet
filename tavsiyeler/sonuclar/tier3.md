@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**411/970 tuttu** (isabet %42, beklenen %41) · -50.36 birim · 203 tahmin sonuç bekliyor
+**411/973 tuttu** (isabet %42, beklenen %41) · -53.36 birim · 206 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -80,6 +80,7 @@
 **16:00 · Stade Laval – Montpellier**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.87
+- ⏳ ↳ MS 2 · @1.91
 
 **17:00 · FC Sudtirol – Cremonese**
 
@@ -106,6 +107,7 @@
 **17:00 · Sampdoria – Benevento**
 
 - ⏳ ↳ MS 2 · @2.40
+- ⏳ ↳ MS 1 · @2.42
 
 **17:00 · Lazio – Lecce**
 
@@ -250,6 +252,7 @@
 **18:00 · Tottenham – Ipswich Town**
 
 - ⏳ ↳ MS 1 & KG Var · @2.72
+- ⏳ ↳ Korner 10.5 Üst · @1.85
 
 **18:00 · Wolverhampton – Charlton**
 
@@ -350,6 +353,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.75
 - ⏳ ↳ Korner 8.5 Alt · @2.11
+- ⏳ ↳ MS 1 · @1.98
 
 **18:15 · Vallecano – Valencia**
 
@@ -491,12 +495,12 @@
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
-- ⏳ ↳ MS 2 · @1.89
+- ❌ ↳ MS 2 · @1.89 · 3-1
 
 **20:30 · Arminia Bielefeld – Magdeburg**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.02
-- ⏳ ↳ MS 1 · @2.02
+- ❌ ↳ MS 1 & 2.5 Üst · @3.02 · 1-2
+- ❌ ↳ MS 1 · @2.02 · 1-2
 
 **22:00 · Red Star FC – Pau**
 
@@ -517,6 +521,7 @@
 **22:00 · Guingamp – Rodez AF**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.68
+- ⏳ ↳ MS 1 · @1.93
 
 **22:30 · Bayern Münih – Köln**
 
@@ -540,6 +545,7 @@
 
 - ⏳ ↳ MS 1 · @1.87
 - ⏳ ↳ MS 1 & KG Var · @3.28
+- ⏳ ↳ MS 2 · @2.81
 
 **22:45 · Troyes – Le Havre**
 

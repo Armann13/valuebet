@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**720/1328 tuttu** (isabet %54, beklenen %59) · -195.72 birim · 182 tahmin sonuç bekliyor
+**721/1330 tuttu** (isabet %54, beklenen %59) · -196.18 birim · 185 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -115,6 +115,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.60
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.04
 - ⏳ 4 En çok korner 1 · @2.82
+- ⏳ 3 En çok korner 1 · @2.82
 
 **17:30 · B. Leverkusen – Paderborn**
 
@@ -128,6 +129,8 @@
 **18:00 · Tottenham – Ipswich Town**
 
 - ⏳ 🟢 En çok korner 1 · @1.20
+- ⏳ 🟡 Korner 9.5 Üst · @1.50
+- ⏳ 🔴 ↳ Korner 10.5 Üst · @1.85
 
 **18:00 · Charleroi – St. Truidense**
 
@@ -179,6 +182,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.64
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
 - ⏳ 3 En çok korner 2 · @2.43
+- ⏳ 2 En çok korner 2 · @2.43
 
 **18:00 · Bournemouth – Nottingham Forest**
 
@@ -224,6 +228,7 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.27
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.50
+- ⏳ 2 En çok korner 1 · @2.34
 - ⏳ 2 En çok korner 1 · @2.34
 
 **20:00 · Parma – AS Roma**
@@ -330,11 +335,11 @@
 
 **20:30 · Arminia Bielefeld – Magdeburg**
 
-- ⏳ 🟡 En çok korner 1 · @1.54
+- ✅ 🟡 En çok korner 1 · @1.54 · korner 7-1
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
-- ⏳ 🟡 En çok korner 2 · @1.63
+- ❌ 🟡 En çok korner 2 · @1.63 · korner 5-4
 
 **22:30 · Hellas Verona – AC Cesena**
 

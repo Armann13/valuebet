@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**103/936 tuttu** (isabet %11, beklenen %11) · -186.20 birim · 168 tahmin sonuç bekliyor
+**103/938 tuttu** (isabet %11, beklenen %11) · -188.20 birim · 168 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -103,6 +103,7 @@
 **17:00 · Sampdoria – Benevento**
 
 - ⏳ 0-1 · @7.11
+- ⏳ 1-0 · @7.17
 
 **17:00 · Ascoli – LR Vicenza Virtus**
 
@@ -448,11 +449,11 @@
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
-- ⏳ 1-2 · @7.89
+- ❌ 1-2 · @7.89 · 3-1
 
 **20:30 · Arminia Bielefeld – Magdeburg**
 
-- ⏳ 2-1 · @8.03
+- ❌ 2-1 · @8.03 · 1-2
 
 **22:00 · AS Nancy – Dijon**
 
@@ -500,6 +501,7 @@
 **22:45 · Cercle Brugge – Westerlo**
 
 - ⏳ 2-1 · @7.97
+- ⏳ 1-2 · @9.79
 
 **22:45 · Troyes – Le Havre**
 

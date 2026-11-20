@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/92 tuttu** (isabet %34, beklenen %39) · -9.08 birim · 7 tahmin sonuç bekliyor
+**31/93 tuttu** (isabet %33, beklenen %38) · -10.08 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 20.11 18:51 gönderilen kupon · 3 maç, oran 14,78
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82
+- ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
+- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.34
 
 ## 20.11 14:54 gönderilen kupon · 3 maç, oran 12,79
 
@@ -18,7 +26,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 20.11 20:30 Darmstadt 98 – Heidenheim · MS 2 & KG Var · @3.19
+- ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · MS 2 & KG Var · @3.19 · 3-1
 - ⏳ 20.11 22:30 Inverness – Ayr United · MS 1 & KG Var · @3.18
 - ⏳ 20.11 23:00 Athletic Bilbao – Espanyol · MS 1 & KG Var · @3.13
 

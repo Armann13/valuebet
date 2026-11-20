@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**537/761 tuttu** (isabet %71, beklenen %74) · -96.32 birim · 130 tahmin sonuç bekliyor
+**537/763 tuttu** (isabet %70, beklenen %74) · -98.32 birim · 135 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -54,6 +54,11 @@
 **16:00 · Galatasaray – Samsunspor**
 
 - ⏳ MS 1 & 2.5 Üst · @1.39
+- ⏳ 2.5 Üst · @1.22
+
+**16:00 · Stade Laval – Montpellier**
+
+- ⏳ ÇŞ X-2 · @1.20
 
 **17:00 · Lazio – Lecce**
 
@@ -91,6 +96,7 @@
 
 - ⏳ 2.5 Üst · @1.31
 - ⏳ Korner 11.5 Alt · @1.33
+- ⏳ MS 2 · @1.34
 
 **18:00 · Wolverhampton – Charlton**
 
@@ -144,6 +150,7 @@
 **18:00 · West Ham – Preston**
 
 - ⏳ MS 1 & 2.5 Üst · @1.37
+- ⏳ 2.5 Üst · @1.25
 
 **18:00 · Tottenham – Ipswich Town**
 
@@ -152,6 +159,10 @@
 **18:00 · Aston Villa – Sunderland**
 
 - ⏳ Korner 11.5 Alt · @1.23
+
+**18:15 · Real Sociedad B – Cadiz**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 **18:30 · NEC Nijmegen – PSV**
 
@@ -234,6 +245,7 @@
 **22:45 · Lille – Lyon**
 
 - ⏳ ÇŞ 1-X · @1.23
+- ⏳ ÇŞ 1-2 · @1.22
 
 **22:45 · Napoli – Torino**
 
@@ -269,11 +281,11 @@
 
 **20:30 · Darmstadt 98 – Heidenheim**
 
-- ⏳ ÇŞ X-2 · @1.22
+- ❌ ÇŞ X-2 · @1.22 · 3-1
 
 **20:30 · Arminia Bielefeld – Magdeburg**
 
-- ⏳ ÇŞ 1-X · @1.25
+- ❌ ÇŞ 1-X · @1.25 · 1-2
 
 **22:00 · Red Star FC – Pau**
 
@@ -286,6 +298,10 @@
 **22:00 · Annecy FC – Clermont**
 
 - ⏳ ÇŞ 1-2 · @1.22
+
+**22:00 · Guingamp – Rodez AF**
+
+- ⏳ ÇŞ 1-X · @1.22
 
 **22:30 · Hellas Verona – AC Cesena**
 
