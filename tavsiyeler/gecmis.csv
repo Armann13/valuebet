@@ -8478,3 +8478,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-20 22:09,2026-11-20,20.11,SP1,Ath Bilbao,Espanol,Athletic Bilbao – Espanyol,SP1,🟢 Tier 1 — Düşük risk,En çok korner 1,0.7957815260437803,1.21,-0.0371043534870259,korner,False,,,2026-11-20 23:00,,,,,,kadro
 2026-11-20 22:09,2026-11-20,20.11,SP1,Ath Bilbao,Espanol,Athletic Bilbao – Espanyol,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.1481201004336643,7.24,0.07238952713972968,oran,,,,2026-11-20 23:00,,,,,,kadro
 2026-11-20 22:09,2026-11-20,20.11,E2,Barnsley,Sheffield Weds,Barnsley – Sheffield Wednesday,E2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08402727662853118,8.82,-0.2588794201363549,oran,,,,2026-11-20 23:00,,,,,,kadro
+2026-11-20 22:26,2026-11-20,20.11,EC,Southend,Boreham Wood,Southend – Boreham Wood,EC,🟢 Tier 1 — Düşük risk,2.5 Üst,0.7592859313727972,1.21,-0.08126402303891544,oran,False,,,2026-11-20 22:45,,,,,,kadro
+2026-11-20 22:26,2026-11-20,20.11,EC,Southend,Boreham Wood,Southend – Boreham Wood,EC,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.38983210615031405,2.29,-0.1072844769157808,oran,True,,,2026-11-20 22:45,,,,,,kadro
+2026-11-20 22:26,2026-11-20,20.11,EC,Southend,Boreham Wood,Southend – Boreham Wood,EC,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.3261857590291476,2.75,-0.10298916266984415,oran,True,,,2026-11-20 22:45,,,,,,kadro
+2026-11-20 22:26,2026-11-20,20.11,EC,Southend,Boreham Wood,Southend – Boreham Wood,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11995680658840649,7.47,-0.10392265478460361,oran,,,,2026-11-20 22:45,,,,,,kadro
