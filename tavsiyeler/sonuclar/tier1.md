@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**537/763 tuttu** (isabet %70, beklenen %74) · -98.32 birim · 135 tahmin sonuç bekliyor
+**545/774 tuttu** (isabet %70, beklenen %74) · -99.61 birim · 124 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -289,23 +289,23 @@
 
 **22:00 · Red Star FC – Pau**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 2-1
 
 **22:00 · Metz – US Boulogne**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 2-1
 
 **22:00 · Annecy FC – Clermont**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 4-2
 
 **22:00 · Guingamp – Rodez AF**
 
-- ⏳ ÇŞ 1-X · @1.22
+- ❌ ÇŞ 1-X · @1.22 · 1-3
 
 **22:30 · Hellas Verona – AC Cesena**
 
-- ⏳ Korner 11.5 Alt · @1.22
+- ❌ Korner 11.5 Alt · @1.22 · korner 11-1
 
 **22:30 · Bayern Münih – Köln**
 
@@ -313,21 +313,21 @@
 
 **22:45 · Southend – Boreham Wood**
 
-- ⏳ 2.5 Üst · @1.21
+- ✅ 2.5 Üst · @1.21 · 2-3
 
 **22:45 · Troyes – Le Havre**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ Korner 10.5 Alt · @1.23
+- ✅ ÇŞ 1-2 · @1.21 · 3-1
+- ✅ Korner 10.5 Alt · @1.23 · korner 7-0
 
 **22:45 · Cercle Brugge – Westerlo**
 
-- ⏳ ÇŞ 1-X · @1.22
+- ✅ ÇŞ 1-X · @1.22 · 1-0
 
 **23:00 · Athletic Bilbao – Espanyol**
 
-- ⏳ MS 1 · @1.32
-- ⏳ En çok korner 1 · @1.20
+- ❌ MS 1 · @1.32 · 0-1
+- ✅ En çok korner 1 · @1.20 · korner 9-2
 
 ## 17.11.2026 Salı
 

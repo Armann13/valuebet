@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**721/1330 tuttu** (isabet %54, beklenen %59) · -196.18 birim · 185 tahmin sonuç bekliyor
+**726/1338 tuttu** (isabet %54, beklenen %59) · -196.57 birim · 177 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -343,8 +343,8 @@
 
 **22:30 · Hellas Verona – AC Cesena**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
+- ❌ 🟢 Korner 11.5 Alt · @1.22 · korner 11-1
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.42 · korner 11-1
 
 **22:30 · Bayern Münih – Köln**
 
@@ -355,21 +355,21 @@
 
 **22:30 · FC Andorra – Leganes**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.65
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
+- ✅ 🟡 Korner 9.5 Alt · @1.65 · korner 7-1
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.10 · korner 7-1
 
 **22:45 · Troyes – Le Havre**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.23
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.43
+- ✅ 🟢 Korner 10.5 Alt · @1.23 · korner 7-0
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.43 · korner 7-0
 
 **22:45 · Cercle Brugge – Westerlo**
 
-- ⏳ 🟡 En çok korner 1 · @1.54
+- ❌ 🟡 En çok korner 1 · @1.54 · korner 2-4
 
 **23:00 · Athletic Bilbao – Espanyol**
 
-- ⏳ 🟢 En çok korner 1 · @1.20
+- ✅ 🟢 En çok korner 1 · @1.20 · korner 9-2
 
 ## 17.11.2026 Salı
 

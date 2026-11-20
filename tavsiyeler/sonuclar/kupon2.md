@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/56 tuttu** (isabet %46, beklenen %50) · -1.93 birim · 10 tahmin sonuç bekliyor
+**26/60 tuttu** (isabet %43, beklenen %49) · -5.93 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,17 +22,17 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 19.11 19:09 gönderilen kupon · 2 maç, oran 3,86
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
-- ⏳ 20.11 22:30 Hellas Verona – AC Cesena · MS 1 & 2.5 Üst · @2.23
-- ⏳ 20.11 22:30 FC Andorra – Leganes · MS 1 · @1.73
+- ❌ 20.11 22:30 Hellas Verona – AC Cesena · MS 1 & 2.5 Üst · @2.23 · 0-2
+- ❌ 20.11 22:30 FC Andorra – Leganes · MS 1 · @1.73 · 1-3
 
 ## 19.11 14:53 gönderilen kupon · 2 maç, oran 5,68
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
-- ⏳ 20.11 22:30 Hellas Verona – AC Cesena · MS 1 & 2.5 Üst · @2.30
-- ⏳ 20.11 22:45 Cercle Brugge – Westerlo · MS 1 & 2.5 Üst · @2.47
+- ❌ 20.11 22:30 Hellas Verona – AC Cesena · MS 1 & 2.5 Üst · @2.30 · 0-2
+- ❌ 20.11 22:45 Cercle Brugge – Westerlo · MS 1 & 2.5 Üst · @2.47 · 1-0
 
 ## 17.11 19:10 gönderilen kupon · 2 maç, oran 2,96
 

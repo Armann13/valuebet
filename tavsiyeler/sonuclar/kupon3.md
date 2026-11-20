@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/93 tuttu** (isabet %33, beklenen %38) · -10.08 birim · 9 tahmin sonuç bekliyor
+**31/95 tuttu** (isabet %33, beklenen %38) · -12.08 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,11 +24,11 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 19.11 14:53 gönderilen kupon · 3 maç, oran 31,75
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · MS 2 & KG Var · @3.19 · 3-1
-- ⏳ 20.11 22:30 Inverness – Ayr United · MS 1 & KG Var · @3.18
-- ⏳ 20.11 23:00 Athletic Bilbao – Espanyol · MS 1 & KG Var · @3.13
+- ❌ 20.11 22:30 Inverness – Ayr United · MS 1 & KG Var · @3.18 · 0-0
+- ❌ 20.11 23:00 Athletic Bilbao – Espanyol · MS 1 & KG Var · @3.13 · 0-1
 
 ## 17.11 19:10 gönderilen kupon · 3 maç, oran 18,21
 

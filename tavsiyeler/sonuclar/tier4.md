@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**191/664 tuttu** (isabet %29, beklenen %28) · -66.98 birim · 138 tahmin sonuç bekliyor
+**196/678 tuttu** (isabet %29, beklenen %28) · -65.67 birim · 124 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -373,59 +373,59 @@
 
 **22:00 · AS Nancy – Dijon**
 
-- ⏳ ↳ MS 1 & KG Var · @3.27
+- ❌ ↳ MS 1 & KG Var · @3.27 · 1-0
 
 **22:00 · Red Star FC – Pau**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.03
+- ✅ ↳ MS 1 & 2.5 Üst · @3.03 · 2-1
 - ⏳ ↳ İY/MS 1/1 · @2.97
 
 **22:00 · Metz – US Boulogne**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.16
+- ✅ ↳ MS 1 & 2.5 Üst · @3.16 · 2-1
 - ⏳ ↳ İY/MS 1/1 · @3.08
 
 **22:00 · Guingamp – Rodez AF**
 
-- ⏳ ↳ MS 1 & KG Var · @3.37
+- ❌ ↳ MS 1 & KG Var · @3.37 · 1-3
 
 **22:00 · Annecy FC – Clermont**
 
 - ⏳ ↳ İY/MS 1/1 · @3.05
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.21
+- ✅ ↳ MS 1 & 2.5 Üst · @3.21 · 4-2
 
 **22:30 · Inverness – Ayr United**
 
-- ⏳ ↳ MS 1 & KG Var · @3.18
+- ❌ ↳ MS 1 & KG Var · @3.18 · 0-0
 
 **22:30 · Hellas Verona – AC Cesena**
 
-- ⏳ ↳ MS 1 & KG Var · @3.17
+- ❌ ↳ MS 1 & KG Var · @3.17 · 0-2
 
 **22:30 · FC Andorra – Leganes**
 
-- ⏳ ↳ MS 1 & KG Var · @3.57
+- ❌ ↳ MS 1 & KG Var · @3.57 · 1-3
 
 **22:45 · Cercle Brugge – Westerlo**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.47
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.91
+- ❌ ↳ MS 1 & 2.5 Üst · @2.47 · 1-0
+- ❌ ↳ MS 2 & 2.5 Üst · @3.91 · 1-0
 
 **22:45 · Southend – Boreham Wood**
 
-- ⏳ ↳ MS 2 & KG Var · @2.69
+- ✅ ↳ MS 2 & KG Var · @2.69 · 2-3
 
 **22:45 · Troyes – Le Havre**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.22
+- ✅ ↳ MS 1 & 2.5 Üst · @3.22 · 3-1
 
 **23:00 · Athletic Bilbao – Espanyol**
 
-- ⏳ ↳ MS 1 & KG Var · @3.13
+- ❌ ↳ MS 1 & KG Var · @3.13 · 0-1
 
 **23:00 · Barnsley – Sheffield Wednesday**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.44
+- ❌ ↳ MS 1 & 2.5 Üst · @3.44 · 1-2
 
 ## 17.11.2026 Salı
 

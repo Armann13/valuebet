@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**708/1245 tuttu** (isabet %57, beklenen %59) · -146.03 birim · 208 tahmin sonuç bekliyor
+**712/1257 tuttu** (isabet %57, beklenen %59) · -151.83 birim · 196 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -521,20 +521,20 @@
 
 **22:00 · Guingamp – Rodez AF**
 
-- ⏳ 2.5 Üst · @1.48
+- ✅ 2.5 Üst · @1.48 · 1-3
 
 **22:00 · AS Nancy – Dijon**
 
-- ⏳ MS 1 · @1.64
+- ✅ MS 1 · @1.64 · 1-0
 
 **22:30 · Inverness – Ayr United**
 
-- ⏳ MS 1 · @1.43
+- ❌ MS 1 · @1.43 · 0-0
 
 **22:30 · Hellas Verona – AC Cesena**
 
-- ⏳ MS 1 · @1.55
-- ⏳ ↳ Korner 10.5 Alt · @1.42
+- ❌ MS 1 · @1.55 · 0-2
+- ❌ ↳ Korner 10.5 Alt · @1.42 · korner 11-1
 
 **22:30 · Bayern Münih – Köln**
 
@@ -544,22 +544,22 @@
 
 **22:30 · FC Andorra – Leganes**
 
-- ⏳ MS 1 · @1.74
-- ⏳ Korner 9.5 Alt · @1.65
+- ❌ MS 1 · @1.74 · 1-3
+- ✅ Korner 9.5 Alt · @1.65 · korner 7-1
 
 **22:45 · Troyes – Le Havre**
 
-- ⏳ ↳ Korner 9.5 Alt · @1.43
+- ✅ ↳ Korner 9.5 Alt · @1.43 · korner 7-0
 
 **22:45 · Cercle Brugge – Westerlo**
 
-- ⏳ En çok korner 1 · @1.54
-- ⏳ KG Var · @1.42
-- ⏳ ÇŞ X-2 · @1.53
+- ❌ En çok korner 1 · @1.54 · korner 2-4
+- ❌ KG Var · @1.42 · 1-0
+- ❌ ÇŞ X-2 · @1.53 · 1-0
 
 **23:00 · Barnsley – Sheffield Wednesday**
 
-- ⏳ ÇŞ 1-X · @1.42
+- ❌ ÇŞ 1-X · @1.42 · 1-2
 
 ## 18.11.2026 Çarşamba
 
