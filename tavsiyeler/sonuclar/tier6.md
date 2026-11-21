@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**122/1059 tuttu** (isabet %12, beklenen %11) · -173.27 birim · 106 tahmin sonuç bekliyor
+**122/1068 tuttu** (isabet %11, beklenen %11) · -182.27 birim · 97 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -538,11 +538,11 @@
 
 **20:30 · Newcastle United – Arsenal**
 
-- ⏳ 1-2 · @7.16
+- ❌ 1-2 · @7.16 · 2-2
 
 **20:30 · Castellon – Club Deportivo Eldense**
 
-- ⏳ 2-1 · @7.21
+- ❌ 2-1 · @7.21 · 2-0
 
 **20:30 · Schalke 04 – Stuttgart**
 
@@ -550,16 +550,16 @@
 
 **20:30 · Yeovil Town – Forest Green**
 
-- ⏳ 2-1 · @7.37
-- ⏳ 1-2 · @7.54
+- ❌ 2-1 · @7.37 · 3-2
+- ❌ 1-2 · @7.54 · 3-2
 
 **20:30 · Sevilla – Real Betis**
 
-- ⏳ 1-2 · @8.21
+- ❌ 1-2 · @8.21 · 1-1
 
 **20:45 · Feyenoord – Excelsior**
 
-- ⏳ 2-1 · @8.35
+- ❌ 2-1 · @8.35 · 2-3
 
 **20:45 · Dundee – Hearts**
 
@@ -567,15 +567,15 @@
 
 **20:45 · Utrecht – SC Cambuur**
 
-- ⏳ 2-1 · @7.86
+- ❌ 2-1 · @7.86 · 2-3
 
 **21:30 · Empoli – AC Pisa**
 
-- ⏳ 1-2 · @7.45
+- ❌ 1-2 · @7.45 · 0-1
 
 **22:00 · Reims – St Etienne**
 
-- ⏳ 1-2 · @7.96
+- ❌ 1-2 · @7.96 · 0-1
 
 **22:30 · Saint Pauli – Bochum**
 

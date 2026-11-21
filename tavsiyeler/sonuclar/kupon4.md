@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/123 tuttu** (isabet %39, beklenen %36) · +9.11 birim · 9 tahmin sonuç bekliyor
+**48/124 tuttu** (isabet %39, beklenen %37) · +8.11 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,7 +10,7 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.11 20:45 Feyenoord – Excelsior · MS 1 & KG Var · @2.27
+- ❌ 21.11 20:45 Feyenoord – Excelsior · MS 1 & KG Var · @2.27 · 2-3
 - ⏳ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.81
 - ⏳ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58
 - ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39

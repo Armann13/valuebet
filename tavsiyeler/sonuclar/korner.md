@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**783/1449 tuttu** (isabet %54, beklenen %59) · -218.33 birim · 166 tahmin sonuç bekliyor
+**789/1460 tuttu** (isabet %54, beklenen %59) · -220.83 birim · 155 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -460,32 +460,32 @@
 
 **20:30 · Newcastle United – Arsenal**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.31
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.55
+- ✅ 🟢 Korner 11.5 Alt · @1.31 · korner 6-3
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.55 · korner 6-3
 
 **20:30 · Castellon – Club Deportivo Eldense**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.28
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.50
+- ✅ 🟢 Korner 11.5 Alt · @1.28 · korner 9-1
+- ✅ 🟡 ↳ Korner 10.5 Alt · @1.50 · korner 9-1
 
 **20:30 · Sevilla – Real Betis**
 
-- ⏳ 🟡 En çok korner 1 · @1.64
+- ✅ 🟡 En çok korner 1 · @1.64 · korner 7-2
 
 **20:45 · Feyenoord – Excelsior**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.66
+- ✅ 🟢 Korner 12.5 Alt · @1.22 · korner 8-4
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.41 · korner 8-4
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.66 · korner 8-4
 
 **20:45 · Utrecht – SC Cambuur**
 
-- ⏳ 🟢 En çok korner 1 · @1.34
+- ❌ 🟢 En çok korner 1 · @1.34 · korner 3-3
 
 **21:30 · Empoli – AC Pisa**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.68
+- ❌ 🟢 Korner 11.5 Alt · @1.20 · korner 5-11
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.68 · korner 5-11
 
 **22:30 · Saint Pauli – Bochum**
 

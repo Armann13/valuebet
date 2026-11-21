@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 14 tahmin sonuç bekliyor
+**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 15 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -50,6 +50,7 @@
 **22:45 · Monaco – AJ Auxerre**
 
 - ⏳ MS 1 & KG Var · @2.85
+- ⏳ KG Var · @1.76
 
 ## 15.11.2026 Pazar
 

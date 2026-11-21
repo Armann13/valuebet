@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**213/752 tuttu** (isabet %28, beklenen %28) · -80.86 birim · 95 tahmin sonuç bekliyor
+**214/760 tuttu** (isabet %28, beklenen %28) · -85.35 birim · 87 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -426,16 +426,16 @@
 
 **20:30 · Newcastle United – Arsenal**
 
-- ⏳ ↳ MS 2 & KG Var · @3.01
+- ❌ ↳ MS 2 & KG Var · @3.01 · 2-2
 
 **20:30 · Sevilla – Real Betis**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.46
+- ❌ ↳ MS 2 & 2.5 Üst · @3.46 · 1-1
 
 **20:30 · Yeovil Town – Forest Green**
 
-- ⏳ ↳ MS 1 & KG Var · @3.51
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.05
+- ✅ ↳ MS 1 & KG Var · @3.51 · 3-2
+- ❌ ↳ MS 2 & 2.5 Üst · @3.05 · 3-2
 
 **20:30 · Montrose – Alloa**
 
@@ -447,16 +447,16 @@
 
 **20:45 · Utrecht – SC Cambuur**
 
-- ⏳ ↳ MS 1 & KG Var · @2.84
+- ❌ ↳ MS 1 & KG Var · @2.84 · 2-3
 
 **21:30 · Empoli – AC Pisa**
 
-- ⏳ ↳ MS 2 & KG Var · @3.35
+- ❌ ↳ MS 2 & KG Var · @3.35 · 0-1
 
 **22:00 · Reims – St Etienne**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.16
-- ⏳ ↳ MS 2 & KG Var · @3.86
+- ❌ ↳ MS 2 & 2.5 Üst · @3.16 · 0-1
+- ❌ ↳ MS 2 & KG Var · @3.86 · 0-1
 
 **22:30 · Saint Pauli – Bochum**
 
