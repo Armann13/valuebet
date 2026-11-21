@@ -8932,3 +8932,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-21 19:51,2026-11-21,21.11,N1,Feyenoord,Excelsior,Feyenoord – Excelsior,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.549709207944918,1.66,-0.08748271481143621,korner,True,,,2026-11-21 20:45,,,,,,kadro
 2026-11-21 19:51,2026-11-21,21.11,N1,Feyenoord,Excelsior,Feyenoord – Excelsior,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09402378778705803,8.3,-0.2196025613674183,piyasa,,,,2026-11-21 20:45,,,,,,kadro
 2026-11-21 19:51,2026-11-21,21.11,N1,Utrecht,Cambuur,Utrecht – SC Cambuur,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08922297063429521,7.89,-0.29603076169541076,piyasa,,,,2026-11-21 20:45,,,,,,kadro
+2026-11-21 20:56,2026-11-21,21.11,I2,Empoli,Pisa,Empoli – AC Pisa,I2,🟡 Tier 2 — Orta risk,KG Var,0.5788513260030763,1.52,-0.12014598447532399,piyasa,False,,,2026-11-21 21:30,,,,,,kadro
+2026-11-21 20:56,2026-11-21,21.11,I2,Empoli,Pisa,Empoli – AC Pisa,I2,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.271837908531028,3.2,-0.1301186927007103,piyasa,True,,,2026-11-21 21:30,,,,,,kadro
+2026-11-21 20:56,2026-11-21,21.11,I2,Empoli,Pisa,Empoli – AC Pisa,I2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7424555706576283,1.2,-0.10905331521084605,korner,False,,,2026-11-21 21:30,,,,,,kadro
+2026-11-21 20:56,2026-11-21,21.11,I2,Empoli,Pisa,Empoli – AC Pisa,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5553034698358823,1.68,-0.06709017067571776,korner,True,,,2026-11-21 21:30,,,,,,kadro
+2026-11-21 20:56,2026-11-21,21.11,I2,Empoli,Pisa,Empoli – AC Pisa,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12945143473262766,7.37,-0.04594292602053418,piyasa,,,,2026-11-21 21:30,,,,,,kadro
