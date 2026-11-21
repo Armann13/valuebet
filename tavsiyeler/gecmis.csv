@@ -8995,3 +8995,25 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-21 22:04,2026-11-21,21.11,SP2,Tenerife,Mallorca,Tenerife – Mallorca,SP2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4876874386936061,2.01,-0.01974824822585186,korner,True,,,2026-11-21 23:00,,,,,,kadro
 2026-11-21 22:04,2026-11-21,21.11,SP1,Real Madrid,Celta,Real Madrid – Celta Vigo,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12578651083140324,8.7,0.09434264423320804,piyasa,,,,2026-11-21 23:00,,,,,,kadro
 2026-11-21 22:04,2026-11-21,21.11,SP2,Tenerife,Mallorca,Tenerife – Mallorca,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.11766231730598896,5.5,-0.35285725481706076,piyasa,,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,🟡 Tier 2 — Orta risk,KG Var,0.5694583468917478,1.79,0.019330440936228488,piyasa,False,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.35407633874223465,2.86,0.012658328802791052,piyasa,True,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5059170159374253,1.74,-0.11970439226887997,korner,False,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.399840133506423,2.26,-0.09636129827548412,korner,True,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12196565083128913,7.31,-0.10843109242327653,piyasa,,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,💎 Değeri pozitif olanlar,KG Var,0.5694583468917478,1.79,0.019330440936228488,piyasa,,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,F1,Monaco,Auxerre,Monaco – AJ Auxerre,F1,💎 Değeri pozitif olanlar,MS 1 & KG Var,0.35407633874223465,2.86,0.012658328802791052,piyasa,,,,2026-11-21 22:45,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,🟢 Tier 1 — Düşük risk,ÇŞ 1-X,0.7208823897931601,1.22,-0.12052348445234473,piyasa,False,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.6220101546384424,1.41,-0.12296568195979618,piyasa,False,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,SC0,Motherwell,Rangers,Motherwell – Rangers,SC0,🟡 Tier 2 — Orta risk,KG Var,0.6015011455060808,1.46,-0.12180832756112203,piyasa,False,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,🔴 Tier 3 — Yüksek risk,MS 1,0.4607075360859534,1.9,-0.12465568143668859,piyasa,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,🔴 Tier 3 — Yüksek risk,MS 1,0.3810214038263747,2.38,-0.09316905889322824,piyasa,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,SC0,Motherwell,Rangers,Motherwell – Rangers,SC0,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.343717102389336,2.53,-0.13039573095498003,piyasa,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.31699064107707725,2.64,-0.163144707556516,piyasa,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,🟣 Tier 4 — Çok yüksek risk,MS 1 & 2.5 Üst,0.2873854678181527,3.08,-0.11485275912008963,piyasa,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,🟢 Tier 1 — Düşük risk,Korner 12.5 Alt,0.7431205114790438,1.2,-0.10825538622514752,korner,False,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5898947191499051,1.63,-0.03847160778565473,korner,False,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5685073730550843,1.64,-0.06764790818966193,korner,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4880312377996191,2.04,-0.00441627488877705,korner,True,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,SC0,Motherwell,Rangers,Motherwell – Rangers,SC0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.13959044012810198,7.27,0.014822499731301342,piyasa,,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Groningen,Heerenveen,Groningen – Heerenveen,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08559435056776016,9.17,-0.21509980529363937,piyasa,,,,2026-11-21 23:00,,,,,,kadro
+2026-11-21 22:19,2026-11-21,21.11,N1,Telstar,Zwolle,Telstar – Zwolle,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08296193439769116,7.84,-0.34957843432210134,piyasa,,,,2026-11-21 23:00,,,,,,kadro
