@@ -2,36 +2,45 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**45/116 tuttu** (isabet %39, beklenen %36) · +8.50 birim · 12 tahmin sonuç bekliyor
+**48/123 tuttu** (isabet %39, beklenen %36) · +9.11 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
-## 21.11 14:21 gönderilen kupon · 4 maç, oran 44,28
+## 21.11 18:01 gönderilen kupon · 4 maç, oran 39,33
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.87
-- ⏳ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.41
+- ⏳ 21.11 20:45 Feyenoord – Excelsior · MS 1 & KG Var · @2.27
+- ⏳ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.81
+- ⏳ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58
+- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39
+
+## 21.11 14:21 gönderilen kupon · 4 maç, oran 44,28
+
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+
+- ❌ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.87 · korner 7-7
+- ✅ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.41 · korner 4-6
 - ⏳ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91
 - ⏳ 22.11 16:00 Kasımpaşa – Alanyaspor · En çok korner 2 · @2.20
 
 ## 20.11 18:51 gönderilen kupon · 4 maç, oran 47,35
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 21.11 15:30 Southampton – Derby County · MS 1 & KG Var · @2.52 · 2-0
-- ⏳ 21.11 17:00 Como 1907 – Cagliari · MS 1 & KG Var · @2.59
+- ❌ 21.11 17:00 Como 1907 – Cagliari · MS 1 & KG Var · @2.59 · 2-0
 - ⏳ 21.11 18:00 Dunfermline – G. Morton · MS 1 & KG Var · @2.79
-- ⏳ 21.11 20:00 Parma – AS Roma · MS 2 & KG Var · @2.60
+- ✅ 21.11 20:00 Parma – AS Roma · MS 2 & KG Var · @2.60 · 1-5
 
 ## 20.11 14:54 gönderilen kupon · 4 maç, oran 52,37
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.11 17:00 Como 1907 – Cagliari · MS 1 & KG Var · @2.56
-- ⏳ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82
+- ❌ 21.11 17:00 Como 1907 – Cagliari · MS 1 & KG Var · @2.56 · 2-0
+- ❌ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82 · korner 7-7
 - ⏳ 21.11 18:00 Dunfermline – G. Morton · MS 1 & KG Var · @2.79
-- ⏳ 21.11 20:00 Parma – AS Roma · MS 2 & KG Var · @2.60
+- ✅ 21.11 20:00 Parma – AS Roma · MS 2 & KG Var · @2.60 · 1-5
 
 ## 16.11 19:30 gönderilen kupon · 4 maç, oran 56,74
 

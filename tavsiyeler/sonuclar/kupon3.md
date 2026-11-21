@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/95 tuttu** (isabet %33, beklenen %38) · -12.08 birim · 10 tahmin sonuç bekliyor
+**32/97 tuttu** (isabet %33, beklenen %38) · -11.65 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.11 18:01 gönderilen kupon · 3 maç, oran 19,46
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91
+- ⏳ 22.11 16:00 Kasımpaşa – Alanyaspor · En çok korner 2 · @2.20
+- ⏳ 22.11 23:00 Getafe – Atletico Madrid · En çok korner 1 · @3.04
 
 ## 21.11 14:21 gönderilen kupon · 3 maç, oran 18,81
 
@@ -18,16 +26,16 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82
+- ❌ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82 · korner 7-7
 - ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
 - ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.34
 
 ## 20.11 14:54 gönderilen kupon · 3 maç, oran 12,79
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
-- ⏳ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.43
+- ✅ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.43 · korner 4-6
 - ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.35
 
 ## 19.11 14:53 gönderilen kupon · 3 maç, oran 31,75

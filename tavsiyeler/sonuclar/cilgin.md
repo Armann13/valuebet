@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/138 tuttu** (isabet %14, beklenen %13) · +193.23 birim · 69 tahmin sonuç bekliyor
+**20/139 tuttu** (isabet %14, beklenen %13) · +192.23 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.11 18:01 gönderilen kupon · 6 maç, oran 990.944,62
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 21.11 19:15 US Catanzaro 1929 – US Palermo · İY/MS 1/2 · @22.10
+- ⏳ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @21.50
+- ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.00
+- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45
+- ⏳ 22.11 20:00 Olympiacos – POT Iraklis · 2.5 Alt · @2.23
+- ⏳ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18
 
 ## 21.11 14:21 gönderilen kupon · 6 maç, oran 861.105,82
 

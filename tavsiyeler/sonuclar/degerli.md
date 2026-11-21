@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 11 tahmin sonuç bekliyor
+**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -37,9 +37,15 @@
 - ⏳ MS 1 & KG Var · @2.24
 - ⏳ KG Var · @1.74
 
+**20:30 · Montrose – Alloa**
+
+- ⏳ MS 2 & 2.5 Üst · @4.02
+
 **22:45 · RC Lens – Toulouse**
 
 - ⏳ MS 1 & 2.5 Üst · @2.96
+- ⏳ MS 1 & KG Var · @3.84
+- ⏳ MS 1 · @1.98
 
 **22:45 · Monaco – AJ Auxerre**
 
