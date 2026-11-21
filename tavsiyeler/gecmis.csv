@@ -8888,3 +8888,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-21 18:01,2026-11-21,21.11,I2,Catanzaro,Palermo,US Catanzaro 1929 – US Palermo,I2,🎲 Çılgın kupon,İY/MS 1/2,0.05218272455365047,22.1,0.1532382126356755,piyasa,,,,2026-11-21 19:15,,,,,,
 2026-11-21 18:01,2026-11-22,22.11,B1,Lommel SK,Standard,Lommel SK – Standard Liege,B1,🎲 Çılgın kupon,2.5 Alt,0.557556246803476,2.18,0.2154726180315778,piyasa,,,,2026-11-22 21:15,,,,,,
 2026-11-21 18:01,2026-11-22,22.11,G1,Olympiakos,Iraklis,Olympiacos – POT Iraklis,G1,🎲 Çılgın kupon,2.5 Alt,0.4770062991227424,2.23,0.06372404704371548,piyasa,,,,2026-11-22 20:00,,,,,,
+2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🟡 Tier 2 — Orta risk,KG Var,0.5226138333567738,1.74,-0.09065192995921356,piyasa,False,,,2026-11-21 20:00,,,,,,kadro
+2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.3613256438578258,2.38,-0.1400449676183747,piyasa,True,,,2026-11-21 20:00,,,,,,kadro
+2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7569989929050353,1.21,-0.08403121858490736,korner,False,,,2026-11-21 20:00,,,,,,kadro
+2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6725135794584765,1.4,-0.05848098875813301,korner,True,,,2026-11-21 20:00,,,,,,kadro
+2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1500433808855274,8.04,0.20634878231964016,piyasa,,,,2026-11-21 20:00,,,,,,kadro
