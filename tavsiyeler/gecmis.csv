@@ -8893,3 +8893,19 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7569989929050353,1.21,-0.08403121858490736,korner,False,,,2026-11-21 20:00,,,,,,kadro
 2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6725135794584765,1.4,-0.05848098875813301,korner,True,,,2026-11-21 20:00,,,,,,kadro
 2026-11-21 19:25,2026-11-21,21.11,I1,Parma,Roma,Parma – AS Roma,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.1500433808855274,8.04,0.20634878231964016,piyasa,,,,2026-11-21 20:00,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,SP1,Sevilla,Betis,Sevilla – Real Betis,SP1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7201654722973817,1.22,-0.12139812379719439,piyasa,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,E0,Newcastle,Arsenal,Newcastle United – Arsenal,E0,🟡 Tier 2 — Orta risk,KG Var,0.539729520135934,1.65,-0.10944629177570897,piyasa,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,🟡 Tier 2 — Orta risk,MS 2,0.5311757047259165,1.77,-0.05981900263512785,piyasa,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,SP1,Sevilla,Betis,Sevilla – Real Betis,SP1,🔴 Tier 3 — Yüksek risk,MS 2,0.4045996680343144,2.35,-0.049190780119361066,piyasa,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.3957793177169981,2.35,-0.0699186033650544,piyasa,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,E0,Newcastle,Arsenal,Newcastle United – Arsenal,E0,🔴 Tier 3 — Yüksek risk,MS 2 & KG Var,0.295837071315197,2.98,-0.11840552748071298,piyasa,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.3024593018579539,2.94,-0.11076965253761561,piyasa,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,SP1,Sevilla,Betis,Sevilla – Real Betis,SP1,🟣 Tier 4 — Çok yüksek risk,MS 2 & 2.5 Üst,0.2467992874342733,3.77,-0.06956668637278973,piyasa,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7277935729358902,1.23,-0.10481390528885504,korner,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,E0,Newcastle,Arsenal,Newcastle United – Arsenal,E0,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7085256000591222,1.25,-0.1143429999260972,korner,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6395029004653219,1.42,-0.09190588133924293,korner,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,E0,Newcastle,Arsenal,Newcastle United – Arsenal,E0,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6183446056917126,1.46,-0.09721687569009962,korner,True,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,SP1,Sevilla,Betis,Sevilla – Real Betis,SP1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5911609531332067,1.63,-0.03640764639287308,korner,False,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,E0,Newcastle,Arsenal,Newcastle United – Arsenal,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.12154304857537945,7.14,-0.1321826331717908,piyasa,,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,D1,Schalke 04,Stuttgart,Schalke 04 – Stuttgart,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.10961433147493581,7.78,-0.14720050112499938,piyasa,,,,2026-11-21 20:30,,,,,,kadro
+2026-11-21 19:38,2026-11-21,21.11,SP1,Sevilla,Betis,Sevilla – Real Betis,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.0877556004206536,8.62,-0.24354672437396607,piyasa,,,,2026-11-21 20:30,,,,,,kadro
