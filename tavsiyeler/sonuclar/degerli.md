@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 6 tahmin sonuç bekliyor
+**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 11 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,16 +23,27 @@
 **20:30 · Girona – Eibar**
 
 - ⏳ 2.5 Alt · @1.90
+- ⏳ KG Yok · @1.96
 
 **21:15 · Lommel SK – Standard Liege**
 
 - ⏳ 2.5 Alt · @2.18
+- ⏳ KG Yok · @2.33
 
 ## 21.11.2026 Cumartesi
 
 **18:00 · Ross County – Cove Rangers**
 
 - ⏳ MS 1 & KG Var · @2.24
+- ⏳ KG Var · @1.74
+
+**22:45 · RC Lens – Toulouse**
+
+- ⏳ MS 1 & 2.5 Üst · @2.96
+
+**22:45 · Monaco – AJ Auxerre**
+
+- ⏳ MS 1 & KG Var · @2.85
 
 ## 15.11.2026 Pazar
 

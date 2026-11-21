@@ -2,9 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/105 tuttu** (isabet %16, beklenen %16) · -12.09 birim · 4 tahmin sonuç bekliyor
+**17/105 tuttu** (isabet %16, beklenen %16) · -12.09 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11.2026 Pazar
+
+**20:00 · Olympiacos – POT Iraklis**
+
+- ⏳ 2-0 · @4.53
+
+**21:15 · Lommel SK – Standard Liege**
+
+- ⏳ 0-1 · @9.88
+
+**23:00 · Getafe – Atletico Madrid**
+
+- ⏳ 0-1 · @5.12
 
 ## 21.11.2026 Cumartesi
 

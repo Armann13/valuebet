@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**26/60 tuttu** (isabet %43, beklenen %49) · -5.93 birim · 6 tahmin sonuç bekliyor
+**26/60 tuttu** (isabet %43, beklenen %49) · -5.93 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.11 14:21 gönderilen kupon · 2 maç, oran 4,19
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 19:15 US Catanzaro 1929 – US Palermo · En çok korner 1 · @2.34
+- ⏳ 22.11 15:30 SK Beveren – KAA Gent · En çok korner 1 · @1.79
 
 ## 20.11 18:51 gönderilen kupon · 2 maç, oran 5,69
 

@@ -2,51 +2,162 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**196/678 tuttu** (isabet %29, beklenen %28) · -65.67 birim · 124 tahmin sonuç bekliyor
+**199/691 tuttu** (isabet %29, beklenen %28) · -69.69 birim · 149 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11.2026 Pazar
+
+**13:30 · Erzurumspor FK – Göztepe**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.68
+
+**14:15 · Twente – Willem II**
+
+- ⏳ İY/MS X/1 · @4.23
+
+**14:30 · Juventus – Venezia**
+
+- ⏳ ↳ MS 1 & KG Var · @2.79
+
+**15:00 · Burnley – Blackburn Rovers**
+
+- ⏳ ↳ MS 1 & KG Var · @3.36
+
+**15:30 · E. Cottbus – Hertha Berlin**
+
+- ⏳ ↳ MS 2 & KG Var · @2.39
+
+**15:30 · Kaiserslautern – Dynamo Dresden**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.97
+
+**15:30 · SK Beveren – KAA Gent**
+
+- ⏳ ↳ MS 2 & KG Var · @3.72
+
+**15:30 · Karlsruhe – Osnabruck**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.80
+
+**16:00 · Konyaspor – Beşiktaş**
+
+- ⏳ ↳ MS 2 & KG Var · @3.04
+
+**16:00 · Cordoba – Real Oviedo**
+
+- ⏳ ↳ MS 1 & KG Var · @3.24
+
+**16:30 · Sparta Rotterdam – AZ Alkmaar**
+
+- ⏳ ↳ MS 2 & KG Var · @2.71
+
+**17:00 · Paris – Angers**
+
+- ⏳ ↳ MS 1 & KG Var · @2.71
+
+**17:00 · AS Avellino 1912 – Mantova 1911**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.53
+
+**17:00 · Bologna – Udinese**
+
+- ⏳ ↳ MS 1 & KG Var · @3.48
+
+**17:00 · Sassuolo – Genoa**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.91
+
+**17:30 · Augsburg – Mainz**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.10
+
+**18:00 · Kortrijk – Union Saint Gilloise**
+
+- ⏳ ↳ MS 2 & KG Var · @2.79
+
+**18:15 · Santander – Real Sociedad**
+
+- ⏳ ↳ MS 2 & KG Var · @2.78
+
+**18:15 · S.Gijon – Las Palmas**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.13
+
+**18:45 · Go Ahead Eagles – Fortuna Sittard**
+
+- ⏳ ↳ MS 1 & KG Var · @2.63
+
+**19:15 · SS Arezzo – Padova**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.71
+
+**19:15 · Lorient – Rennes**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.56
+
+**19:30 · Liverpool – Manchester United**
+
+- ⏳ ↳ MS 1 & KG Var · @2.70
+
+**20:30 · Celta Vigo B – Real Valladolid**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.80
+
+**21:15 · Lommel SK – Standard Liege**
+
+- ⏳ ↳ İY/MS 2/2 · @2.95
+
+**22:45 · Atalanta – Inter**
+
+- ⏳ ↳ MS 2 & KG Var · @2.40
+
+**23:00 · CF Burgos – Albacete**
+
+- ⏳ ↳ İY/MS 1/1 · @2.91
 
 ## 21.11.2026 Cumartesi
 
 **13:30 · Gençlerbirliği – Gaziantep FK**
 
-- ⏳ ↳ MS 1 & KG Var · @3.91
+- ❌ ↳ MS 1 & KG Var · @3.91 · 1-0
 
 **15:00 · Wolfsburg – Holstein Kiel**
 
-- ⏳ ↳ MS 1 & KG Var · @2.54
+- ❌ ↳ MS 1 & KG Var · @2.54 · 3-0
 
 **15:00 · Nürnberg – Braunschweig**
 
-- ⏳ ↳ MS 1 & KG Var · @2.65
+- ❌ ↳ MS 1 & KG Var · @2.65 · 1-2
 
 **15:00 · Hannover 96 – Greuther Furth**
 
-- ⏳ ↳ MS 1 & KG Var · @2.82
+- ✅ ↳ MS 1 & KG Var · @2.82 · 2-1
 
 **15:30 · Norwich City – Cardiff City**
 
-- ⏳ ↳ MS 1 & KG Var · @2.47
+- ✅ ↳ MS 1 & KG Var · @2.47 · 2-1
 
 **15:30 · Tamworth – Eastleigh**
 
-- ⏳ ↳ MS 1 & KG Var · @2.98
+- ❌ ↳ MS 1 & KG Var · @2.98 · 1-3
 
 **15:30 · Newport – Swindon Town**
 
-- ⏳ ↳ MS 1 & KG Var · @3.40
+- ❌ ↳ MS 1 & KG Var · @3.40 · 2-0
 
 **15:30 · Millwall – Queens Park Rangers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.53
+- ❌ ↳ MS 1 & 2.5 Üst · @3.53 · 0-1
 
 **15:30 · Blackpool – Wigan Athletic**
 
-- ⏳ ↳ MS 1 & KG Var · @3.50
+- ❌ ↳ MS 1 & KG Var · @3.50 · 1-2
 
 **15:30 · Solihull Moors – Altrincham**
 
-- ⏳ ↳ MS 2 & KG Var · @3.75
+- ❌ ↳ MS 2 & KG Var · @3.75 · 2-1
+- ✅ ↳ MS 1 & KG Var · @3.69 · 2-1
 
 **16:00 · Amed Sportif Faaliyetler – Rizespor**
 
@@ -58,11 +169,11 @@
 
 **16:00 · Stade Laval – Montpellier**
 
-- ⏳ ↳ MS 2 & KG Var · @3.69
+- ❌ ↳ MS 2 & KG Var · @3.69 · 1-0
 
 **16:00 · CE Sabadell FC – Granada**
 
-- ⏳ ↳ İY/MS 1/1 · @3.74
+- ❌ ↳ İY/MS 1/1 · @3.74
 
 **17:00 · Modena FC – Juve Stabia**
 
@@ -71,6 +182,7 @@
 **17:00 · FC Sudtirol – Cremonese**
 
 - ⏳ ↳ İY/MS 2/2 · @3.22
+- ⏳ ↳ MS X & KG Var · @4.18
 
 **17:00 · Ascoli – LR Vicenza Virtus**
 
@@ -79,6 +191,7 @@
 **17:00 · Carrarese Calcio 1908 – Virtus Entella**
 
 - ⏳ ↳ İY/MS 1/1 · @3.43
+- ⏳ ↳ MS X & KG Var · @4.09
 
 **17:00 · Sampdoria – Benevento**
 
@@ -96,6 +209,7 @@
 **17:30 · Eintracht Frankfurt – Hoffenheim**
 
 - ⏳ ↳ MS 1 & KG Var · @3.14
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.78
 
 **18:00 · Queen of The South – Hamilton**
 
@@ -172,6 +286,7 @@
 **18:00 · Hibernian – Dundee Utd**
 
 - ⏳ ↳ MS 1 & KG Var · @3.20
+- ⏳ ↳ İY/MS 1/1 · @2.78
 
 **18:00 · Leyton Orient – Wimbledon**
 
@@ -196,6 +311,7 @@
 **18:00 · Crawley Town – Fleetwood**
 
 - ⏳ ↳ MS 2 & KG Var · @3.44
+- ⏳ ↳ MS 1 & 2.5 Üst · @4.32
 
 **18:00 · Sutton United – Boston United**
 
@@ -212,6 +328,7 @@
 **18:00 · Bolton – Portsmouth**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.58
+- ⏳ ↳ MS X & KG Var · @4.02
 
 **18:00 · Worthing – Harrogate**
 
@@ -224,6 +341,7 @@
 **18:00 · Aldershot – Scunthorpe**
 
 - ⏳ ↳ MS 2 & KG Var · @3.61
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.25
 
 **18:00 · Barnet – Port Vale**
 
@@ -273,9 +391,14 @@
 
 - ⏳ ↳ MS 1 & KG Var · @4.16
 
+**18:00 · Clyde Bank – Stirling Alb**
+
+- ⏳ ↳ MS 2 · @4.53
+
 **18:15 · Real Sociedad B – Cadiz**
 
 - ⏳ ↳ MS 1 & KG Var · @3.59
+- ⏳ ↳ MS X & KG Var · @4.41
 
 **19:00 · Kocaelispor – Fenerbahçe**
 
@@ -300,6 +423,7 @@
 **20:30 · Yeovil Town – Forest Green**
 
 - ⏳ ↳ MS 1 & KG Var · @3.51
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.05
 
 **20:30 · Montrose – Alloa**
 

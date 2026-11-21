@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**31/95 tuttu** (isabet %33, beklenen %38) · -12.08 birim · 7 tahmin sonuç bekliyor
+**31/95 tuttu** (isabet %33, beklenen %38) · -12.08 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 21.11 14:21 gönderilen kupon · 3 maç, oran 18,81
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.23
+- ⏳ 21.11 22:45 RC Lens – Toulouse · MS 1 & 2.5 Üst · @2.96
+- ⏳ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.85
 
 ## 20.11 18:51 gönderilen kupon · 3 maç, oran 14,78
 
