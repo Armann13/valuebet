@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 21.11.2026 02:28. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 21.11.2026 11:21. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -21,7 +21,7 @@ Son güncelleme: 21.11.2026 02:28. Telegram mesajına giren tahminler (ilk gönd
 | [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 102 | 95 | 31 | %33 | %38 | -12.08 | %-13 |
 | [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 124 | 115 | 45 | %39 | %36 | +9.50 | %8 |
 | [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 201 | 138 | 20 | %14 | %13 | +193.23 | %140 |
-| [💎 💎 Değerli](sonuclar/degerli.md) | 101 | 101 | 39 | %39 | %42 | -10.61 | %-11 |
+| [💎 💎 Değerli](sonuclar/degerli.md) | 107 | 101 | 39 | %39 | %42 | -10.61 | %-11 |
 
 ## Sistem kuponları
 
@@ -327,4 +327,5 @@ Değişen tahmin: 406 (397 sonuçlandı: eski 289, yeni 220 tuttu).
 | 17.11.2026 | 124 | 119 | 50 | %42 | %48 | -24.32 |
 | 18.11.2026 | 8 | 8 | 5 | %62 | %46 | +1.98 |
 | 20.11.2026 | 109 | 95 | 29 | %31 | %38 | -29.49 |
-| 21.11.2026 | 605 | 0 | 0 | — | — | — |
+| 21.11.2026 | 606 | 0 | 0 | — | — | — |
+| 22.11.2026 | 5 | 0 | 0 | — | — | — |

@@ -2,9 +2,37 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim
+**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11.2026 Pazar
+
+**15:30 · E. Cottbus – Hertha Berlin**
+
+- ⏳ 2.5 Alt · @2.67
+
+**16:00 · Cordoba – Real Oviedo**
+
+- ⏳ 2.5 Alt · @2.09
+
+**20:00 · Olympiacos – POT Iraklis**
+
+- ⏳ 2.5 Alt · @2.22
+
+**20:30 · Girona – Eibar**
+
+- ⏳ 2.5 Alt · @1.90
+
+**21:15 · Lommel SK – Standard Liege**
+
+- ⏳ 2.5 Alt · @2.18
+
+## 21.11.2026 Cumartesi
+
+**18:00 · Ross County – Cove Rangers**
+
+- ⏳ MS 1 & KG Var · @2.24
 
 ## 15.11.2026 Pazar
 
