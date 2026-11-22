@@ -9142,3 +9142,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 20:21,2026-11-22,22.11,B1,Lommel SK,Standard,Lommel SK – Standard Liege,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1567993895383817,10.6,0.662073529106846,piyasa,,,,2026-11-22 21:15,,,,,,kadro
 2026-11-22 20:21,2026-11-22,22.11,B1,Lommel SK,Standard,Lommel SK – Standard Liege,B1,💎 Değeri pozitif olanlar,2.5 Alt,0.5574832179075752,2.29,0.2766365690083472,piyasa,,,,2026-11-22 21:15,,,,,,kadro
 2026-11-22 20:21,2026-11-22,22.11,B1,Lommel SK,Standard,Lommel SK – Standard Liege,B1,💎 Değeri pozitif olanlar,KG Yok,0.5212113788953239,2.42,0.26133153692668376,piyasa,,,,2026-11-22 21:15,,,,,,kadro
+2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🟡 Tier 2 — Orta risk,KG Var,0.5669675928587499,1.62,-0.08151249956882511,piyasa,False,,,2026-11-22 22:45,,,,,,kadro
+2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3337134893531228,2.62,-0.12567065789481824,piyasa,True,,,2026-11-22 22:45,,,,,,kadro
+2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5448699697734605,1.55,-0.15545154685113627,korner,False,,,2026-11-22 22:45,,,,,,kadro
+2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4381270227858649,1.95,-0.14565230556756348,korner,True,,,2026-11-22 22:45,,,,,,kadro
+2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09715181303312079,7.24,-0.2966208736402055,piyasa,,,,2026-11-22 22:45,,,,,,kadro
