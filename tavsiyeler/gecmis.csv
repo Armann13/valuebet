@@ -9153,3 +9153,7 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5297267990757053,1.65,-0.12595078152508632,korner,False,,,2026-11-22 23:00,,,,,,kadro
 2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.42169483409516484,2.1,-0.11444084840015378,korner,True,,,2026-11-22 23:00,,,,,,kadro
 2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12472155990018126,5.28,-0.341470163727043,piyasa,,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:20,2026-11-22,22.11,SP1,Getafe,Ath Madrid,Getafe – Atletico Madrid,SP1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5331071168595801,1.56,-0.16835289769905504,piyasa,False,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:20,2026-11-22,22.11,SP1,Getafe,Ath Madrid,Getafe – Atletico Madrid,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.593592994475767,1.58,-0.0621230687282881,korner,False,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:20,2026-11-22,22.11,SP1,Getafe,Ath Madrid,Getafe – Atletico Madrid,SP1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4845122540065864,2.0,-0.030975491986827253,korner,True,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:20,2026-11-22,22.11,SP1,Getafe,Ath Madrid,Getafe – Atletico Madrid,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.15930271557072345,4.69,-0.2528702639733069,piyasa,,,,2026-11-22 23:00,,,,,,kadro
