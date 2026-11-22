@@ -9095,3 +9095,13 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 14:39,2026-11-22,22.11,B1,Lommel SK,Standard,Lommel SK – Standard Liege,B1,🎲 Çılgın kupon,2.5 Alt,0.5574832179075824,2.25,0.2543372402920603,piyasa,,,,2026-11-22 21:15,,,,,,
 2026-11-22 14:39,2026-11-22,22.11,D2,Cottbus,Hertha,E. Cottbus – Hertha Berlin,D2,🎲 Çılgın kupon,2.5 Alt,0.38866724675574216,2.85,0.10770165325386527,piyasa,,0.0,4.0,2026-11-22 15:30,3.0,12.0,,,,
 2026-11-22 17:58,2026-11-22,22.11,F1,Lorient,Rennes,Lorient – Rennes,F1,💎 Değeri pozitif olanlar,2.5 Üst,0.5119090623547486,1.99,0.01869903408594986,piyasa,,,,2026-11-22 19:15,,,,,,
+2026-11-22 19:10,2026-11-22,22.11,D1,Werder Bremen,Hamburg,Werder Bremen – Hamburg,D1,🟡 Tier 2 — Orta risk,KG Var,0.6132684398742175,1.55,-0.04943391819496279,piyasa,False,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,E0,Liverpool,Man United,Liverpool – Manchester United,E0,🟡 Tier 2 — Orta risk,MS 1,0.5501792385607304,1.65,-0.0922042563747949,piyasa,False,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,E0,Liverpool,Man United,Liverpool – Manchester United,E0,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.4096106356987478,2.18,-0.10704881417672973,piyasa,True,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,D1,Werder Bremen,Hamburg,Werder Bremen – Hamburg,D1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3238337257508722,2.86,-0.0738355443525055,piyasa,True,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,E0,Liverpool,Man United,Liverpool – Manchester United,E0,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.3117112684600875,2.79,-0.13032556099635584,piyasa,True,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,D1,Werder Bremen,Hamburg,Werder Bremen – Hamburg,D1,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7057222931520453,1.2,-0.1531332482175457,korner,False,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,E0,Liverpool,Man United,Liverpool – Manchester United,E0,🟡 Tier 2 — Orta risk,En çok korner 1,0.6854531637622615,1.4,-0.04036557073283398,korner,False,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,D1,Werder Bremen,Hamburg,Werder Bremen – Hamburg,D1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5151436688573663,1.68,-0.1345586363196246,korner,True,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,D1,Werder Bremen,Hamburg,Werder Bremen – Hamburg,D1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12173097492894022,7.19,-0.12475429026091978,piyasa,,,,2026-11-22 19:30,,,,,,kadro
+2026-11-22 19:10,2026-11-22,22.11,E0,Liverpool,Man United,Liverpool – Manchester United,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10497397274364499,7.55,-0.2074465057854803,piyasa,,,,2026-11-22 19:30,,,,,,kadro
