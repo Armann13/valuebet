@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-21 18",
+ "son_ozet": "2026-11-22 08",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -111,12 +111,14 @@
   "2026-11-21|Ross County – Cove Rangers|KG Var",
   "2026-11-21|Ross County – Cove Rangers|MS 1 & KG Var",
   "2026-11-22|Cordoba – Real Oviedo|2.5 Alt",
+  "2026-11-22|Cordoba – Real Oviedo|KG Yok",
   "2026-11-22|E. Cottbus – Hertha Berlin|2.5 Alt",
   "2026-11-22|Girona – Eibar|2.5 Alt",
   "2026-11-22|Girona – Eibar|KG Yok",
   "2026-11-22|Lommel SK – Standard Liege|2.5 Alt",
   "2026-11-22|Lommel SK – Standard Liege|KG Yok",
-  "2026-11-22|Olympiacos – POT Iraklis|2.5 Alt"
+  "2026-11-22|Olympiacos – POT Iraklis|2.5 Alt",
+  "2026-11-22|Paris – Angers|2.5 Alt"
  ],
  "sonuc_gonderilen": [
   "2026-10-01",
@@ -166,13 +168,10 @@
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "kuponlar": [
-  "3️⃣|Preston – Sheffield United:En çok korner 1|Queens Park Rangers – Burnley:En çok korner 2|Wrexham – Middlesbrough:En çok korner 1",
-  "4️⃣|Bristol City – Wolverhampton:En çok korner 1|Galatasaray – Stuttgart:MS 1 & KG Var|Leipzig – Manchester City:MS 2 & KG Var|Villarreal – Paris Saint Germain:MS 2 & KG Var",
-  "2️⃣|Bristol City – Wolverhampton:En çok korner 1|Leipzig – Manchester City:MS 2 & KG Var",
-  "3️⃣|Fenerbahçe – Liverpool:MS 2 & KG Var|Viking – Sabah:MS 1 & KG Var|Wrexham – Middlesbrough:En çok korner 1",
   "4️⃣|Cardiff City – West Ham:MS 1|NEC Nijmegen – Omonia:MS 1 & 2.5 Üst|PSV – Club Brugge:MS 1 & KG Var|Real Sociedad – Lyon:MS 1 & 2.5 Üst",
   "🎲|Bristol City – Wolverhampton:İY/MS 1/2|Fenerbahçe – Liverpool:İY/MS 1/2|Leipzig – Manchester City:İY/MS 1/2|Wrexham – Middlesbrough:İY/MS 1/2",
   "2️⃣|Bristol City – Wolverhampton:En çok korner 1|Viking – Sabah:MS 1 & KG Var",
@@ -268,6 +267,10 @@
   "2️⃣|RC Lens – Toulouse:MS 1|US Catanzaro 1929 – US Palermo:En çok korner 1",
   "3️⃣|Getafe – Atletico Madrid:En çok korner 1|Kasımpaşa – Alanyaspor:En çok korner 2|Konyaspor – Beşiktaş:En çok korner 1",
   "4️⃣|Feyenoord – Excelsior:MS 1 & KG Var|Monaco – AJ Auxerre:MS 1 & KG Var|Panathinaikos – Ofi Crete:MS 1 & KG Var|S.Gijon – Las Palmas:En çok korner 2",
-  "🎲|Ajax – ADO Den Haag:İY/MS 2/1|Lommel SK – Standard Liege:2.5 Alt|Olympiacos – POT Iraklis:2.5 Alt|Panathinaikos – Ofi Crete:İY/MS 2/1|Parma – AS Roma:İY/MS 1/2|US Catanzaro 1929 – US Palermo:İY/MS 1/2"
+  "🎲|Ajax – ADO Den Haag:İY/MS 2/1|Lommel SK – Standard Liege:2.5 Alt|Olympiacos – POT Iraklis:2.5 Alt|Panathinaikos – Ofi Crete:İY/MS 2/1|Parma – AS Roma:İY/MS 1/2|US Catanzaro 1929 – US Palermo:İY/MS 1/2",
+  "2️⃣|AD Ceuta – Almeria:En çok korner 1|Kasımpaşa – Alanyaspor:En çok korner 2",
+  "3️⃣|Konyaspor – Beşiktaş:En çok korner 1|Levante – Elche:En çok korner 2|S.Gijon – Las Palmas:En çok korner 2",
+  "4️⃣|Getafe – Atletico Madrid:En çok korner 1|Go Ahead Eagles – Fortuna Sittard:MS 1 & KG Var|Hull City – Brighton:MS 2 & KG Var|Panathinaikos – Ofi Crete:MS 1 & KG Var",
+  "🎲|Ajax – ADO Den Haag:İY/MS 2/1|E. Cottbus – Hertha Berlin:2.5 Alt|Getafe – Atletico Madrid:İY/MS 1/2|Lommel SK – Standard Liege:2.5 Alt|Panathinaikos – Ofi Crete:İY/MS 2/1|Trabzonspor – Eyüpspor:İY/MS 2/1"
  ]
 }
