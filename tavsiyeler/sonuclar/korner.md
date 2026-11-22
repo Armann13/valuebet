@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**834/1551 tuttu** (isabet %54, beklenen %59) · -243.37 birim · 80 tahmin sonuç bekliyor
+**836/1553 tuttu** (isabet %54, beklenen %59) · -241.70 birim · 84 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,13 @@
 
 - ⏳ 🟡 En çok korner 1 · @1.85
 - ⏳ 2 En çok korner 1 · @1.85
+- ⏳ 2 En çok korner 1 · @1.85
 
 **22:45 · AC Monza – Fiorentina**
 
 - ⏳ 🟢 Korner 10.5 Alt · @1.31
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.56
+- ⏳ 2 En çok korner 1 · @2.06
 
 **23:00 · Brentford – Everton**
 
@@ -32,6 +34,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.50
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @1.88
 - ⏳ 3 En çok korner 2 · @2.64
+- ⏳ 3 En çok korner 2 · @2.56
 
 ## 22.11.2026 Pazar
 
@@ -211,8 +214,8 @@
 
 **21:15 · Lommel SK – Standard Liege**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.63
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.04
+- ✅ 🟡 Korner 10.5 Alt · @1.63 · korner 4-4
+- ✅ 🔴 ↳ Korner 9.5 Alt · @2.04 · korner 4-4
 
 **22:45 · Marsilya – Le Mans**
 
@@ -229,11 +232,14 @@
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
 - ⏳ 3 En çok korner 1 · @3.04
 - ⏳ 4 En çok korner 1 · @2.83
+- ⏳ 3 En çok korner 1 · @2.89
 
 **23:00 · CF Burgos – Albacete**
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.65
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
+- ⏳ 🟢 Korner 11.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
 
 ## 21.11.2026 Cumartesi
 

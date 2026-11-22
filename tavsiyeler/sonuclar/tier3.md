@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**487/1183 tuttu** (isabet %41, beklenen %40) · -89.98 birim · 86 tahmin sonuç bekliyor
+**489/1185 tuttu** (isabet %41, beklenen %40) · -88.00 birim · 84 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -198,8 +198,8 @@
 
 **21:15 · Lommel SK – Standard Liege**
 
-- ⏳ ↳ MS 2 · @1.94
-- ⏳ ↳ Korner 9.5 Alt · @2.04
+- ✅ ↳ MS 2 · @1.94 · 1-2
+- ✅ ↳ Korner 9.5 Alt · @2.04 · korner 4-4
 
 **22:45 · Atalanta – Inter**
 

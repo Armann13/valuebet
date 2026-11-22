@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**636/894 tuttu** (isabet %71, beklenen %74) · -105.96 birim · 57 tahmin sonuç bekliyor
+**637/895 tuttu** (isabet %71, beklenen %74) · -105.73 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -136,7 +136,7 @@
 
 **21:15 · Lommel SK – Standard Liege**
 
-- ⏳ ÇŞ X-2 · @1.23
+- ✅ ÇŞ X-2 · @1.23 · 1-2
 
 **22:45 · Marsilya – Le Mans**
 
@@ -145,6 +145,7 @@
 **23:00 · CF Burgos – Albacete**
 
 - ⏳ ÇŞ 1-2 · @1.21
+- ⏳ Korner 11.5 Alt · @1.24
 
 ## 21.11.2026 Cumartesi
 

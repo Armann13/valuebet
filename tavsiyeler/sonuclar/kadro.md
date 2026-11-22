@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2066 | 2033 | 1029 | -207.22 |
-| sonra | 1717 | 1687 | 841 | -185.17 |
+| önce | 2068 | 2037 | 1033 | -204.38 |
+| sonra | 1717 | 1691 | 845 | -182.29 |
 
-Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
+Değişen tahmin: 449 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -24,8 +24,8 @@ Kadro mesajı: 22.11 22:20
 
 Kadro mesajı: 22.11 22:07
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21 → ⏳ ÇŞ 1-2 @1.22 (aynı)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.65 → ⏳ Korner 9.5 Alt @1.65 (aynı)
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21, ⏳ Korner 11.5 Alt @1.24 → ⏳ ÇŞ 1-2 @1.22 (değişti)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.65, ⏳ Korner 10.5 Alt @1.43 → ⏳ Korner 9.5 Alt @1.65 (değişti)
 - 🔴 Tier 3: ⏳ MS 1 @1.87, ⏳ Korner 8.5 Alt @2.10 → ⏳ MS 1 @1.86, ⏳ Korner 8.5 Alt @2.10 (aynı)
 - 🟣 Tier 4: ⏳ İY/MS 1/1 @2.91 → ⏳ İY/MS 1/1 @2.94 (aynı)
 
@@ -41,9 +41,9 @@ Kadro mesajı: 22.11 21:55
 
 Kadro mesajı: 22.11 20:21
 
-- 🟢 Tier 1: ⏳ ÇŞ X-2 @1.23 → ⏳ ÇŞ X-2 @1.25 (aynı)
-- 🟡 Tier 2: ⏳ Korner 10.5 Alt @1.63 → ⏳ Korner 10.5 Alt @1.63 (aynı)
-- 🔴 Tier 3: ⏳ MS 2 @1.94, ⏳ Korner 9.5 Alt @2.04 → ⏳ MS 2 @1.96, ⏳ Korner 9.5 Alt @2.04 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ X-2 @1.23 → ✅ ÇŞ X-2 @1.25 (aynı)
+- 🟡 Tier 2: ✅ Korner 10.5 Alt @1.63 → ✅ Korner 10.5 Alt @1.63 (aynı)
+- 🔴 Tier 3: ✅ MS 2 @1.94, ✅ Korner 9.5 Alt @2.04 → ✅ MS 2 @1.96, ✅ Korner 9.5 Alt @2.04 (aynı)
 - 🟣 Tier 4: ⏳ İY/MS 2/2 @2.95 → ⏳ İY/MS 2/2 @2.96 (aynı)
 
 ## 22.11 · Anderlecht – O.H. Leuven

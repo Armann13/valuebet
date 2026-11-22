@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/113 tuttu** (isabet %36, beklenen %43) · -18.62 birim · 6 tahmin sonuç bekliyor
+**41/115 tuttu** (isabet %36, beklenen %43) · -20.62 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -36,8 +36,8 @@
 
 **21:15 · Lommel SK – Standard Liege**
 
-- ⏳ 2.5 Alt · @2.18
-- ⏳ KG Yok · @2.33
+- ❌ 2.5 Alt · @2.18 · 1-2
+- ❌ KG Yok · @2.33 · 1-2
 
 ## 21.11.2026 Cumartesi
 

@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/142 tuttu** (isabet %14, beklenen %13) · +189.23 birim · 77 tahmin sonuç bekliyor
+**20/145 tuttu** (isabet %14, beklenen %14) · +186.23 birim · 78 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11 22:50 gönderilen kupon · 4 maç, oran 457.545,69
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50
+- ⏳ 23.11 18:00 Asteras Tripolis – Aris · İY/MS 1/2 · @29.00
+- ⏳ 23.11 22:45 Nantes – Grenoble · İY/MS 2/1 · @26.50
+- ⏳ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65
 
 ## 22.11 14:39 gönderilen kupon · 6 maç, oran 1.774.716,98
 
@@ -14,7 +23,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @19.60
 - ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.35
 - ⏳ 22.11 19:00 Trabzonspor – Eyüpspor · İY/MS 2/1 · @24.05
-- ⏳ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.25
+- ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.25 · 1-2
 - ⏳ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50
 
 ## 21.11 18:01 gönderilen kupon · 6 maç, oran 990.944,62
@@ -26,7 +35,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.00
 - ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45
 - ❌ 22.11 20:00 Olympiacos – POT Iraklis · 2.5 Alt · @2.23 · 6-2
-- ⏳ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18
+- ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18 · 1-2
 
 ## 21.11 14:21 gönderilen kupon · 6 maç, oran 861.105,82
 
@@ -37,7 +46,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.05
 - ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45
 - ❌ 22.11 20:00 Olympiacos – POT Iraklis · 2.5 Alt · @2.24 · 6-2
-- ⏳ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18
+- ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18 · 1-2
 
 ## 20.11 14:54 gönderilen kupon · 4 maç, oran 221.802,24
 

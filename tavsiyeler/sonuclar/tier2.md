@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**845/1524 tuttu** (isabet %55, beklenen %59) · -210.40 birim · 78 tahmin sonuç bekliyor
+**846/1525 tuttu** (isabet %55, beklenen %59) · -209.77 birim · 79 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -11,6 +11,7 @@
 **18:00 · Asteras Tripolis – Aris**
 
 - ⏳ 2.5 Alt · @1.52
+- ⏳ KG Yok · @1.71
 
 **20:00 · Başakşehir – Çorum FK**
 
@@ -221,7 +222,7 @@
 
 **21:15 · Lommel SK – Standard Liege**
 
-- ⏳ Korner 10.5 Alt · @1.63
+- ✅ Korner 10.5 Alt · @1.63 · korner 4-4
 
 **22:45 · Atalanta – Inter**
 
@@ -240,6 +241,7 @@
 **23:00 · CF Burgos – Albacete**
 
 - ⏳ Korner 9.5 Alt · @1.65
+- ⏳ ↳ Korner 10.5 Alt · @1.43
 
 ## 21.11.2026 Cumartesi
 

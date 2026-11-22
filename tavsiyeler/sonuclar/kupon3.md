@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/104 tuttu** (isabet %33, beklenen %38) · -13.96 birim · 7 tahmin sonuç bekliyor
+**34/104 tuttu** (isabet %33, beklenen %38) · -13.96 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11 22:50 gönderilen kupon · 3 maç, oran 15,68
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 22.11 23:00 Getafe – Atletico Madrid · En çok korner 1 · @2.89
+- ⏳ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.56
+- ⏳ 23.11 23:00 Brentford – Everton · MS 1 · @2.12
 
 ## 22.11 14:39 gönderilen kupon · 3 maç, oran 19,82
 

@@ -1,6 +1,6 @@
 # Tavsiye sonuçları
 
-Son güncelleme: 22.11.2026 19:50. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
+Son güncelleme: 22.11.2026 21:19. Telegram mesajına giren tahminler (ilk gönderildiği andaki olasılık ve İddaa oranıyla; 29.10'dan beri Telegram'da kuponlar ve 💎 gösteriliyor, Tier'lar tam raporda ve aynı ölçütle burada izleniyor). Kâr/zarar: her tahmine tek başına 1 birim (kombine / MBS hesaba katılmaz). **Beklenen** = tahminlerin ortalama olasılığı; gerçek isabet buna yakınsa olasılıklar doğru demektir. Kâr isabetten değil fiyattan gelir: 💎 dışındaki tahminlerin İddaa fiyatı adil fiyatın altındadır, uzun vadede zarar beklenir.
 
 ## Tüm zamanlar
 
@@ -8,20 +8,20 @@ Son güncelleme: 22.11.2026 19:50. Telegram mesajına giren tahminler (ilk gönd
 
 | seviye | tahmin | sonuçlanan | tutan | isabet | beklenen | kâr/zarar (birim) | ROI |
 |---|---|---|---|---|---|---|---|
-| [🟢 Tier 1](sonuclar/tier1.md) | 951 | 894 | 636 | %71 | %74 | -105.96 | %-12 |
-| [🟡 Tier 2](sonuclar/tier2.md) | 1602 | 1524 | 845 | %55 | %59 | -210.40 | %-14 |
-| [🔴 Tier 3](sonuclar/tier3.md) | 1269 | 1183 | 487 | %41 | %40 | -89.98 | %-8 |
+| [🟢 Tier 1](sonuclar/tier1.md) | 952 | 895 | 637 | %71 | %74 | -105.73 | %-12 |
+| [🟡 Tier 2](sonuclar/tier2.md) | 1604 | 1525 | 846 | %55 | %59 | -209.77 | %-14 |
+| [🔴 Tier 3](sonuclar/tier3.md) | 1269 | 1185 | 489 | %41 | %40 | -88.00 | %-7 |
 | [🟣 Tier 4](sonuclar/tier4.md) | 856 | 791 | 219 | %28 | %28 | -101.30 | %-13 |
-| [⚡ Tier 5](sonuclar/tier5.md) | 113 | 108 | 17 | %16 | %16 | -15.09 | %-14 |
-| [🔥 Tier 6](sonuclar/tier6.md) | 1177 | 1119 | 125 | %11 | %11 | -211.60 | %-19 |
-| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 1631 | 1551 | 834 | %54 | %59 | -243.37 | %-16 |
+| [⚡ Tier 5](sonuclar/tier5.md) | 113 | 109 | 17 | %16 | %16 | -16.09 | %-15 |
+| [🔥 Tier 6](sonuclar/tier6.md) | 1178 | 1119 | 125 | %11 | %11 | -211.60 | %-19 |
+| [🚩 Korner (tüm seviyeler)](sonuclar/korner.md) | 1637 | 1553 | 836 | %54 | %59 | -241.70 | %-16 |
 | [🎰 Sistem ayakları](sonuclar/sistem.md) | 311 | 294 | 161 | %55 | %66 | -57.18 | %-19 |
 | [🎯 İdeal kupon ayakları](sonuclar/ideal.md) | 50 | 50 | 31 | %62 | %58 | +1.55 | %3 |
-| [2️⃣ 2'li kupon ayakları](sonuclar/kupon2.md) | 72 | 69 | 28 | %41 | %50 | -10.52 | %-15 |
-| [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 111 | 104 | 34 | %33 | %38 | -13.96 | %-13 |
+| [2️⃣ 2'li kupon ayakları](sonuclar/kupon2.md) | 74 | 69 | 28 | %41 | %50 | -10.52 | %-15 |
+| [3️⃣ 3'lü kupon ayakları](sonuclar/kupon3.md) | 114 | 104 | 34 | %33 | %38 | -13.96 | %-13 |
 | [4️⃣ 4'lü kupon ayakları](sonuclar/kupon4.md) | 136 | 131 | 48 | %37 | %37 | +1.11 | %1 |
-| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 219 | 142 | 20 | %14 | %13 | +189.23 | %133 |
-| [💎 💎 Değerli](sonuclar/degerli.md) | 119 | 113 | 41 | %36 | %43 | -18.62 | %-16 |
+| [🎲 Çılgın kupon ayakları](sonuclar/cilgin.md) | 223 | 145 | 20 | %14 | %14 | +186.23 | %128 |
+| [💎 💎 Değerli](sonuclar/degerli.md) | 119 | 115 | 41 | %36 | %43 | -20.62 | %-18 |
 
 ## Sistem kuponları
 
@@ -79,10 +79,10 @@ Kadro güncellemesi gelen 450 maçta (Tier 1-4) ilk verilen tahmin ile kadrolar 
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2066 | 2033 | 1029 | -207.22 |
-| sonra | 1717 | 1687 | 841 | -185.17 |
+| önce | 2068 | 2037 | 1033 | -204.38 |
+| sonra | 1717 | 1691 | 845 | -182.29 |
 
-Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
+Değişen tahmin: 449 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 
 ## 2'li kuponlar
 
@@ -126,6 +126,7 @@ Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 | 21.11 14:21 | 2 | 4,19 | 0/2 | ❌ |
 | 21.11 18:01 | 2 | 4,63 | 0/2 | ❌ |
 | 22.11 14:39 | 2 | 4,07 | 0/2 | ⏳ |
+| 22.11 22:50 | 2 | 3,81 | 0/2 | ⏳ |
 | **toplam** (33 kupon) | | | | 33 birim → 27,32 |
 
 ## 3'lü kuponlar
@@ -171,6 +172,7 @@ Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 | 21.11 14:21 | 3 | 18,81 | 0/3 | ⏳ |
 | 21.11 18:01 | 3 | 19,46 | 0/3 | ⏳ |
 | 22.11 14:39 | 3 | 19,82 | 0/3 | ⏳ |
+| 22.11 22:50 | 3 | 15,68 | 0/3 | ⏳ |
 | **toplam** (31 kupon) | | | | 31 birim → 19,95 |
 
 ## 4'lü kuponlar
@@ -268,6 +270,7 @@ Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 | 21.11 14:21 | 6 | 861.105,82 | 0/6 | ⏳ |
 | 21.11 18:01 | 6 | 990.944,62 | 0/6 | ⏳ |
 | 22.11 14:39 | 6 | 1.774.716,98 | 0/6 | ⏳ |
+| 22.11 22:50 | 4 | 457.545,69 | 0/4 | ⏳ |
 | **toplam** (19 kupon) | | | | 19 birim → 0,00 |
 
 ## İdeal kuponlar
@@ -340,5 +343,5 @@ Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 | 18.11.2026 | 8 | 8 | 5 | %62 | %46 | +1.98 |
 | 20.11.2026 | 109 | 95 | 29 | %31 | %38 | -29.49 |
 | 21.11.2026 | 767 | 698 | 270 | %39 | %43 | -105.85 |
-| 22.11.2026 | 283 | 212 | 76 | %36 | %43 | -80.37 |
-| 23.11.2026 | 39 | 0 | 0 | — | — | — |
+| 22.11.2026 | 287 | 222 | 80 | %36 | %43 | -83.53 |
+| 23.11.2026 | 48 | 0 | 0 | — | — | — |
