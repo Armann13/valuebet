@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**40/106 tuttu** (isabet %38, beklenen %42) · -13.85 birim · 10 tahmin sonuç bekliyor
+**41/109 tuttu** (isabet %38, beklenen %42) · -14.62 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,16 @@
 
 **15:30 · E. Cottbus – Hertha Berlin**
 
-- ⏳ 2.5 Alt · @2.67
+- ❌ 2.5 Alt · @2.67 · 0-4
 
 **16:00 · Cordoba – Real Oviedo**
 
-- ⏳ 2.5 Alt · @2.09
+- ❌ 2.5 Alt · @2.09 · 3-0
+- ✅ KG Yok · @2.23 · 3-0
+
+**17:00 · Paris – Angers**
+
+- ⏳ 2.5 Alt · @2.55
 
 **20:00 · Olympiacos – POT Iraklis**
 

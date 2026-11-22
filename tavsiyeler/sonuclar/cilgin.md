@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/139 tuttu** (isabet %14, beklenen %13) · +192.23 birim · 74 tahmin sonuç bekliyor
+**20/140 tuttu** (isabet %14, beklenen %13) · +191.23 birim · 79 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11 14:39 gönderilen kupon · 6 maç, oran 1.774.716,98
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 22.11 15:30 E. Cottbus – Hertha Berlin · 2.5 Alt · @2.85 · 0-4
+- ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @19.60
+- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.35
+- ⏳ 22.11 19:00 Trabzonspor – Eyüpspor · İY/MS 2/1 · @24.05
+- ⏳ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.25
+- ⏳ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50
 
 ## 21.11 18:01 gönderilen kupon · 6 maç, oran 990.944,62
 

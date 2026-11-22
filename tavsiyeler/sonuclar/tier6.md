@@ -2,9 +2,39 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**124/1081 tuttu** (isabet %11, beklenen %11) · -179.36 birim · 84 tahmin sonuç bekliyor
+**124/1094 tuttu** (isabet %11, beklenen %11) · -192.36 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11.2026 Pazartesi
+
+**18:00 · Asteras Tripolis – Aris**
+
+- ⏳ 1-1 · @4.54
+
+**20:00 · Başakşehir – Çorum FK**
+
+- ⏳ 2-1 · @7.54
+
+**22:30 · AD Ceuta – Almeria**
+
+- ⏳ 1-2 · @7.54
+
+**22:45 · Sochaux – Dunkerque**
+
+- ⏳ 2-1 · @8.23
+
+**22:45 · AC Monza – Fiorentina**
+
+- ⏳ 1-2 · @7.57
+
+**23:00 · Brentford – Everton**
+
+- ⏳ 2-1 · @8.10
+
+**23:00 · Levante – Elche**
+
+- ⏳ 2-1 · @7.95
 
 ## 22.11.2026 Pazar
 
@@ -14,43 +44,46 @@
 
 **14:15 · Twente – Willem II**
 
-- ⏳ 3-0 · @6.38
+- ❌ 3-0 · @6.38 · 2-1
 
 **14:30 · Juventus – Venezia**
 
-- ⏳ 2-1 · @7.36
+- ❌ 2-1 · @7.36 · 4-0
 
 **15:00 · Burnley – Blackburn Rovers**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 2-2
+- ❌ 1-2 · @11.70 · 2-2
 
 **15:30 · E. Cottbus – Hertha Berlin**
 
-- ⏳ 1-2 · @7.56
+- ❌ 1-2 · @7.56 · 0-4
 
 **15:30 · SK Beveren – KAA Gent**
 
-- ⏳ 1-2 · @7.64
+- ❌ 1-2 · @7.64 · 1-0
 
 **15:30 · Kaiserslautern – Dynamo Dresden**
 
-- ⏳ 2-1 · @7.86
+- ❌ 2-1 · @7.86 · 2-2
+- ❌ 1-2 · @10.40 · 2-2
 
 **15:30 · Karlsruhe – Osnabruck**
 
-- ⏳ 1-2 · @9.30
+- ❌ 1-2 · @9.30 · 0-0
+- ❌ 2-1 · @8.21 · 0-0
 
 **16:00 · Konyaspor – Beşiktaş**
 
-- ⏳ 1-2 · @7.20
+- ❌ 1-2 · @7.20 · 2-4
 
 **16:00 · Kasımpaşa – Alanyaspor**
 
-- ⏳ 1-1 · @5.58
+- ❌ 1-1 · @5.58 · 2-1
 
 **16:00 · Cordoba – Real Oviedo**
 
-- ⏳ 2-1 · @7.54
+- ❌ 2-1 · @7.54 · 3-0
 
 **16:00 · Barcelona – Villarreal**
 
@@ -75,6 +108,7 @@
 **17:00 · APO Levadeiakos FC – Atromitos**
 
 - ⏳ 1-0 · @5.14
+- ⏳ 0-0 · @5.16
 
 **17:00 · Bologna – Udinese**
 
@@ -163,6 +197,7 @@
 **22:45 · Atalanta – Inter**
 
 - ⏳ 1-2 · @7.50
+- ⏳ 1-1 · @8.39
 
 **22:45 · Marsilya – Le Mans**
 

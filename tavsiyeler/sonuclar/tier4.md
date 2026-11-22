@@ -2,9 +2,35 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**215/770 tuttu** (isabet %28, beklenen %28) · -92.68 birim · 77 tahmin sonuç bekliyor
+**216/780 tuttu** (isabet %28, beklenen %28) · -99.64 birim · 76 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11.2026 Pazartesi
+
+**20:00 · Başakşehir – Çorum FK**
+
+- ⏳ ↳ MS 1 & KG Var · @3.06
+
+**22:30 · AD Ceuta – Almeria**
+
+- ⏳ ↳ MS 2 & KG Var · @3.32
+
+**22:45 · AC Monza – Fiorentina**
+
+- ⏳ ↳ MS 2 & KG Var · @3.11
+
+**22:45 · Sochaux – Dunkerque**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.39
+
+**23:00 · Levante – Elche**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.94
+
+**23:00 · Brentford – Everton**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
 
 ## 22.11.2026 Pazar
 
@@ -18,35 +44,37 @@
 
 **14:30 · Juventus – Venezia**
 
-- ⏳ ↳ MS 1 & KG Var · @2.79
+- ❌ ↳ MS 1 & KG Var · @2.79 · 4-0
 
 **15:00 · Burnley – Blackburn Rovers**
 
-- ⏳ ↳ MS 1 & KG Var · @3.36
+- ❌ ↳ MS 1 & KG Var · @3.36 · 2-2
 
 **15:30 · E. Cottbus – Hertha Berlin**
 
-- ⏳ ↳ MS 2 & KG Var · @2.39
+- ❌ ↳ MS 2 & KG Var · @2.39 · 0-4
 
 **15:30 · Kaiserslautern – Dynamo Dresden**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.97
+- ❌ ↳ MS 1 & 2.5 Üst · @2.97 · 2-2
+- ❌ ↳ MS 2 & 2.5 Üst · @4.92 · 2-2
 
 **15:30 · SK Beveren – KAA Gent**
 
-- ⏳ ↳ MS 2 & KG Var · @3.72
+- ❌ ↳ MS 2 & KG Var · @3.72 · 1-0
 
 **15:30 · Karlsruhe – Osnabruck**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.80
+- ❌ ↳ MS 2 & 2.5 Üst · @3.80 · 0-0
+- ❌ ↳ MS 1 & KG Var · @3.81 · 0-0
 
 **16:00 · Konyaspor – Beşiktaş**
 
-- ⏳ ↳ MS 2 & KG Var · @3.04
+- ✅ ↳ MS 2 & KG Var · @3.04 · 2-4
 
 **16:00 · Cordoba – Real Oviedo**
 
-- ⏳ ↳ MS 1 & KG Var · @3.24
+- ❌ ↳ MS 1 & KG Var · @3.24 · 3-0
 
 **16:30 · Sparta Rotterdam – AZ Alkmaar**
 
@@ -111,6 +139,7 @@
 **22:45 · Atalanta – Inter**
 
 - ⏳ ↳ MS 2 & KG Var · @2.40
+- ⏳ ↳ MS X · @4.38
 
 **23:00 · CF Burgos – Albacete**
 

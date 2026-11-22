@@ -2,16 +2,24 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**34/101 tuttu** (isabet %34, beklenen %38) · -10.96 birim · 7 tahmin sonuç bekliyor
+**34/104 tuttu** (isabet %33, beklenen %38) · -13.96 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11 14:39 gönderilen kupon · 3 maç, oran 19,82
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91 · korner 2-3
+- ⏳ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58
+- ⏳ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.64
 
 ## 21.11 18:01 gönderilen kupon · 3 maç, oran 19,46
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91
-- ⏳ 22.11 16:00 Kasımpaşa – Alanyaspor · En çok korner 2 · @2.20
+- ❌ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91 · korner 2-3
+- ❌ 22.11 16:00 Kasımpaşa – Alanyaspor · En çok korner 2 · @2.20 · korner 4-1
 - ⏳ 22.11 23:00 Getafe – Atletico Madrid · En çok korner 1 · @3.04
 
 ## 21.11 14:21 gönderilen kupon · 3 maç, oran 18,81

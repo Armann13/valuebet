@@ -2,9 +2,15 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/107 tuttu** (isabet %16, beklenen %16) · -14.09 birim · 5 tahmin sonuç bekliyor
+**17/107 tuttu** (isabet %16, beklenen %16) · -14.09 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11.2026 Pazartesi
+
+**22:45 · Nantes – Grenoble**
+
+- ⏳ 1-0 · @4.99
 
 ## 22.11.2026 Pazar
 

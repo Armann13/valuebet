@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/67 tuttu** (isabet %42, beklenen %49) · -8.52 birim · 3 tahmin sonuç bekliyor
+**28/69 tuttu** (isabet %41, beklenen %50) · -10.52 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 22.11 14:39 gönderilen kupon · 2 maç, oran 4,07
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 22.11 16:00 Kasımpaşa – Alanyaspor · En çok korner 2 · @2.20 · korner 4-1
+- ⏳ 23.11 22:30 AD Ceuta – Almeria · En çok korner 1 · @1.85
 
 ## 21.11 18:01 gönderilen kupon · 2 maç, oran 4,63
 
@@ -15,10 +22,10 @@
 
 ## 21.11 14:21 gönderilen kupon · 2 maç, oran 4,19
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
 - ❌ 21.11 19:15 US Catanzaro 1929 – US Palermo · En çok korner 1 · @2.34 · korner 1-7
-- ⏳ 22.11 15:30 SK Beveren – KAA Gent · En çok korner 1 · @1.79
+- ❌ 22.11 15:30 SK Beveren – KAA Gent · En çok korner 1 · @1.79 · korner 10-10
 
 ## 20.11 18:51 gönderilen kupon · 2 maç, oran 5,69
 

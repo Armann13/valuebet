@@ -2,9 +2,41 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**470/1138 tuttu** (isabet %41, beklenen %40) · -79.94 birim · 118 tahmin sonuç bekliyor
+**474/1150 tuttu** (isabet %41, beklenen %40) · -83.67 birim · 119 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11.2026 Pazartesi
+
+**20:00 · Başakşehir – Çorum FK**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.39
+
+**22:30 · AD Ceuta – Almeria**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.60
+
+**22:45 · Nantes – Grenoble**
+
+- ⏳ ↳ İY/MS 1/1 · @1.90
+
+**22:45 · Sochaux – Dunkerque**
+
+- ⏳ ↳ MS 1 · @2.15
+
+**22:45 · AC Monza – Fiorentina**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.44
+
+**23:00 · Brentford – Everton**
+
+- ⏳ ↳ MS 1 · @2.12
+- ⏳ ↳ Korner 9.5 Alt · @1.95
+
+**23:00 · Levante – Elche**
+
+- ⏳ ↳ MS 1 · @2.01
+- ⏳ ↳ Korner 8.5 Alt · @1.88
 
 ## 22.11.2026 Pazar
 
@@ -15,32 +47,34 @@
 
 **14:15 · Twente – Willem II**
 
-- ⏳ ↳ Korner 11.5 Üst · @2.00
+- ❌ ↳ Korner 11.5 Üst · @2.00 · korner 6-0
 
 **14:30 · Juventus – Venezia**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.76
-- ⏳ ↳ Korner 10.5 Üst · @1.95
+- ✅ ↳ MS 1 & 2.5 Üst · @1.76 · 4-0
+- ❌ ↳ Korner 10.5 Üst · @1.95 · korner 5-2
 
 **15:00 · Burnley – Blackburn Rovers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.56
+- ❌ ↳ MS 1 & 2.5 Üst · @2.56 · 2-2
+- ❌ ↳ MS 2 · @3.73 · 2-2
 
 **15:30 · Kaiserslautern – Dynamo Dresden**
 
-- ⏳ ↳ MS 1 · @1.99
+- ❌ ↳ MS 1 · @1.99 · 2-2
+- ❌ ↳ MS 2 · @3.19 · 2-2
 
 **15:30 · E. Cottbus – Hertha Berlin**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.82
+- ✅ ↳ MS 2 & 2.5 Üst · @1.82 · 0-4
 
 **15:30 · Karlsruhe – Osnabruck**
 
-- ⏳ ↳ MS 2 · @2.63
+- ❌ ↳ MS 2 · @2.63 · 0-0
 
 **15:30 · SK Beveren – KAA Gent**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.87
+- ❌ ↳ MS 2 & 2.5 Üst · @2.87 · 1-0
 
 **16:00 · Barcelona – Villarreal**
 
@@ -49,11 +83,11 @@
 
 **16:00 · Konyaspor – Beşiktaş**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.17
+- ✅ ↳ MS 2 & 2.5 Üst · @2.17 · 2-4
 
 **16:00 · Cordoba – Real Oviedo**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.52
+- ✅ ↳ MS 1 & 2.5 Üst · @2.52 · 3-0
 
 **16:30 · Ajax – ADO Den Haag**
 
@@ -141,6 +175,10 @@
 
 - ⏳ ↳ MS 1 & KG Var · @2.27
 
+**20:00 · Olympiacos – POT Iraklis**
+
+- ⏳ 2.5 Alt · @2.10
+
 **20:30 · Celta Vigo B – Real Valladolid**
 
 - ⏳ ↳ MS 2 · @1.90
@@ -167,6 +205,7 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @1.81
 - ⏳ ↳ Korner 8.5 Alt · @1.97
+- ⏳ ÇŞ 1-X · @2.22
 
 **22:45 · Marsilya – Le Mans**
 

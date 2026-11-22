@@ -2,9 +2,31 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**613/869 tuttu** (isabet %71, beklenen %74) · -109.88 birim · 76 tahmin sonuç bekliyor
+**620/876 tuttu** (isabet %71, beklenen %74) · -107.64 birim · 75 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11.2026 Pazartesi
+
+**22:45 · Sochaux – Dunkerque**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**22:45 · Nantes – Grenoble**
+
+- ⏳ MS 1 · @1.34
+
+**22:45 · AC Monza – Fiorentina**
+
+- ⏳ Korner 10.5 Alt · @1.31
+
+**23:00 · Brentford – Everton**
+
+- ⏳ ÇŞ 1-X · @1.27
+
+**23:00 · Levante – Elche**
+
+- ⏳ ÇŞ 1-X · @1.24
 
 ## 22.11.2026 Pazar
 
@@ -14,16 +36,16 @@
 
 **14:30 · Juventus – Venezia**
 
-- ⏳ MS 1 · @1.23
+- ✅ MS 1 · @1.23 · 4-0
 
 **15:30 · Kaiserslautern – Dynamo Dresden**
 
-- ⏳ ÇŞ 1-X · @1.24
-- ⏳ Korner 12.5 Alt · @1.25
+- ✅ ÇŞ 1-X · @1.24 · 2-2
+- ✅ Korner 12.5 Alt · @1.25 · korner 5-4
 
 **15:30 · Karlsruhe – Osnabruck**
 
-- ⏳ En çok korner 1 · @1.78
+- ✅ En çok korner 1 · @1.78 · korner 9-4
 
 **16:00 · Barcelona – Villarreal**
 
@@ -31,15 +53,15 @@
 
 **16:00 · Cordoba – Real Oviedo**
 
-- ⏳ En çok korner 1 · @1.24
+- ✅ En çok korner 1 · @1.24 · korner 7-4
 
 **16:00 · Konyaspor – Beşiktaş**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 2-3
 
 **16:00 · Kasımpaşa – Alanyaspor**
 
-- ⏳ Korner 10.5 Alt · @1.29
+- ✅ Korner 10.5 Alt · @1.29 · korner 4-1
 
 **17:00 · Paris – Angers**
 
@@ -69,6 +91,10 @@
 **18:15 · Santander – Real Sociedad**
 
 - ⏳ 2.5 Üst · @1.23
+
+**18:45 · Go Ahead Eagles – Fortuna Sittard**
+
+- ⏳ En çok korner 1 · @1.24
 
 **19:00 · Trabzonspor – Eyüpspor**
 
