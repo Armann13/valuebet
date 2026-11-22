@@ -2,16 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/66 tuttu** (isabet %42, beklenen %49) · -7.52 birim · 4 tahmin sonuç bekliyor
+**28/67 tuttu** (isabet %42, beklenen %49) · -8.52 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 21.11 18:01 gönderilen kupon · 2 maç, oran 4,63
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/2 maç tuttu
 
 - ❌ 21.11 19:15 US Catanzaro 1929 – US Palermo · En çok korner 1 · @2.34 · korner 1-7
-- ⏳ 21.11 22:45 RC Lens – Toulouse · MS 1 · @1.98
+- ❌ 21.11 22:45 RC Lens – Toulouse · MS 1 · @1.98 · 1-1
 
 ## 21.11 14:21 gönderilen kupon · 2 maç, oran 4,19
 

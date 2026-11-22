@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**598/849 tuttu** (isabet %70, beklenen %74) · -108.71 birim · 96 tahmin sonuç bekliyor
+**613/869 tuttu** (isabet %71, beklenen %74) · -109.88 birim · 76 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -374,59 +374,59 @@
 
 **22:30 · Saint Pauli – Bochum**
 
-- ⏳ ÇŞ 1-X · @1.22
+- ✅ ÇŞ 1-X · @1.22 · 2-0
 
 **22:45 · Mechelen – Club Brugge**
 
-- ⏳ MS 2 · @1.27
-- ⏳ Korner 12.5 Alt · @1.20
+- ✅ MS 2 · @1.27 · 1-5
+- ✅ Korner 12.5 Alt · @1.20 · korner 5-7
 
 **22:45 · Monaco – AJ Auxerre**
 
-- ⏳ MS 1 · @1.29
+- ❌ MS 1 · @1.29 · 1-1
 
 **22:45 · Lille – Lyon**
 
-- ⏳ ÇŞ 1-X · @1.23
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 7.5 Üst · @1.25
+- ❌ ÇŞ 1-X · @1.23 · 0-1
+- ✅ ÇŞ 1-2 · @1.22 · 0-1
+- ✅ Korner 7.5 Üst · @1.25 · korner 7-7
 
 **22:45 · Napoli – Torino**
 
-- ⏳ MS 1 · @1.34
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ MS 1 · @1.34 · 1-0
+- ❌ Korner 11.5 Alt · @1.20 · korner 8-5
 
 **22:45 · Zulte Waregem – Antwerp**
 
-- ⏳ ÇŞ 1-X · @1.24
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ ÇŞ 1-X · @1.24 · 2-2
+- ✅ Korner 11.5 Alt · @1.25 · korner 8-3
 
 **22:45 · Strasbourg – Brest**
 
-- ⏳ Korner 10.5 Alt · @1.31
+- ✅ Korner 10.5 Alt · @1.31 · korner 8-1
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-X · @1.21 · 1-1
 
 **23:00 · Tenerife – Mallorca**
 
-- ⏳ ÇŞ X-2 · @1.21
+- ✅ ÇŞ X-2 · @1.21 · 0-0
 
 **23:00 · Real Madrid – Celta Vigo**
 
-- ⏳ MS 1 & 2.5 Üst · @1.34
-- ⏳ Korner 11.5 Alt · @1.22
-- ⏳ 2.5 Üst · @1.24
+- ✅ MS 1 & 2.5 Üst · @1.34 · 2-1
+- ✅ Korner 11.5 Alt · @1.22 · korner 8-3
+- ✅ 2.5 Üst · @1.24 · 2-1
 
 **23:00 · Telstar – Zwolle**
 
-- ⏳ ÇŞ 1-X · @1.21
-- ⏳ Korner 12.5 Alt · @1.20
+- ❌ ÇŞ 1-X · @1.21 · 1-3
+- ❌ Korner 12.5 Alt · @1.20 · korner 11-7
 
 **23:00 · Groningen – Heerenveen**
 
-- ⏳ 2.5 Üst · @1.31
+- ✅ 2.5 Üst · @1.31 · 1-3
 
 ## 20.11.2026 Cuma
 

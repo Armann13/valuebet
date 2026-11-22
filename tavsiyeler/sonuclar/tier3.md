@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**464/1119 tuttu** (isabet %41, beklenen %40) · -73.74 birim · 137 tahmin sonuç bekliyor
+**470/1138 tuttu** (isabet %41, beklenen %40) · -79.94 birim · 118 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -640,61 +640,61 @@
 
 **22:30 · Saint Pauli – Bochum**
 
-- ⏳ ↳ MS 1 · @1.92
+- ✅ ↳ MS 1 · @1.92 · 2-0
 
 **22:45 · Napoli – Torino**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.96
-- ⏳ ↳ Korner 8.5 Alt · @2.14
+- ❌ ↳ MS 1 & 2.5 Üst · @1.96 · 1-0
+- ❌ ↳ Korner 8.5 Alt · @2.14 · korner 8-5
 
 **22:45 · Zulte Waregem – Antwerp**
 
-- ⏳ ↳ MS 1 · @2.01
+- ❌ ↳ MS 1 · @2.01 · 2-2
 
 **22:45 · Lille – Lyon**
 
-- ⏳ ↳ MS 1 · @2.06
+- ❌ ↳ MS 1 · @2.06 · 0-1
 
 **22:45 · Mechelen – Club Brugge**
 
-- ⏳ ↳ MS 2 & KG Var · @2.29
+- ✅ ↳ MS 2 & KG Var · @2.29 · 1-5
 
 **22:45 · Monaco – AJ Auxerre**
 
-- ⏳ ↳ MS 1 & KG Var · @2.48
-- ⏳ ↳ Korner 8.5 Alt · @2.27
+- ❌ ↳ MS 1 & KG Var · @2.48 · 1-1
+- ✅ ↳ Korner 8.5 Alt · @2.27 · korner 3-0
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.47
+- ❌ ↳ MS 1 & 2.5 Üst · @2.47 · 1-1
 
 **22:45 · Strasbourg – Brest**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.97
+- ❌ ↳ MS 1 & 2.5 Üst · @2.97 · 0-1
 
 **23:00 · Motherwell – Rangers**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @1.93
+- ✅ ↳ MS 2 & 2.5 Üst · @1.93 · 1-2
 
 **23:00 · Telstar – Zwolle**
 
-- ⏳ ↳ MS 1 · @1.93
-- ⏳ ↳ Korner 9.5 Alt · @2.06
+- ❌ ↳ MS 1 · @1.93 · 1-3
+- ❌ ↳ Korner 9.5 Alt · @2.06 · korner 11-7
 
 **23:00 · Real Madrid – Celta Vigo**
 
-- ⏳ ↳ MS 1 & KG Var · @2.35
+- ✅ ↳ MS 1 & KG Var · @2.35 · 2-1
 
 **23:00 · Tenerife – Mallorca**
 
-- ⏳ ↳ MS 2 · @2.01
-- ⏳ ↳ Korner 8.5 Alt · @2.00
+- ❌ ↳ MS 2 · @2.01 · 0-0
+- ❌ ↳ Korner 8.5 Alt · @2.00 · korner 8-5
 
 **23:00 · Groningen – Heerenveen**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.94
-- ⏳ ↳ Korner 9.5 Alt · @2.04
-- ⏳ ↳ MS 1 · @2.50
+- ❌ ↳ MS 1 & 2.5 Üst · @2.94 · 1-3
+- ✅ ↳ Korner 9.5 Alt · @2.04 · korner 4-4
+- ❌ ↳ MS 1 · @2.50 · 1-3
 
 ## 20.11.2026 Cuma
 

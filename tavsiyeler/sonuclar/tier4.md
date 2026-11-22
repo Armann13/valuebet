@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**214/760 tuttu** (isabet %28, beklenen %28) · -85.35 birim · 87 tahmin sonuç bekliyor
+**215/770 tuttu** (isabet %28, beklenen %28) · -92.68 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -460,43 +460,43 @@
 
 **22:30 · Saint Pauli – Bochum**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.80
+- ❌ ↳ MS 1 & 2.5 Üst · @2.80 · 2-0
 
 **22:45 · Napoli – Torino**
 
-- ⏳ ↳ MS 1 & KG Var · @2.90
+- ❌ ↳ MS 1 & KG Var · @2.90 · 1-0
 
 **22:45 · Zulte Waregem – Antwerp**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.96
+- ❌ ↳ MS 1 & 2.5 Üst · @2.96 · 2-2
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ ↳ MS 1 & KG Var · @3.18
+- ❌ ↳ MS 1 & KG Var · @3.18 · 1-1
 
 **22:45 · Lille – Lyon**
 
-- ⏳ ↳ İY/MS 1/1 · @3.28
+- ❌ ↳ İY/MS 1/1 · @3.28
 
 **22:45 · Strasbourg – Brest**
 
-- ⏳ ↳ MS 1 & KG Var · @3.68
+- ❌ ↳ MS 1 & KG Var · @3.68 · 0-1
 
 **23:00 · Motherwell – Rangers**
 
-- ⏳ ↳ MS 2 & KG Var · @2.67
+- ✅ ↳ MS 2 & KG Var · @2.67 · 1-2
 
 **23:00 · Telstar – Zwolle**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.77
+- ❌ ↳ MS 1 & 2.5 Üst · @2.77 · 1-3
 
 **23:00 · Tenerife – Mallorca**
 
-- ⏳ ↳ İY/MS 2/2 · @3.22
+- ❌ ↳ İY/MS 2/2 · @3.22
 
 **23:00 · Groningen – Heerenveen**
 
-- ⏳ ↳ MS 1 & KG Var · @3.48
+- ❌ ↳ MS 1 & KG Var · @3.48 · 1-3
 
 ## 20.11.2026 Cuma
 

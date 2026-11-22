@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**122/1068 tuttu** (isabet %11, beklenen %11) · -182.27 birim · 97 tahmin sonuç bekliyor
+**124/1081 tuttu** (isabet %11, beklenen %11) · -179.36 birim · 84 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -579,55 +579,55 @@
 
 **22:30 · Saint Pauli – Bochum**
 
-- ⏳ 2-1 · @7.78
+- ❌ 2-1 · @7.78 · 2-0
 
 **22:45 · Napoli – Torino**
 
-- ⏳ 2-1 · @7.16
+- ❌ 2-1 · @7.16 · 1-0
 
 **22:45 · Monaco – AJ Auxerre**
 
-- ⏳ 2-1 · @7.29
+- ❌ 2-1 · @7.29 · 1-1
 
 **22:45 · Mechelen – Club Brugge**
 
-- ⏳ 1-2 · @7.54
+- ❌ 1-2 · @7.54 · 1-5
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ 2-1 · @7.47
+- ❌ 2-1 · @7.47 · 1-1
 
 **22:45 · Lille – Lyon**
 
-- ⏳ 1-0 · @6.64
+- ❌ 1-0 · @6.64 · 0-1
 
 **22:45 · Zulte Waregem – Antwerp**
 
-- ⏳ 2-1 · @7.92
+- ❌ 2-1 · @7.92 · 2-2
 
 **22:45 · Strasbourg – Brest**
 
-- ⏳ 2-1 · @7.99
+- ❌ 2-1 · @7.99 · 0-1
 
 **23:00 · Motherwell – Rangers**
 
-- ⏳ 1-2 · @7.13
+- ✅ 1-2 · @7.13 · 1-2
 
 **23:00 · Real Madrid – Celta Vigo**
 
-- ⏳ 2-1 · @8.78
+- ✅ 2-1 · @8.78 · 2-1
 
 **23:00 · Tenerife – Mallorca**
 
-- ⏳ 0-1 · @6.01
+- ❌ 0-1 · @6.01 · 0-0
 
 **23:00 · Groningen – Heerenveen**
 
-- ⏳ 2-1 · @8.83
+- ❌ 2-1 · @8.83 · 1-3
 
 **23:00 · Telstar – Zwolle**
 
-- ⏳ 2-1 · @7.83
+- ❌ 2-1 · @7.83 · 1-3
 
 ## 20.11.2026 Cuma
 

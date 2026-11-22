@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/101 tuttu** (isabet %39, beklenen %42) · -10.61 birim · 15 tahmin sonuç bekliyor
+**40/106 tuttu** (isabet %38, beklenen %42) · -13.85 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -43,14 +43,14 @@
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ MS 1 & 2.5 Üst · @2.96
-- ⏳ MS 1 & KG Var · @3.84
-- ⏳ MS 1 · @1.98
+- ❌ MS 1 & 2.5 Üst · @2.96 · 1-1
+- ❌ MS 1 & KG Var · @3.84 · 1-1
+- ❌ MS 1 · @1.98 · 1-1
 
 **22:45 · Monaco – AJ Auxerre**
 
-- ⏳ MS 1 & KG Var · @2.85
-- ⏳ KG Var · @1.76
+- ❌ MS 1 & KG Var · @2.85 · 1-1
+- ✅ KG Var · @1.76 · 1-1
 
 ## 15.11.2026 Pazar
 

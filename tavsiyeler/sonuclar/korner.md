@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**789/1460 tuttu** (isabet %54, beklenen %59) · -220.83 birim · 155 tahmin sonuç bekliyor
+**802/1487 tuttu** (isabet %54, beklenen %59) · -227.92 birim · 128 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -489,66 +489,66 @@
 
 **22:30 · Saint Pauli – Bochum**
 
-- ⏳ 🟡 En çok korner 1 · @1.50
+- ✅ 🟡 En çok korner 1 · @1.50 · korner 10-1
 
 **22:45 · Mechelen – Club Brugge**
 
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.65
-- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.41
+- ✅ 🟢 Korner 12.5 Alt · @1.20 · korner 5-7
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.65 · korner 5-7
+- ❌ 🟡 ↳ Korner 11.5 Alt · @1.41 · korner 5-7
 
 **22:45 · Zulte Waregem – Antwerp**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.25
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.47
+- ✅ 🟢 Korner 11.5 Alt · @1.25 · korner 8-3
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.47 · korner 8-3
 
 **22:45 · Strasbourg – Brest**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.31
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.56
+- ✅ 🟢 Korner 10.5 Alt · @1.31 · korner 8-1
+- ✅ 🟡 ↳ Korner 9.5 Alt · @1.56 · korner 8-1
 
 **22:45 · RC Lens – Toulouse**
 
-- ⏳ 🟡 En çok korner 1 · @1.45
+- ✅ 🟡 En çok korner 1 · @1.45 · korner 9-5
 
 **22:45 · Lille – Lyon**
 
-- ⏳ 🟡 En çok korner 1 · @1.59
-- ⏳ 🟢 Korner 7.5 Üst · @1.25
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+- ❌ 🟡 En çok korner 1 · @1.59 · korner 7-7
+- ✅ 🟢 Korner 7.5 Üst · @1.25 · korner 7-7
+- ✅ 🟡 ↳ Korner 8.5 Üst · @1.49 · korner 7-7
 
 **22:45 · Napoli – Torino**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.66
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.14
-- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ❌ 🟡 Korner 9.5 Alt · @1.66 · korner 8-5
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.14 · korner 8-5
+- ❌ 🟢 Korner 11.5 Alt · @1.20 · korner 8-5
 
 **22:45 · Monaco – AJ Auxerre**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.75
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.27
+- ✅ 🟡 Korner 9.5 Alt · @1.75 · korner 3-0
+- ✅ 🔴 ↳ Korner 8.5 Alt · @2.27 · korner 3-0
 
 **23:00 · Real Madrid – Celta Vigo**
 
-- ⏳ 🟢 Korner 11.5 Alt · @1.22
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.69
+- ✅ 🟢 Korner 11.5 Alt · @1.22 · korner 8-3
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.42 · korner 8-3
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.69 · korner 8-3
 
 **23:00 · Tenerife – Mallorca**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.58
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.00
+- ❌ 🟡 Korner 9.5 Alt · @1.58 · korner 8-5
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.00 · korner 8-5
 
 **23:00 · Groningen – Heerenveen**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.62
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.04
+- ✅ 🟡 Korner 10.5 Alt · @1.62 · korner 4-4
+- ✅ 🔴 ↳ Korner 9.5 Alt · @2.04 · korner 4-4
 
 **23:00 · Telstar – Zwolle**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.64
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @2.06
-- ⏳ 🟢 Korner 12.5 Alt · @1.20
+- ❌ 🟡 Korner 10.5 Alt · @1.64 · korner 11-7
+- ❌ 🔴 ↳ Korner 9.5 Alt · @2.06 · korner 11-7
+- ❌ 🟢 Korner 12.5 Alt · @1.20 · korner 11-7
 
 ## 20.11.2026 Cuma
 

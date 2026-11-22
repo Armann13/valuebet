@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/97 tuttu** (isabet %33, beklenen %38) · -11.65 birim · 11 tahmin sonuç bekliyor
+**34/101 tuttu** (isabet %34, beklenen %38) · -10.96 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,24 +19,24 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.23
-- ⏳ 21.11 22:45 RC Lens – Toulouse · MS 1 & 2.5 Üst · @2.96
-- ⏳ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.85
+- ❌ 21.11 22:45 RC Lens – Toulouse · MS 1 & 2.5 Üst · @2.96 · 1-1
+- ❌ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.85 · 1-1
 
 ## 20.11 18:51 gönderilen kupon · 3 maç, oran 14,78
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 21.11 17:30 Monchengladbach – B. Dortmund · En çok korner 1 · @2.82 · korner 7-7
 - ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
-- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.34
+- ✅ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.34 · 2-1
 
 ## 20.11 14:54 gönderilen kupon · 3 maç, oran 12,79
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
 - ⏳ 21.11 18:00 Ross County – Cove Rangers · MS 1 & KG Var · @2.24
 - ✅ 21.11 18:00 Coventry – Crystal Palace · En çok korner 2 · @2.43 · korner 4-6
-- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.35
+- ✅ 21.11 23:00 Real Madrid – Celta Vigo · MS 1 & KG Var · @2.35 · 2-1
 
 ## 19.11 14:53 gönderilen kupon · 3 maç, oran 31,75
 
