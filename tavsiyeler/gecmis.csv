@@ -9125,3 +9125,12 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 19:36,2026-11-22,22.11,SP1,Osasuna,Malaga,Osasuna – Malaga CF,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.13304871860756629,5.79,-0.2296479192621912,piyasa,,,,2026-11-22 20:30,,,,,,kadro
 2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,💎 Değeri pozitif olanlar,KG Yok,0.5401461789960152,1.89,0.020876278302468743,piyasa,,,,2026-11-22 20:30,,,,,,kadro
 2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,💎 Değeri pozitif olanlar,2.5 Alt,0.5586680048365937,1.8,0.005602408705868811,piyasa,,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,G1,PAOK,Kifisia,PAOK – AE Kifisia FC,G1,🟢 Tier 1 — Düşük risk,MS 1,0.7236780352726349,1.21,-0.12434957732011187,piyasa,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,G1,PAOK,Kifisia,PAOK – AE Kifisia FC,G1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5248885616456886,1.75,-0.08144501712004493,piyasa,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,B1,Anderlecht,Oud-Heverlee Leuven,Anderlecht – O.H. Leuven,B1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.5001971197492188,1.93,-0.034619558884007806,piyasa,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,B1,Anderlecht,Oud-Heverlee Leuven,Anderlecht – O.H. Leuven,B1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3466926969614546,2.71,-0.06046279123445808,piyasa,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,G1,PAOK,Kifisia,PAOK – AE Kifisia FC,G1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.3270919933642166,2.76,-0.09722609831476214,piyasa,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,B1,Anderlecht,Oud-Heverlee Leuven,Anderlecht – O.H. Leuven,B1,🟡 Tier 2 — Orta risk,Korner 10.5 Üst,0.5545152469263812,1.58,-0.12386590985631762,korner,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,B1,Anderlecht,Oud-Heverlee Leuven,Anderlecht – O.H. Leuven,B1,🔴 Tier 3 — Yüksek risk,Korner 11.5 Üst,0.46110270609920434,1.95,-0.1008497231065516,korner,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,B1,Anderlecht,Oud-Heverlee Leuven,Anderlecht – O.H. Leuven,B1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.14340752259958717,7.19,0.03110008749103188,piyasa,,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:48,2026-11-22,22.11,G1,PAOK,Kifisia,PAOK – AE Kifisia FC,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09507412059027723,6.54,-0.3782152513395869,piyasa,,,,2026-11-22 20:30,,,,,,kadro
