@@ -9147,3 +9147,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5448699697734605,1.55,-0.15545154685113627,korner,False,,,2026-11-22 22:45,,,,,,kadro
 2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4381270227858649,1.95,-0.14565230556756348,korner,True,,,2026-11-22 22:45,,,,,,kadro
 2026-11-22 21:55,2026-11-22,22.11,F1,Marseille,Le Mans,Marsilya – Le Mans,F1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09715181303312079,7.24,-0.2966208736402055,piyasa,,,,2026-11-22 22:45,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7186146775939065,1.22,-0.12329009333543406,piyasa,False,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🔴 Tier 3 — Yüksek risk,MS 1,0.47771932539273454,1.86,-0.11144205476951374,piyasa,True,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.27833460447999203,2.94,-0.18169626282882345,piyasa,True,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5297267990757053,1.65,-0.12595078152508632,korner,False,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.42169483409516484,2.1,-0.11444084840015378,korner,True,,,2026-11-22 23:00,,,,,,kadro
+2026-11-22 22:07,2026-11-22,22.11,SP2,Burgos,Albacete,CF Burgos – Albacete,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.12472155990018126,5.28,-0.341470163727043,piyasa,,,,2026-11-22 23:00,,,,,,kadro
