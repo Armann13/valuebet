@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**216/780 tuttu** (isabet %28, beklenen %28) · -99.64 birim · 76 tahmin sonuç bekliyor
+**219/791 tuttu** (isabet %28, beklenen %28) · -101.30 birim · 65 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -78,35 +78,35 @@
 
 **16:30 · Sparta Rotterdam – AZ Alkmaar**
 
-- ⏳ ↳ MS 2 & KG Var · @2.71
+- ✅ ↳ MS 2 & KG Var · @2.71 · 1-5
 
 **17:00 · Paris – Angers**
 
-- ⏳ ↳ MS 1 & KG Var · @2.71
+- ❌ ↳ MS 1 & KG Var · @2.71 · 4-0
 
 **17:00 · AS Avellino 1912 – Mantova 1911**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.53
+- ✅ ↳ MS 1 & 2.5 Üst · @3.53 · 4-1
 
 **17:00 · Bologna – Udinese**
 
-- ⏳ ↳ MS 1 & KG Var · @3.48
+- ❌ ↳ MS 1 & KG Var · @3.48 · 1-1
 
 **17:00 · Sassuolo – Genoa**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.91
+- ❌ ↳ MS 2 & 2.5 Üst · @3.91 · 0-2
 
 **17:30 · Augsburg – Mainz**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.10
+- ✅ ↳ MS 1 & 2.5 Üst · @3.10 · 3-1
 
 **18:00 · Kortrijk – Union Saint Gilloise**
 
-- ⏳ ↳ MS 2 & KG Var · @2.79
+- ❌ ↳ MS 2 & KG Var · @2.79 · 0-1
 
 **18:15 · Santander – Real Sociedad**
 
-- ⏳ ↳ MS 2 & KG Var · @2.78
+- ❌ ↳ MS 2 & KG Var · @2.78 · 3-2
 
 **18:15 · S.Gijon – Las Palmas**
 
@@ -114,11 +114,11 @@
 
 **18:45 · Go Ahead Eagles – Fortuna Sittard**
 
-- ⏳ ↳ MS 1 & KG Var · @2.63
+- ❌ ↳ MS 1 & KG Var · @2.63 · 0-1
 
 **19:15 · SS Arezzo – Padova**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.71
+- ❌ ↳ MS 1 & 2.5 Üst · @3.71 · 1-1
 
 **19:15 · Lorient – Rennes**
 
@@ -126,7 +126,7 @@
 
 **19:30 · Liverpool – Manchester United**
 
-- ⏳ ↳ MS 1 & KG Var · @2.70
+- ❌ ↳ MS 1 & KG Var · @2.70 · 4-0
 
 **20:30 · Celta Vigo B – Real Valladolid**
 

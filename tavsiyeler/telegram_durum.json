@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-22 08",
+ "son_ozet": "2026-11-22 18",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -173,9 +173,6 @@
   "2026-11-21"
  ],
  "kuponlar": [
-  "4️⃣|Cardiff City – West Ham:MS 1|NEC Nijmegen – Omonia:MS 1 & 2.5 Üst|PSV – Club Brugge:MS 1 & KG Var|Real Sociedad – Lyon:MS 1 & 2.5 Üst",
-  "🎲|Bristol City – Wolverhampton:İY/MS 1/2|Fenerbahçe – Liverpool:İY/MS 1/2|Leipzig – Manchester City:İY/MS 1/2|Wrexham – Middlesbrough:İY/MS 1/2",
-  "2️⃣|Bristol City – Wolverhampton:En çok korner 1|Viking – Sabah:MS 1 & KG Var",
   "3️⃣|Leipzig – Manchester City:MS 2 & KG Var|PSV – Club Brugge:MS 1 & KG Var|Wrexham – Middlesbrough:En çok korner 1",
   "4️⃣|Cardiff City – West Ham:MS 1|Fenerbahçe – Liverpool:MS 2 & KG Var|NEC Nijmegen – Omonia:MS 1 & 2.5 Üst|Real Sociedad – Lyon:MS 1 & 2.5 Üst",
   "🎲|Fenerbahçe – Liverpool:İY/MS 1/2|Leipzig – Manchester City:İY/MS 1/2|RC Lens – Como 1907:İY/MS 1/2|Wrexham – Middlesbrough:İY/MS 1/2",
@@ -272,6 +269,9 @@
   "2️⃣|AD Ceuta – Almeria:En çok korner 1|Kasımpaşa – Alanyaspor:En çok korner 2",
   "3️⃣|Konyaspor – Beşiktaş:En çok korner 1|Levante – Elche:En çok korner 2|S.Gijon – Las Palmas:En çok korner 2",
   "4️⃣|Getafe – Atletico Madrid:En çok korner 1|Go Ahead Eagles – Fortuna Sittard:MS 1 & KG Var|Hull City – Brighton:MS 2 & KG Var|Panathinaikos – Ofi Crete:MS 1 & KG Var",
-  "🎲|Ajax – ADO Den Haag:İY/MS 2/1|E. Cottbus – Hertha Berlin:2.5 Alt|Getafe – Atletico Madrid:İY/MS 1/2|Lommel SK – Standard Liege:2.5 Alt|Panathinaikos – Ofi Crete:İY/MS 2/1|Trabzonspor – Eyüpspor:İY/MS 2/1"
+  "🎲|Ajax – ADO Den Haag:İY/MS 2/1|E. Cottbus – Hertha Berlin:2.5 Alt|Getafe – Atletico Madrid:İY/MS 1/2|Lommel SK – Standard Liege:2.5 Alt|Panathinaikos – Ofi Crete:İY/MS 2/1|Trabzonspor – Eyüpspor:İY/MS 2/1",
+  "2️⃣|AC Monza – Fiorentina:En çok korner 1|AD Ceuta – Almeria:En çok korner 1",
+  "3️⃣|Brentford – Everton:MS 1|Getafe – Atletico Madrid:En çok korner 1|Levante – Elche:En çok korner 2",
+  "🎲|AC Monza – Fiorentina:İY/MS 1/2|Asteras Tripolis – Aris:İY/MS 1/2|Getafe – Atletico Madrid:İY/MS 1/2|Nantes – Grenoble:İY/MS 2/1"
  ]
 }

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**124/1094 tuttu** (isabet %11, beklenen %11) · -192.36 birim · 83 tahmin sonuç bekliyor
+**125/1119 tuttu** (isabet %11, beklenen %11) · -211.60 birim · 58 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,56 +87,56 @@
 
 **16:00 · Barcelona – Villarreal**
 
-- ⏳ 2-1 · @9.75
+- ❌ 2-1 · @9.75 · 3-2
 
 **16:30 · Ajax – ADO Den Haag**
 
-- ⏳ 2-1 · @9.08
+- ❌ 2-1 · @9.08 · 3-0
 
 **16:30 · Sparta Rotterdam – AZ Alkmaar**
 
-- ⏳ 1-2 · @7.59
+- ❌ 1-2 · @7.59 · 1-5
 
 **17:00 · Paris – Angers**
 
-- ⏳ 2-1 · @7.42
+- ❌ 2-1 · @7.42 · 4-0
 
 **17:00 · Hull City – Brighton**
 
-- ⏳ 1-2 · @7.14
+- ❌ 1-2 · @7.14 · 2-0
 
 **17:00 · APO Levadeiakos FC – Atromitos**
 
-- ⏳ 1-0 · @5.14
-- ⏳ 0-0 · @5.16
+- ❌ 1-0 · @5.14 · 1-1
+- ❌ 0-0 · @5.16 · 1-1
 
 **17:00 · Bologna – Udinese**
 
-- ⏳ 2-1 · @7.32
+- ❌ 2-1 · @7.32 · 1-1
 
 **17:00 · AS Avellino 1912 – Mantova 1911**
 
-- ⏳ 2-1 · @8.28
+- ❌ 2-1 · @8.28 · 4-1
 
 **17:00 · Sassuolo – Genoa**
 
-- ⏳ 1-2 · @8.70
+- ❌ 1-2 · @8.70 · 0-2
 
 **17:30 · Augsburg – Mainz**
 
-- ⏳ 2-1 · @9.17
+- ❌ 2-1 · @9.17 · 3-1
 
 **18:00 · Paneitolikos – Volos**
 
-- ⏳ 1-0 · @5.76
+- ✅ 1-0 · @5.76 · 1-0
 
 **18:00 · Kortrijk – Union Saint Gilloise**
 
-- ⏳ 1-2 · @7.26
+- ❌ 1-2 · @7.26 · 0-1
 
 **18:15 · Santander – Real Sociedad**
 
-- ⏳ 1-2 · @8.37
+- ❌ 1-2 · @8.37 · 3-2
 
 **18:15 · S.Gijon – Las Palmas**
 
@@ -144,19 +144,19 @@
 
 **18:30 · Panathinaikos – Ofi Crete**
 
-- ⏳ 2-1 · @6.98
+- ❌ 2-1 · @6.98 · 2-0
 
 **18:45 · Go Ahead Eagles – Fortuna Sittard**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 0-1
 
 **19:00 · Trabzonspor – Eyüpspor**
 
-- ⏳ 2-1 · @9.17
+- ❌ 2-1 · @9.17 · 1-0
 
 **19:15 · SS Arezzo – Padova**
 
-- ⏳ 2-1 · @8.33
+- ❌ 2-1 · @8.33 · 1-1
 
 **19:15 · Lorient – Rennes**
 
@@ -164,27 +164,27 @@
 
 **19:30 · Werder Bremen – Hamburg**
 
-- ⏳ 2-1 · @7.26
+- ❌ 2-1 · @7.26 · 4-0
 
 **19:30 · Liverpool – Manchester United**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 4-0
 
 **20:00 · AC Milan – Frosinone**
 
-- ⏳ 2-1 · @7.65
+- ❌ 2-1 · @7.65 · 5-1
 
 **20:30 · Anderlecht – O.H. Leuven**
 
-- ⏳ 2-1 · @7.24
+- ❌ 2-1 · @7.24 · 1-0
 
 **20:30 · Girona – Eibar**
 
-- ⏳ 1-0 · @7.29
+- ❌ 1-0 · @7.29 · 2-1
 
 **20:30 · Osasuna – Malaga CF**
 
-- ⏳ 1-1 · @5.67
+- ❌ 1-1 · @5.67 · 1-0
 
 **20:30 · Celta Vigo B – Real Valladolid**
 
@@ -192,7 +192,7 @@
 
 **20:30 · PAOK – AE Kifisia FC**
 
-- ⏳ 2-1 · @6.55
+- ❌ 2-1 · @6.55 · 4-0
 
 **22:45 · Atalanta – Inter**
 

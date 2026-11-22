@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**620/876 tuttu** (isabet %71, beklenen %74) · -107.64 birim · 75 tahmin sonuç bekliyor
+**636/894 tuttu** (isabet %71, beklenen %74) · -105.96 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -49,7 +49,7 @@
 
 **16:00 · Barcelona – Villarreal**
 
-- ⏳ MS 1 & 2.5 Üst · @1.23
+- ✅ MS 1 & 2.5 Üst · @1.23 · 3-2
 
 **16:00 · Cordoba – Real Oviedo**
 
@@ -65,24 +65,24 @@
 
 **17:00 · Paris – Angers**
 
-- ⏳ MS 1 · @1.20
+- ✅ MS 1 · @1.20 · 4-0
 
 **17:00 · AS Avellino 1912 – Mantova 1911**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 4-1
 
 **17:00 · Sassuolo – Genoa**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 0-2
 
 **17:00 · Hull City – Brighton**
 
-- ⏳ En çok korner 2 · @1.31
+- ✅ En çok korner 2 · @1.31 · korner 3-5
 
 **18:00 · Kortrijk – Union Saint Gilloise**
 
-- ⏳ MS 2 · @1.26
-- ⏳ Korner 11.5 Alt · @1.25
+- ✅ MS 2 · @1.26 · 0-1
+- ✅ Korner 11.5 Alt · @1.25 · korner 3-6
 
 **18:15 · S.Gijon – Las Palmas**
 
@@ -90,16 +90,16 @@
 
 **18:15 · Santander – Real Sociedad**
 
-- ⏳ 2.5 Üst · @1.23
+- ✅ 2.5 Üst · @1.23 · 3-2
 
 **18:45 · Go Ahead Eagles – Fortuna Sittard**
 
-- ⏳ En çok korner 1 · @1.24
+- ✅ En çok korner 1 · @1.24 · korner 13-1
 
 **19:00 · Trabzonspor – Eyüpspor**
 
-- ⏳ 2.5 Üst · @1.20
-- ⏳ Korner 11.5 Alt · @1.27
+- ❌ 2.5 Üst · @1.20 · 1-0
+- ❌ Korner 11.5 Alt · @1.27 · korner 11-4
 
 **19:15 · Lorient – Rennes**
 
@@ -107,16 +107,16 @@
 
 **19:15 · SS Arezzo – Padova**
 
-- ⏳ ÇŞ 1-X · @1.25
+- ✅ ÇŞ 1-X · @1.25 · 1-1
 
 **19:30 · Werder Bremen – Hamburg**
 
-- ⏳ Korner 11.5 Alt · @1.21
+- ✅ Korner 11.5 Alt · @1.21 · korner 1-8
 
 **20:00 · AC Milan – Frosinone**
 
-- ⏳ 2.5 Üst · @1.23
-- ⏳ Korner 11.5 Alt · @1.24
+- ✅ 2.5 Üst · @1.23 · 5-1
+- ✅ Korner 11.5 Alt · @1.24 · korner 2-9
 
 **20:30 · Celta Vigo B – Real Valladolid**
 
@@ -124,15 +124,15 @@
 
 **20:30 · PAOK – AE Kifisia FC**
 
-- ⏳ MS 1 · @1.20
+- ✅ MS 1 · @1.20 · 4-0
 
 **20:30 · Girona – Eibar**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 2-1
 
 **20:30 · Osasuna – Malaga CF**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 4-1
 
 **21:15 · Lommel SK – Standard Liege**
 

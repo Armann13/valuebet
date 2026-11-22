@@ -6,12 +6,107 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2013 | 1997 | 1010 | -201.04 |
-| sonra | 1671 | 1658 | 822 | -188.18 |
+| önce | 2066 | 2033 | 1029 | -207.22 |
+| sonra | 1717 | 1687 | 841 | -185.17 |
 
-Değişen tahmin: 436 (427 sonuçlandı: eski 308, yeni 236 tuttu).
+Değişen tahmin: 447 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 22.11 · Getafe – Atletico Madrid
+
+Kadro mesajı: 22.11 22:20
+
+- 🟡 Tier 2: ⏳ MS 2 @1.41, ⏳ Korner 9.5 Alt @1.64 → ⏳ 2.5 Alt @1.56, ⏳ Korner 9.5 Alt @1.58 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.04, ⏳ Korner 8.5 Alt @2.08 → ⏳ Korner 8.5 Alt @2.00 (değişti)
+
+## 22.11 · CF Burgos – Albacete
+
+Kadro mesajı: 22.11 22:07
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21 → ⏳ ÇŞ 1-2 @1.22 (aynı)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.65 → ⏳ Korner 9.5 Alt @1.65 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 @1.87, ⏳ Korner 8.5 Alt @2.10 → ⏳ MS 1 @1.86, ⏳ Korner 8.5 Alt @2.10 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @2.91 → ⏳ İY/MS 1/1 @2.94 (aynı)
+
+## 22.11 · Marsilya – Le Mans
+
+Kadro mesajı: 22.11 21:55
+
+- 🟢 Tier 1: ⏳ En çok korner 1 @1.24 → — (kalktı)
+- 🟡 Tier 2: ⏳ KG Var @1.54 → ⏳ KG Var @1.62, ⏳ Korner 9.5 Alt @1.55 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.58 → ⏳ MS 1 & KG Var @2.62, ⏳ Korner 8.5 Alt @1.95 (değişti)
+
+## 22.11 · Lommel SK – Standard Liege
+
+Kadro mesajı: 22.11 20:21
+
+- 🟢 Tier 1: ⏳ ÇŞ X-2 @1.23 → ⏳ ÇŞ X-2 @1.25 (aynı)
+- 🟡 Tier 2: ⏳ Korner 10.5 Alt @1.63 → ⏳ Korner 10.5 Alt @1.63 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 @1.94, ⏳ Korner 9.5 Alt @2.04 → ⏳ MS 2 @1.96, ⏳ Korner 9.5 Alt @2.04 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 2/2 @2.95 → ⏳ İY/MS 2/2 @2.96 (aynı)
+
+## 22.11 · Anderlecht – O.H. Leuven
+
+Kadro mesajı: 22.11 19:48
+
+- 🟡 Tier 2: ❌ 2.5 Üst @1.42, ❌ Korner 10.5 Üst @1.63, ❌ MS 1 & 2.5 Üst @1.89 → ❌ MS 1 & 2.5 Üst @1.93, ❌ Korner 10.5 Üst @1.58 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.65, ❌ Korner 11.5 Üst @2.02 → ❌ MS 1 & KG Var @2.71, ❌ Korner 11.5 Üst @1.95 (aynı)
+
+## 22.11 · PAOK – AE Kifisia FC
+
+Kadro mesajı: 22.11 19:48
+
+- 🟢 Tier 1: ✅ MS 1 @1.20 → ✅ MS 1 @1.21 (aynı)
+- 🟡 Tier 2: ✅ MS 1 & 2.5 Üst @1.65 → ✅ MS 1 & 2.5 Üst @1.75 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.52 → ❌ MS 1 & KG Var @2.76 (aynı)
+
+## 22.11 · Girona – Eibar
+
+Kadro mesajı: 22.11 19:36
+
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.20 → ✅ Korner 11.5 Alt @1.20 (aynı)
+- 🟡 Tier 2: ❌ 2.5 Alt @1.90, ✅ Korner 9.5 Alt @1.68, ❌ KG Yok @1.90 → ❌ KG Yok @1.89, ✅ Korner 9.5 Alt @1.68 (değişti)
+
+## 22.11 · Osasuna – Malaga CF
+
+Kadro mesajı: 22.11 19:36
+
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.20 → — (kalktı)
+- 🟡 Tier 2: ✅ 2.5 Alt @1.65, ✅ Korner 9.5 Alt @1.65 → ✅ 2.5 Alt @1.66, ✅ Korner 9.5 Alt @1.62 (aynı)
+- 🔴 Tier 3: ✅ Korner 8.5 Alt @2.10 → ✅ Korner 8.5 Alt @2.06 (aynı)
+
+## 22.11 · AC Milan – Frosinone
+
+Kadro mesajı: 22.11 19:23
+
+- 🟢 Tier 1: ✅ 2.5 Üst @1.23, ✅ Korner 11.5 Alt @1.24 → ✅ 2.5 Üst @1.33, ✅ Korner 11.5 Alt @1.25 (aynı)
+- 🟡 Tier 2: ✅ MS 1 & 2.5 Üst @1.71, ❌ Korner 10.5 Alt @1.44 → ✅ MS 1 & 2.5 Üst @1.87, ❌ Korner 10.5 Alt @1.48 (aynı)
+- 🔴 Tier 3: ✅ MS 1 & KG Var @2.27 → ✅ MS 1 & KG Var @2.52 (aynı)
+
+## 22.11 · Olympiacos – POT Iraklis
+
+Kadro mesajı: 22.11 19:23
+
+- 🟡 Tier 2: ❌ KG Yok @1.42 → ✅ 2.5 Üst @1.40 (değişti)
+- 🔴 Tier 3: ❌ 2.5 Alt @2.10 → ✅ MS 1 & 2.5 Üst @1.48 (değişti)
+- 🟣 Tier 4: — → ✅ MS 1 & KG Var @2.87 (yeni)
+
+## 22.11 · Liverpool – Manchester United
+
+Kadro mesajı: 22.11 19:10
+
+- 🟡 Tier 2: ✅ MS 1 @1.56, ✅ Korner 9.5 Üst @1.52, ❌ Korner 10.5 Alt @1.53, ❌ KG Var @1.41, ✅ En çok korner 1 @1.40 → ✅ MS 1 @1.65, ✅ En çok korner 1 @1.40 (değişti)
+- 🔴 Tier 3: ✅ MS 1 & 2.5 Üst @2.06, ✅ Korner 10.5 Üst @1.88, ❌ Korner 9.5 Alt @1.90 → ✅ MS 1 & 2.5 Üst @2.18 (değişti)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @2.70 → ❌ MS 1 & KG Var @2.79 (aynı)
+
+## 22.11 · Werder Bremen – Hamburg
+
+Kadro mesajı: 22.11 19:10
+
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.21 → ✅ Korner 11.5 Alt @1.20 (aynı)
+- 🟡 Tier 2: ❌ KG Var @1.45, ✅ Korner 10.5 Alt @1.41 → ❌ KG Var @1.55, ✅ Korner 9.5 Alt @1.68 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.75 → ❌ MS 1 & KG Var @2.86 (aynı)
 
 ## 21.11 · Groningen – Heerenveen
 

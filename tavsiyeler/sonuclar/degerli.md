@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/109 tuttu** (isabet %38, beklenen %42) · -14.62 birim · 9 tahmin sonuç bekliyor
+**41/113 tuttu** (isabet %36, beklenen %43) · -18.62 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,16 +19,20 @@
 
 **17:00 · Paris – Angers**
 
-- ⏳ 2.5 Alt · @2.55
+- ❌ 2.5 Alt · @2.55 · 4-0
+
+**19:15 · Lorient – Rennes**
+
+- ⏳ 2.5 Üst · @1.99
 
 **20:00 · Olympiacos – POT Iraklis**
 
-- ⏳ 2.5 Alt · @2.22
+- ❌ 2.5 Alt · @2.22 · 6-2
 
 **20:30 · Girona – Eibar**
 
-- ⏳ 2.5 Alt · @1.90
-- ⏳ KG Yok · @1.96
+- ❌ 2.5 Alt · @1.90 · 2-1
+- ❌ KG Yok · @1.96 · 2-1
 
 **21:15 · Lommel SK – Standard Liege**
 

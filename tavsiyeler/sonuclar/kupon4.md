@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/127 tuttu** (isabet %38, beklenen %37) · +5.11 birim · 9 tahmin sonuç bekliyor
+**48/131 tuttu** (isabet %37, beklenen %37) · +1.11 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,9 +10,9 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 22.11 17:00 Hull City – Brighton · MS 2 & KG Var · @3.12
-- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39
-- ⏳ 22.11 18:45 Go Ahead Eagles – Fortuna Sittard · MS 1 & KG Var · @2.96
+- ❌ 22.11 17:00 Hull City – Brighton · MS 2 & KG Var · @3.12 · 2-0
+- ❌ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39 · 2-0
+- ❌ 22.11 18:45 Go Ahead Eagles – Fortuna Sittard · MS 1 & KG Var · @2.96 · 0-1
 - ⏳ 22.11 23:00 Getafe – Atletico Madrid · En çok korner 1 · @2.83
 
 ## 21.11 18:01 gönderilen kupon · 4 maç, oran 39,33
@@ -22,7 +22,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ❌ 21.11 20:45 Feyenoord – Excelsior · MS 1 & KG Var · @2.27 · 2-3
 - ❌ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.81 · 1-1
 - ⏳ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58
-- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39
+- ❌ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39 · 2-0
 
 ## 21.11 14:21 gönderilen kupon · 4 maç, oran 44,28
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**826/1482 tuttu** (isabet %56, beklenen %59) · -198.84 birim · 120 tahmin sonuç bekliyor
+**845/1524 tuttu** (isabet %55, beklenen %59) · -210.40 birim · 78 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -92,56 +92,56 @@
 
 **16:00 · Barcelona – Villarreal**
 
-- ⏳ Korner 10.5 Alt · @1.83
+- ✅ Korner 10.5 Alt · @1.83 · korner 10-0
 
 **16:30 · Ajax – ADO Den Haag**
 
-- ⏳ KG Var · @1.65
-- ⏳ Korner 10.5 Alt · @1.59
+- ❌ KG Var · @1.65 · 3-0
+- ❌ Korner 10.5 Alt · @1.59 · korner 8-3
 
 **16:30 · Sparta Rotterdam – AZ Alkmaar**
 
-- ⏳ MS 2 · @1.61
-- ⏳ Korner 10.5 Alt · @1.69
+- ✅ MS 2 · @1.61 · 1-5
+- ✅ Korner 10.5 Alt · @1.69 · korner 5-4
 
 **17:00 · APO Levadeiakos FC – Atromitos**
 
-- ⏳ KG Yok · @1.55
+- ❌ KG Yok · @1.55 · 1-1
 
 **17:00 · Hull City – Brighton**
 
-- ⏳ KG Var · @1.66
+- ❌ KG Var · @1.66 · 2-0
 
 **17:00 · Bologna – Udinese**
 
-- ⏳ KG Var · @1.69
-- ⏳ Korner 9.5 Alt · @1.57
+- ✅ KG Var · @1.69 · 1-1
+- ❌ Korner 9.5 Alt · @1.57 · korner 8-4
 
 **17:00 · Sassuolo – Genoa**
 
-- ⏳ Korner 9.5 Alt · @1.50
+- ✅ Korner 9.5 Alt · @1.50 · korner 5-3
 
 **17:00 · AS Avellino 1912 – Mantova 1911**
 
-- ⏳ Korner 9.5 Alt · @1.51
+- ❌ Korner 9.5 Alt · @1.51 · korner 5-7
 
 **17:00 · Paris – Angers**
 
-- ⏳ Korner 9.5 Alt · @1.54
-- ⏳ KG Var · @1.65
+- ❌ Korner 9.5 Alt · @1.54 · korner 10-2
+- ❌ KG Var · @1.65 · 4-0
 
 **17:30 · Augsburg – Mainz**
 
-- ⏳ ÇŞ 1-X · @1.42
-- ⏳ Korner 10.5 Alt · @1.51
+- ✅ ÇŞ 1-X · @1.42 · 3-1
+- ✅ Korner 10.5 Alt · @1.51 · korner 6-0
 
 **18:00 · Paneitolikos – Volos**
 
-- ⏳ KG Yok · @1.70
+- ✅ KG Yok · @1.70 · 1-0
 
 **18:00 · Kortrijk – Union Saint Gilloise**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.45
+- ✅ ↳ Korner 10.5 Alt · @1.45 · korner 3-6
 
 **18:15 · S.Gijon – Las Palmas**
 
@@ -149,24 +149,24 @@
 
 **18:15 · Santander – Real Sociedad**
 
-- ⏳ En çok korner 2 · @1.81
+- ✅ En çok korner 2 · @1.81 · korner 7-14
 
 **18:30 · Panathinaikos – Ofi Crete**
 
-- ⏳ MS 1 & 2.5 Üst · @1.44
+- ❌ MS 1 & 2.5 Üst · @1.44 · 2-0
 
 **18:45 · Go Ahead Eagles – Fortuna Sittard**
 
-- ⏳ MS 1 · @1.49
-- ⏳ Korner 11.5 Alt · @1.57
+- ❌ MS 1 · @1.49 · 0-1
+- ❌ Korner 11.5 Alt · @1.57 · korner 13-1
 
 **19:00 · Trabzonspor – Eyüpspor**
 
-- ⏳ ↳ Korner 10.5 Alt · @1.50
+- ❌ ↳ Korner 10.5 Alt · @1.50 · korner 11-4
 
 **19:15 · SS Arezzo – Padova**
 
-- ⏳ En çok korner 1 · @1.49
+- ❌ En çok korner 1 · @1.49 · korner 3-6
 
 **19:15 · Lorient – Rennes**
 
@@ -174,46 +174,46 @@
 
 **19:30 · Werder Bremen – Hamburg**
 
-- ⏳ KG Var · @1.45
-- ⏳ ↳ Korner 10.5 Alt · @1.41
+- ❌ KG Var · @1.45 · 4-0
+- ✅ ↳ Korner 10.5 Alt · @1.41 · korner 1-8
 
 **19:30 · Liverpool – Manchester United**
 
-- ⏳ MS 1 · @1.56
-- ⏳ Korner 9.5 Üst · @1.52
-- ⏳ Korner 10.5 Alt · @1.53
-- ⏳ KG Var · @1.41
-- ⏳ En çok korner 1 · @1.40
+- ✅ MS 1 · @1.56 · 4-0
+- ✅ Korner 9.5 Üst · @1.52 · korner 15-5
+- ❌ Korner 10.5 Alt · @1.53 · korner 15-5
+- ❌ KG Var · @1.41 · 4-0
+- ✅ En çok korner 1 · @1.40 · korner 15-5
 
 **20:00 · Olympiacos – POT Iraklis**
 
-- ⏳ KG Yok · @1.42
+- ❌ KG Yok · @1.42 · 6-2
 
 **20:00 · AC Milan – Frosinone**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.71
-- ⏳ ↳ Korner 10.5 Alt · @1.44
+- ✅ ↳ MS 1 & 2.5 Üst · @1.71 · 5-1
+- ❌ ↳ Korner 10.5 Alt · @1.44 · korner 2-9
 
 **20:30 · Girona – Eibar**
 
-- ⏳ 2.5 Alt · @1.90
-- ⏳ ↳ Korner 9.5 Alt · @1.68
-- ⏳ KG Yok · @1.90
+- ❌ 2.5 Alt · @1.90 · 2-1
+- ✅ ↳ Korner 9.5 Alt · @1.68 · korner 2-1
+- ❌ KG Yok · @1.90 · 2-1
 
 **20:30 · Anderlecht – O.H. Leuven**
 
-- ⏳ 2.5 Üst · @1.42
-- ⏳ Korner 10.5 Üst · @1.63
-- ⏳ MS 1 & 2.5 Üst · @1.89
+- ❌ 2.5 Üst · @1.42 · 1-0
+- ❌ Korner 10.5 Üst · @1.63 · korner 6-4
+- ❌ MS 1 & 2.5 Üst · @1.89 · 1-0
 
 **20:30 · Osasuna – Malaga CF**
 
-- ⏳ 2.5 Alt · @1.65
-- ⏳ Korner 9.5 Alt · @1.65
+- ✅ 2.5 Alt · @1.65 · 1-0
+- ✅ Korner 9.5 Alt · @1.65 · korner 4-1
 
 **20:30 · PAOK – AE Kifisia FC**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.65
+- ✅ ↳ MS 1 & 2.5 Üst · @1.65 · 4-0
 
 **20:30 · Celta Vigo B – Real Valladolid**
 
