@@ -9115,3 +9115,13 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-22 19:23,2026-11-22,22.11,I1,Milan,Frosinone,AC Milan – Frosinone,I1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.6302717722970765,1.48,-0.0671977770003267,korner,True,,,2026-11-22 20:00,,,,,,kadro
 2026-11-22 19:23,2026-11-22,22.11,I1,Milan,Frosinone,AC Milan – Frosinone,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.12170748215139265,7.39,-0.10058170690120838,piyasa,,,,2026-11-22 20:00,,,,,,kadro
 2026-11-22 19:23,2026-11-22,22.11,G1,Olympiakos,Iraklis,Olympiacos – POT Iraklis,G1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11314472316696653,7.7,-0.12878563161435774,piyasa,,,,2026-11-22 20:00,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,🟡 Tier 2 — Orta risk,KG Yok,0.5401461789960152,1.89,0.020876278302468743,piyasa,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP1,Osasuna,Malaga,Osasuna – Malaga CF,SP1,🟡 Tier 2 — Orta risk,2.5 Alt,0.5352498716024563,1.66,-0.11148521313992255,piyasa,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7537796950320744,1.2,-0.09546436596151076,korner,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5710013157730225,1.68,-0.04071778950132221,korner,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP1,Osasuna,Malaga,Osasuna – Malaga CF,SP1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5582313817959919,1.62,-0.09566516149049309,korner,False,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP1,Osasuna,Malaga,Osasuna – Malaga CF,SP1,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4498510471081616,2.06,-0.07330684295718715,korner,True,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.14058259283817257,6.87,-0.034197587201754476,piyasa,,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP1,Osasuna,Malaga,Osasuna – Malaga CF,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-1,0.13304871860756629,5.79,-0.2296479192621912,piyasa,,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,💎 Değeri pozitif olanlar,KG Yok,0.5401461789960152,1.89,0.020876278302468743,piyasa,,,,2026-11-22 20:30,,,,,,kadro
+2026-11-22 19:36,2026-11-22,22.11,SP2,Girona,Eibar,Girona – Eibar,SP2,💎 Değeri pozitif olanlar,2.5 Alt,0.5586680048365937,1.8,0.005602408705868811,piyasa,,,,2026-11-22 20:30,,,,,,kadro
