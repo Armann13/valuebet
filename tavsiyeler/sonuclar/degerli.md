@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/115 tuttu** (isabet %36, beklenen %43) · -20.62 birim · 4 tahmin sonuç bekliyor
+**43/119 tuttu** (isabet %36, beklenen %43) · -20.64 birim
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -23,7 +23,7 @@
 
 **19:15 · Lorient – Rennes**
 
-- ⏳ 2.5 Üst · @1.99
+- ❌ 2.5 Üst · @1.99 · 1-1
 
 **20:00 · Olympiacos – POT Iraklis**
 
@@ -43,12 +43,12 @@
 
 **18:00 · Ross County – Cove Rangers**
 
-- ⏳ MS 1 & KG Var · @2.24
-- ⏳ KG Var · @1.74
+- ✅ MS 1 & KG Var · @2.24 · 5-1
+- ✅ KG Var · @1.74 · 5-1
 
 **20:30 · Montrose – Alloa**
 
-- ⏳ MS 2 & 2.5 Üst · @4.02
+- ❌ MS 2 & 2.5 Üst · @4.02 · 1-1
 
 **22:45 · RC Lens – Toulouse**
 

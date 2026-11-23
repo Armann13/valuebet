@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**48/132 tuttu** (isabet %36, beklenen %37) · +0.11 birim · 4 tahmin sonuç bekliyor
+**49/133 tuttu** (isabet %37, beklenen %37) · +1.69 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11 16:06 gönderilen kupon · 4 maç, oran 73,15
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
+- ⏳ 24.11 22:00 Benevento – Empoli · En çok korner 2 · @3.46
+- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.41
+- ⏳ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.55
 
 ## 22.11 14:39 gönderilen kupon · 4 maç, oran 62,46
 
@@ -17,11 +26,11 @@
 
 ## 21.11 18:01 gönderilen kupon · 4 maç, oran 39,33
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 21.11 20:45 Feyenoord – Excelsior · MS 1 & KG Var · @2.27 · 2-3
 - ❌ 21.11 22:45 Monaco – AJ Auxerre · MS 1 & KG Var · @2.81 · 1-1
-- ⏳ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58
+- ✅ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58 · korner 3-5
 - ❌ 22.11 18:30 Panathinaikos – Ofi Crete · MS 1 & KG Var · @2.39 · 2-0
 
 ## 21.11 14:21 gönderilen kupon · 4 maç, oran 44,28

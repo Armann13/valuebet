@@ -2,78 +2,87 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**20/145 tuttu** (isabet %14, beklenen %14) · +186.23 birim · 78 tahmin sonuç bekliyor
+**21/164 tuttu** (isabet %13, beklenen %13) · +189.48 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11 16:06 gönderilen kupon · 4 maç, oran 171.912,21
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40
+- ⏳ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40
+- ⏳ 24.11 22:45 Scunthorpe – Gateshead · İY/MS 2/1 · @19.70
+- ⏳ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05
 
 ## 22.11 22:50 gönderilen kupon · 4 maç, oran 457.545,69
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50
+- ❌ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50 · İY 0-2, MS 0-3
 - ⏳ 23.11 18:00 Asteras Tripolis – Aris · İY/MS 1/2 · @29.00
 - ⏳ 23.11 22:45 Nantes – Grenoble · İY/MS 2/1 · @26.50
 - ⏳ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65
 
 ## 22.11 14:39 gönderilen kupon · 6 maç, oran 1.774.716,98
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/6 maç tuttu
 
 - ❌ 22.11 15:30 E. Cottbus – Hertha Berlin · 2.5 Alt · @2.85 · 0-4
-- ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @19.60
-- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.35
-- ⏳ 22.11 19:00 Trabzonspor – Eyüpspor · İY/MS 2/1 · @24.05
+- ❌ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @19.60 · İY 3-0, MS 3-0
+- ❌ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.35 · İY 0-0, MS 2-0
+- ❌ 22.11 19:00 Trabzonspor – Eyüpspor · İY/MS 2/1 · @24.05 · İY 1-0, MS 1-0
 - ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.25 · 1-2
-- ⏳ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50
+- ❌ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50 · İY 0-2, MS 0-3
 
 ## 21.11 18:01 gönderilen kupon · 6 maç, oran 990.944,62
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/6 maç tuttu
 
-- ❌ 21.11 19:15 US Catanzaro 1929 – US Palermo · İY/MS 1/2 · @22.10
-- ⏳ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @21.50
-- ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.00
-- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45
+- ❌ 21.11 19:15 US Catanzaro 1929 – US Palermo · İY/MS 1/2 · @22.10 · İY 1-1, MS 3-1
+- ❌ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @21.50 · İY 0-1, MS 1-5
+- ❌ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.00 · İY 3-0, MS 3-0
+- ❌ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45 · İY 0-0, MS 2-0
 - ❌ 22.11 20:00 Olympiacos – POT Iraklis · 2.5 Alt · @2.23 · 6-2
 - ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18 · 1-2
 
 ## 21.11 14:21 gönderilen kupon · 6 maç, oran 861.105,82
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/6 maç tuttu
 
-- ⏳ 21.11 17:30 Union Berlin – Leipzig · İY/MS 1/2 · @19.25
-- ⏳ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @21.30
-- ⏳ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.05
-- ⏳ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45
+- ❌ 21.11 17:30 Union Berlin – Leipzig · İY/MS 1/2 · @19.25 · İY 1-1, MS 1-5
+- ❌ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @21.30 · İY 0-1, MS 1-5
+- ❌ 22.11 16:30 Ajax – ADO Den Haag · İY/MS 2/1 · @20.05 · İY 3-0, MS 3-0
+- ❌ 22.11 18:30 Panathinaikos – Ofi Crete · İY/MS 2/1 · @21.45 · İY 0-0, MS 2-0
 - ❌ 22.11 20:00 Olympiacos – POT Iraklis · 2.5 Alt · @2.24 · 6-2
 - ❌ 22.11 21:15 Lommel SK – Standard Liege · 2.5 Alt · @2.18 · 1-2
 
 ## 20.11 14:54 gönderilen kupon · 4 maç, oran 221.802,24
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 21.11 17:30 Union Berlin – Leipzig · İY/MS 1/2 · @19.20
+- ❌ 21.11 17:30 Union Berlin – Leipzig · İY/MS 1/2 · @19.20 · İY 1-1, MS 1-5
 - ⏳ 21.11 18:00 Dunfermline – G. Morton · İY/MS 2/1 · @23.60
-- ⏳ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @22.00
-- ⏳ 21.11 23:00 Real Madrid – Celta Vigo · İY/MS 2/1 · @22.25
+- ❌ 21.11 20:00 Parma – AS Roma · İY/MS 1/2 · @22.00 · İY 0-1, MS 1-5
+- ✅ 21.11 23:00 Real Madrid – Celta Vigo · İY/MS 2/1 · @22.25 · İY 0-1, MS 2-1
 
 ## 19.11 19:09 gönderilen kupon · 4 maç, oran 242.633,69
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · İY/MS 1/2 · @22.15
-- ⏳ 20.11 22:00 AS Nancy – Dijon · İY/MS 2/1 · @23.15
-- ❌ 20.11 22:30 Inverness – Ayr United · İY/MS 2/1 · @23.60
-- ⏳ 20.11 22:45 Southend – Boreham Wood · İY/MS 1/2 · @20.05
+- ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · İY/MS 1/2 · @22.15 · İY 2-1, MS 3-1
+- ❌ 20.11 22:00 AS Nancy – Dijon · İY/MS 2/1 · @23.15 · İY 0-0, MS 1-0
+- ❌ 20.11 22:30 Inverness – Ayr United · İY/MS 2/1 · @23.60 · İY 0-0, MS 0-0
+- ❌ 20.11 22:45 Southend – Boreham Wood · İY/MS 1/2 · @20.05 · İY 0-3, MS 2-3
 
 ## 19.11 14:53 gönderilen kupon · 4 maç, oran 229.952,02
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · İY/MS 1/2 · @22.15
-- ⏳ 20.11 22:30 Bayern Münih – Köln · İY/MS 2/1 · @22.05
-- ❌ 20.11 22:30 Inverness – Ayr United · İY/MS 2/1 · @23.60
-- ⏳ 20.11 22:45 Southend – Boreham Wood · İY/MS 1/2 · @19.95
+- ❌ 20.11 20:30 Darmstadt 98 – Heidenheim · İY/MS 1/2 · @22.15 · İY 2-1, MS 3-1
+- ❌ 20.11 22:30 Bayern Münih – Köln · İY/MS 2/1 · @22.05 · İY 1-1, MS 1-1
+- ❌ 20.11 22:30 Inverness – Ayr United · İY/MS 2/1 · @23.60 · İY 0-0, MS 0-0
+- ❌ 20.11 22:45 Southend – Boreham Wood · İY/MS 1/2 · @19.95 · İY 0-3, MS 2-3
 
 ## 17.11 19:10 gönderilen kupon · 4 maç, oran 248.038,36
 

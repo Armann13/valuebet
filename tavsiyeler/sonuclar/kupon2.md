@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**28/69 tuttu** (isabet %41, beklenen %50) · -10.52 birim · 5 tahmin sonuç bekliyor
+**28/69 tuttu** (isabet %41, beklenen %50) · -10.52 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11 16:06 gönderilen kupon · 2 maç, oran 3,31
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90
+- ⏳ 24.11 22:45 Bristol City – Wrexham · En çok korner 1 · @1.74
 
 ## 22.11 22:50 gönderilen kupon · 2 maç, oran 3,81
 

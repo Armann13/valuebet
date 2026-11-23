@@ -2,16 +2,166 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**126/1121 tuttu** (isabet %11, beklenen %11) · -207.41 birim · 57 tahmin sonuç bekliyor
+**127/1132 tuttu** (isabet %11, beklenen %11) · -212.71 birim · 83 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.11.2026 Salı
+
+**20:45 · Bodo Glimt – LASK**
+
+- ⏳ 2-1 · @8.14
+
+**20:45 · Galatasaray – Aston Villa**
+
+- ⏳ 1-2 · @8.80
+
+**21:00 · Juve Stabia – US Catanzaro 1929**
+
+- ⏳ 2-1 · @7.55
+
+**22:00 · Benevento – Empoli**
+
+- ⏳ 2-1 · @7.16
+
+**22:00 · US Palermo – FC Sudtirol**
+
+- ⏳ 2-1 · @7.20
+
+**22:00 · Virtus Entella – Hellas Verona**
+
+- ⏳ 0-1 · @6.27
+
+**22:00 · LR Vicenza Virtus – Carrarese Calcio 1908**
+
+- ⏳ 0-1 · @7.49
+
+**22:00 · AC Cesena – Ascoli**
+
+- ⏳ 1-2 · @8.51
+
+**22:45 · Bradford – Barnsley**
+
+- ⏳ 2-1 · @6.33
+
+**22:45 · Port Vale – Northampton**
+
+- ⏳ 1-0 · @4.88
+
+**22:45 · AFC Fylde – Halifax Town**
+
+- ⏳ 2-1 · @6.90
+
+**22:45 · Blackpool – Leicester City**
+
+- ⏳ 1-2 · @6.65
+
+**22:45 · Hornchurch – Sutton United**
+
+- ⏳ 1-1 · @4.68
+
+**22:45 · Scunthorpe – Gateshead**
+
+- ⏳ 2-1 · @6.52
+
+**22:45 · Carlisle – Tamworth**
+
+- ⏳ 2-1 · @6.76
+
+**22:45 · Crawley Town – Barnet**
+
+- ⏳ 1-2 · @6.66
+
+**22:45 · Altrincham – Wealdstone**
+
+- ⏳ 2-1 · @6.68
+
+**22:45 · Eastleigh – Yeovil Town**
+
+- ⏳ 1-2 · @6.95
+
+**22:45 · Forest Green – Southend**
+
+- ⏳ 2-1 · @7.69
+
+**22:45 · Hibernian – Dundee**
+
+- ⏳ 2-1 · @7.11
+
+**22:45 · Bromley – Wycombe**
+
+- ⏳ 1-2 · @6.57
+
+**22:45 · Stevenage – Sheffield Wednesday**
+
+- ⏳ 1-2 · @7.24
+
+**22:45 · Bristol City – Wrexham**
+
+- ⏳ 1-0 · @6.65
+
+**22:45 · Charlton – Lincoln City**
+
+- ⏳ 0-1 · @7.35
+
+**22:45 · Portsmouth – West Ham**
+
+- ⏳ 1-2 · @7.40
+
+**22:45 · Norwich City – Queens Park Rangers**
+
+- ⏳ 2-1 · @7.59
+
+**22:45 · Boston United – Barrow**
+
+- ⏳ 2-1 · @8.33
+
+**22:45 · Sheffield United – Southampton**
+
+- ⏳ 2-1 · @8.53
+
+**22:45 · Woking – Worthing**
+
+- ⏳ 1-2 · @8.21
+
+**23:00 · Rangers – Aberdeen**
+
+- ⏳ 2-1 · @7.92
+
+**23:00 · Arsenal – B. Dortmund**
+
+- ⏳ 2-1 · @7.27
+
+**23:00 · Real Madrid – PSV**
+
+- ⏳ 3-0 · @8.99
+
+**23:00 · Feyenoord – Porto**
+
+- ⏳ 1-2 · @8.29
+
+**23:00 · Leipzig – RC Lens**
+
+- ⏳ 3-1 · @8.74
+
+**23:00 · Manchester City – Napoli**
+
+- ⏳ 3-1 · @8.60
+
+**23:00 · Como 1907 – AEK Athens**
+
+- ⏳ 3-1 · @8.64
+
+**23:00 · Slovan Bratislava – Real Betis**
+
+- ⏳ 1-3 · @8.65
 
 ## 23.11.2026 Pazartesi
 
 **18:00 · Asteras Tripolis – Aris**
 
-- ⏳ 1-1 · @4.54
-- ⏳ 0-1 · @5.70
+- ❌ 1-1 · @4.54 · 0-1
+- ✅ 0-1 · @5.70 · 0-1
 
 **20:00 · Başakşehir – Çorum FK**
 
@@ -41,7 +191,7 @@
 
 **13:30 · Erzurumspor FK – Göztepe**
 
-- ⏳ 1-2 · @8.31
+- ❌ 1-2 · @8.31 · 0-1
 
 **14:15 · Twente – Willem II**
 
@@ -141,7 +291,7 @@
 
 **18:15 · S.Gijon – Las Palmas**
 
-- ⏳ 2-1 · @7.82
+- ❌ 2-1 · @7.82 · 0-2
 
 **18:30 · Panathinaikos – Ofi Crete**
 
@@ -161,7 +311,7 @@
 
 **19:15 · Lorient – Rennes**
 
-- ⏳ 1-2 · @8.29
+- ❌ 1-2 · @8.29 · 1-1
 
 **19:30 · Werder Bremen – Hamburg**
 
@@ -189,7 +339,7 @@
 
 **20:30 · Celta Vigo B – Real Valladolid**
 
-- ⏳ 1-2 · @7.73
+- ❌ 1-2 · @7.73 · 1-1
 
 **20:30 · PAOK – AE Kifisia FC**
 
@@ -197,8 +347,8 @@
 
 **22:45 · Atalanta – Inter**
 
-- ⏳ 1-2 · @7.50
-- ⏳ 1-1 · @8.39
+- ❌ 1-2 · @7.50 · 4-4
+- ❌ 1-1 · @8.39 · 4-4
 
 **22:45 · Marsilya – Le Mans**
 
@@ -286,7 +436,7 @@
 
 **16:00 · Amed Sportif Faaliyetler – Rizespor**
 
-- ⏳ 2-1 · @7.34
+- ❌ 2-1 · @7.34 · 0-2
 
 **17:00 · Modena FC – Juve Stabia**
 
@@ -599,7 +749,7 @@
 
 **20:45 · Dundee – Hearts**
 
-- ⏳ 1-2 · @7.73
+- ❌ 1-2 · @7.73 · 0-8
 
 **20:45 · Utrecht – SC Cambuur**
 
@@ -712,7 +862,7 @@
 
 **22:30 · Bayern Münih – Köln**
 
-- ⏳ 3-1 · @9.88
+- ❌ 3-1 · @9.88 · 1-1
 
 **22:45 · Southend – Boreham Wood**
 

@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2068 | 2049 | 1039 | -207.47 |
-| sonra | 1717 | 1702 | 851 | -183.51 |
+| önce | 2068 | 2055 | 1043 | -202.46 |
+| sonra | 1717 | 1706 | 854 | -178.27 |
 
-Değişen tahmin: 449 (439 sonuçlandı: eski 315, yeni 246 tuttu).
+Değişen tahmin: 449 (443 sonuçlandı: eski 319, yeni 249 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -18,7 +18,7 @@ Değişen tahmin: 449 (439 sonuçlandı: eski 315, yeni 246 tuttu).
 Kadro mesajı: 22.11 22:20
 
 - 🟡 Tier 2: ✅ MS 2 @1.41, ✅ Korner 9.5 Alt @1.64 → ❌ 2.5 Alt @1.56, ✅ Korner 9.5 Alt @1.58 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.04, ❌ Korner 8.5 Alt @2.08 → ❌ Korner 8.5 Alt @2.00 (değişti)
+- 🔴 Tier 3: ✅ İY/MS 2/2 @2.04, ❌ Korner 8.5 Alt @2.08 → ❌ Korner 8.5 Alt @2.00 (değişti)
 
 ## 22.11 · CF Burgos – Albacete
 
@@ -27,7 +27,7 @@ Kadro mesajı: 22.11 22:07
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21, ✅ Korner 11.5 Alt @1.24 → ✅ ÇŞ 1-2 @1.22 (değişti)
 - 🟡 Tier 2: ❌ Korner 9.5 Alt @1.65, ❌ Korner 10.5 Alt @1.43 → ❌ Korner 9.5 Alt @1.65 (değişti)
 - 🔴 Tier 3: ✅ MS 1 @1.87, ❌ Korner 8.5 Alt @2.10 → ✅ MS 1 @1.86, ❌ Korner 8.5 Alt @2.10 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @2.91 → ⏳ İY/MS 1/1 @2.94 (aynı)
+- 🟣 Tier 4: ❌ İY/MS 1/1 @2.91 → ❌ İY/MS 1/1 @2.94 (aynı)
 
 ## 22.11 · Marsilya – Le Mans
 
@@ -44,7 +44,7 @@ Kadro mesajı: 22.11 20:21
 - 🟢 Tier 1: ✅ ÇŞ X-2 @1.23 → ✅ ÇŞ X-2 @1.25 (aynı)
 - 🟡 Tier 2: ✅ Korner 10.5 Alt @1.63 → ✅ Korner 10.5 Alt @1.63 (aynı)
 - 🔴 Tier 3: ✅ MS 2 @1.94, ✅ Korner 9.5 Alt @2.04 → ✅ MS 2 @1.96, ✅ Korner 9.5 Alt @2.04 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @2.95 → ⏳ İY/MS 2/2 @2.96 (aynı)
+- 🟣 Tier 4: ✅ İY/MS 2/2 @2.95 → ✅ İY/MS 2/2 @2.96 (aynı)
 
 ## 22.11 · Anderlecht – O.H. Leuven
 
@@ -405,7 +405,7 @@ Kadro mesajı: 20.11 21:23
 
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.22 → ✅ ÇŞ 1-2 @1.22 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @1.96 → ✅ MS 1 @2.08 (aynı)
-- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.05, ✅ MS 1 & 2.5 Üst @3.21 → ⏳ İY/MS 1/1 @3.31 (değişti)
+- 🟣 Tier 4: ✅ İY/MS 1/1 @3.05, ✅ MS 1 & 2.5 Üst @3.21 → ✅ İY/MS 1/1 @3.31 (değişti)
 
 ## 20.11 · Metz – US Boulogne
 
@@ -413,7 +413,7 @@ Kadro mesajı: 20.11 21:23
 
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21 → ✅ ÇŞ 1-2 @1.22 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @1.95 → ✅ MS 1 @2.14 (aynı)
-- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.16, ⏳ İY/MS 1/1 @3.08 → ✅ MS 1 & 2.5 Üst @3.53 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.16, ❌ İY/MS 1/1 @3.08 → ✅ MS 1 & 2.5 Üst @3.53 (değişti)
 
 ## 20.11 · Red Star FC – Pau
 
@@ -421,7 +421,7 @@ Kadro mesajı: 20.11 21:23
 
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21 → ✅ ÇŞ 1-2 @1.20 (aynı)
 - 🔴 Tier 3: ✅ MS 1 @1.94 → ✅ MS 1 @1.90 (aynı)
-- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.03, ⏳ İY/MS 1/1 @2.97 → ⏳ İY/MS 1/1 @2.97 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.03, ✅ İY/MS 1/1 @2.97 → ✅ İY/MS 1/1 @2.97 (değişti)
 
 ## 20.11 · Arminia Bielefeld – Magdeburg
 
