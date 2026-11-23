@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**489/1185 tuttu** (isabet %41, beklenen %40) · -88.00 birim · 84 tahmin sonuç bekliyor
+**490/1189 tuttu** (isabet %41, beklenen %41) · -90.13 birim · 80 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -209,17 +209,17 @@
 
 **22:45 · Marsilya – Le Mans**
 
-- ⏳ ↳ MS 1 & KG Var · @2.58
+- ❌ ↳ MS 1 & KG Var · @2.58 · 2-3
 
 **23:00 · CF Burgos – Albacete**
 
-- ⏳ ↳ MS 1 · @1.87
-- ⏳ ↳ Korner 8.5 Alt · @2.10
+- ✅ ↳ MS 1 · @1.87 · 1-0
+- ❌ ↳ Korner 8.5 Alt · @2.10 · korner 4-7
 
 **23:00 · Getafe – Atletico Madrid**
 
 - ⏳ ↳ İY/MS 2/2 · @2.04
-- ⏳ ↳ Korner 8.5 Alt · @2.08
+- ❌ ↳ Korner 8.5 Alt · @2.08 · korner 2-7
 
 ## 21.11.2026 Cumartesi
 

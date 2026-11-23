@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2068 | 2037 | 1033 | -204.38 |
-| sonra | 1717 | 1691 | 845 | -182.29 |
+| önce | 2068 | 2049 | 1039 | -207.47 |
+| sonra | 1717 | 1702 | 851 | -183.51 |
 
-Değişen tahmin: 449 (434 sonuçlandı: eski 312, yeni 242 tuttu).
+Değişen tahmin: 449 (439 sonuçlandı: eski 315, yeni 246 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -17,25 +17,25 @@ Değişen tahmin: 449 (434 sonuçlandı: eski 312, yeni 242 tuttu).
 
 Kadro mesajı: 22.11 22:20
 
-- 🟡 Tier 2: ⏳ MS 2 @1.41, ⏳ Korner 9.5 Alt @1.64 → ⏳ 2.5 Alt @1.56, ⏳ Korner 9.5 Alt @1.58 (değişti)
-- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.04, ⏳ Korner 8.5 Alt @2.08 → ⏳ Korner 8.5 Alt @2.00 (değişti)
+- 🟡 Tier 2: ✅ MS 2 @1.41, ✅ Korner 9.5 Alt @1.64 → ❌ 2.5 Alt @1.56, ✅ Korner 9.5 Alt @1.58 (değişti)
+- 🔴 Tier 3: ⏳ İY/MS 2/2 @2.04, ❌ Korner 8.5 Alt @2.08 → ❌ Korner 8.5 Alt @2.00 (değişti)
 
 ## 22.11 · CF Burgos – Albacete
 
 Kadro mesajı: 22.11 22:07
 
-- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.21, ⏳ Korner 11.5 Alt @1.24 → ⏳ ÇŞ 1-2 @1.22 (değişti)
-- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.65, ⏳ Korner 10.5 Alt @1.43 → ⏳ Korner 9.5 Alt @1.65 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 @1.87, ⏳ Korner 8.5 Alt @2.10 → ⏳ MS 1 @1.86, ⏳ Korner 8.5 Alt @2.10 (aynı)
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21, ✅ Korner 11.5 Alt @1.24 → ✅ ÇŞ 1-2 @1.22 (değişti)
+- 🟡 Tier 2: ❌ Korner 9.5 Alt @1.65, ❌ Korner 10.5 Alt @1.43 → ❌ Korner 9.5 Alt @1.65 (değişti)
+- 🔴 Tier 3: ✅ MS 1 @1.87, ❌ Korner 8.5 Alt @2.10 → ✅ MS 1 @1.86, ❌ Korner 8.5 Alt @2.10 (aynı)
 - 🟣 Tier 4: ⏳ İY/MS 1/1 @2.91 → ⏳ İY/MS 1/1 @2.94 (aynı)
 
 ## 22.11 · Marsilya – Le Mans
 
 Kadro mesajı: 22.11 21:55
 
-- 🟢 Tier 1: ⏳ En çok korner 1 @1.24 → — (kalktı)
-- 🟡 Tier 2: ⏳ KG Var @1.54 → ⏳ KG Var @1.62, ⏳ Korner 9.5 Alt @1.55 (değişti)
-- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.58 → ⏳ MS 1 & KG Var @2.62, ⏳ Korner 8.5 Alt @1.95 (değişti)
+- 🟢 Tier 1: ❌ En çok korner 1 @1.24 → — (kalktı)
+- 🟡 Tier 2: ✅ KG Var @1.54 → ✅ KG Var @1.62, ✅ Korner 9.5 Alt @1.55 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.58 → ❌ MS 1 & KG Var @2.62, ✅ Korner 8.5 Alt @1.95 (değişti)
 
 ## 22.11 · Lommel SK – Standard Liege
 

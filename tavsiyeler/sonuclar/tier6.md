@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**125/1119 tuttu** (isabet %11, beklenen %11) · -211.60 birim · 59 tahmin sonuç bekliyor
+**126/1121 tuttu** (isabet %11, beklenen %11) · -207.41 birim · 57 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -202,11 +202,11 @@
 
 **22:45 · Marsilya – Le Mans**
 
-- ⏳ 2-1 · @7.20
+- ❌ 2-1 · @7.20 · 2-3
 
 **23:00 · CF Burgos – Albacete**
 
-- ⏳ 1-0 · @6.19
+- ✅ 1-0 · @6.19 · 1-0
 
 ## 21.11.2026 Cumartesi
 

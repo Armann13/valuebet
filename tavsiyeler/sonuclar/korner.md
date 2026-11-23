@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**836/1553 tuttu** (isabet %54, beklenen %59) · -241.70 birim · 84 tahmin sonuç bekliyor
+**838/1563 tuttu** (isabet %54, beklenen %59) · -248.82 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -219,7 +219,7 @@
 
 **22:45 · Marsilya – Le Mans**
 
-- ⏳ 🟢 En çok korner 1 · @1.24
+- ❌ 🟢 En çok korner 1 · @1.24 · korner 2-5
 
 **22:45 · Atalanta – Inter**
 
@@ -228,18 +228,18 @@
 
 **23:00 · Getafe – Atletico Madrid**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.64
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.08
-- ⏳ 3 En çok korner 1 · @3.04
-- ⏳ 4 En çok korner 1 · @2.83
-- ⏳ 3 En çok korner 1 · @2.89
+- ✅ 🟡 Korner 9.5 Alt · @1.64 · korner 2-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.08 · korner 2-7
+- ❌ 3 En çok korner 1 · @3.04 · korner 2-7
+- ❌ 4 En çok korner 1 · @2.83 · korner 2-7
+- ❌ 3 En çok korner 1 · @2.89 · korner 2-7
 
 **23:00 · CF Burgos – Albacete**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.65
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @2.10
-- ⏳ 🟢 Korner 11.5 Alt · @1.24
-- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.43
+- ❌ 🟡 Korner 9.5 Alt · @1.65 · korner 4-7
+- ❌ 🔴 ↳ Korner 8.5 Alt · @2.10 · korner 4-7
+- ✅ 🟢 Korner 11.5 Alt · @1.24 · korner 4-7
+- ❌ 🟡 ↳ Korner 10.5 Alt · @1.43 · korner 4-7
 
 ## 21.11.2026 Cumartesi
 

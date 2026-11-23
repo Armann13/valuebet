@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**17/109 tuttu** (isabet %16, beklenen %16) · -16.09 birim · 4 tahmin sonuç bekliyor
+**17/110 tuttu** (isabet %15, beklenen %16) · -17.09 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **23:00 · Getafe – Atletico Madrid**
 
-- ⏳ 0-1 · @5.12
+- ❌ 0-1 · @5.12 · 0-3
 
 ## 21.11.2026 Cumartesi
 
