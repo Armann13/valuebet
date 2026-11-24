@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/114 tuttu** (isabet %34, beklenen %39) · -12.55 birim · 3 tahmin sonuç bekliyor
+**39/114 tuttu** (isabet %34, beklenen %39) · -12.55 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.11 16:55 gönderilen kupon · 3 maç, oran 16,93
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:00 Benevento – Empoli · MS 1 & KG Var · @2.91
+- ⏳ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.88
+- ⏳ 25.11 22:00 Boreham Wood – Aldershot · MS 1 & KG Var · @2.02
 
 ## 23.11 16:06 gönderilen kupon · 3 maç, oran 15,97
 

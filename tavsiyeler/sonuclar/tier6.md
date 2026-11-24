@@ -2,19 +2,95 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**127/1139 tuttu** (isabet %11, beklenen %11) · -219.71 birim · 78 tahmin sonuç bekliyor
+**127/1139 tuttu** (isabet %11, beklenen %11) · -219.71 birim · 102 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11.2026 Çarşamba
+
+**20:45 · Slavia Prag – Villarreal**
+
+- ⏳ 2-1 · @9.75
+
+**21:00 · Cremonese – AS Avellino 1912**
+
+- ⏳ 1-0 · @6.28
+
+**22:00 · Padova – Sampdoria**
+
+- ⏳ 0-1 · @6.52
+
+**22:00 · Boreham Wood – Aldershot**
+
+- ⏳ 2-1 · @7.85
+
+**22:00 · Mantova 1911 – SS Arezzo**
+
+- ⏳ 2-1 · @7.27
+
+**22:00 · AC Pisa – Modena FC**
+
+- ⏳ 2-1 · @8.21
+
+**22:45 · Harrogate – Kidderminster Harriers**
+
+- ⏳ 2-1 · @6.31
+
+**22:45 · Bolton – West Bromwich**
+
+- ⏳ 1-2 · @7.61
+
+**22:45 · Burnley – Birmingham**
+
+- ⏳ 1-2 · @8.38
+
+**22:45 · Hartlepool – Solihull Moors**
+
+- ⏳ 2-1 · @6.87
+
+**22:45 · Watford – Blackburn Rovers**
+
+- ⏳ 2-1 · @8.52
+
+**23:00 · Stoke City – Millwall**
+
+- ⏳ 2-1 · @7.98
+
+**23:00 · Lille – Bayern Münih**
+
+- ⏳ 1-2 · @7.26
+
+**23:00 · Paris Saint Germain – AS Roma**
+
+- ⏳ 2-1 · @7.76
+
+**23:00 · Sporting Lizbon – Manchester United**
+
+- ⏳ 2-1 · @8.52
+
+**23:00 · Shakhtar Donetsk – Fenerbahçe**
+
+- ⏳ 1-2 · @8.55
+
+**23:00 · Club Brugge – Liverpool**
+
+- ⏳ 1-2 · @8.19
+
+**23:00 · Inter – Stuttgart**
+
+- ⏳ 3-1 · @8.94
 
 ## 24.11.2026 Salı
 
 **20:45 · Bodo Glimt – LASK**
 
 - ⏳ 2-1 · @8.14
+- ⏳ 3-1 · @8.79
 
 **20:45 · Galatasaray – Aston Villa**
 
 - ⏳ 1-2 · @8.80
+- ⏳ 2-1 · @9.48
 
 **21:00 · Juve Stabia – US Catanzaro 1929**
 
@@ -39,6 +115,7 @@
 **22:00 · AC Cesena – Ascoli**
 
 - ⏳ 1-2 · @8.51
+- ⏳ 2-1 · @8.76
 
 **22:45 · Bradford – Barnsley**
 
@@ -95,6 +172,7 @@
 **22:45 · Stevenage – Sheffield Wednesday**
 
 - ⏳ 1-2 · @7.24
+- ⏳ 1-1 · @4.64
 
 **22:45 · Bristol City – Wrexham**
 
@@ -124,6 +202,7 @@
 **22:45 · Woking – Worthing**
 
 - ⏳ 1-2 · @8.21
+- ⏳ 2-1 · @7.29
 
 **23:00 · Rangers – Aberdeen**
 
@@ -132,6 +211,7 @@
 **23:00 · Arsenal – B. Dortmund**
 
 - ⏳ 2-1 · @7.27
+- ⏳ 2-0 · @5.86
 
 **23:00 · Real Madrid – PSV**
 

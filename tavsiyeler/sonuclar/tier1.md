@@ -2,9 +2,71 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**651/913 tuttu** (isabet %71, beklenen %74) · -106.28 birim · 73 tahmin sonuç bekliyor
+**651/913 tuttu** (isabet %71, beklenen %74) · -106.28 birim · 98 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11.2026 Çarşamba
+
+**20:45 · Slavia Prag – Villarreal**
+
+- ⏳ Korner 11.5 Alt · @1.25
+
+**21:00 · Cremonese – AS Avellino 1912**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**22:00 · Boreham Wood – Aldershot**
+
+- ⏳ MS 1 & 2.5 Üst · @1.25
+
+**22:00 · AC Pisa – Modena FC**
+
+- ⏳ ÇŞ 1-2 · @1.22
+
+**22:00 · Padova – Sampdoria**
+
+- ⏳ ÇŞ 1-2 · @1.23
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:45 · Watford – Blackburn Rovers**
+
+- ⏳ ÇŞ 1-2 · @1.20
+
+**22:45 · Hartlepool – Solihull Moors**
+
+- ⏳ ÇŞ 1-X · @1.20
+
+**22:45 · Bolton – West Bromwich**
+
+- ⏳ Korner 12.5 Alt · @1.26
+
+**23:00 · Club Brugge – Liverpool**
+
+- ⏳ KG Var · @1.24
+- ⏳ Korner 11.5 Alt · @1.26
+
+**23:00 · Inter – Stuttgart**
+
+- ⏳ MS 1 · @1.28
+- ⏳ En çok korner 1 · @1.29
+
+**23:00 · Paris Saint Germain – AS Roma**
+
+- ⏳ MS 1 · @1.29
+- ⏳ Korner 7.5 Üst · @1.25
+
+**23:00 · Stoke City – Millwall**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**23:00 · Sporting Lizbon – Manchester United**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**23:00 · Lille – Bayern Münih**
+
+- ⏳ Korner 11.5 Alt · @1.20
 
 ## 24.11.2026 Salı
 
@@ -17,6 +79,7 @@
 
 - ⏳ KG Var · @1.26
 - ⏳ En çok korner 1 · @1.28
+- ⏳ MS 1 · @1.25
 
 **21:00 · Juve Stabia – US Catanzaro 1929**
 
@@ -72,11 +135,21 @@
 **22:45 · Cardiff City – Preston**
 
 - ⏳ 2.5 Üst · @1.30
+- ⏳ MS 1 · @1.34
+
+**22:45 · Blackpool – Leicester City**
+
+- ⏳ 2.5 Üst · @1.26
+
+**22:45 · Port Vale – Northampton**
+
+- ⏳ ÇŞ 1-X · @1.20
 
 **23:00 · Leipzig – RC Lens**
 
 - ⏳ MS 1 · @1.24
 - ⏳ Korner 11.5 Alt · @1.27
+- ⏳ Korner 8.5 Üst · @1.27
 
 **23:00 · Como 1907 – AEK Athens**
 
@@ -109,6 +182,11 @@
 **23:00 · Feyenoord – Porto**
 
 - ⏳ Korner 7.5 Üst · @1.22
+- ⏳ ÇŞ X-2 · @1.22
+
+**23:00 · Wolverhampton – Derby County**
+
+- ⏳ MS 1 · @1.20
 
 ## 23.11.2026 Pazartesi
 

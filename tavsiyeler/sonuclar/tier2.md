@@ -2,20 +2,103 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**868/1563 tuttu** (isabet %56, beklenen %59) · -211.60 birim · 96 tahmin sonuç bekliyor
+**868/1563 tuttu** (isabet %56, beklenen %59) · -211.60 birim · 128 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11.2026 Çarşamba
+
+**20:45 · Slavia Prag – Villarreal**
+
+- ⏳ ÇŞ 1-X · @1.54
+- ⏳ ↳ Korner 10.5 Alt · @1.47
+
+**21:00 · Cremonese – AS Avellino 1912**
+
+- ⏳ En çok korner 1 · @1.66
+
+**22:00 · Mantova 1911 – SS Arezzo**
+
+- ⏳ MS 1 · @1.54
+- ⏳ Korner 9.5 Alt · @1.45
+
+**22:00 · Boreham Wood – Aldershot**
+
+- ⏳ ↳ MS 1 & KG Var · @2.02
+
+**22:00 · AC Pisa – Modena FC**
+
+- ⏳ En çok korner 1 · @1.81
+
+**22:00 · Padova – Sampdoria**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.67
+
+**22:45 · Harrogate – Kidderminster Harriers**
+
+- ⏳ MS 1 · @1.44
+
+**22:45 · Bolton – West Bromwich**
+
+- ⏳ 2.5 Üst · @1.55
+- ⏳ ↳ Korner 11.5 Alt · @1.47
+
+**22:45 · Burnley – Birmingham**
+
+- ⏳ 2.5 Üst · @1.56
+- ⏳ En çok korner 1 · @1.94
+
+**22:45 · Watford – Blackburn Rovers**
+
+- ⏳ En çok korner 1 · @1.79
+
+**23:00 · Inter – Stuttgart**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.50
+
+**23:00 · Sporting Lizbon – Manchester United**
+
+- ⏳ 2.5 Üst · @1.41
+- ⏳ ↳ Korner 9.5 Alt · @1.68
+
+**23:00 · Lille – Bayern Münih**
+
+- ⏳ MS 2 · @1.48
+
+**23:00 · Paris Saint Germain – AS Roma**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.58
+- ⏳ ↳ Korner 8.5 Üst · @1.50
+
+**23:00 · Shakhtar Donetsk – Fenerbahçe**
+
+- ⏳ 2.5 Üst · @1.57
+- ⏳ Korner 8.5 Üst · @1.40
+
+**23:00 · Stoke City – Millwall**
+
+- ⏳ En çok korner 1 · @1.57
+
+**23:00 · Club Brugge – Liverpool**
+
+- ⏳ ↳ Korner 10.5 Alt · @1.49
 
 ## 24.11.2026 Salı
 
 **20:45 · Galatasaray – Aston Villa**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.41
+- ⏳ ÇŞ 1-X · @1.49
+
+**20:45 · Bodo Glimt – LASK**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.46
 
 **21:00 · Juve Stabia – US Catanzaro 1929**
 
 - ⏳ MS 1 · @1.76
 - ⏳ ↳ Korner 9.5 Alt · @1.69
+- ⏳ 2.5 Üst · @1.57
 
 **22:00 · Benevento – Empoli**
 
@@ -45,6 +128,7 @@
 **22:45 · Hibernian – Dundee**
 
 - ⏳ MS 1 · @1.47
+- ⏳ 2.5 Üst · @1.53
 
 **22:45 · Eastleigh – Yeovil Town**
 
@@ -120,6 +204,7 @@
 **22:45 · Stevenage – Sheffield Wednesday**
 
 - ⏳ 2.5 Üst · @1.64
+- ⏳ 2.5 Alt · @1.57
 
 **22:45 · Bristol City – Wrexham**
 
@@ -139,11 +224,13 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.42
 - ⏳ Korner 8.5 Üst · @1.42
+- ⏳ Korner 9.5 Alt · @1.66
 
 **23:00 · Manchester City – Napoli**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.43
 - ⏳ ↳ Korner 9.5 Alt · @1.67
+- ⏳ ↳ Korner 10.5 Alt · @1.40
 
 **23:00 · Rangers – Aberdeen**
 
@@ -153,6 +240,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.50
 - ⏳ ↳ Korner 10.5 Alt · @1.50
+- ⏳ ↳ Korner 9.5 Üst · @1.52
 
 **23:00 · Feyenoord – Porto**
 

@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/134 tuttu** (isabet %37, beklenen %37) · +0.69 birim · 10 tahmin sonuç bekliyor
+**49/134 tuttu** (isabet %37, beklenen %37) · +0.69 birim · 14 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.11 16:55 gönderilen kupon · 4 maç, oran 50,16
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
+- ⏳ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48
+- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.40
+- ⏳ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.45
 
 ## 23.11 21:49 gönderilen kupon · 4 maç, oran 54,31
 

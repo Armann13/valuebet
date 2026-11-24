@@ -2,9 +2,81 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**507/1225 tuttu** (isabet %41, beklenen %41) · -89.32 birim · 92 tahmin sonuç bekliyor
+**507/1225 tuttu** (isabet %41, beklenen %41) · -89.32 birim · 118 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11.2026 Çarşamba
+
+**20:45 · Slavia Prag – Villarreal**
+
+- ⏳ ↳ MS 1 · @2.81
+
+**21:00 · Cremonese – AS Avellino 1912**
+
+- ⏳ ↳ MS 1 · @1.86
+
+**22:00 · AC Pisa – Modena FC**
+
+- ⏳ ↳ MS 1 · @2.14
+
+**22:00 · Padova – Sampdoria**
+
+- ⏳ ↳ MS 2 · @2.14
+
+**22:00 · Mantova 1911 – SS Arezzo**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.38
+- ⏳ ↳ Korner 8.5 Alt · @1.79
+
+**22:45 · Hartlepool – Solihull Moors**
+
+- ⏳ ↳ MS 1 · @1.89
+
+**22:45 · Harrogate – Kidderminster Harriers**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.10
+
+**22:45 · Watford – Blackburn Rovers**
+
+- ⏳ ↳ MS 1 · @2.32
+
+**22:45 · Bolton – West Bromwich**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.71
+
+**22:45 · Burnley – Birmingham**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.42
+
+**23:00 · Inter – Stuttgart**
+
+- ⏳ ↳ MS 1 & KG Var · @1.98
+
+**23:00 · Lille – Bayern Münih**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.05
+- ⏳ ↳ Korner 9.5 Alt · @1.69
+
+**23:00 · Stoke City – Millwall**
+
+- ⏳ ↳ MS 1 · @2.01
+
+**23:00 · Paris Saint Germain – AS Roma**
+
+- ⏳ ↳ MS 1 & KG Var · @2.18
+
+**23:00 · Club Brugge – Liverpool**
+
+- ⏳ ↳ MS 2 & KG Var · @2.25
+
+**23:00 · Sporting Lizbon – Manchester United**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.11
+
+**23:00 · Shakhtar Donetsk – Fenerbahçe**
+
+- ⏳ ↳ Korner 9.5 Üst · @1.71
 
 ## 24.11.2026 Salı
 
@@ -15,6 +87,7 @@
 **20:45 · Galatasaray – Aston Villa**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.51
+- ⏳ ↳ MS 1 · @2.66
 
 **21:00 · Juve Stabia – US Catanzaro 1929**
 
@@ -38,6 +111,7 @@
 **22:00 · AC Cesena – Ascoli**
 
 - ⏳ ↳ MS 2 · @2.31
+- ⏳ ↳ MS 1 · @2.40
 
 **22:00 · LR Vicenza Virtus – Carrarese Calcio 1908**
 
@@ -114,6 +188,7 @@
 **22:45 · Woking – Worthing**
 
 - ⏳ ↳ MS 2 · @2.52
+- ⏳ MS 1 & 2.5 Üst · @2.79
 
 **22:45 · Eastleigh – Yeovil Town**
 
@@ -128,6 +203,10 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.44
 
+**22:45 · Port Vale – Northampton**
+
+- ⏳ ↳ MS 1 · @2.08
+
 **23:00 · Leipzig – RC Lens**
 
 - ⏳ ↳ MS 1 & KG Var · @2.09
@@ -140,6 +219,7 @@
 
 - ⏳ ↳ MS 1 & KG Var · @2.17
 - ⏳ ↳ Korner 9.5 Üst · @1.74
+- ⏳ ↳ Korner 8.5 Alt · @2.13
 
 **23:00 · Manchester City – Napoli**
 
@@ -157,10 +237,12 @@
 **23:00 · Arsenal – B. Dortmund**
 
 - ⏳ ↳ MS 1 & KG Var · @2.82
+- ⏳ ↳ İY/MS 1/1 · @1.85
 
 **23:00 · Feyenoord – Porto**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.07
+- ⏳ ↳ MS 2 · @1.93
 
 ## 23.11.2026 Pazartesi
 

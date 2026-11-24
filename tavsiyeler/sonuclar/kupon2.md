@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/72 tuttu** (isabet %42, beklenen %50) · -9.82 birim · 4 tahmin sonuç bekliyor
+**30/72 tuttu** (isabet %42, beklenen %50) · -9.82 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 24.11 16:55 gönderilen kupon · 2 maç, oran 4,18
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90
+- ⏳ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20
 
 ## 23.11 16:06 gönderilen kupon · 2 maç, oran 3,31
 
