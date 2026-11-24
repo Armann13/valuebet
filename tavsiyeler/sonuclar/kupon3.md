@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/114 tuttu** (isabet %34, beklenen %39) · -12.55 birim · 6 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,17 +10,17 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.11 22:00 Benevento – Empoli · MS 1 & KG Var · @2.91
-- ⏳ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.88
+- ❌ 24.11 22:00 Benevento – Empoli · MS 1 & KG Var · @2.91 · 5-0
+- ❌ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.88 · 3-0
 - ⏳ 25.11 22:00 Boreham Wood – Aldershot · MS 1 & KG Var · @2.02
 
 ## 23.11 16:06 gönderilen kupon · 3 maç, oran 15,97
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
 - ❌ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.43 · korner 5-1
-- ⏳ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48
-- ⏳ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.65
+- ❌ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48 · korner 4-5
+- ❌ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.65 · 3-0
 
 ## 22.11 22:50 gönderilen kupon · 3 maç, oran 15,68
 

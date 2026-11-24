@@ -2,36 +2,36 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/134 tuttu** (isabet %37, beklenen %37) · +0.69 birim · 14 tahmin sonuç bekliyor
+**53/145 tuttu** (isabet %37, beklenen %37) · +0.53 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 24.11 16:55 gönderilen kupon · 4 maç, oran 50,16
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
-- ⏳ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48
-- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.40
-- ⏳ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.45
+- ❌ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44 · korner 4-3
+- ❌ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48 · korner 4-5
+- ❌ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.40 · 0-4
+- ✅ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.45 · 2-1
 
 ## 23.11 21:49 gönderilen kupon · 4 maç, oran 54,31
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ❌ 23.11 23:00 Brentford – Everton · En çok korner 2 · @2.73 · korner 6-3
-- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
-- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.43
-- ⏳ 24.11 23:00 Rangers – Aberdeen · MS 1 & KG Var · @2.38
+- ❌ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44 · korner 4-3
+- ❌ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.43 · 0-4
+- ✅ 24.11 23:00 Rangers – Aberdeen · MS 1 & KG Var · @2.38 · 3-2
 
 ## 23.11 16:06 gönderilen kupon · 4 maç, oran 73,15
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
-- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
-- ⏳ 24.11 22:00 Benevento – Empoli · En çok korner 2 · @3.46
-- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.41
-- ⏳ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.55
+- ❌ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44 · korner 4-3
+- ✅ 24.11 22:00 Benevento – Empoli · En çok korner 2 · @3.46 · korner 3-8
+- ❌ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.41 · 0-4
+- ✅ 24.11 22:45 Middlesbrough – Swansea City · MS 1 & KG Var · @2.55 · 2-1
 
 ## 22.11 14:39 gönderilen kupon · 4 maç, oran 62,46
 

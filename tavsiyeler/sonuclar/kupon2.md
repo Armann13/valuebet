@@ -2,23 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**30/72 tuttu** (isabet %42, beklenen %50) · -9.82 birim · 6 tahmin sonuç bekliyor
+**32/75 tuttu** (isabet %43, beklenen %50) · -9.02 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 24.11 16:55 gönderilen kupon · 2 maç, oran 4,18
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90
+- ✅ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90 · korner 10-3
 - ⏳ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20
 
 ## 23.11 16:06 gönderilen kupon · 2 maç, oran 3,31
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
-- ⏳ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90
-- ⏳ 24.11 22:45 Bristol City – Wrexham · En çok korner 1 · @1.74
+- ✅ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90 · korner 10-3
+- ❌ 24.11 22:45 Bristol City – Wrexham · En çok korner 1 · @1.74 · korner 4-9
 
 ## 22.11 22:50 gönderilen kupon · 2 maç, oran 3,81
 

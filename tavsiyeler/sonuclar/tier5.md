@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**18/111 tuttu** (isabet %16, beklenen %16) · -13.10 birim · 5 tahmin sonuç bekliyor
+**19/114 tuttu** (isabet %17, beklenen %16) · -8.85 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,15 +10,15 @@
 
 **22:45 · Middlesbrough – Swansea City**
 
-- ⏳ 2-1 · @7.25
+- ✅ 2-1 · @7.25 · 2-1
 
 **22:45 · Cardiff City – Preston**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 0-4
 
 **23:00 · Wolverhampton – Derby County**
 
-- ⏳ 2-1 · @7.53
+- ❌ 2-1 · @7.53 · 3-0
 
 ## 23.11.2026 Pazartesi
 
