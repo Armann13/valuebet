@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**646/908 tuttu** (isabet %71, beklenen %74) · -107.66 birim · 78 tahmin sonuç bekliyor
+**651/913 tuttu** (isabet %71, beklenen %74) · -106.28 birim · 73 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -118,23 +118,23 @@
 
 **22:45 · Sochaux – Dunkerque**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 2-3
 
 **22:45 · Nantes – Grenoble**
 
-- ⏳ MS 1 · @1.34
+- ✅ MS 1 · @1.34 · 1-0
 
 **22:45 · AC Monza – Fiorentina**
 
-- ⏳ Korner 10.5 Alt · @1.31
+- ✅ Korner 10.5 Alt · @1.31 · korner 3-7
 
 **23:00 · Brentford – Everton**
 
-- ⏳ ÇŞ 1-X · @1.27
+- ✅ ÇŞ 1-X · @1.27 · 4-0
 
 **23:00 · Levante – Elche**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 1-1
 
 ## 22.11.2026 Pazar
 

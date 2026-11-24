@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**38/110 tuttu** (isabet %35, beklenen %39) · -10.67 birim · 7 tahmin sonuç bekliyor
+**39/114 tuttu** (isabet %34, beklenen %39) · -12.55 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,25 +10,25 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.43
+- ❌ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.43 · korner 5-1
 - ⏳ 24.11 22:45 Portsmouth – West Ham · En çok korner 1 · @2.48
 - ⏳ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.65
 
 ## 22.11 22:50 gönderilen kupon · 3 maç, oran 15,68
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 22.11 23:00 Getafe – Atletico Madrid · En çok korner 1 · @2.89 · korner 2-7
-- ⏳ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.56
-- ⏳ 23.11 23:00 Brentford – Everton · MS 1 · @2.12
+- ❌ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.56 · korner 5-1
+- ✅ 23.11 23:00 Brentford – Everton · MS 1 · @2.12 · 4-0
 
 ## 22.11 14:39 gönderilen kupon · 3 maç, oran 19,82
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 22.11 16:00 Konyaspor – Beşiktaş · En çok korner 1 · @2.91 · korner 2-3
 - ✅ 22.11 18:15 S.Gijon – Las Palmas · En çok korner 2 · @2.58 · korner 3-5
-- ⏳ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.64
+- ❌ 23.11 23:00 Levante – Elche · En çok korner 2 · @2.64 · korner 5-1
 
 ## 21.11 18:01 gönderilen kupon · 3 maç, oran 19,46
 

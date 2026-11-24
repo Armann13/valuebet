@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**49/133 tuttu** (isabet %37, beklenen %37) · +1.69 birim · 7 tahmin sonuç bekliyor
+**49/134 tuttu** (isabet %37, beklenen %37) · +0.69 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11 21:49 gönderilen kupon · 4 maç, oran 54,31
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 23.11 23:00 Brentford – Everton · En çok korner 2 · @2.73 · korner 6-3
+- ⏳ 24.11 22:00 US Palermo – FC Sudtirol · En çok korner 2 · @3.44
+- ⏳ 24.11 22:45 Cardiff City – Preston · MS 1 & KG Var · @2.43
+- ⏳ 24.11 23:00 Rangers – Aberdeen · MS 1 & KG Var · @2.38
 
 ## 23.11 16:06 gönderilen kupon · 4 maç, oran 73,15
 

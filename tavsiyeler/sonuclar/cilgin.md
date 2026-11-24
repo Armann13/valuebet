@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/164 tuttu** (isabet %13, beklenen %13) · +189.48 birim · 63 tahmin sonuç bekliyor
+**21/165 tuttu** (isabet %13, beklenen %13) · +188.48 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 23.11 21:49 gönderilen kupon · 4 maç, oran 183.256,67
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40
+- ⏳ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40
+- ⏳ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05
+- ⏳ 24.11 23:00 Rangers – Aberdeen · İY/MS 2/1 · @21.00
 
 ## 23.11 16:06 gönderilen kupon · 4 maç, oran 171.912,21
 
@@ -22,7 +31,7 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 - ❌ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50 · İY 0-2, MS 0-3
 - ⏳ 23.11 18:00 Asteras Tripolis – Aris · İY/MS 1/2 · @29.00
 - ⏳ 23.11 22:45 Nantes – Grenoble · İY/MS 2/1 · @26.50
-- ⏳ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65
+- ❌ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65
 
 ## 22.11 14:39 gönderilen kupon · 6 maç, oran 1.774.716,98
 

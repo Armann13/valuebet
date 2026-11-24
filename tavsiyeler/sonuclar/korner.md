@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**845/1579 tuttu** (isabet %54, beklenen %59) · -250.93 birim · 106 tahmin sonuç bekliyor
+**854/1594 tuttu** (isabet %54, beklenen %59) · -250.55 birim · 96 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,6 +41,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.62
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.06
 - ⏳ 4 En çok korner 2 · @3.44
+- ⏳ 4 En çok korner 2 · @3.44
 
 **22:00 · Benevento – Empoli**
 
@@ -58,6 +59,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.22
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.42
 - ⏳ 2 En çok korner 1 · @1.90
+- ⏳ 🟡 En çok korner 1 · @1.90
 
 **22:45 · Bristol City – Wrexham**
 
@@ -83,6 +85,8 @@
 
 - ⏳ 🟡 Korner 9.5 Üst · @1.67
 - ⏳ 🔴 ↳ Korner 10.5 Üst · @2.12
+- ⏳ 🟡 Korner 10.5 Alt · @1.43
+- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.75
 
 **23:00 · Manchester City – Napoli**
 
@@ -128,32 +132,33 @@
 
 **20:00 · Başakşehir – Çorum FK**
 
-- ⏳ 🟡 En çok korner 1 · @1.62
+- ✅ 🟡 En çok korner 1 · @1.62 · korner 3-1
 
 **22:30 · AD Ceuta – Almeria**
 
-- ⏳ 🟡 En çok korner 1 · @1.85
-- ⏳ 2 En çok korner 1 · @1.85
-- ⏳ 2 En çok korner 1 · @1.85
+- ✅ 🟡 En çok korner 1 · @1.85 · korner 9-3
+- ✅ 2 En çok korner 1 · @1.85 · korner 9-3
+- ✅ 2 En çok korner 1 · @1.85 · korner 9-3
 
 **22:45 · AC Monza – Fiorentina**
 
-- ⏳ 🟢 Korner 10.5 Alt · @1.31
-- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.56
-- ⏳ 2 En çok korner 1 · @2.06
+- ✅ 🟢 Korner 10.5 Alt · @1.31 · korner 3-7
+- ❌ 🟡 ↳ Korner 9.5 Alt · @1.56 · korner 3-7
+- ❌ 2 En çok korner 1 · @2.06 · korner 3-7
 
 **23:00 · Brentford – Everton**
 
-- ⏳ 🟡 Korner 10.5 Alt · @1.57
-- ⏳ 🔴 ↳ Korner 9.5 Alt · @1.95
+- ✅ 🟡 Korner 10.5 Alt · @1.57 · korner 6-3
+- ✅ 🔴 ↳ Korner 9.5 Alt · @1.95 · korner 6-3
+- ❌ 4 En çok korner 2 · @2.73 · korner 6-3
 
 **23:00 · Levante – Elche**
 
-- ⏳ 🟡 Korner 9.5 Alt · @1.50
-- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.88
-- ⏳ 3 En çok korner 2 · @2.64
-- ⏳ 3 En çok korner 2 · @2.56
-- ⏳ 3 En çok korner 2 · @2.43
+- ✅ 🟡 Korner 9.5 Alt · @1.50 · korner 5-1
+- ✅ 🔴 ↳ Korner 8.5 Alt · @1.88 · korner 5-1
+- ❌ 3 En çok korner 2 · @2.64 · korner 5-1
+- ❌ 3 En çok korner 2 · @2.56 · korner 5-1
+- ❌ 3 En çok korner 2 · @2.43 · korner 5-1
 
 ## 22.11.2026 Pazar
 

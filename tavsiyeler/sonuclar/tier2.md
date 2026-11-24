@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**860/1554 tuttu** (isabet %55, beklenen %59) · -215.46 birim · 102 tahmin sonuç bekliyor
+**868/1563 tuttu** (isabet %56, beklenen %59) · -211.60 birim · 96 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -58,6 +58,7 @@
 
 - ⏳ 2.5 Üst · @1.50
 - ⏳ Korner 9.5 Üst · @1.67
+- ⏳ Korner 10.5 Alt · @1.43
 
 **22:45 · Sheffield United – Southampton**
 
@@ -79,6 +80,7 @@
 **22:45 · Boston United – Barrow**
 
 - ⏳ ÇŞ 1-X · @1.41
+- ⏳ 2.5 Üst · @1.42
 
 **22:45 · Scunthorpe – Gateshead**
 
@@ -126,6 +128,7 @@
 **22:45 · Charlton – Lincoln City**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.42
+- ⏳ En çok korner 1 · @1.90
 
 **23:00 · Slovan Bratislava – Real Betis**
 
@@ -179,30 +182,30 @@
 
 **20:00 · Başakşehir – Çorum FK**
 
-- ⏳ MS 1 · @1.73
-- ⏳ En çok korner 1 · @1.62
+- ✅ MS 1 · @1.73 · 4-2
+- ✅ En çok korner 1 · @1.62 · korner 3-1
 
 **22:30 · AD Ceuta – Almeria**
 
-- ⏳ 2.5 Üst · @1.50
-- ⏳ En çok korner 1 · @1.85
+- ✅ 2.5 Üst · @1.50 · 2-3
+- ✅ En çok korner 1 · @1.85 · korner 9-3
 
 **22:45 · AC Monza – Fiorentina**
 
-- ⏳ 2.5 Üst · @1.43
-- ⏳ ↳ Korner 9.5 Alt · @1.56
+- ✅ 2.5 Üst · @1.43 · 3-0
+- ❌ ↳ Korner 9.5 Alt · @1.56 · korner 3-7
 
 **22:45 · Nantes – Grenoble**
 
-- ⏳ 2.5 Alt · @1.66
+- ✅ 2.5 Alt · @1.66 · 1-0
 
 **23:00 · Brentford – Everton**
 
-- ⏳ Korner 10.5 Alt · @1.57
+- ✅ Korner 10.5 Alt · @1.57 · korner 6-3
 
 **23:00 · Levante – Elche**
 
-- ⏳ Korner 9.5 Alt · @1.50
+- ✅ Korner 9.5 Alt · @1.50 · korner 5-1
 
 ## 22.11.2026 Pazar
 

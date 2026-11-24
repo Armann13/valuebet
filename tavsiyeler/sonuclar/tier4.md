@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**228/817 tuttu** (isabet %28, beklenen %28) · -96.98 birim · 65 tahmin sonuç bekliyor
+**232/824 tuttu** (isabet %28, beklenen %28) · -90.64 birim · 60 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -95,6 +95,7 @@
 **22:45 · Boston United – Barrow**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.66
+- ⏳ ↳ MS 2 & KG Var · @3.44
 
 **22:45 · Sheffield United – Southampton**
 
@@ -116,27 +117,28 @@
 
 **20:00 · Başakşehir – Çorum FK**
 
-- ⏳ ↳ MS 1 & KG Var · @3.06
+- ✅ ↳ MS 1 & KG Var · @3.06 · 4-2
 
 **22:30 · AD Ceuta – Almeria**
 
-- ⏳ ↳ MS 2 & KG Var · @3.32
+- ✅ ↳ MS 2 & KG Var · @3.32 · 2-3
 
 **22:45 · AC Monza – Fiorentina**
 
-- ⏳ ↳ MS 2 & KG Var · @3.11
+- ❌ ↳ MS 2 & KG Var · @3.11 · 3-0
 
 **22:45 · Sochaux – Dunkerque**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.39
+- ❌ ↳ MS 1 & 2.5 Üst · @3.39 · 2-3
+- ✅ ↳ MS 2 & 2.5 Üst · @3.68 · 2-3
 
 **23:00 · Levante – Elche**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.94
+- ❌ ↳ MS 1 & 2.5 Üst · @2.94 · 1-1
 
 **23:00 · Brentford – Everton**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.28
+- ✅ ↳ MS 1 & 2.5 Üst · @3.28 · 4-0
 
 ## 22.11.2026 Pazar
 
