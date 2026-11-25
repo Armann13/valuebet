@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**526/1278 tuttu** (isabet %41, beklenen %40) · -99.96 birim · 67 tahmin sonuç bekliyor
+**526/1279 tuttu** (isabet %41, beklenen %40) · -100.96 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -262,7 +262,7 @@
 
 **22:45 · Nantes – Grenoble**
 
-- ⏳ ↳ İY/MS 1/1 · @1.90
+- ❌ ↳ İY/MS 1/1 · @1.90 · İY 0-0, MS 1-0
 
 **22:45 · Sochaux – Dunkerque**
 

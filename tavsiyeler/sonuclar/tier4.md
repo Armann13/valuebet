@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/853 tuttu** (isabet %28, beklenen %28) · -103.30 birim · 50 tahmin sonuç bekliyor
+**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 49 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -179,7 +179,7 @@
 
 **18:00 · Asteras Tripolis – Aris**
 
-- ⏳ ↳ İY/MS 2/2 · @3.29
+- ❌ ↳ İY/MS 2/2 · @3.29 · İY 0-0, MS 0-1
 
 **20:00 · Başakşehir – Çorum FK**
 

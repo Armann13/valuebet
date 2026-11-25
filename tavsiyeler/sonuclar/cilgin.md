@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/169 tuttu** (isabet %12, beklenen %13) · +184.48 birim · 66 tahmin sonuç bekliyor
+**21/171 tuttu** (isabet %12, beklenen %13) · +182.48 birim · 64 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -35,12 +35,12 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 22.11 22:50 gönderilen kupon · 4 maç, oran 457.545,69
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
 - ❌ 22.11 23:00 Getafe – Atletico Madrid · İY/MS 1/2 · @27.50 · İY 0-2, MS 0-3
-- ⏳ 23.11 18:00 Asteras Tripolis – Aris · İY/MS 1/2 · @29.00
-- ⏳ 23.11 22:45 Nantes – Grenoble · İY/MS 2/1 · @26.50
-- ❌ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65
+- ❌ 23.11 18:00 Asteras Tripolis – Aris · İY/MS 1/2 · @29.00 · İY 0-0, MS 0-1
+- ❌ 23.11 22:45 Nantes – Grenoble · İY/MS 2/1 · @26.50 · İY 0-0, MS 1-0
+- ❌ 23.11 22:45 AC Monza – Fiorentina · İY/MS 1/2 · @21.65 · İY 1-0, MS 3-0
 
 ## 22.11 14:39 gönderilen kupon · 6 maç, oran 1.774.716,98
 
