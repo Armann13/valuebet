@@ -9840,3 +9840,17 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-25 20:41,2026-11-26,26.11,AVRUPA,Dinamo Zagreb,B. Leverkusen,Dinamo Zagreb – B. Leverkusen,UEFA Avrupa Ligi,4️⃣ 4'lü kupon,MS 2 & KG Var,0.3496831727999809,2.65,-0.0733395920800507,oran,,,,2026-11-26 20:45,,,,,,
 2026-11-25 20:41,2026-11-25,25.11,E1,Watford,Blackburn,Watford – Blackburn Rovers,E1,4️⃣ 4'lü kupon,MS 2,0.3507411933772734,2.63,-0.077550661417771,piyasa,,,,2026-11-25 22:45,,,,,,
 2026-11-25 20:41,2026-11-26,26.11,AVRUPA,Viktoria Plzen,Benfica,Viktoria Plzen – Benfica,UEFA Avrupa Ligi,4️⃣ 4'lü kupon,MS 2 & KG Var,0.38775848419081826,2.36,-0.08488997730966896,oran,,,,2026-11-26 20:45,,,,,,
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,🟡 Tier 2 — Orta risk,ÇŞ 1-X,0.627258087141248,1.45,-0.09047577364519044,piyasa,False,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,EC,Boreham Wood,Aldershot,Boreham Wood – Aldershot,EC,🟡 Tier 2 — Orta risk,KG Var,0.6017251130019262,1.46,-0.12148133501718772,piyasa,False,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,🟡 Tier 2 — Orta risk,KG Var,0.5259411943025722,1.7,-0.1058999696856272,piyasa,False,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,EC,Boreham Wood,Aldershot,Boreham Wood – Aldershot,EC,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.45457866773849637,1.9,-0.13630053129685693,piyasa,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,🔴 Tier 3 — Yüksek risk,MS 1,0.3215294656520257,2.96,-0.04827278167000382,piyasa,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.2604130842143144,3.23,-0.1588657379877645,piyasa,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,🟣 Tier 4 — Çok yüksek risk,İY/MS 1/1,0.18550267645280383,5.03,-0.0669215374423967,piyasa,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,🟢 Tier 1 — Düşük risk,Korner 11.5 Alt,0.7181782707455715,1.2,-0.13818607510531422,korner,False,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5967297374623259,1.56,-0.06910160955877154,korner,False,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.5277036975704761,1.67,-0.11873482505730493,korner,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,🔴 Tier 3 — Yüksek risk,Korner 8.5 Alt,0.4876314488992004,1.97,-0.03936604566857527,korner,True,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,EC,Boreham Wood,Aldershot,Boreham Wood – Aldershot,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10824943138427728,7.81,-0.15457194088879445,piyasa,,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10362196984309127,7.21,-0.2528855974313119,piyasa,,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.08073052515781033,7.96,-0.35738501974382975,piyasa,,,,2026-11-25 22:00,,,,,,kadro
