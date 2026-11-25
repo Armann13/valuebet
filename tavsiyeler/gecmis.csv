@@ -9854,3 +9854,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-25 21:37,2026-11-25,25.11,EC,Boreham Wood,Aldershot,Boreham Wood – Aldershot,EC,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10824943138427728,7.81,-0.15457194088879445,piyasa,,,,2026-11-25 22:00,,,,,,kadro
 2026-11-25 21:37,2026-11-25,25.11,I2,Mantova,Arezzo,Mantova 1911 – SS Arezzo,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10362196984309127,7.21,-0.2528855974313119,piyasa,,,,2026-11-25 22:00,,,,,,kadro
 2026-11-25 21:37,2026-11-25,25.11,I2,Padova,Sampdoria,Padova – Sampdoria,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-0,0.08073052515781033,7.96,-0.35738501974382975,piyasa,,,,2026-11-25 22:00,,,,,,kadro
+2026-11-25 21:49,2026-11-25,25.11,E1,Bolton,West Brom,Bolton – West Bromwich,E1,🟡 Tier 2 — Orta risk,2.5 Üst,0.5593715976489788,1.63,-0.08822429583216462,piyasa,False,,,2026-11-25 22:45,,,,,,kadro
+2026-11-25 21:49,2026-11-25,25.11,E1,Bolton,West Brom,Bolton – West Bromwich,E1,🔴 Tier 3 — Yüksek risk,MS 2 & 2.5 Üst,0.32099886433173686,2.71,-0.1300930776609931,piyasa,True,,,2026-11-25 22:45,,,,,,kadro
+2026-11-25 21:49,2026-11-25,25.11,E1,Bolton,West Brom,Bolton – West Bromwich,E1,🟣 Tier 4 — Çok yüksek risk,MS 2 & KG Var,0.2466314057650729,3.54,-0.12692482359164192,piyasa,True,,,2026-11-25 22:45,,,,,,kadro
+2026-11-25 21:49,2026-11-25,25.11,E1,Bolton,West Brom,Bolton – West Bromwich,E1,🟡 Tier 2 — Orta risk,En çok korner 1,0.5177190170372873,2.23,0.15451340799315072,korner,False,,,2026-11-25 22:45,,,,,,kadro
+2026-11-25 21:49,2026-11-25,25.11,E1,Bolton,West Brom,Bolton – West Bromwich,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11024332974105282,7.49,-0.1742774602395144,piyasa,,,,2026-11-25 22:45,,,,,,kadro
