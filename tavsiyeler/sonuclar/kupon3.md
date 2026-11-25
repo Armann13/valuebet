@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 2 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11 11:48 gönderilen kupon · 3 maç, oran 10,60
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 25.11 23:00 Inter – Stuttgart · MS 1 & KG Var · @2.03
+- ⏳ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.30
+- ⏳ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.27
 
 ## 24.11 16:55 gönderilen kupon · 3 maç, oran 16,93
 

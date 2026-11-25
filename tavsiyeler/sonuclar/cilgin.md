@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/171 tuttu** (isabet %12, beklenen %13) · +182.48 birim · 64 tahmin sonuç bekliyor
+**21/171 tuttu** (isabet %12, beklenen %13) · +182.48 birim · 68 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11 11:48 gönderilen kupon · 4 maç, oran 136.930,86
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 25.11 22:00 Boreham Wood – Aldershot · İY/MS 2/1 · @18.65
+- ⏳ 25.11 23:00 Club Brugge – Liverpool · İY/MS 1/2 · @17.70
+- ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · İY/MS 1/2 · @19.80
+- ⏳ 26.11 23:00 Doncaster – Huddersfield · İY/MS 1/2 · @20.95
 
 ## 24.11 16:55 gönderilen kupon · 4 maç, oran 202.862,01
 

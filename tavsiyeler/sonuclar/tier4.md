@@ -2,15 +2,98 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 49 tahmin sonuç bekliyor
+**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 72 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.11.2026 Perşembe
+
+**18:30 · K Almaty – Mjallby**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.31
+
+**20:45 · Dinamo Zagreb – B. Leverkusen**
+
+- ⏳ ↳ MS 2 & KG Var · @2.63
+
+**20:45 · Hearts – Monaco**
+
+- ⏳ ↳ MS 2 & KG Var · @2.72
+
+**20:45 · KF Egnatia Rrogozhine – Lincoln Red**
+
+- ⏳ ↳ MS 1 & KG Var · @2.80
+
+**20:45 · Jablonec – Lugano**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.82
+
+**20:45 · Zalgiris Kaunas – Riga FC**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.16
+
+**20:45 · Pafos FC – Midtjylland**
+
+- ⏳ ↳ MS 2 & KG Var · @3.47
+
+**20:45 · Olympiacos – AC Milan**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.46
+
+**20:45 · Brann – AGF Aarhus**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @3.77
+
+**20:45 · Celta Vigo – Bournemouth**
+
+- ⏳ ↳ MS 2 & KG Var · @3.86
+
+**23:00 · Freiburg – Twente**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.59
+
+**23:00 · Crystal Palace – Real Sociedad**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.60
+
+**23:00 · Torreense – Celtic**
+
+- ⏳ ↳ MS 2 & KG Var · @2.80
+
+**23:00 · CSKA Sofya – Trabzonspor**
+
+- ⏳ ↳ MS 2 & KG Var · @3.01
+
+**23:00 · Hajduk Split – St. Truidense**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.01
+
+**23:00 · KAA Gent – Kızıl Yıldız**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.00
+
+**23:00 · Ofi Crete – Anderlecht**
+
+- ⏳ ↳ MS 2 & KG Var · @3.15
+
+**23:00 · NEC Nijmegen – Rennes**
+
+- ⏳ ↳ MS 2 & KG Var · @3.33
+
+**23:00 · Sparta Prag – AZ Alkmaar**
+
+- ⏳ ↳ MS 2 & KG Var · @3.72
+
+**23:00 · Nordsjælland – Panathinaikos**
+
+- ⏳ ↳ MS 2 & KG Var · @4.11
 
 ## 25.11.2026 Çarşamba
 
 **20:45 · Slavia Prag – Villarreal**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.93
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.75
 
 **21:00 · Cremonese – AS Avellino 1912**
 
@@ -27,10 +110,12 @@
 **22:00 · Padova – Sampdoria**
 
 - ⏳ ↳ İY/MS 2/2 · @3.44
+- ⏳ ↳ İY/MS 1/1 · @4.71
 
 **22:45 · Hartlepool – Solihull Moors**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.70
+- ⏳ ↳ MS 1 & KG Var · @3.29
 
 **22:45 · Harrogate – Kidderminster Harriers**
 

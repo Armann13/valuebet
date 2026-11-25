@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**53/145 tuttu** (isabet %37, beklenen %37) · +0.53 birim · 3 tahmin sonuç bekliyor
+**53/145 tuttu** (isabet %37, beklenen %37) · +0.53 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11 11:48 gönderilen kupon · 4 maç, oran 38,47
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.66
+- ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.63
+- ⏳ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.37
+- ⏳ 26.11 23:00 CSKA Sofya – Trabzonspor · MS 2 & 2.5 Üst · @2.32
 
 ## 24.11 16:55 gönderilen kupon · 4 maç, oran 50,16
 

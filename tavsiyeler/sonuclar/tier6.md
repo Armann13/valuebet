@@ -2,15 +2,142 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**130/1182 tuttu** (isabet %11, beklenen %11) · -239.37 birim · 60 tahmin sonuç bekliyor
+**130/1182 tuttu** (isabet %11, beklenen %11) · -239.37 birim · 93 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.11.2026 Perşembe
+
+**18:30 · K Almaty – Mjallby**
+
+- ⏳ 2-1 · @7.99
+
+**20:45 · KF Egnatia Rrogozhine – Lincoln Red**
+
+- ⏳ 2-1 · @7.14
+
+**20:45 · Hearts – Monaco**
+
+- ⏳ 1-2 · @7.20
+
+**20:45 · Dinamo Zagreb – B. Leverkusen**
+
+- ⏳ 1-2 · @7.40
+
+**20:45 · Jablonec – Lugano**
+
+- ⏳ 1-2 · @7.70
+
+**20:45 · Celta Vigo – Bournemouth**
+
+- ⏳ 1-2 · @7.70
+
+**20:45 · Zalgiris Kaunas – Riga FC**
+
+- ⏳ 1-2 · @7.86
+
+**20:45 · Viktoria Plzen – Benfica**
+
+- ⏳ 1-2 · @7.40
+
+**20:45 · Marsilya – Levski Sofya**
+
+- ⏳ 2-1 · @7.38
+
+**20:45 · Olympiacos – AC Milan**
+
+- ⏳ 1-2 · @8.29
+
+**20:45 · Pafos FC – Midtjylland**
+
+- ⏳ 1-2 · @8.11
+
+**20:45 · Union Saint Gilloise – Lech Poznan**
+
+- ⏳ 2-1 · @7.48
+
+**20:45 · Beşiktaş – Hapoel Beer Sheva**
+
+- ⏳ 3-1 · @8.64
+
+**20:45 · Brann – AGF Aarhus**
+
+- ⏳ 1-2 · @9.79
+
+**20:45 · Ajax – Thun**
+
+- ⏳ 3-1 · @8.66
+
+**20:45 · Salzburg – Ararat**
+
+- ⏳ 3-1 · @8.67
+
+**23:00 · Torreense – Celtic**
+
+- ⏳ 1-2 · @7.25
+
+**23:00 · Ofi Crete – Anderlecht**
+
+- ⏳ 1-2 · @7.36
+
+**23:00 · CSKA Sofya – Trabzonspor**
+
+- ⏳ 1-2 · @7.49
+
+**23:00 · Banja Luka – Atalanta**
+
+- ⏳ 1-2 · @7.20
+
+**23:00 · Hajduk Split – St. Truidense**
+
+- ⏳ 2-1 · @7.85
+
+**23:00 · Crystal Palace – Real Sociedad**
+
+- ⏳ 2-1 · @7.81
+
+**23:00 · KAA Gent – Kızıl Yıldız**
+
+- ⏳ 2-1 · @7.81
+
+**23:00 · NEC Nijmegen – Rennes**
+
+- ⏳ 1-2 · @7.96
+
+**23:00 · Freiburg – Twente**
+
+- ⏳ 2-1 · @7.79
+
+**23:00 · Sparta Prag – AZ Alkmaar**
+
+- ⏳ 1-2 · @8.08
+
+**23:00 · Ferencvaros – NK Celje**
+
+- ⏳ 2-1 · @7.33
+
+**23:00 · Hoffenheim – Sturm Graz**
+
+- ⏳ 2-1 · @7.65
+
+**23:00 · Nordsjælland – Panathinaikos**
+
+- ⏳ 1-2 · @8.54
+
+**23:00 · Juventus – Omonia**
+
+- ⏳ 3-1 · @8.99
+
+**23:00 · Lyon – Lillestrom**
+
+- ⏳ 3-1 · @8.82
 
 ## 25.11.2026 Çarşamba
 
 **20:45 · Slavia Prag – Villarreal**
 
 - ⏳ 2-1 · @9.75
+- ⏳ 1-2 · @7.83
 
 **21:00 · Cremonese – AS Avellino 1912**
 
@@ -19,6 +146,7 @@
 **22:00 · Padova – Sampdoria**
 
 - ⏳ 0-1 · @6.52
+- ⏳ 1-0 · @7.69
 
 **22:00 · Boreham Wood – Aldershot**
 

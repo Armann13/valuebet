@@ -2,15 +2,160 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**674/952 tuttu** (isabet %71, beklenen %74) · -116.75 birim · 63 tahmin sonuç bekliyor
+**674/952 tuttu** (isabet %71, beklenen %74) · -116.75 birim · 117 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.11.2026 Perşembe
+
+**18:30 · K Almaty – Mjallby**
+
+- ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 7.5 Üst · @1.22
+
+**20:45 · Ajax – Thun**
+
+- ⏳ MS 1 & 2.5 Üst · @1.25
+- ⏳ Korner 11.5 Alt · @1.20
+
+**20:45 · Union Saint Gilloise – Lech Poznan**
+
+- ⏳ MS 1 · @1.21
+- ⏳ En çok korner 1 · @1.27
+
+**20:45 · Marsilya – Levski Sofya**
+
+- ⏳ MS 1 · @1.23
+- ⏳ En çok korner 1 · @1.26
+
+**20:45 · Salzburg – Ararat**
+
+- ⏳ MS 1 & 2.5 Üst · @1.30
+- ⏳ Korner 11.5 Alt · @1.22
+
+**20:45 · Olympiacos – AC Milan**
+
+- ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 7.5 Üst · @1.24
+
+**20:45 · Zalgiris Kaunas – Riga FC**
+
+- ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 7.5 Üst · @1.23
+
+**20:45 · Jablonec – Lugano**
+
+- ⏳ ÇŞ X-2 · @1.20
+- ⏳ Korner 7.5 Üst · @1.23
+
+**20:45 · Beşiktaş – Hapoel Beer Sheva**
+
+- ⏳ MS 1 & 2.5 Üst · @1.37
+- ⏳ Korner 7.5 Üst · @1.21
+
+**20:45 · FC Iberia 1999 – Getafe**
+
+- ⏳ MS 2 · @1.32
+- ⏳ En çok korner 2 · @1.30
+
+**20:45 · Viktoria Plzen – Benfica**
+
+- ⏳ MS 2 · @1.33
+- ⏳ Korner 11.5 Alt · @1.23
+
+**20:45 · Dinamo Zagreb – B. Leverkusen**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**20:45 · KF Egnatia Rrogozhine – Lincoln Red**
+
+- ⏳ Korner 11.5 Alt · @1.21
+
+**20:45 · Brann – AGF Aarhus**
+
+- ⏳ Korner 8.5 Üst · @1.22
+
+**20:45 · Hearts – Monaco**
+
+- ⏳ Korner 11.5 Alt · @1.26
+
+**23:00 · Hoffenheim – Sturm Graz**
+
+- ⏳ MS 1 · @1.21
+- ⏳ Korner 8.5 Üst · @1.23
+
+**23:00 · Ferencvaros – NK Celje**
+
+- ⏳ MS 1 · @1.24
+
+**23:00 · KAA Gent – Kızıl Yıldız**
+
+- ⏳ ÇŞ 1-X · @1.21
+- ⏳ Korner 11.5 Alt · @1.22
+
+**23:00 · Lyon – Lillestrom**
+
+- ⏳ MS 1 & 2.5 Üst · @1.36
+- ⏳ Korner 8.5 Üst · @1.25
+
+**23:00 · Crystal Palace – Real Sociedad**
+
+- ⏳ ÇŞ 1-X · @1.23
+- ⏳ Korner 7.5 Üst · @1.20
+
+**23:00 · Freiburg – Twente**
+
+- ⏳ ÇŞ 1-X · @1.23
+- ⏳ Korner 7.5 Üst · @1.22
+
+**23:00 · Banja Luka – Atalanta**
+
+- ⏳ MS 2 · @1.33
+- ⏳ Korner 7.5 Üst · @1.25
+
+**23:00 · Hajduk Split – St. Truidense**
+
+- ⏳ ÇŞ 1-X · @1.24
+- ⏳ Korner 7.5 Üst · @1.23
+
+**23:00 · Juventus – Omonia**
+
+- ⏳ MS 1 & 2.5 Üst · @1.39
+
+**23:00 · Nordsjælland – Panathinaikos**
+
+- ⏳ Korner 10.5 Alt · @1.20
+
+**23:00 · NEC Nijmegen – Rennes**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**23:00 · Ofi Crete – Anderlecht**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**23:00 · Sunderland – Jagiellonia Bialystok**
+
+- ⏳ Korner 11.5 Alt · @1.22
+
+**23:00 · Inter Club De Escaldes – Kopenhag**
+
+- ⏳ Korner 7.5 Üst · @1.25
+
+**23:00 · Torreense – Celtic**
+
+- ⏳ Korner 8.5 Üst · @1.26
+
+**23:00 · Sparta Prag – AZ Alkmaar**
+
+- ⏳ Korner 11.5 Alt · @1.27
 
 ## 25.11.2026 Çarşamba
 
 **20:45 · Slavia Prag – Villarreal**
 
 - ⏳ Korner 11.5 Alt · @1.25
+- ⏳ ÇŞ X-2 · @1.24
 
 **21:00 · Cremonese – AS Avellino 1912**
 
@@ -46,6 +191,7 @@
 
 - ⏳ KG Var · @1.24
 - ⏳ Korner 11.5 Alt · @1.26
+- ⏳ 2.5 Üst · @1.20
 
 **23:00 · Inter – Stuttgart**
 
@@ -57,10 +203,12 @@
 
 - ⏳ MS 1 · @1.29
 - ⏳ Korner 7.5 Üst · @1.25
+- ⏳ 2.5 Üst · @1.24
 
 **23:00 · Stoke City – Millwall**
 
 - ⏳ ÇŞ 1-2 · @1.21
+- ⏳ ÇŞ 1-X · @1.23
 
 **23:00 · Sporting Lizbon – Manchester United**
 
@@ -69,6 +217,10 @@
 **23:00 · Lille – Bayern Münih**
 
 - ⏳ Korner 11.5 Alt · @1.20
+
+**23:00 · Shakhtar Donetsk – Fenerbahçe**
+
+- ⏳ ÇŞ 1-2 · @1.20
 
 ## 24.11.2026 Salı
 
