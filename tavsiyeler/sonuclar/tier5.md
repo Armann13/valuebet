@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/114 tuttu** (isabet %17, beklenen %16) · -8.85 birim · 6 tahmin sonuç bekliyor
+**19/114 tuttu** (isabet %17, beklenen %16) · -8.85 birim · 7 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -19,6 +19,7 @@
 **23:00 · Inter Club De Escaldes – Kopenhag**
 
 - ⏳ 0-2 · @5.32
+- ⏳ 0-3 · @6.02
 
 **23:00 · Doncaster – Huddersfield**
 

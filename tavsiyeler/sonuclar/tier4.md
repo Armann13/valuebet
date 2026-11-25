@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 72 tahmin sonuç bekliyor
+**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 76 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -87,6 +87,7 @@
 **23:00 · Nordsjælland – Panathinaikos**
 
 - ⏳ ↳ MS 2 & KG Var · @4.11
+- ⏳ ↳ MS 1 & KG Var · @4.09
 
 ## 25.11.2026 Çarşamba
 
@@ -94,6 +95,7 @@
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.93
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.75
+- ⏳ ↳ MS 2 & KG Var · @3.71
 
 **21:00 · Cremonese – AS Avellino 1912**
 
@@ -145,10 +147,12 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.52
 - ⏳ ↳ MS 2 & KG Var · @4.06
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.70
 
 **23:00 · Sporting Lizbon – Manchester United**
 
 - ⏳ ↳ MS 1 & KG Var · @3.73
+- ⏳ ↳ MS 2 & KG Var · @3.72
 
 ## 24.11.2026 Salı
 

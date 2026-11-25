@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**674/952 tuttu** (isabet %71, beklenen %74) · -116.75 birim · 117 tahmin sonuç bekliyor
+**674/952 tuttu** (isabet %71, beklenen %74) · -116.75 birim · 122 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -12,6 +12,7 @@
 
 - ⏳ ÇŞ 1-2 · @1.20
 - ⏳ Korner 7.5 Üst · @1.22
+- ⏳ ÇŞ 1-X · @1.21
 
 **20:45 · Ajax – Thun**
 
@@ -78,6 +79,10 @@
 **20:45 · Hearts – Monaco**
 
 - ⏳ Korner 11.5 Alt · @1.26
+
+**20:45 · Celta Vigo – Bournemouth**
+
+- ⏳ Korner 7.5 Üst · @1.22
 
 **23:00 · Hoffenheim – Sturm Graz**
 
@@ -209,6 +214,7 @@
 
 - ⏳ ÇŞ 1-2 · @1.21
 - ⏳ ÇŞ 1-X · @1.23
+- ⏳ Korner 8.5 Üst · @1.20
 
 **23:00 · Sporting Lizbon – Manchester United**
 
@@ -217,10 +223,12 @@
 **23:00 · Lille – Bayern Münih**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ En çok korner 2 · @1.28
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
 - ⏳ ÇŞ 1-2 · @1.20
+- ⏳ Korner 7.5 Üst · @1.20
 
 ## 24.11.2026 Salı
 

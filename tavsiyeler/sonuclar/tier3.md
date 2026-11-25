@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**526/1279 tuttu** (isabet %41, beklenen %40) · -100.96 birim · 111 tahmin sonuç bekliyor
+**526/1279 tuttu** (isabet %41, beklenen %40) · -100.96 birim · 114 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -146,6 +146,7 @@
 **23:00 · Nordsjælland – Panathinaikos**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.40
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.38
 
 ## 25.11.2026 Çarşamba
 
@@ -218,11 +219,13 @@
 **23:00 · Sporting Lizbon – Manchester United**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @3.11
+- ⏳ MS 2 & 2.5 Üst · @3.12
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
 - ⏳ ↳ Korner 9.5 Üst · @1.71
 - ⏳ ↳ MS 2 · @2.24
+- ⏳ ↳ MS 1 · @2.36
 
 ## 24.11.2026 Salı
 

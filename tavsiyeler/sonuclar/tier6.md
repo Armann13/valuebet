@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**130/1182 tuttu** (isabet %11, beklenen %11) · -239.37 birim · 93 tahmin sonuç bekliyor
+**130/1182 tuttu** (isabet %11, beklenen %11) · -239.37 birim · 96 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -123,6 +123,7 @@
 **23:00 · Nordsjælland – Panathinaikos**
 
 - ⏳ 1-2 · @8.54
+- ⏳ 2-1 · @8.50
 
 **23:00 · Juventus – Omonia**
 
@@ -195,10 +196,12 @@
 **23:00 · Sporting Lizbon – Manchester United**
 
 - ⏳ 2-1 · @8.52
+- ⏳ 1-2 · @8.69
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
 - ⏳ 1-2 · @8.55
+- ⏳ 2-1 · @8.60
 
 **23:00 · Club Brugge – Liverpool**
 

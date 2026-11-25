@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**897/1625 tuttu** (isabet %55, beklenen %59) · -227.83 birim · 123 tahmin sonuç bekliyor
+**897/1625 tuttu** (isabet %55, beklenen %59) · -227.83 birim · 129 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -30,6 +30,7 @@
 **20:45 · Dinamo Zagreb – B. Leverkusen**
 
 - ⏳ MS 2 · @1.52
+- ⏳ En çok korner 2 · @1.58
 
 **20:45 · Union Saint Gilloise – Lech Poznan**
 
@@ -53,6 +54,7 @@
 
 - ⏳ 2.5 Üst · @1.71
 - ⏳ En çok korner 2 · @1.58
+- ⏳ ↳ Korner 8.5 Üst · @1.45
 
 **20:45 · Salzburg – Ararat**
 
@@ -165,6 +167,7 @@
 
 - ⏳ ÇŞ 1-X · @1.54
 - ⏳ ↳ Korner 10.5 Alt · @1.47
+- ⏳ 2.5 Üst · @1.42
 
 **21:00 · Cremonese – AS Avellino 1912**
 
@@ -174,6 +177,7 @@
 
 - ⏳ MS 1 · @1.54
 - ⏳ Korner 9.5 Alt · @1.45
+- ⏳ KG Var · @1.75
 
 **22:00 · Boreham Wood – Aldershot**
 
@@ -198,6 +202,7 @@
 
 - ⏳ 2.5 Üst · @1.55
 - ⏳ ↳ Korner 11.5 Alt · @1.47
+- ⏳ En çok korner 1 · @2.23
 
 **22:45 · Burnley – Birmingham**
 
@@ -239,6 +244,7 @@
 **23:00 · Stoke City – Millwall**
 
 - ⏳ En çok korner 1 · @1.57
+- ⏳ ↳ Korner 9.5 Üst · @1.41
 
 **23:00 · Club Brugge – Liverpool**
 

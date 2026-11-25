@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 5 tahmin sonuç bekliyor
+**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 25.11 20:41 gönderilen kupon · 3 maç, oran 13,17
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.74
+- ⏳ 25.11 23:00 Inter – Stuttgart · MS 1 & KG Var · @2.08
+- ⏳ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.31
 
 ## 25.11 11:48 gönderilen kupon · 3 maç, oran 10,60
 

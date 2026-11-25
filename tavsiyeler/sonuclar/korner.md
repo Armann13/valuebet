@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**884/1653 tuttu** (isabet %53, beklenen %59) · -259.61 birim · 144 tahmin sonuç bekliyor
+**884/1653 tuttu** (isabet %53, beklenen %59) · -259.61 birim · 153 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -22,6 +22,7 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.68
+- ⏳ 🟡 En çok korner 2 · @1.58
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
@@ -88,6 +89,8 @@
 **20:45 · Celta Vigo – Bournemouth**
 
 - ⏳ 🟡 En çok korner 2 · @1.58
+- ⏳ 🟢 Korner 7.5 Üst · @1.22
+- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.45
 
 **23:00 · Nordsjælland – Panathinaikos**
 
@@ -195,6 +198,7 @@
 - ⏳ 🟡 Korner 9.5 Alt · @1.45
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @1.79
 - ⏳ 4 En çok korner 2 · @2.66
+- ⏳ 3 En çok korner 2 · @2.74
 
 **22:00 · AC Pisa – Modena FC**
 
@@ -208,6 +212,7 @@
 - ⏳ 🟡 ↳ Korner 11.5 Alt · @1.47
 - ⏳ 2 En çok korner 1 · @2.20
 - ⏳ 2 En çok korner 1 · @2.20
+- ⏳ 🟡 En çok korner 1 · @2.23
 
 **22:45 · Burnley – Birmingham**
 
@@ -228,6 +233,7 @@
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🔴 ↳ Korner 9.5 Alt · @1.69
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.12
+- ⏳ 🟢 En çok korner 2 · @1.28
 
 **23:00 · Paris Saint Germain – AS Roma**
 
@@ -249,10 +255,13 @@
 
 - ⏳ 🟡 Korner 8.5 Üst · @1.40
 - ⏳ 🔴 ↳ Korner 9.5 Üst · @1.71
+- ⏳ 🟢 Korner 7.5 Üst · @1.20
 
 **23:00 · Stoke City – Millwall**
 
 - ⏳ 🟡 En çok korner 1 · @1.57
+- ⏳ 🟢 Korner 8.5 Üst · @1.20
+- ⏳ 🟡 ↳ Korner 9.5 Üst · @1.41
 
 ## 24.11.2026 Salı
 
