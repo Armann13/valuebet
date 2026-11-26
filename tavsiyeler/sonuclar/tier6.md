@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**130/1182 tuttu** (isabet %11, beklenen %11) · -239.37 birim · 96 tahmin sonuç bekliyor
+**131/1201 tuttu** (isabet %11, beklenen %11) · -250.39 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -137,61 +137,61 @@
 
 **20:45 · Slavia Prag – Villarreal**
 
-- ⏳ 2-1 · @9.75
-- ⏳ 1-2 · @7.83
+- ❌ 2-1 · @9.75 · 0-1
+- ❌ 1-2 · @7.83 · 0-1
 
 **21:00 · Cremonese – AS Avellino 1912**
 
-- ⏳ 1-0 · @6.28
+- ❌ 1-0 · @6.28 · 0-1
 
 **22:00 · Padova – Sampdoria**
 
-- ⏳ 0-1 · @6.52
-- ⏳ 1-0 · @7.69
+- ❌ 0-1 · @6.52 · 1-2
+- ❌ 1-0 · @7.69 · 1-2
 
 **22:00 · Boreham Wood – Aldershot**
 
-- ⏳ 2-1 · @7.85
+- ❌ 2-1 · @7.85 · 4-1
 
 **22:00 · Mantova 1911 – SS Arezzo**
 
-- ⏳ 2-1 · @7.27
+- ❌ 2-1 · @7.27 · 3-0
 
 **22:00 · AC Pisa – Modena FC**
 
-- ⏳ 2-1 · @8.21
+- ❌ 2-1 · @8.21 · 1-1
 
 **22:45 · Harrogate – Kidderminster Harriers**
 
-- ⏳ 2-1 · @6.31
+- ❌ 2-1 · @6.31 · 3-1
 
 **22:45 · Bolton – West Bromwich**
 
-- ⏳ 1-2 · @7.61
+- ❌ 1-2 · @7.61 · 1-3
 
 **22:45 · Burnley – Birmingham**
 
-- ⏳ 1-2 · @8.38
+- ❌ 1-2 · @8.38 · 0-2
 
 **22:45 · Hartlepool – Solihull Moors**
 
-- ⏳ 2-1 · @6.87
+- ❌ 2-1 · @6.87 · 2-0
 
 **22:45 · Watford – Blackburn Rovers**
 
-- ⏳ 2-1 · @8.52
+- ❌ 2-1 · @8.52 · 0-1
 
 **23:00 · Stoke City – Millwall**
 
-- ⏳ 2-1 · @7.98
+- ✅ 2-1 · @7.98 · 2-1
 
 **23:00 · Lille – Bayern Münih**
 
-- ⏳ 1-2 · @7.26
+- ❌ 1-2 · @7.26 · 2-1
 
 **23:00 · Paris Saint Germain – AS Roma**
 
-- ⏳ 2-1 · @7.76
+- ❌ 2-1 · @7.76 · 2-2
 
 **23:00 · Sporting Lizbon – Manchester United**
 
@@ -200,12 +200,12 @@
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
-- ⏳ 1-2 · @8.55
-- ⏳ 2-1 · @8.60
+- ❌ 1-2 · @8.55 · 0-1
+- ❌ 2-1 · @8.60 · 0-1
 
 **23:00 · Club Brugge – Liverpool**
 
-- ⏳ 1-2 · @8.19
+- ❌ 1-2 · @8.19 · 0-3
 
 **23:00 · Inter – Stuttgart**
 

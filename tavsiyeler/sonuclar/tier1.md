@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**674/952 tuttu** (isabet %71, beklenen %74) · -116.75 birim · 122 tahmin sonuç bekliyor
+**691/976 tuttu** (isabet %71, beklenen %74) · -119.96 birim · 98 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -159,44 +159,44 @@
 
 **20:45 · Slavia Prag – Villarreal**
 
-- ⏳ Korner 11.5 Alt · @1.25
-- ⏳ ÇŞ X-2 · @1.24
+- ❌ Korner 11.5 Alt · @1.25 · korner 13-0
+- ✅ ÇŞ X-2 · @1.24 · 0-1
 
 **21:00 · Cremonese – AS Avellino 1912**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ✅ ÇŞ 1-2 · @1.22 · 0-1
 
 **22:00 · Boreham Wood – Aldershot**
 
-- ⏳ MS 1 & 2.5 Üst · @1.25
+- ✅ MS 1 & 2.5 Üst · @1.25 · 4-1
 
 **22:00 · AC Pisa – Modena FC**
 
-- ⏳ ÇŞ 1-2 · @1.22
+- ❌ ÇŞ 1-2 · @1.22 · 1-1
 
 **22:00 · Padova – Sampdoria**
 
-- ⏳ ÇŞ 1-2 · @1.23
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ ÇŞ X-2 · @1.23
+- ✅ ÇŞ 1-2 · @1.23 · 1-2
+- ✅ Korner 11.5 Alt · @1.20 · korner 2-5
+- ✅ ÇŞ X-2 · @1.23 · 1-2
 
 **22:45 · Watford – Blackburn Rovers**
 
-- ⏳ ÇŞ 1-2 · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
 
 **22:45 · Hartlepool – Solihull Moors**
 
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ ÇŞ 1-X · @1.20 · 2-0
 
 **22:45 · Bolton – West Bromwich**
 
-- ⏳ Korner 12.5 Alt · @1.26
+- ✅ Korner 12.5 Alt · @1.26 · korner 1-4
 
 **23:00 · Club Brugge – Liverpool**
 
-- ⏳ KG Var · @1.24
-- ⏳ Korner 11.5 Alt · @1.26
-- ⏳ 2.5 Üst · @1.20
+- ❌ KG Var · @1.24 · 0-3
+- ❌ Korner 11.5 Alt · @1.26 · korner 8-4
+- ✅ 2.5 Üst · @1.20 · 0-3
 
 **23:00 · Inter – Stuttgart**
 
@@ -206,15 +206,15 @@
 
 **23:00 · Paris Saint Germain – AS Roma**
 
-- ⏳ MS 1 · @1.29
-- ⏳ Korner 7.5 Üst · @1.25
-- ⏳ 2.5 Üst · @1.24
+- ❌ MS 1 · @1.29 · 2-2
+- ❌ Korner 7.5 Üst · @1.25 · korner 3-4
+- ✅ 2.5 Üst · @1.24 · 2-2
 
 **23:00 · Stoke City – Millwall**
 
-- ⏳ ÇŞ 1-2 · @1.21
-- ⏳ ÇŞ 1-X · @1.23
-- ⏳ Korner 8.5 Üst · @1.20
+- ✅ ÇŞ 1-2 · @1.21 · 2-1
+- ✅ ÇŞ 1-X · @1.23 · 2-1
+- ❌ Korner 8.5 Üst · @1.20 · korner 2-5
 
 **23:00 · Sporting Lizbon – Manchester United**
 
@@ -222,13 +222,13 @@
 
 **23:00 · Lille – Bayern Münih**
 
-- ⏳ Korner 11.5 Alt · @1.20
-- ⏳ En çok korner 2 · @1.28
+- ✅ Korner 11.5 Alt · @1.20 · korner 3-4
+- ✅ En çok korner 2 · @1.28 · korner 3-4
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 7.5 Üst · @1.20
+- ✅ ÇŞ 1-2 · @1.20 · 0-1
+- ✅ Korner 7.5 Üst · @1.20 · korner 3-5
 
 ## 24.11.2026 Salı
 

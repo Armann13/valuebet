@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**526/1279 tuttu** (isabet %41, beklenen %40) · -100.96 birim · 114 tahmin sonuç bekliyor
+**538/1302 tuttu** (isabet %41, beklenen %40) · -98.83 birim · 91 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -152,47 +152,47 @@
 
 **20:45 · Slavia Prag – Villarreal**
 
-- ⏳ ↳ MS 1 · @2.81
-- ⏳ ↳ MS 2 · @1.94
+- ❌ ↳ MS 1 · @2.81 · 0-1
+- ✅ ↳ MS 2 · @1.94 · 0-1
 
 **21:00 · Cremonese – AS Avellino 1912**
 
-- ⏳ ↳ MS 1 · @1.86
+- ❌ ↳ MS 1 · @1.86 · 0-1
 
 **22:00 · AC Pisa – Modena FC**
 
-- ⏳ ↳ MS 1 · @2.14
-- ⏳ ↳ Korner 8.5 Alt · @2.12
+- ❌ ↳ MS 1 · @2.14 · 1-1
+- ✅ ↳ Korner 8.5 Alt · @2.12 · korner 2-1
 
 **22:00 · Padova – Sampdoria**
 
-- ⏳ ↳ MS 2 · @2.14
-- ⏳ ↳ MS 1 · @2.79
+- ✅ ↳ MS 2 · @2.14 · 1-2
+- ❌ ↳ MS 1 · @2.79 · 1-2
 
 **22:00 · Mantova 1911 – SS Arezzo**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.38
-- ⏳ ↳ Korner 8.5 Alt · @1.79
+- ✅ ↳ MS 1 & 2.5 Üst · @2.38 · 3-0
+- ✅ ↳ Korner 8.5 Alt · @1.79 · korner 3-5
 
 **22:45 · Hartlepool – Solihull Moors**
 
-- ⏳ ↳ MS 1 · @1.89
+- ✅ ↳ MS 1 · @1.89 · 2-0
 
 **22:45 · Harrogate – Kidderminster Harriers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.10
+- ✅ ↳ MS 1 & 2.5 Üst · @2.10 · 3-1
 
 **22:45 · Watford – Blackburn Rovers**
 
-- ⏳ ↳ MS 1 · @2.32
+- ❌ ↳ MS 1 · @2.32 · 0-1
 
 **22:45 · Bolton – West Bromwich**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.71
+- ✅ ↳ MS 2 & 2.5 Üst · @2.71 · 1-3
 
 **22:45 · Burnley – Birmingham**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.42
+- ❌ ↳ MS 2 & 2.5 Üst · @3.42 · 0-2
 
 **23:00 · Inter – Stuttgart**
 
@@ -200,21 +200,21 @@
 
 **23:00 · Lille – Bayern Münih**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.05
-- ⏳ ↳ Korner 9.5 Alt · @1.69
-- ⏳ ↳ Korner 8.5 Alt · @2.12
+- ❌ ↳ MS 2 & 2.5 Üst · @2.05 · 2-1
+- ✅ ↳ Korner 9.5 Alt · @1.69 · korner 3-4
+- ✅ ↳ Korner 8.5 Alt · @2.12 · korner 3-4
 
 **23:00 · Stoke City – Millwall**
 
-- ⏳ ↳ MS 1 · @2.01
+- ✅ ↳ MS 1 · @2.01 · 2-1
 
 **23:00 · Paris Saint Germain – AS Roma**
 
-- ⏳ ↳ MS 1 & KG Var · @2.18
+- ❌ ↳ MS 1 & KG Var · @2.18 · 2-2
 
 **23:00 · Club Brugge – Liverpool**
 
-- ⏳ ↳ MS 2 & KG Var · @2.25
+- ❌ ↳ MS 2 & KG Var · @2.25 · 0-3
 
 **23:00 · Sporting Lizbon – Manchester United**
 
@@ -223,9 +223,9 @@
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
-- ⏳ ↳ Korner 9.5 Üst · @1.71
-- ⏳ ↳ MS 2 · @2.24
-- ⏳ ↳ MS 1 · @2.36
+- ❌ ↳ Korner 9.5 Üst · @1.71 · korner 3-5
+- ✅ ↳ MS 2 · @2.24 · 0-1
+- ❌ ↳ MS 1 · @2.36 · 0-1
 
 ## 24.11.2026 Salı
 

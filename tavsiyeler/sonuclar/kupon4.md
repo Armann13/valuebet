@@ -2,24 +2,24 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**53/145 tuttu** (isabet %37, beklenen %37) · +0.53 birim · 11 tahmin sonuç bekliyor
+**55/148 tuttu** (isabet %37, beklenen %37) · +2.82 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.11 20:41 gönderilen kupon · 4 maç, oran 36,35
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 25.11 22:45 Watford – Blackburn Rovers · MS 2 · @2.63
-- ⏳ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.21
+- ✅ 25.11 22:45 Watford – Blackburn Rovers · MS 2 · @2.63 · 0-1
+- ❌ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.21 · 2-2
 - ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.65
 - ⏳ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.36
 
 ## 25.11 11:48 gönderilen kupon · 4 maç, oran 38,47
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.66
+- ✅ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.66 · korner 3-5
 - ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.63
 - ⏳ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.37
 - ⏳ 26.11 23:00 CSKA Sofya – Trabzonspor · MS 2 & 2.5 Üst · @2.32

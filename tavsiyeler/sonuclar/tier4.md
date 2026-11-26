@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**237/854 tuttu** (isabet %28, beklenen %28) · -104.30 birim · 76 tahmin sonuç bekliyor
+**240/872 tuttu** (isabet %28, beklenen %28) · -112.58 birim · 58 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -93,61 +93,61 @@
 
 **20:45 · Slavia Prag – Villarreal**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.93
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.75
-- ⏳ ↳ MS 2 & KG Var · @3.71
+- ❌ ↳ MS 1 & 2.5 Üst · @3.93 · 0-1
+- ❌ ↳ MS 2 & 2.5 Üst · @2.75 · 0-1
+- ❌ ↳ MS 2 & KG Var · @3.71 · 0-1
 
 **21:00 · Cremonese – AS Avellino 1912**
 
-- ⏳ ↳ İY/MS 1/1 · @2.85
+- ❌ ↳ İY/MS 1/1 · @2.85
 
 **22:00 · AC Pisa – Modena FC**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.29
+- ❌ ↳ MS 1 & 2.5 Üst · @3.29 · 1-1
 
 **22:00 · Mantova 1911 – SS Arezzo**
 
-- ⏳ ↳ MS 1 & KG Var · @3.33
+- ❌ ↳ MS 1 & KG Var · @3.33 · 3-0
 
 **22:00 · Padova – Sampdoria**
 
 - ⏳ ↳ İY/MS 2/2 · @3.44
-- ⏳ ↳ İY/MS 1/1 · @4.71
+- ❌ ↳ İY/MS 1/1 · @4.71
 
 **22:45 · Hartlepool – Solihull Moors**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.70
-- ⏳ ↳ MS 1 & KG Var · @3.29
+- ❌ ↳ MS 1 & 2.5 Üst · @2.70 · 2-0
+- ❌ ↳ MS 1 & KG Var · @3.29 · 2-0
 
 **22:45 · Harrogate – Kidderminster Harriers**
 
-- ⏳ ↳ MS 1 & KG Var · @2.93
+- ✅ ↳ MS 1 & KG Var · @2.93 · 3-1
 
 **22:45 · Bolton – West Bromwich**
 
-- ⏳ ↳ MS 2 & KG Var · @3.46
+- ✅ ↳ MS 2 & KG Var · @3.46 · 1-3
 
 **22:45 · Watford – Blackburn Rovers**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.71
+- ❌ ↳ MS 1 & 2.5 Üst · @3.71 · 0-1
 
 **22:45 · Burnley – Birmingham**
 
-- ⏳ ↳ MS 2 & KG Var · @4.16
+- ❌ ↳ MS 2 & KG Var · @4.16 · 0-2
 
 **23:00 · Lille – Bayern Münih**
 
-- ⏳ ↳ MS 2 & KG Var · @2.79
+- ❌ ↳ MS 2 & KG Var · @2.79 · 2-1
 
 **23:00 · Stoke City – Millwall**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.33
+- ✅ ↳ MS 1 & 2.5 Üst · @3.33 · 2-1
 
 **23:00 · Shakhtar Donetsk – Fenerbahçe**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.52
-- ⏳ ↳ MS 2 & KG Var · @4.06
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.70
+- ❌ ↳ MS 2 & 2.5 Üst · @3.52 · 0-1
+- ❌ ↳ MS 2 & KG Var · @4.06 · 0-1
+- ❌ ↳ MS 1 & 2.5 Üst · @3.70 · 0-1
 
 **23:00 · Sporting Lizbon – Manchester United**
 

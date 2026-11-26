@@ -2,23 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**32/75 tuttu** (isabet %43, beklenen %50) · -9.02 birim · 5 tahmin sonuç bekliyor
+**33/78 tuttu** (isabet %42, beklenen %51) · -10.04 birim · 2 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.11 11:48 gönderilen kupon · 2 maç, oran 4,36
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
-- ⏳ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20
-- ⏳ 25.11 22:45 Burnley – Birmingham · En çok korner 1 · @1.98
+- ❌ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20 · korner 1-4
+- ✅ 25.11 22:45 Burnley – Birmingham · En çok korner 1 · @1.98 · korner 9-7
 
 ## 24.11 16:55 gönderilen kupon · 2 maç, oran 4,18
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/2 maç tuttu
 
 - ✅ 24.11 22:45 Charlton – Lincoln City · En çok korner 1 · @1.90 · korner 10-3
-- ⏳ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20
+- ❌ 25.11 22:45 Bolton – West Bromwich · En çok korner 1 · @2.20 · korner 1-4
 
 ## 23.11 16:06 gönderilen kupon · 2 maç, oran 3,31
 

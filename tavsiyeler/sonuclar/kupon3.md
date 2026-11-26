@@ -2,33 +2,33 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**39/118 tuttu** (isabet %33, beklenen %39) · -16.55 birim · 8 tahmin sonuç bekliyor
+**41/123 tuttu** (isabet %33, beklenen %39) · -16.79 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 25.11 20:41 gönderilen kupon · 3 maç, oran 13,17
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.74
+- ✅ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.74 · korner 3-5
 - ⏳ 25.11 23:00 Inter – Stuttgart · MS 1 & KG Var · @2.08
-- ⏳ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.31
+- ❌ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.31 · 0-3
 
 ## 25.11 11:48 gönderilen kupon · 3 maç, oran 10,60
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 - ⏳ 25.11 23:00 Inter – Stuttgart · MS 1 & KG Var · @2.03
-- ⏳ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.30
-- ⏳ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.27
+- ❌ 25.11 23:00 Club Brugge – Liverpool · MS 2 & KG Var · @2.30 · 0-3
+- ❌ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.27 · 2-2
 
 ## 24.11 16:55 gönderilen kupon · 3 maç, oran 16,93
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/3 maç tuttu
 
 - ❌ 24.11 22:00 Benevento – Empoli · MS 1 & KG Var · @2.91 · 5-0
 - ❌ 24.11 23:00 Wolverhampton – Derby County · MS 1 & KG Var · @2.88 · 3-0
-- ⏳ 25.11 22:00 Boreham Wood – Aldershot · MS 1 & KG Var · @2.02
+- ✅ 25.11 22:00 Boreham Wood – Aldershot · MS 1 & KG Var · @2.02 · 4-1
 
 ## 23.11 16:06 gönderilen kupon · 3 maç, oran 15,97
 
