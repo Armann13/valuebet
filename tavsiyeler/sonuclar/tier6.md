@@ -2,15 +2,77 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**131/1201 tuttu** (isabet %11, beklenen %11) · -250.39 birim · 77 tahmin sonuç bekliyor
+**131/1202 tuttu** (isabet %11, beklenen %11) · -251.39 birim · 97 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11.2026 Cuma
+
+**20:00 · Rizespor – Kasımpaşa**
+
+- ⏳ 2-1 · @7.44
+
+**20:00 · Alanyaspor – Konyaspor**
+
+- ⏳ 1-0 · @7.09
+
+**20:30 · Bochum – Darmstadt 98**
+
+- ⏳ 2-1 · @7.40
+
+**20:30 · Heidenheim – Nürnberg**
+
+- ⏳ 2-1 · @8.60
+
+**22:00 · Groningen – Willem II**
+
+- ⏳ 2-1 · @7.29
+
+**22:30 · Leganes – CE Sabadell FC**
+
+- ⏳ 1-0 · @5.82
+
+**22:30 · Werder Bremen – Monchengladbach**
+
+- ⏳ 2-1 · @7.35
+
+**22:45 · O.H. Leuven – Kortrijk**
+
+- ⏳ 2-1 · @7.58
+
+**22:45 · Venezia – Bologna**
+
+- ⏳ 0-1 · @6.44
+
+**22:45 · Brest – Paris**
+
+- ⏳ 1-2 · @7.92
+
+**22:45 · Scunthorpe – Wealdstone**
+
+- ⏳ 1-2 · @8.36
+
+**23:00 · Southampton – Middlesbrough**
+
+- ⏳ 1-2 · @8.08
+
+**23:00 · Levante – Santander**
+
+- ⏳ 2-1 · @7.96
+
+**23:00 · Nottingham Forest – Chelsea**
+
+- ⏳ 2-1 · @8.32
+
+**23:15 · Maritimo – N. Madeira**
+
+- ⏳ 1-0 · @6.06
 
 ## 26.11.2026 Perşembe
 
 **18:30 · K Almaty – Mjallby**
 
-- ⏳ 2-1 · @7.99
+- ❌ 2-1 · @7.99 · 1-0
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
@@ -35,6 +97,7 @@
 **20:45 · Zalgiris Kaunas – Riga FC**
 
 - ⏳ 1-2 · @7.86
+- ⏳ 0-1 · @6.64
 
 **20:45 · Viktoria Plzen – Benfica**
 
@@ -47,6 +110,7 @@
 **20:45 · Olympiacos – AC Milan**
 
 - ⏳ 1-2 · @8.29
+- ⏳ 0-1 · @7.05
 
 **20:45 · Pafos FC – Midtjylland**
 
@@ -59,10 +123,12 @@
 **20:45 · Beşiktaş – Hapoel Beer Sheva**
 
 - ⏳ 3-1 · @8.64
+- ⏳ 2-1 · @7.52
 
 **20:45 · Brann – AGF Aarhus**
 
 - ⏳ 1-2 · @9.79
+- ⏳ 2-1 · @8.09
 
 **20:45 · Ajax – Thun**
 
@@ -119,6 +185,7 @@
 **23:00 · Hoffenheim – Sturm Graz**
 
 - ⏳ 2-1 · @7.65
+- ⏳ 3-1 · @8.58
 
 **23:00 · Nordsjælland – Panathinaikos**
 
@@ -128,6 +195,7 @@
 **23:00 · Juventus – Omonia**
 
 - ⏳ 3-1 · @8.99
+- ⏳ 3-0 · @6.08
 
 **23:00 · Lyon – Lillestrom**
 

@@ -2,17 +2,70 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**691/976 tuttu** (isabet %71, beklenen %74) · -119.96 birim · 98 tahmin sonuç bekliyor
+**694/979 tuttu** (isabet %71, beklenen %74) · -119.33 birim · 118 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11.2026 Cuma
+
+**20:00 · Alanyaspor – Konyaspor**
+
+- ⏳ ÇŞ 1-2 · @1.22
+- ⏳ Korner 10.5 Alt · @1.28
+
+**20:30 · Heidenheim – Nürnberg**
+
+- ⏳ 2.5 Üst · @1.25
+- ⏳ Korner 12.5 Alt · @1.29
+
+**20:30 · Bochum – Darmstadt 98**
+
+- ⏳ Korner 12.5 Alt · @1.24
+
+**22:00 · Groningen – Willem II**
+
+- ⏳ MS 1 · @1.31
+- ⏳ Korner 12.5 Alt · @1.25
+
+**22:30 · Leganes – CE Sabadell FC**
+
+- ⏳ ÇŞ 1-X · @1.24
+
+**22:30 · Werder Bremen – Monchengladbach**
+
+- ⏳ Korner 11.5 Alt · @1.20
+
+**22:45 · Brest – Paris**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**22:45 · Venezia – Bologna**
+
+- ⏳ ÇŞ 1-2 · @1.23
+
+**22:45 · O.H. Leuven – Kortrijk**
+
+- ⏳ Korner 12.5 Alt · @1.33
+
+**23:00 · Nottingham Forest – Chelsea**
+
+- ⏳ ÇŞ 1-2 · @1.21
+
+**23:00 · Levante – Santander**
+
+- ⏳ ÇŞ 1-X · @1.21
+
+**23:15 · Maritimo – N. Madeira**
+
+- ⏳ ÇŞ 1-2 · @1.21
 
 ## 26.11.2026 Perşembe
 
 **18:30 · K Almaty – Mjallby**
 
-- ⏳ ÇŞ 1-2 · @1.20
-- ⏳ Korner 7.5 Üst · @1.22
-- ⏳ ÇŞ 1-X · @1.21
+- ✅ ÇŞ 1-2 · @1.20 · 1-0
+- ✅ Korner 7.5 Üst · @1.22 · korner 3-5
+- ✅ ÇŞ 1-X · @1.21 · 1-0
 
 **20:45 · Ajax – Thun**
 
@@ -53,6 +106,7 @@
 
 - ⏳ MS 1 & 2.5 Üst · @1.37
 - ⏳ Korner 7.5 Üst · @1.21
+- ⏳ MS 1 · @1.25
 
 **20:45 · FC Iberia 1999 – Getafe**
 
@@ -88,20 +142,24 @@
 
 - ⏳ MS 1 · @1.21
 - ⏳ Korner 8.5 Üst · @1.23
+- ⏳ 2.5 Üst · @1.20
 
 **23:00 · Ferencvaros – NK Celje**
 
 - ⏳ MS 1 · @1.24
+- ⏳ Korner 11.5 Alt · @1.20
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
 - ⏳ ÇŞ 1-X · @1.21
 - ⏳ Korner 11.5 Alt · @1.22
+- ⏳ ÇŞ 1-2 · @1.20
 
 **23:00 · Lyon – Lillestrom**
 
 - ⏳ MS 1 & 2.5 Üst · @1.36
 - ⏳ Korner 8.5 Üst · @1.25
+- ⏳ 2.5 Üst · @1.31
 
 **23:00 · Crystal Palace – Real Sociedad**
 
@@ -134,6 +192,7 @@
 **23:00 · NEC Nijmegen – Rennes**
 
 - ⏳ Korner 11.5 Alt · @1.20
+- ⏳ ÇŞ X-2 · @1.24
 
 **23:00 · Ofi Crete – Anderlecht**
 
@@ -146,10 +205,12 @@
 **23:00 · Inter Club De Escaldes – Kopenhag**
 
 - ⏳ Korner 7.5 Üst · @1.25
+- ⏳ Korner 10.5 Alt · @1.25
 
 **23:00 · Torreense – Celtic**
 
 - ⏳ Korner 8.5 Üst · @1.26
+- ⏳ 2.5 Üst · @1.30
 
 **23:00 · Sparta Prag – AZ Alkmaar**
 

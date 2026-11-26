@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**55/148 tuttu** (isabet %37, beklenen %37) · +2.82 birim · 8 tahmin sonuç bekliyor
+**55/148 tuttu** (isabet %37, beklenen %37) · +2.82 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.11 20:05 gönderilen kupon · 4 maç, oran 42,25
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 26.11 20:45 Beşiktaş – Hapoel Beer Sheva · MS 1 & KG Var · @2.27
+- ⏳ 26.11 23:00 Torreense – Celtic · MS 2 & KG Var · @2.49
+- ⏳ 27.11 20:30 Bochum – Darmstadt 98 · MS 1 & KG Var · @2.99
+- ⏳ 27.11 22:00 Groningen – Willem II · MS 1 & KG Var · @2.50
 
 ## 25.11 20:41 gönderilen kupon · 4 maç, oran 36,35
 

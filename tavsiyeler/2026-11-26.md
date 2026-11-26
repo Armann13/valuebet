@@ -1,6 +1,6 @@
 # Tavsiyeler — 26.11.2026
 
-İddaa oranlarının son kaydı: 26.11 20:00 (TR saati)
+İddaa oranlarının son kaydı: 26.11 20:20 (TR saati)
 
 Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değer** (İddaa oranı adil oranın üstündeyse +). Risk seviyesi tahminin tutma olasılığına göredir; **değer ayrı bir şeydir**: düşük riskli bir tahmin değeri negatifse uzun vadede kaybettirir. Olasılıklar: keskin piyasa (Pinnacle / Betfair) varsa ona ayarlanmış model; yoksa İddaa oranının marjı arındırılmış haline ayarlı _(İddaa oranına ayarlı)_ — bu durumda değer ölçülemez, fiyat kendisiyle kıyaslanır; oran da yoksa _sadece model_ (en az isabetli). Kombinasyon ve kesin skor olasılıkları modelin skor tablosundan gelir. İddaa'da listelenen maçlarda oranı olmayan (kapalı) bahisler listelenmez.
 
@@ -12,12 +12,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 • PSV – Go Ahead Eagles (N1, 28.11 20:45): **MS 1 & 2.5 Üst** — olasılık %79, adil oran 1.27, İddaa 1.27 (değer +0%) _(İddaa oranına ayarlı)_
 • Real Madrid – Alaves (SP1, 28.11 23:00): **2.5 Üst** — olasılık %78, adil oran 1.28, İddaa 1.20 (değer -6%) _(sadece model)_
-• Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %78, adil oran 1.28, İddaa 1.27 (değer -1%) _(İddaa oranına ayarlı)_
 • Hoffenheim – Sturm Graz (UEFA Avrupa Ligi, 26.11 23:00): **2.5 Üst** — olasılık %78, adil oran 1.28, İddaa 1.20 (değer -6%) _(İddaa oranına ayarlı)_
 • Union Saint Gilloise – Lech Poznan (UEFA Avrupa Ligi, 26.11 20:45): **MS 1** — olasılık %78, adil oran 1.28, İddaa 1.22 (değer -5%) _(İddaa oranına ayarlı)_
+• Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %77, adil oran 1.29, İddaa 1.28 (değer -1%) _(İddaa oranına ayarlı)_
 • Deportivo La Coruna – Barcelona (SP1, 29.11 18:15): **MS 2 & 2.5 Üst** — olasılık %76, adil oran 1.31, İddaa 1.30 (değer -1%) _(İddaa oranına ayarlı)_
-• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1** — olasılık %76, adil oran 1.32, İddaa 1.25 (değer -5%) _(İddaa oranına ayarlı)_
 • Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **MS 1** — olasılık %76, adil oran 1.32, İddaa 1.25 (değer -5%) _(İddaa oranına ayarlı)_
+• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1** — olasılık %75, adil oran 1.33, İddaa 1.26 (değer -5%) _(İddaa oranına ayarlı)_
 • Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **MS 2** — olasılık %75, adil oran 1.33, İddaa 1.26 (değer -5%) _(İddaa oranına ayarlı)_
 • Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1** — olasılık %75, adil oran 1.33, İddaa 1.26 (değer -5%) _(İddaa oranına ayarlı)_
 • Ajax – Thun (UEFA Konferans Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %75, adil oran 1.33, İddaa 1.33 (değer +0%) _(İddaa oranına ayarlı)_
@@ -56,14 +56,13 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **ÇŞ 1-2** — olasılık %72, adil oran 1.38, İddaa 1.21 (değer -12%) _(İddaa oranına ayarlı)_
 • Maritimo – N. Madeira (P1, 27.11 23:15): **ÇŞ 1-2** — olasılık %72, adil oran 1.38, İddaa 1.21 (değer -12%) _(İddaa oranına ayarlı)_
 • Real Sociedad – Sevilla (SP1, 29.11 23:00): **ÇŞ 1-X** — olasılık %72, adil oran 1.38, İddaa 1.21 (değer -12%) _(İddaa oranına ayarlı)_
-• Levante – Santander (SP1, 27.11 23:00): **ÇŞ 1-X** — olasılık %72, adil oran 1.38, İddaa 1.21 (değer -13%) _(İddaa oranına ayarlı)_
 • US Catanzaro 1929 – AS Avellino 1912 (I2, 30.11 22:30): **ÇŞ 1-2** — olasılık %72, adil oran 1.38, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
 • Club Deportivo Eldense – Girona (SP2, 28.11 18:15): **ÇŞ 1-2** — olasılık %72, adil oran 1.39, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
-• Frosinone – Parma (I1, 28.11 17:00): **MS 1** — olasılık %72, adil oran 1.39, İddaa 1.31 (değer -6%) _(İddaa oranına ayarlı)_
 • Groningen – Willem II (N1, 27.11 22:00): **MS 1** — olasılık %72, adil oran 1.39, İddaa 1.31 (değer -6%) _(İddaa oranına ayarlı)_
 • Albacete – Tenerife (SP2, 28.11 18:15): **ÇŞ 1-2** — olasılık %72, adil oran 1.39, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
 • Alanyaspor – Konyaspor (T1, 27.11 20:00): **ÇŞ 1-2** — olasılık %72, adil oran 1.39, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
 • Göztepe – Trabzonspor (T1, 30.11 19:00): **ÇŞ X-2** — olasılık %72, adil oran 1.39, İddaa 1.21 (değer -13%) _(İddaa oranına ayarlı)_
+• Levante – Santander (SP1, 27.11 23:00): **ÇŞ 1-X** — olasılık %72, adil oran 1.39, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
 • FC Sudtirol – Mantova 1911 (I2, 29.11 17:00): **ÇŞ 1-2** — olasılık %72, adil oran 1.39, İddaa 1.22 (değer -12%) _(İddaa oranına ayarlı)_
 • SC Cambuur – Sparta Rotterdam (N1, 28.11 23:00): **2.5 Üst** — olasılık %72, adil oran 1.40, İddaa 1.29 (değer -8%) _(İddaa oranına ayarlı)_
 • Venezia – Bologna (I1, 27.11 22:45): **ÇŞ 1-2** — olasılık %72, adil oran 1.40, İddaa 1.23 (değer -12%) _(İddaa oranına ayarlı)_
@@ -72,7 +71,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • A. de Viseu  – Alverca FC (P1, 28.11 21:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.23 (değer -12%) _(İddaa oranına ayarlı)_
 • Valencia – Osasuna (SP1, 29.11 16:00): **ÇŞ 1-2** — olasılık %71, adil oran 1.40, İddaa 1.23 (değer -12%) _(İddaa oranına ayarlı)_
 • AS Roma – AC Monza (I1, 29.11 20:00): **MS 1 & 2.5 Üst** — olasılık %71, adil oran 1.40, İddaa 1.35 (değer -4%) _(İddaa oranına ayarlı)_
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **2.5 Üst** — olasılık %71, adil oran 1.41, İddaa 1.30 (değer -8%) _(İddaa oranına ayarlı)_
 • Millwall – Burnley (E1, 28.11 18:00): **ÇŞ 1-X** — olasılık %71, adil oran 1.41, İddaa 1.23 (değer -13%) _(İddaa oranına ayarlı)_
 • Beşiktaş – Galatasaray (T1, 30.11 21:00): **ÇŞ 1-X** — olasılık %71, adil oran 1.41, İddaa 1.23 (değer -13%) _(İddaa oranına ayarlı)_
 • AFC Fylde – Aldershot (EC, 28.11 15:30): **MS 1** — olasılık %71, adil oran 1.41, İddaa 1.31 (değer -7%), MBS 3 _(İddaa oranına ayarlı)_
@@ -85,12 +83,13 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Swansea City – Cardiff City (E1, 29.11 15:00): **ÇŞ 1-X** — olasılık %70, adil oran 1.42, İddaa 1.24 (değer -13%) _(İddaa oranına ayarlı)_
 • Las Palmas – FC Andorra (SP2, 28.11 16:00): **ÇŞ 1-X** — olasılık %70, adil oran 1.42, İddaa 1.24 (değer -13%) _(İddaa oranına ayarlı)_
 • Braunschweig – Wolfsburg (D2, 29.11 15:30): **2.5 Üst** — olasılık %70, adil oran 1.42, İddaa 1.31 (değer -8%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **2.5 Üst** — olasılık %70, adil oran 1.42, İddaa 1.31 (değer -8%) _(İddaa oranına ayarlı)_
 • Eyüpspor – Başakşehir (T1, 29.11 16:00): **MS 2** — olasılık %70, adil oran 1.42, İddaa 1.34 (değer -6%) _(İddaa oranına ayarlı)_
 • Leeds United – Coventry (E0, 28.11 18:00): **MS 1** — olasılık %70, adil oran 1.42, İddaa 1.34 (değer -6%) _(İddaa oranına ayarlı)_
 • Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **2.5 Üst** — olasılık %70, adil oran 1.42, İddaa 1.31 (değer -8%) _(İddaa oranına ayarlı)_
 • Salford City – Gillingham (E3, 28.11 18:00): **MS 1** — olasılık %70, adil oran 1.42, İddaa 1.32 (değer -7%), MBS 2 _(İddaa oranına ayarlı)_
-• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **ÇŞ 1-X** — olasılık %70, adil oran 1.42, İddaa 1.24 (değer -13%) _(İddaa oranına ayarlı)_
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **ÇŞ X-2** — olasılık %70, adil oran 1.42, İddaa 1.24 (değer -13%) _(İddaa oranına ayarlı)_
+• Frosinone – Parma (I1, 28.11 17:00): **MS 1** — olasılık %70, adil oran 1.43, İddaa 1.34 (değer -6%) _(İddaa oranına ayarlı)_
 • St Mirren – Kilmarnock (SC0, 28.11 18:00): **ÇŞ 1-X** — olasılık %70, adil oran 1.43, İddaa 1.25 (değer -12%), MBS 2 _(İddaa oranına ayarlı)_
 • Moreirense – Santa Clara (P1, 28.11 18:30): **Korner 10.5 Alt** — olasılık %77, adil oran 1.30, İddaa 1.21 (değer -7%) _(korner modeli)_
 • Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %77, adil oran 1.30, İddaa 1.20 (değer -7%) _(İddaa oranına ayarlı)_
@@ -98,7 +97,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %77, adil oran 1.30, İddaa 1.20 (değer -8%) _(İddaa oranına ayarlı)_
 • Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %77, adil oran 1.30, İddaa 1.20 (değer -8%) _(İddaa oranına ayarlı)_
 • Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **Korner 11.5 Alt** — olasılık %76, adil oran 1.31, İddaa 1.21 (değer -8%) _(İddaa oranına ayarlı)_
-• West Ham – Stoke City (E1, 28.11 18:00): **En çok korner 1** — olasılık %76, adil oran 1.31, İddaa 1.25 (değer -5%) _(korner modeli)_
+• West Ham – Stoke City (E1, 28.11 18:00): **En çok korner 1** — olasılık %76, adil oran 1.31, İddaa 1.27 (değer -3%) _(korner modeli)_
 • Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **Korner 8.5 Üst** — olasılık %76, adil oran 1.32, İddaa 1.22 (değer -8%) _(İddaa oranına ayarlı)_
 • Sunderland – Jagiellonia Bialystok (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %75, adil oran 1.32, İddaa 1.22 (değer -8%) _(İddaa oranına ayarlı)_
 • KAA Gent – Kızıl Yıldız (UEFA Konferans Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %75, adil oran 1.33, İddaa 1.22 (değer -8%) _(İddaa oranına ayarlı)_
@@ -110,14 +109,14 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • West Bromwich – Bristol City (E1, 28.11 18:00): **Korner 12.5 Alt** — olasılık %74, adil oran 1.34, İddaa 1.25 (değer -7%) _(korner modeli)_
 • Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **En çok korner 1** — olasılık %74, adil oran 1.34, İddaa 1.25 (değer -7%) _(İddaa oranına ayarlı)_
 • Hearts – Monaco (UEFA Konferans Ligi, 26.11 20:45): **Korner 11.5 Alt** — olasılık %74, adil oran 1.35, İddaa 1.24 (değer -8%) _(İddaa oranına ayarlı)_
+• Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 10.5 Alt** — olasılık %74, adil oran 1.35, İddaa 1.24 (değer -8%) _(İddaa oranına ayarlı)_
 • Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **Korner 8.5 Üst** — olasılık %73, adil oran 1.36, İddaa 1.25 (değer -8%) _(İddaa oranına ayarlı)_
 • Werder Bremen – Monchengladbach (D1, 27.11 22:30): **Korner 11.5 Alt** — olasılık %73, adil oran 1.36, İddaa 1.20 (değer -12%) _(korner modeli)_
 • Frosinone – Parma (I1, 28.11 17:00): **Korner 12.5 Alt** — olasılık %73, adil oran 1.37, İddaa 1.22 (değer -11%) _(korner modeli)_
-• Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 7.5 Üst** — olasılık %73, adil oran 1.37, İddaa 1.25 (değer -9%) _(İddaa oranına ayarlı)_
 • Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **Korner 7.5 Üst** — olasılık %73, adil oran 1.37, İddaa 1.25 (değer -9%) _(İddaa oranına ayarlı)_
 • Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **Korner 10.5 Alt** — olasılık %73, adil oran 1.37, İddaa 1.25 (değer -9%) _(İddaa oranına ayarlı)_
-• Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 10.5 Alt** — olasılık %73, adil oran 1.37, İddaa 1.25 (değer -9%) _(İddaa oranına ayarlı)_
 • Union Saint Gilloise – Lech Poznan (UEFA Avrupa Ligi, 26.11 20:45): **En çok korner 1** — olasılık %73, adil oran 1.37, İddaa 1.27 (değer -7%) _(İddaa oranına ayarlı)_
+• Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 10.5 Alt** — olasılık %72, adil oran 1.38, İddaa 1.26 (değer -9%) _(İddaa oranına ayarlı)_
 • Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **Korner 7.5 Üst** — olasılık %72, adil oran 1.38, İddaa 1.26 (değer -9%) _(İddaa oranına ayarlı)_
 • Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **Korner 8.5 Üst** — olasılık %72, adil oran 1.38, İddaa 1.26 (değer -9%) _(İddaa oranına ayarlı)_
 • Las Palmas – FC Andorra (SP2, 28.11 16:00): **Korner 10.5 Alt** — olasılık %72, adil oran 1.38, İddaa 1.29 (değer -7%) _(korner modeli)_
@@ -129,6 +128,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Alt** — olasılık %72, adil oran 1.40, İddaa 1.27 (değer -9%) _(İddaa oranına ayarlı)_
 • O.H. Leuven – Kortrijk (B1, 27.11 22:45): **Korner 12.5 Alt** — olasılık %72, adil oran 1.40, İddaa 1.33 (değer -5%) _(korner modeli)_
 • Malaga CF – Athletic Bilbao (SP1, 28.11 18:15): **Korner 11.5 Alt** — olasılık %71, adil oran 1.41, İddaa 1.21 (değer -14%) _(korner modeli)_
+• Torino – Lazio (I1, 28.11 20:00): **Korner 10.5 Alt** — olasılık %71, adil oran 1.41, İddaa 1.21 (değer -14%) _(korner modeli)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **Korner 12.5 Alt** — olasılık %71, adil oran 1.41, İddaa 1.24 (değer -12%) _(korner modeli)_
 • Alanyaspor – Konyaspor (T1, 27.11 20:00): **Korner 10.5 Alt** — olasılık %71, adil oran 1.42, İddaa 1.28 (değer -10%) _(korner modeli)_
 • FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **En çok korner 2** — olasılık %70, adil oran 1.42, İddaa 1.31 (değer -8%) _(İddaa oranına ayarlı)_
@@ -145,15 +145,15 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Hoffenheim – Sturm Graz (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %68, adil oran 1.46, İddaa 1.43 (değer -2%) _(İddaa oranına ayarlı)_
 • ↳ Rangers – Falkirk (SC0, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %68, adil oran 1.47, İddaa 1.42 (değer -4%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %68, adil oran 1.48, İddaa 1.42 (değer -4%) _(İddaa oranına ayarlı)_
-• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2** — olasılık %67, adil oran 1.49, İddaa 1.40 (değer -6%) _(İddaa oranına ayarlı)_
 • Birmingham – Bolton (E1, 28.11 18:00): **MS 1** — olasılık %66, adil oran 1.50, İddaa 1.41 (değer -6%) _(İddaa oranına ayarlı)_
 • Zwolle – AZ Alkmaar (N1, 29.11 18:45): **MS 2** — olasılık %66, adil oran 1.50, İddaa 1.41 (değer -6%) _(İddaa oranına ayarlı)_
 • Brighton – Newcastle United (E0, 29.11 17:05): **MS 1** — olasılık %66, adil oran 1.51, İddaa 1.41 (değer -6%) _(İddaa oranına ayarlı)_
 • Sunderland – Jagiellonia Bialystok (UEFA Avrupa Ligi, 26.11 23:00): **KG Yok** — olasılık %66, adil oran 1.51, İddaa 1.56 (değer +3%) _(İddaa oranına ayarlı)_
 • Benfica – Famalicao (P1, 30.11 23:15): **MS 1 & 2.5 Üst** — olasılık %66, adil oran 1.52, İddaa 1.42 (değer -6%) _(İddaa oranına ayarlı)_
 • Granada – AD Ceuta (SP2, 29.11 16:00): **MS 1** — olasılık %66, adil oran 1.52, İddaa 1.42 (değer -6%) _(İddaa oranına ayarlı)_
+• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **KG Yok** — olasılık %66, adil oran 1.52, İddaa 1.43 (değer -6%) _(İddaa oranına ayarlı)_
+• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2** — olasılık %66, adil oran 1.52, İddaa 1.42 (değer -7%) _(İddaa oranına ayarlı)_
 • KF Egnatia Rrogozhine – Lincoln Red (UEFA Konferans Ligi, 26.11 20:45): **MS 1** — olasılık %66, adil oran 1.52, İddaa 1.42 (değer -7%) _(İddaa oranına ayarlı)_
-• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **MS 2** — olasılık %65, adil oran 1.53, İddaa 1.43 (değer -7%) _(İddaa oranına ayarlı)_
 • Lincoln City – Wolverhampton (E1, 28.11 15:30): **MS 2** — olasılık %65, adil oran 1.53, İddaa 1.43 (değer -7%) _(İddaa oranına ayarlı)_
 • Paris Saint Germain – Lorient (F1, 28.11 22:45): **MS 1 & 2.5 Üst** — olasılık %65, adil oran 1.54, İddaa 1.45 (değer -6%) _(İddaa oranına ayarlı)_
 • Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **2.5 Üst** — olasılık %65, adil oran 1.54, İddaa 1.40 (değer -9%) _(İddaa oranına ayarlı)_
@@ -176,10 +176,10 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Osnabruck – Hannover 96 (D2, 28.11 22:30): **2.5 Üst** — olasılık %61, adil oran 1.63, İddaa 1.47 (değer -10%) _(İddaa oranına ayarlı)_
 • Harrogate – Yeovil Town (EC, 28.11 18:00): **MS 1** — olasılık %61, adil oran 1.64, İddaa 1.49 (değer -9%), MBS 3 _(İddaa oranına ayarlı)_
 • Nice – Troyes (F1, 28.11 22:45): **MS 1** — olasılık %61, adil oran 1.64, İddaa 1.52 (değer -7%) _(İddaa oranına ayarlı)_
-• ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %61, adil oran 1.64, İddaa 1.58 (değer -4%) _(İddaa oranına ayarlı)_
 • FC Arouca – Rio Ave (P1, 28.11 18:30): **MS 1** — olasılık %61, adil oran 1.65, İddaa 1.53 (değer -7%) _(İddaa oranına ayarlı)_
 • Greuther Furth – Arminia Bielefeld (D2, 29.11 15:30): **KG Var** — olasılık %61, adil oran 1.65, İddaa 1.47 (değer -11%) _(İddaa oranına ayarlı)_
 • Doncaster – Huddersfield (E2, 26.11 23:00): **KG Var** — olasılık %61, adil oran 1.65, İddaa 1.52 (değer -8%), MBS 2
+• ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %60, adil oran 1.66, İddaa 1.60 (değer -3%) _(İddaa oranına ayarlı)_
 • Cagliari – AC Milan (I1, 30.11 22:45): **MS 2** — olasılık %60, adil oran 1.66, İddaa 1.54 (değer -7%) _(İddaa oranına ayarlı)_
 • Vitoria Guimaraes – CF Estrela (P1, 28.11 23:30): **MS 1** — olasılık %60, adil oran 1.66, İddaa 1.54 (değer -7%) _(İddaa oranına ayarlı)_
 • Preston – Norwich City (E1, 28.11 15:30): **MS 2** — olasılık %60, adil oran 1.66, İddaa 1.54 (değer -7%) _(İddaa oranına ayarlı)_
@@ -215,7 +215,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Le Havre – Strasbourg (F1, 28.11 22:45): **2.5 Üst** — olasılık %57, adil oran 1.75, İddaa 1.55 (değer -11%) _(İddaa oranına ayarlı)_
 • Real Valladolid – Real Sociedad B (SP2, 28.11 23:00): **MS 1** — olasılık %57, adil oran 1.75, İddaa 1.61 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ AFC Fylde – Aldershot (EC, 28.11 15:30): **MS 1 & 2.5 Üst** — olasılık %57, adil oran 1.75, İddaa 1.63 (değer -7%), MBS 3 _(İddaa oranına ayarlı)_
-• ↳ Frosinone – Parma (I1, 28.11 17:00): **MS 1 & 2.5 Üst** — olasılık %57, adil oran 1.75, İddaa 1.66 (değer -5%) _(İddaa oranına ayarlı)_
 • Everton – Liverpool (E0, 29.11 15:00): **MS 2** — olasılık %57, adil oran 1.76, İddaa 1.62 (değer -8%) _(İddaa oranına ayarlı)_
 • Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **MS 2** — olasılık %57, adil oran 1.76, İddaa 1.62 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Union Saint Gilloise – Lech Poznan (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %57, adil oran 1.76, İddaa 1.67 (değer -5%) _(İddaa oranına ayarlı)_
@@ -230,16 +229,17 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %56, adil oran 1.79, İddaa 1.69 (değer -5%) _(İddaa oranına ayarlı)_
 • Queens Park Rangers – Sheffield United (E1, 28.11 18:00): **KG Var** — olasılık %56, adil oran 1.79, İddaa 1.57 (değer -12%) _(İddaa oranına ayarlı)_
 • Carlisle – Sutton United (EC, 28.11 18:00): **KG Var** — olasılık %56, adil oran 1.80, İddaa 1.50 (değer -16%), MBS 3 _(İddaa oranına ayarlı)_
+• ↳ Frosinone – Parma (I1, 28.11 17:00): **MS 1 & 2.5 Üst** — olasılık %56, adil oran 1.80, İddaa 1.71 (değer -5%) _(İddaa oranına ayarlı)_
 • Bromley – Burton Albion (E2, 28.11 18:00): **2.5 Üst** — olasılık %56, adil oran 1.80, İddaa 1.54 (değer -14%), MBS 2 _(İddaa oranına ayarlı)_
 • Scunthorpe – Wealdstone (EC, 27.11 22:45): **ÇŞ X-2** — olasılık %56, adil oran 1.80, İddaa 1.42 (değer -21%), MBS 3 _(İddaa oranına ayarlı)_
 • Gil Vicente – Estoril Praia (P1, 29.11 21:00): **MS 1** — olasılık %55, adil oran 1.81, İddaa 1.66 (değer -8%) _(İddaa oranına ayarlı)_
 • Rochdale – Barnet (E3, 28.11 18:00): **MS 2** — olasılık %55, adil oran 1.81, İddaa 1.63 (değer -10%), MBS 2 _(İddaa oranına ayarlı)_
-• Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **2.5 Üst** — olasılık %55, adil oran 1.82, İddaa 1.60 (değer -12%) _(İddaa oranına ayarlı)_
 • Aris – Olympiacos (G1, 29.11 20:00): **MS 2** — olasılık %55, adil oran 1.82, İddaa 1.63 (değer -10%), MBS 3 _(İddaa oranına ayarlı)_
 • POT Iraklis – Paneitolikos (G1, 28.11 18:00): **MS 1** — olasılık %55, adil oran 1.82, İddaa 1.63 (değer -10%), MBS 3 _(İddaa oranına ayarlı)_
 • Cadiz – Cordoba (SP2, 29.11 20:30): **ÇŞ 1-X** — olasılık %55, adil oran 1.82, İddaa 1.51 (değer -17%) _(İddaa oranına ayarlı)_
 • ↳ Stockport – Leyton Orient (E2, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %55, adil oran 1.82, İddaa 1.66 (değer -9%), MBS 2 _(İddaa oranına ayarlı)_
 • AE Kifisia FC – PAE PS Kalamata (G1, 28.11 21:00): **MS 1** — olasılık %55, adil oran 1.83, İddaa 1.64 (değer -10%), MBS 3 _(İddaa oranına ayarlı)_
+• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **ÇŞ X-2** — olasılık %55, adil oran 1.83, İddaa 1.52 (değer -17%) _(İddaa oranına ayarlı)_
 • Altrincham – Worthing (EC, 28.11 18:00): **ÇŞ X-2** — olasılık %54, adil oran 1.84, İddaa 1.44 (değer -22%), MBS 3 _(İddaa oranına ayarlı)_
 • Mallorca – Castellon (SP2, 29.11 18:15): **2.5 Üst** — olasılık %54, adil oran 1.84, İddaa 1.62 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Groningen – Willem II (N1, 27.11 22:00): **MS 1 & 2.5 Üst** — olasılık %54, adil oran 1.85, İddaa 1.74 (değer -6%) _(İddaa oranına ayarlı)_
@@ -253,6 +253,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Crystal Palace – Hull City (E0, 29.11 17:05): **MS 1** — olasılık %53, adil oran 1.88, İddaa 1.72 (değer -8%) _(İddaa oranına ayarlı)_
 • AJ Auxerre – Marsilya (F1, 29.11 17:00): **MS 2** — olasılık %53, adil oran 1.88, İddaa 1.72 (değer -9%) _(İddaa oranına ayarlı)_
 • Como 1907 – Juventus (I1, 29.11 22:45): **2.5 Üst** — olasılık %53, adil oran 1.88, İddaa 1.65 (değer -12%) _(İddaa oranına ayarlı)_
+• Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **2.5 Üst** — olasılık %53, adil oran 1.88, İddaa 1.65 (değer -12%) _(İddaa oranına ayarlı)_
 • Union Saint Gilloise – KAA Gent (B1, 29.11 21:15): **KG Yok** — olasılık %53, adil oran 1.89, İddaa 1.74 (değer -8%) _(İddaa oranına ayarlı)_
 • Stevenage – Blackpool (E2, 28.11 18:00): **MS 1** — olasılık %53, adil oran 1.89, İddaa 1.69 (değer -11%), MBS 2 _(İddaa oranına ayarlı)_
 • Samsunspor – Gençlerbirliği (T1, 28.11 16:00): **MS 1** — olasılık %53, adil oran 1.89, İddaa 1.73 (değer -9%) _(İddaa oranına ayarlı)_
@@ -279,11 +280,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Ipswich Town – Aston Villa (E0, 28.11 20:30): **MS 2** — olasılık %51, adil oran 1.94, İddaa 1.77 (değer -9%) _(İddaa oranına ayarlı)_
 • Fleetwood – Accrington (E3, 28.11 18:00): **2.5 Alt** — olasılık %51, adil oran 1.94, İddaa 1.63 (değer -16%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Deportivo La Coruna – Barcelona (SP1, 29.11 18:15): **MS 2 & KG Var** — olasılık %51, adil oran 1.95, İddaa 1.93 (değer -1%) _(İddaa oranına ayarlı)_
+• ↳ Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %51, adil oran 1.95, İddaa 1.82 (değer -7%) _(İddaa oranına ayarlı)_
 • Antwerp – Anderlecht (B1, 29.11 18:00): **MS 2** — olasılık %51, adil oran 1.96, İddaa 1.78 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Porto – Sporting Lizbon (P1, 29.11 23:30): **MS 1** — olasılık %51, adil oran 1.96, İddaa 1.78 (değer -9%) _(İddaa oranına ayarlı)_
 • Blackburn Rovers – Charlton (E1, 28.11 15:30): **2.5 Alt** — olasılık %51, adil oran 1.96, İddaa 1.70 (değer -13%) _(İddaa oranına ayarlı)_
-• ↳ Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %51, adil oran 1.98, İddaa 1.84 (değer -7%) _(İddaa oranına ayarlı)_
 • Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **2.5 Üst** — olasılık %51, adil oran 1.98, İddaa 1.71 (değer -14%) _(İddaa oranına ayarlı)_
+• ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %51, adil oran 1.98, İddaa 1.87 (değer -6%) _(İddaa oranına ayarlı)_
 • Excelsior – Telstar (N1, 28.11 18:30): **MS 1** — olasılık %51, adil oran 1.98, İddaa 1.80 (değer -9%) _(İddaa oranına ayarlı)_
 • Westerlo – RAAL La Louviere (B1, 28.11 18:00): **MS 1** — olasılık %50, adil oran 1.99, İddaa 1.81 (değer -9%) _(İddaa oranına ayarlı)_
 • Rotherham – Oldham (E3, 28.11 18:00): **2.5 Üst** — olasılık %50, adil oran 1.99, İddaa 1.66 (değer -17%), MBS 2 _(İddaa oranına ayarlı)_
@@ -314,16 +316,18 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Malaga CF – Athletic Bilbao (SP1, 28.11 18:15): **Korner 10.5 Alt** — olasılık %62, adil oran 1.61, İddaa 1.40 (değer -13%) _(korner modeli)_
 • ↳ Groningen – Willem II (N1, 27.11 22:00): **Korner 11.5 Alt** — olasılık %62, adil oran 1.61, İddaa 1.45 (değer -10%) _(korner modeli)_
 • ↳ Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **Korner 9.5 Üst** — olasılık %62, adil oran 1.62, İddaa 1.43 (değer -12%) _(İddaa oranına ayarlı)_
+• ↳ Torino – Lazio (I1, 28.11 20:00): **Korner 9.5 Alt** — olasılık %61, adil oran 1.63, İddaa 1.41 (değer -13%) _(korner modeli)_
 • ↳ Angers – RC Lens (F1, 28.11 19:15): **Korner 10.5 Alt** — olasılık %61, adil oran 1.63, İddaa 1.51 (değer -7%) _(korner modeli)_
 • Paderborn – Schalke 04 (D1, 28.11 17:30): **En çok korner 1** — olasılık %61, adil oran 1.63, İddaa 1.72 (değer +5%) _(korner modeli)_
 • ↳ Samsunspor – Gençlerbirliği (T1, 28.11 16:00): **Korner 10.5 Alt** — olasılık %61, adil oran 1.63, İddaa 1.43 (değer -12%) _(korner modeli)_
-• Rizespor – Kasımpaşa (T1, 27.11 20:00): **En çok korner 1** — olasılık %61, adil oran 1.64, İddaa 1.58 (değer -3%) _(korner modeli)_
+• Rizespor – Kasımpaşa (T1, 27.11 20:00): **En çok korner 1** — olasılık %61, adil oran 1.64, İddaa 1.54 (değer -6%) _(korner modeli)_
 • ↳ Alanyaspor – Konyaspor (T1, 27.11 20:00): **Korner 9.5 Alt** — olasılık %61, adil oran 1.64, İddaa 1.52 (değer -7%) _(korner modeli)_
 • ↳ Mainz – Union Berlin (D1, 28.11 17:30): **Korner 10.5 Alt** — olasılık %61, adil oran 1.64, İddaa 1.42 (değer -13%) _(korner modeli)_
 • ↳ Hearts – Monaco (UEFA Konferans Ligi, 26.11 20:45): **Korner 10.5 Alt** — olasılık %61, adil oran 1.64, İddaa 1.44 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Hoffenheim – Sturm Graz (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Üst** — olasılık %61, adil oran 1.65, İddaa 1.45 (değer -12%) _(İddaa oranına ayarlı)_
 • Empoli – Hellas Verona (I2, 28.11 17:00): **Korner 8.5 Üst** — olasılık %60, adil oran 1.65, İddaa 1.40 (değer -15%) _(korner modeli)_
 • ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **Korner 8.5 Üst** — olasılık %60, adil oran 1.66, İddaa 1.45 (değer -12%) _(İddaa oranına ayarlı)_
+• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %60, adil oran 1.66, İddaa 1.46 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **Korner 8.5 Üst** — olasılık %60, adil oran 1.68, İddaa 1.47 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **Korner 8.5 Üst** — olasılık %60, adil oran 1.68, İddaa 1.47 (değer -12%) _(İddaa oranına ayarlı)_
 • Brest – Paris (F1, 27.11 22:45): **Korner 9.5 Alt** — olasılık %60, adil oran 1.68, İddaa 1.46 (değer -13%) _(korner modeli)_
@@ -333,21 +337,21 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Üst** — olasılık %59, adil oran 1.68, İddaa 1.47 (değer -13%) _(İddaa oranına ayarlı)_
 • Carrarese Calcio 1908 – Juve Stabia (I2, 28.11 17:00): **En çok korner 1** — olasılık %59, adil oran 1.68, İddaa 1.66 (değer -1%) _(korner modeli)_
 • ↳ Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %59, adil oran 1.69, İddaa 1.48 (değer -13%) _(İddaa oranına ayarlı)_
-• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %59, adil oran 1.69, İddaa 1.48 (değer -13%) _(İddaa oranına ayarlı)_
 • Albacete – Tenerife (SP2, 28.11 18:15): **En çok korner 1** — olasılık %59, adil oran 1.70, İddaa 1.60 (değer -6%) _(korner modeli)_
 • Levante – Santander (SP1, 27.11 23:00): **En çok korner 1** — olasılık %59, adil oran 1.70, İddaa 1.57 (değer -8%) _(korner modeli)_
 • Maritimo – N. Madeira (P1, 27.11 23:15): **Korner 9.5 Alt** — olasılık %59, adil oran 1.70, İddaa 1.54 (değer -10%) _(korner modeli)_
 • Venezia – Bologna (I1, 27.11 22:45): **En çok korner 2** — olasılık %59, adil oran 1.70, İddaa 1.88 (değer +10%) _(korner modeli)_
+• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 9.5 Alt** — olasılık %59, adil oran 1.71, İddaa 1.49 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **Korner 10.5 Alt** — olasılık %58, adil oran 1.71, İddaa 1.49 (değer -13%) _(İddaa oranına ayarlı)_
 • Leganes – CE Sabadell FC (SP2, 27.11 22:30): **En çok korner 2** — olasılık %58, adil oran 1.71, İddaa 1.96 (değer +15%) _(korner modeli)_
 • Preston – Norwich City (E1, 28.11 15:30): **Korner 10.5 Alt** — olasılık %58, adil oran 1.71, İddaa 1.53 (değer -11%) _(korner modeli)_
 • Birmingham – Bolton (E1, 28.11 18:00): **Korner 10.5 Alt** — olasılık %58, adil oran 1.72, İddaa 1.52 (değer -11%) _(korner modeli)_
-• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 8.5 Üst** — olasılık %58, adil oran 1.73, İddaa 1.50 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **Korner 8.5 Üst** — olasılık %58, adil oran 1.73, İddaa 1.50 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Üst** — olasılık %58, adil oran 1.73, İddaa 1.50 (değer -13%) _(İddaa oranına ayarlı)_
 • Real Betis – Vallecano (SP1, 28.11 16:00): **Korner 9.5 Üst** — olasılık %58, adil oran 1.74, İddaa 1.51 (değer -13%) _(korner modeli)_
 • Derby County – Watford (E1, 28.11 18:00): **Korner 10.5 Alt** — olasılık %57, adil oran 1.74, İddaa 1.50 (değer -14%) _(korner modeli)_
 • Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **En çok korner 2** — olasılık %57, adil oran 1.74, İddaa 1.56 (değer -10%) _(İddaa oranına ayarlı)_
+• Cercle Brugge – Mechelen (B1, 28.11 20:15): **En çok korner 1** — olasılık %57, adil oran 1.74, İddaa 1.50 (değer -14%) _(korner modeli)_
 • ↳ Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **Korner 8.5 Üst** — olasılık %57, adil oran 1.74, İddaa 1.51 (değer -13%) _(İddaa oranına ayarlı)_
 • Hertha Berlin – Karlsruhe (D2, 28.11 15:00): **Korner 10.5 Alt** — olasılık %56, adil oran 1.77, İddaa 1.60 (değer -10%) _(korner modeli)_
 • Gaziantep FK – Amed Sportif Faaliyetler (T1, 28.11 19:00): **Korner 9.5 Alt** — olasılık %56, adil oran 1.77, İddaa 1.54 (değer -13%) _(korner modeli)_
@@ -366,14 +370,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## 🔴 Tier 3 — Yüksek risk
 
-• ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %50, adil oran 2.00, İddaa 1.89 (değer -6%) _(İddaa oranına ayarlı)_
-• ↳ Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %50, adil oran 2.02, İddaa 1.90 (değer -6%) _(İddaa oranına ayarlı)_
-• ↳ Mainz – Union Berlin (D1, 28.11 17:30): **MS 1 & 2.5 Üst** — olasılık %49, adil oran 2.03, İddaa 1.87 (değer -8%) _(İddaa oranına ayarlı)_
+• ↳ Mainz – Union Berlin (D1, 28.11 17:30): **MS 1 & 2.5 Üst** — olasılık %49, adil oran 2.04, İddaa 1.88 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Hamburg – Bayern Münih (D1, 28.11 17:30): **MS 2 & KG Var** — olasılık %49, adil oran 2.04, İddaa 2.06 (değer +1%) _(İddaa oranına ayarlı)_
-• ↳ Levante – Santander (SP1, 27.11 23:00): **MS 1** — olasılık %49, adil oran 2.04, İddaa 1.85 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Zalgiris Kaunas – Riga FC (UEFA Konferans Ligi, 26.11 20:45): **MS 2** — olasılık %49, adil oran 2.04, İddaa 1.85 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Eyüpspor – Başakşehir (T1, 29.11 16:00): **MS 2 & 2.5 Üst** — olasılık %49, adil oran 2.05, İddaa 1.88 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Gaziantep FK – Amed Sportif Faaliyetler (T1, 28.11 19:00): **MS 2** — olasılık %49, adil oran 2.06, İddaa 1.86 (değer -10%) _(İddaa oranına ayarlı)_
+• ↳ Levante – Santander (SP1, 27.11 23:00): **MS 1** — olasılık %49, adil oran 2.06, İddaa 1.86 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Göztepe – Trabzonspor (T1, 30.11 19:00): **MS 2** — olasılık %48, adil oran 2.07, İddaa 1.87 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Beşiktaş – Galatasaray (T1, 30.11 21:00): **MS 1** — olasılık %48, adil oran 2.08, İddaa 1.88 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Espanyol – Getafe (SP1, 30.11 23:00): **MS 1** — olasılık %48, adil oran 2.08, İddaa 1.88 (değer -10%) _(İddaa oranına ayarlı)_
@@ -382,11 +384,11 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Brighton – Newcastle United (E0, 29.11 17:05): **MS 1 & 2.5 Üst** — olasılık %48, adil oran 2.09, İddaa 1.92 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Birmingham – Bolton (E1, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %47, adil oran 2.11, İddaa 1.96 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Boreham Wood – Gateshead (EC, 28.11 18:00): **MS 1 & KG Var** — olasılık %47, adil oran 2.11, İddaa 2.06 (değer -3%), MBS 3 _(sadece model)_
+• ↳ Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %47, adil oran 2.12, İddaa 1.98 (değer -6%) _(İddaa oranına ayarlı)_
 • ↳ Torino – Lazio (I1, 28.11 20:00): **MS 2** — olasılık %47, adil oran 2.12, İddaa 1.91 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Charleroi – SK Beveren (B1, 28.11 22:45): **MS 1 & 2.5 Üst** — olasılık %47, adil oran 2.12, İddaa 1.96 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Rangers – Falkirk (SC0, 28.11 18:00): **MS 1 & KG Var** — olasılık %47, adil oran 2.12, İddaa 2.25 (değer +6%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **MS 2** — olasılık %47, adil oran 2.13, İddaa 1.92 (değer -10%) _(İddaa oranına ayarlı)_
-• ↳ Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1** — olasılık %47, adil oran 2.13, İddaa 1.92 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %47, adil oran 2.13, İddaa 1.99 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Wrexham – Portsmouth (E1, 28.11 18:00): **MS 1** — olasılık %47, adil oran 2.14, İddaa 1.93 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Maritimo – N. Madeira (P1, 27.11 23:15): **MS 1** — olasılık %47, adil oran 2.14, İddaa 1.93 (değer -10%) _(İddaa oranına ayarlı)_
@@ -410,7 +412,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ CSKA Sofya – Trabzonspor (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %45, adil oran 2.22, İddaa 2.06 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Harrogate – Yeovil Town (EC, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %45, adil oran 2.23, İddaa 2.00 (değer -10%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ AS Roma – AC Monza (I1, 29.11 20:00): **MS 1 & KG Var** — olasılık %45, adil oran 2.23, İddaa 2.22 (değer -0%) _(İddaa oranına ayarlı)_
-• ↳ Frosinone – Parma (I1, 28.11 17:00): **MS 1 & KG Var** — olasılık %45, adil oran 2.23, İddaa 2.30 (değer +3%) _(İddaa oranına ayarlı)_
 • ↳ AFC Fylde – Aldershot (EC, 28.11 15:30): **MS 1 & KG Var** — olasılık %45, adil oran 2.23, İddaa 2.20 (değer -1%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Atromitos – Panathinaikos (G1, 29.11 18:00): **MS 2 & 2.5 Üst** — olasılık %44, adil oran 2.25, İddaa 1.94 (değer -14%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Derby County – Watford (E1, 28.11 18:00): **MS 1** — olasılık %44, adil oran 2.25, İddaa 2.02 (değer -10%) _(İddaa oranına ayarlı)_
@@ -419,6 +420,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Sassuolo – Napoli (I1, 29.11 17:00): **MS 2 & 2.5 Üst** — olasılık %44, adil oran 2.27, İddaa 2.10 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Las Palmas – FC Andorra (SP2, 28.11 16:00): **MS 1** — olasılık %44, adil oran 2.28, İddaa 2.04 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Venezia – Bologna (I1, 27.11 22:45): **MS 2** — olasılık %44, adil oran 2.28, İddaa 2.04 (değer -11%) _(İddaa oranına ayarlı)_
+• ↳ Frosinone – Parma (I1, 28.11 17:00): **MS 1 & KG Var** — olasılık %44, adil oran 2.29, İddaa 2.32 (değer +1%) _(İddaa oranına ayarlı)_
 • ↳ Ajax – Thun (UEFA Konferans Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %44, adil oran 2.29, İddaa 2.01 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Granada – AD Ceuta (SP2, 29.11 16:00): **MS 1 & 2.5 Üst** — olasılık %44, adil oran 2.30, İddaa 2.09 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Hertha Berlin – Karlsruhe (D2, 28.11 15:00): **MS 1 & KG Var** — olasılık %43, adil oran 2.31, İddaa 2.23 (değer -3%) _(İddaa oranına ayarlı)_
@@ -432,12 +434,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Angers – RC Lens (F1, 28.11 19:15): **MS 2 & 2.5 Üst** — olasılık %42, adil oran 2.38, İddaa 2.18 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ West Ham – Stoke City (E1, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %42, adil oran 2.40, İddaa 2.19 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Nice – Troyes (F1, 28.11 22:45): **MS 1 & 2.5 Üst** — olasılık %42, adil oran 2.40, İddaa 2.18 (değer -9%) _(İddaa oranına ayarlı)_
+• ↳ Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.42, İddaa 2.02 (değer -16%) _(İddaa oranına ayarlı)_
 • ↳ Zwolle – AZ Alkmaar (N1, 29.11 18:45): **İY/MS 2/2** — olasılık %41, adil oran 2.42, İddaa 1.98 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Moreirense – Santa Clara (P1, 28.11 18:30): **MS 2** — olasılık %41, adil oran 2.42, İddaa 2.15 (değer -11%) _(İddaa oranına ayarlı)_
-• ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.45, İddaa 2.27 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ KAA Gent – Kızıl Yıldız (UEFA Konferans Ligi, 26.11 23:00): **MS 1** — olasılık %41, adil oran 2.47, İddaa 2.18 (değer -12%) _(İddaa oranına ayarlı)_
+• ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.47, İddaa 2.27 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Lyon – Monaco (F1, 29.11 22:45): **MS 1** — olasılık %40, adil oran 2.47, İddaa 2.19 (değer -11%) _(İddaa oranına ayarlı)_
-• ↳ FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **İY/MS 2/2** — olasılık %40, adil oran 2.47, İddaa 2.11 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Stockport – Leyton Orient (E2, 28.11 18:00): **MS 1 & KG Var** — olasılık %40, adil oran 2.48, İddaa 2.41 (değer -3%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Leganes – CE Sabadell FC (SP2, 27.11 22:30): **MS 1** — olasılık %40, adil oran 2.49, İddaa 2.20 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Forest Green – Tamworth (EC, 28.11 18:00): **MS 1 & KG Var** — olasılık %40, adil oran 2.49, İddaa 2.31 (değer -7%), MBS 3 _(İddaa oranına ayarlı)_
@@ -449,7 +451,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Real Madrid – Alaves (SP1, 28.11 23:00): **MS 1 & KG Var** — olasılık %40, adil oran 2.51, İddaa 2.39 (değer -5%) _(sadece model)_
 • ↳ Hearts – Celtic (SC0, 29.11 18:00): **MS 2 & 2.5 Üst** — olasılık %40, adil oran 2.51, İddaa 2.31 (değer -8%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Swindon Town – Chesterfield (E3, 28.11 18:00): **MS 2 & 2.5 Üst** — olasılık %40, adil oran 2.51, İddaa 2.20 (değer -12%), MBS 2 _(İddaa oranına ayarlı)_
-• ↳ Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %40, adil oran 2.51, İddaa 2.04 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %40, adil oran 2.52, İddaa 2.31 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **MS 2** — olasılık %40, adil oran 2.52, İddaa 2.23 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Rochdale – Barnet (E3, 28.11 18:00): **MS 2 & 2.5 Üst** — olasılık %40, adil oran 2.53, İddaa 2.24 (değer -11%), MBS 2 _(İddaa oranına ayarlı)_
@@ -475,6 +476,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Ipswich Town – Aston Villa (E0, 28.11 20:30): **MS 2 & 2.5 Üst** — olasılık %37, adil oran 2.67, İddaa 2.42 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ AEK Athens – PAOK (G1, 29.11 22:00): **MS 1 & 2.5 Üst** — olasılık %37, adil oran 2.68, İddaa 2.36 (değer -12%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ AJ Auxerre – Marsilya (F1, 29.11 17:00): **MS 2 & 2.5 Üst** — olasılık %37, adil oran 2.68, İddaa 2.41 (değer -10%) _(İddaa oranına ayarlı)_
+• ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.69, İddaa 2.50 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Fortuna Sittard – Heerenveen (N1, 29.11 16:30): **MS 2 & 2.5 Üst** — olasılık %37, adil oran 2.69, İddaa 2.44 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Vitoria Guimaraes – CF Estrela (P1, 28.11 23:30): **MS 1 & 2.5 Üst** — olasılık %37, adil oran 2.69, İddaa 2.38 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Inter – Genoa (I1, 28.11 22:45): **MS 1 & KG Var** — olasılık %37, adil oran 2.69, İddaa 2.60 (değer -3%) _(İddaa oranına ayarlı)_
@@ -519,14 +521,15 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Gil Vicente – Estoril Praia (P1, 29.11 21:00): **İY/MS 1/1** — olasılık %32, adil oran 3.12, İddaa 2.52 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Hajduk Split – St. Truidense (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %32, adil oran 3.13, İddaa 2.78 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Bristol Rovers – Tranmere (E3, 28.11 15:30): **MS 1 & 2.5 Üst** — olasılık %32, adil oran 3.16, İddaa 2.68 (değer -15%), MBS 2 _(İddaa oranına ayarlı)_
-• ↳ Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %32, adil oran 3.17, İddaa 2.83 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ SS Arezzo – AC Pisa (I2, 29.11 21:30): **İY/MS 2/2** — olasılık %32, adil oran 3.17, İddaa 2.65 (değer -16%) _(İddaa oranına ayarlı)_
 • ↳ Crewe Alexandra – Grimsby Town (E3, 28.11 18:00): **MS 2 & 2.5 Üst** — olasılık %32, adil oran 3.17, İddaa 2.71 (değer -15%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Osnabruck – Hannover 96 (D2, 28.11 22:30): **MS 2 & 2.5 Üst** — olasılık %31, adil oran 3.18, İddaa 2.84 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Ascoli – Virtus Entella (I2, 28.11 17:00): **İY/MS 1/1** — olasılık %31, adil oran 3.18, İddaa 2.67 (değer -16%) _(İddaa oranına ayarlı)_
 • ↳ Çorum FK – Kocaelispor (T1, 29.11 13:30): **MS 1 & 2.5 Üst** — olasılık %31, adil oran 3.20, İddaa 2.79 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Altrincham – Worthing (EC, 28.11 18:00): **MS 2** — olasılık %31, adil oran 3.21, İddaa 2.62 (değer -18%), MBS 3 _(İddaa oranına ayarlı)_
+• ↳ Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 2** — olasılık %31, adil oran 3.22, İddaa 2.75 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Peterborough – Cambridge (E2, 28.11 15:30): **MS 1 & 2.5 Üst** — olasılık %31, adil oran 3.23, İddaa 2.80 (değer -13%), MBS 2 _(İddaa oranına ayarlı)_
+• ↳ Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %31, adil oran 3.24, İddaa 2.89 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Eibar – CF Burgos (SP2, 28.11 20:30): **İY/MS 1/1** — olasılık %31, adil oran 3.24, İddaa 2.59 (değer -20%) _(İddaa oranına ayarlı)_
 • ↳ Boston United – Kidderminster Harriers (EC, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %31, adil oran 3.26, İddaa 2.79 (değer -14%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Port Vale – Newport (E3, 28.11 18:00): **İY/MS 1/1** — olasılık %31, adil oran 3.26, İddaa 2.71 (değer -17%), MBS 2 _(İddaa oranına ayarlı)_
@@ -539,7 +542,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Wimbledon – Barnsley (E2, 28.11 18:00): **MS 2 & 2.5 Üst** — olasılık %30, adil oran 3.30, İddaa 2.85 (değer -14%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Como 1907 – Juventus (I1, 29.11 22:45): **MS 1 & 2.5 Üst** — olasılık %30, adil oran 3.31, İddaa 2.88 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Southampton – Middlesbrough (E1, 27.11 23:00): **MS 2 & 2.5 Üst** — olasılık %30, adil oran 3.35, İddaa 2.92 (değer -13%) _(İddaa oranına ayarlı)_
-• ↳ Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %30, adil oran 3.38, İddaa 2.87 (değer -15%) _(İddaa oranına ayarlı)_
+• ↳ Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %30, adil oran 3.35, İddaa 2.82 (değer -16%) _(İddaa oranına ayarlı)_
 • ↳ Hornchurch – Solihull Moors (EC, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %30, adil oran 3.39, İddaa 2.87 (değer -15%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Le Havre – Strasbourg (F1, 28.11 22:45): **MS 2 & 2.5 Üst** — olasılık %29, adil oran 3.40, İddaa 3.01 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Sheffield Wednesday – Reading (E2, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %29, adil oran 3.42, İddaa 2.96 (değer -13%), MBS 2 _(İddaa oranına ayarlı)_
@@ -553,13 +556,13 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Lommel SK – Zulte Waregem (B1, 28.11 22:45): **MS 2 & 2.5 Üst** — olasılık %28, adil oran 3.63, İddaa 3.12 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Wycombe – Bradford (E2, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %27, adil oran 3.65, İddaa 3.07 (değer -16%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %26, adil oran 3.79, İddaa 3.28 (değer -13%) _(İddaa oranına ayarlı)_
-• ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %26, adil oran 3.80, İddaa 3.30 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Woking – Barrow (EC, 28.11 15:30): **MS 2 & 2.5 Üst** — olasılık %26, adil oran 3.81, İddaa 3.20 (değer -16%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Walsall – Northampton (E3, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %26, adil oran 3.81, İddaa 3.27 (değer -14%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %26, adil oran 3.87, İddaa 2.54 (değer -34%) _(İddaa oranına ayarlı)_
 • ↳ Dynamo Dresden – Saint Pauli (D2, 28.11 15:00): **MS 2 & 2.5 Üst** — olasılık %26, adil oran 3.87, İddaa 3.36 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Toulouse – Rennes (F1, 29.11 19:15): **MS 1 & 2.5 Üst** — olasılık %26, adil oran 3.87, İddaa 3.43 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Wigan Athletic – Plymouth (E2, 28.11 18:00): **MS 2 & 2.5 Üst** — olasılık %26, adil oran 3.89, İddaa 3.30 (değer -15%), MBS 2 _(İddaa oranına ayarlı)_
+• ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %25, adil oran 3.95, İddaa 3.40 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Empoli – Hellas Verona (I2, 28.11 17:00): **Korner 9.5 Üst** — olasılık %50, adil oran 2.01, İddaa 1.71 (değer -15%) _(korner modeli)_
 • ↳ NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %50, adil oran 2.01, İddaa 1.68 (değer -16%) _(İddaa oranına ayarlı)_
 • ↳ Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %50, adil oran 2.01, İddaa 1.68 (değer -16%) _(İddaa oranına ayarlı)_
@@ -591,6 +594,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Frosinone – Parma (I1, 28.11 17:00): **Korner 9.5 Alt** — olasılık %46, adil oran 2.19, İddaa 2.14 (değer -2%) _(korner modeli)_
 • ↳ Gaziantep FK – Amed Sportif Faaliyetler (T1, 28.11 19:00): **Korner 8.5 Alt** — olasılık %46, adil oran 2.20, İddaa 1.94 (değer -12%) _(korner modeli)_
 • ↳ Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **Korner 9.5 Üst** — olasılık %45, adil oran 2.21, İddaa 1.81 (değer -18%) _(İddaa oranına ayarlı)_
+• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 8.5 Alt** — olasılık %45, adil oran 2.21, İddaa 1.81 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **Korner 10.5 Üst** — olasılık %45, adil oran 2.21, İddaa 1.81 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **Korner 9.5 Üst** — olasılık %45, adil oran 2.23, İddaa 1.82 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **Korner 9.5 Üst** — olasılık %45, adil oran 2.23, İddaa 1.82 (değer -18%) _(İddaa oranına ayarlı)_
@@ -598,13 +602,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **Korner 9.5 Alt** — olasılık %44, adil oran 2.25, İddaa 1.83 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Blackburn Rovers – Charlton (E1, 28.11 15:30): **Korner 9.5 Alt** — olasılık %44, adil oran 2.25, İddaa 2.14 (değer -5%) _(korner modeli)_
 • ↳ Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **Korner 8.5 Alt** — olasılık %44, adil oran 2.27, İddaa 1.84 (değer -19%) _(İddaa oranına ayarlı)_
-• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 8.5 Alt** — olasılık %44, adil oran 2.27, İddaa 1.84 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Heidenheim – Nürnberg (D2, 27.11 20:30): **Korner 9.5 Alt** — olasılık %44, adil oran 2.28, İddaa 2.37 (değer +4%) _(korner modeli)_
 • ↳ Holstein Kiel – Kaiserslautern (D2, 28.11 15:00): **Korner 9.5 Alt** — olasılık %44, adil oran 2.29, İddaa 2.06 (değer -10%) _(korner modeli)_
 • ↳ Werder Bremen – Monchengladbach (D1, 27.11 22:30): **Korner 8.5 Alt** — olasılık %44, adil oran 2.29, İddaa 2.17 (değer -5%) _(korner modeli)_
+• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 8.5 Alt** — olasılık %44, adil oran 2.29, İddaa 1.85 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ O.H. Leuven – Kortrijk (B1, 27.11 22:45): **Korner 9.5 Alt** — olasılık %44, adil oran 2.30, İddaa 2.48 (değer +8%) _(korner modeli)_
 • ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **Korner 10.5 Üst** — olasılık %43, adil oran 2.30, İddaa 1.86 (değer -19%) _(İddaa oranına ayarlı)_
-• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 9.5 Üst** — olasılık %43, adil oran 2.33, İddaa 1.88 (değer -19%) _(İddaa oranına ayarlı)_
 • ↳ Groningen – Willem II (N1, 27.11 22:00): **Korner 9.5 Alt** — olasılık %43, adil oran 2.34, İddaa 2.24 (değer -4%) _(korner modeli)_
 • ↳ Bochum – Darmstadt 98 (D2, 27.11 20:30): **Korner 9.5 Alt** — olasılık %43, adil oran 2.34, İddaa 2.19 (değer -6%) _(korner modeli)_
 • ↳ Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **Korner 9.5 Üst** — olasılık %43, adil oran 2.35, İddaa 1.89 (değer -20%) _(İddaa oranına ayarlı)_
@@ -619,24 +622,22 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Las Palmas – FC Andorra (SP2, 28.11 16:00): **Korner 7.5 Alt** — olasılık %40, adil oran 2.48, İddaa 2.60 (değer +5%) _(korner modeli)_
 • ↳ LR Vicenza Virtus – AC Cesena (I2, 28.11 19:15): **Korner 8.5 Alt** — olasılık %40, adil oran 2.48, İddaa 2.14 (değer -14%) _(korner modeli)_
 • ↳ Mainz – Union Berlin (D1, 28.11 17:30): **Korner 8.5 Alt** — olasılık %40, adil oran 2.48, İddaa 2.25 (değer -9%) _(korner modeli)_
+• ↳ Torino – Lazio (I1, 28.11 20:00): **Korner 7.5 Alt** — olasılık %39, adil oran 2.56, İddaa 2.27 (değer -11%) _(korner modeli)_
 • ↳ Alanyaspor – Konyaspor (T1, 27.11 20:00): **Korner 7.5 Alt** — olasılık %39, adil oran 2.58, İddaa 2.55 (değer -1%) _(korner modeli)_
 • ↳ Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **Korner 8.5 Alt** — olasılık %35, adil oran 2.82, İddaa 2.14 (değer -24%) _(İddaa oranına ayarlı)_
 • ↳ Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **Korner 8.5 Alt** — olasılık %35, adil oran 2.82, İddaa 2.14 (değer -24%) _(İddaa oranına ayarlı)_
 
 ## 🟣 Tier 4 — Çok yüksek risk
 
-• ↳ Levante – Santander (SP1, 27.11 23:00): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.64, İddaa 2.43 (değer -8%) _(İddaa oranına ayarlı)_
-• ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.68, İddaa 2.49 (değer -7%) _(İddaa oranına ayarlı)_
+• ↳ Levante – Santander (SP1, 27.11 23:00): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.66, İddaa 2.45 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Brighton – Newcastle United (E0, 29.11 17:05): **MS 1 & KG Var** — olasılık %37, adil oran 2.72, İddaa 2.65 (değer -3%) _(İddaa oranına ayarlı)_
 • ↳ Dundee Utd – St Johnstone (SC0, 28.11 18:00): **MS 1 & KG Var** — olasılık %37, adil oran 2.74, İddaa 2.69 (değer -2%), MBS 2 _(İddaa oranına ayarlı)_
-• ↳ Mainz – Union Berlin (D1, 28.11 17:30): **MS 1 & KG Var** — olasılık %36, adil oran 2.76, İddaa 2.65 (değer -4%) _(İddaa oranına ayarlı)_
 • ↳ NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %36, adil oran 2.77, İddaa 2.52 (değer -9%) _(İddaa oranına ayarlı)_
+• ↳ Mainz – Union Berlin (D1, 28.11 17:30): **MS 1 & KG Var** — olasılık %36, adil oran 2.77, İddaa 2.66 (değer -4%) _(İddaa oranına ayarlı)_
 • ↳ NEC Nijmegen – Twente (N1, 29.11 22:00): **MS 2 & KG Var** — olasılık %36, adil oran 2.79, İddaa 2.64 (değer -5%) _(İddaa oranına ayarlı)_
 • ↳ Swansea City – Cardiff City (E1, 29.11 15:00): **MS 1 & 2.5 Üst** — olasılık %36, adil oran 2.79, İddaa 2.59 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Beşiktaş – Galatasaray (T1, 30.11 21:00): **MS 1 & 2.5 Üst** — olasılık %36, adil oran 2.80, İddaa 2.52 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Eyüpspor – Başakşehir (T1, 29.11 16:00): **MS 2 & KG Var** — olasılık %35, adil oran 2.84, İddaa 2.75 (değer -3%) _(İddaa oranına ayarlı)_
-• ↳ Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %35, adil oran 2.87, İddaa 2.62 (değer -9%) _(İddaa oranına ayarlı)_
-• ↳ Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %35, adil oran 2.89, İddaa 2.61 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Göztepe – Trabzonspor (T1, 30.11 19:00): **MS 2 & 2.5 Üst** — olasılık %35, adil oran 2.89, İddaa 2.62 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %34, adil oran 2.91, İddaa 2.66 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Gaziantep FK – Amed Sportif Faaliyetler (T1, 28.11 19:00): **MS 2 & 2.5 Üst** — olasılık %34, adil oran 2.94, İddaa 2.69 (değer -8%) _(İddaa oranına ayarlı)_
@@ -649,6 +650,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Werder Bremen – Monchengladbach (D1, 27.11 22:30): **MS 1 & KG Var** — olasılık %33, adil oran 3.02, İddaa 2.79 (değer -7%) _(İddaa oranına ayarlı)_
 • ↳ Real Betis – Vallecano (SP1, 28.11 16:00): **MS 1 & KG Var** — olasılık %33, adil oran 3.03, İddaa 2.76 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Charleroi – SK Beveren (B1, 28.11 22:45): **MS 1 & KG Var** — olasılık %33, adil oran 3.04, İddaa 2.78 (değer -9%) _(İddaa oranına ayarlı)_
+• ↳ Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %33, adil oran 3.05, İddaa 2.74 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Swindon Town – Chesterfield (E3, 28.11 18:00): **MS 2 & KG Var** — olasılık %33, adil oran 3.06, İddaa 2.86 (değer -7%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ CSKA Sofya – Trabzonspor (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %33, adil oran 3.07, İddaa 2.77 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Sassuolo – Napoli (I1, 29.11 17:00): **MS 2 & KG Var** — olasılık %33, adil oran 3.07, İddaa 2.83 (değer -8%) _(İddaa oranına ayarlı)_
@@ -682,7 +684,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Torino – Lazio (I1, 28.11 20:00): **MS 2 & 2.5 Üst** — olasılık %29, adil oran 3.47, İddaa 3.03 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ Aberdeen – Dundee (SC0, 28.11 18:00): **MS 1 & KG Var** — olasılık %29, adil oran 3.47, İddaa 3.18 (değer -8%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Las Palmas – FC Andorra (SP2, 28.11 16:00): **MS 1 & 2.5 Üst** — olasılık %29, adil oran 3.48, İddaa 3.11 (değer -11%) _(İddaa oranına ayarlı)_
-• ↳ Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %29, adil oran 3.49, İddaa 3.10 (değer -11%) _(İddaa oranına ayarlı)_
+• ↳ Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %29, adil oran 3.49, İddaa 3.09 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Antwerp – Anderlecht (B1, 29.11 18:00): **MS 2 & KG Var** — olasılık %29, adil oran 3.50, İddaa 3.23 (değer -8%) _(İddaa oranına ayarlı)_
 • ↳ Eastleigh – Halifax Town (EC, 28.11 18:00): **MS 2 & KG Var** — olasılık %29, adil oran 3.50, İddaa 3.08 (değer -12%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ SC Cambuur – Sparta Rotterdam (N1, 28.11 23:00): **MS 1 & KG Var** — olasılık %28, adil oran 3.54, İddaa 3.11 (değer -12%) _(İddaa oranına ayarlı)_
@@ -719,12 +721,12 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Derby County – Watford (E1, 28.11 18:00): **MS 1 & 2.5 Üst** — olasılık %26, adil oran 3.88, İddaa 3.34 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Crewe Alexandra – Grimsby Town (E3, 28.11 18:00): **MS 2 & KG Var** — olasılık %26, adil oran 3.89, İddaa 3.38 (değer -13%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Venezia – Bologna (I1, 27.11 22:45): **İY/MS 2/2** — olasılık %26, adil oran 3.89, İddaa 3.23 (değer -17%) _(İddaa oranına ayarlı)_
-• ↳ Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %26, adil oran 3.89, İddaa 3.47 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Osnabruck – Hannover 96 (D2, 28.11 22:30): **MS 2 & KG Var** — olasılık %26, adil oran 3.92, İddaa 3.52 (değer -10%) _(İddaa oranına ayarlı)_
 • ↳ Paderborn – Schalke 04 (D1, 28.11 17:30): **MS 1 & 2.5 Üst** — olasılık %26, adil oran 3.92, İddaa 3.45 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Southampton – Middlesbrough (E1, 27.11 23:00): **MS 2 & KG Var** — olasılık %25, adil oran 3.92, İddaa 3.57 (değer -9%) _(İddaa oranına ayarlı)_
 • ↳ Nottingham Forest – Chelsea (E0, 27.11 23:00): **MS 1 & 2.5 Üst** — olasılık %25, adil oran 3.93, İddaa 3.38 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Westerlo – RAAL La Louviere (B1, 28.11 18:00): **MS 1 & KG Var** — olasılık %25, adil oran 3.97, İddaa 3.44 (değer -13%) _(İddaa oranına ayarlı)_
+• ↳ Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %25, adil oran 3.97, İddaa 3.52 (değer -11%) _(İddaa oranına ayarlı)_
 • ↳ Club Deportivo Eldense – Girona (SP2, 28.11 18:15): **İY/MS 2/2** — olasılık %25, adil oran 3.98, İddaa 3.37 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Stevenage – Blackpool (E2, 28.11 18:00): **MS 1 & KG Var** — olasılık %25, adil oran 4.00, İddaa 3.39 (değer -15%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Arsenal – Manchester City (E0, 29.11 19:30): **MS 1 & KG Var** — olasılık %25, adil oran 4.00, İddaa 3.47 (değer -13%) _(İddaa oranına ayarlı)_
@@ -757,12 +759,13 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Moreirense – Santa Clara (P1, 28.11 18:30): **İY/MS 2/2** — olasılık %23, adil oran 4.37, İddaa 3.52 (değer -20%) _(İddaa oranına ayarlı)_
 • ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %23, adil oran 4.40, İddaa 3.84 (değer -13%) _(İddaa oranına ayarlı)_
 • ↳ B. Dortmund – B. Leverkusen (D1, 29.11 21:30): **MS 2 & 2.5 Üst** — olasılık %23, adil oran 4.40, İddaa 3.78 (değer -14%) _(İddaa oranına ayarlı)_
-• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **İY/MS 2/2** — olasılık %23, adil oran 4.41, İddaa 3.60 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ LR Vicenza Virtus – AC Cesena (I2, 28.11 19:15): **MS 1 & 2.5 Üst** — olasılık %23, adil oran 4.42, İddaa 3.74 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %23, adil oran 4.42, İddaa 3.77 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Cadiz – Cordoba (SP2, 29.11 20:30): **MS 1 & 2.5 Üst** — olasılık %23, adil oran 4.42, İddaa 3.89 (değer -12%) _(İddaa oranına ayarlı)_
 • ↳ Leganes – CE Sabadell FC (SP2, 27.11 22:30): **İY/MS 1/1** — olasılık %23, adil oran 4.43, İddaa 3.60 (değer -19%) _(İddaa oranına ayarlı)_
+• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **İY/MS 2/2** — olasılık %23, adil oran 4.43, İddaa 3.64 (değer -18%) _(İddaa oranına ayarlı)_
 • ↳ Bromley – Burton Albion (E2, 28.11 18:00): **MS 1 & KG Var** — olasılık %23, adil oran 4.43, İddaa 3.74 (değer -16%), MBS 2 _(İddaa oranına ayarlı)_
+• ↳ Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %22, adil oran 4.44, İddaa 3.80 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Sheffield Wednesday – Reading (E2, 28.11 18:00): **MS 1 & KG Var** — olasılık %22, adil oran 4.46, İddaa 3.62 (değer -19%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ A. de Viseu  – Alverca FC (P1, 28.11 21:00): **İY/MS 1/1** — olasılık %22, adil oran 4.47, İddaa 3.73 (değer -17%) _(İddaa oranına ayarlı)_
 • ↳ Holstein Kiel – Kaiserslautern (D2, 28.11 15:00): **MS 1 & KG Var** — olasılık %22, adil oran 4.49, İddaa 3.87 (değer -14%) _(İddaa oranına ayarlı)_
@@ -773,10 +776,10 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %21, adil oran 4.66, İddaa 4.02 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Woking – Barrow (EC, 28.11 15:30): **MS 2 & KG Var** — olasılık %21, adil oran 4.67, İddaa 3.87 (değer -17%), MBS 3 _(İddaa oranına ayarlı)_
 • ↳ Mallorca – Castellon (SP2, 29.11 18:15): **MS 1 & KG Var** — olasılık %21, adil oran 4.67, İddaa 3.93 (değer -16%) _(İddaa oranına ayarlı)_
-• ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %21, adil oran 4.71, İddaa 4.07 (değer -14%) _(İddaa oranına ayarlı)_
 • ↳ Wycombe – Bradford (E2, 28.11 18:00): **MS 1 & KG Var** — olasılık %21, adil oran 4.75, İddaa 3.87 (değer -18%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Toulouse – Rennes (F1, 29.11 19:15): **MS 1 & KG Var** — olasılık %21, adil oran 4.87, İddaa 4.13 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Wigan Athletic – Plymouth (E2, 28.11 18:00): **MS 2 & KG Var** — olasılık %20, adil oran 4.88, İddaa 3.98 (değer -18%), MBS 2 _(İddaa oranına ayarlı)_
+• ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %20, adil oran 4.92, İddaa 4.20 (değer -15%) _(İddaa oranına ayarlı)_
 • ↳ Walsall – Northampton (E3, 28.11 18:00): **MS 1 & KG Var** — olasılık %20, adil oran 5.13, İddaa 4.05 (değer -21%), MBS 2 _(İddaa oranına ayarlı)_
 • ↳ Sampdoria – Cremonese (I2, 29.11 19:15): **İY/MS 1/1** — olasılık %19, adil oran 5.19, İddaa 4.06 (değer -22%) _(İddaa oranına ayarlı)_
 • ↳ Preston – Norwich City (E1, 28.11 15:30): **Korner 8.5 Alt** — olasılık %38, adil oran 2.65, İddaa 2.50 (değer -6%) _(korner modeli)_
@@ -804,7 +807,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Westerlo – RAAL La Louviere (B1, 28.11 18:00): **Korner 7.5 Alt** — olasılık %31, adil oran 3.21, İddaa 3.01 (değer -6%) _(korner modeli)_
 • ↳ Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **Korner 10.5 Üst** — olasılık %31, adil oran 3.22, İddaa 2.34 (değer -27%) _(İddaa oranına ayarlı)_
 • ↳ Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **Korner 10.5 Üst** — olasılık %31, adil oran 3.23, İddaa 2.35 (değer -27%) _(İddaa oranına ayarlı)_
-• ↳ Zalgiris Kaunas – Riga FC (UEFA Konferans Ligi, 26.11 20:45): **Korner 10.5 Üst** — olasılık %31, adil oran 3.24, İddaa 2.36 (değer -27%) _(İddaa oranına ayarlı)_
+• ↳ Zalgiris Kaunas – Riga FC (UEFA Konferans Ligi, 26.11 20:45): **Korner 10.5 Üst** — olasılık %31, adil oran 3.23, İddaa 2.35 (değer -27%) _(İddaa oranına ayarlı)_
 • ↳ Malaga CF – Athletic Bilbao (SP1, 28.11 18:15): **Korner 7.5 Alt** — olasılık %31, adil oran 3.26, İddaa 3.00 (değer -8%) _(korner modeli)_
 • ↳ Empoli – Hellas Verona (I2, 28.11 17:00): **Korner 11.5 Üst** — olasılık %30, adil oran 3.28, İddaa 2.86 (değer -13%) _(korner modeli)_
 • ↳ Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Üst** — olasılık %30, adil oran 3.30, İddaa 2.38 (değer -28%) _(İddaa oranına ayarlı)_
@@ -812,14 +815,15 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • ↳ Angers – RC Lens (F1, 28.11 19:15): **Korner 7.5 Alt** — olasılık %30, adil oran 3.33, İddaa 3.44 (değer +3%) _(korner modeli)_
 • ↳ LR Vicenza Virtus – AC Cesena (I2, 28.11 19:15): **Korner 7.5 Alt** — olasılık %30, adil oran 3.35, İddaa 2.93 (değer -13%) _(korner modeli)_
 • ↳ Mainz – Union Berlin (D1, 28.11 17:30): **Korner 7.5 Alt** — olasılık %30, adil oran 3.35, İddaa 3.10 (değer -8%) _(korner modeli)_
+• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 7.5 Alt** — olasılık %30, adil oran 3.36, İddaa 2.39 (değer -29%) _(İddaa oranına ayarlı)_
 • ↳ Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **Korner 8.5 Alt** — olasılık %30, adil oran 3.36, İddaa 2.39 (değer -29%) _(İddaa oranına ayarlı)_
 • ↳ Real Betis – Vallecano (SP1, 28.11 16:00): **Korner 12.5 Üst** — olasılık %29, adil oran 3.39, İddaa 3.15 (değer -7%) _(korner modeli)_
-• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 10.5 Üst** — olasılık %29, adil oran 3.45, İddaa 2.44 (değer -29%) _(İddaa oranına ayarlı)_
 • ↳ Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **Korner 7.5 Alt** — olasılık %29, adil oran 3.46, İddaa 2.45 (değer -29%) _(İddaa oranına ayarlı)_
 • ↳ Excelsior – Telstar (N1, 28.11 18:30): **Korner 7.5 Alt** — olasılık %28, adil oran 3.51, İddaa 3.03 (değer -14%) _(korner modeli)_
 • ↳ Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **Korner 10.5 Üst** — olasılık %28, adil oran 3.52, İddaa 2.46 (değer -30%) _(İddaa oranına ayarlı)_
-• ↳ Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **Korner 7.5 Alt** — olasılık %28, adil oran 3.52, İddaa 2.46 (değer -30%) _(İddaa oranına ayarlı)_
+• ↳ Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **Korner 7.5 Alt** — olasılık %28, adil oran 3.53, İddaa 2.47 (değer -30%) _(İddaa oranına ayarlı)_
 • ↳ Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **Korner 10.5 Üst** — olasılık %28, adil oran 3.53, İddaa 2.47 (değer -30%) _(İddaa oranına ayarlı)_
+• ↳ Torino – Lazio (I1, 28.11 20:00): **Korner 6.5 Alt** — olasılık %28, adil oran 3.59, İddaa 3.20 (değer -11%) _(korner modeli)_
 • ↳ Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **Korner 11.5 Üst** — olasılık %22, adil oran 4.51, İddaa 2.85 (değer -37%) _(İddaa oranına ayarlı)_
 • ↳ Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **Korner 12.5 Üst** — olasılık %22, adil oran 4.52, İddaa 2.86 (değer -37%) _(İddaa oranına ayarlı)_
 • ↳ Juventus – Omonia (UEFA Avrupa Ligi, 26.11 23:00): **Korner 11.5 Üst** — olasılık %21, adil oran 4.67, İddaa 2.88 (değer -38%) _(İddaa oranına ayarlı)_
@@ -839,18 +843,18 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 
 ## ⚡ Tier 5 — Aşırı risk (kısa kesin skor)
 
-• Frosinone – Parma (I1, 28.11 17:00): **2-1** — olasılık %20, adil oran 4.90, İddaa 7.49 (değer +53%) _(İddaa oranına ayarlı)_
+• Frosinone – Parma (I1, 28.11 17:00): **2-1** — olasılık %20, adil oran 5.02, İddaa 7.48 (değer +49%) _(İddaa oranına ayarlı)_
+• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **0-1** — olasılık %18, adil oran 5.55, İddaa 4.41 (değer -20%) _(İddaa oranına ayarlı)_
 • Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **0-2** — olasılık %18, adil oran 5.57, İddaa 4.64 (değer -17%) _(İddaa oranına ayarlı)_
-• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **0-1** — olasılık %18, adil oran 5.67, İddaa 4.52 (değer -20%) _(İddaa oranına ayarlı)_
 • Casa Pia AC – Braga (P1, 30.11 23:15): **0-1** — olasılık %18, adil oran 5.67, İddaa 5.08 (değer -10%) _(İddaa oranına ayarlı)_
 • Atromitos – Panathinaikos (G1, 29.11 18:00): **1-2** — olasılık %16, adil oran 6.18, İddaa 6.51 (değer +5%), MBS 3 _(İddaa oranına ayarlı)_
 • Elche – Atletico Madrid (SP1, 28.11 20:30): **1-2** — olasılık %16, adil oran 6.23, İddaa 7.22 (değer +16%) _(İddaa oranına ayarlı)_
 
 ## 🔥 Tier 6 — En yüksek risk (tüm maçlarda kesin skor)
 
-• Frosinone – Parma (I1, 28.11 17:00): **2-1** — olasılık %20, adil oran 4.90, İddaa 7.49 (değer +53%) _(İddaa oranına ayarlı)_
+• Frosinone – Parma (I1, 28.11 17:00): **2-1** — olasılık %20, adil oran 5.02, İddaa 7.48 (değer +49%) _(İddaa oranına ayarlı)_
+• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **0-1** — olasılık %18, adil oran 5.55, İddaa 4.41 (değer -20%) _(İddaa oranına ayarlı)_
 • Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **0-2** — olasılık %18, adil oran 5.57, İddaa 4.64 (değer -17%) _(İddaa oranına ayarlı)_
-• FC Iberia 1999 – Getafe (UEFA Konferans Ligi, 26.11 20:45): **0-1** — olasılık %18, adil oran 5.67, İddaa 4.52 (değer -20%) _(İddaa oranına ayarlı)_
 • Casa Pia AC – Braga (P1, 30.11 23:15): **0-1** — olasılık %18, adil oran 5.67, İddaa 5.08 (değer -10%) _(İddaa oranına ayarlı)_
 • Atromitos – Panathinaikos (G1, 29.11 18:00): **1-2** — olasılık %16, adil oran 6.18, İddaa 6.51 (değer +5%), MBS 3 _(İddaa oranına ayarlı)_
 • Elche – Atletico Madrid (SP1, 28.11 20:30): **1-2** — olasılık %16, adil oran 6.23, İddaa 7.22 (değer +16%) _(İddaa oranına ayarlı)_
@@ -905,8 +909,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Stevenage – Blackpool (E2, 28.11 18:00): **2-1** — olasılık %13, adil oran 7.85, İddaa 6.54 (değer -17%), MBS 2 _(İddaa oranına ayarlı)_
 • Real Valladolid – Real Sociedad B (SP2, 28.11 23:00): **2-1** — olasılık %13, adil oran 7.85, İddaa 7.34 (değer -7%) _(İddaa oranına ayarlı)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **2-1** — olasılık %13, adil oran 7.85, İddaa 7.40 (değer -6%) _(İddaa oranına ayarlı)_
-• Mainz – Union Berlin (D1, 28.11 17:30): **2-1** — olasılık %13, adil oran 7.87, İddaa 7.17 (değer -9%) _(İddaa oranına ayarlı)_
 • Malaga CF – Athletic Bilbao (SP1, 28.11 18:15): **1-2** — olasılık %13, adil oran 7.89, İddaa 7.29 (değer -8%) _(İddaa oranına ayarlı)_
+• Mainz – Union Berlin (D1, 28.11 17:30): **2-1** — olasılık %13, adil oran 7.92, İddaa 7.17 (değer -9%) _(İddaa oranına ayarlı)_
 • Real Oviedo – Celta Vigo B (SP2, 30.11 22:30): **2-1** — olasılık %13, adil oran 7.93, İddaa 7.17 (değer -10%) _(İddaa oranına ayarlı)_
 • Hoffenheim – Augsburg (D1, 29.11 19:30): **2-1** — olasılık %13, adil oran 7.96, İddaa 8.20 (değer +3%) _(İddaa oranına ayarlı)_
 • Hertha Berlin – Karlsruhe (D2, 28.11 15:00): **2-1** — olasılık %13, adil oran 7.97, İddaa 7.60 (değer -5%) _(İddaa oranına ayarlı)_
@@ -948,6 +952,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Charleroi – SK Beveren (B1, 28.11 22:45): **2-1** — olasılık %11, adil oran 8.83, İddaa 7.16 (değer -19%) _(İddaa oranına ayarlı)_
 • Zalgiris Kaunas – Riga FC (UEFA Konferans Ligi, 26.11 20:45): **0-1** — olasılık %11, adil oran 8.84, İddaa 6.64 (değer -25%) _(İddaa oranına ayarlı)_
 • St Mirren – Kilmarnock (SC0, 28.11 18:00): **2-1** — olasılık %11, adil oran 8.89, İddaa 7.89 (değer -11%), MBS 2 _(İddaa oranına ayarlı)_
+• Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **0-1** — olasılık %11, adil oran 8.97, İddaa 6.66 (değer -26%) _(İddaa oranına ayarlı)_
 • AE Kifisia FC – PAE PS Kalamata (G1, 28.11 21:00): **2-1** — olasılık %11, adil oran 9.03, İddaa 6.55 (değer -27%), MBS 3 _(İddaa oranına ayarlı)_
 • Porto – Sporting Lizbon (P1, 29.11 23:30): **2-1** — olasılık %11, adil oran 9.05, İddaa 7.62 (değer -16%) _(İddaa oranına ayarlı)_
 • Cagliari – AC Milan (I1, 30.11 22:45): **1-2** — olasılık %11, adil oran 9.07, İddaa 7.30 (değer -20%) _(İddaa oranına ayarlı)_
@@ -975,7 +980,6 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Bromley – Burton Albion (E2, 28.11 18:00): **2-1** — olasılık %10, adil oran 9.53, İddaa 7.05 (değer -26%), MBS 2 _(İddaa oranına ayarlı)_
 • Manchester United – Brentford (E0, 28.11 18:00): **2-1** — olasılık %10, adil oran 9.57, İddaa 7.88 (değer -18%) _(İddaa oranına ayarlı)_
 • MK Dons – Notts County (E2, 28.11 15:30): **2-1** — olasılık %10, adil oran 9.58, İddaa 6.57 (değer -31%), MBS 2 _(İddaa oranına ayarlı)_
-• Olympiacos – AC Milan (UEFA Avrupa Ligi, 26.11 20:45): **0-1** — olasılık %10, adil oran 9.61, İddaa 7.05 (değer -27%) _(İddaa oranına ayarlı)_
 • Excelsior – Telstar (N1, 28.11 18:30): **2-1** — olasılık %10, adil oran 9.61, İddaa 7.58 (değer -21%) _(İddaa oranına ayarlı)_
 • Bristol Rovers – Tranmere (E3, 28.11 15:30): **2-1** — olasılık %10, adil oran 9.62, İddaa 6.62 (değer -31%), MBS 2 _(İddaa oranına ayarlı)_
 • Dynamo Dresden – Saint Pauli (D2, 28.11 15:00): **1-2** — olasılık %10, adil oran 9.62, İddaa 8.45 (değer -12%) _(İddaa oranına ayarlı)_
@@ -990,7 +994,7 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Brest – Paris (F1, 27.11 22:45): **1-2** — olasılık %10, adil oran 9.82, İddaa 7.92 (değer -19%) _(İddaa oranına ayarlı)_
 • Holstein Kiel – Kaiserslautern (D2, 28.11 15:00): **2-1** — olasılık %10, adil oran 9.88, İddaa 8.12 (değer -18%) _(İddaa oranına ayarlı)_
 • Club Deportivo Eldense – Girona (SP2, 28.11 18:15): **0-1** — olasılık %10, adil oran 9.91, İddaa 6.74 (değer -32%) _(İddaa oranına ayarlı)_
-• Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **2-1** — olasılık %10, adil oran 9.93, İddaa 7.22 (değer -27%) _(İddaa oranına ayarlı)_
+• Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **2-1** — olasılık %10, adil oran 9.93, İddaa 7.23 (değer -27%) _(İddaa oranına ayarlı)_
 • Wycombe – Bradford (E2, 28.11 18:00): **2-1** — olasılık %10, adil oran 9.93, İddaa 7.00 (değer -29%), MBS 2 _(İddaa oranına ayarlı)_
 • Feyenoord – Ajax (N1, 29.11 16:30): **2-1** — olasılık %10, adil oran 9.96, İddaa 8.50 (değer -15%) _(İddaa oranına ayarlı)_
 • Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %10, adil oran 10.05, İddaa 7.33 (değer -27%) _(İddaa oranına ayarlı)_
@@ -1000,48 +1004,47 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Almeria – S.Gijon (SP2, 29.11 23:00): **2-1** — olasılık %10, adil oran 10.12, İddaa 7.25 (değer -28%) _(İddaa oranına ayarlı)_
 • Sheffield Wednesday – Reading (E2, 28.11 18:00): **2-1** — olasılık %10, adil oran 10.14, İddaa 7.17 (değer -29%), MBS 2 _(İddaa oranına ayarlı)_
 • Hearts – Monaco (UEFA Konferans Ligi, 26.11 20:45): **1-2** — olasılık %10, adil oran 10.14, İddaa 7.16 (değer -29%) _(İddaa oranına ayarlı)_
+• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **1-2** — olasılık %10, adil oran 10.15, İddaa 7.12 (değer -30%) _(İddaa oranına ayarlı)_
 • Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **1-2** — olasılık %10, adil oran 10.15, İddaa 7.35 (değer -28%) _(İddaa oranına ayarlı)_
 • Boreham Wood – Gateshead (EC, 28.11 18:00): **2-1** — olasılık %10, adil oran 10.21, İddaa 9.30 (değer -9%), MBS 3 _(sadece model)_
 • Woking – Barrow (EC, 28.11 15:30): **1-2** — olasılık %10, adil oran 10.23, İddaa 7.36 (değer -28%), MBS 3 _(İddaa oranına ayarlı)_
 • CSKA Sofya – Trabzonspor (UEFA Konferans Ligi, 26.11 23:00): **1-2** — olasılık %10, adil oran 10.23, İddaa 7.33 (değer -28%) _(İddaa oranına ayarlı)_
 • Crystal Palace – Hull City (E0, 29.11 17:05): **2-1** — olasılık %10, adil oran 10.24, İddaa 7.41 (değer -28%) _(İddaa oranına ayarlı)_
-• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **1-2** — olasılık %10, adil oran 10.27, İddaa 7.19 (değer -30%) _(İddaa oranına ayarlı)_
 • KF Egnatia Rrogozhine – Lincoln Red (UEFA Konferans Ligi, 26.11 20:45): **2-1** — olasılık %10, adil oran 10.27, İddaa 7.14 (değer -30%) _(İddaa oranına ayarlı)_
 • Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **1-2** — olasılık %10, adil oran 10.33, İddaa 7.57 (değer -27%) _(İddaa oranına ayarlı)_
 • Walsall – Northampton (E3, 28.11 18:00): **2-1** — olasılık %10, adil oran 10.40, İddaa 7.20 (değer -31%), MBS 2 _(İddaa oranına ayarlı)_
 • St. Truidense – KRC Genk (B1, 29.11 15:30): **1-2** — olasılık %10, adil oran 10.41, İddaa 8.94 (değer -14%) _(İddaa oranına ayarlı)_
 • Hajduk Split – St. Truidense (UEFA Konferans Ligi, 26.11 23:00): **2-1** — olasılık %10, adil oran 10.43, İddaa 7.65 (değer -27%) _(İddaa oranına ayarlı)_
 • PSV – Go Ahead Eagles (N1, 28.11 20:45): **3-1** — olasılık %9, adil oran 10.53, İddaa 8.58 (değer -19%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %9, adil oran 10.71, İddaa 7.40 (değer -31%) _(İddaa oranına ayarlı)_
 • Alanyaspor – Konyaspor (T1, 27.11 20:00): **1-0** — olasılık %9, adil oran 10.72, İddaa 7.09 (değer -34%) _(İddaa oranına ayarlı)_
 • Greuther Furth – Arminia Bielefeld (D2, 29.11 15:30): **1-2** — olasılık %9, adil oran 10.73, İddaa 7.96 (değer -26%) _(İddaa oranına ayarlı)_
 • Gaziantep FK – Amed Sportif Faaliyetler (T1, 28.11 19:00): **1-2** — olasılık %9, adil oran 10.81, İddaa 7.68 (değer -29%) _(İddaa oranına ayarlı)_
 • Lyon – Monaco (F1, 29.11 22:45): **1-0** — olasılık %9, adil oran 10.81, İddaa 7.27 (değer -33%) _(İddaa oranına ayarlı)_
 • A. de Viseu  – Alverca FC (P1, 28.11 21:00): **1-0** — olasılık %9, adil oran 10.85, İddaa 7.28 (değer -33%) _(İddaa oranına ayarlı)_
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %9, adil oran 10.86, İddaa 7.45 (değer -31%) _(İddaa oranına ayarlı)_
 • Derby County – Watford (E1, 28.11 18:00): **2-1** — olasılık %9, adil oran 10.95, İddaa 7.98 (değer -27%) _(İddaa oranına ayarlı)_
-• Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.06, İddaa 8.09 (değer -27%) _(İddaa oranına ayarlı)_
+• Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.04, İddaa 7.29 (değer -34%) _(İddaa oranına ayarlı)_
+• Brann – AGF Aarhus (UEFA Konferans Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.06, İddaa 8.02 (değer -27%) _(İddaa oranına ayarlı)_
 • Fulham – Bournemouth (E0, 29.11 17:05): **1-2** — olasılık %9, adil oran 11.06, İddaa 8.54 (değer -23%) _(İddaa oranına ayarlı)_
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %9, adil oran 11.09, İddaa 8.10 (değer -27%) _(İddaa oranına ayarlı)_
 • Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **2-1** — olasılık %9, adil oran 11.09, İddaa 7.34 (değer -34%) _(İddaa oranına ayarlı)_
-• Levante – Santander (SP1, 27.11 23:00): **2-1** — olasılık %9, adil oran 11.11, İddaa 7.96 (değer -28%) _(İddaa oranına ayarlı)_
-• Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **1-2** — olasılık %9, adil oran 11.12, İddaa 8.21 (değer -26%) _(İddaa oranına ayarlı)_
-• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **2-1** — olasılık %9, adil oran 11.14, İddaa 7.99 (değer -28%) _(İddaa oranına ayarlı)_
-• Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.16, İddaa 7.28 (değer -35%) _(İddaa oranına ayarlı)_
+• Jablonec – Lugano (UEFA Konferans Ligi, 26.11 20:45): **1-2** — olasılık %9, adil oran 11.17, İddaa 8.21 (değer -26%) _(İddaa oranına ayarlı)_
 • Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **1-2** — olasılık %9, adil oran 11.18, İddaa 7.32 (değer -35%) _(İddaa oranına ayarlı)_
+• Levante – Santander (SP1, 27.11 23:00): **2-1** — olasılık %9, adil oran 11.19, İddaa 7.97 (değer -29%) _(İddaa oranına ayarlı)_
 • Nottingham Forest – Chelsea (E0, 27.11 23:00): **2-1** — olasılık %9, adil oran 11.22, İddaa 8.32 (değer -26%) _(İddaa oranına ayarlı)_
 • Real Sociedad – Sevilla (SP1, 29.11 23:00): **2-1** — olasılık %9, adil oran 11.23, İddaa 7.77 (değer -31%) _(İddaa oranına ayarlı)_
 • Las Palmas – FC Andorra (SP2, 28.11 16:00): **2-1** — olasılık %9, adil oran 11.28, İddaa 7.97 (değer -29%) _(İddaa oranına ayarlı)_
 • Nordsjælland – Panathinaikos (UEFA Konferans Ligi, 26.11 23:00): **2-1** — olasılık %9, adil oran 11.29, İddaa 8.24 (değer -27%) _(İddaa oranına ayarlı)_
+• Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **1-2** — olasılık %9, adil oran 11.30, İddaa 8.19 (değer -28%) _(İddaa oranına ayarlı)_
 • Paderborn – Schalke 04 (D1, 28.11 17:30): **2-1** — olasılık %9, adil oran 11.30, İddaa 8.37 (değer -26%) _(İddaa oranına ayarlı)_
 • Le Havre – Strasbourg (F1, 28.11 22:45): **1-2** — olasılık %9, adil oran 11.30, İddaa 8.00 (değer -29%) _(İddaa oranına ayarlı)_
 • Celta Vigo – Villarreal (SP1, 29.11 20:30): **1-2** — olasılık %9, adil oran 11.31, İddaa 8.43 (değer -25%) _(İddaa oranına ayarlı)_
-• Pafos FC – Midtjylland (UEFA Konferans Ligi, 26.11 20:45): **1-2** — olasılık %9, adil oran 11.41, İddaa 8.08 (değer -29%) _(İddaa oranına ayarlı)_
 • Scunthorpe – Wealdstone (EC, 27.11 22:45): **1-2** — olasılık %9, adil oran 11.44, İddaa 8.36 (değer -27%), MBS 3 _(İddaa oranına ayarlı)_
 • Union Saint Gilloise – Lech Poznan (UEFA Avrupa Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.45, İddaa 7.36 (değer -36%) _(İddaa oranına ayarlı)_
 • KAA Gent – Kızıl Yıldız (UEFA Konferans Ligi, 26.11 23:00): **2-1** — olasılık %9, adil oran 11.48, İddaa 8.24 (değer -28%) _(İddaa oranına ayarlı)_
 • Sparta Prag – AZ Alkmaar (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %9, adil oran 11.48, İddaa 8.27 (değer -28%) _(İddaa oranına ayarlı)_
-• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.55, İddaa 7.52 (değer -35%) _(İddaa oranına ayarlı)_
 • Fenerbahçe – Erzurumspor FK (T1, 29.11 19:00): **2-1** — olasılık %9, adil oran 11.62, İddaa 7.74 (değer -33%) _(İddaa oranına ayarlı)_
+• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **2-1** — olasılık %9, adil oran 11.64, İddaa 7.51 (değer -35%) _(İddaa oranına ayarlı)_
 • B. Dortmund – B. Leverkusen (D1, 29.11 21:30): **1-2** — olasılık %9, adil oran 11.64, İddaa 9.83 (değer -16%) _(İddaa oranına ayarlı)_
 • LR Vicenza Virtus – AC Cesena (I2, 28.11 19:15): **2-1** — olasılık %9, adil oran 11.65, İddaa 8.49 (değer -27%) _(İddaa oranına ayarlı)_
 • Freiburg – Leipzig (D1, 29.11 17:30): **2-1** — olasılık %8, adil oran 11.82, İddaa 9.12 (değer -23%) _(İddaa oranına ayarlı)_
@@ -1054,7 +1057,8 @@ Her satır: tahmin — kazanma olasılığı, adil oran, İddaa oranı ve **değ
 • Altrincham – Worthing (EC, 28.11 18:00): **1-2** — olasılık %8, adil oran 13.14, İddaa 8.46 (değer -36%), MBS 3 _(İddaa oranına ayarlı)_
 • SC Cambuur – Sparta Rotterdam (N1, 28.11 23:00): **2-1** — olasılık %8, adil oran 13.19, İddaa 8.37 (değer -37%) _(İddaa oranına ayarlı)_
 • Ajax – Thun (UEFA Konferans Ligi, 26.11 20:45): **3-1** — olasılık %8, adil oran 13.26, İddaa 8.50 (değer -36%) _(İddaa oranına ayarlı)_
-• Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **3-1** — olasılık %7, adil oran 14.61, İddaa 8.59 (değer -41%) _(İddaa oranına ayarlı)_
+• Salzburg – Ararat (UEFA Avrupa Ligi, 26.11 20:45): **3-1** — olasılık %7, adil oran 14.11, İddaa 8.56 (değer -39%) _(İddaa oranına ayarlı)_
+• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **1-2** — olasılık %7, adil oran 14.11, İddaa 9.66 (değer -32%) _(İddaa oranına ayarlı)_
 • Lyon – Lillestrom (UEFA Avrupa Ligi, 26.11 23:00): **3-1** — olasılık %6, adil oran 16.94, İddaa 9.17 (değer -46%) _(İddaa oranına ayarlı)_
 
 ## 2️⃣ 2'li kupon
@@ -1075,11 +1079,11 @@ Ayak oranı 2.00-3.20, hepsi farklı maçlar; toplam oran **11,04**, tutma olas�
 ## 4️⃣ 4'lü kupon
 
 • Groningen – Willem II (N1, 27.11 22:00): **MS 1 & KG Var** — olasılık %38, adil oran 2.64, İddaa 2.50 (değer -5%) _(İddaa oranına ayarlı)_
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.68, İddaa 2.49 (değer -7%) _(İddaa oranına ayarlı)_
-• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.45, İddaa 2.27 (değer -7%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.69, İddaa 2.50 (değer -7%) _(İddaa oranına ayarlı)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **MS 1 & KG Var** — olasılık %31, adil oran 3.23, İddaa 2.99 (değer -7%) _(İddaa oranına ayarlı)_
+• Werder Bremen – Monchengladbach (D1, 27.11 22:30): **MS 1 & KG Var** — olasılık %33, adil oran 3.02, İddaa 2.79 (değer -7%) _(İddaa oranına ayarlı)_
 
-Ayak oranı 2.20-3.50, hepsi farklı maçlar; toplam oran **42,25**, tutma olasılığı yaklaşık 1/56.
+Ayak oranı 2.20-3.50, hepsi farklı maçlar; toplam oran **52,14**, tutma olasılığı yaklaşık 1/69.
 
 ## 📌 Kupon adayları
 
@@ -1092,33 +1096,33 @@ Kuponlara girebilecek tüm ayaklar (oran 1.60+; MS, MS & 2.5 Üst, MS & KG Var, 
 • O.H. Leuven – Kortrijk (B1, 27.11 22:45): **En çok korner 2** — olasılık %45, adil oran 2.22, İddaa 2.28 (değer +3%) _(korner modeli)_
 • Heidenheim – Nürnberg (D2, 27.11 20:30): **En çok korner 1** — olasılık %58, adil oran 1.73, İddaa 1.75 (değer +1%) _(korner modeli)_
 • Nottingham Forest – Chelsea (E0, 27.11 23:00): **En çok korner 2** — olasılık %54, adil oran 1.86, İddaa 1.87 (değer +0%) _(korner modeli)_
+• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %60, adil oran 1.66, İddaa 1.60 (değer -3%) _(İddaa oranına ayarlı)_
 • Banja Luka – Atalanta (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %57, adil oran 1.77, İddaa 1.69 (değer -4%) _(İddaa oranına ayarlı)_
 • Union Saint Gilloise – Lech Poznan (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %57, adil oran 1.76, İddaa 1.67 (değer -5%) _(İddaa oranına ayarlı)_
 • Groningen – Willem II (N1, 27.11 22:00): **MS 1 & KG Var** — olasılık %38, adil oran 2.64, İddaa 2.50 (değer -5%) _(İddaa oranına ayarlı)_
 • Ferencvaros – NK Celje (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %56, adil oran 1.79, İddaa 1.69 (değer -5%) _(İddaa oranına ayarlı)_
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %50, adil oran 2.00, İddaa 1.89 (değer -6%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %51, adil oran 1.98, İddaa 1.87 (değer -6%) _(İddaa oranına ayarlı)_
 • Groningen – Willem II (N1, 27.11 22:00): **MS 1 & 2.5 Üst** — olasılık %54, adil oran 1.85, İddaa 1.74 (değer -6%) _(İddaa oranına ayarlı)_
-• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %50, adil oran 2.02, İddaa 1.90 (değer -6%) _(İddaa oranına ayarlı)_
+• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %47, adil oran 2.12, İddaa 1.98 (değer -6%) _(İddaa oranına ayarlı)_
 • Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %47, adil oran 2.13, İddaa 1.99 (değer -7%) _(İddaa oranına ayarlı)_
-• Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %51, adil oran 1.98, İddaa 1.84 (değer -7%) _(İddaa oranına ayarlı)_
+• Marsilya – Levski Sofya (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %51, adil oran 1.95, İddaa 1.82 (değer -7%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.69, İddaa 2.50 (değer -7%) _(İddaa oranına ayarlı)_
 • CSKA Sofya – Trabzonspor (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %45, adil oran 2.22, İddaa 2.06 (değer -7%) _(İddaa oranına ayarlı)_
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %37, adil oran 2.68, İddaa 2.49 (değer -7%) _(İddaa oranına ayarlı)_
-• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.45, İddaa 2.27 (değer -7%) _(İddaa oranına ayarlı)_
 • KF Egnatia Rrogozhine – Lincoln Red (UEFA Konferans Ligi, 26.11 20:45): **MS 1 & 2.5 Üst** — olasılık %45, adil oran 2.20, İddaa 2.04 (değer -7%) _(İddaa oranına ayarlı)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **MS 1 & KG Var** — olasılık %31, adil oran 3.23, İddaa 2.99 (değer -7%) _(İddaa oranına ayarlı)_
 • Werder Bremen – Monchengladbach (D1, 27.11 22:30): **MS 1 & KG Var** — olasılık %33, adil oran 3.02, İddaa 2.79 (değer -7%) _(İddaa oranına ayarlı)_
 • O.H. Leuven – Kortrijk (B1, 27.11 22:45): **MS 1 & 2.5 Üst** — olasılık %37, adil oran 2.69, İddaa 2.49 (değer -8%) _(İddaa oranına ayarlı)_
 • Hearts – Monaco (UEFA Konferans Ligi, 26.11 20:45): **MS 2 & 2.5 Üst** — olasılık %46, adil oran 2.16, İddaa 1.99 (değer -8%) _(İddaa oranına ayarlı)_
 • Werder Bremen – Monchengladbach (D1, 27.11 22:30): **MS 1 & 2.5 Üst** — olasılık %43, adil oran 2.31, İddaa 2.13 (değer -8%) _(İddaa oranına ayarlı)_
+• Levante – Santander (SP1, 27.11 23:00): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.66, İddaa 2.45 (değer -8%) _(İddaa oranına ayarlı)_
 • Rizespor – Kasımpaşa (T1, 27.11 20:00): **MS 1 & KG Var** — olasılık %28, adil oran 3.58, İddaa 3.30 (değer -8%) _(İddaa oranına ayarlı)_
-• Levante – Santander (SP1, 27.11 23:00): **MS 1 & 2.5 Üst** — olasılık %38, adil oran 2.64, İddaa 2.43 (değer -8%) _(İddaa oranına ayarlı)_
 • Heidenheim – Nürnberg (D2, 27.11 20:30): **MS 1 & 2.5 Üst** — olasılık %37, adil oran 2.70, İddaa 2.49 (değer -8%) _(İddaa oranına ayarlı)_
 • Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **MS 2** — olasılık %57, adil oran 1.76, İddaa 1.62 (değer -8%) _(İddaa oranına ayarlı)_
+• Beşiktaş – Hapoel Beer Sheva (UEFA Avrupa Ligi, 26.11 20:45): **MS 1 & KG Var** — olasılık %41, adil oran 2.47, İddaa 2.27 (değer -8%) _(İddaa oranına ayarlı)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **MS 1** — olasılık %56, adil oran 1.78, İddaa 1.64 (değer -8%) _(İddaa oranına ayarlı)_
 • Freiburg – Twente (UEFA Konferans Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %40, adil oran 2.52, İddaa 2.31 (değer -8%) _(İddaa oranına ayarlı)_
 • Inter Club De Escaldes – Kopenhag (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %52, adil oran 1.91, İddaa 1.75 (değer -8%) _(İddaa oranına ayarlı)_
 • Bochum – Darmstadt 98 (D2, 27.11 20:30): **MS 1 & 2.5 Üst** — olasılık %40, adil oran 2.50, İddaa 2.29 (değer -8%) _(İddaa oranına ayarlı)_
-• Viktoria Plzen – Benfica (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %35, adil oran 2.87, İddaa 2.62 (değer -9%) _(İddaa oranına ayarlı)_
 • Rizespor – Kasımpaşa (T1, 27.11 20:00): **MS 1** — olasılık %52, adil oran 1.90, İddaa 1.74 (değer -9%) _(İddaa oranına ayarlı)_
 • Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **MS 2 & KG Var** — olasılık %34, adil oran 2.91, İddaa 2.66 (değer -9%) _(İddaa oranına ayarlı)_
 • O.H. Leuven – Kortrijk (B1, 27.11 22:45): **MS 1** — olasılık %52, adil oran 1.93, İddaa 1.76 (değer -9%) _(İddaa oranına ayarlı)_
@@ -1126,16 +1130,14 @@ Kuponlara girebilecek tüm ayaklar (oran 1.60+; MS, MS & 2.5 Üst, MS & KG Var, 
 • Celta Vigo – Bournemouth (UEFA Avrupa Ligi, 26.11 20:45): **MS 2** — olasılık %50, adil oran 2.00, İddaa 1.82 (değer -9%) _(İddaa oranına ayarlı)_
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %36, adil oran 2.77, İddaa 2.52 (değer -9%) _(İddaa oranına ayarlı)_
 • Ofi Crete – Anderlecht (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & 2.5 Üst** — olasılık %38, adil oran 2.64, İddaa 2.39 (değer -9%) _(İddaa oranına ayarlı)_
-• Levante – Santander (SP1, 27.11 23:00): **MS 1** — olasılık %49, adil oran 2.04, İddaa 1.85 (değer -9%) _(İddaa oranına ayarlı)_
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %29, adil oran 3.40, İddaa 3.08 (değer -9%) _(İddaa oranına ayarlı)_
 • Zalgiris Kaunas – Riga FC (UEFA Konferans Ligi, 26.11 20:45): **MS 2** — olasılık %49, adil oran 2.04, İddaa 1.85 (değer -9%) _(İddaa oranına ayarlı)_
 • Hajduk Split – St. Truidense (UEFA Konferans Ligi, 26.11 23:00): **MS 1** — olasılık %48, adil oran 2.07, İddaa 1.87 (değer -10%) _(İddaa oranına ayarlı)_
-• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & 2.5 Üst** — olasılık %35, adil oran 2.89, İddaa 2.61 (değer -10%) _(İddaa oranına ayarlı)_
+• Levante – Santander (SP1, 27.11 23:00): **MS 1** — olasılık %49, adil oran 2.06, İddaa 1.86 (değer -10%) _(İddaa oranına ayarlı)_
 • CSKA Sofya – Trabzonspor (UEFA Konferans Ligi, 26.11 23:00): **MS 2 & KG Var** — olasılık %33, adil oran 3.07, İddaa 2.77 (değer -10%) _(İddaa oranına ayarlı)_
-• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %28, adil oran 3.57, İddaa 3.22 (değer -10%) _(İddaa oranına ayarlı)_
 • NEC Nijmegen – Rennes (UEFA Avrupa Ligi, 26.11 23:00): **MS 2** — olasılık %47, adil oran 2.13, İddaa 1.92 (değer -10%) _(İddaa oranına ayarlı)_
-• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1** — olasılık %47, adil oran 2.13, İddaa 1.92 (değer -10%) _(İddaa oranına ayarlı)_
 • Maritimo – N. Madeira (P1, 27.11 23:15): **MS 1** — olasılık %47, adil oran 2.14, İddaa 1.93 (değer -10%) _(İddaa oranına ayarlı)_
+• Crystal Palace – Real Sociedad (UEFA Avrupa Ligi, 26.11 23:00): **MS 1 & KG Var** — olasılık %28, adil oran 3.62, İddaa 3.26 (değer -10%) _(İddaa oranına ayarlı)_
 
 ## 💎 Değeri pozitif olanlar (risk seviyesinden bağımsız)
 
@@ -1146,8 +1148,8 @@ Uzun vadede kâr beklentisi olan tek grup bu: oran, keskin piyasanın (Pinnacle 
 ## 🎲 Çılgın kupon
 
 • Doncaster – Huddersfield (E2, 26.11 23:00): **İY/MS 1/2** — olasılık %5, adil oran 19.84, İddaa 21.40 (değer +8% 💎), MBS 2
-• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **İY/MS 1/2** — olasılık %5, adil oran 18.20, İddaa 19.30 (değer +6%) _(İddaa oranına ayarlı)_
+• Torreense – Celtic (UEFA Avrupa Ligi, 26.11 23:00): **İY/MS 1/2** — olasılık %5, adil oran 18.38, İddaa 19.40 (değer +6%) _(İddaa oranına ayarlı)_
 • Southampton – Middlesbrough (E1, 27.11 23:00): **İY/MS 1/2** — olasılık %4, adil oran 22.52, İddaa 23.60 (değer +5%) _(İddaa oranına ayarlı)_
 • Dinamo Zagreb – B. Leverkusen (UEFA Avrupa Ligi, 26.11 20:45): **İY/MS 1/2** — olasılık %5, adil oran 19.52, İddaa 20.25 (değer +4%) _(İddaa oranına ayarlı)_
 
-Toplam oran **197.382,26**, tutma olasılığı yaklaşık 1/158.677. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.
+Toplam oran **198.404,96**, tutma olasılığı yaklaşık 1/160.209. Piyango gibidir; ayaklar İddaa oranına göre en değerli dönüşlerden (dönüş olasılıkları geçmiş maçlara göre düzeltilmiş) seçildi.

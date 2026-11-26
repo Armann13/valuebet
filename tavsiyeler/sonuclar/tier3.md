@@ -2,15 +2,79 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**538/1302 tuttu** (isabet %41, beklenen %40) · -98.83 birim · 91 tahmin sonuç bekliyor
+**539/1303 tuttu** (isabet %41, beklenen %40) · -97.77 birim · 113 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11.2026 Cuma
+
+**20:00 · Alanyaspor – Konyaspor**
+
+- ⏳ ↳ MS 1 · @2.33
+
+**20:00 · Rizespor – Kasımpaşa**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.54
+
+**20:30 · Bochum – Darmstadt 98**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.29
+
+**20:30 · Heidenheim – Nürnberg**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+
+**22:00 · Groningen – Willem II**
+
+- ⏳ ↳ MS 1 & KG Var · @2.50
+
+**22:30 · Werder Bremen – Monchengladbach**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.13
+
+**22:30 · Leganes – CE Sabadell FC**
+
+- ⏳ ↳ MS 1 · @2.20
+
+**22:45 · Brest – Paris**
+
+- ⏳ ↳ MS 2 · @1.99
+- ⏳ ↳ Korner 8.5 Alt · @1.81
+
+**22:45 · Venezia – Bologna**
+
+- ⏳ ↳ MS 2 · @2.04
+
+**22:45 · O.H. Leuven – Kortrijk**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+
+**22:45 · Scunthorpe – Wealdstone**
+
+- ⏳ ↳ MS 2 · @2.55
+
+**23:00 · Levante – Santander**
+
+- ⏳ ↳ MS 1 · @1.85
+
+**23:00 · Nottingham Forest – Chelsea**
+
+- ⏳ ↳ MS 1 · @2.21
+
+**23:00 · Southampton – Middlesbrough**
+
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.92
+
+**23:15 · Maritimo – N. Madeira**
+
+- ⏳ ↳ MS 1 · @1.93
+- ⏳ ↳ Korner 8.5 Alt · @1.93
 
 ## 26.11.2026 Perşembe
 
 **18:30 · K Almaty – Mjallby**
 
-- ⏳ ↳ MS 1 · @2.06
+- ✅ ↳ MS 1 · @2.06 · 1-0
 
 **20:45 · Jablonec – Lugano**
 
@@ -28,6 +92,7 @@
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @1.98
+- ⏳ ↳ Korner 9.5 Üst · @1.73
 
 **20:45 · FC Iberia 1999 – Getafe**
 
@@ -44,6 +109,7 @@
 **20:45 · Ajax – Thun**
 
 - ⏳ ↳ MS 1 & KG Var · @2.01
+- ⏳ ↳ Korner 9.5 Üst · @1.74
 
 **20:45 · Viktoria Plzen – Benfica**
 
@@ -73,6 +139,7 @@
 **20:45 · Brann – AGF Aarhus**
 
 - ⏳ ↳ MS 2 · @2.77
+- ⏳ ↳ MS 1 & 2.5 Üst · @2.75
 
 **20:45 · Celta Vigo – Bournemouth**
 
@@ -85,6 +152,7 @@
 **23:00 · Crystal Palace – Real Sociedad**
 
 - ⏳ ↳ MS 1 · @1.89
+- ⏳ ↳ Korner 9.5 Üst · @1.73
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
@@ -93,6 +161,7 @@
 **23:00 · Hajduk Split – St. Truidense**
 
 - ⏳ ↳ MS 1 · @1.99
+- ⏳ ↳ Korner 9.5 Üst · @1.74
 
 **23:00 · Torreense – Celtic**
 
@@ -125,6 +194,7 @@
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @2.71
 - ⏳ ↳ Korner 9.5 Alt · @1.68
+- ⏳ ↳ MS 2 · @1.92
 
 **23:00 · Doncaster – Huddersfield**
 

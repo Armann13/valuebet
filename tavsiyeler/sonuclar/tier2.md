@@ -2,25 +2,95 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**910/1655 tuttu** (isabet %55, beklenen %59) · -236.19 birim · 99 tahmin sonuç bekliyor
+**910/1656 tuttu** (isabet %55, beklenen %59) · -237.19 birim · 128 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11.2026 Cuma
+
+**20:00 · Rizespor – Kasımpaşa**
+
+- ⏳ MS 1 · @1.74
+- ⏳ En çok korner 1 · @1.58
+
+**20:00 · Alanyaspor – Konyaspor**
+
+- ⏳ ↳ Korner 9.5 Alt · @1.52
+
+**20:30 · Bochum – Darmstadt 98**
+
+- ⏳ MS 1 · @1.64
+- ⏳ ↳ Korner 11.5 Alt · @1.42
+
+**20:30 · Heidenheim – Nürnberg**
+
+- ⏳ ↳ Korner 11.5 Alt · @1.50
+
+**22:00 · Groningen – Willem II**
+
+- ⏳ ↳ MS 1 & 2.5 Üst · @1.74
+- ⏳ ↳ Korner 11.5 Alt · @1.45
+
+**22:30 · Werder Bremen – Monchengladbach**
+
+- ⏳ MS 1 · @1.58
+- ⏳ ↳ Korner 10.5 Alt · @1.40
+
+**22:30 · Leganes – CE Sabadell FC**
+
+- ⏳ En çok korner 2 · @1.96
+
+**22:45 · Scunthorpe – Wealdstone**
+
+- ⏳ ÇŞ X-2 · @1.42
+
+**22:45 · O.H. Leuven – Kortrijk**
+
+- ⏳ MS 1 · @1.76
+- ⏳ ↳ Korner 11.5 Alt · @1.56
+
+**22:45 · Brest – Paris**
+
+- ⏳ Korner 9.5 Alt · @1.46
+
+**22:45 · Venezia – Bologna**
+
+- ⏳ En çok korner 2 · @1.88
+
+**23:00 · Southampton – Middlesbrough**
+
+- ⏳ 2.5 Üst · @1.45
+- ⏳ En çok korner 1 · @2.07
+
+**23:00 · Levante – Santander**
+
+- ⏳ En çok korner 1 · @1.57
+
+**23:00 · Nottingham Forest – Chelsea**
+
+- ⏳ En çok korner 2 · @1.87
+
+**23:15 · Maritimo – N. Madeira**
+
+- ⏳ Korner 9.5 Alt · @1.54
 
 ## 26.11.2026 Perşembe
 
 **18:30 · K Almaty – Mjallby**
 
-- ⏳ ↳ Korner 8.5 Üst · @1.46
+- ❌ ↳ Korner 8.5 Üst · @1.46 · korner 3-5
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
 - ⏳ MS 1 · @1.41
 - ⏳ ↳ Korner 10.5 Alt · @1.40
+- ⏳ Korner 8.5 Üst · @1.41
 
 **20:45 · Hearts – Monaco**
 
 - ⏳ MS 2 · @1.43
 - ⏳ ↳ Korner 10.5 Alt · @1.48
+- ⏳ 2.5 Üst · @1.50
 
 **20:45 · Pafos FC – Midtjylland**
 
@@ -45,6 +115,7 @@
 
 - ⏳ ÇŞ X-2 · @1.52
 - ⏳ ↳ Korner 9.5 Üst · @1.43
+- ⏳ 2.5 Üst · @1.40
 
 **20:45 · Marsilya – Levski Sofya**
 
@@ -59,6 +130,7 @@
 **20:45 · Salzburg – Ararat**
 
 - ⏳ ↳ Korner 10.5 Alt · @1.41
+- ⏳ ↳ Korner 9.5 Alt · @1.67
 
 **20:45 · Beşiktaş – Hapoel Beer Sheva**
 
@@ -67,6 +139,7 @@
 **20:45 · Jablonec – Lugano**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.47
+- ⏳ 2.5 Üst · @1.60
 
 **20:45 · Zalgiris Kaunas – Riga FC**
 
@@ -79,6 +152,7 @@
 **20:45 · Ajax – Thun**
 
 - ⏳ ↳ Korner 9.5 Alt · @1.67
+- ⏳ Korner 8.5 Üst · @1.41
 
 **23:00 · Sunderland – Jagiellonia Bialystok**
 
@@ -89,6 +163,7 @@
 
 - ⏳ KG Yok · @1.54
 - ⏳ ↳ Korner 8.5 Üst · @1.49
+- ⏳ ↳ Korner 9.5 Alt · @1.48
 
 **23:00 · NEC Nijmegen – Rennes**
 
@@ -140,6 +215,7 @@
 **23:00 · Juventus – Omonia**
 
 - ⏳ Korner 8.5 Üst · @1.40
+- ⏳ KG Yok · @1.56
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
@@ -156,6 +232,7 @@
 **23:00 · Hajduk Split – St. Truidense**
 
 - ⏳ ↳ Korner 8.5 Üst · @1.47
+- ⏳ 2.5 Üst · @1.57
 
 **23:00 · Lyon – Lillestrom**
 

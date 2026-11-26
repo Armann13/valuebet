@@ -2,21 +2,94 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**903/1687 tuttu** (isabet %54, beklenen %59) · -260.58 birim · 119 tahmin sonuç bekliyor
+**904/1689 tuttu** (isabet %54, beklenen %59) · -261.36 birim · 154 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11.2026 Cuma
+
+**20:00 · Alanyaspor – Konyaspor**
+
+- ⏳ 🟢 Korner 10.5 Alt · @1.28
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.52
+
+**20:00 · Rizespor – Kasımpaşa**
+
+- ⏳ 🟡 En çok korner 1 · @1.58
+
+**20:30 · Heidenheim – Nürnberg**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.29
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.50
+
+**20:30 · Bochum – Darmstadt 98**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.24
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.42
+
+**22:00 · Groningen – Willem II**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.45
+
+**22:30 · Werder Bremen – Monchengladbach**
+
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
+- ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+
+**22:30 · Leganes – CE Sabadell FC**
+
+- ⏳ 🟡 En çok korner 2 · @1.96
+- ⏳ 2 En çok korner 2 · @1.96
+
+**22:45 · O.H. Leuven – Kortrijk**
+
+- ⏳ 🟢 Korner 12.5 Alt · @1.33
+- ⏳ 🟡 ↳ Korner 11.5 Alt · @1.56
+- ⏳ 3 En çok korner 2 · @2.28
+
+**22:45 · Brest – Paris**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.46
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.81
+- ⏳ 3 En çok korner 1 · @2.34
+
+**22:45 · Venezia – Bologna**
+
+- ⏳ 🟡 En çok korner 2 · @1.88
+- ⏳ 2 En çok korner 2 · @1.88
+
+**23:00 · Levante – Santander**
+
+- ⏳ 🟡 En çok korner 1 · @1.57
+
+**23:00 · Nottingham Forest – Chelsea**
+
+- ⏳ 🟡 En çok korner 2 · @1.87
+
+**23:00 · Southampton – Middlesbrough**
+
+- ⏳ 🟡 En çok korner 1 · @2.07
+- ⏳ 3 En çok korner 1 · @2.07
+
+**23:15 · Maritimo – N. Madeira**
+
+- ⏳ 🟡 Korner 9.5 Alt · @1.54
+- ⏳ 🔴 ↳ Korner 8.5 Alt · @1.93
 
 ## 26.11.2026 Perşembe
 
 **18:30 · K Almaty – Mjallby**
 
-- ⏳ 🟢 Korner 7.5 Üst · @1.22
-- ⏳ 🟡 ↳ Korner 8.5 Üst · @1.46
+- ✅ 🟢 Korner 7.5 Üst · @1.22 · korner 3-5
+- ❌ 🟡 ↳ Korner 8.5 Üst · @1.46 · korner 3-5
 
 **20:45 · Ajax – Thun**
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.20
 - ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
+- ⏳ 🟡 Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.74
 
 **20:45 · Dinamo Zagreb – B. Leverkusen**
 
@@ -28,6 +101,8 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.21
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.40
+- ⏳ 🟡 Korner 8.5 Üst · @1.41
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
 
 **20:45 · Beşiktaş – Hapoel Beer Sheva**
 
@@ -38,6 +113,7 @@
 
 - ⏳ 🟢 Korner 11.5 Alt · @1.22
 - ⏳ 🟡 ↳ Korner 10.5 Alt · @1.41
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.67
 
 **20:45 · Brann – AGF Aarhus**
 
@@ -101,6 +177,7 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.20
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.42
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.73
 
 **23:00 · NEC Nijmegen – Rennes**
 
@@ -131,6 +208,7 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.23
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.47
+- ⏳ 🔴 ↳ Korner 9.5 Üst · @1.74
 
 **23:00 · Hoffenheim – Sturm Graz**
 
@@ -141,6 +219,8 @@
 
 - ⏳ 🟢 Korner 7.5 Üst · @1.25
 - ⏳ 🟡 ↳ Korner 8.5 Üst · @1.49
+- ⏳ 🟢 Korner 10.5 Alt · @1.25
+- ⏳ 🟡 ↳ Korner 9.5 Alt · @1.48
 
 **23:00 · Lyon – Lillestrom**
 
@@ -176,6 +256,7 @@
 
 - ⏳ 🟡 Korner 9.5 Alt · @1.67
 - ⏳ 🔴 ↳ Korner 8.5 Alt · @2.14
+- ⏳ 🟢 Korner 11.5 Alt · @1.20
 
 ## 25.11.2026 Çarşamba
 

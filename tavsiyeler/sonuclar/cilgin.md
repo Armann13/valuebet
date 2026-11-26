@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/180 tuttu** (isabet %12, beklenen %12) · +194.48 birim · 59 tahmin sonuç bekliyor
+**22/180 tuttu** (isabet %12, beklenen %12) · +194.48 birim · 63 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 26.11 20:05 gönderilen kupon · 4 maç, oran 197.382,26
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · İY/MS 1/2 · @20.25
+- ⏳ 26.11 23:00 Doncaster – Huddersfield · İY/MS 1/2 · @21.40
+- ⏳ 26.11 23:00 Torreense – Celtic · İY/MS 1/2 · @19.30
+- ⏳ 27.11 23:00 Southampton – Middlesbrough · İY/MS 1/2 · @23.60
 
 ## 25.11 11:48 gönderilen kupon · 4 maç, oran 136.930,86
 
