@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**21/171 tuttu** (isabet %12, beklenen %13) · +182.48 birim · 68 tahmin sonuç bekliyor
+**22/180 tuttu** (isabet %12, beklenen %12) · +194.48 birim · 59 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,37 +10,37 @@
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 25.11 22:00 Boreham Wood – Aldershot · İY/MS 2/1 · @18.65
+- ❌ 25.11 22:00 Boreham Wood – Aldershot · İY/MS 2/1 · @18.65 · İY 2-1, MS 4-1
 - ⏳ 25.11 23:00 Club Brugge – Liverpool · İY/MS 1/2 · @17.70
 - ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · İY/MS 1/2 · @19.80
 - ⏳ 26.11 23:00 Doncaster – Huddersfield · İY/MS 1/2 · @20.95
 
 ## 24.11 16:55 gönderilen kupon · 4 maç, oran 202.862,01
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ⏳ 24.11 22:00 Benevento – Empoli · İY/MS 2/1 · @22.70
-- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.35
-- ⏳ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @23.15
-- ⏳ 25.11 22:00 Boreham Wood – Aldershot · İY/MS 2/1 · @19.95
+- ❌ 24.11 22:00 Benevento – Empoli · İY/MS 2/1 · @22.70 · İY 2-0, MS 5-0
+- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.35 · İY 0-2, MS 0-4
+- ❌ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @23.15 · İY 1-0, MS 3-0
+- ❌ 25.11 22:00 Boreham Wood – Aldershot · İY/MS 2/1 · @19.95 · İY 2-1, MS 4-1
 
 ## 23.11 21:49 gönderilen kupon · 4 maç, oran 183.256,67
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
-- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40
-- ⏳ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40
-- ⏳ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05
-- ⏳ 24.11 23:00 Rangers – Aberdeen · İY/MS 2/1 · @21.00
+- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40 · İY 0-2, MS 0-4
+- ❌ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40 · İY 1-1, MS 2-1
+- ❌ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05 · İY 1-0, MS 3-0
+- ✅ 24.11 23:00 Rangers – Aberdeen · İY/MS 2/1 · @21.00 · İY 0-1, MS 3-2
 
 ## 23.11 16:06 gönderilen kupon · 4 maç, oran 171.912,21
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/4 maç tuttu
 
-- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40
-- ⏳ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40
-- ❌ 24.11 22:45 Scunthorpe – Gateshead · İY/MS 2/1 · @19.70
-- ⏳ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05
+- ❌ 24.11 22:45 Cardiff City – Preston · İY/MS 2/1 · @19.40 · İY 0-2, MS 0-4
+- ❌ 24.11 22:45 Middlesbrough – Swansea City · İY/MS 2/1 · @20.40 · İY 1-1, MS 2-1
+- ❌ 24.11 22:45 Scunthorpe – Gateshead · İY/MS 2/1 · @19.70 · İY 1-1, MS 1-2
+- ❌ 24.11 23:00 Wolverhampton – Derby County · İY/MS 2/1 · @22.05 · İY 1-0, MS 3-0
 
 ## 22.11 22:50 gönderilen kupon · 4 maç, oran 457.545,69
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**240/872 tuttu** (isabet %28, beklenen %28) · -112.58 birim · 58 tahmin sonuç bekliyor
+**241/874 tuttu** (isabet %28, beklenen %28) · -110.66 birim · 56 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -99,7 +99,7 @@
 
 **21:00 · Cremonese – AS Avellino 1912**
 
-- ❌ ↳ İY/MS 1/1 · @2.85
+- ❌ ↳ İY/MS 1/1 · @2.85 · İY 0-0, MS 0-1
 
 **22:00 · AC Pisa – Modena FC**
 
@@ -111,8 +111,8 @@
 
 **22:00 · Padova – Sampdoria**
 
-- ⏳ ↳ İY/MS 2/2 · @3.44
-- ❌ ↳ İY/MS 1/1 · @4.71
+- ❌ ↳ İY/MS 2/2 · @3.44 · İY 1-1, MS 1-2
+- ❌ ↳ İY/MS 1/1 · @4.71 · İY 1-1, MS 1-2
 
 **22:45 · Hartlepool – Solihull Moors**
 
@@ -175,7 +175,7 @@
 
 **22:00 · Virtus Entella – Hellas Verona**
 
-- ❌ ↳ İY/MS 2/2 · @3.28
+- ❌ ↳ İY/MS 2/2 · @3.28 · İY 1-1, MS 2-1
 
 **22:00 · AC Cesena – Ascoli**
 
@@ -184,7 +184,7 @@
 
 **22:00 · LR Vicenza Virtus – Carrarese Calcio 1908**
 
-- ⏳ ↳ İY/MS 2/2 · @3.92
+- ✅ ↳ İY/MS 2/2 · @3.92 · İY 0-1, MS 0-1
 
 **22:45 · Bradford – Barnsley**
 
@@ -241,7 +241,7 @@
 
 **22:45 · Bristol City – Wrexham**
 
-- ❌ ↳ İY/MS 1/1 · @3.51
+- ❌ ↳ İY/MS 1/1 · @3.51 · İY 0-1, MS 1-1
 
 **22:45 · Boston United – Barrow**
 
@@ -254,11 +254,11 @@
 
 **22:45 · Charlton – Lincoln City**
 
-- ❌ ↳ İY/MS 2/2 · @3.92
+- ❌ ↳ İY/MS 2/2 · @3.92 · İY 2-0, MS 4-0
 
 **22:45 · Port Vale – Northampton**
 
-- ❌ ↳ İY/MS 1/1 · @3.46
+- ❌ ↳ İY/MS 1/1 · @3.46 · İY 0-0, MS 1-1
 
 **23:00 · Feyenoord – Porto**
 

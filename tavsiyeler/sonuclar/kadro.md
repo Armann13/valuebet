@@ -6,10 +6,10 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2184 | 2170 | 1101 | -220.99 |
+| önce | 2184 | 2171 | 1101 | -221.99 |
 | sonra | 1799 | 1788 | 895 | -190.05 |
 
-Değişen tahmin: 480 (473 sonuçlandı: eski 340, yeni 266 tuttu).
+Değişen tahmin: 480 (474 sonuçlandı: eski 340, yeni 266 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
 
@@ -123,7 +123,7 @@ Kadro mesajı: 25.11 21:37
 - 🟢 Tier 1: ✅ ÇŞ 1-2 @1.23, ✅ Korner 11.5 Alt @1.20, ✅ ÇŞ X-2 @1.23 → ✅ Korner 11.5 Alt @1.20 (değişti)
 - 🟡 Tier 2: ✅ Korner 9.5 Alt @1.67, ❌ ÇŞ 1-X @1.42 → ❌ ÇŞ 1-X @1.45, ✅ Korner 9.5 Alt @1.67 (aynı)
 - 🔴 Tier 3: ✅ MS 2 @2.14, ❌ MS 1 @2.79 → ❌ MS 1 @2.96 (değişti)
-- 🟣 Tier 4: ⏳ İY/MS 2/2 @3.44, ❌ İY/MS 1/1 @4.71 → ❌ İY/MS 1/1 @5.03 (değişti)
+- 🟣 Tier 4: ❌ İY/MS 2/2 @3.44, ❌ İY/MS 1/1 @4.71 → ❌ İY/MS 1/1 @5.03 (değişti)
 
 ## 24.11 · Como 1907 – AEK Athens
 
