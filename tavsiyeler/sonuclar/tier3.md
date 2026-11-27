@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**559/1342 tuttu** (isabet %42, beklenen %40) · -90.32 birim · 190 tahmin sonuç bekliyor
+**565/1360 tuttu** (isabet %42, beklenen %40) · -94.77 birim · 176 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -41,6 +41,7 @@
 
 - ⏳ ↳ MS 2 & KG Var · @3.15
 - ⏳ ↳ Korner 9.5 Alt · @1.80
+- ⏳ ↳ MS 2 & 2.5 Üst · @2.18
 
 **15:30 · Peterborough – Cambridge**
 
@@ -257,6 +258,7 @@
 **18:00 · Wigan Athletic – Plymouth**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.30
+- ⏳ ↳ MS 1 & 2.5 Üst · @3.33
 
 **18:00 · Walsall – Northampton**
 
@@ -379,6 +381,7 @@
 **22:45 · Le Havre – Strasbourg**
 
 - ⏳ ↳ MS 2 & 2.5 Üst · @3.01
+- ⏳ ↳ MS 2 · @2.04
 
 **22:45 · Lommel SK – Zulte Waregem**
 
@@ -405,62 +408,63 @@
 
 **20:00 · Alanyaspor – Konyaspor**
 
-- ⏳ ↳ MS 1 · @2.33
-- ⏳ ↳ MS 2 · @2.45
+- ❌ ↳ MS 1 · @2.33 · 1-2
+- ✅ ↳ MS 2 · @2.45 · 1-2
 
 **20:00 · Rizespor – Kasımpaşa**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.54
+- ✅ ↳ MS 1 & 2.5 Üst · @2.54 · 3-2
 
 **20:30 · Bochum – Darmstadt 98**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.29
+- ❌ ↳ MS 1 & 2.5 Üst · @2.29 · 2-0
 
 **20:30 · Heidenheim – Nürnberg**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+- ✅ ↳ MS 1 & 2.5 Üst · @2.49 · 3-1
+- ❌ ↳ MS 2 · @2.63 · 3-1
 
 **22:00 · Groningen – Willem II**
 
-- ⏳ ↳ MS 1 & KG Var · @2.50
-- ⏳ ↳ Korner 9.5 Alt · @2.05
+- ❌ ↳ MS 1 & KG Var · @2.50 · 1-1
+- ✅ ↳ Korner 9.5 Alt · @2.05 · korner 6-1
 
 **22:30 · Werder Bremen – Monchengladbach**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.13
+- ❌ ↳ MS 1 & 2.5 Üst · @2.13 · 3-3
 
 **22:30 · Leganes – CE Sabadell FC**
 
-- ⏳ ↳ MS 1 · @2.20
+- ❌ ↳ MS 1 · @2.20 · 0-0
 
 **22:45 · Brest – Paris**
 
-- ⏳ ↳ MS 2 · @1.99
-- ⏳ ↳ Korner 8.5 Alt · @1.81
+- ❌ ↳ MS 2 · @1.99 · 1-0
+- ✅ ↳ Korner 8.5 Alt · @1.81 · korner 3-5
 
 **22:45 · Venezia – Bologna**
 
-- ⏳ ↳ MS 2 · @2.04
+- ❌ ↳ MS 2 · @2.04 · 0-0
 
 **22:45 · O.H. Leuven – Kortrijk**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.49
+- ❌ ↳ MS 1 & 2.5 Üst · @2.49 · 2-2
 
 **22:45 · Scunthorpe – Wealdstone**
 
-- ⏳ ↳ MS 2 · @2.55
+- ❌ ↳ MS 2 · @2.55 · 4-1
 
 **23:00 · Levante – Santander**
 
-- ⏳ ↳ MS 1 · @1.85
+- ❌ ↳ MS 1 · @1.85 · 1-3
 
 **23:00 · Nottingham Forest – Chelsea**
 
-- ⏳ ↳ MS 1 · @2.21
+- ✅ ↳ MS 1 · @2.21 · 3-2
 
 **23:00 · Southampton – Middlesbrough**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.92
+- ❌ ↳ MS 2 & 2.5 Üst · @2.92 · 2-0
 
 **23:15 · Maritimo – N. Madeira**
 

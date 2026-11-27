@@ -6,12 +6,99 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2264 | 2251 | 1155 | -200.91 |
-| sonra | 1863 | 1852 | 940 | -167.95 |
+| önce | 2314 | 2301 | 1176 | -216.61 |
+| sonra | 1904 | 1893 | 957 | -177.38 |
 
-Değişen tahmin: 500 (494 sonuçlandı: eski 356, yeni 279 tuttu).
+Değişen tahmin: 510 (504 sonuçlandı: eski 365, yeni 286 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 27.11 · Venezia – Bologna
+
+Kadro mesajı: 27.11 22:20
+
+- 🟢 Tier 1: ❌ ÇŞ 1-2 @1.23 → ❌ ÇŞ 1-2 @1.25 (aynı)
+- 🟡 Tier 2: ✅ En çok korner 2 @1.88 → ✅ En çok korner 2 @1.79 (aynı)
+- 🔴 Tier 3: ❌ MS 2 @2.04 → ❌ MS 2 @2.26 (aynı)
+- 🟣 Tier 4: ❌ İY/MS 2/2 @3.23 → ❌ İY/MS 2/2 @3.68 (aynı)
+
+## 27.11 · Brest – Paris
+
+Kadro mesajı: 27.11 22:05
+
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21 → ✅ ÇŞ 1-2 @1.20 (aynı)
+- 🟡 Tier 2: ✅ Korner 9.5 Alt @1.46 → ✅ Korner 9.5 Alt @1.44 (aynı)
+- 🔴 Tier 3: ❌ MS 2 @1.99, ✅ Korner 8.5 Alt @1.81 → ❌ MS 2 @2.00, ✅ Korner 8.5 Alt @1.78 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & 2.5 Üst @3.20 → ❌ MS 2 & 2.5 Üst @3.21 (aynı)
+
+## 27.11 · Levante – Santander
+
+Kadro mesajı: 27.11 22:05
+
+- 🟢 Tier 1: ❌ ÇŞ 1-X @1.21, ✅ 2.5 Üst @1.29 → ❌ ÇŞ 1-X @1.21 (değişti)
+- 🟡 Tier 2: ✅ En çok korner 1 @1.57 → ✅ En çok korner 1 @1.56 (aynı)
+- 🔴 Tier 3: ❌ MS 1 @1.85 → ❌ MS 1 @1.82 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & 2.5 Üst @2.43, ❌ MS 1 & KG Var @2.90 → ❌ İY/MS 1/1 @2.71 (değişti)
+
+## 27.11 · Nottingham Forest – Chelsea
+
+Kadro mesajı: 27.11 22:05
+
+- 🟢 Tier 1: ✅ ÇŞ 1-2 @1.21 → — (kalktı)
+- 🟡 Tier 2: ✅ En çok korner 2 @1.87 → ✅ 2.5 Üst @1.62, ✅ En çok korner 2 @1.92 (değişti)
+- 🔴 Tier 3: ✅ MS 1 @2.21 → ✅ MS 1 & 2.5 Üst @3.41 (değişti)
+- 🟣 Tier 4: ✅ MS 1 & 2.5 Üst @3.38 → ✅ MS 1 & KG Var @4.19 (değişti)
+
+## 27.11 · O.H. Leuven – Kortrijk
+
+Kadro mesajı: 27.11 22:05
+
+- 🟢 Tier 1: ✅ Korner 12.5 Alt @1.33, ✅ ÇŞ 1-X @1.20 → ✅ Korner 12.5 Alt @1.25 (değişti)
+- 🟡 Tier 2: ❌ MS 1 @1.76, ✅ Korner 11.5 Alt @1.56, ✅ 2.5 Üst @1.54 → ✅ 2.5 Üst @1.54, ✅ Korner 11.5 Alt @1.44 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.49 → ❌ MS 1 & 2.5 Üst @2.74 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @3.20 → ❌ MS 1 & KG Var @3.48 (aynı)
+
+## 27.11 · Scunthorpe – Wealdstone
+
+Kadro mesajı: 27.11 22:05
+
+- 🟡 Tier 2: ❌ ÇŞ X-2 @1.42 → ❌ ÇŞ X-2 @1.42 (aynı)
+- 🔴 Tier 3: ❌ MS 2 @2.55 → ❌ MS 2 @2.55 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & 2.5 Üst @3.44 → ❌ MS 2 & 2.5 Üst @3.62 (aynı)
+
+## 27.11 · Southampton – Middlesbrough
+
+Kadro mesajı: 27.11 22:05
+
+- 🟡 Tier 2: ❌ 2.5 Üst @1.45, ❌ En çok korner 1 @2.07 → ❌ 2.5 Üst @1.44, ❌ En çok korner 1 @2.07 (aynı)
+- 🔴 Tier 3: ❌ MS 2 & 2.5 Üst @2.92 → ❌ MS 2 & 2.5 Üst @2.87 (aynı)
+- 🟣 Tier 4: ❌ MS 2 & KG Var @3.57 → ❌ MS 2 & KG Var @3.52 (aynı)
+
+## 27.11 · Leganes – CE Sabadell FC
+
+Kadro mesajı: 27.11 21:40
+
+- 🟢 Tier 1: ✅ ÇŞ 1-X @1.24 → — (kalktı)
+- 🟡 Tier 2: ✅ En çok korner 2 @1.96 → ✅ KG Yok @1.63, ✅ En çok korner 2 @1.98 (değişti)
+- 🔴 Tier 3: ❌ MS 1 @2.20 → — (kalktı)
+- 🟣 Tier 4: ❌ İY/MS 1/1 @3.60 → — (kalktı)
+
+## 27.11 · Werder Bremen – Monchengladbach
+
+Kadro mesajı: 27.11 21:40
+
+- 🟢 Tier 1: ✅ Korner 11.5 Alt @1.20 → ✅ Korner 11.5 Alt @1.22 (aynı)
+- 🟡 Tier 2: ❌ MS 1 @1.58, ❌ Korner 10.5 Alt @1.40 → ❌ MS 1 @1.58, ❌ Korner 10.5 Alt @1.41 (aynı)
+- 🔴 Tier 3: ❌ MS 1 & 2.5 Üst @2.13 → ❌ MS 1 & 2.5 Üst @2.14 (aynı)
+- 🟣 Tier 4: ❌ MS 1 & KG Var @2.79 → ❌ MS 1 & KG Var @2.81 (aynı)
+
+## 27.11 · Groningen – Willem II
+
+Kadro mesajı: 27.11 21:16
+
+- 🟢 Tier 1: ❌ MS 1 @1.31, ✅ Korner 12.5 Alt @1.25, ❌ 2.5 Üst @1.31 → ❌ 2.5 Üst @1.30 (değişti)
+- 🟡 Tier 2: ❌ MS 1 & 2.5 Üst @1.74, ✅ Korner 11.5 Alt @1.45, ✅ Korner 10.5 Alt @1.63 → ❌ MS 1 & 2.5 Üst @1.50, ✅ Korner 10.5 Alt @1.60 (değişti)
+- 🔴 Tier 3: ❌ MS 1 & KG Var @2.50, ✅ Korner 9.5 Alt @2.05 → ❌ MS 1 & KG Var @2.38, ✅ Korner 9.5 Alt @2.00 (aynı)
 
 ## 26.11 · Banja Luka – Atalanta
 

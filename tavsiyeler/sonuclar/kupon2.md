@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/78 tuttu** (isabet %42, beklenen %51) · -10.04 birim · 6 tahmin sonuç bekliyor
+**35/80 tuttu** (isabet %44, beklenen %51) · -8.20 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -15,10 +15,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 26.11 20:05 gönderilen kupon · 2 maç, oran 3,68
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+✅ TUTTU! 1 birim → 3,68 birim
 
-- ⏳ 27.11 22:30 Leganes – CE Sabadell FC · En çok korner 2 · @1.96
-- ⏳ 27.11 22:45 Venezia – Bologna · En çok korner 2 · @1.88
+- ✅ 27.11 22:30 Leganes – CE Sabadell FC · En çok korner 2 · @1.96 · korner 5-9
+- ✅ 27.11 22:45 Venezia – Bologna · En çok korner 2 · @1.88 · korner 3-6
 
 ## 25.11 11:48 gönderilen kupon · 2 maç, oran 4,36
 

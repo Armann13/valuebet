@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**139/1233 tuttu** (isabet %11, beklenen %11) · -221.11 birim · 163 tahmin sonuç bekliyor
+**139/1249 tuttu** (isabet %11, beklenen %11) · -237.11 birim · 149 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -227,6 +227,7 @@
 **18:00 · Wigan Athletic – Plymouth**
 
 - ⏳ 1-2 · @7.51
+- ⏳ 2-1 · @7.56
 
 **18:00 · Manchester United – Brentford**
 
@@ -396,60 +397,61 @@
 
 **20:00 · Rizespor – Kasımpaşa**
 
-- ⏳ 2-1 · @7.44
+- ❌ 2-1 · @7.44 · 3-2
 
 **20:00 · Alanyaspor – Konyaspor**
 
-- ⏳ 1-0 · @7.09
-- ⏳ 0-1 · @6.74
+- ❌ 1-0 · @7.09 · 1-2
+- ❌ 0-1 · @6.74 · 1-2
 
 **20:30 · Bochum – Darmstadt 98**
 
-- ⏳ 2-1 · @7.40
+- ❌ 2-1 · @7.40 · 2-0
 
 **20:30 · Heidenheim – Nürnberg**
 
-- ⏳ 2-1 · @8.60
+- ❌ 2-1 · @8.60 · 3-1
+- ❌ 1-2 · @9.57 · 3-1
 
 **22:00 · Groningen – Willem II**
 
-- ⏳ 2-1 · @7.29
+- ❌ 2-1 · @7.29 · 1-1
 
 **22:30 · Leganes – CE Sabadell FC**
 
-- ⏳ 1-0 · @5.82
+- ❌ 1-0 · @5.82 · 0-0
 
 **22:30 · Werder Bremen – Monchengladbach**
 
-- ⏳ 2-1 · @7.35
+- ❌ 2-1 · @7.35 · 3-3
 
 **22:45 · O.H. Leuven – Kortrijk**
 
-- ⏳ 2-1 · @7.58
+- ❌ 2-1 · @7.58 · 2-2
 
 **22:45 · Venezia – Bologna**
 
-- ⏳ 0-1 · @6.44
+- ❌ 0-1 · @6.44 · 0-0
 
 **22:45 · Brest – Paris**
 
-- ⏳ 1-2 · @7.92
+- ❌ 1-2 · @7.92 · 1-0
 
 **22:45 · Scunthorpe – Wealdstone**
 
-- ⏳ 1-2 · @8.36
+- ❌ 1-2 · @8.36 · 4-1
 
 **23:00 · Southampton – Middlesbrough**
 
-- ⏳ 1-2 · @8.08
+- ❌ 1-2 · @8.08 · 2-0
 
 **23:00 · Levante – Santander**
 
-- ⏳ 2-1 · @7.96
+- ❌ 2-1 · @7.96 · 1-3
 
 **23:00 · Nottingham Forest – Chelsea**
 
-- ⏳ 2-1 · @8.32
+- ❌ 2-1 · @8.32 · 3-2
 
 **23:15 · Maritimo – N. Madeira**
 

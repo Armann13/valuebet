@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/123 tuttu** (isabet %33, beklenen %39) · -16.79 birim · 9 tahmin sonuç bekliyor
+**41/126 tuttu** (isabet %33, beklenen %39) · -19.79 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -16,11 +16,11 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 26.11 20:05 gönderilen kupon · 3 maç, oran 11,04
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+❌ 0/3 maç tuttu
 
-- ⏳ 27.11 22:45 Brest – Paris · En çok korner 1 · @2.34
-- ⏳ 27.11 22:45 O.H. Leuven – Kortrijk · En çok korner 2 · @2.28
-- ⏳ 27.11 23:00 Southampton – Middlesbrough · En çok korner 1 · @2.07
+- ❌ 27.11 22:45 Brest – Paris · En çok korner 1 · @2.34 · korner 3-5
+- ❌ 27.11 22:45 O.H. Leuven – Kortrijk · En çok korner 2 · @2.28 · korner 9-2
+- ❌ 27.11 23:00 Southampton – Middlesbrough · En çok korner 1 · @2.07 · korner 6-6
 
 ## 25.11 20:41 gönderilen kupon · 3 maç, oran 13,17
 

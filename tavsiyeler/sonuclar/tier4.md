@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**253/895 tuttu** (isabet %28, beklenen %28) · -92.71 birim · 128 tahmin sonuç bekliyor
+**256/910 tuttu** (isabet %28, beklenen %28) · -98.05 birim · 116 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -63,6 +63,7 @@
 **17:30 · Köln – Elversberg**
 
 - ⏳ ↳ MS 1 & 2.5 Üst · @2.62
+- ⏳ ↳ MS 1 & KG Var · @3.33
 
 **17:30 · Paderborn – Schalke 04**
 
@@ -191,6 +192,7 @@
 **18:00 · Wigan Athletic – Plymouth**
 
 - ⏳ ↳ MS 2 & KG Var · @3.98
+- ⏳ ↳ MS 1 & KG Var · @4.01
 
 **18:00 · Walsall – Northampton**
 
@@ -296,57 +298,58 @@
 
 **20:00 · Rizespor – Kasımpaşa**
 
-- ⏳ ↳ MS 1 & KG Var · @3.30
+- ✅ ↳ MS 1 & KG Var · @3.30 · 3-2
 
 **20:00 · Alanyaspor – Konyaspor**
 
-- ⏳ ↳ İY/MS 1/1 · @3.81
+- ❌ ↳ İY/MS 1/1 · @3.81
 - ⏳ ↳ İY/MS 2/2 · @4.06
 
 **20:30 · Bochum – Darmstadt 98**
 
-- ⏳ ↳ MS 1 & KG Var · @2.99
+- ❌ ↳ MS 1 & KG Var · @2.99 · 2-0
 
 **20:30 · Heidenheim – Nürnberg**
 
-- ⏳ ↳ MS 1 & KG Var · @2.98
+- ✅ ↳ MS 1 & KG Var · @2.98 · 3-1
+- ❌ ↳ MS 2 & 2.5 Üst · @3.52 · 3-1
 
 **22:30 · Werder Bremen – Monchengladbach**
 
-- ⏳ ↳ MS 1 & KG Var · @2.79
+- ❌ ↳ MS 1 & KG Var · @2.79 · 3-3
 
 **22:30 · Leganes – CE Sabadell FC**
 
-- ⏳ ↳ İY/MS 1/1 · @3.60
+- ❌ ↳ İY/MS 1/1 · @3.60
 
 **22:45 · Brest – Paris**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.20
+- ❌ ↳ MS 2 & 2.5 Üst · @3.20 · 1-0
 
 **22:45 · O.H. Leuven – Kortrijk**
 
-- ⏳ ↳ MS 1 & KG Var · @3.20
+- ❌ ↳ MS 1 & KG Var · @3.20 · 2-2
 
 **22:45 · Venezia – Bologna**
 
-- ⏳ ↳ İY/MS 2/2 · @3.23
+- ❌ ↳ İY/MS 2/2 · @3.23
 
 **22:45 · Scunthorpe – Wealdstone**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.44
+- ❌ ↳ MS 2 & 2.5 Üst · @3.44 · 4-1
 
 **23:00 · Levante – Santander**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.43
-- ⏳ ↳ MS 1 & KG Var · @2.90
+- ❌ ↳ MS 1 & 2.5 Üst · @2.43 · 1-3
+- ❌ ↳ MS 1 & KG Var · @2.90 · 1-3
 
 **23:00 · Southampton – Middlesbrough**
 
-- ⏳ ↳ MS 2 & KG Var · @3.57
+- ❌ ↳ MS 2 & KG Var · @3.57 · 2-0
 
 **23:00 · Nottingham Forest – Chelsea**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.38
+- ✅ ↳ MS 1 & 2.5 Üst · @3.38 · 3-2
 
 **23:15 · Maritimo – N. Madeira**
 

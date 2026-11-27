@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**723/1023 tuttu** (isabet %71, beklenen %74) · -127.22 birim · 131 tahmin sonuç bekliyor
+**735/1040 tuttu** (isabet %71, beklenen %74) · -129.25 birim · 116 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -105,6 +105,10 @@
 
 - ⏳ Korner 11.5 Alt · @1.21
 
+**18:00 · Carlisle – Sutton United**
+
+- ⏳ MS 1 · @1.31
+
 **18:15 · Club Deportivo Eldense – Girona**
 
 - ⏳ ÇŞ 1-2 · @1.21
@@ -174,6 +178,7 @@
 **22:45 · Le Havre – Strasbourg**
 
 - ⏳ Korner 10.5 Alt · @1.27
+- ⏳ ÇŞ 1-2 · @1.20
 
 **23:00 · SC Cambuur – Sparta Rotterdam**
 
@@ -192,53 +197,53 @@
 
 **20:00 · Alanyaspor – Konyaspor**
 
-- ⏳ ÇŞ 1-2 · @1.22
-- ⏳ Korner 10.5 Alt · @1.28
+- ✅ ÇŞ 1-2 · @1.22 · 1-2
+- ✅ Korner 10.5 Alt · @1.28 · korner 3-3
 
 **20:30 · Heidenheim – Nürnberg**
 
-- ⏳ 2.5 Üst · @1.25
-- ⏳ Korner 12.5 Alt · @1.29
+- ✅ 2.5 Üst · @1.25 · 3-1
+- ✅ Korner 12.5 Alt · @1.29 · korner 4-5
 
 **20:30 · Bochum – Darmstadt 98**
 
-- ⏳ Korner 12.5 Alt · @1.24
+- ❌ Korner 12.5 Alt · @1.24 · korner 10-7
 
 **22:00 · Groningen – Willem II**
 
-- ⏳ MS 1 · @1.31
-- ⏳ Korner 12.5 Alt · @1.25
-- ⏳ 2.5 Üst · @1.31
+- ❌ MS 1 · @1.31 · 1-1
+- ✅ Korner 12.5 Alt · @1.25 · korner 6-1
+- ❌ 2.5 Üst · @1.31 · 1-1
 
 **22:30 · Leganes – CE Sabadell FC**
 
-- ⏳ ÇŞ 1-X · @1.24
+- ✅ ÇŞ 1-X · @1.24 · 0-0
 
 **22:30 · Werder Bremen – Monchengladbach**
 
-- ⏳ Korner 11.5 Alt · @1.20
+- ✅ Korner 11.5 Alt · @1.20 · korner 7-4
 
 **22:45 · Brest – Paris**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 1-0
 
 **22:45 · Venezia – Bologna**
 
-- ⏳ ÇŞ 1-2 · @1.23
+- ❌ ÇŞ 1-2 · @1.23 · 0-0
 
 **22:45 · O.H. Leuven – Kortrijk**
 
-- ⏳ Korner 12.5 Alt · @1.33
-- ⏳ ÇŞ 1-X · @1.20
+- ✅ Korner 12.5 Alt · @1.33 · korner 9-2
+- ✅ ÇŞ 1-X · @1.20 · 2-2
 
 **23:00 · Nottingham Forest – Chelsea**
 
-- ⏳ ÇŞ 1-2 · @1.21
+- ✅ ÇŞ 1-2 · @1.21 · 3-2
 
 **23:00 · Levante – Santander**
 
-- ⏳ ÇŞ 1-X · @1.21
-- ⏳ 2.5 Üst · @1.29
+- ❌ ÇŞ 1-X · @1.21 · 1-3
+- ✅ 2.5 Üst · @1.29 · 1-3
 
 **23:15 · Maritimo – N. Madeira**
 
