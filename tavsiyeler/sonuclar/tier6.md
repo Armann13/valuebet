@@ -2,9 +2,395 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**139/1233 tuttu** (isabet %11, beklenen %11) · -221.11 birim · 66 tahmin sonuç bekliyor
+**139/1233 tuttu** (isabet %11, beklenen %11) · -221.11 birim · 163 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11.2026 Cumartesi
+
+**15:00 · Hertha Berlin – Karlsruhe**
+
+- ⏳ 2-1 · @7.60
+
+**15:00 · Dynamo Dresden – Saint Pauli**
+
+- ⏳ 1-2 · @8.45
+
+**15:00 · Holstein Kiel – Kaiserslautern**
+
+- ⏳ 2-1 · @8.10
+
+**15:30 · Preston – Norwich City**
+
+- ⏳ 1-2 · @7.34
+
+**15:30 · Lincoln City – Wolverhampton**
+
+- ⏳ 1-2 · @7.22
+
+**15:30 · Blackburn Rovers – Charlton**
+
+- ⏳ 1-0 · @6.35
+
+**15:30 · Peterborough – Cambridge**
+
+- ⏳ 2-1 · @7.13
+
+**15:30 · MK Dons – Notts County**
+
+- ⏳ 2-1 · @6.56
+
+**15:30 · Exeter City – Crawley Town**
+
+- ⏳ 2-1 · @6.58
+
+**15:30 · Bristol Rovers – Tranmere**
+
+- ⏳ 2-1 · @6.69
+
+**15:30 · Woking – Barrow**
+
+- ⏳ 1-2 · @7.36
+
+**16:00 · Real Betis – Vallecano**
+
+- ⏳ 2-1 · @7.19
+
+**16:00 · Samsunspor – Gençlerbirliği**
+
+- ⏳ 2-1 · @7.45
+
+**16:00 · Las Palmas – FC Andorra**
+
+- ⏳ 2-1 · @7.87
+
+**17:00 · Empoli – Hellas Verona**
+
+- ⏳ 1-2 · @7.38
+
+**17:00 · Ascoli – Virtus Entella**
+
+- ⏳ 1-0 · @6.02
+
+**17:00 · Carrarese Calcio 1908 – Juve Stabia**
+
+- ⏳ 2-1 · @7.96
+
+**17:30 · Mainz – Union Berlin**
+
+- ⏳ 2-1 · @7.19
+
+**17:30 · Köln – Elversberg**
+
+- ⏳ 2-1 · @7.65
+
+**17:30 · Hamburg – Bayern Münih**
+
+- ⏳ 1-2 · @7.95
+
+**17:30 · Paderborn – Schalke 04**
+
+- ⏳ 2-1 · @8.57
+
+**18:00 · Luton Town – Oxford**
+
+- ⏳ 2-1 · @6.45
+
+**18:00 · Dundee Utd – St Johnstone**
+
+- ⏳ 2-1 · @7.39
+
+**18:00 · Rangers – Falkirk**
+
+- ⏳ 2-1 · @8.10
+
+**18:00 · Leicester City – Mansfield**
+
+- ⏳ 2-1 · @6.42
+
+**18:00 · Salford City – Gillingham**
+
+- ⏳ 2-1 · @6.31
+
+**18:00 · Volos – Asteras Tripolis**
+
+- ⏳ 1-1 · @4.60
+
+**18:00 · Shrewsbury – Cheltenham**
+
+- ⏳ 1-0 · @5.30
+
+**18:00 · Swindon Town – Chesterfield**
+
+- ⏳ 1-2 · @6.56
+
+**18:00 · Wrexham – Portsmouth**
+
+- ⏳ 1-0 · @5.55
+
+**18:00 · POT Iraklis – Paneitolikos**
+
+- ⏳ 1-0 · @4.90
+
+**18:00 · Rochdale – Barnet**
+
+- ⏳ 1-2 · @6.58
+
+**18:00 · Forest Green – Tamworth**
+
+- ⏳ 2-1 · @6.61
+
+**18:00 · Port Vale – Newport**
+
+- ⏳ 1-0 · @5.21
+
+**18:00 · Stevenage – Blackpool**
+
+- ⏳ 2-1 · @6.54
+
+**18:00 · Harrogate – Yeovil Town**
+
+- ⏳ 2-1 · @6.47
+
+**18:00 · Leeds United – Coventry**
+
+- ⏳ 2-1 · @7.16
+
+**18:00 · West Bromwich – Bristol City**
+
+- ⏳ 2-1 · @7.27
+
+**18:00 · Eastleigh – Halifax Town**
+
+- ⏳ 1-2 · @6.62
+
+**18:00 · Carlisle – Sutton United**
+
+- ⏳ 2-1 · @6.37
+
+**18:00 · Boston United – Kidderminster Harriers**
+
+- ⏳ 2-1 · @6.88
+
+**18:00 · Colchester – York City**
+
+- ⏳ 1-2 · @7.09
+
+**18:00 · Fleetwood – Accrington**
+
+- ⏳ 1-1 · @4.85
+
+**18:00 · Crewe Alexandra – Grimsby Town**
+
+- ⏳ 1-2 · @6.84
+
+**18:00 · Aberdeen – Dundee**
+
+- ⏳ 2-1 · @7.43
+
+**18:00 · Millwall – Burnley**
+
+- ⏳ 2-1 · @7.84
+
+**18:00 · Wimbledon – Barnsley**
+
+- ⏳ 1-2 · @7.32
+
+**18:00 · Birmingham – Bolton**
+
+- ⏳ 2-1 · @7.18
+
+**18:00 · St Mirren – Kilmarnock**
+
+- ⏳ 2-1 · @8.02
+
+**18:00 · Queens Park Rangers – Sheffield United**
+
+- ⏳ 2-1 · @7.57
+
+**18:00 · Rotherham – Oldham**
+
+- ⏳ 1-2 · @7.50
+
+**18:00 · West Ham – Stoke City**
+
+- ⏳ 2-1 · @7.16
+
+**18:00 · Hornchurch – Solihull Moors**
+
+- ⏳ 2-1 · @6.92
+
+**18:00 · Wycombe – Bradford**
+
+- ⏳ 2-1 · @6.96
+
+**18:00 · Wigan Athletic – Plymouth**
+
+- ⏳ 1-2 · @7.51
+
+**18:00 · Manchester United – Brentford**
+
+- ⏳ 2-1 · @7.96
+
+**18:00 · Bromley – Burton Albion**
+
+- ⏳ 2-1 · @7.03
+
+**18:00 · Boreham Wood – Gateshead**
+
+- ⏳ 2-1 · @9.39
+
+**18:00 · Sheffield Wednesday – Reading**
+
+- ⏳ 2-1 · @7.15
+
+**18:00 · Walsall – Northampton**
+
+- ⏳ 2-1 · @7.34
+
+**18:00 · Derby County – Watford**
+
+- ⏳ 2-1 · @8.10
+
+**18:00 · Westerlo – RAAL La Louviere**
+
+- ⏳ 2-1 · @7.56
+
+**18:00 · Altrincham – Worthing**
+
+- ⏳ 1-2 · @8.61
+
+**18:15 · Malaga CF – Athletic Bilbao**
+
+- ⏳ 1-2 · @7.27
+
+**18:15 · Albacete – Tenerife**
+
+- ⏳ 1-0 · @6.17
+
+**18:15 · Club Deportivo Eldense – Girona**
+
+- ⏳ 0-1 · @6.63
+
+**18:30 · Moreirense – Santa Clara**
+
+- ⏳ 0-1 · @5.62
+
+**18:30 · FC Arouca – Rio Ave**
+
+- ⏳ 1-0 · @5.79
+
+**18:30 · Excelsior – Telstar**
+
+- ⏳ 2-1 · @7.65
+
+**19:00 · Gaziantep FK – Amed Sportif Faaliyetler**
+
+- ⏳ 1-2 · @7.68
+
+**19:15 · Angers – RC Lens**
+
+- ⏳ 1-2 · @7.22
+
+**19:15 · LR Vicenza Virtus – AC Cesena**
+
+- ⏳ 1-2 · @8.68
+
+**20:00 · Torino – Lazio**
+
+- ⏳ 1-2 · @7.89
+
+**20:15 · Cercle Brugge – Mechelen**
+
+- ⏳ 2-1 · @7.56
+
+**20:30 · Elche – Atletico Madrid**
+
+- ⏳ 1-2 · @7.20
+
+**20:30 · Eibar – CF Burgos**
+
+- ⏳ 1-0 · @5.69
+
+**20:30 · Hartlepool – Southend**
+
+- ⏳ 1-2 · @6.70
+
+**20:30 · Ipswich Town – Aston Villa**
+
+- ⏳ 1-2 · @7.66
+
+**20:30 · Stuttgart – Eintracht Frankfurt**
+
+- ⏳ 2-1 · @8.53
+
+**20:45 · Motherwell – Hibernian**
+
+- ⏳ 1-2 · @8.54
+
+**20:45 · PSV – Go Ahead Eagles**
+
+- ⏳ 3-1 · @8.58
+
+**21:00 · AE Kifisia FC – PAE PS Kalamata**
+
+- ⏳ 2-1 · @6.54
+
+**21:00 · A. de Viseu  – Alverca FC**
+
+- ⏳ 1-0 · @7.28
+
+**21:30 · US Palermo – Benevento**
+
+- ⏳ 2-1 · @7.51
+
+**22:30 · Osnabruck – Hannover 96**
+
+- ⏳ 1-2 · @8.13
+
+**22:45 · Paris Saint Germain – Lorient**
+
+- ⏳ 2-1 · @8.19
+
+**22:45 · Le Mans – Lille**
+
+- ⏳ 0-1 · @6.12
+
+**22:45 · Nice – Troyes**
+
+- ⏳ 2-1 · @7.22
+
+**22:45 · Inter – Genoa**
+
+- ⏳ 2-1 · @7.50
+
+**22:45 · Lommel SK – Zulte Waregem**
+
+- ⏳ 1-2 · @8.42
+
+**22:45 · Charleroi – SK Beveren**
+
+- ⏳ 2-1 · @7.13
+
+**22:45 · Le Havre – Strasbourg**
+
+- ⏳ 1-2 · @8.00
+
+**23:00 · Real Valladolid – Real Sociedad B**
+
+- ⏳ 2-1 · @7.34
+
+**23:00 · Real Madrid – Alaves**
+
+- ⏳ 2-1 · @9.61
+
+**23:00 · SC Cambuur – Sparta Rotterdam**
+
+- ⏳ 2-1 · @8.36
+
+**23:30 · Vitoria Guimaraes – CF Estrela**
+
+- ⏳ 2-1 · @7.24
 
 ## 27.11.2026 Cuma
 
@@ -15,6 +401,7 @@
 **20:00 · Alanyaspor – Konyaspor**
 
 - ⏳ 1-0 · @7.09
+- ⏳ 0-1 · @6.74
 
 **20:30 · Bochum – Darmstadt 98**
 

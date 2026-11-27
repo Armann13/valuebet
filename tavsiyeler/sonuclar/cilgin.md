@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/180 tuttu** (isabet %12, beklenen %12) · +194.48 birim · 63 tahmin sonuç bekliyor
+**22/180 tuttu** (isabet %12, beklenen %12) · +194.48 birim · 67 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11 15:43 gönderilen kupon · 4 maç, oran 177.028,30
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 17:00 Frosinone – Parma · İY/MS 2/1 · @18.75
+- ⏳ 28.11 18:00 Rangers – Falkirk · İY/MS 2/1 · @20.45
+- ⏳ 28.11 20:30 Elche – Atletico Madrid · İY/MS 1/2 · @20.75
+- ⏳ 28.11 22:45 Paris Saint Germain – Lorient · İY/MS 2/1 · @22.25
 
 ## 26.11 20:05 gönderilen kupon · 4 maç, oran 197.382,26
 

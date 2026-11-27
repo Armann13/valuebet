@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/123 tuttu** (isabet %33, beklenen %39) · -16.79 birim · 6 tahmin sonuç bekliyor
+**41/123 tuttu** (isabet %33, beklenen %39) · -16.79 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11 15:43 gönderilen kupon · 3 maç, oran 21,78
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 15:30 Preston – Norwich City · En çok korner 1 · @3.03
+- ⏳ 28.11 18:00 Wrexham – Portsmouth · En çok korner 2 · @2.47
+- ⏳ 28.11 22:45 Charleroi – SK Beveren · En çok korner 2 · @2.91
 
 ## 26.11 20:05 gönderilen kupon · 3 maç, oran 11,04
 

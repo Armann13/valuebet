@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**58/155 tuttu** (isabet %37, beklenen %37) · +2.90 birim · 5 tahmin sonuç bekliyor
+**58/155 tuttu** (isabet %37, beklenen %37) · +2.90 birim · 9 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11 15:43 gönderilen kupon · 4 maç, oran 30,79
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 27.11 22:00 Groningen – Willem II · MS 1 & KG Var · @2.39
+- ⏳ 28.11 18:00 Rangers – Falkirk · MS 1 & KG Var · @2.25
+- ⏳ 28.11 21:30 US Palermo – Benevento · En çok korner 2 · @2.29
+- ⏳ 28.11 22:45 Paris Saint Germain – Lorient · MS 1 & KG Var · @2.50
 
 ## 26.11 20:05 gönderilen kupon · 4 maç, oran 42,25
 

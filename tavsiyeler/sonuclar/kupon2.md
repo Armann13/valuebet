@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**33/78 tuttu** (isabet %42, beklenen %51) · -10.04 birim · 4 tahmin sonuç bekliyor
+**33/78 tuttu** (isabet %42, beklenen %51) · -10.04 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 27.11 15:43 gönderilen kupon · 2 maç, oran 3,22
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 21:00 A. de Viseu  – Alverca FC · En çok korner 2 · @1.87
+- ⏳ 28.11 22:30 Osnabruck – Hannover 96 · En çok korner 2 · @1.72
 
 ## 26.11 20:05 gönderilen kupon · 2 maç, oran 3,68
 
