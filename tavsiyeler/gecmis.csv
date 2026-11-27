@@ -10630,3 +10630,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-27 20:04,2026-11-28,28.11,SC0,Rangers,Falkirk,Rangers – Falkirk,SC0,4️⃣ 4'lü kupon,MS 1 & KG Var,0.47124603233786094,2.25,0.06030357276018705,oran,,,,2026-11-28 18:00,,,,,,
 2026-11-27 20:04,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,4️⃣ 4'lü kupon,En çok korner 2,0.45728272978939544,2.29,0.04717745121771566,korner,,,,2026-11-28 21:30,,,,,,
 2026-11-27 20:04,2026-11-28,28.11,E1,Millwall,Burnley,Millwall – Burnley,E1,4️⃣ 4'lü kupon,En çok korner 2,0.43073101069325,2.42,0.04236904587766488,korner,,,,2026-11-28 18:00,,,,,,
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,🟢 Tier 1 — Düşük risk,2.5 Üst,0.7087294497267594,1.3,-0.07865171535521265,oran,False,,,2026-11-27 22:00,,,,,,kadro
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,🟡 Tier 2 — Orta risk,MS 1 & 2.5 Üst,0.6304818595517186,1.5,-0.05427721067242208,oran,True,,,2026-11-27 22:00,,,,,,kadro
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,🔴 Tier 3 — Yüksek risk,MS 1 & KG Var,0.4407036040048037,2.38,0.04887457753143276,oran,True,,,2026-11-27 22:00,,,,,,kadro
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,🟡 Tier 2 — Orta risk,Korner 10.5 Alt,0.5266960415874921,1.6,-0.15728633346001264,korner,False,,,2026-11-27 22:00,,,,,,kadro
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,🔴 Tier 3 — Yüksek risk,Korner 9.5 Alt,0.4275751835241135,2.0,-0.144849632951773,korner,True,,,2026-11-27 22:00,,,,,,kadro
+2026-11-27 21:16,2026-11-27,27.11,N1,Groningen,Willem II,Groningen – Willem II,N1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.11546116983957778,7.72,-0.1086397688384595,oran,,,,2026-11-27 22:00,,,,,,kadro
