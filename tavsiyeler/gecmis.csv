@@ -10676,3 +10676,8 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-27 22:05,2026-11-27,27.11,E1,Southampton,Middlesbrough,Southampton – Middlesbrough,E1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),1-2,0.11919845721727225,8.07,-0.038068450256612874,oran,,,,2026-11-27 23:00,,,,,,kadro
 2026-11-27 22:05,2026-11-27,27.11,SP1,Levante,Santander,Levante – Santander,SP1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.09149730920258907,7.89,-0.2780862303915723,oran,,,,2026-11-27 23:00,,,,,,kadro
 2026-11-27 22:05,2026-11-27,27.11,E0,Nott'm Forest,Chelsea,Nottingham Forest – Chelsea,E0,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.08865077910632149,8.29,-0.2650850412085949,oran,,,,2026-11-27 23:00,,,,,,kadro
+2026-11-27 22:20,2026-11-27,27.11,I1,Venezia,Bologna,Venezia – Bologna,I1,🟢 Tier 1 — Düşük risk,ÇŞ 1-2,0.7038821717067931,1.25,-0.12014728536650865,oran,False,,,2026-11-27 22:45,,,,,,kadro
+2026-11-27 22:20,2026-11-27,27.11,I1,Venezia,Bologna,Venezia – Bologna,I1,🔴 Tier 3 — Yüksek risk,MS 2,0.3901672342414388,2.26,-0.11822205061434843,oran,True,,,2026-11-27 22:45,,,,,,kadro
+2026-11-27 22:20,2026-11-27,27.11,I1,Venezia,Bologna,Venezia – Bologna,I1,🟣 Tier 4 — Çok yüksek risk,İY/MS 2/2,0.22817064493265762,3.68,-0.16033202664781987,oran,True,,,2026-11-27 22:45,,,,,,kadro
+2026-11-27 22:20,2026-11-27,27.11,I1,Venezia,Bologna,Venezia – Bologna,I1,🟡 Tier 2 — Orta risk,En çok korner 2,0.5867804959462535,1.79,0.05033708774379364,korner,False,,,2026-11-27 22:45,,,,,,kadro
+2026-11-27 22:20,2026-11-27,27.11,I1,Venezia,Bologna,Venezia – Bologna,I1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),0-1,0.1033945591573428,6.41,-0.3372408758014326,oran,,,,2026-11-27 22:45,,,,,,kadro
