@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/114 tuttu** (isabet %17, beklenen %16) · -8.85 birim · 7 tahmin sonuç bekliyor
+**19/117 tuttu** (isabet %16, beklenen %16) · -11.85 birim · 4 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -10,11 +10,11 @@
 
 **20:45 · FC Iberia 1999 – Getafe**
 
-- ⏳ 0-1 · @4.68
+- ❌ 0-1 · @4.68 · 1-0
 
 **23:00 · Sunderland – Jagiellonia Bialystok**
 
-- ⏳ 2-0 · @5.24
+- ❌ 2-0 · @5.24 · 1-1
 
 **23:00 · Inter Club De Escaldes – Kopenhag**
 
@@ -23,7 +23,7 @@
 
 **23:00 · Doncaster – Huddersfield**
 
-- ⏳ 1-2 · @6.45
+- ❌ 1-2 · @6.45 · 2-3
 
 ## 24.11.2026 Salı
 

@@ -2,36 +2,36 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**55/148 tuttu** (isabet %37, beklenen %37) · +2.82 birim · 12 tahmin sonuç bekliyor
+**58/155 tuttu** (isabet %37, beklenen %37) · +2.90 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
 ## 26.11 20:05 gönderilen kupon · 4 maç, oran 42,25
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (2 maç tuttu, diğerleri ⏳)
 
-- ⏳ 26.11 20:45 Beşiktaş – Hapoel Beer Sheva · MS 1 & KG Var · @2.27
-- ⏳ 26.11 23:00 Torreense – Celtic · MS 2 & KG Var · @2.49
+- ✅ 26.11 20:45 Beşiktaş – Hapoel Beer Sheva · MS 1 & KG Var · @2.27 · 2-1
+- ✅ 26.11 23:00 Torreense – Celtic · MS 2 & KG Var · @2.49 · 1-2
 - ⏳ 27.11 20:30 Bochum – Darmstadt 98 · MS 1 & KG Var · @2.99
 - ⏳ 27.11 22:00 Groningen – Willem II · MS 1 & KG Var · @2.50
 
 ## 25.11 20:41 gönderilen kupon · 4 maç, oran 36,35
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 1/4 maç tuttu
 
 - ✅ 25.11 22:45 Watford – Blackburn Rovers · MS 2 · @2.63 · 0-1
 - ❌ 25.11 23:00 Paris Saint Germain – AS Roma · MS 1 & KG Var · @2.21 · 2-2
-- ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.65
-- ⏳ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.36
+- ❌ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.65 · 0-2
+- ❌ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.36 · 4-0
 
 ## 25.11 11:48 gönderilen kupon · 4 maç, oran 38,47
 
-sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
+❌ 2/4 maç tuttu
 
 - ✅ 25.11 22:00 Mantova 1911 – SS Arezzo · En çok korner 2 · @2.66 · korner 3-5
-- ⏳ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.63
-- ⏳ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.37
-- ⏳ 26.11 23:00 CSKA Sofya – Trabzonspor · MS 2 & 2.5 Üst · @2.32
+- ❌ 26.11 20:45 Dinamo Zagreb – B. Leverkusen · MS 2 & KG Var · @2.63 · 0-2
+- ❌ 26.11 20:45 Viktoria Plzen – Benfica · MS 2 & KG Var · @2.37 · 4-0
+- ✅ 26.11 23:00 CSKA Sofya – Trabzonspor · MS 2 & 2.5 Üst · @2.32 · 1-2
 
 ## 24.11 16:55 gönderilen kupon · 4 maç, oran 50,16
 

@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**241/875 tuttu** (isabet %28, beklenen %28) · -111.66 birim · 75 tahmin sonuç bekliyor
+**253/895 tuttu** (isabet %28, beklenen %28) · -92.71 birim · 55 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -72,7 +72,7 @@
 
 **20:45 · Dinamo Zagreb – B. Leverkusen**
 
-- ⏳ ↳ MS 2 & KG Var · @2.63
+- ❌ ↳ MS 2 & KG Var · @2.63 · 0-2
 
 **20:45 · Hearts – Monaco**
 
@@ -80,12 +80,12 @@
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
-- ⏳ ↳ MS 1 & KG Var · @2.80
+- ✅ ↳ MS 1 & KG Var · @2.80 · 2-1
 
 **20:45 · Jablonec – Lugano**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.82
-- ⏳ ↳ MS 2 & KG Var · @4.07
+- ❌ ↳ MS 2 & 2.5 Üst · @2.82 · 2-0
+- ❌ ↳ MS 2 & KG Var · @4.07 · 2-0
 
 **20:45 · Zalgiris Kaunas – Riga FC**
 
@@ -94,43 +94,43 @@
 
 **20:45 · Pafos FC – Midtjylland**
 
-- ⏳ ↳ MS 2 & KG Var · @3.47
+- ❌ ↳ MS 2 & KG Var · @3.47 · 0-2
 
 **20:45 · Olympiacos – AC Milan**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.46
+- ✅ ↳ MS 2 & 2.5 Üst · @3.46 · 2-4
 - ⏳ ↳ İY/MS 2/2 · @3.60
 
 **20:45 · Brann – AGF Aarhus**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.77
-- ⏳ ↳ MS 1 & KG Var · @3.36
+- ✅ ↳ MS 2 & 2.5 Üst · @3.77 · 1-4
+- ❌ ↳ MS 1 & KG Var · @3.36 · 1-4
 
 **20:45 · Celta Vigo – Bournemouth**
 
-- ⏳ ↳ MS 2 & KG Var · @3.86
+- ✅ ↳ MS 2 & KG Var · @3.86 · 1-2
 
 **23:00 · Freiburg – Twente**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.59
-- ⏳ ↳ MS 1 & KG Var · @3.10
+- ✅ ↳ MS 1 & 2.5 Üst · @2.59 · 2-1
+- ✅ ↳ MS 1 & KG Var · @3.10 · 2-1
 
 **23:00 · Crystal Palace – Real Sociedad**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.60
+- ✅ ↳ MS 1 & 2.5 Üst · @2.60 · 2-1
 
 **23:00 · Torreense – Celtic**
 
-- ⏳ ↳ MS 2 & KG Var · @2.80
+- ✅ ↳ MS 2 & KG Var · @2.80 · 1-2
 
 **23:00 · CSKA Sofya – Trabzonspor**
 
-- ⏳ ↳ MS 2 & KG Var · @3.01
+- ✅ ↳ MS 2 & KG Var · @3.01 · 1-2
 
 **23:00 · Hajduk Split – St. Truidense**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.01
-- ⏳ ↳ MS 1 & KG Var · @3.55
+- ❌ ↳ MS 1 & 2.5 Üst · @3.01 · 0-2
+- ❌ ↳ MS 1 & KG Var · @3.55 · 0-2
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
@@ -138,7 +138,7 @@
 
 **23:00 · Ofi Crete – Anderlecht**
 
-- ⏳ ↳ MS 2 & KG Var · @3.15
+- ✅ ↳ MS 2 & KG Var · @3.15 · 1-3
 
 **23:00 · NEC Nijmegen – Rennes**
 
@@ -146,12 +146,12 @@
 
 **23:00 · Sparta Prag – AZ Alkmaar**
 
-- ⏳ ↳ MS 2 & KG Var · @3.72
+- ✅ ↳ MS 2 & KG Var · @3.72 · 2-4
 
 **23:00 · Nordsjælland – Panathinaikos**
 
-- ⏳ ↳ MS 2 & KG Var · @4.11
-- ⏳ ↳ MS 1 & KG Var · @4.09
+- ❌ ↳ MS 2 & KG Var · @4.11 · 3-2
+- ✅ ↳ MS 1 & KG Var · @4.09 · 3-2
 
 ## 25.11.2026 Çarşamba
 

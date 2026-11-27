@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**131/1202 tuttu** (isabet %11, beklenen %11) · -251.39 birim · 97 tahmin sonuç bekliyor
+**139/1233 tuttu** (isabet %11, beklenen %11) · -221.11 birim · 66 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -76,7 +76,7 @@
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
-- ⏳ 2-1 · @7.14
+- ✅ 2-1 · @7.14 · 2-1
 
 **20:45 · Hearts – Monaco**
 
@@ -84,15 +84,15 @@
 
 **20:45 · Dinamo Zagreb – B. Leverkusen**
 
-- ⏳ 1-2 · @7.40
+- ❌ 1-2 · @7.40 · 0-2
 
 **20:45 · Jablonec – Lugano**
 
-- ⏳ 1-2 · @7.70
+- ❌ 1-2 · @7.70 · 2-0
 
 **20:45 · Celta Vigo – Bournemouth**
 
-- ⏳ 1-2 · @7.70
+- ✅ 1-2 · @7.70 · 1-2
 
 **20:45 · Zalgiris Kaunas – Riga FC**
 
@@ -101,7 +101,7 @@
 
 **20:45 · Viktoria Plzen – Benfica**
 
-- ⏳ 1-2 · @7.40
+- ❌ 1-2 · @7.40 · 4-0
 
 **20:45 · Marsilya – Levski Sofya**
 
@@ -109,58 +109,58 @@
 
 **20:45 · Olympiacos – AC Milan**
 
-- ⏳ 1-2 · @8.29
-- ⏳ 0-1 · @7.05
+- ❌ 1-2 · @8.29 · 2-4
+- ❌ 0-1 · @7.05 · 2-4
 
 **20:45 · Pafos FC – Midtjylland**
 
-- ⏳ 1-2 · @8.11
+- ❌ 1-2 · @8.11 · 0-2
 
 **20:45 · Union Saint Gilloise – Lech Poznan**
 
-- ⏳ 2-1 · @7.48
+- ❌ 2-1 · @7.48 · 2-2
 
 **20:45 · Beşiktaş – Hapoel Beer Sheva**
 
-- ⏳ 3-1 · @8.64
-- ⏳ 2-1 · @7.52
+- ❌ 3-1 · @8.64 · 2-1
+- ✅ 2-1 · @7.52 · 2-1
 
 **20:45 · Brann – AGF Aarhus**
 
-- ⏳ 1-2 · @9.79
-- ⏳ 2-1 · @8.09
+- ❌ 1-2 · @9.79 · 1-4
+- ❌ 2-1 · @8.09 · 1-4
 
 **20:45 · Ajax – Thun**
 
-- ⏳ 3-1 · @8.66
+- ❌ 3-1 · @8.66 · 4-0
 
 **20:45 · Salzburg – Ararat**
 
-- ⏳ 3-1 · @8.67
+- ❌ 3-1 · @8.67 · 2-0
 
 **23:00 · Torreense – Celtic**
 
-- ⏳ 1-2 · @7.25
+- ✅ 1-2 · @7.25 · 1-2
 
 **23:00 · Ofi Crete – Anderlecht**
 
-- ⏳ 1-2 · @7.36
+- ❌ 1-2 · @7.36 · 1-3
 
 **23:00 · CSKA Sofya – Trabzonspor**
 
-- ⏳ 1-2 · @7.49
+- ✅ 1-2 · @7.49 · 1-2
 
 **23:00 · Banja Luka – Atalanta**
 
-- ⏳ 1-2 · @7.20
+- ❌ 1-2 · @7.20 · 2-3
 
 **23:00 · Hajduk Split – St. Truidense**
 
-- ⏳ 2-1 · @7.85
+- ❌ 2-1 · @7.85 · 0-2
 
 **23:00 · Crystal Palace – Real Sociedad**
 
-- ⏳ 2-1 · @7.81
+- ✅ 2-1 · @7.81 · 2-1
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
@@ -172,34 +172,34 @@
 
 **23:00 · Freiburg – Twente**
 
-- ⏳ 2-1 · @7.79
+- ✅ 2-1 · @7.79 · 2-1
 
 **23:00 · Sparta Prag – AZ Alkmaar**
 
-- ⏳ 1-2 · @8.08
+- ❌ 1-2 · @8.08 · 2-4
 
 **23:00 · Ferencvaros – NK Celje**
 
-- ⏳ 2-1 · @7.33
+- ❌ 2-1 · @7.33 · 0-0
 
 **23:00 · Hoffenheim – Sturm Graz**
 
-- ⏳ 2-1 · @7.65
-- ⏳ 3-1 · @8.58
+- ❌ 2-1 · @7.65 · 3-1
+- ✅ 3-1 · @8.58 · 3-1
 
 **23:00 · Nordsjælland – Panathinaikos**
 
-- ⏳ 1-2 · @8.54
-- ⏳ 2-1 · @8.50
+- ❌ 1-2 · @8.54 · 3-2
+- ❌ 2-1 · @8.50 · 3-2
 
 **23:00 · Juventus – Omonia**
 
-- ⏳ 3-1 · @8.99
-- ⏳ 3-0 · @6.08
+- ❌ 3-1 · @8.99 · 4-1
+- ❌ 3-0 · @6.08 · 4-1
 
 **23:00 · Lyon – Lillestrom**
 
-- ⏳ 3-1 · @8.82
+- ❌ 3-1 · @8.82 · 0-0
 
 ## 25.11.2026 Çarşamba
 

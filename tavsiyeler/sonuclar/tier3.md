@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**539/1303 tuttu** (isabet %41, beklenen %40) · -97.77 birim · 113 tahmin sonuç bekliyor
+**559/1342 tuttu** (isabet %42, beklenen %40) · -90.32 birim · 74 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -78,7 +78,7 @@
 
 **20:45 · Jablonec – Lugano**
 
-- ⏳ ↳ MS 2 · @1.90
+- ❌ ↳ MS 2 · @1.90 · 2-0
 
 **20:45 · Hearts – Monaco**
 
@@ -86,17 +86,17 @@
 
 **20:45 · Dinamo Zagreb – B. Leverkusen**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.00
-- ⏳ ↳ Korner 9.5 Alt · @1.68
+- ❌ ↳ MS 2 & 2.5 Üst · @2.00 · 0-2
+- ❌ ↳ Korner 9.5 Alt · @1.68 · korner 6-6
 
 **20:45 · KF Egnatia Rrogozhine – Lincoln Red**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @1.98
-- ⏳ ↳ Korner 9.5 Üst · @1.73
+- ✅ ↳ MS 1 & 2.5 Üst · @1.98 · 2-1
+- ✅ ↳ Korner 9.5 Üst · @1.73 · korner 10-0
 
 **20:45 · FC Iberia 1999 – Getafe**
 
-- ⏳ ↳ İY/MS 2/2 · @1.89
+- ❌ ↳ İY/MS 2/2 · @1.89
 
 **20:45 · Zalgiris Kaunas – Riga FC**
 
@@ -104,33 +104,33 @@
 
 **20:45 · Olympiacos – AC Milan**
 
-- ⏳ ↳ MS 2 · @2.21
+- ✅ ↳ MS 2 · @2.21 · 2-4
 
 **20:45 · Ajax – Thun**
 
-- ⏳ ↳ MS 1 & KG Var · @2.01
-- ⏳ ↳ Korner 9.5 Üst · @1.74
+- ❌ ↳ MS 1 & KG Var · @2.01 · 4-0
+- ✅ ↳ Korner 9.5 Üst · @1.74 · korner 6-5
 
 **20:45 · Viktoria Plzen – Benfica**
 
-- ⏳ ↳ MS 2 & KG Var · @2.37
+- ❌ ↳ MS 2 & KG Var · @2.37 · 4-0
 
 **20:45 · Union Saint Gilloise – Lech Poznan**
 
-- ⏳ ↳ MS 1 & KG Var · @2.39
+- ❌ ↳ MS 1 & KG Var · @2.39 · 2-2
 
 **20:45 · Beşiktaş – Hapoel Beer Sheva**
 
-- ⏳ ↳ MS 1 & KG Var · @2.23
+- ✅ ↳ MS 1 & KG Var · @2.23 · 2-1
 
 **20:45 · Salzburg – Ararat**
 
-- ⏳ ↳ MS 1 & KG Var · @2.15
+- ❌ ↳ MS 1 & KG Var · @2.15 · 2-0
 
 **20:45 · Pafos FC – Midtjylland**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.83
-- ⏳ ↳ Korner 9.5 Üst · @1.71
+- ❌ ↳ MS 2 & 2.5 Üst · @2.83 · 0-2
+- ✅ ↳ Korner 9.5 Üst · @1.71 · korner 5-5
 
 **20:45 · Marsilya – Levski Sofya**
 
@@ -138,21 +138,21 @@
 
 **20:45 · Brann – AGF Aarhus**
 
-- ⏳ ↳ MS 2 · @2.77
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.75
+- ✅ ↳ MS 2 · @2.77 · 1-4
+- ❌ ↳ MS 1 & 2.5 Üst · @2.75 · 1-4
 
 **20:45 · Celta Vigo – Bournemouth**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.97
+- ✅ ↳ MS 2 & 2.5 Üst · @2.97 · 1-2
 
 **23:00 · Freiburg – Twente**
 
-- ⏳ ↳ MS 1 · @1.89
+- ✅ ↳ MS 1 · @1.89 · 2-1
 
 **23:00 · Crystal Palace – Real Sociedad**
 
-- ⏳ ↳ MS 1 · @1.89
-- ⏳ ↳ Korner 9.5 Üst · @1.73
+- ✅ ↳ MS 1 · @1.89 · 2-1
+- ❌ ↳ Korner 9.5 Üst · @1.73 · korner 2-7
 
 **23:00 · KAA Gent – Kızıl Yıldız**
 
@@ -160,35 +160,35 @@
 
 **23:00 · Hajduk Split – St. Truidense**
 
-- ⏳ ↳ MS 1 · @1.99
-- ⏳ ↳ Korner 9.5 Üst · @1.74
+- ❌ ↳ MS 1 · @1.99 · 0-2
+- ❌ ↳ Korner 9.5 Üst · @1.74 · korner 6-2
 
 **23:00 · Torreense – Celtic**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.08
+- ✅ ↳ MS 2 & 2.5 Üst · @2.08 · 1-2
 
 **23:00 · Hoffenheim – Sturm Graz**
 
-- ⏳ ↳ MS 1 & KG Var · @2.23
+- ✅ ↳ MS 1 & KG Var · @2.23 · 3-1
 
 **23:00 · CSKA Sofya – Trabzonspor**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.32
-- ⏳ ↳ Korner 9.5 Üst · @1.72
+- ✅ ↳ MS 2 & 2.5 Üst · @2.32 · 1-2
+- ❌ ↳ Korner 9.5 Üst · @1.72 · korner 4-1
 
 **23:00 · Ofi Crete – Anderlecht**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @2.35
-- ⏳ ↳ Korner 9.5 Alt · @1.68
+- ✅ ↳ MS 2 & 2.5 Üst · @2.35 · 1-3
+- ❌ ↳ Korner 9.5 Alt · @1.68 · korner 3-7
 
 **23:00 · Banja Luka – Atalanta**
 
-- ⏳ ↳ MS 2 & KG Var · @2.61
+- ✅ ↳ MS 2 & KG Var · @2.61 · 2-3
 
 **23:00 · Ferencvaros – NK Celje**
 
-- ⏳ ↳ MS 1 & KG Var · @2.57
-- ⏳ ↳ Korner 8.5 Alt · @2.14
+- ❌ ↳ MS 1 & KG Var · @2.57 · 0-0
+- ✅ ↳ Korner 8.5 Alt · @2.14 · korner 6-2
 
 **23:00 · NEC Nijmegen – Rennes**
 
@@ -198,25 +198,25 @@
 
 **23:00 · Doncaster – Huddersfield**
 
-- ⏳ ↳ MS 2 & KG Var · @2.77
+- ✅ ↳ MS 2 & KG Var · @2.77 · 2-3
 
 **23:00 · Lyon – Lillestrom**
 
-- ⏳ ↳ MS 1 & KG Var · @2.31
+- ❌ ↳ MS 1 & KG Var · @2.31 · 0-0
 
 **23:00 · Sparta Prag – AZ Alkmaar**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.03
+- ✅ ↳ MS 2 & 2.5 Üst · @3.03 · 2-4
 
 **23:00 · Juventus – Omonia**
 
-- ⏳ ↳ MS 1 & KG Var · @2.42
-- ⏳ ↳ Korner 9.5 Üst · @1.72
+- ✅ ↳ MS 1 & KG Var · @2.42 · 4-1
+- ❌ ↳ Korner 9.5 Üst · @1.72 · korner 5-3
 
 **23:00 · Nordsjælland – Panathinaikos**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.40
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.38
+- ❌ ↳ MS 2 & 2.5 Üst · @3.40 · 3-2
+- ✅ ↳ MS 1 & 2.5 Üst · @3.38 · 3-2
 
 ## 25.11.2026 Çarşamba
 
