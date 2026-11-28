@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/119 tuttu** (isabet %16, beklenen %16) · -13.85 birim · 6 tahmin sonuç bekliyor
+**19/120 tuttu** (isabet %16, beklenen %16) · -14.85 birim · 5 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -24,7 +24,7 @@
 
 **18:00 · Stockport – Leyton Orient**
 
-- ⏳ 2-1 · @6.48
+- ❌ 2-1 · @6.48 · 1-2
 
 ## 26.11.2026 Perşembe
 

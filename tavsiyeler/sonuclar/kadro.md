@@ -6,12 +6,94 @@ Kadro güncellemesi gelen maçlarda ilk verilen tahmin (önce) ile kadrolar aç�
 
 | | tahmin | sonuçlanan | tutan | kâr/zarar |
 |---|---|---|---|---|
-| önce | 2314 | 2301 | 1176 | -216.61 |
-| sonra | 1904 | 1893 | 957 | -177.38 |
+| önce | 2362 | 2301 | 1176 | -216.61 |
+| sonra | 1941 | 1893 | 957 | -177.38 |
 
-Değişen tahmin: 510 (504 sonuçlandı: eski 365, yeni 286 tuttu).
+Değişen tahmin: 522 (504 sonuçlandı: eski 365, yeni 286 tuttu).
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · @ İddaa oranı</i>
+
+## 28.11 · A. de Viseu  – Alverca FC
+
+Kadro mesajı: 28.11 20:30
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.23, ⏳ Korner 10.5 Alt @1.28 → ⏳ ÇŞ 1-2 @1.23, ⏳ Korner 10.5 Alt @1.28 (aynı)
+- 🟡 Tier 2: ⏳ Korner 9.5 Alt @1.51 → ⏳ Korner 9.5 Alt @1.51 (aynı)
+- 🔴 Tier 3: ⏳ MS 1 @2.31 → ⏳ MS 1 @2.43 (aynı)
+- 🟣 Tier 4: ⏳ İY/MS 1/1 @3.73, ⏳ MS 1 & 2.5 Üst @4.13 → ⏳ MS 1 & 2.5 Üst @4.13 (değişti)
+
+## 28.11 · AE Kifisia FC – PAE PS Kalamata
+
+Kadro mesajı: 28.11 20:16
+
+- 🟡 Tier 2: ⏳ MS 1 @1.62, ⏳ KG Var @1.71 → ⏳ MS 1 @1.74 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.55 → ⏳ MS 1 & 2.5 Üst @2.99 (aynı)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.45 → ⏳ MS 1 & KG Var @3.97 (aynı)
+
+## 28.11 · Cercle Brugge – Mechelen
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-X @1.21 → ⏳ ÇŞ 1-X @1.22 (aynı)
+- 🟡 Tier 2: ⏳ MS 1 @1.80, ⏳ En çok korner 1 @1.54, ⏳ 2.5 Üst @1.58 → ⏳ En çok korner 1 @1.54 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & 2.5 Üst @2.63 → ⏳ MS 1 @1.98 (değişti)
+- 🟣 Tier 4: ⏳ MS 1 & KG Var @3.38 → ⏳ MS 1 & 2.5 Üst @3.00 (değişti)
+
+## 28.11 · Eibar – CF Burgos
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ ÇŞ 1-2 @1.20 → — (kalktı)
+- 🟡 Tier 2: ⏳ MS 1 @1.71, ⏳ Korner 9.5 Alt @1.51 → ⏳ MS 1 @1.67, ⏳ Korner 9.5 Alt @1.55 (aynı)
+- 🔴 Tier 3: ⏳ İY/MS 1/1 @2.60, ⏳ Korner 8.5 Alt @1.90 → ⏳ İY/MS 1/1 @2.56, ⏳ Korner 8.5 Alt @1.96 (aynı)
+
+## 28.11 · Elche – Atletico Madrid
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ MS 2 @1.33 → — (kalktı)
+- 🟡 Tier 2: ⏳ MS 2 & 2.5 Üst @1.82, ⏳ Korner 9.5 Alt @1.56, ⏳ KG Var @1.60 → ⏳ KG Var @1.66, ⏳ Korner 9.5 Alt @1.54 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 & KG Var @2.63, ⏳ Korner 8.5 Alt @1.97 → ⏳ MS 2 & KG Var @2.87, ⏳ Korner 8.5 Alt @1.94 (aynı)
+
+## 28.11 · Hartlepool – Southend
+
+Kadro mesajı: 28.11 19:48
+
+- 🟡 Tier 2: ⏳ MS 2 @1.72 → ⏳ MS 2 @1.72 (aynı)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.36 → ⏳ MS 2 & 2.5 Üst @2.36 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @2.99 → ⏳ MS 2 & KG Var @2.99 (aynı)
+
+## 28.11 · Ipswich Town – Aston Villa
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ ÇŞ X-2 @1.20 → ⏳ ÇŞ X-2 @1.20 (aynı)
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.43, ⏳ En çok korner 2 @1.77 → ⏳ En çok korner 2 @1.78 (değişti)
+- 🔴 Tier 3: ⏳ MS 2 & 2.5 Üst @2.52, ⏳ MS 2 @1.85 → ⏳ MS 2 @1.85 (değişti)
+- 🟣 Tier 4: ⏳ MS 2 & KG Var @3.18 → ⏳ MS 2 & 2.5 Üst @2.55 (değişti)
+
+## 28.11 · Motherwell – Hibernian
+
+Kadro mesajı: 28.11 19:48
+
+- 🟡 Tier 2: ⏳ 2.5 Üst @1.54 → ⏳ 2.5 Üst @1.58 (aynı)
+- 🟣 Tier 4: ⏳ MS 2 & 2.5 Üst @3.49 → ⏳ MS 2 & 2.5 Üst @3.57 (aynı)
+
+## 28.11 · PSV – Go Ahead Eagles
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ MS 1 & 2.5 Üst @1.27 → — (kalktı)
+- 🟡 Tier 2: ⏳ MS 1 & KG Var @1.82, ⏳ Korner 11.5 Alt @1.58, ⏳ KG Var @1.46 → ⏳ KG Var @1.53, ⏳ Korner 11.5 Alt @1.58 (değişti)
+- 🔴 Tier 3: ⏳ Korner 10.5 Alt @1.95 → ⏳ MS 1 & KG Var @1.98, ⏳ Korner 10.5 Alt @1.95 (değişti)
+
+## 28.11 · Stuttgart – Eintracht Frankfurt
+
+Kadro mesajı: 28.11 19:48
+
+- 🟢 Tier 1: ⏳ KG Var @1.20, ⏳ Korner 12.5 Alt @1.21 → ⏳ KG Var @1.22, ⏳ Korner 12.5 Alt @1.23 (aynı)
+- 🟡 Tier 2: ⏳ Korner 11.5 Alt @1.40, ⏳ Korner 10.5 Alt @1.66 → ⏳ Korner 11.5 Alt @1.42 (değişti)
+- 🔴 Tier 3: ⏳ MS 1 & KG Var @2.42 → ⏳ MS 1 & KG Var @2.40 (aynı)
 
 ## 27.11 · Venezia – Bologna
 

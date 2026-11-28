@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/182 tuttu** (isabet %12, beklenen %12) · +192.48 birim · 71 tahmin sonuç bekliyor
+**22/182 tuttu** (isabet %12, beklenen %12) · +192.48 birim · 77 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 18:55 gönderilen kupon · 6 maç, oran 5.404.944,92
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 19:00 Gaziantep FK – Amed Sportif Faaliyetler · MS 2 & 2.5 Üst · @3.43
+- ⏳ 28.11 20:30 Elche – Atletico Madrid · İY/MS 1/2 · @22.70
+- ⏳ 28.11 22:45 Paris Saint Germain – Lorient · İY/MS 2/1 · @24.05
+- ⏳ 28.11 22:45 Lommel SK – Zulte Waregem · MS 1 & 2.5 Üst · @4.01
+- ⏳ 28.11 23:00 SC Cambuur – Sparta Rotterdam · İY/MS 1/2 · @30.50
+- ⏳ 29.11 18:00 Atromitos – Panathinaikos · İY/MS 1/2 · @23.60
 
 ## 28.11 11:02 gönderilen kupon · 6 maç, oran 3.206.039,59
 

@@ -2,9 +2,16 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**35/80 tuttu** (isabet %44, beklenen %51) · -8.20 birim · 4 tahmin sonuç bekliyor
+**35/80 tuttu** (isabet %44, beklenen %51) · -8.20 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 18:55 gönderilen kupon · 2 maç, oran 3,65
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 19:00 Gaziantep FK – Amed Sportif Faaliyetler · MS 2 · @2.12
+- ⏳ 28.11 22:30 Osnabruck – Hannover 96 · En çok korner 2 · @1.72
 
 ## 27.11 15:43 gönderilen kupon · 2 maç, oran 3,22
 

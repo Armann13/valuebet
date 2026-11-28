@@ -2,9 +2,17 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/127 tuttu** (isabet %32, beklenen %39) · -20.79 birim · 8 tahmin sonuç bekliyor
+**42/128 tuttu** (isabet %33, beklenen %39) · -19.32 birim · 10 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 18:55 gönderilen kupon · 3 maç, oran 24,44
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 20:15 Cercle Brugge – Mechelen · MS 1 & 2.5 Üst · @3.04
+- ⏳ 28.11 20:30 Elche – Atletico Madrid · MS 2 & KG Var · @3.00
+- ⏳ 28.11 22:45 Paris Saint Germain – Lorient · MS 1 & KG Var · @2.68
 
 ## 28.11 11:02 gönderilen kupon · 3 maç, oran 23,23
 
@@ -16,10 +24,10 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 27.11 15:43 gönderilen kupon · 3 maç, oran 21,78
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 28.11 15:30 Preston – Norwich City · En çok korner 1 · @3.03 · korner 2-13
-- ⏳ 28.11 18:00 Wrexham – Portsmouth · En çok korner 2 · @2.47
+- ✅ 28.11 18:00 Wrexham – Portsmouth · En çok korner 2 · @2.47 · korner 1-5
 - ⏳ 28.11 22:45 Charleroi – SK Beveren · En çok korner 2 · @2.91
 
 ## 26.11 20:05 gönderilen kupon · 3 maç, oran 11,04

@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**58/160 tuttu** (isabet %36, beklenen %37) · -2.10 birim · 12 tahmin sonuç bekliyor
+**60/163 tuttu** (isabet %37, beklenen %37) · -0.60 birim · 13 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 18:55 gönderilen kupon · 4 maç, oran 74,13
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 22:45 Charleroi – SK Beveren · En çok korner 2 · @2.91
+- ⏳ 28.11 23:00 SC Cambuur – Sparta Rotterdam · MS 2 · @3.36
+- ⏳ 29.11 17:05 Brighton – Newcastle United · En çok korner 2 · @2.95
+- ⏳ 29.11 21:30 B. Dortmund – B. Leverkusen · En çok korner 2 · @2.57
 
 ## 28.11 11:02 gönderilen kupon · 4 maç, oran 85,35
 
@@ -17,19 +26,19 @@ sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
 ## 27.11 20:04 gönderilen kupon · 4 maç, oran 31,17
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
-- ⏳ 28.11 18:00 Rangers – Falkirk · MS 1 & KG Var · @2.25
-- ⏳ 28.11 18:00 Millwall – Burnley · En çok korner 2 · @2.42
+- ✅ 28.11 18:00 Rangers – Falkirk · MS 1 & KG Var · @2.25 · 2-1
+- ❌ 28.11 18:00 Millwall – Burnley · En çok korner 2 · @2.42 · korner 10-6
 - ⏳ 28.11 21:30 US Palermo – Benevento · En çok korner 2 · @2.29
 - ⏳ 28.11 22:45 Paris Saint Germain – Lorient · MS 1 & KG Var · @2.50
 
 ## 27.11 15:43 gönderilen kupon · 4 maç, oran 30,79
 
-sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+sonuç bekleniyor (1 maç tuttu, diğerleri ⏳)
 
 - ❌ 27.11 22:00 Groningen – Willem II · MS 1 & KG Var · @2.39 · 1-1
-- ⏳ 28.11 18:00 Rangers – Falkirk · MS 1 & KG Var · @2.25
+- ✅ 28.11 18:00 Rangers – Falkirk · MS 1 & KG Var · @2.25 · 2-1
 - ⏳ 28.11 21:30 US Palermo – Benevento · En çok korner 2 · @2.29
 - ⏳ 28.11 22:45 Paris Saint Germain – Lorient · MS 1 & KG Var · @2.50
 

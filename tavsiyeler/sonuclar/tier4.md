@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**260/926 tuttu** (isabet %28, beklenen %28) · -99.53 birim · 154 tahmin sonuç bekliyor
+**264/965 tuttu** (isabet %27, beklenen %28) · -124.94 birim · 115 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -235,8 +235,8 @@
 
 **17:00 · Carrarese Calcio 1908 – Juve Stabia**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.17
-- ⏳ ↳ MS X & KG Var · @4.11
+- ✅ ↳ MS 1 & 2.5 Üst · @3.17 · 3-1
+- ❌ ↳ MS X & KG Var · @4.11 · 3-1
 
 **17:30 · Köln – Elversberg**
 
@@ -245,20 +245,20 @@
 
 **17:30 · Paderborn – Schalke 04**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.62
-- ⏳ ↳ MS X & KG Var · @3.86
+- ✅ ↳ MS 1 & 2.5 Üst · @3.62 · 8-1
+- ❌ ↳ MS X & KG Var · @3.86 · 8-1
 
 **18:00 · Dundee Utd – St Johnstone**
 
-- ⏳ ↳ MS 1 & KG Var · @2.69
+- ❌ ↳ MS 1 & KG Var · @2.69 · 2-7
 
 **18:00 · Leeds United – Coventry**
 
-- ⏳ ↳ MS 1 & KG Var · @2.89
+- ❌ ↳ MS 1 & KG Var · @2.89 · 3-0
 
 **18:00 · Salford City – Gillingham**
 
-- ⏳ ↳ MS 1 & KG Var · @2.78
+- ❌ ↳ MS 1 & KG Var · @2.78 · 1-2
 
 **18:00 · Harrogate – Yeovil Town**
 
@@ -266,39 +266,39 @@
 
 **18:00 · Luton Town – Oxford**
 
-- ⏳ ↳ MS 1 & KG Var · @2.85
+- ❌ ↳ MS 1 & KG Var · @2.85 · 2-2
 
 **18:00 · Birmingham – Bolton**
 
-- ⏳ ↳ MS 1 & KG Var · @2.71
+- ❌ ↳ MS 1 & KG Var · @2.71 · 2-4
 
 **18:00 · Swindon Town – Chesterfield**
 
-- ⏳ ↳ MS 2 & KG Var · @2.93
+- ❌ ↳ MS 2 & KG Var · @2.93 · 0-2
 
 **18:00 · Millwall – Burnley**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @2.89
+- ❌ ↳ MS 1 & 2.5 Üst · @2.89 · 0-1
 
 **18:00 · Rochdale – Barnet**
 
-- ⏳ ↳ MS 2 & KG Var · @2.90
+- ❌ ↳ MS 2 & KG Var · @2.90 · 2-1
 
 **18:00 · West Ham – Stoke City**
 
-- ⏳ ↳ MS 1 & KG Var · @3.06
+- ❌ ↳ MS 1 & KG Var · @3.06 · 1-0
 
 **18:00 · Aberdeen – Dundee**
 
-- ⏳ ↳ MS 1 & KG Var · @3.18
+- ❌ ↳ MS 1 & KG Var · @3.18 · 2-0
 
 **18:00 · Eastleigh – Halifax Town**
 
-- ⏳ ↳ MS 2 & KG Var · @3.08
+- ❌ ↳ MS 2 & KG Var · @3.08 · 3-1
 
 **18:00 · West Bromwich – Bristol City**
 
-- ⏳ ↳ MS 1 & KG Var · @3.44
+- ❌ ↳ MS 1 & KG Var · @3.44 · 1-0
 
 **18:00 · Wrexham – Portsmouth**
 
@@ -306,85 +306,85 @@
 
 **18:00 · Manchester United – Brentford**
 
-- ⏳ ↳ MS 1 & KG Var · @3.42
+- ❌ ↳ MS 1 & KG Var · @3.42 · 0-4
 
 **18:00 · Stevenage – Blackpool**
 
-- ⏳ ↳ MS 1 & KG Var · @3.37
+- ❌ ↳ MS 1 & KG Var · @3.37 · 0-0
 
 **18:00 · Crewe Alexandra – Grimsby Town**
 
-- ⏳ ↳ MS 2 & KG Var · @3.44
+- ✅ ↳ MS 2 & KG Var · @3.44 · 2-3
 
 **18:00 · Westerlo – RAAL La Louviere**
 
-- ⏳ ↳ MS 1 & KG Var · @3.44
+- ❌ ↳ MS 1 & KG Var · @3.44 · 0-2
 
 **18:00 · Derby County – Watford**
 
-- ⏳ ↳ MS 1 & 2.5 Üst · @3.44
+- ❌ ↳ MS 1 & 2.5 Üst · @3.44 · 0-0
 
 **18:00 · Wimbledon – Barnsley**
 
-- ⏳ ↳ MS 2 & KG Var · @3.44
-- ⏳ ↳ MS 1 & KG Var · @4.04
+- ❌ ↳ MS 2 & KG Var · @3.44 · 2-0
+- ❌ ↳ MS 1 & KG Var · @4.04 · 2-0
 
 **18:00 · Boston United – Kidderminster Harriers**
 
-- ⏳ ↳ MS 1 & KG Var · @3.49
+- ❌ ↳ MS 1 & KG Var · @3.49 · 0-2
 
 **18:00 · St Mirren – Kilmarnock**
 
-- ⏳ ↳ MS 1 & KG Var · @3.58
+- ❌ ↳ MS 1 & KG Var · @3.58 · 1-4
 
 **18:00 · Queens Park Rangers – Sheffield United**
 
-- ⏳ ↳ MS 1 & KG Var · @3.70
+- ❌ ↳ MS 1 & KG Var · @3.70 · 1-1
 
 **18:00 · Hornchurch – Solihull Moors**
 
-- ⏳ ↳ MS 1 & KG Var · @3.57
+- ❌ ↳ MS 1 & KG Var · @3.57 · 1-0
 
 **18:00 · Colchester – York City**
 
-- ⏳ ↳ MS 2 & KG Var · @3.62
+- ❌ ↳ MS 2 & KG Var · @3.62 · 2-1
 
 **18:00 · Altrincham – Worthing**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.69
+- ❌ ↳ MS 2 & 2.5 Üst · @3.69 · 2-2
 
 **18:00 · Rotherham – Oldham**
 
-- ⏳ ↳ MS 2 & 2.5 Üst · @3.60
+- ❌ ↳ MS 2 & 2.5 Üst · @3.60 · 5-0
 
 **18:00 · Sheffield Wednesday – Reading**
 
-- ⏳ ↳ MS 1 & KG Var · @3.67
+- ❌ ↳ MS 1 & KG Var · @3.67 · 1-4
 
 **18:00 · Bromley – Burton Albion**
 
-- ⏳ ↳ MS 1 & KG Var · @3.84
+- ❌ ↳ MS 1 & KG Var · @3.84 · 0-3
 
 **18:00 · Wycombe – Bradford**
 
-- ⏳ ↳ MS 1 & KG Var · @3.82
+- ❌ ↳ MS 1 & KG Var · @3.82 · 2-2
 
 **18:00 · Wigan Athletic – Plymouth**
 
-- ⏳ ↳ MS 2 & KG Var · @3.98
-- ⏳ ↳ MS 1 & KG Var · @4.01
+- ❌ ↳ MS 2 & KG Var · @3.98 · 1-1
+- ❌ ↳ MS 1 & KG Var · @4.01 · 1-1
 
 **18:00 · Walsall – Northampton**
 
-- ⏳ ↳ MS 1 & KG Var · @4.16
+- ❌ ↳ MS 1 & KG Var · @4.16 · 3-0
 
 **18:00 · Fleetwood – Accrington**
 
-- ⏳ ↳ MS 1 & KG Var · @3.96
+- ❌ ↳ MS 1 & KG Var · @3.96 · 1-1
 
 **18:15 · Malaga CF – Athletic Bilbao**
 
-- ⏳ ↳ MS 2 & KG Var · @3.36
+- ✅ ↳ MS 2 & KG Var · @3.36 · 3-4
 
 **18:15 · Albacete – Tenerife**
 
@@ -392,7 +392,7 @@
 
 **18:15 · Club Deportivo Eldense – Girona**
 
-- ⏳ ↳ İY/MS 2/2 · @3.28
+- ❌ ↳ İY/MS 2/2 · @3.28
 
 **18:30 · Moreirense – Santa Clara**
 

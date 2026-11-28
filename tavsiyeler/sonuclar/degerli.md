@@ -2,7 +2,7 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/120 tuttu** (isabet %36, beklenen %43) · -21.64 birim · 3 tahmin sonuç bekliyor
+**43/120 tuttu** (isabet %36, beklenen %43) · -21.64 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
 
@@ -21,10 +21,34 @@
 **19:00 · Gaziantep FK – Amed Sportif Faaliyetler**
 
 - ⏳ MS 2 & 2.5 Üst · @3.13
+- ⏳ 2.5 Üst · @1.74
+- ⏳ MS 2 · @2.12
+
+**20:15 · Cercle Brugge – Mechelen**
+
+- ⏳ MS 1 & KG Var · @3.91
+- ⏳ MS 1 & 2.5 Üst · @3.04
+
+**20:30 · Elche – Atletico Madrid**
+
+- ⏳ MS 2 & KG Var · @3.00
+
+**21:00 · AE Kifisia FC – PAE PS Kalamata**
+
+- ⏳ MS 1 & KG Var · @3.97
 
 **22:45 · Lommel SK – Zulte Waregem**
 
 - ⏳ MS 1 & 2.5 Üst · @3.84
+
+**22:45 · Paris Saint Germain – Lorient**
+
+- ⏳ MS 1 & KG Var · @2.68
+- ⏳ KG Var · @1.98
+
+**23:00 · SC Cambuur – Sparta Rotterdam**
+
+- ⏳ MS 2 · @3.36
 
 ## 22.11.2026 Pazar
 
