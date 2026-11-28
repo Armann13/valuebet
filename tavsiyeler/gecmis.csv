@@ -11164,3 +11164,9 @@ gönderildi,gün,tarih,div,home,away,maç,lig,seviye,tahmin,p,odd,değer,kaynak,
 2026-11-28 20:30,2026-11-28,28.11,P1,Academico Viseu,Alverca,A. de Viseu  – Alverca FC,P1,🟢 Tier 1 — Düşük risk,Korner 10.5 Alt,0.7049830792153908,1.28,-0.09762165860429972,korner,False,,,2026-11-28 21:00,,,,,,kadro
 2026-11-28 20:30,2026-11-28,28.11,P1,Academico Viseu,Alverca,A. de Viseu  – Alverca FC,P1,🟡 Tier 2 — Orta risk,Korner 9.5 Alt,0.6086219973052156,1.51,-0.08098078406912446,korner,True,,,2026-11-28 21:00,,,,,,kadro
 2026-11-28 20:30,2026-11-28,28.11,P1,Academico Viseu,Alverca,A. de Viseu  – Alverca FC,P1,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.07153281921909888,8.87,-0.36550389352659307,piyasa,,,,2026-11-28 21:00,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,🟡 Tier 2 — Orta risk,MS 1,0.5156767548815212,1.79,-0.07693860876207703,piyasa,False,,,2026-11-28 21:30,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,🔴 Tier 3 — Yüksek risk,MS 1 & 2.5 Üst,0.35190717016130685,2.69,-0.05336971226608456,piyasa,True,,,2026-11-28 21:30,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,🟣 Tier 4 — Çok yüksek risk,MS 1 & KG Var,0.26040489023970825,3.5,-0.08858288416102111,piyasa,True,,,2026-11-28 21:30,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,🟡 Tier 2 — Orta risk,Korner 9.5 Üst,0.5121115517100887,1.72,-0.11916813105864743,korner,False,,,2026-11-28 21:30,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,🔴 Tier 3 — Yüksek risk,Korner 10.5 Üst,0.41011210482221927,2.18,-0.10595561148756194,korner,True,,,2026-11-28 21:30,,,,,,kadro
+2026-11-28 20:53,2026-11-28,28.11,I2,Palermo,Benevento,US Palermo – Benevento,I2,⚡ Tier 5 — Aşırı risk (kısa kesin skor),2-1,0.10115985175569883,7.58,-0.2332083236918029,piyasa,,,,2026-11-28 21:30,,,,,,kadro
