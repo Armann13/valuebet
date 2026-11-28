@@ -2,9 +2,29 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**43/119 tuttu** (isabet %36, beklenen %43) · -20.64 birim
+**43/120 tuttu** (isabet %36, beklenen %43) · -21.64 birim · 3 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 30.11.2026 Pazartesi
+
+**23:15 · Benfica – Famalicao**
+
+- ⏳ 2.5 Alt · @2.52
+
+## 28.11.2026 Cumartesi
+
+**15:30 · Lincoln City – Wolverhampton**
+
+- ❌ MS 2 & KG Var · @3.36 · 0-0
+
+**19:00 · Gaziantep FK – Amed Sportif Faaliyetler**
+
+- ⏳ MS 2 & 2.5 Üst · @3.13
+
+**22:45 · Lommel SK – Zulte Waregem**
+
+- ⏳ MS 1 & 2.5 Üst · @3.84
 
 ## 22.11.2026 Pazar
 

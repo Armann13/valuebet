@@ -2,9 +2,20 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**22/181 tuttu** (isabet %12, beklenen %12) · +193.48 birim · 66 tahmin sonuç bekliyor
+**22/182 tuttu** (isabet %12, beklenen %12) · +192.48 birim · 71 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 11:02 gönderilen kupon · 6 maç, oran 3.206.039,59
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 28.11 15:30 Lincoln City – Wolverhampton · İY/MS 1/2 · @24.45
+- ⏳ 28.11 18:00 Boreham Wood – Gateshead · İY/MS 2/1 · @21.55
+- ⏳ 28.11 19:00 Gaziantep FK – Amed Sportif Faaliyetler · MS 2 & 2.5 Üst · @3.13
+- ⏳ 28.11 20:30 Elche – Atletico Madrid · İY/MS 1/2 · @21.05
+- ⏳ 28.11 22:45 Lommel SK – Zulte Waregem · MS 1 & 2.5 Üst · @3.84
+- ⏳ 29.11 18:00 Atromitos – Panathinaikos · İY/MS 1/2 · @24.05
 
 ## 27.11 15:43 gönderilen kupon · 4 maç, oran 177.028,30
 

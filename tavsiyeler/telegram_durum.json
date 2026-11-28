@@ -1,5 +1,5 @@
 {
- "son_ozet": "2026-11-28 08",
+ "son_ozet": "2026-11-28 18",
  "gonderilen": [
   "2026-10-04|Castellon – AD Ceuta|2.5 Alt",
   "2026-10-10|Ajax – NEC Nijmegen|2.5 Alt",
@@ -120,9 +120,18 @@
   "2026-11-22|Lorient – Rennes|2.5 Üst",
   "2026-11-22|Olympiacos – POT Iraklis|2.5 Alt",
   "2026-11-22|Paris – Angers|2.5 Alt",
+  "2026-11-28|AE Kifisia FC – PAE PS Kalamata|MS 1 & KG Var",
+  "2026-11-28|Cercle Brugge – Mechelen|MS 1 & 2.5 Üst",
+  "2026-11-28|Cercle Brugge – Mechelen|MS 1 & KG Var",
+  "2026-11-28|Elche – Atletico Madrid|MS 2 & KG Var",
+  "2026-11-28|Gaziantep FK – Amed Sportif Faaliyetler|2.5 Üst",
+  "2026-11-28|Gaziantep FK – Amed Sportif Faaliyetler|MS 2",
   "2026-11-28|Gaziantep FK – Amed Sportif Faaliyetler|MS 2 & 2.5 Üst",
   "2026-11-28|Lincoln City – Wolverhampton|MS 2 & KG Var",
   "2026-11-28|Lommel SK – Zulte Waregem|MS 1 & 2.5 Üst",
+  "2026-11-28|Paris Saint Germain – Lorient|KG Var",
+  "2026-11-28|Paris Saint Germain – Lorient|MS 1 & KG Var",
+  "2026-11-28|SC Cambuur – Sparta Rotterdam|MS 2",
   "2026-11-30|Benfica – Famalicao|2.5 Alt"
  ],
  "sonuc_gonderilen": [
@@ -183,10 +192,6 @@
   "2026-11-27"
  ],
  "kuponlar": [
-  "2️⃣|Türkiye – Belçika:MS 2 & 2.5 Üst|Çekya – İspanya:MS 2 & KG Var",
-  "3️⃣|Fildişi Sahili – Gambiya:MS 1 & KG Var|İngiltere – Hırvatistan:MS 1 & KG Var|İtalya – Fransa:MS 2 & KG Var",
-  "🎲|Karadağ – Letonya:İY/MS 2/1|Çekya – İspanya:İY/MS 1/2|İngiltere – Hırvatistan:İY/MS 2/1|İtalya – Fransa:İY/MS 1/2",
-  "2️⃣|Türkiye – Belçika:MS 2 & 2.5 Üst|İngiltere – Hırvatistan:MS 1 & KG Var",
   "3️⃣|Fildişi Sahili – Gambiya:MS 1 & KG Var|Karadağ – Letonya:MS 1 & KG Var|Çekya – İspanya:MS 2 & KG Var",
   "🎲|Karadağ – Letonya:İY/MS 2/1|Türkiye – Belçika:İY/MS 1/2|Çekya – İspanya:İY/MS 1/2|İngiltere – Hırvatistan:İY/MS 2/1",
   "2️⃣|Sırbistan – Almanya:MS 2 & KG Var|İngiltere – Hırvatistan:MS 1 & KG Var",
@@ -282,6 +287,10 @@
   "4️⃣|Millwall – Burnley:En çok korner 2|Paris Saint Germain – Lorient:MS 1 & KG Var|Rangers – Falkirk:MS 1 & KG Var|US Palermo – Benevento:En çok korner 2",
   "3️⃣|B. Dortmund – B. Leverkusen:En çok korner 2|Charleroi – SK Beveren:En çok korner 2|Gaziantep FK – Amed Sportif Faaliyetler:MS 2 & 2.5 Üst",
   "4️⃣|Eyüpspor – Başakşehir:En çok korner 1|Lincoln City – Wolverhampton:MS 2 & KG Var|Preston – Norwich City:En çok korner 1|Çorum FK – Kocaelispor:En çok korner 2",
-  "🎲|Atromitos – Panathinaikos:İY/MS 1/2|Boreham Wood – Gateshead:İY/MS 2/1|Elche – Atletico Madrid:İY/MS 1/2|Gaziantep FK – Amed Sportif Faaliyetler:MS 2 & 2.5 Üst|Lincoln City – Wolverhampton:İY/MS 1/2|Lommel SK – Zulte Waregem:MS 1 & 2.5 Üst"
+  "🎲|Atromitos – Panathinaikos:İY/MS 1/2|Boreham Wood – Gateshead:İY/MS 2/1|Elche – Atletico Madrid:İY/MS 1/2|Gaziantep FK – Amed Sportif Faaliyetler:MS 2 & 2.5 Üst|Lincoln City – Wolverhampton:İY/MS 1/2|Lommel SK – Zulte Waregem:MS 1 & 2.5 Üst",
+  "2️⃣|Gaziantep FK – Amed Sportif Faaliyetler:MS 2|Osnabruck – Hannover 96:En çok korner 2",
+  "3️⃣|Cercle Brugge – Mechelen:MS 1 & 2.5 Üst|Elche – Atletico Madrid:MS 2 & KG Var|Paris Saint Germain – Lorient:MS 1 & KG Var",
+  "4️⃣|B. Dortmund – B. Leverkusen:En çok korner 2|Brighton – Newcastle United:En çok korner 2|Charleroi – SK Beveren:En çok korner 2|SC Cambuur – Sparta Rotterdam:MS 2",
+  "🎲|Atromitos – Panathinaikos:İY/MS 1/2|Elche – Atletico Madrid:İY/MS 1/2|Gaziantep FK – Amed Sportif Faaliyetler:MS 2 & 2.5 Üst|Lommel SK – Zulte Waregem:MS 1 & 2.5 Üst|Paris Saint Germain – Lorient:İY/MS 2/1|SC Cambuur – Sparta Rotterdam:İY/MS 1/2"
  ]
 }

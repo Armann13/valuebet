@@ -2,9 +2,18 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**58/158 tuttu** (isabet %37, beklenen %37) · -0.10 birim · 10 tahmin sonuç bekliyor
+**58/160 tuttu** (isabet %36, beklenen %37) · -2.10 birim · 12 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 11:02 gönderilen kupon · 4 maç, oran 85,35
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ❌ 28.11 15:30 Lincoln City – Wolverhampton · MS 2 & KG Var · @3.36 · 0-0
+- ❌ 28.11 15:30 Preston – Norwich City · En çok korner 1 · @3.03 · korner 2-13
+- ⏳ 29.11 13:30 Çorum FK – Kocaelispor · En çok korner 2 · @2.67
+- ⏳ 29.11 16:00 Eyüpspor – Başakşehir · En çok korner 1 · @3.14
 
 ## 27.11 20:04 gönderilen kupon · 4 maç, oran 31,17
 

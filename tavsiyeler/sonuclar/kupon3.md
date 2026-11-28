@@ -2,15 +2,23 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**41/126 tuttu** (isabet %33, beklenen %39) · -19.79 birim · 6 tahmin sonuç bekliyor
+**41/127 tuttu** (isabet %32, beklenen %39) · -20.79 birim · 8 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 28.11 11:02 gönderilen kupon · 3 maç, oran 23,23
+
+sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
+
+- ⏳ 28.11 19:00 Gaziantep FK – Amed Sportif Faaliyetler · MS 2 & 2.5 Üst · @3.13
+- ⏳ 28.11 22:45 Charleroi – SK Beveren · En çok korner 2 · @2.91
+- ⏳ 29.11 21:30 B. Dortmund – B. Leverkusen · En çok korner 2 · @2.55
 
 ## 27.11 15:43 gönderilen kupon · 3 maç, oran 21,78
 
 sonuç bekleniyor (0 maç tuttu, diğerleri ⏳)
 
-- ⏳ 28.11 15:30 Preston – Norwich City · En çok korner 1 · @3.03
+- ❌ 28.11 15:30 Preston – Norwich City · En çok korner 1 · @3.03 · korner 2-13
 - ⏳ 28.11 18:00 Wrexham – Portsmouth · En çok korner 2 · @2.47
 - ⏳ 28.11 22:45 Charleroi – SK Beveren · En çok korner 2 · @2.91
 

@@ -2,19 +2,25 @@
 
 [← Tüm sonuçlar](../sonuclar.md)
 
-**19/117 tuttu** (isabet %16, beklenen %16) · -11.85 birim · 7 tahmin sonuç bekliyor
+**19/119 tuttu** (isabet %16, beklenen %16) · -13.85 birim · 6 tahmin sonuç bekliyor
 
 <i>✅ tuttu · ❌ tutmadı · ⏳ sonuç bekleniyor · 🚫 iptal (hesaba girmez) · ↳ bir üst seviyedeki tahminin aynı maçta devamı · @ İddaa oranı</i>
+
+## 29.11.2026 Pazar
+
+**18:00 · Atromitos – Panathinaikos**
+
+- ⏳ 1-2 · @6.45
 
 ## 28.11.2026 Cumartesi
 
 **15:30 · AFC Fylde – Aldershot**
 
-- ⏳ 2-1 · @6.70
+- ❌ 2-1 · @6.70 · 0-1
 
 **17:00 · Frosinone – Parma**
 
-- ⏳ 2-1 · @7.48
+- ❌ 2-1 · @7.48 · 3-0
 
 **18:00 · Stockport – Leyton Orient**
 
